@@ -8,6 +8,10 @@ This is a public mapping of server IPs <-> a pretty display name. This data is u
 
 Please feel free to open a PR against `servers.json` in this repository, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next hour.
 
+## Restrictions
+
+We ask that this repository is only used to store mappings for *public* Minecraft servers. Some server IPs, such as private SMPs, tournament servers, etc. should not be listed in this repository, out of respect for privacy.
+
 ## Can I use this data for ___?
 
 Go for it.
