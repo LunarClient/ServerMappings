@@ -1,0 +1,24 @@
+{
+    "type": "array",
+    "uniqueItems": true,
+    "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "name", "addresses"],
+        "properties": {
+            "id": {
+                "type": "string"
+            },
+            "name": {
+                "type": "string"
+            },
+            "addresses": {
+                "type": "array",
+                "uniqueItems": true,
+                "items": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}
