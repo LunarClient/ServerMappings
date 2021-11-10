@@ -1,0 +1,683 @@
+[
+    {
+        "id": "survivalgamescz",
+        "name": "Survival-Games.cz",
+        "addresses": [
+            "survival-games.cz"
+        ]
+    },
+    {
+        "id": "jailmc",
+        "name": "JailMC",
+        "addresses": [
+            "jailmc.com"
+        ]
+    },
+    {
+        "id": "sololegends",
+        "name": "SoloLegends.net",
+        "addresses": [
+            "sololegends.net"
+        ]
+    },
+    {
+        "id": "cubehard",
+        "name": "Cubehard",
+        "addresses": [
+            "cubehard.net"
+        ]
+    },
+    {
+        "id": "domei.eu",
+        "name": "Domei",
+        "addresses": [
+            "domei.eu"
+        ]
+    },
+    {
+        "id": "craftplay",
+        "name": "CraftPlay",
+        "addresses": [
+            "craftplay.pl"
+        ]
+    },
+    {
+        "id": "tecnocraft",
+        "name": "TecnoCraft.net",
+        "addresses": [
+            "tecnocraft.net"
+        ]
+    },
+    {
+        "id": "bridgerland",
+        "name": "Bridger Land",
+        "addresses": [
+            "bridger.land"
+        ]
+    },
+    {
+        "id": "mineclub",
+        "name": "MineClub",
+        "addresses": [
+            "mineclub.com"
+        ]
+    },
+    {
+        "id": "pvpland",
+        "name": "PvP Land",
+        "addresses": [
+            "pvp.land"
+        ]
+    },
+    {
+        "id": "invadedlands",
+        "name": "InvadedLands",
+        "addresses": [
+            "invadedlands.net"
+        ]
+    },
+    {
+        "id": "goldenuhc",
+        "name": "GoldenUHC.eu",
+        "addresses": [
+            "goldenuhc.eu"
+        ]
+    },
+    {
+        "id": "mcplayhd",
+        "name": "McPlayHD",
+        "addresses": [
+            "mcplayhd.net"
+        ]
+    },
+    {
+        "id": "mcgamer",
+        "name": "MCGamer",
+        "addresses": [
+            "mcgamer.net"
+        ]
+    },
+    {
+        "id": "hycraft",
+        "name": "HyCraft Network",
+        "addresses": [
+            "hycraft.us"
+        ]
+    },
+    {
+        "id": "silexpvp",
+        "name": "Silex Network",
+        "addresses": [
+            "silexpvp.net"
+        ]
+    },
+    {
+        "id": "mythicnetwork",
+        "name": "Mythic Network",
+        "addresses": [
+            "ausheroes.net",
+            "mythic.gg"
+        ]
+    },
+    {
+        "id": "syuu",
+        "name": "Syuu",
+        "addresses": [
+            "syuu.net"
+        ]
+    },
+    {
+        "id": "coldnetwork",
+        "name": "ColdNetwork",
+        "addresses": [
+            "coldnetwork.net"
+        ]
+    },
+    {
+        "id": "chocolia",
+        "name": "Chocolia",
+        "addresses": [
+            "chocolia.eu"
+        ]
+    },
+    {
+        "id": "cavepvp",
+        "name": "CavePvP",
+        "addresses": [
+            "cavepvp.org"
+        ]
+    },
+    {
+        "id": "redesky",
+        "name": "Rede Sky",
+        "addresses": [
+            "redesky.com",
+            "redesky.gg"
+        ]
+    },
+    {
+        "id": "flamemc",
+        "name": "FlameMC",
+        "addresses": [
+            "flamemc.com.br"
+        ]
+    },
+    {
+        "id": "glancenetwork",
+        "name": "Glance Network",
+        "addresses": [
+            "glance.top"
+        ]
+    },
+    {
+        "id": "kokscraft",
+        "name": "KoksCraft.pl",
+        "addresses": [
+            "kokscraft.pl"
+        ]
+    },
+    {
+        "id": "erisium",
+        "name": "Erisium",
+        "addresses": [
+            "erisium.com"
+        ]
+    },
+    {
+        "id": "yolomc",
+        "name": "YoloMC",
+        "addresses": [
+            "yolomc.com",
+            "yolomc.com.br"
+        ]
+    },
+    {
+        "id": "minemenclub",
+        "name": "Minemen Club",
+        "addresses": [
+            "minemen.club",
+            "mineman.club"
+        ]
+    },
+    {
+        "id": "loverfella",
+        "name": "Loverfella",
+        "addresses": [
+            "play.loverfella.com"
+        ]
+    },
+    {
+        "id": "hypixel",
+        "name": "Hypixel",
+        "addresses": [
+            "hypixel.net"
+        ]
+    },
+    {
+        "id": "bedwarspractice",
+        "name": "Bedwars Practice",
+        "addresses": [
+            "bedwarspractice.club"
+        ]
+    },
+    {
+        "id": "arcane",
+        "name": "Arcane Network",
+        "addresses": [
+            "arcane.cc"
+        ]
+    },
+    {
+        "id": "minejunkie",
+        "name": "MineJunkie",
+        "addresses": [
+            "minejunkie.com"
+        ]
+    },
+    {
+        "id": "dynamicpvp",
+        "name": "Dynamic Network",
+        "addresses": [
+            "dynamicpvp.net"
+        ]
+    },
+    {
+        "id": "herobrineorg",
+        "name": "Herobrine.org",
+        "addresses": [
+            "herobrine.org"
+        ]
+    },
+    {
+        "id": "occ",
+        "name": "Overcast Community",
+        "addresses": [
+            "oc.tc"
+        ]
+    },
+    {
+        "id": "astralmc",
+        "name": "AstralMC",
+        "addresses": [
+            "astralmc.cc"
+        ]
+    },
+    {
+        "id": "kwadratowagames",
+        "name": "Kwadratowa Games",
+        "addresses": [
+            "kwadratowa.games"
+        ]
+    },
+    {
+        "id": "veltpvp",
+        "name": "VeltPvP",
+        "addresses": [
+            "veltpvp.com"
+        ]
+    },
+    {
+        "id": "akumamc",
+        "name": "AkumaMC",
+        "addresses": [
+            "akumamc.net"
+        ]
+    },
+    {
+        "id": "shotbow",
+        "name": "Shotbow",
+        "addresses": [
+            "shotbow.net"
+        ]
+    },
+    {
+        "id": "sagepvp",
+        "name": "SagePvP",
+        "addresses": [
+            "sagepvp.org"
+        ]
+    },
+    {
+        "id": "qplay",
+        "name": "QPlay",
+        "addresses": [
+            "qplay.cz"
+        ]
+    },
+    {
+        "id": "feargames",
+        "name": "FearGames",
+        "addresses": [
+            "feargames.it"
+        ]
+    },
+    {
+        "id": "jartexnetwork",
+        "name": "JartexNetwork",
+        "addresses": [
+            "jartexnetwork.com"
+        ]
+    },
+    {
+        "id": "mineplex",
+        "name": "Mineplex",
+        "addresses": [
+            "mineplex.com"
+        ]
+    },
+    {
+        "id": "minehut",
+        "name": "Minehut Server",
+        "addresses": [
+            "minehut.com"
+        ]
+    },
+    {
+        "id": "rinaorc",
+        "name": "Rinaorc",
+        "addresses": [
+            "rinaorc.com"
+        ]
+    },
+    {
+        "id": "coralmc",
+        "name": "CoralMC",
+        "addresses": [
+            "coralmc.it"
+        ]
+    },
+    {
+        "id": "backplay",
+        "name": "BackPlay",
+        "addresses": [
+            "backplay.net"
+        ]
+    },
+    {
+        "id": "cubecraft",
+        "name": "CubeCraft Games",
+        "addresses": [
+            "cubecraft.net"
+        ]
+    },
+    {
+        "id": "greeveu",
+        "name": "Greev.eu",
+        "addresses": [
+            "greev.eu"
+        ]
+    },
+    {
+        "id": "skycraftcombr",
+        "name": "SkyCraft Network",
+        "addresses": [
+            "skycraft.com.br"
+        ]
+    },
+    {
+        "id": "antiac",
+        "name": "AntiAC",
+        "addresses": [
+            "antiac.net"
+        ]
+    },
+    {
+        "id": "virtualplanet",
+        "name": "VirtualPlanet",
+        "addresses": [
+            "virtualplanet.es"
+        ]
+    },
+    {
+        "id": "skillwars",
+        "name": "SkillWars Network",
+        "addresses": [
+            "skillwars.us"
+        ]
+    },
+    {
+        "id": "ghostlynetwork",
+        "name": "Ghostly Network",
+        "addresses": [
+            "gamefack.me",
+            "gamefack.us",
+            "ghostly.live"
+        ]
+    },
+    {
+        "id": "vipermc",
+        "name": "ViperMC",
+        "addresses": [
+            "mcteams.com",
+            "viperhcf.com",
+            "viperhcf.net",
+            "vipermc.com",
+            "vipermc.net"
+        ]
+    },
+    {
+        "id": "hylex",
+        "name": "HYLEX.net",
+        "addresses": [
+            "hylex.net"
+        ]
+    },
+    {
+        "id": "zonecraft",
+        "name": "ZoneCraft Network",
+        "addresses": [
+            "zonecraft.es"
+        ]
+    },
+    {
+        "id": "pvpgym",
+        "name": "PvPGym",
+        "addresses": [
+            "pvpgym.net"
+        ]
+    },
+    {
+        "id": "sydaria",
+        "name": "Sydaria",
+        "addresses": [
+            "sydaria.fr"
+        ]
+    },
+    {
+        "id": "gamster",
+        "name": "Gamster.org",
+        "addresses": [
+            "gamster.org"
+        ]
+    },
+    {
+        "id": "thearchon",
+        "name": "TheArchon",
+        "addresses": [
+            "thearchon.net"
+        ]
+    },
+    {
+        "id": "dragonsurvival",
+        "name": "DragonSurvival.EU",
+        "addresses": [
+            "dragon-survival.eu",
+            "dragonsurvival.eu"
+        ]
+    },
+    {
+        "id": "faithfulmc",
+        "name": "FaithfulMC",
+        "addresses": [
+            "faithfulhcf.com",
+            "faithfulmc.com"
+        ]
+    },
+    {
+        "id": "uhcarcade",
+        "name": "UHC Arcade",
+        "addresses": [
+            "glade.gg",
+            "uhcarcade.com"
+        ]
+    },
+    {
+        "id": "munchymc",
+        "name": "MunchyMC",
+        "addresses": [
+            "munchymc.com",
+            "kitpvp.us"
+        ]
+    },
+    {
+        "id": "wynncraft",
+        "name": "Wynncraft",
+        "addresses": [
+            "wynncraft.com"
+        ]
+    },
+    {
+        "id": "onlymc",
+        "name": "OnlyMC Network",
+        "addresses": [
+            "onlymc.us"
+        ]
+    },
+    {
+        "id": "pvplegacy",
+        "name": "PvP Legacy",
+        "addresses": [
+            "pvplegacy.net",
+            "play.pvplegacy.net"
+        ]
+    },
+    {
+        "id": "hadaria",
+        "name": "Hadaria",
+        "addresses": [
+            "hadaria.fr"
+        ]
+    },
+    {
+        "id": "mush",
+        "name": "MushMC",
+        "addresses": [
+            "mushmc.com",
+            "mush.com.br",
+            "mushmc.com.br"
+        ]
+    },
+    {
+        "id": "gommehd",
+        "name": "GommeHD",
+        "addresses": [
+            "gommehd.net"
+        ]
+    },
+    {
+        "id": "universocraft",
+        "name": "UniversoCraft",
+        "addresses": [
+            "universocraft.com"
+        ]
+    },
+    {
+        "id": "octc",
+        "name": "Overcast Community",
+        "addresses": [
+            "oc.tc"
+        ]
+    },
+    {
+        "id": "watermc",
+        "name": "WaterMC",
+        "addresses": [
+            "watermc.gg"
+        ]
+    },
+    {
+        "id": "hazelmc",
+        "name": "Hazel MC",
+        "addresses": [
+            "hazelmc.com"
+        ]
+    },
+    {
+        "id": "mcprison",
+        "name": "MCPrison",
+        "addresses": [
+            "mcprison.com"
+        ]
+    },
+    {
+        "id": "fruskygames",
+        "name": "FruskyGames",
+        "addresses": [
+            "fruskygames.net",
+            "fruskygames.nl"
+        ]
+    },
+    {
+        "id": "luckynetwork",
+        "name": "Lucky Network",
+        "addresses": [
+            "luckynetwork.net"
+        ]
+    },
+    {
+        "id": "librecraft",
+        "name": "LibreCraft.com",
+        "addresses": [
+            "librecraft.com"
+        ]
+    },
+    {
+        "id": "freakyville",
+        "name": "FreakyVille",
+        "addresses": [
+            "freakyville.net"
+        ]
+    },
+    {
+        "id": "uhchub",
+        "name": "UHCHub",
+        "addresses": [
+            "uhchub.club",
+            "uhchub.eu"
+        ]
+    },
+    {
+        "id": "holyhcf",
+        "name": "Holy Network",
+        "addresses": [
+            "eaglehcf.com",
+            "holyh.cf",
+            "holypvp.net",
+            "watermc.gg"
+        ]
+    },
+    {
+        "id": "tropical",
+        "name": "Tropical",
+        "addresses": [
+            "tropical.gg"
+        ]
+    },
+    {
+        "id": "lunarnetwork",
+        "name": "Lunar Network",
+        "addresses": [
+            "lunar.gg",
+            "lunargg.dev"
+        ]
+    },
+    {
+        "id": "skyblockisles",
+        "name": "SkyblockIsles.com",
+        "addresses": [
+            "skyblockisles.com"
+        ]
+    },
+    {
+        "id": "blocksmc",
+        "name": "BlocksMC",
+        "addresses": [
+            "blocksmc.com"
+        ]
+    },
+    {
+        "id": "pikanetwork",
+        "name": "PikaNetwork",
+        "addresses": [
+            "pika-network.net"
+        ]
+    },
+    {
+        "id": "hivemc",
+        "name": "HiveMC",
+        "addresses": [
+            "hivemc.com"
+        ]
+    },
+    {
+        "id": "tabmc",
+        "name": "TabMC.pl",
+        "addresses": [
+            "tabmc.pl"
+        ]
+    },
+    {
+        "id": "pandakmc",
+        "name": "PandakMC",
+        "addresses": [
+            "pandakmc.fr"
+        ]
+    },
+    {
+        "id": "mcmanhunt",
+        "name": "MCManHunt.com",
+        "addresses": [
+            "mcmanhunt.com"
+        ]
+    }
+]
