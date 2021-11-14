@@ -672,5 +672,12 @@
         "addresses": [
             "mcmanhunt.com"
         ]
+    },
+    {
+        "id": "pvparcade",
+        "name": "PvPArcade",
+        "addresses": [
+            "pvparcade.gg"
+        ]
     }
 ]
