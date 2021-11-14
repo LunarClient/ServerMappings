@@ -679,5 +679,12 @@
         "addresses": [
             "pvparcade.gg"
         ]
+    },
+    {
+        "id": "inertianetwork",
+        "name": "Inertia Network",
+        "addresses": [
+            "inertia.gg"
+        ]
     }
 ]
