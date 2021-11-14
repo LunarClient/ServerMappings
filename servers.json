@@ -707,5 +707,12 @@
         "addresses": [
             "crotus.cc"
         ]
+    },
+    {
+        "id": "pvpbar",
+        "name": "PvPBar",
+        "addresses": [
+            "pvp.bar"
+        ]
     }
 ]
