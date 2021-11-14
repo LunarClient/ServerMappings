@@ -353,6 +353,13 @@
             "cubecraft.net"
         ]
     },
+        {
+        "id": "minerip",
+        "name": "MineRIP",
+        "addresses": [
+            "mine.rip"
+        ]
+    },
     {
         "id": "greeveu",
         "name": "Greev.eu",
