@@ -686,5 +686,12 @@
         "addresses": [
             "inertia.gg"
         ]
+    },
+    {
+        "id": "crotus",
+        "name": "Crotus",
+        "addresses": [
+            "crotus.cc"
+        ]
     }
 ]
