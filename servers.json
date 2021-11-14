@@ -355,9 +355,16 @@
     },
         {
         "id": "minerip",
-        "name": "MineRIP",
+        "name": "MineRIP Network",
         "addresses": [
             "mine.rip"
+        ]
+    },
+            {
+        "id": "hyzeria",
+        "name": "Hyzeria Network",
+        "addresses": [
+            "hyzeria.net"
         ]
     },
     {
