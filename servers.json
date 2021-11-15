@@ -715,4 +715,11 @@
             "pvp.bar"
         ]
     }
+     {
+        "id": "aplaxy",
+        "name": "Aplaxy Network",
+        "addresses": [
+            "aplaxy.netr"
+        ]
+    }
 ]
