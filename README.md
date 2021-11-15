@@ -6,7 +6,7 @@ This is a public mapping of server IPs <-> a pretty display name. This data is u
 
 ## How do I add/update/remove a server?
 
-Please feel free to open a PR against `servers.json` in this repository, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next hour.
+Please feel free to open a PR against `servers.json` in this repository, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes.
 
 ## Restrictions
 
