@@ -714,5 +714,12 @@
         "addresses": [
             "pvp.bar"
         ]
+    },
+    {
+        "id": "lynxmc",
+        "name": "LynxMC Network",
+        "addresses": [
+            "mc.lynxmc.ga"
+        ]
     }
 ]
