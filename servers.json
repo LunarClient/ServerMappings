@@ -721,5 +721,13 @@
         "addresses": [
             "mc.lynxmc.ga"
         ]
+    },
+    
+    {
+        "id": "tempest",
+        "name": "Tempest Network",
+        "addresses": [
+            "play.tempest.wtf"
+        ]
     }
 ]
