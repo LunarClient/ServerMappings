@@ -722,4 +722,11 @@
             "mc.lynxmc.ga"
         ]
     }
+    {
+        "id": "aripvp",
+        "name": "AriPvP Network",
+        "addresses": [
+            "eu.aripvp.club"
+        ]
+    }
 ]
