@@ -1,5 +1,12 @@
 [
     {
+        "id": "edenmine",
+        "name": "EdenMine Network",
+        "addresses": [
+            "edenmine.eu"
+        ]
+    },
+    {
         "id": "survivalgamescz",
         "name": "Survival-Games.cz",
         "addresses": [
