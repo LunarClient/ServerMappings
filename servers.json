@@ -721,5 +721,12 @@
         "addresses": [
             "mc.lynxmc.ga"
         ]
+    },
+    {
+        "id": "CrowlMC",
+        "name": "Crowl Network",
+        "addresses": [
+            "crowl.club"
+        ]
     }
 ]
