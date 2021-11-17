@@ -1,11 +1,9 @@
 [
     {
         "id": "edenmine",
-        "name": "mc.edenmine.eu",
+        "name": "EdenMine Network",
         "addresses": [
-            "edenmine.eu",
-            "mc.edenmine.eu",
-            "play.edenmine.eu"
+            "edenmine.eu"
         ]
     },
     {
