@@ -728,5 +728,12 @@
         "addresses": [
             "mc.lynxmc.ga"
         ]
+    },
+	{
+        "id": "potpvpbrazil",
+        "name": "PotPvP Brazil",
+        "addresses": [
+            "potpvp.com.br"
+        ]
     }
 ]
