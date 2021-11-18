@@ -723,6 +723,13 @@
         ]
     },
     {
+        "id": "vexor",
+        "name": "Vexor Network",
+        "addresses": [
+            "vexor.cc"
+        ]
+    },
+    {
         "id": "lynxmc",
         "name": "LynxMC Network",
         "addresses": [
