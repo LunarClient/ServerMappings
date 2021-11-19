@@ -788,5 +788,12 @@
         "addresses": [
             "originrealms.com"
         ]
+    },
+    {
+        "id": "beastmc",
+        "name": "Beast MC",
+        "addresses": [
+            "beastmc.net"
+        ]
     }
 ]
