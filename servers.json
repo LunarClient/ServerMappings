@@ -746,5 +746,13 @@
         "addresses": [
             "ultimismc.com"
         ]
+    },
+    {
+        "id": "ognetwork",
+        "name": "OG Network",
+        "addresses": [
+            "og-network.net",
+            "og-sg.net"
+        ]
     }
 ]
