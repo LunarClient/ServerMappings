@@ -745,6 +745,19 @@
         "name": "PotPvP Brazil",
         "addresses": [
             "potpvp.com.br"
+    },
+    {
+        "id": "tempest",
+        "name": "Tempest Network",
+        "addresses": [
+            "play.tempest.wtf"
+        ]
+    },
+    {
+        "id": "CrowlMC",
+        "name": "Crowl Network",
+        "addresses": [
+            "crowl.club"
         ]
     },
     {
@@ -752,6 +765,34 @@
         "name": "UltimisMC Network",
         "addresses": [
             "ultimismc.com"
+        ]
+    },
+    {
+        "id": "introublede",
+        "name": "InTroubleDE",
+        "addresses": [
+            "introuble.de"
+        ]
+    },
+    {
+        "id": "timolia",
+        "name": "Timolia",
+        "addresses": [
+            "play.timolia.de"
+        ]
+    },
+    {
+        "id": "mineglobe",
+        "name": "MineGlobe Network",
+        "addresses": [
+            "play.mineglobe.org"
+        ]
+    },
+    {
+        "id": "originrealms",
+        "name": "Origin Realms",
+        "addresses": [
+            "originrealms.com"
         ]
     }
 ]
