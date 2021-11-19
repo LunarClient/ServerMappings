@@ -788,5 +788,12 @@
         "addresses": [
             "originrealms.com"
         ]
-    }
+    },
+    {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
 ]
