@@ -739,5 +739,12 @@
         "addresses": [
             "mc.lynxmc.ga"
         ]
+    },
+    {
+        "id": "ultimismc",
+        "name": "UltimisMC Network",
+        "addresses": [
+            "ultimismc.com"
+        ]
     }
 ]
