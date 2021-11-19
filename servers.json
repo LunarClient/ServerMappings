@@ -741,6 +741,13 @@
         ]
     },
     {
+        "id": "tempest",
+        "name": "Tempest Network",
+        "addresses": [
+            "play.tempest.wtf"
+        ]
+    },
+    {
         "id": "CrowlMC",
         "name": "Crowl Network",
         "addresses": [
