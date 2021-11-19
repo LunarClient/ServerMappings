@@ -762,6 +762,13 @@
         ]
     },
     {
+        "id": "timolia",
+        "name": "Timolia",
+        "addresses": [
+            "play.timolia.de"
+        ]
+    },
+    {
         "id": "mineglobe",
         "name": "MineGlobe Network",
         "addresses": [
