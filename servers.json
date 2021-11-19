@@ -746,5 +746,12 @@
         "addresses": [
             "ultimismc.com"
         ]
+    },
+    {
+        "id": "timolia",
+        "name": "Timolia",
+        "addresses": [
+            "play.timolia.de"
+        ]
     }
 ]
