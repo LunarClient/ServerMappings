@@ -746,5 +746,12 @@
         "addresses": [
             "ultimismc.com"
         ]
+    },
+    {
+        "id": "mineglobe",
+        "name": "MineGlobe Network",
+        "addresses": [
+            "play.mineglobe.org"
+        ]
     }
 ]
