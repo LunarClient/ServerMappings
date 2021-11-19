@@ -87,7 +87,9 @@
         "id": "invadedlands",
         "name": "InvadedLands",
         "addresses": [
-            "invadedlands.net"
+            "invadedlands.net",
+            "skeppylovesflipflops.xyz",
+            "pvplands.net"
         ]
     },
     {
@@ -210,7 +212,9 @@
         "name": "Minemen Club",
         "addresses": [
             "minemen.club",
-            "mineman.club"
+            "mineman.club",
+            "icantjoinlmfao.club",
+            "euicantjoinlmfao.club"
         ]
     },
     {
@@ -730,10 +734,24 @@
         ]
     },
     {
+        "id": "vexor",
+        "name": "Vexor Network",
+        "addresses": [
+            "vexor.cc"
+        ]
+    },
+    {
         "id": "lynxmc",
         "name": "LynxMC Network",
         "addresses": [
             "mc.lynxmc.ga"
+        ]
+    },
+    {
+        "id": "ultimismc",
+        "name": "UltimisMC Network",
+        "addresses": [
+            "ultimismc.com"
         ]
     }
 ]
