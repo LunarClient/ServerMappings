@@ -762,6 +762,13 @@
         ]
     },
     {
+        "id": "mineglobe",
+        "name": "MineGlobe Network",
+        "addresses": [
+            "play.mineglobe.org"
+        ]
+    },
+    {
         "id": "originrealms",
         "name": "Origin Realms",
         "addresses": [
