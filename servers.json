@@ -788,5 +788,12 @@
         "addresses": [
             "originrealms.com"
         ]
+    },
+    {
+        "id": "suxior",
+        "name": "Suxior Network",
+        "addresses": [
+            "suxior.live"
+        ]
     }
 ]
