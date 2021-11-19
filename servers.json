@@ -741,6 +741,13 @@
         ]
     },
     {
+        "id": "CrowlMC",
+        "name": "Crowl Network",
+        "addresses": [
+            "crowl.club"
+        ]
+    },
+    {
         "id": "ultimismc",
         "name": "UltimisMC Network",
         "addresses": [
