@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "ukiyo",
+        "name": "Ukiyo",
+        "addresses": [
+            "ukiyomc.com"
+        ]
+    },
+    {
         "id": "survivalgamescz",
         "name": "Survival-Games.cz",
         "addresses": [
