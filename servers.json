@@ -746,5 +746,12 @@
         "addresses": [
             "ultimismc.com"
         ]
+    },
+    {
+        "id": "originrealms",
+        "name": "Origin Realms",
+        "addresses": [
+            "originrealms.com"
+        ]
     }
 ]
