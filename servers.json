@@ -21,6 +21,13 @@
         ]
     },
     {
+        "id": "neptuniummc",
+        "name": "NeptuniumMC Italia",
+        "addresses": [
+            "play.neptuniummc.ml"
+        ]    
+    },
+    {
         "id": "sololegends",
         "name": "SoloLegends.net",
         "addresses": [
