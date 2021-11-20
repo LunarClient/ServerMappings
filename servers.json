@@ -788,5 +788,12 @@
         "addresses": [
             "originrealms.com"
         ]
+    },
+    {
+        "id": "ventry",
+        "name": "Ventry Combo",
+        "addresses": [
+            "play.ventry.hu"
+        ]
     }
 ]
