@@ -788,5 +788,12 @@
         "addresses": [
             "originrealms.com"
         ]
+    },
+    {
+        "id": "minelord",
+        "name": "MineLord Network",
+        "addresses": [
+            "minelord.org"
+        ]
     }
 ]
