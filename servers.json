@@ -788,5 +788,14 @@
         "addresses": [
             "originrealms.com"
         ]
+    },
+    {
+        "id": "tillyrip",
+        "name": "Tilly RIP",
+        "addresses": [
+            "tilly.rip",
+            "sweatsunited.com",
+            "lucanius.me"
+        ]
     }
 ]
