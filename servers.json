@@ -788,5 +788,22 @@
         "addresses": [
             "originrealms.com"
         ]
+    },
+    {
+        "id": "fyre",
+        "name": "Fyre",
+        "addresses": [
+            "fyre.cc",
+            "play.fyre.cc"
+        ]
+    },
+    {
+        "id": "minekings",
+        "name": "MineKings",
+        "addresses": [
+            "minekings.org",
+            "play.minekings.org",
+            "mc.minekings.org"
+        ]
     }
 ]
