@@ -14,13 +14,6 @@
         ]
     },
     {
-        "id": "Skirmish"
-        "name": "Skirmish Network",
-        "addresses": [
-            "skirmish.cc"
-        ]
-    },
-    {
         "id": "ukiyo",
         "name": "Ukiyo Network",
         "addresses": [
