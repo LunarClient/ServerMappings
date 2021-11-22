@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "ukiyo",
+        "name": "Ukiyo Network",
+        "addresses": [
+            "ukiyo.rip"
+        ]
+    },
+    {
         "id": "survivalgamescz",
         "name": "Survival-Games.cz",
         "addresses": [
