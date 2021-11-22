@@ -797,6 +797,13 @@
         ]
     },
     {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
+    {
         "id": "beastmc",
         "name": "Beast MC",
         "addresses": [
