@@ -797,6 +797,13 @@
         ]
     },
     {
+        "id": "minelord",
+        "name": "MineLord Network",
+        "addresses": [
+            "minelord.org"
+        ]
+    },
+    {
         "id": "lust",
         "name": "Lust",
         "addresses": [
