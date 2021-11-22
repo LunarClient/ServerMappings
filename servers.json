@@ -802,6 +802,13 @@
         "addresses": [
             "originrealms.com"
         ]
+    },  
+    {
+        "id": "electronmc",
+        "name": "ElectronMC",
+        "addresses": [
+            "electronmc.us"
+        ]
     },
     {
         "id": "frozedclub",
