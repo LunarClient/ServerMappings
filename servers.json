@@ -1,9 +1,23 @@
 [
     {
+        "id": "squidland",
+        "name": "Squid Land | Network",
+        "addresses": [
+            "squid.land"
+        ]
+    },
+    {
         "id": "edenmine",
         "name": "EdenMine Network",
         "addresses": [
             "edenmine.eu"
+        ]
+    },
+    {
+        "id": "ukiyo",
+        "name": "Ukiyo Network",
+        "addresses": [
+            "ukiyo.rip"
         ]
     },
     {
@@ -794,6 +808,34 @@
         "name": "ElectronMC",
         "addresses": [
             "electronmc.us"
+        ]
+    },
+    {
+        "id": "frozedclub",
+        "name": "Frozed Club",
+        "addresses": [
+            "elb1to.me"
+        ]
+    },
+    {
+        "id": "minelord",
+        "name": "MineLord Network",
+        "addresses": [
+            "minelord.org"
+        ]
+    },
+    {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
+    {
+        "id": "beastmc",
+        "name": "Beast MC",
+        "addresses": [
+            "beastmc.net"
         ]
     }
 ]
