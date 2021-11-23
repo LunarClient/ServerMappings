@@ -14,6 +14,16 @@
         ]
     },
     {
+        "id": "baldymc",
+        "name": "BaldyMC",
+        "addresses": [
+            "baldymc.com",
+            "baldymc.xyz",
+            "play.baldymc.com",
+            "play.baldymc.xyz"
+        ]
+    },
+    {
         "id": "ukiyo",
         "name": "Ukiyo Network",
         "addresses": [
