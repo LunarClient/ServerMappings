@@ -837,5 +837,19 @@
         "addresses": [
             "beastmc.net"
         ]
+    },
+    {
+        "id": "vanir",
+        "name": "Vanir Network",
+        "addresses": [
+            "vanir.cc"
+        ]
+    },
+    {
+        "id": "vanir",
+        "name": "Vanir Network",
+        "addresses": [
+            "proxy.vanir.cc"
+        ]
     }
 ]
