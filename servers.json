@@ -837,5 +837,12 @@
         "addresses": [
             "beastmc.net"
         ]
+    },
+    {
+        "id": "kotlinrip",
+        "name": "Kotlin",
+        "addresses": [
+            "kotlin.rip"
+        ]
     }
 ]
