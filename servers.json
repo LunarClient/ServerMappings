@@ -791,6 +791,14 @@
         ]
     },
     {
+        "id": "ognetwork",
+        "name": "OG Network",
+        "addresses": [
+            "og-network.net",
+            "og-sg.net"
+        ]
+    },
+    {
         "id": "introublede",
         "name": "InTroubleDE",
         "addresses": [
