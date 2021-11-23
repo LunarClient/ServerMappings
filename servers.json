@@ -1,9 +1,23 @@
 [
     {
+        "id": "squidland",
+        "name": "Squid Land | Network",
+        "addresses": [
+            "squid.land"
+        ]
+    },
+    {
         "id": "edenmine",
         "name": "EdenMine Network",
         "addresses": [
             "edenmine.eu"
+        ]
+    },
+    {
+        "id": "ukiyo",
+        "name": "Ukiyo Network",
+        "addresses": [
+            "ukiyo.rip"
         ]
     },
     {
@@ -748,7 +762,7 @@
         ]
     },
     {
-        "id": "CrowlMC",
+        "id": "crowlmc",
         "name": "Crowl Network",
         "addresses": [
             "crowl.club"
@@ -789,18 +803,53 @@
             "originrealms.com"
         ]
     },
-	{
-		"id": "vicnix",
-		"name": "Vicnix Network",
-		"addresses": [
-			"vicnix.net"
-		]
-	},
-	{
-		"id": "ghouluhc",
-		"name": "GhoulUHC",
-		"addresses": [
-			"ghouluhc.club"
-		]
-	}
+	  {
+		  "id": "vicnix",
+		  "name": "Vicnix Network",
+		  "addresses": [
+			  "vicnix.net"
+		  ]
+	  },
+	  {
+		  "id": "ghouluhc",
+		  "name": "GhoulUHC",
+		  "addresses": [
+			  "ghouluhc.club"
+		  ]
+    },  
+    {
+        "id": "electronmc",
+        "name": "ElectronMC",
+        "addresses": [
+            "electronmc.us"
+        ]
+    },
+    {
+        "id": "frozedclub",
+        "name": "Frozed Club",
+        "addresses": [
+            "elb1to.me"
+        ]
+    },
+    {
+        "id": "minelord",
+        "name": "MineLord Network",
+        "addresses": [
+            "minelord.org"
+        ]
+    },
+    {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
+    {
+        "id": "beastmc",
+        "name": "Beast MC",
+        "addresses": [
+            "beastmc.net"
+        ]
+    }
 ]
