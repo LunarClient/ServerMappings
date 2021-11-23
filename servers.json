@@ -43,6 +43,13 @@
         ]
     },
     {
+        "id": "neptuniummc",
+        "name": "NeptuniumMC Italia",
+        "addresses": [
+            "neptuniummc.ml"
+        ]    
+    },
+    {
         "id": "sololegends",
         "name": "SoloLegends.net",
         "addresses": [
