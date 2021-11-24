@@ -902,5 +902,12 @@
         "addresses": [
             "legionsmc.org"
         ]
+    },
+    {
+        "id": "muffinized",
+        "name": "Muffinized Network",
+        "addresses": [
+            "muffinized.net"
+        ]
     }
 ]
