@@ -14,6 +14,14 @@
         ]
     },
     {
+        "id": "baldymc",
+        "name": "BaldyMC",
+        "addresses": [
+            "baldymc.com",
+            "baldymc.xyz"
+        ]
+    },
+    {
         "id": "ukiyo",
         "name": "Ukiyo Network",
         "addresses": [
@@ -33,6 +41,13 @@
         "addresses": [
             "jailmc.com"
         ]
+    },
+    {
+        "id": "neptuniummc",
+        "name": "NeptuniumMC Italia",
+        "addresses": [
+            "neptuniummc.ml"
+        ]    
     },
     {
         "id": "sololegends",
@@ -776,6 +791,14 @@
         ]
     },
     {
+        "id": "ognetwork",
+        "name": "OG Network",
+        "addresses": [
+            "og-network.net",
+            "og-sg.net"
+        ]
+    },
+    {
         "id": "introublede",
         "name": "InTroubleDE",
         "addresses": [
@@ -836,6 +859,13 @@
         "name": "Beast MC",
         "addresses": [
             "beastmc.net"
+        ]
+    },
+    {
+        "id": "kotlinrip",
+        "name": "Kotlin",
+        "addresses": [
+            "kotlin.rip"
         ]
     },
     {
