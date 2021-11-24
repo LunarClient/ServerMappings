@@ -404,14 +404,9 @@
         "id": "minerip",
         "name": "MineRIP Network",
         "addresses": [
-            "mine.rip"
-        ]
-    },
-    {
-        "id": "hyzeria",
-        "name": "Hyzeria Network",
-        "addresses": [
-            "hyzeria.net"
+            "mine.rip",
+            "hyzeria.com"
+            
         ]
     },
     {
@@ -759,7 +754,9 @@
         "id": "pvpbar",
         "name": "PvPBar",
         "addresses": [
-            "pvp.bar"
+            "pvp.bar",
+            "eu.pvp.bar",
+            "zonix.us"
         ]
     },
     {
