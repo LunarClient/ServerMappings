@@ -1,5 +1,12 @@
 [
     {
+        "id": "squidland",
+        "name": "Squid Land | Network",
+        "addresses": [
+            "squid.land"
+        ]
+    },
+    {
         "id": "edenmine",
         "name": "EdenMine Network",
         "addresses": [
@@ -7,10 +14,25 @@
         ]
     },
     {
-        "id": "ukiyo",
+        "id": "baldymc",
+        "name": "BaldyMC",
+        "addresses": [
+            "baldymc.com",
+            "baldymc.xyz"
+        ]
+    },
+    {
+        "id": "ukiyomc",
         "name": "Ukiyo",
         "addresses": [
             "ukiyomc.com"
+        ]
+    },
+    {
+        "id": "ukiyo",
+        "name": "Ukiyo Network",
+        "addresses": [
+            "ukiyo.rip"
         ]
     },
     {
@@ -26,6 +48,13 @@
         "addresses": [
             "jailmc.com"
         ]
+    },
+    {
+        "id": "neptuniummc",
+        "name": "NeptuniumMC Italia",
+        "addresses": [
+            "neptuniummc.ml"
+        ]    
     },
     {
         "id": "sololegends",
@@ -748,10 +777,102 @@
         ]
     },
     {
+        "id": "tempest",
+        "name": "Tempest Network",
+        "addresses": [
+            "play.tempest.wtf"
+        ]
+    },
+    {
+        "id": "crowlmc",
+        "name": "Crowl Network",
+        "addresses": [
+            "crowl.club"
+        ]
+    },
+    {
         "id": "ultimismc",
         "name": "UltimisMC Network",
         "addresses": [
             "ultimismc.com"
+        ]
+    },
+    {
+        "id": "ognetwork",
+        "name": "OG Network",
+        "addresses": [
+            "og-network.net",
+            "og-sg.net"
+        ]
+    },
+    {
+        "id": "introublede",
+        "name": "InTroubleDE",
+        "addresses": [
+            "introuble.de"
+        ]
+    },
+    {
+        "id": "timolia",
+        "name": "Timolia",
+        "addresses": [
+            "play.timolia.de"
+        ]
+    },
+    {
+        "id": "mineglobe",
+        "name": "MineGlobe Network",
+        "addresses": [
+            "play.mineglobe.org"
+        ]
+    },
+    {
+        "id": "originrealms",
+        "name": "Origin Realms",
+        "addresses": [
+            "originrealms.com"
+        ]
+    },  
+    {
+        "id": "electronmc",
+        "name": "ElectronMC",
+        "addresses": [
+            "electronmc.us"
+        ]
+    },
+    {
+        "id": "frozedclub",
+        "name": "Frozed Club",
+        "addresses": [
+            "elb1to.me"
+        ]
+    },
+    {
+        "id": "minelord",
+        "name": "MineLord Network",
+        "addresses": [
+            "minelord.org"
+        ]
+    },
+    {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
+    {
+        "id": "beastmc",
+        "name": "Beast MC",
+        "addresses": [
+            "beastmc.net"
+        ]
+    },
+    {
+        "id": "kotlinrip",
+        "name": "Kotlin",
+        "addresses": [
+            "kotlin.rip"
         ]
     }
 ]
