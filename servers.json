@@ -874,5 +874,26 @@
         "addresses": [
             "vanir.cc"
         ]
+    },
+    {
+        "id": "fyre",
+        "name": "Fyre Games",
+        "addresses": [
+            "fyre.cc"
+        ]
+    },
+    {
+        "id": "minekings",
+        "name": "MineKings",
+        "addresses": [
+            "minekings.org"
+        ]
+    },
+    {
+        "id": "legionsmc",
+        "name": "LegionsMC Network",
+        "addresses": [
+            "legionsmc.org"
+        ]
     }
 ]
