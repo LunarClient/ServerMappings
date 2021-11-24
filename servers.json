@@ -869,6 +869,13 @@
         ]
     },
     {
+        "id": "vanir",
+        "name": "Vanir Network",
+        "addresses": [
+            "vanir.cc"
+        ]
+    },
+    {
         "id": "fyre",
         "name": "Fyre Games",
         "addresses": [
