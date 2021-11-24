@@ -22,6 +22,13 @@
         ]
     },
     {
+        "id": "ukiyomc",
+        "name": "Ukiyo",
+        "addresses": [
+            "ukiyomc.com"
+        ]
+    },
+    {
         "id": "ukiyo",
         "name": "Ukiyo Network",
         "addresses": [
@@ -873,6 +880,34 @@
         "name": "Scala",
         "addresses": [
             "scala.gg"
+        ]
+    },
+    {
+        "id": "vanir",
+        "name": "Vanir Network",
+        "addresses": [
+            "vanir.cc"
+        ]
+    },
+    {
+        "id": "fyre",
+        "name": "Fyre Games",
+        "addresses": [
+            "fyre.cc"
+        ]
+    },
+    {
+        "id": "minekings",
+        "name": "MineKings",
+        "addresses": [
+            "minekings.org"
+        ]
+    },
+    {
+        "id": "legionsmc",
+        "name": "LegionsMC Network",
+        "addresses": [
+            "legionsmc.org"
         ]
     }
 ]
