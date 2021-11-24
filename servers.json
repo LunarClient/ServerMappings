@@ -909,5 +909,12 @@
         "addresses": [
             "muffinized.net"
         ]
+    },
+    {
+        "id": "aripvp",
+        "name": "AriPvP Network",
+        "addresses": [
+            "aripvp.club"
+        ]
     }
 ]
