@@ -755,7 +755,6 @@
         "name": "PvPBar",
         "addresses": [
             "pvp.bar",
-            "eu.pvp.bar",
             "zonix.us"
         ]
     },
