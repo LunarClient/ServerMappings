@@ -22,6 +22,13 @@
         ]
     },
     {
+        "id": "ukiyomc",
+        "name": "Ukiyo",
+        "addresses": [
+            "ukiyomc.com"
+        ]
+    },
+    {
         "id": "ukiyo",
         "name": "Ukiyo Network",
         "addresses": [
