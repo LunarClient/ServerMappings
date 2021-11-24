@@ -923,5 +923,12 @@
         "addresses": [
             "aripvp.club"
         ]
+    },
+    {
+        "id": "aplaxy",
+        "name": "Aplaxy Network",
+        "addresses": [
+            "aplaxy.net"
+        ]
     }
 ]
