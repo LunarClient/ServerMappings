@@ -926,5 +926,11 @@
         "addresses": [
             "aplaxy.net"
         ]
-    }
+    },
+    {
+        "id": "tyrex",
+        "name": "Tyrex Network",
+        "addresses": [
+            "tyrex.cc"
+        ]
 ]
