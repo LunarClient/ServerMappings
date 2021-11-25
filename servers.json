@@ -835,7 +835,22 @@
         "addresses": [
             "originrealms.com"
         ]
-    },  
+    },
+    {
+        "id": "vicnix",
+        "name": "Vicnix Network",
+        "addresses": [
+            "vicnix.net",
+            "onlymc.us"
+        ]
+    },
+    {
+        "id": "ghouluhc",
+        "name": "GhoulUHC",
+        "addresses": [
+            "ghouluhc.club"
+        ]
+    },
     {
         "id": "electronmc",
         "name": "ElectronMC",
