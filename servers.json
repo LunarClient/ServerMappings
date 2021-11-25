@@ -803,20 +803,20 @@
             "originrealms.com"
         ]
     },
-	  {
-		  "id": "vicnix",
-		  "name": "Vicnix Network",
-		  "addresses": [
-			  "vicnix.net"
-		  ]
-	  },
-	  {
-		  "id": "ghouluhc",
-		  "name": "GhoulUHC",
-		  "addresses": [
-			  "ghouluhc.club"
-		  ]
-    },  
+    {
+        "id": "vicnix",
+        "name": "Vicnix Network",
+        "addresses": [
+            "vicnix.net"
+        ]
+    },
+    {
+        "id": "ghouluhc",
+        "name": "GhoulUHC",
+        "addresses": [
+            "ghouluhc.club"
+        ]
+    },
     {
         "id": "electronmc",
         "name": "ElectronMC",
