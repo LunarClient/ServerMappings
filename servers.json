@@ -948,5 +948,12 @@
         "addresses": [
             "tyrex.cc"
         ]
+    },
+    {
+        "id": "teamfightcc",
+        "name": "TeamFight Network",
+        "addresses": [
+            "teamfight.cc"
+        ]
     }
 ]
