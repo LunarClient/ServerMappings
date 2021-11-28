@@ -950,6 +950,13 @@
         ]
     },
     {
+        "id": "vaporized",
+        "name": "Vaporized Network",
+        "addresses": [
+            "play.vaporizedmc.net"
+        ]
+    },
+    {
         "id": "teamfightcc",
         "name": "TeamFight Network",
         "addresses": [
