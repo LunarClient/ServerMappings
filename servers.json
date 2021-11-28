@@ -876,7 +876,9 @@
         "id": "minelord",
         "name": "MineLord Network",
         "addresses": [
-            "minelord.org"
+            "minelord.org",
+            "play.minelord.org",
+            "mc.minelord.org"
         ]
     },
     {
