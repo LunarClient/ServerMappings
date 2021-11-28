@@ -955,5 +955,12 @@
         "addresses": [
             "teamfight.cc"
         ]
+    },
+    {
+        "id": "vaultpvpnet",
+        "name": "VaultPvP Network",
+        "addresses": [
+            "vaultpvp.net"
+        ]
     }
 ]
