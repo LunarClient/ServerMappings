@@ -964,6 +964,14 @@
         ]
     },
     {
+        "id": "cobelpvp",
+        "name": "CobelPvP Network",
+        "addresses": [
+            "cobelpvp.com",
+            "cobelpvp.net"
+        ]
+    },
+    {
         "id": "warfaremc",
         "name": "WarfareMC.eu",
         "addresses": [
