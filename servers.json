@@ -1,9 +1,38 @@
 [
     {
+        "id": "squidland",
+        "name": "Squid Land | Network",
+        "addresses": [
+            "squid.land"
+        ]
+    },
+    {
         "id": "edenmine",
         "name": "EdenMine Network",
         "addresses": [
             "edenmine.eu"
+        ]
+    },
+    {
+        "id": "baldymc",
+        "name": "BaldyMC",
+        "addresses": [
+            "baldymc.com",
+            "baldymc.xyz"
+        ]
+    },
+    {
+        "id": "ukiyomc",
+        "name": "Ukiyo",
+        "addresses": [
+            "ukiyomc.com"
+        ]
+    },
+    {
+        "id": "ukiyo",
+        "name": "Ukiyo Network",
+        "addresses": [
+            "ukiyo.rip"
         ]
     },
     {
@@ -19,6 +48,13 @@
         "addresses": [
             "jailmc.com"
         ]
+    },
+    {
+        "id": "neptuniummc",
+        "name": "NeptuniumMC Italia",
+        "addresses": [
+            "neptuniummc.ml"
+        ]    
     },
     {
         "id": "sololegends",
@@ -368,14 +404,9 @@
         "id": "minerip",
         "name": "MineRIP Network",
         "addresses": [
-            "mine.rip"
-        ]
-    },
-    {
-        "id": "hyzeria",
-        "name": "Hyzeria Network",
-        "addresses": [
-            "hyzeria.net"
+            "mine.rip",
+            "hyzeria.com"
+            
         ]
     },
     {
@@ -723,7 +754,8 @@
         "id": "pvpbar",
         "name": "PvPBar",
         "addresses": [
-            "pvp.bar"
+            "pvp.bar",
+            "zonix.us"
         ]
     },
     {
@@ -741,6 +773,13 @@
         ]
     },
     {
+        "id": "potpvpbrazil",
+        "name": "PotPvP Brazil",
+        "addresses": [
+            "potpvp.com.br"
+        ]
+    },
+    {
         "id": "tempest",
         "name": "Tempest Network",
         "addresses": [
@@ -748,7 +787,7 @@
         ]
     },
     {
-        "id": "CrowlMC",
+        "id": "crowlmc",
         "name": "Crowl Network",
         "addresses": [
             "crowl.club"
@@ -759,6 +798,14 @@
         "name": "UltimisMC Network",
         "addresses": [
             "ultimismc.com"
+        ]
+    },
+    {
+        "id": "ognetwork",
+        "name": "OG Network",
+        "addresses": [
+            "og-network.net",
+            "og-sg.net"
         ]
     },
     {
@@ -788,12 +835,132 @@
         "addresses": [
             "originrealms.com"
         ]
-    },
+    },  
     {
         "id": "ventry",
         "name": "Ventry Combo",
         "addresses": [
             "ventry.hu"
+        ]
+    },
+    {
+        "id": "vicnix",
+        "name": "Vicnix Network",
+        "addresses": [
+            "vicnix.net",
+            "onlymc.us"
+        ]
+    },
+    {
+        "id": "ghouluhc",
+        "name": "GhoulUHC",
+        "addresses": [
+            "ghouluhc.club"
+        ]
+    },
+    {
+        "id": "electronmc",
+        "name": "ElectronMC",
+        "addresses": [
+            "electronmc.us"
+        ]
+    },
+    {
+        "id": "frozedclub",
+        "name": "Frozed Club",
+        "addresses": [
+            "elb1to.me"
+        ]
+    },
+    {
+        "id": "minelord",
+        "name": "MineLord Network",
+        "addresses": [
+            "minelord.org"
+        ]
+    },
+    {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
+    {
+        "id": "beastmc",
+        "name": "Beast MC",
+        "addresses": [
+            "beastmc.net"
+        ]
+    },
+    {
+        "id": "kotlinrip",
+        "name": "Kotlin",
+        "addresses": [
+            "kotlin.rip"
+        ]
+    },
+    {
+        "id": "vanir",
+        "name": "Vanir Network",
+        "addresses": [
+            "vanir.cc"
+        ]
+    },
+    {
+        "id": "fyre",
+        "name": "Fyre Games",
+        "addresses": [
+            "fyre.cc"
+        ]
+    },
+    {
+        "id": "minekings",
+        "name": "MineKings",
+        "addresses": [
+            "minekings.org"
+        ]
+    },
+    {
+        "id": "legionsmc",
+        "name": "LegionsMC Network",
+        "addresses": [
+            "legionsmc.org"
+        ]
+    },
+    {
+        "id": "muffinized",
+        "name": "Muffinized Network",
+        "addresses": [
+            "muffinized.net"
+        ]
+    },
+    {
+        "id": "aripvp",
+        "name": "AriPvP Network",
+        "addresses": [
+            "aripvp.club"
+        ]
+    },
+    {
+        "id": "aplaxy",
+        "name": "Aplaxy Network",
+        "addresses": [
+            "aplaxy.net"
+        ]
+    },
+    {
+        "id": "tyrex",
+        "name": "Tyrex Network",
+        "addresses": [
+            "tyrex.cc"
+        ]
+    },
+    {
+        "id": "teamfightcc",
+        "name": "TeamFight Network",
+        "addresses": [
+            "teamfight.cc"
         ]
     }
 ]
