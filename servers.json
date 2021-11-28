@@ -955,5 +955,13 @@
         "addresses": [
             "teamfight.cc"
         ]
+    },
+    {
+        "id": "CobelPvP",
+        "name": "CobelPvP Network",
+        "addresses": [
+            "cobelpvp.com",
+            "cobelpvp.net"
+        ]
     }
 ]
