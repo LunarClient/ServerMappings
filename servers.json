@@ -836,6 +836,13 @@
         "addresses": [
             "originrealms.com"
         ]
+    },  
+    {
+        "id": "ventry",
+        "name": "Ventry Combo",
+        "addresses": [
+            "ventry.hu"
+        ]
     },
     {
         "id": "vicnix",
@@ -955,6 +962,28 @@
         "name": "TeamFight Network",
         "addresses": [
             "teamfight.cc"
+        ]
+    },
+    {
+        "id": "cobelpvp",
+        "name": "CobelPvP Network",
+        "addresses": [
+            "cobelpvp.com",
+            "cobelpvp.net"
+        ]
+    },
+    {
+        "id": "warfaremc",
+        "name": "WarfareMC.eu",
+        "addresses": [
+            "warfaremc.eu"
+        ]
+    },
+    {
+        "id": "vaultpvpnet",
+        "name": "VaultPvP Network",
+        "addresses": [
+            "vaultpvp.net"
         ]
     }
 ]
