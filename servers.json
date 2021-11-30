@@ -175,7 +175,7 @@
         "id": "coldnetwork",
         "name": "ColdNetwork",
         "addresses": [
-            "coldnetwork.net"
+            "coldnetwork.net",
             "coldpvp.com"
         ]
     },
