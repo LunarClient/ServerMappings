@@ -986,6 +986,13 @@
         ]
     },
     {
+        "id": "starcraftmc",
+        "name": "StarCraft MC",
+        "addresses": [
+            "starcraft.uk"
+        ]
+    },
+    {
         "id": "vaultpvpnet",
         "name": "VaultPvP Network",
         "addresses": [
