@@ -211,6 +211,13 @@
         ]
     },
     {
+        "id": "mandown",
+        "name": "Mandown",
+        "addresses": [
+            "mandown.us",
+        ]
+    },
+    {
         "id": "loverfella",
         "name": "Loverfella",
         "addresses": [
