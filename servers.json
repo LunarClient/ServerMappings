@@ -1008,5 +1008,12 @@
         "addresses": [
             "vaultpvp.net"
         ]
+    },
+    {
+        "id": "twistedmc",
+        "name": "TwistedMC",
+        "addresses": [
+            "twistedmc.net"
+        ]
     }
 ]
