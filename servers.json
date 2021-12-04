@@ -1015,5 +1015,12 @@
         "addresses": [
             "twistedmc.net"
         ]
+    },
+    {
+        "id": "pandorianmc",
+        "name": "PandorianMC",
+        "addresses": [
+            "pandorianmc.net"
+        ]
     }
 ]
