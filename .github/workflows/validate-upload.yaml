@@ -1,4 +1,4 @@
-name: Validate servers
+name: Validate Upload
 on: [push, pull_request]
 
 jobs:
