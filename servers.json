@@ -159,6 +159,14 @@
         ]
     },
     {
+        "id": "minelabs",
+        "name": "MineLabs",
+        "addresses": [
+            "play.minelabs.org"
+            "minelabs.org"
+        ]
+    },
+    {
         "id": "silexpvp",
         "name": "Silex Network",
         "addresses": [
