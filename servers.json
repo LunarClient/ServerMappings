@@ -1023,5 +1023,12 @@
         "addresses": [
             "pandorianmc.net"
         ]
+    },
+        {
+        "id": "kosumnetwork",
+        "name": "Kosum Network",
+        "addresses": [
+            "kosum.org"
+        ]
     }
 ]
