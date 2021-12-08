@@ -1,5 +1,12 @@
 [
     {
+        "id": "pgmarcade",
+        "name": "PvP Arcade",
+        "addresses": [
+            "pvparca.de"
+        ]
+    },
+    {
         "id": "squidland",
         "name": "Squid Land | Network",
         "addresses": [
