@@ -260,7 +260,8 @@
             "minemen.club",
             "mineman.club",
             "icantjoinlmfao.club",
-            "euicantjoinlmfao.club"
+            "euicantjoinlmfao.club",
+            "minemenclub.com"
         ]
     },
     {
@@ -1021,6 +1022,20 @@
         "name": "TwistedMC",
         "addresses": [
             "twistedmc.net"
+        ]
+    },
+    {
+        "id": "pandorianmc",
+        "name": "PandorianMC",
+        "addresses": [
+            "pandorianmc.net"
+        ]
+    },
+        {
+        "id": "kosumnetwork",
+        "name": "Kosum Network",
+        "addresses": [
+            "kosum.org"
         ]
     }
 ]
