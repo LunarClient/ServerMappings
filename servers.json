@@ -172,6 +172,13 @@
             "silexpvp.net"
         ]
     },
+        {
+        "id": "valent",
+        "name": "Valent Network",
+        "addresses": [
+            "valent.gg"
+        ]
+    },
     {
         "id": "mythicnetwork",
         "name": "Mythic Network",
