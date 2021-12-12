@@ -1051,5 +1051,12 @@
         "addresses": [
             "minechaos.eu"
         ]
+    },
+       {
+        "id": "alpharip",
+        "name": "Alpha Network",
+        "addresses": [
+            "alpha.rip"
+        ]
     }
 ]
