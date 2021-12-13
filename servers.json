@@ -1058,5 +1058,12 @@
         "addresses": [
             "alpha.rip"
         ]
+    },
+           {
+        "id": "chillcenter",
+        "name": "ChillCenter",
+        "addresses": [
+            "play.chillcenter.cc"
+        ]
     }
 ]
