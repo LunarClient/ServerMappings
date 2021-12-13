@@ -1058,5 +1058,12 @@
         "addresses": [
             "alpha.rip"
         ]
-    }
+    },
+        {
+            "id": "vfnetwork",
+            "name": "VF Network",
+            "addresses": [
+                "vfnets.com"
+            ]
+        }
 ]
