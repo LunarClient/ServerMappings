@@ -1058,5 +1058,12 @@
         "addresses": [
             "alpha.rip"
         ]
-    }
+    },
+       {
+        "id": "floppakd",
+        "name": "Floppa Kingdom",
+        "addresses": [
+            "kingdomserver.be"
+        ]
+    },
 ]
