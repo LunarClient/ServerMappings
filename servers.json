@@ -67,9 +67,9 @@
     },
     {
         "id": "neptuniummc",
-        "name": "NeptuniumMC Italia",
+        "name": "NeptuniumMC",
         "addresses": [
-            "neptuniummc.ml"
+            "neptuniummc.it"
         ]    
     },
     {
@@ -1059,11 +1059,18 @@
             "alpha.rip"
         ]
     },
-           {
+       {
         "id": "chillcenter",
         "name": "ChillCenter",
         "addresses": [
-            "play.chillcenter.cc"
+            "chillcenter.cc"
+        ]
+    },
+       {
+        "id": "floppakd",
+        "name": "Floppa Kingdom",
+        "addresses": [
+            "kingdomserver.be"
         ]
     }
 ]
