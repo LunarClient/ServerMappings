@@ -1066,7 +1066,7 @@
             "kingdomserver.be"
         ]
     },
-    {
+        {
         "id": "vfnetwork",
         "name": "VF Network",
         "addresses": [
