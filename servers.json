@@ -1065,5 +1065,12 @@
         "addresses": [
             "kingdomserver.be"
         ]
+    },
+     {
+        "id": "alphahq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org"
+        ]
     }
 ]
