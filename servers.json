@@ -1065,5 +1065,16 @@
         "addresses": [
             "kingdomserver.be"
         ]
+    },
+       {
+        "id": "imaginefun",
+        "name": "ImagineFun",
+        "addresses": [
+            "mc.imaginefun.net",
+            "mc.imagineeringfun.net",
+            "imagineeringfun.net",
+            "imaginefun.net",
+            "imaginefun.gg",
+        ]
     }
 ]
