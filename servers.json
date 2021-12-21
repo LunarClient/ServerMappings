@@ -1065,5 +1065,20 @@
         "addresses": [
             "kingdomserver.be"
         ]
+    },
+    {
+        "id": "lordrealm",
+        "name": "LordRealm Network",
+        "addresses": [
+            "lordrealm.xyz",
+            "lordrealm.net"
+        ]
+    },
+       {
+        "id": "cobaltclub",
+        "name": "Cobalt Club",
+        "addresses": [
+            "cobalt.club"
+        ]
     }
 ]
