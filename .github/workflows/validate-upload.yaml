@@ -37,3 +37,7 @@ jobs:
           
       - name: Upload to S3
         run: aws s3 cp servers.json s3://lcservermappings --cache-control "public, max-age=604800, immutable"
+
+      - name: Purge Cloudflare cache
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/95640333e362c043bb8f4be28ac53524/purge_cache" -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_PURGE_TOKEN }}" -H "Content-Type: application/json" --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
