@@ -1080,5 +1080,12 @@
         "addresses": [
             "cobalt.club"
         ]
+    },
+    {
+        "id": "cylonemc",
+        "name": "CyloneMC",
+        "addresses": [
+            "cylonemc.net"
+        ]
     }
 ]
