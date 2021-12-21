@@ -1080,5 +1080,12 @@
         "addresses": [
             "cobalt.club"
         ]
+    },
+       {
+        "id": "wildya",
+        "name": "Wildya",
+        "addresses": [
+            "wildya.fr"
+        ]
     }
 ]
