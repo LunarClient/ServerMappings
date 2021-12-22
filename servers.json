@@ -1074,11 +1074,33 @@
             "lordrealm.net"
         ]
     },
-       {
+    {
         "id": "cobaltclub",
         "name": "Cobalt Club",
         "addresses": [
             "cobalt.club"
+        ]
+    },
+    {
+        "id": "alphqhq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+            "syrex.dev"
+        ]
+    },
+    {
+        "id": "wildya",
+        "name": "Wildya",
+        "addresses": [
+            "wildya.fr"
+        ]
+    },
+    {
+       "id": "cylonemc",
+        "name": "CyloneMC",
+        "addresses": [
+            "cylonemc.net"
         ]
     },
     {
@@ -1092,7 +1114,7 @@
         "id": "skyservers",
         "name": "SkyServers",
         "addresses": [
-            "sky-mc.net"    
+            "sky-mc.net" 
         ]
     }
 ]
