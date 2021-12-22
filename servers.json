@@ -1066,11 +1066,28 @@
             "kingdomserver.be"
         ]
     },
-     {
-        "id": "alphahq",
+    {
+        "id": "lordrealm",
+        "name": "LordRealm Network",
+        "addresses": [
+            "lordrealm.xyz",
+            "lordrealm.net"
+        ]
+    },
+       {
+        "id": "cobaltclub",
+        "name": "Cobalt Club",
+        "addresses": [
+            "cobalt.club"
+        ]
+    },
+       {
+        "id": "alphqhq",
         "name": "AlphaHQ Network",
         "addresses": [
-            "alphahq.org"
+            "alphahq.org",
+            "syrex.dev",
+	    "dev.alphahq.org"
         ]
     }
 ]
