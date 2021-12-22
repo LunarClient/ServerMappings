@@ -1074,20 +1074,19 @@
             "lordrealm.net"
         ]
     },
-       {
+    {
         "id": "cobaltclub",
         "name": "Cobalt Club",
         "addresses": [
             "cobalt.club"
         ]
     },
-       {
+    {
         "id": "alphqhq",
         "name": "AlphaHQ Network",
         "addresses": [
             "alphahq.org",
-            "syrex.dev",
-	    "dev.alphahq.org"
+            "syrex.dev"
         ]
     }
 ]
