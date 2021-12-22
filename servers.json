@@ -1080,5 +1080,19 @@
         "addresses": [
             "cobalt.club"
         ]
+    },
+    {
+        "id": "fruitservers",
+        "name": "FruitServers",
+        "addresses": [
+            "fruitservers.net"
+        ]
+    },
+    {
+        "id": "skyservers",
+        "name": "SkyServers",
+        "addresses": [
+            "sky-mc.net"    
+        ]
     }
 ]
