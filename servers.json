@@ -1095,5 +1095,12 @@
         "addresses": [
             "wildya.fr"
         ]
+    },
+    {
+       "id": "cylonemc",
+        "name": "CyloneMC",
+        "addresses": [
+            "cylonemc.net"
+        ]
     }
 ]
