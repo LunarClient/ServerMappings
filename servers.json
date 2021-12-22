@@ -1074,7 +1074,7 @@
             "lordrealm.net"
         ]
     },
-       {
+    {
         "id": "cobaltclub",
         "name": "Cobalt Club",
         "addresses": [
@@ -1082,7 +1082,22 @@
         ]
     },
     {
-        "id": "cylonemc",
+        "id": "alphqhq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+            "syrex.dev"
+        ]
+    },
+    {
+        "id": "wildya",
+        "name": "Wildya",
+        "addresses": [
+            "wildya.fr"
+        ]
+    },
+    {
+       "id": "cylonemc",
         "name": "CyloneMC",
         "addresses": [
             "cylonemc.net"
