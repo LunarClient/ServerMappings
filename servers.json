@@ -1088,5 +1088,12 @@
             "alphahq.org",
             "syrex.dev"
         ]
+    },
+    {
+        "id": "wildya",
+        "name": "Wildya",
+        "addresses": [
+            "wildya.fr"
+        ]
     }
 ]
