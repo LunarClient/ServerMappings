@@ -268,7 +268,9 @@
             "mineman.club",
             "icantjoinlmfao.club",
             "euicantjoinlmfao.club",
-            "minemenclub.com"
+            "minemenclub.com",
+            "pvp.bar",
+            "zonix.us"
         ]
     },
     {
@@ -773,14 +775,6 @@
         "name": "Crotus",
         "addresses": [
             "crotus.cc"
-        ]
-    },
-    {
-        "id": "pvpbar",
-        "name": "PvPBar",
-        "addresses": [
-            "pvp.bar",
-            "zonix.us"
         ]
     },
     {
