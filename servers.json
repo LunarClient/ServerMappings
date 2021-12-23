@@ -1116,5 +1116,12 @@
         "addresses": [
             "sky-mc.net" 
         ]
+    },
+    {
+        "id": "vfnetwork",
+        "name": "VF Network",
+        "addresses": [
+            "vfnets.com"
+        ]
     }
 ]
