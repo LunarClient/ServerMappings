@@ -1110,5 +1110,12 @@
         "addresses": [
             "sky-mc.net" 
         ]
+    },
+    {
+        "id": "bibliaminecraft",
+        "name": "BibliaMinecraft",
+        "addresses": [
+            "bibliaminecraft.xyz" 
+        ]
     }
 ]
