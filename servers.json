@@ -1117,5 +1117,12 @@
         "addresses": [
             "bibliaminecraft.xyz" 
         ]
+    },
+    {
+       "id": "vfnetwork",
+        "name": "VF Network",
+        "addresses": [
+            "vfnets.com"
+        ]
     }
 ]
