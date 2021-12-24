@@ -1124,5 +1124,12 @@
         "addresses": [
             "vfnets.com"
         ]
-    }
+    },
+    {
+        "id": "kyro",
+        "name": "Kyro.gg",
+        "addresses": [
+            "kyro.gg"
+        ]
+    }    
 ]
