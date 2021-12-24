@@ -1124,5 +1124,21 @@
         "addresses": [
             "vfnets.com"
         ]
+    },
+    {
+        "id": "minegem",
+        "name": "MineGem Network",
+        "addresses": [
+            "minegem.org",
+            "play.minegem.org"
+        ]
+    },
+    {
+        "id": "minearcade",
+        "name": "MineArcade",
+        "addresses": [
+            "minearcade.org",
+            "play.minearcade.org"
+        ]
     }
 ]
