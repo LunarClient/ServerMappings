@@ -15,6 +15,7 @@ def main():
     parser.add_argument('--input', required=True, type=str)
     parser.add_argument('--source', required=True, type=str)
     parser.add_argument('--destination', required=True, type=str)
+    parser.add_argument('--resize', default='512', type=int)
     parser.add_argument('--lossless', default=False, action='store_true')
     args = parser.parse_args()
 
@@ -57,7 +58,7 @@ def main():
         output = webptools.cwebp(
             input_image=(logo_source),
             output_image=(logo_destination),
-            option=('-lossless ' if args.lossless else '') + '-metadata none'
+            option=('-lossless ' if args.lossless else '') + f'-resize {args.resize} {args.resize} -metadata none'
         )
         if output['exit_code']:
             raise OSError(f'Failed to run cwebp on {logo_source}: {output}')
