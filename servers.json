@@ -17,8 +17,9 @@
         "id": "francyland",
         "name": "FrancyLand",
         "addresses": [
-            "francyland.it"
+            "francyland.it"    
         ]
+    },    
     {
         "id": "edenmine",
         "name": "EdenMine Network",
