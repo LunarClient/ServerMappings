@@ -1124,5 +1124,14 @@
         "addresses": [
             "vfnets.com"
         ]
+    },
+    {
+        "id": "imaginefun",
+        "name": "ImagineFun",
+        "addresses": [
+            "imagineeringfun.net",
+            "imaginefun.net",
+            "imaginefun.gg"
+        ]
     }
 ]
