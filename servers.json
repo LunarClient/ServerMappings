@@ -268,7 +268,9 @@
             "mineman.club",
             "icantjoinlmfao.club",
             "euicantjoinlmfao.club",
-            "minemenclub.com"
+            "minemenclub.com",
+            "pvp.bar",
+            "zonix.us"
         ]
     },
     {
@@ -776,14 +778,6 @@
         ]
     },
     {
-        "id": "pvpbar",
-        "name": "PvPBar",
-        "addresses": [
-            "pvp.bar",
-            "zonix.us"
-        ]
-    },
-    {
         "id": "vexor",
         "name": "Vexor Network",
         "addresses": [
@@ -1064,6 +1058,71 @@
         "name": "Floppa Kingdom",
         "addresses": [
             "kingdomserver.be"
+        ]
+    },
+    {
+        "id": "lordrealm",
+        "name": "LordRealm Network",
+        "addresses": [
+            "lordrealm.xyz",
+            "lordrealm.net"
+        ]
+    },
+    {
+        "id": "cobaltclub",
+        "name": "Cobalt Club",
+        "addresses": [
+            "cobalt.club"
+        ]
+    },
+    {
+        "id": "alphqhq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+            "syrex.dev"
+        ]
+    },
+    {
+        "id": "wildya",
+        "name": "Wildya",
+        "addresses": [
+            "wildya.fr"
+        ]
+    },
+    {
+       "id": "cylonemc",
+        "name": "CyloneMC",
+        "addresses": [
+            "cylonemc.net"
+        ]
+    },
+    {
+        "id": "fruitservers",
+        "name": "FruitServers",
+        "addresses": [
+            "fruitservers.net"
+        ]
+    },
+    {
+        "id": "skyservers",
+        "name": "SkyServers",
+        "addresses": [
+            "sky-mc.net" 
+        ]
+    },
+    {
+        "id": "bibliaminecraft",
+        "name": "BibliaMinecraft",
+        "addresses": [
+            "bibliaminecraft.xyz" 
+        ]
+    },
+    {
+       "id": "vfnetwork",
+        "name": "VF Network",
+        "addresses": [
+            "vfnets.com"
         ]
     },
     {
