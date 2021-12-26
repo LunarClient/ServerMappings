@@ -1011,6 +1011,13 @@
             "warfaremc.eu"
         ]
     },
+        {
+        "id": "brazynetwork",
+        "name": "BrazyNetwork",
+        "addresses": [
+            "brazynetwork.net"
+        ]
+    },
     {
         "id": "starcraftmc",
         "name": "StarCraft MC",
