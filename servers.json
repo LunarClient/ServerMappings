@@ -284,7 +284,7 @@
         "id": "loverfella",
         "name": "Loverfella",
         "addresses": [
-            "play.loverfella.com"
+            "loverfella.com"
         ]
     },
     {
@@ -794,7 +794,7 @@
         "id": "lynxmc",
         "name": "LynxMC Network",
         "addresses": [
-            "mc.lynxmc.ga"
+            "lynxmc.ga"
         ]
     },
     {
@@ -808,7 +808,7 @@
         "id": "tempest",
         "name": "Tempest Network",
         "addresses": [
-            "play.tempest.wtf"
+            "tempest.wtf"
         ]
     },
     {
@@ -844,14 +844,14 @@
         "id": "timolia",
         "name": "Timolia",
         "addresses": [
-            "play.timolia.de"
+            "timolia.de"
         ]
     },
     {
         "id": "mineglobe",
         "name": "MineGlobe Network",
         "addresses": [
-            "play.mineglobe.org"
+            "mineglobe.org"
         ]
     },
     {
