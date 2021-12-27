@@ -281,6 +281,13 @@
         ]
     },
     {
+        "id": "lemonmc",
+        "name": "Lemon Network",
+        "addresses": [
+            "lemonmc.us"
+        ]
+    },
+    {
         "id": "loverfella",
         "name": "Loverfella",
         "addresses": [
