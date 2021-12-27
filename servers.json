@@ -1,11 +1,25 @@
 [
     {
+        "id": "pgmarcade",
+        "name": "PvP Arcade",
+        "addresses": [
+            "pvparca.de"
+        ]
+    },
+    {
         "id": "squidland",
         "name": "Squid Land | Network",
         "addresses": [
             "squid.land"
         ]
     },
+    {
+        "id": "francyland",
+        "name": "FrancyLand",
+        "addresses": [
+            "francyland.it"    
+        ]
+    },    
     {
         "id": "edenmine",
         "name": "EdenMine Network",
@@ -60,9 +74,9 @@
     },
     {
         "id": "neptuniummc",
-        "name": "NeptuniumMC Italia",
+        "name": "NeptuniumMC",
         "addresses": [
-            "neptuniummc.ml"
+            "neptuniummc.it"
         ]    
     },
     {
@@ -165,6 +179,13 @@
             "silexpvp.net"
         ]
     },
+        {
+        "id": "valent",
+        "name": "Valent Network",
+        "addresses": [
+            "valent.gg"
+        ]
+    },
     {
         "id": "mythicnetwork",
         "name": "Mythic Network",
@@ -253,14 +274,17 @@
             "minemen.club",
             "mineman.club",
             "icantjoinlmfao.club",
-            "euicantjoinlmfao.club"
+            "euicantjoinlmfao.club",
+            "minemenclub.com",
+            "pvp.bar",
+            "zonix.us"
         ]
     },
     {
         "id": "loverfella",
         "name": "Loverfella",
         "addresses": [
-            "play.loverfella.com"
+            "loverfella.com"
         ]
     },
     {
@@ -565,8 +589,7 @@
         "id": "pvplegacy",
         "name": "PvP Legacy",
         "addresses": [
-            "pvplegacy.net",
-            "play.pvplegacy.net"
+            "pvplegacy.net"
         ]
     },
     {
@@ -761,14 +784,6 @@
         ]
     },
     {
-        "id": "pvpbar",
-        "name": "PvPBar",
-        "addresses": [
-            "pvp.bar",
-            "zonix.us"
-        ]
-    },
-    {
         "id": "vexor",
         "name": "Vexor Network",
         "addresses": [
@@ -779,7 +794,7 @@
         "id": "lynxmc",
         "name": "LynxMC Network",
         "addresses": [
-            "mc.lynxmc.ga"
+            "lynxmc.ga"
         ]
     },
     {
@@ -793,7 +808,7 @@
         "id": "tempest",
         "name": "Tempest Network",
         "addresses": [
-            "play.tempest.wtf"
+            "tempest.wtf"
         ]
     },
     {
@@ -829,14 +844,14 @@
         "id": "timolia",
         "name": "Timolia",
         "addresses": [
-            "play.timolia.de"
+            "timolia.de"
         ]
     },
     {
         "id": "mineglobe",
         "name": "MineGlobe Network",
         "addresses": [
-            "play.mineglobe.org"
+            "mineglobe.org"
         ]
     },
     {
@@ -995,6 +1010,13 @@
             "warfaremc.eu"
         ]
     },
+        {
+        "id": "brazynetwork",
+        "name": "BrazyNetwork",
+        "addresses": [
+            "brazynetwork.net"
+        ]
+    },
     {
         "id": "starcraftmc",
         "name": "StarCraft MC",
@@ -1007,6 +1029,151 @@
         "name": "VaultPvP Network",
         "addresses": [
             "vaultpvp.net"
+        ]
+    },
+    {
+        "id": "twistedmc",
+        "name": "TwistedMC",
+        "addresses": [
+            "twistedmc.net"
+        ]
+    },
+    {
+        "id": "pandorianmc",
+        "name": "PandorianMC",
+        "addresses": [
+            "pandorianmc.net"
+        ]
+    },
+        {
+        "id": "kosumnetwork",
+        "name": "Kosum Network",
+        "addresses": [
+            "kosum.org"
+        ]
+    },
+    {
+        "id": "minechaos",
+        "name": "MineChaos",
+        "addresses": [
+            "minechaos.eu"
+        ]
+    },
+    {
+        "id": "alpharip",
+        "name": "Alpha Network",
+        "addresses": [
+            "alpha.rip"
+        ]
+    },
+    {
+        "id": "chillcenter",
+        "name": "ChillCenter",
+        "addresses": [
+            "chillcenter.cc"
+        ]
+    },
+    {
+        "id": "floppakd",
+        "name": "Floppa Kingdom",
+        "addresses": [
+            "kingdomserver.be"
+        ]
+    },
+    {
+        "id": "lordrealm",
+        "name": "LordRealm Network",
+        "addresses": [
+            "lordrealm.xyz",
+            "lordrealm.net"
+        ]
+    },
+    {
+        "id": "cobaltclub",
+        "name": "Cobalt Club",
+        "addresses": [
+            "cobalt.club"
+        ]
+    },
+    {
+        "id": "alphqhq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+            "syrex.dev"
+        ]
+    },
+    {
+        "id": "wildya",
+        "name": "Wildya",
+        "addresses": [
+            "wildya.fr"
+        ]
+    },
+    {
+       "id": "cylonemc",
+        "name": "CyloneMC",
+        "addresses": [
+            "cylonemc.net"
+        ]
+    },
+    {
+        "id": "fruitservers",
+        "name": "FruitServers",
+        "addresses": [
+            "fruitservers.net"
+        ]
+    },
+    {
+        "id": "skyservers",
+        "name": "SkyServers",
+        "addresses": [
+            "sky-mc.net" 
+        ]
+    },
+    {
+        "id": "bibliaminecraft",
+        "name": "BibliaMinecraft",
+        "addresses": [
+            "bibliaminecraft.xyz" 
+        ]
+    },
+    {
+       "id": "vfnetwork",
+        "name": "VF Network",
+        "addresses": [
+            "vfnets.com"
+        ]
+    },
+    {
+        "id": "imaginefun",
+        "name": "ImagineFun",
+        "addresses": [
+            "imagineeringfun.net",
+            "imaginefun.net",
+            "imaginefun.gg"
+        ]
+    },
+    {
+        "id": "minequest",
+        "name": "Minequest",
+        "addresses": [
+            "minequest.gg"
+        ]
+    },
+    {
+        "id": "scala",
+        "name": "Scala",
+        "addresses": [
+            "scala.gg"
+        ]
+    },
+    {
+        "id": "zoltixnetwork",
+        "name": "ZoltixNetwork",
+        "addresses": [
+            "zoltix.net",
+            "minecraftoce.net"
         ]
     }
 ]
