@@ -1175,5 +1175,12 @@
             "zoltix.net",
             "minecraftoce.net"
         ]
+    },
+    {
+        "id": "vortexnetwork",
+        "name": "Vortex Network",
+        "addresses": [
+            "vortexnetwork.net"
+        ]
     }
 ]
