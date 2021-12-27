@@ -1146,5 +1146,19 @@
             "imaginefun.net",
             "imaginefun.gg"
         ]
+    },
+    {
+        "id": "minequest",
+        "name": "Minequest",
+        "addresses": [
+            "minequest.gg"
+        ]
+    },
+    {
+        "id": "scala",
+        "name": "Scala",
+        "addresses": [
+            "scala.gg"
+        ]
     }
 ]
