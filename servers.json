@@ -1148,6 +1148,20 @@
         ]
     },
     {
+        "id": "minequest",
+        "name": "Minequest",
+        "addresses": [
+            "minequest.gg"
+        ]
+    },
+    {
+        "id": "scala",
+        "name": "Scala",
+        "addresses": [
+            "scala.gg"
+        ]
+    },
+    {
         "id": "zoltixnetwork",
         "name": "ZoltixNetwork",
         "addresses": [
