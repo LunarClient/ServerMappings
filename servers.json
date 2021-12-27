@@ -589,8 +589,7 @@
         "id": "pvplegacy",
         "name": "PvP Legacy",
         "addresses": [
-            "pvplegacy.net",
-            "play.pvplegacy.net"
+            "pvplegacy.net"
         ]
     },
     {
