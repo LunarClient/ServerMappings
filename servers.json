@@ -1147,5 +1147,13 @@
             "imaginefun.net",
             "imaginefun.gg"
         ]
+    },
+    {
+        "id": "zoltixnetwork",
+        "name": "ZoltixNetwork",
+        "addresses": [
+            "zoltix.net",
+            "minecraftoce.net"
+        ]
     }
 ]
