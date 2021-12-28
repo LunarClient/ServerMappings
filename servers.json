@@ -14,10 +14,12 @@
         ]
     },
     {
-        "id": "francyland",
-        "name": "FrancyLand",
+        "id": "tangerinemc",
+        "name": "TangerineMC",
         "addresses": [
             "francyland.it"    
+            "tangerinemc.it"
+            "mcnewsnetwork.it"
         ]
     },    
     {
