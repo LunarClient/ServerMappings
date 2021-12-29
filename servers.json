@@ -1185,6 +1185,14 @@
         ]
     },
     {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc",
+            "eu.certix.cc"
+        ]
+    },
+    {
         "id": "zoltixnetwork",
         "name": "ZoltixNetwork",
         "addresses": [
