@@ -1,5 +1,12 @@
 [
     {
+        "id": "dashpvp",
+        "name": "DashPvP",
+        "addresses": [
+            "dashpvp.net"
+        ]
+    },
+    {
         "id": "pgmarcade",
         "name": "PvP Arcade",
         "addresses": [
