@@ -793,6 +793,13 @@
         ]
     },
     {
+        "id": "bridgenetwork",
+        "name": "Bridge Network",
+        "addresses": [
+            "bridge.rip"
+        ]
+    },
+    {
         "id": "crotus",
         "name": "Crotus",
         "addresses": [
