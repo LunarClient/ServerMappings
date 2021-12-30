@@ -1191,5 +1191,13 @@
             "zoltix.net",
             "minecraftoce.net"
         ]
-    }
+    },
+    {
+        "id": "vanic",
+        "name": "Vanic Network",
+        "addresses": [
+            "vanic.us",
+            "vanic.club"
+        ]
+    }   
 ]
