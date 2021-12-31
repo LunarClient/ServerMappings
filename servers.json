@@ -1221,5 +1221,12 @@
         "addresses": [
             "minescapes.net"
         ]
-    }       
+    },  
+    {
+        "id": "prospect",
+        "name": "Prospect Network",
+        "addresses": [
+            "prospect.rip",
+        ]
+    }    
 ]
