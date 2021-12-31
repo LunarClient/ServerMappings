@@ -1215,6 +1215,14 @@
             "vanic.club"
         ]
     },
+    
+    {
+        "id": "wayback",
+        "name": "WayBack Network",
+        "addresses": [
+            "wayback.dev"
+        ]
+    },
     {
         "id": "minescapes",
         "name": "MineScapes",
