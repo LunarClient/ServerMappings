@@ -1199,5 +1199,12 @@
             "vanic.us",
             "vanic.club"
         ]
-    }   
+    },
+    {
+        "id": "minescapes",
+        "name": "MineScapes",
+        "addresses": [
+            "minescapes.net"
+        ]
+    }       
 ]
