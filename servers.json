@@ -1221,5 +1221,12 @@
         "addresses": [
             "minescapes.net"
         ]
-    }       
+    },
+    {
+        "id": "cometmc",
+        "name": "CometMC Network",
+        "addresses": [
+            "cometmc.club"
+        ]
+    }  
 ]
