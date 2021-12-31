@@ -1,4 +1,4 @@
-name: Validate & Upload Servers
+name: Validate and upload
 on:
   push:
     branches:
@@ -10,7 +10,6 @@ on:
 jobs:
   validate-servers:
     runs-on: ubuntu-latest
-    name: Validating Servers
     steps:
       - uses: actions/checkout@v1
         name: Checkout from GitHub
@@ -23,7 +22,6 @@ jobs:
 
   upload-servers:
     runs-on: ubuntu-latest
-    name: Uploading Servers
     needs: validate-servers
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     steps:
