@@ -878,6 +878,14 @@
         ]
     },
     {
+        "id": "maritime",
+        "name": "Maritime Network",
+        "addresses": [
+            "maritime.gg",
+            "maritimemc.net"
+        ]
+    },
+    {
         "id": "originrealms",
         "name": "Origin Realms",
         "addresses": [
