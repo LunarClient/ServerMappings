@@ -419,7 +419,8 @@
         "id": "minehut",
         "name": "Minehut Server",
         "addresses": [
-            "minehut.com"
+            "minehut.com",
+            "minehut.gg"
         ]
     },
     {
@@ -1223,10 +1224,18 @@
         ]
     },
     {
+        "id": "warzone",
+        "name": "Warzone Network",
+        "addresses": [
+            "warz.one",
+            "warzone.network"
+        ]
+    },
+    {
         "id": "acentra",
         "name": "AcentraMC",
         "addresses": [
             "acentramc.com"
         ]
-    }         
+    }    
 ]
