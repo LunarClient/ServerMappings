@@ -1230,5 +1230,12 @@
             "warz.one",
             "warzone.network"
         ]
-    }
+    },
+    {
+        "id": "acentra",
+        "name": "AcentraMC",
+        "addresses": [
+            "acentramc.com"
+        ]
+    }    
 ]
