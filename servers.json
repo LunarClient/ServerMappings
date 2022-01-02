@@ -766,6 +766,13 @@
         ]
     },
     {
+        "id": "zonemc",
+        "name": "ZoneMC.pl",
+        "addresses": [
+            "zonemc.pl"
+        ]
+    },      
+    {
         "id": "pandakmc",
         "name": "PandakMC",
         "addresses": [
@@ -1236,6 +1243,21 @@
         "name": "AcentraMC",
         "addresses": [
             "acentramc.com"
+        ]
+    },
+    {
+        "id": "minelatino",
+        "name": "MineLatino",
+        "addresses": [
+            "minelatino.com",
+            "minelatino.net"
+        ]
+    },
+    {
+        "id": "latamcraft",
+        "name": "LatamCraft",
+        "addresses": [
+            "latamcraft.es"
         ]
     },
     {
