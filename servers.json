@@ -766,6 +766,13 @@
         ]
     },
     {
+        "id": "zonemc",
+        "name": "ZoneMC.pl",
+        "addresses": [
+            "zonemc.pl"
+        ]
+    },      
+    {
         "id": "pandakmc",
         "name": "PandakMC",
         "addresses": [
