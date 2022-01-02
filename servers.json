@@ -1237,5 +1237,13 @@
         "addresses": [
             "acentramc.com"
         ]
-    }    
+    },
+    {
+        "id": "madnetwork",
+        "name": "MadNetwork",
+        "addresses": [
+            "madnetwork.club",
+            "play.madnetwork.club"
+        ]
+    }
 ]
