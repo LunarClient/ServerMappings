@@ -1273,5 +1273,40 @@
         "addresses": [
             "certix.cc"
         ]
+    },
+    {
+        "id": "starmc",
+        "name": "StarMC.pl",
+        "addresses": [
+            "starmc.pl"
+        ]
+    },
+    {
+        "id": "mineplay",
+        "name": "Mineplay.pl",
+        "addresses": [
+            "mineplay.pl"
+        ]
+    },
+    {
+        "id": "craftmc",
+        "name": "CraftMC.PL",
+        "addresses": [
+            "craftmc.pl"
+        ]
+    },
+    {
+        "id": "heartless",
+        "name": "Heartless GG",
+        "addresses": [
+            "heartless.gg"
+        ]
+    },
+    {
+        "id": "donutsmp",
+        "name": "DonutSMP",
+        "addresses": [
+            "donutsmp.net"
+        ]
     }
 ]
