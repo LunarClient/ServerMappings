@@ -1259,5 +1259,12 @@
         "addresses": [
             "latamcraft.es"
         ]
+    },
+    {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc"
+        ]
     }
 ]
