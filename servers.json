@@ -1266,5 +1266,12 @@
         "addresses": [
             "madnetwork.club"
         ]
+    },
+    {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc"
+        ]
     }
 ]
