@@ -1308,5 +1308,12 @@
         "addresses": [
             "donutsmp.net"
         ]
+    },
+    {
+        "id": "playblocks",
+        "name": "Playblocks",
+        "addresses": [
+            "playblocks.org"
+        ]
     }
 ]
