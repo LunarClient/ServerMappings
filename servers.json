@@ -1324,5 +1324,12 @@
         "addresses": [
             "koupah.games"
         ]
+    },
+    {
+        "id": "tearfulmc",
+        "name": "TearfulMC",
+        "addresses": [
+            "tearfulmc.com"
+        ]
     }
 ]
