@@ -933,7 +933,8 @@
         "id": "frozedclub",
         "name": "Frozed Club",
         "addresses": [
-            "elb1to.me"
+            "elb1to.me",
+            "frozed.club"
         ]
     },
     {
@@ -1261,10 +1262,74 @@
         ]
     },
     {
+        "id": "madnetwork",
+        "name": "MadNetwork",
+        "addresses": [
+            "madnetwork.club"
+        ]
+    },
+    {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc"
+        ]
+    },
+    {
+        "id": "starmc",
+        "name": "StarMC.pl",
+        "addresses": [
+            "starmc.pl"
+        ]
+    },
+    {
+        "id": "mineplay",
+        "name": "Mineplay.pl",
+        "addresses": [
+            "mineplay.pl"
+        ]
+    },
+    {
+        "id": "craftmc",
+        "name": "CraftMC.PL",
+        "addresses": [
+            "craftmc.pl"
+        ]
+    },
+    {
+        "id": "heartless",
+        "name": "Heartless GG",
+        "addresses": [
+            "heartless.gg"
+        ]
+    },
+    {
+        "id": "donutsmp",
+        "name": "DonutSMP",
+        "addresses": [
+            "donutsmp.net"
+        ]
+    },
+    {
+        "id": "playblocks",
+        "name": "Playblocks",
+        "addresses": [
+            "playblocks.org",
+            "minealong.com"
+        ]
+    },
+    {
+        "id": "koupahgames",
+        "name": "Koupah Games",
+        "addresses": [
+            "koupah.games"
+        ]
+    },
+    {
         "id": "tearfulmc",
         "name": "TearfulMC",
         "addresses": [
             "tearfulmc.com"
         ]
-    }  
+    }
 ]
