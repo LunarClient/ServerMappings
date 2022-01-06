@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "renshu",
+        "name": "Renshu Network",
+        "addresses": [
+            "renshu.cc"
+        ]
+    },
+    {
         "id": "pgmarcade",
         "name": "PvP Arcade",
         "addresses": [
