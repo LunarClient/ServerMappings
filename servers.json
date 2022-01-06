@@ -1317,5 +1317,12 @@
             "playblocks.org",
             "minealong.com"
         ]
+    },
+    {
+        "id": "koupahgames",
+        "name": "Koupah Games",
+        "addresses": [
+            "koupah.games"
+        ]
     }
 ]
