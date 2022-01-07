@@ -1338,5 +1338,12 @@
         "addresses": [
             "tearfulmc.com"
         ]
+    },
+    {
+        "id": "steelpvp",
+        "name": "SteelPvP 1.16 HCF",
+        "addresses": [
+            "steelpvp.com"
+        ]
     }
 ]
