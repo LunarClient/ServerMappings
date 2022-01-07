@@ -1338,5 +1338,12 @@
         "addresses": [
             "tearfulmc.com"
         ]
+    },
+    {
+        "id": "moonsidemc",
+        "name": "Moonside",
+        "addresses": [
+            "moonsidemc.com"
+        ]
     }
 ]
