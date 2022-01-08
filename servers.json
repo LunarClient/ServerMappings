@@ -1,5 +1,19 @@
 [
     {
+        "id": "dashpvp",
+        "name": "DashPvP",
+        "addresses": [
+            "dashpvp.net"
+        ]
+    },
+    {
+        "id": "renshu",
+        "name": "Renshu Network",
+        "addresses": [
+            "renshu.cc"
+        ]
+    },
+    {
         "id": "pgmarcade",
         "name": "PvP Arcade",
         "addresses": [
@@ -14,10 +28,12 @@
         ]
     },
     {
-        "id": "francyland",
-        "name": "FrancyLand",
+        "id": "tangerinemc",
+        "name": "TangerineMC",
         "addresses": [
-            "francyland.it"    
+            "francyland.it",    
+            "tangerinemc.it",
+            "mcnewsnetwork.it"
         ]
     },    
     {
@@ -281,6 +297,13 @@
         ]
     },
     {
+        "id": "lemonmc",
+        "name": "Lemon Network",
+        "addresses": [
+            "lemonmc.us"
+        ]
+    },
+    {
         "id": "loverfella",
         "name": "Loverfella",
         "addresses": [
@@ -403,7 +426,8 @@
         "id": "minehut",
         "name": "Minehut Server",
         "addresses": [
-            "minehut.com"
+            "minehut.com",
+            "minehut.gg"
         ]
     },
     {
@@ -749,6 +773,13 @@
         ]
     },
     {
+        "id": "zonemc",
+        "name": "ZoneMC.pl",
+        "addresses": [
+            "zonemc.pl"
+        ]
+    },      
+    {
         "id": "pandakmc",
         "name": "PandakMC",
         "addresses": [
@@ -774,6 +805,13 @@
         "name": "Inertia Network",
         "addresses": [
             "inertia.gg"
+        ]
+    },
+    {
+        "id": "bridgenetwork",
+        "name": "Bridge Network",
+        "addresses": [
+            "bridge.rip"
         ]
     },
     {
@@ -855,6 +893,14 @@
         ]
     },
     {
+        "id": "maritime",
+        "name": "Maritime Network",
+        "addresses": [
+            "maritime.gg",
+            "maritimemc.net"
+        ]
+    },
+    {
         "id": "originrealms",
         "name": "Origin Realms",
         "addresses": [
@@ -894,7 +940,8 @@
         "id": "frozedclub",
         "name": "Frozed Club",
         "addresses": [
-            "elb1to.me"
+            "elb1to.me",
+            "frozed.club"
         ]
     },
     {
@@ -1174,6 +1221,122 @@
         "addresses": [
             "zoltix.net",
             "minecraftoce.net"
+        ]
+    },
+    {
+        "id": "vanic",
+        "name": "Vanic Network",
+        "addresses": [
+            "vanic.us",
+            "vanic.club"
+        ]
+    },
+    {
+        "id": "minescapes",
+        "name": "MineScapes",
+        "addresses": [
+            "minescapes.net"
+        ]
+    },
+    {
+        "id": "warzone",
+        "name": "Warzone Network",
+        "addresses": [
+            "warz.one",
+            "warzone.network"
+        ]
+    },
+    {
+        "id": "acentra",
+        "name": "AcentraMC",
+        "addresses": [
+            "acentramc.com"
+        ]
+    },
+    {
+        "id": "minelatino",
+        "name": "MineLatino",
+        "addresses": [
+            "minelatino.com",
+            "minelatino.net"
+        ]
+    },
+    {
+        "id": "latamcraft",
+        "name": "LatamCraft",
+        "addresses": [
+            "latamcraft.es"
+        ]
+    },
+    {
+        "id": "madnetwork",
+        "name": "MadNetwork",
+        "addresses": [
+            "madnetwork.club"
+        ]
+    },
+    {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc"
+        ]
+    },
+    {
+        "id": "starmc",
+        "name": "StarMC.pl",
+        "addresses": [
+            "starmc.pl"
+        ]
+    },
+    {
+        "id": "mineplay",
+        "name": "Mineplay.pl",
+        "addresses": [
+            "mineplay.pl"
+        ]
+    },
+    {
+        "id": "craftmc",
+        "name": "CraftMC.PL",
+        "addresses": [
+            "craftmc.pl"
+        ]
+    },
+    {
+        "id": "heartless",
+        "name": "Heartless GG",
+        "addresses": [
+            "heartless.gg"
+        ]
+    },
+    {
+        "id": "donutsmp",
+        "name": "DonutSMP",
+        "addresses": [
+            "donutsmp.net"
+        ]
+    },
+    {
+        "id": "playblocks",
+        "name": "Playblocks",
+        "addresses": [
+            "playblocks.org",
+            "minealong.com"
+        ]
+    },
+    {
+        "id": "koupahgames",
+        "name": "Koupah Games",
+        "addresses": [
+            "koupah.games"
+        ]
+    },
+    {
+        "id": "tearfulmc",
+        "name": "TearfulMC",
+        "addresses": [
+            "tearfulmc.com"
         ]
     },
     {
