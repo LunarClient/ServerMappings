@@ -44,6 +44,13 @@
         ]
     },
     {
+        "id": "puritycube",
+        "name": "PurityCube Network",
+        "addresses": [
+            "mc.puritycube.eu"
+        ]
+    },
+    {
         "id": "baldymc",
         "name": "BaldyMC",
         "addresses": [
