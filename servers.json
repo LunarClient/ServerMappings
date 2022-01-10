@@ -5,6 +5,12 @@
         "addresses": [
             "dashpvp.net"
         ]
+    {
+        "id": "crovemc",
+        "name": "CroveMC Network",
+        "addresses": [
+            "crovemc.cc"
+        ]       
     },
     {
         "id": "renshu",
