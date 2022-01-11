@@ -1338,5 +1338,23 @@
         "addresses": [
             "tearfulmc.com"
         ]
+    },
+        {
+        "id": "brawl",
+        "name": "Brawl",
+        "addresses": [
+            "mcbrawl.com",
+            "mc.brawl.com",
+            "brawl.com",
+            "brawl.network",
+            "mc-war.com",
+            "minecraftparty.com",
+            "mcctf.com",
+            "mcpvp.com",
+            "minecraftpvp.com",
+            "1.ctfmatch.brawl.com",
+            "2.ctfmatch.brawl.com",
+            "3.ctfmatch.brawl.com"
+        ]
     }
 ]
