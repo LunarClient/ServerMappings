@@ -1338,5 +1338,12 @@
         "addresses": [
             "tearfulmc.com"
         ]
+    },
+    {
+        "id": "magiccraft",
+        "name": "MagicCraft",
+        "addresses": [
+            "mc.magiccraft.fr"
+        ]
     }
 ]
