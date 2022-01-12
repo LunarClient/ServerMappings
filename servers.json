@@ -1239,6 +1239,13 @@
         ]
     },
     {
+        "id": "cometmc",
+        "name": "CometMC Network",
+        "addresses": [
+            "cometmc.club"
+        ]
+    },  
+    {
         "id": "warzone",
         "name": "Warzone Network",
         "addresses": [
