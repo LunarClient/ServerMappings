@@ -1338,5 +1338,12 @@
         "addresses": [
             "tearfulmc.com"
         ]
-    }
+    },
+    {
+        "id": "kyrogg",
+        "name": "Kyro Network",
+        "addresses": [
+            "kyro.gg"
+        ]
+    }    
 ]
