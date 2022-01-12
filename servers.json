@@ -1352,5 +1352,12 @@
         "addresses": [
             "kyro.gg"
         ]
+    },
+    {
+        "id": "moonsidemc",
+        "name": "Moonside",
+        "addresses": [
+            "moonsidemc.com"
+        ]
     }
 ]
