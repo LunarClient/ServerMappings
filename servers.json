@@ -1340,6 +1340,13 @@
         ]
     },
     {
+        "id": "kyrogg",
+        "name": "Kyro Network",
+        "addresses": [
+            "kyro.gg"
+        ]
+    },
+    {
         "id": "moonsidemc",
         "name": "Moonside",
         "addresses": [
