@@ -837,5 +837,13 @@
         "addresses": [
             "beastmc.net"
         ]
+    },
+    {
+        "id": "mystichq",
+        "name": "MysticHQ Network",
+        "addresses": [
+            "mystichq.club",
+            "mystichq.net"
+        ]
     }
 ]
