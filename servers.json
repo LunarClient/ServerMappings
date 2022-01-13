@@ -1366,5 +1366,12 @@
         "addresses": [
             "moonsidemc.com"
         ]
+    },
+    {
+        "id": "betterpvp",
+        "name": "BetterPvP",
+        "addresses": [
+            "betterpvp.club"
+        ]
     }
 ]
