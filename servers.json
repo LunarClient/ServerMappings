@@ -1366,5 +1366,14 @@
         "addresses": [
             "moonsidemc.com"
         ]
+    },
+    {
+        "id": "mystichq",
+        "name": "MysticHQ Network",
+        "addresses": [
+            "MysticHQ.club"
+            "mc.MysticHQ.club"
+            "MysticHQ.net"
+        ]
     }
 ]
