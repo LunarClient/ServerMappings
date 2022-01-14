@@ -1387,5 +1387,12 @@
             "mcpvp.com",
             "minecraftpvp.com"
         ]
+    },
+    {
+        "id": "betterpvp",
+        "name": "BetterPvP",
+        "addresses": [
+            "betterpvp.club"
+        ]
     }
 ]
