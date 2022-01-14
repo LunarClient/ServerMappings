@@ -9,10 +9,10 @@
 * [ ] There are no syntax errors.
 * [ ] There is no pre-existing mapping with your id.
 * [ ] My field values match your requirements.
-* *You can view our patterns here: [servers.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/servers.schema.json), or take a look below:*
-  - `id`: a lowercase string *(ex. `myserver`)*
-  - `name`: a string *(ex. `MyServerPvP`)*
-  - `addresses`: an array with lowercase strings *(ex. of address `my.server`)*
+* You can view our patterns here: [servers.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/servers.schema.json), or take a look below and complete the field checklist:
+  - [ ] `id`: a lowercase string *(ex. `myserver`)*
+  - [ ] `name`: a string *(ex. `MyServerPvP`)*
+  - [ ] `addresses`: an array with lowercase strings *(ex. of address `my.server`)*
     - You do not need to specify sub-domains, Lunar Client services automatically detect them.
 
 ### Logo Additions or Updates:
