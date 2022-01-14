@@ -7,7 +7,7 @@
 
 * [ ] My formatting matches the pre-existing formatting.
 * [ ] There are no syntax errors.
-* [ ] There is no pre-existing mapping with your id.
+* [ ] There is no pre-existing mapping with my id.
 * [ ] My field values match your requirements.
 * You can view our patterns here: [servers.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/servers.schema.json), or take a look below and complete the field checklist:
   - [ ] `id`: a lowercase string *(ex. `myserver`)*
