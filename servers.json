@@ -1239,6 +1239,13 @@
         ]
     },
     {
+        "id": "cometmc",
+        "name": "CometMC Network",
+        "addresses": [
+            "cometmc.club"
+        ]
+    },  
+    {
         "id": "warzone",
         "name": "Warzone Network",
         "addresses": [
@@ -1339,7 +1346,28 @@
             "tearfulmc.com"
         ]
     },
-        {
+    {
+        "id": "magiccraft",
+        "name": "MagicCraft",
+        "addresses": [
+            "magiccraft.fr"
+        ]
+    },
+    {
+        "id": "kyrogg",
+        "name": "Kyro Network",
+        "addresses": [
+            "kyro.gg"
+        ]
+    },
+    {
+        "id": "moonsidemc",
+        "name": "Moonside",
+        "addresses": [
+            "moonsidemc.com"
+        ]
+    },
+    {
         "id": "brawl",
         "name": "Brawl",
         "addresses": [
