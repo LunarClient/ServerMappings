@@ -804,7 +804,8 @@
         "id": "pvparcade",
         "name": "PvP Arcade",
         "addresses": [
-            "pvparcade.gg"
+            "pvparcade.gg",
+            "aripvp.club"
         ]
     },
     {
@@ -1012,13 +1013,6 @@
         "name": "Muffinized Network",
         "addresses": [
             "muffinized.net"
-        ]
-    },
-    {
-        "id": "aripvp",
-        "name": "AriPvP Network",
-        "addresses": [
-            "aripvp.club"
         ]
     },
     {
