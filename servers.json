@@ -1388,5 +1388,12 @@
         "addresses": [
             "betterpvp.club"
         ]
+    },
+    {
+        "id": "treepark",
+        "name": "TreePark",
+        "addresses": [
+            "play.treepark.games"
+        ]
     }
 ]
