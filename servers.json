@@ -1391,9 +1391,9 @@
     },
     {
         "id": "treepark",
-        "name": "TreePark",
+        "name": "TreeParkMC",
         "addresses": [
-            "play.treepark.games"
+            "treepark.games"
         ]
     }
 ]
