@@ -1382,6 +1382,13 @@
             "minecraftpvp.com"
         ]
     },
+	{
+        "id": "cubly",
+        "name": "Cubly",
+        "addresses": [
+            "cubly.eu"
+        ]
+    },
     {
         "id": "betterpvp",
         "name": "BetterPvP",
