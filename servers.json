@@ -1424,5 +1424,12 @@
             "mystichq.club",
             "mystichq.net"
         ]
+    },
+    {
+        "id": "steelpvp",
+        "name": "SteelPvP",
+        "addresses": [
+            "steelpvp.com"
+        ]
     }
 ]
