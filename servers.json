@@ -1,5 +1,12 @@
 [
     {
+        "id": "totalfreedom",
+        "name": "Total Freedom",
+        "addresses": [
+            "totalfreedom.me"
+        ]
+    },
+    {
         "id": "dashpvp",
         "name": "DashPvP",
         "addresses": [
