@@ -1416,5 +1416,13 @@
         "addresses": [
             "treepark.games"
         ]
+    },
+    {
+        "id": "mystichq",
+        "name": "MysticHQ Network",
+        "addresses": [
+            "mystichq.club",
+            "mystichq.net"
+        ]
     }
 ]
