@@ -1,9 +1,23 @@
 [
     {
+        "id": "totalfreedom",
+        "name": "Total Freedom",
+        "addresses": [
+            "totalfreedom.me"
+        ]
+    },
+    {
         "id": "dashpvp",
         "name": "DashPvP",
         "addresses": [
             "dashpvp.net"
+        ]
+    },
+    {
+        "id": "crovemc",
+        "name": "CroveMC Network",
+        "addresses": [
+            "crovemc.cc"
         ]
     },
     {
@@ -804,7 +818,8 @@
         "id": "pvparcade",
         "name": "PvP Arcade",
         "addresses": [
-            "pvparcade.gg"
+            "pvparcade.gg",
+            "aripvp.club"
         ]
     },
     {
@@ -1012,13 +1027,6 @@
         "name": "Muffinized Network",
         "addresses": [
             "muffinized.net"
-        ]
-    },
-    {
-        "id": "aripvp",
-        "name": "AriPvP Network",
-        "addresses": [
-            "aripvp.club"
         ]
     },
     {
@@ -1389,10 +1397,32 @@
         ]
     },
     {
+        "id": "cubly",
+        "name": "Cubly",
+        "addresses": [
+            "cubly.eu"
+        ]
+    },
+    {
         "id": "betterpvp",
         "name": "BetterPvP",
         "addresses": [
             "betterpvp.club"
+        ]
+    },
+    {
+        "id": "treepark",
+        "name": "TreeparkMC",
+        "addresses": [
+            "treepark.games"
+        ]
+    },
+    {
+        "id": "mystichq",
+        "name": "MysticHQ Network",
+        "addresses": [
+            "mystichq.club",
+            "mystichq.net"
         ]
     },
     {
