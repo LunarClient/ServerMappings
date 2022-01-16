@@ -1426,6 +1426,13 @@
         ]
     },
     {
+        "id": "steelpvp",
+        "name": "SteelPvP",
+        "addresses": [
+            "steelpvp.com"
+        ]
+    },
+    {
         "id": "slyce",
         "name": "Slyce",
         "addresses": [
