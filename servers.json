@@ -1,5 +1,12 @@
 [
     {
+        "id": "fazepvp",
+        "name": "FazePvP Network",
+        "addresses": [
+            "fazepvp.club"
+        ]
+    },
+    {
         "id": "totalfreedom",
         "name": "Total Freedom",
         "addresses": [
