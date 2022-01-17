@@ -1,5 +1,12 @@
 [
     {
+        "id": "fazepvp",
+        "name": "FazePvP Network",
+        "addresses": [
+            "fazepvp.club"
+        ]
+    },
+    {
         "id": "totalfreedom",
         "name": "Total Freedom",
         "addresses": [
@@ -1208,6 +1215,20 @@
         ]
     },
     {
+       "id": "minegem",
+        "name": "Minegem Network",
+        "addresses": [
+            "minegem.org"
+        ]
+    },
+    {
+       "id": "minearcade",
+        "name": "MineArcade",
+        "addresses": [
+            "minearcade.org"
+        ]
+     },
+   {
         "id": "imaginefun",
         "name": "ImagineFun",
         "addresses": [
@@ -1439,6 +1460,13 @@
             "slycemc.eu",
             "slycemc.com",
             "slyce.fr"
+        ]
+    },
+    {
+        "id": "aqualynetwork",
+        "name": "Aqualy Network",
+        "addresses": [
+            "aqualy.cc"
         ]
     },
     {
