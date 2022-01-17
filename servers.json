@@ -1476,5 +1476,12 @@
             "topstrix.net",
             "topstrix.com"
         ]
+    },
+    {
+        "id": "starpvp",
+        "name": "StarPvP",
+        "addresses": [
+            "starpvp.cf"
+        ]
     }
 ]
