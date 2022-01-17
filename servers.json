@@ -1208,6 +1208,20 @@
         ]
     },
     {
+       "id": "minegem",
+        "name": "Minegem Network",
+        "addresses": [
+            "minegem.org"
+        ]
+    },
+    {
+       "id": "minearcade",
+        "name": "MineArcade",
+        "addresses": [
+            "minearcade.org"
+        ]
+     },
+   {
         "id": "imaginefun",
         "name": "ImagineFun",
         "addresses": [
