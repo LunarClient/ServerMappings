@@ -1,9 +1,30 @@
 [
     {
+        "id": "fazepvp",
+        "name": "FazePvP Network",
+        "addresses": [
+            "fazepvp.club"
+        ]
+    },
+    {
+        "id": "totalfreedom",
+        "name": "Total Freedom",
+        "addresses": [
+            "totalfreedom.me"
+        ]
+    },
+    {
         "id": "dashpvp",
         "name": "DashPvP",
         "addresses": [
             "dashpvp.net"
+        ]
+    },
+    {
+        "id": "crovemc",
+        "name": "CroveMC Network",
+        "addresses": [
+            "crovemc.cc"
         ]
     },
     {
@@ -41,6 +62,13 @@
         "name": "EdenMine Network",
         "addresses": [
             "edenmine.eu"
+        ]
+    },
+    {
+        "id": "puritycube",
+        "name": "PurityCube Network",
+        "addresses": [
+            "puritycube.eu"
         ]
     },
     {
@@ -797,7 +825,8 @@
         "id": "pvparcade",
         "name": "PvP Arcade",
         "addresses": [
-            "pvparcade.gg"
+            "pvparcade.gg",
+            "aripvp.club"
         ]
     },
     {
@@ -1008,13 +1037,6 @@
         ]
     },
     {
-        "id": "aripvp",
-        "name": "AriPvP Network",
-        "addresses": [
-            "aripvp.club"
-        ]
-    },
-    {
         "id": "aplaxy",
         "name": "Aplaxy Network",
         "addresses": [
@@ -1193,6 +1215,20 @@
         ]
     },
     {
+       "id": "minegem",
+        "name": "Minegem Network",
+        "addresses": [
+            "minegem.org"
+        ]
+    },
+    {
+       "id": "minearcade",
+        "name": "MineArcade",
+        "addresses": [
+            "minearcade.org"
+        ]
+     },
+   {
         "id": "imaginefun",
         "name": "ImagineFun",
         "addresses": [
@@ -1368,12 +1404,92 @@
         ]
     },
     {
+        "id": "brawl",
+        "name": "Brawl",
+        "addresses": [
+            "mcbrawl.com",
+            "brawl.com",
+            "brawl.network",
+            "mc-war.com",
+            "minecraftparty.com",
+            "mcctf.com",
+            "mcpvp.com",
+            "minecraftpvp.com"
+        ]
+    },
+    {
+        "id": "cubly",
+        "name": "Cubly",
+        "addresses": [
+            "cubly.eu"
+        ]
+    },
+    {
+        "id": "betterpvp",
+        "name": "BetterPvP",
+        "addresses": [
+            "betterpvp.club"
+        ]
+    },
+    {
+        "id": "treepark",
+        "name": "TreeparkMC",
+        "addresses": [
+            "treepark.games"
+        ]
+    },
+    {
         "id": "mystichq",
         "name": "MysticHQ Network",
         "addresses": [
-            "MysticHQ.club"
-            "mc.MysticHQ.club"
-            "MysticHQ.net"
+            "mystichq.club",
+            "mystichq.net"
+        ]
+    },
+    {
+        "id": "steelpvp",
+        "name": "SteelPvP",
+        "addresses": [
+            "steelpvp.com"
+        ]
+    },
+    {
+        "id": "slyce",
+        "name": "Slyce",
+        "addresses": [
+            "slycemc.eu",
+            "slycemc.com",
+            "slyce.fr"
+        ]
+    },
+    {
+        "id": "aqualynetwork",
+        "name": "Aqualy Network",
+        "addresses": [
+            "aqualy.cc"
+        ]
+    },
+    {
+        "id": "topstrix",
+        "name": "TopStrix Network",
+        "addresses": [
+            "topstrix.net",
+            "topstrix.com"
+        ]
+    },
+    {
+        "id": "starpvp",
+        "name": "StarPvP",
+        "addresses": [
+            "starpvp.cf"
+        ]
+    },
+    {
+        "id": "mystichq",
+        "name": "MysticHQ Network",
+        "addresses": [
+            "mystichq.club",
+            "mystichq.net"
         ]
     }
 ]
