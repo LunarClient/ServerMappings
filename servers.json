@@ -1454,5 +1454,12 @@
             "slycemc.com",
             "slyce.fr"
         ]
+    },
+    {
+        "id": "aqualynetwork",
+        "name": "Aqualy Network",
+        "addresses": [
+            "aqualy.cc"
+        ]
     }
 ]
