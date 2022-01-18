@@ -1,5 +1,12 @@
 [
     {
+        "id": "tsmp",
+        "name": "Tristan SMP",
+        "addresses": [
+            "tristansmp.com"
+        ]
+    },
+    {
         "id": "fazepvp",
         "name": "FazePvP Network",
         "addresses": [
