@@ -1485,6 +1485,13 @@
         ]
     },
     {
+        "id": "londinemc",
+        "name": "LondineMC",
+        "addresses": [
+            "londinemc.it"
+        ]    
+    },    
+    {
         "id": "starpvp",
         "name": "StarPvP",
         "addresses": [
