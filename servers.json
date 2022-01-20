@@ -1497,5 +1497,12 @@
         "addresses": [
             "starpvp.cf"
         ]
-    }
+    },
+    {
+        "id": "aurapvp",
+        "name": "AuraPvP",
+        "addresses": [
+            "aurapvp.com"
+        ]
+    }    
 ]
