@@ -1,5 +1,12 @@
 [
     {
+        "id": "crackpixel",
+        "name": "Crackpixel Network",
+        "addresses": [
+            "crackpixel.net"
+        ]
+    },
+    {
         "id": "tsmp",
         "name": "Tristan SMP",
         "addresses": [
