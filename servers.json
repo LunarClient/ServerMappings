@@ -1,5 +1,13 @@
 [
     {
+        "id": "aetheriamc",
+        "name": "AetheriaMC",
+        "addresses": [
+          "aetheria.world",
+          "aetheriamc.xyz"
+        ]
+    },
+    {
         "id": "tsmp",
         "name": "Tristan SMP",
         "addresses": [
