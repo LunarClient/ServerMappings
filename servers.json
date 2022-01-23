@@ -7,6 +7,14 @@
         ]
     },
     {
+        "id": "aetheriamc",
+        "name": "AetheriaMC",
+        "addresses": [
+          "aetheria.world",
+          "aetheriamc.xyz"
+        ]
+    },
+    {
         "id": "tsmp",
         "name": "Tristan SMP",
         "addresses": [
@@ -1503,6 +1511,13 @@
         "name": "StarPvP",
         "addresses": [
             "starpvp.cf"
+        ]
+    },
+    {
+        "id": "vortexnetwork",
+        "name": "Vortex Network",
+        "addresses": [
+            "vortexnetwork.net"
         ]
     }
 ]
