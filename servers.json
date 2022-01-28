@@ -1521,5 +1521,12 @@
         "addresses": [
             "vortexnetwork.net"
         ]
+    },
+    {
+        "id": "virtualhit",
+        "name": "VirtualHit Network",
+        "addresses": [
+            "virtualhit.es"
+        ]
     }
 ]
