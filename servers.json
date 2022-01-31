@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "ncea",
+        "name": "NCEAHelp",
+        "addresses": [
+            "nceahelp.com"
+        ]
+    },    
+    {
         "id": "aetheriamc",
         "name": "AetheriaMC",
         "addresses": [
