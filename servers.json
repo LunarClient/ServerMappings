@@ -1523,6 +1523,15 @@
         ]
     },
     {
+		"id": voidedcraft
+		"name": Voidedcraft Bedwars
+		"addresses": VoidedCraft.Club,
+		             VoidedCraft.mc-srv.com,
+		             VoidedCraft.gamename.net,
+		             VoidedCraft.mcalias.com
+		]
+    },
+    {
         "id": "virtualhit",
         "name": "VirtualHit Network",
         "addresses": [
