@@ -1516,6 +1516,13 @@
         ]
     },
     {
+        "id": "stratusnetwork",
+        "name": "Stratus Network",
+        "addresses": [
+            "stratus.network"
+        ]
+    },
+    {
         "id": "vortexnetwork",
         "name": "Vortex Network",
         "addresses": [
