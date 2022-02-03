@@ -1528,5 +1528,12 @@
         "addresses": [
             "virtualhit.es"
         ]
+    },
+    {
+        "id": "soundcraft",
+        "name": "SoundCraft",
+        "addresses": [
+            "soundcraft.it"
+        ]
     }
 ]
