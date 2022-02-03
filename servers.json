@@ -1549,5 +1549,12 @@
         "addresses": [
             "vurtux.cc"
         ]
+    },
+    {
+        "id": "soundcraft",
+        "name": "SoundCraft",
+        "addresses": [
+            "soundcraft.it"
+        ]
     }
 ]
