@@ -1528,5 +1528,12 @@
         "addresses": [
             "virtualhit.es"
         ]
+    },
+        {
+        "id": "vurtuxnetwork",
+        "name": "Vurtux Network",
+        "addresses": [
+            "vurtux.cc"
+        ]
     }
 ]
