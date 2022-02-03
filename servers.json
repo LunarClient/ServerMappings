@@ -1529,6 +1529,13 @@
             "virtualhit.es"
         ]
     },
+        {
+        "id": "vurtuxnetwork",
+        "name": "Vurtux Network",
+        "addresses": [
+            "vurtux.cc"
+        ]
+    },
     {
         "id": "soundcraft",
         "name": "SoundCraft",
