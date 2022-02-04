@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "ncea",
+        "name": "NCEAHelp",
+        "addresses": [
+            "nceahelp.com"
+        ]
+    },    
+    {
         "id": "aetheriamc",
         "name": "AetheriaMC",
         "addresses": [
@@ -1516,6 +1523,13 @@
         ]
     },
     {
+        "id": "stratusnetwork",
+        "name": "Stratus Network",
+        "addresses": [
+            "stratus.network"
+        ]
+    },
+    {
         "id": "vortexnetwork",
         "name": "Vortex Network",
         "addresses": [
@@ -1529,14 +1543,28 @@
             "virtualhit.es"
         ]
     },
+        {
+        "id": "vurtuxnetwork",
+        "name": "Vurtux Network",
+        "addresses": [
+            "vurtux.cc"
+        ]
+    },
+    {
+        "id": "soundcraft",
+        "name": "SoundCraft",
+        "addresses": [
+            "soundcraft.it"
+        ]
+    },
     {
         "id": "voidedcraft",
         "name": "Voidedcraft Bedwars",
         "addresses": [
             "voidedcraft.club",
-	    "voidedcraft.mc-srv.com",
-	    "voidedcraft.gamename.net",
-	    "voidedcraft.mcalias.com"
+	          "voidedcraft.mc-srv.com",
+	          "voidedcraft.gamename.net",
+	          "voidedcraft.mcalias.com"
         ]
     }
 ]
