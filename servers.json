@@ -1556,5 +1556,15 @@
         "addresses": [
             "soundcraft.it"
         ]
+    },
+    {
+        "id": "voidedcraft",
+        "name": "Voidedcraft Bedwars",
+        "addresses": [
+            "voidedcraft.club",
+	    "voidedcraft.mc-srv.com",
+	    "voidedcraft.gamename.net",
+	    "voidedcraft.mcalias.com"
+        ]
     }
 ]
