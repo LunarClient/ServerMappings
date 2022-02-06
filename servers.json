@@ -1566,5 +1566,13 @@
 	    "voidedcraft.gamename.net",
 	    "voidedcraft.mcalias.com"
         ]
+    },
+    {
+        "id": "voltyum",
+        "name": "Voltyum Network",
+        "addresses": [
+            "play.voltyum.net",
+            "mc.voltyum.net"
+        ]
     }
 ]
