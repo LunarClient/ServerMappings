@@ -1,5 +1,12 @@
 [
     {
+        "id": "astromc",
+        "name": "AstroMC",
+        "addresses": [
+            "astromc.cc"
+        ]
+    },
+    {
         "id": "crackpixel",
         "name": "Crackpixel Network",
         "addresses": [
