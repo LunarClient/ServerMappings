@@ -1573,5 +1573,12 @@
 	    "voidedcraft.gamename.net",
 	    "voidedcraft.mcalias.com"
         ]
-    }
+    },
+    {
+        "id": "prospect",
+        "name": "Prospect Network",
+        "addresses": [
+            "prospect.rip"
+        ]
+    },
 ]
