@@ -1573,5 +1573,12 @@
 	    "voidedcraft.gamename.net",
 	    "voidedcraft.mcalias.com"
         ]
+    },
+    {
+        "id": "monkeland",
+        "name": "MonkeLand",
+        "addresses": [
+            "monkeland.net"
+        ]
     }
 ]
