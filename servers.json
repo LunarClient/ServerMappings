@@ -1580,5 +1580,12 @@
         "addresses": [
             "monkeland.net"
         ]
+    },
+    {
+        "id": "verio",
+        "name": "Verio",
+        "addresses": [
+            "verio.cc"
+        ]
     }
 ]
