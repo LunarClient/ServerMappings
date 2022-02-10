@@ -1571,8 +1571,7 @@
         "id": "voltyum",
         "name": "Voltyum Network",
         "addresses": [
-            "play.voltyum.net",
-            "mc.voltyum.net"
+            "voltyum.net"
         ]
     }
 ]
