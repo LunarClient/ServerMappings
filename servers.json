@@ -908,10 +908,10 @@
         ]
     },
     {
-        "id": "tempest",
-        "name": "Tempest Network",
+        "id": "mythicalmc",
+        "name": "MythicalMC Network",
         "addresses": [
-            "tempest.wtf"
+            "play.mythicalmc.org"
         ]
     },
     {
