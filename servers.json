@@ -1,5 +1,12 @@
 [
     {
+        "id": "astromc",
+        "name": "AstroMC",
+        "addresses": [
+            "astromc.cc"
+        ]
+    },
+    {
         "id": "crackpixel",
         "name": "Crackpixel Network",
         "addresses": [
@@ -1565,6 +1572,20 @@
 	    "voidedcraft.mc-srv.com",
 	    "voidedcraft.gamename.net",
 	    "voidedcraft.mcalias.com"
+        ]
+    },
+    {
+        "id": "monkeland",
+        "name": "MonkeLand",
+        "addresses": [
+            "monkeland.net"
+        ]
+    },
+    {
+        "id": "verio",
+        "name": "Verio",
+        "addresses": [
+            "verio.cc"
         ]
     },
     {
