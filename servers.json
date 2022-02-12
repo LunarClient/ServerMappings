@@ -1575,6 +1575,20 @@
         ]
     },
     {
+        "id": "monkeland",
+        "name": "MonkeLand",
+        "addresses": [
+            "monkeland.net"
+        ]
+    },
+    {
+        "id": "verio",
+        "name": "Verio",
+        "addresses": [
+            "verio.cc"
+        ]
+    },
+    {
         "id": "prospect",
         "name": "Prospect Network",
         "addresses": [
