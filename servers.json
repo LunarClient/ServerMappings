@@ -1589,6 +1589,13 @@
         ]
     },
     {
+        "id": "voltyum",
+        "name": "Voltyum Network",
+        "addresses": [
+            "voltyum.net"
+        ]
+    },
+    {
         "id": "prospect",
         "name": "Prospect Network",
         "addresses": [
