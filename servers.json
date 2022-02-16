@@ -1609,5 +1609,16 @@
             "hcrise.com",
 	    "hcrise.net"
         ]
-    }	
+    },
+    {
+        "id": "comugamrs",
+        "name": "ComuGamers Network",
+        "addresses": [
+            "comugamers.com",
+	    "comugamers.net",
+	    "comugamers.org",
+	    "comugamers.eu",
+	    "cgm.rs"
+        ]
+    }
 ]
