@@ -1601,5 +1601,13 @@
         "addresses": [
             "prospect.rip"
         ]
-    }
+    },
+    {
+        "id": "hcrise",
+        "name": "HCRise",
+        "addresses": [
+            "hcrise.com",
+	    "hcrise.net"
+        ]
+    }	
 ]
