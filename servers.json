@@ -1596,6 +1596,13 @@
         ]
     },
     {
+        "id": "valleypvp",
+        "name": "Valley Network",
+        "addresses": [
+            "valleypvp.us"
+        ]
+    },
+    {
         "id": "prospect",
         "name": "Prospect Network",
         "addresses": [
