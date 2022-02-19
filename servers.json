@@ -1627,5 +1627,12 @@
 	    "comugamers.eu",
 	    "cgm.rs"
         ]
+    },
+    {
+        "id": "buildersrefuge",
+        "name": "BuildersRefuge",
+        "addresses": [
+            "buildersrefuge.com"
+        ]
     }
 ]
