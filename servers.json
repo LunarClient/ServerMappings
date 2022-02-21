@@ -1634,5 +1634,12 @@
 	    "comugamers.eu",
 	    "cgm.rs"
         ]
+    },
+    {
+        "id": "renga",
+        "name": "Renga Network",
+        "addresses": [
+            "realren.ga"
+        ]
     }
 ]
