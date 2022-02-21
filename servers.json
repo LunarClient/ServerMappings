@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "crystal",
+        "name": "Crystal Network",
+        "addresses": [
+            "crystal.rip"
+        ]
+    },
+    {
         "id": "crackpixel",
         "name": "Crackpixel Network",
         "addresses": [
@@ -1626,6 +1633,13 @@
 	    "comugamers.org",
 	    "comugamers.eu",
 	    "cgm.rs"
+        ]
+    },
+    {
+        "id": "renga",
+        "name": "Renga Network",
+        "addresses": [
+            "realren.ga"
         ]
     },
     {
