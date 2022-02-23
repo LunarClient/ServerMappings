@@ -1641,5 +1641,12 @@
         "addresses": [
             "realren.ga"
         ]
+    },
+    {
+	"id": "zyro",
+	"name": "Zyro Network",
+	"addresses": [
+	    "zyro.gg"
+	]
     }
 ]
