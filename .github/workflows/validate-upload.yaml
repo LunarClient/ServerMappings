@@ -51,7 +51,7 @@ jobs:
           cp servers.json _out/
           
       - name: Upload to S3
-        run: aws s3 sync _out s3://lcservermappings --delete --cache-control "public, max-age=604800, immutable"
+        run: aws s3 sync _out s3://lunarclient-cdn-servermappings --delete --cache-control "public, max-age=604800, immutable"
 
       - name: Purge cache
         run: aws cloudfront create-invalidation --distribution-id E45B8N9YLM3QG --paths "/*"
