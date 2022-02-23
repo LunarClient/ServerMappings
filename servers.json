@@ -1648,5 +1648,14 @@
 	"addresses": [
 	    "zyro.gg"
 	]
+    },
+    {
+        "id": "nigxht",
+        "name": "Nigxht Network",
+        "addresses": [
+            "nigxht.net",
+	    "mc.nigxht.us",
+	    "play.nigxht.us"
+        ]
     }
 ]
