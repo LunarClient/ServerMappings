@@ -1655,5 +1655,12 @@
 	"addresses": [
 	    "techcraftmc.com"
 	]
+    },
+    {
+	"id": "megaplanet",
+	"name": "MEGA Planet",
+	"addresses": [
+	    "mc.megaplanet.net"
+	]
     }
 ]
