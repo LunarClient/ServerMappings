@@ -1648,5 +1648,12 @@
 	"addresses": [
 	    "zyro.gg"
 	]
+    },
+    {
+	"id": "sunpvp",
+	"name": "SunPvP Network",
+	"addresses": [
+	    "sunpvp.net"
+	]
     }
 ]
