@@ -1655,5 +1655,12 @@
 	"addresses": [
 	    "sunpvp.net"
 	]
+    },
+    {
+	"id": "techcraft",
+	"name": "TechCraft Network",
+	"addresses": [
+	    "techcraftmc.com"
+	]
     }
 ]
