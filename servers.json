@@ -389,6 +389,13 @@
         ]
     },
     {
+        "id": "skilleddev",
+        "name": "Skilled Development",
+        "addresses": [
+            "mc.skilled-dev.club"
+        ]
+    },	
+    {
         "id": "bedwarspractice",
         "name": "Bedwars Practice",
         "addresses": [
