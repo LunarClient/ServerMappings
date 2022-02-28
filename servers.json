@@ -1655,5 +1655,12 @@
 	"addresses": [
 	    "techcraftmc.com"
 	]
+    },
+    {
+	"id": "valleypvp",
+	"name": "ValleyPvP Network",
+	"addresses": [
+	    "valleypvp.us"
+	]
     }
 ]
