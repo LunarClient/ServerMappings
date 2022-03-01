@@ -1653,9 +1653,14 @@
         "id": "nigxht",
         "name": "Nigxht Network",
         "addresses": [
-            "nigxht.net",
-	    "mc.nigxht.us",
-	    "play.nigxht.us"
+            "nigxht.net"
         ]
+
+	"id": "techcraft",
+	"name": "TechCraft Network",
+	"addresses": [
+	    "techcraftmc.com"
+	]
+
     }
 ]
