@@ -1657,10 +1657,19 @@
 	]
     },
     {
+	"id": "megaplanet",
+	"name": "MEGA Planet",
+	"addresses": [
+	    "megaplanet.net"
+	]
+    },
+  {
+    
 	"id": "valleypvp",
 	"name": "ValleyPvP Network",
 	"addresses": [
 	    "valleypvp.us"
-	]
+  ]
     }
 ]
+
