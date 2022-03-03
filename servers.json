@@ -1669,5 +1669,12 @@
 	"addresses": [
 	    "valleypvp.us"
   	]
+    },
+    {
+	"id": "mexipolis",
+	"name": "Mexipolis Network",
+	"addresses": [
+	    "play.mexipolis.net"
+  	]
     }
 ]
