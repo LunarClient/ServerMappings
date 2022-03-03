@@ -1,5 +1,12 @@
 [
     {
+        "id": "mexipolis",
+        "name": "Mexipolis Network",
+        "addresses": [
+            "play.mexipolis.net"
+        ]
+    },
+    {
         "id": "astromc",
         "name": "AstroMC",
         "addresses": [
