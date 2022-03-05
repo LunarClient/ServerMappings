@@ -1226,7 +1226,9 @@
        "id": "cylonemc",
         "name": "CyloneMC",
         "addresses": [
-            "cylonemc.net"
+            "cylonemc.net",
+            "cylonemc.com",
+            "pvp.cylone.net"
         ]
     },
     {
