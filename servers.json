@@ -1,5 +1,13 @@
 [
     {
+        "id": "nasa",
+        "name": "Nasa Network",
+        "addresses": [
+            "nasa.gg",
+	    "play.nasa.gg"
+        ]
+    },
+    {
         "id": "astromc",
         "name": "AstroMC",
         "addresses": [
