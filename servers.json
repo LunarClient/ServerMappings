@@ -1659,6 +1659,13 @@
 	]
     },
     {
+        "id": "nigxht",
+        "name": "Nigxht Network",
+        "addresses": [
+            "nigxht.net"
+        ]
+    },
+    {
 	"id": "megaplanet",
 	"name": "MEGA Planet",
 	"addresses": [
