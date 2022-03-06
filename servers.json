@@ -1652,6 +1652,13 @@
 	]
     },
     {
+	"id": "sunpvp",
+	"name": "SunPvP Network",
+	"addresses": [
+	    "sunpvp.net"
+	]
+    },
+    {
 	"id": "techcraft",
 	"name": "TechCraft Network",
 	"addresses": [
