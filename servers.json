@@ -1681,6 +1681,13 @@
         ]
     },
     {
+	"id": "protocol",
+	"name": "Protocol Network",
+	"addresses": [
+	    "protocol.rip"
+	]
+    },
+    {
 	"id": "megaplanet",
 	"name": "MEGA Planet",
 	"addresses": [
