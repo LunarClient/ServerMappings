@@ -2,7 +2,7 @@
     {
         "id": "nasa",
         "name": "Nasa Network",
-        "addresses": 
+        "addresses": [
 	    "nasa.gg"
         ]
     },
