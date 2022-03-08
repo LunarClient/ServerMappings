@@ -1699,5 +1699,12 @@
 	"addresses": [
 	    "valleypvp.us"
   	]
+    },
+    {
+        "id": "lovymc",
+	"name": "LovyMC Network",
+	"addresses": [
+	    "lovymc.com"
+	]
     }
 ]
