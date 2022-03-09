@@ -1,5 +1,12 @@
 [
     {
+        "id": "brithnobar",
+        "name": "Brithnobar",
+        "addresses":[
+            "brithnobar.com"
+        ]
+    },
+    {
         "id": "nasa",
         "name": "Nasa Network",
         "addresses": [
