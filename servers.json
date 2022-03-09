@@ -1701,6 +1701,13 @@
   	]
     },
     {
+	"id": "betterpvp",
+	"name": "BetterPvP",
+	"addresses": [
+	    "betterpvp.pl"
+  	]
+    },
+    {
         "id": "lovymc",
 	"name": "LovyMC Network",
 	"addresses": [
