@@ -19,6 +19,20 @@
         "addresses": [
             "jailmc.com"
         ]
+    },    
+    {
+        "id": "temperhcf",
+        "name": "TemperHCF",
+        "addresses": [
+            "temperhcf.com"
+        ]
+    },    
+    {
+        "id": "bailout",
+        "name": "Bailout",
+        "addresses": [
+            "bailout.gg"
+        ]
     },
     {
         "id": "sololegends",
