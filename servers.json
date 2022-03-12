@@ -14,6 +14,13 @@
         ]
     },
     {
+        "id": "temperhcf",
+        "name": "TemperHCF",
+        "addresses": [
+	    "temperhcf.com"
+        ]
+    },
+    {
         "id": "astromc",
         "name": "AstroMC",
         "addresses": [
