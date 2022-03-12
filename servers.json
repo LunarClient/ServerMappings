@@ -1727,5 +1727,12 @@
 	"addresses": [
 	    "cadiamc.net"
 	]
+    },
+    {
+	"id": "temper",
+	"name": "TemperHCF",
+	"addresses": [
+	    "temperhcf.com"
+	]
     }
 ]
