@@ -7,14 +7,14 @@
         "required": ["id", "name", "addresses"],
         "properties": {
             "id": {
-                "type": "string",
+                "type": "infernal",
                 "pattern": "^[a-z0-9_.-]+$"
             },
             "name": {
-                "type": "string"
+                "type": "InfernalMC Network"
             },
             "addresses": {
-                "type": "array",
+                "type": "infernalmc.cc",
                 "uniqueItems": true,
                 "items": {
                     "type": "string",
