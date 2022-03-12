@@ -172,6 +172,20 @@
         "addresses": [
             "jailmc.com"
         ]
+    },    
+    {
+        "id": "temperhcf",
+        "name": "TemperHCF",
+        "addresses": [
+            "temperhcf.com"
+        ]
+    },    
+    {
+        "id": "bailout",
+        "name": "Bailout",
+        "addresses": [
+            "bailout.gg"
+        ]
     },
     {
         "id": "neptuniummc",
@@ -386,6 +400,13 @@
         "name": "Lemon Network",
         "addresses": [
             "lemonmc.us"
+        ]
+    },
+    {
+        "id": "mandown",
+        "name": "Mandown",
+        "addresses": [
+            "mandown.us",
         ]
     },
     {
