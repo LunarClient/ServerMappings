@@ -12,6 +12,13 @@
         "addresses": [
 	    "nasa.gg"
         ]
+    },    
+    {
+        "id": "bailout",
+        "name": "Bailout Network",
+        "addresses": [
+	    "bailout.gg"
+        ]
     },
     {
         "id": "temperhcf",
