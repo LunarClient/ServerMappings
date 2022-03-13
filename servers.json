@@ -1,5 +1,12 @@
 [
     {
+        "id": "brithnobar",
+        "name": "Brithnobar",
+        "addresses":[
+            "brithnobar.com"
+        ]
+    },
+    {
         "id": "nasa",
         "name": "Nasa Network",
         "addresses": [
@@ -1701,6 +1708,13 @@
   	]
     },
     {
+	"id": "betterpvp",
+	"name": "BetterPvP",
+	"addresses": [
+	    "betterpvp.pl"
+  	]
+    },
+    {
         "id": "lovymc",
 	"name": "LovyMC Network",
 	"addresses": [
@@ -1712,6 +1726,12 @@
 	"name": "Ghast Live",
 	"addresses": [
 	    "ghast.live"
+  },
+    {
+        "id": "cadia",
+	"name": "Cadia Network",
+	"addresses": [
+	    "cadiamc.net"
 	]
     }
 ]
