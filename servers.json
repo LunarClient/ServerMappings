@@ -1727,5 +1727,12 @@
 	"addresses": [
 	    "cadiamc.net"
 	]
+    },
+    {
+        "id": "pridetopia",
+	"name": "Pridetopia Network",
+	"addresses": [
+	    "pridetopia.net"
+	]
     }
 ]
