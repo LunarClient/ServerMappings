@@ -12,6 +12,20 @@
         "addresses": [
 	    "nasa.gg"
         ]
+    },    
+    {
+        "id": "bailout",
+        "name": "Bailout Network",
+        "addresses": [
+	    "bailout.gg"
+        ]
+    },
+    {
+        "id": "temperhcf",
+        "name": "TemperHCF",
+        "addresses": [
+	    "temperhcf.com"
+        ]
     },
     {
         "id": "astromc",
