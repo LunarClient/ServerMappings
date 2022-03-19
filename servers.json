@@ -1,3 +1,10 @@
+    {
+        "id": "nightly",
+        "name": "Nightly",
+        "addresses":[
+            "nightlymc.com"
+        ]
+    },
 [
     {
         "id": "brithnobar",
