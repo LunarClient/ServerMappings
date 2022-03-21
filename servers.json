@@ -1,4 +1,11 @@
 [
+   {
+        "id": "nightly",
+        "name": "Nightly",
+        "addresses":[
+            "nightlymc.com"
+          ]
+    },    
     {
         "id": "brithnobar",
         "name": "Brithnobar",
@@ -25,6 +32,13 @@
         "name": "TemperHCF",
         "addresses": [
 	    "temperhcf.com"
+        ]
+    },
+    {
+        "id": "squads",
+        "name": "Squads Network",
+        "addresses": [
+	    "squads.rip"
         ]
     },
     {
@@ -1755,5 +1769,12 @@
 	"addresses": [
 	    "hydracraft.es"
 	]
+    },
+    {
+        "id": "frequencymc",
+        "name": "FrequencyMC",
+        "addresses": [
+            "frequencymc.cc"
+        ]
     }
 ]
