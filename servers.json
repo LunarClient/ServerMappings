@@ -28,6 +28,13 @@
         ]
     },
     {
+        "id": "squads",
+        "name": "Squads Network",
+        "addresses": [
+	    "squads.rip"
+        ]
+    },
+    {
         "id": "astromc",
         "name": "AstroMC",
         "addresses": [
