@@ -1,8 +1,8 @@
-[
+[	
    {
         "id": "visionmc",
         "name": "VisionMC Network",
-        "addresses":[
+        "addresses": [
             "visionmc.club"
             "icantconnectlmao.visionmc.gq"
           ]
@@ -10,14 +10,14 @@
    {
         "id": "nightly",
         "name": "Nightly",
-        "addresses":[
+        "addresses": [
             "nightlymc.com"
           ]
     },    
     {
         "id": "brithnobar",
         "name": "Brithnobar",
-        "addresses":[
+        "addresses": [
             "brithnobar.com"
         ]
     },
