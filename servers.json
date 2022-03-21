@@ -1755,5 +1755,12 @@
 	"addresses": [
 	    "pridetopia.net"
 	]
+    },
+    {
+        "id": "frequencymc",
+        "name": "FrequencyMC",
+        "addresses": [
+            "frequencymc.cc"
+        ]
     }
 ]
