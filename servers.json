@@ -1,15 +1,23 @@
 [
    {
+        "id": "visionmc",
+        "name": "VisionMC Network",
+        "addresses": [
+            "visionmc.club",
+            "visionmc.gq"
+          ]
+   },    
+   {
         "id": "nightly",
         "name": "Nightly",
-        "addresses":[
+        "addresses": [
             "nightlymc.com"
           ]
     },    
     {
         "id": "brithnobar",
         "name": "Brithnobar",
-        "addresses":[
+        "addresses": [
             "brithnobar.com"
         ]
     },
