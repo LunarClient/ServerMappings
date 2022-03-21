@@ -1,5 +1,13 @@
 [
    {
+        "id": "visionmc",
+        "name": "VisionMC Network",
+        "addresses":[
+            "visionmc.club"
+            "icantconnectlmao.visionmc.gq"
+          ]
+   },    
+   {
         "id": "nightly",
         "name": "Nightly",
         "addresses":[
