@@ -1,4 +1,12 @@
-[
+[   
+   {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land",
+            "bypass.esta.land"
+          ]
+   },    
    {
         "id": "visionmc",
         "name": "VisionMC Network",
