@@ -1785,5 +1785,12 @@
         "addresses": [
             "frequencymc.cc"
         ]
+    },
+    {
+        "id": "darkmc",
+        "name": "DarkMC Network",
+        "addresses": [
+            "dark-mc.xyz"
+        ]
     }
 ]
