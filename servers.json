@@ -1780,6 +1780,13 @@
 	]
     },
     {
+        "id": "hydracraftnetwork",
+	"name": "HydraCraft Network",
+	"addresses": [
+	    "hydracraft.es"
+	]
+    },
+    {
         "id": "frequencymc",
         "name": "FrequencyMC",
         "addresses": [
