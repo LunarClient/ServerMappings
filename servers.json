@@ -1,12 +1,20 @@
 [
    {
+        "id": "minexo",
+        "name": "MineXO Network",
+        "addresses":[
+            "minexo.net",
+	    "hcgames.org"
+          ]
+   },    
+   {
         "id": "visionmc",
         "name": "VisionMC Network",
         "addresses": [
             "visionmc.club",
             "visionmc.gq"
           ]
-   },    
+   },
    {
         "id": "nightly",
         "name": "Nightly",
