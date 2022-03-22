@@ -1799,5 +1799,12 @@
         "addresses": [
             "dark-mc.xyz"
         ]
+    },
+    {
+        "id": "neptunepvp",
+        "name": "Neptune Network",
+        "addresses": [
+            "neptunepvp.us"
+        ]
     }
 ]
