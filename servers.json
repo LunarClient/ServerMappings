@@ -1801,10 +1801,10 @@
         ]
     },
     {
-        "id": "neptunepvp",
-        "name": "Neptune Network",
+        "id": "nordicmc",
+        "name": "NordicMC",
         "addresses": [
-            "neptunepvp.us"
+            "nordicmc.es"
         ]
     }
 ]
