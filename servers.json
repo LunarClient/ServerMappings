@@ -1811,8 +1811,7 @@
         "id": "pvpcraftcz",
         "name": "PvPCraft.cz",
         "addresses": [
-            "play.pvpcraft.cz",
-	    "mc.pvpcraft.cz"
+            "pvpcraft.cz"
         ]
     }
 ]
