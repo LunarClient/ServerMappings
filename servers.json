@@ -1,4 +1,11 @@
-[
+[   
+   {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land"
+          ]
+   },    
    {
         "id": "minexo",
         "name": "MineXO Network",
