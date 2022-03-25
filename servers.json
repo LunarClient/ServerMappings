@@ -1,5 +1,12 @@
 [   
    {
+        "id": "ikami",
+        "name": "Ikami Network",
+        "addresses": [
+            "ikami.cc"
+          ]
+   },
+   {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
