@@ -1813,5 +1813,12 @@
         "addresses": [
             "neptunepvp.us"
         ]
+    },
+    {
+        "id": "goldzonecz",
+        "name": "Gold-Zone.cz",
+        "addresses": [
+            "gold-zone.cz"
+        ]
     }
 ]
