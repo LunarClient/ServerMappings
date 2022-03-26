@@ -1,5 +1,12 @@
 [   
    {
+        "id": "ikami",
+        "name": "Ikami Network",
+        "addresses": [
+            "ikami.cc"
+          ]
+   },
+   {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
@@ -1819,6 +1826,21 @@
         "name": "Gold-Zone.cz",
         "addresses": [
             "gold-zone.cz"
+        ]
+    },
+    {
+        "id": "cavrynetwork",
+        "name": "Cavry Network",
+        "addresses": [
+            "cavrynetwork.xyz"
+        ]
+    },
+    {
+        "id": "kandangalwi",
+        "name": "Kandang Alwi",
+        "addresses": [
+            "kandangalwi.net",
+            "kandangalwi.id"
         ]
     }
 ]
