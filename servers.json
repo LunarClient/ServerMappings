@@ -1813,5 +1813,13 @@
         "addresses": [
             "neptunepvp.us"
         ]
+    },
+    {
+        "id": "kandangalwi",
+        "name": "Kandang Alwi",
+        "addresses": [
+            "kandangalwi.net",
+	    "kandangalwi.id"
+        ]
     }
 ]
