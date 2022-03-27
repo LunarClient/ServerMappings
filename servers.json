@@ -1808,6 +1808,13 @@
         ]
     },
     {
+        "id": "galaxycore",
+        "name": "GalaxyCore.net",
+        "addresses": [
+            "galaxycore.net"
+        ]
+    },
+    {
         "id": "darkmc",
         "name": "DarkMC Network",
         "addresses": [
