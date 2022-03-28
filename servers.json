@@ -1835,5 +1835,12 @@
             "kandangalwi.net",
 	    "kandangalwi.id"
         ]
-    }
+    },
+    {
+        "id": "timbw",
+        "name": "TimBW Network",
+        "addresses": [
+            "mc.timbw.xyz"
+        ]
+    }	
 ]
