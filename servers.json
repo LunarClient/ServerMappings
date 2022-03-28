@@ -1829,6 +1829,13 @@
         ]
     },
     {
+        "id": "galactus",
+        "name": "Galactus Network",
+        "addresses": [
+            "galactusmc.gq"
+        ]
+    },
+    {
         "id": "kandangalwi",
         "name": "Kandang Alwi",
         "addresses": [
