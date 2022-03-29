@@ -1835,5 +1835,12 @@
             "kandangalwi.net",
 	    "kandangalwi.id"
         ]
+    },
+    {
+        "id": "PotPvPLand",
+        "name": "PotPvP Land",
+        "addresses": [
+            "potpvp.land"
+        ]
     }
 ]
