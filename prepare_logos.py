@@ -15,7 +15,7 @@ def main():
     parser.add_argument('--input', required=True, type=str)
     parser.add_argument('--source', required=True, type=str)
     parser.add_argument('--destination', required=True, type=str)
-    parser.add_argument('--resize', default='512', type=int)
+    parser.add_argument('--resize', nargs='+', type=int, default=[256])
     parser.add_argument('--lossless', default=False, action='store_true')
     args = parser.parse_args()
 
@@ -33,7 +33,6 @@ def main():
             server_id = server['id']
             server_name = server['name']
             logo_source = '%s/%s.png' % (args.source, server_id)
-            logo_destination = '%s/%s.webp' % (args.destination, server_id)
 
             # Check if server in index has an accompanying logo.
             if not os.path.isfile(logo_source):
@@ -54,21 +53,40 @@ def main():
                         '%s\'s server logo width/height is less than 512px... Please ensure the image meets the requirements before proceeding.' %
                             server_name
                     )
-                
-            # Convert to Webp.
-            output = webptools.cwebp(
-                input_image=(logo_source),
-                output_image=(logo_destination),
-                option=('-lossless ' if args.lossless else '') + f'-resize {args.resize} {args.resize} -metadata none'
+
+            # Base 512 Size
+            convert_and_resize(
+                logo_source,
+                '%s/%s.webp' % (args.destination, server_id),
+                512,
+                args.lossless
             )
-            if output['exit_code']:
-                raise OSError(f'Failed to run cwebp on {logo_source}: {output}')
+
+            # Size-based destination name
+            for size in args.resize:
+                convert_and_resize(
+                    logo_source,
+                    '%s/%s-%s.webp' % (args.destination, server_id, size),
+                    size,
+                    args.lossless
+                )
 
             print('Successfully converted %s\'s logo.' % server_name)
         except Exception:
             print('Couldn\'t process %s\'s logo... Skipping.' % server_name)
 
     print('Done!')
+
+
+def convert_and_resize(source, destination, size, lossless):
+    output = webptools.cwebp(
+        input_image=(source),
+        output_image=(destination),
+        option=('-lossless ' if lossless else '') + f'-resize {size} {size} -metadata none'
+    )
+
+    if output['exit_code']:
+        raise OSError(f'Failed to run cwebp on {source}: {output}')
         
 
 if __name__ == '__main__':
