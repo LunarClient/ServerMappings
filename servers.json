@@ -1,4 +1,18 @@
-[
+[   
+   {
+        "id": "ikami",
+        "name": "Ikami Network",
+        "addresses": [
+            "ikami.cc"
+          ]
+   },
+   {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land"
+          ]
+   },    
    {
         "id": "minexo",
         "name": "MineXO Network",
@@ -1794,6 +1808,13 @@
         ]
     },
     {
+        "id": "galaxycore",
+        "name": "GalaxyCore.net",
+        "addresses": [
+            "galaxycore.net"
+        ]
+    },
+    {
         "id": "darkmc",
         "name": "DarkMC Network",
         "addresses": [
@@ -1801,10 +1822,39 @@
         ]
     },
     {
-        "id": "neptunepvp",
-        "name": "Neptune Network",
+        "id": "nordicmc",
+        "name": "NordicMC",
         "addresses": [
-            "neptunepvp.us"
+            "nordicmc.es"
+        ]
+    },
+    {
+        "id": "goldzonecz",
+        "name": "Gold-Zone.cz",
+        "addresses": [
+            "gold-zone.cz"
+        ]
+    },
+    {
+        "id": "cavrynetwork",
+        "name": "Cavry Network",
+        "addresses": [
+            "cavrynetwork.xyz"
+        ]
+    },
+    {
+        "id": "kandangalwi",
+        "name": "Kandang Alwi",
+        "addresses": [
+            "kandangalwi.net",
+            "kandangalwi.id"
+        ]
+    },
+    {
+        "id": "timbw",
+        "name": "TimBW Network",
+        "addresses": [
+            "timbw.xyz"
         ]
     },
     {
