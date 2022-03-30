@@ -1863,5 +1863,12 @@
         "addresses": [
             "pvpcraft.cz"
         ]
+    },
+    {
+        "id": "stolencode",
+        "name": "StolenCode",
+        "addresses": [
+            "stolencode.fun"
+        ]
     }
 ]
