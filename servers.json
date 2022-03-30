@@ -1865,6 +1865,13 @@
         ]
     },
     {
+        "id": "hylers",
+        "name": "Hylers Network",
+        "addresses": [
+            "hylers.net"
+        ]
+    },
+    {
         "id": "motimaa",
         "name": "Motimaa",
         "addresses": [
