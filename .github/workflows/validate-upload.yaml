@@ -46,7 +46,7 @@ jobs:
         run: pip install webptools Pillow
 
       - name: Prepare Server Logos
-        run: python prepare_logos.py --input servers.json --source logos --destination _out/logos
+        run: python prepare_logos.py --input servers.json --source logos --destination _out/logos --resize 256 128 64 32
 
       - name: Move servers.json to upload directory
         run: |

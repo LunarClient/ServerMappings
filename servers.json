@@ -1865,6 +1865,34 @@
         ]
     },
     {
+        "id": "hylers",
+        "name": "Hylers Network",
+        "addresses": [
+            "hylers.net"
+        ]
+    },
+    {
+        "id": "motimaa",
+        "name": "Motimaa",
+        "addresses": [
+            "motimaa.net"
+        ]
+    },
+    {
+        "id": "quutio",
+        "name": "Quut.io",
+        "addresses": [
+            "quut.io"
+        ]
+    },
+    {
+        "id": "potpvpland",
+        "name": "PotPvP Land",
+        "addresses": [
+            "potpvp.land"
+        ]
+    },
+    {
         "id": "stolencode",
         "name": "StolenCode",
         "addresses": [
