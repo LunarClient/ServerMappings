@@ -1891,5 +1891,12 @@
         "addresses": [
             "potpvp.land"
         ]
+    },
+    {
+        "id": "stolencode",
+        "name": "StolenCode",
+        "addresses": [
+            "stolencode.fun"
+        ]
     }
 ]
