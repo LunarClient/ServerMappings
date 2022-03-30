@@ -1,4 +1,76 @@
-[
+[   
+   {
+        "id": "ikami",
+        "name": "Ikami Network",
+        "addresses": [
+            "ikami.cc"
+          ]
+   },
+   {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land"
+          ]
+   },    
+   {
+        "id": "minexo",
+        "name": "MineXO Network",
+        "addresses":[
+            "minexo.net",
+	    "hcgames.org"
+          ]
+   },    
+   {
+        "id": "visionmc",
+        "name": "VisionMC Network",
+        "addresses": [
+            "visionmc.club",
+            "visionmc.gq"
+          ]
+   },
+   {
+        "id": "nightly",
+        "name": "Nightly",
+        "addresses": [
+            "nightlymc.com"
+          ]
+    },    
+    {
+        "id": "brithnobar",
+        "name": "Brithnobar",
+        "addresses": [
+            "brithnobar.com"
+        ]
+    },
+    {
+        "id": "nasa",
+        "name": "Nasa Network",
+        "addresses": [
+	    "nasa.gg"
+        ]
+    },    
+    {
+        "id": "bailout",
+        "name": "Bailout Network",
+        "addresses": [
+	    "bailout.gg"
+        ]
+    },
+    {
+        "id": "temperhcf",
+        "name": "TemperHCF",
+        "addresses": [
+	    "temperhcf.com"
+        ]
+    },
+    {
+        "id": "squads",
+        "name": "Squads Network",
+        "addresses": [
+	    "squads.rip"
+        ]
+    },
     {
         "id": "astromc",
         "name": "AstroMC",
@@ -1226,7 +1298,9 @@
        "id": "cylonemc",
         "name": "CyloneMC",
         "addresses": [
-            "cylonemc.net"
+            "cylonemc.net",
+            "cylonemc.com",
+            "pvp.cylone.net"
         ]
     },
     {
@@ -1650,10 +1724,31 @@
 	]
     },
     {
+	"id": "sunpvp",
+	"name": "SunPvP Network",
+	"addresses": [
+	    "sunpvp.net"
+	]
+    },
+    {
 	"id": "techcraft",
 	"name": "TechCraft Network",
 	"addresses": [
 	    "techcraftmc.com"
+	]
+    },
+    {
+        "id": "nigxht",
+        "name": "Nigxht Network",
+        "addresses": [
+            "nigxht.net"
+        ]
+    },
+    {
+	"id": "protocol",
+	"name": "Protocol Network",
+	"addresses": [
+	    "protocol.rip"
 	]
     },
     {
@@ -1671,10 +1766,143 @@
   	]
     },
     {
-	"id": "mexipolis",
-	"name": "Mexipolis Network",
+	"id": "betterpvp",
+	"name": "BetterPvP",
 	"addresses": [
-	    "play.mexipolis.net"
+	    "betterpvp.pl"
   	]
+    },
+    {
+        "id": "lovymc",
+	"name": "LovyMC Network",
+	"addresses": [
+	    "lovymc.com"
+	]
+    },
+    {
+        "id": "cadia",
+	"name": "Cadia Network",
+	"addresses": [
+	    "cadiamc.net"
+	]
+    },
+    {
+        "id": "pridetopianetwork",
+	"name": "Pridetopia Network",
+	"addresses": [
+	    "pridetopia.net"
+	]
+    },
+    {
+        "id": "hydracraftnetwork",
+	"name": "HydraCraft Network",
+	"addresses": [
+	    "hydracraft.es"
+	]
+    },
+    {
+        "id": "frequencymc",
+        "name": "FrequencyMC",
+        "addresses": [
+            "frequencymc.cc"
+        ]
+    },
+    {
+        "id": "galaxycore",
+        "name": "GalaxyCore.net",
+        "addresses": [
+            "galaxycore.net"
+        ]
+    },
+    {
+        "id": "darkmc",
+        "name": "DarkMC Network",
+        "addresses": [
+            "dark-mc.xyz"
+        ]
+    },
+    {
+        "id": "nordicmc",
+        "name": "NordicMC",
+        "addresses": [
+            "nordicmc.es"
+        ]
+    },
+    {
+        "id": "goldzonecz",
+        "name": "Gold-Zone.cz",
+        "addresses": [
+            "gold-zone.cz"
+        ]
+    },
+    {
+        "id": "cavrynetwork",
+        "name": "Cavry Network",
+        "addresses": [
+            "cavrynetwork.xyz"
+        ]
+    },
+    {
+        "id": "kandangalwi",
+        "name": "Kandang Alwi",
+        "addresses": [
+            "kandangalwi.net",
+            "kandangalwi.id"
+        ]
+    },
+    {
+        "id": "timbw",
+        "name": "TimBW Network",
+        "addresses": [
+            "timbw.xyz"
+        ]
+    },
+    {
+        "id": "pvpcraftcz",
+        "name": "PvPCraft.cz",
+        "addresses": [
+            "pvpcraft.cz"
+        ]
+    },
+    {
+        "id": "hylers",
+        "name": "Hylers Network",
+        "addresses": [
+            "hylers.net"
+        ]
+    },
+    {
+        "id": "motimaa",
+        "name": "Motimaa",
+        "addresses": [
+            "motimaa.net"
+        ]
+    },
+    {
+        "id": "quutio",
+        "name": "Quut.io",
+        "addresses": [
+            "quut.io"
+        ]
+    },
+    {
+        "id": "potpvpland",
+        "name": "PotPvP Land",
+        "addresses": [
+            "potpvp.land"
+        ]
+    },
+    {
+        "id": "stolencode",
+        "name": "StolenCode",
+        "addresses": [
+            "stolencode.fun"
+        ]
+    },
+	      "id": "mexipolis",
+	      "name": "Mexipolis Network",
+	      "addresses": [
+            "mexipolis.net"
+  	    ]
     }
 ]
