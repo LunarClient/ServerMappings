@@ -1863,5 +1863,12 @@
         "addresses": [
             "pvpcraft.cz"
         ]
+    },
+    {
+        "id": "motimaa",
+        "name": "Motimaa",
+        "addresses": [
+            "motimaa.net"
+        ]
     }
 ]
