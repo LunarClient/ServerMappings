@@ -1856,5 +1856,12 @@
         "addresses": [
             "timbw.xyz"
         ]
-    }	
+    },
+    {
+        "id": "pvpcraftcz",
+        "name": "PvPCraft.cz",
+        "addresses": [
+            "pvpcraft.cz"
+        ]
+    }
 ]
