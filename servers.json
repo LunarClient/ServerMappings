@@ -1884,5 +1884,12 @@
         "addresses": [
             "quut.io"
         ]
+    },
+    {
+        "id": "potpvpland",
+        "name": "PotPvP Land",
+        "addresses": [
+            "potpvp.land"
+        ]
     }
 ]
