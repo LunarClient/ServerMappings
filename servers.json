@@ -1863,5 +1863,13 @@
         "addresses": [
             "pvpcraft.cz"
         ]
+    },
+    {
+        "id": "quutio",
+        "name": "Quut.io",
+        "addresses": [
+            "mc.quut.io",
+            "quut.io"
+        ]
     }
 ]
