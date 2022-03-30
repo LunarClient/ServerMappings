@@ -1865,6 +1865,13 @@
         ]
     },
     {
+        "id": "motimaa",
+        "name": "Motimaa",
+        "addresses": [
+            "motimaa.net"
+        ]
+    },
+    {
         "id": "quutio",
         "name": "Quut.io",
         "addresses": [
