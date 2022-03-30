@@ -1863,5 +1863,12 @@
         "addresses": [
             "pvpcraft.cz"
         ]
+    },
+    {
+        "id": "hylers",
+        "name": "Hylers Network",
+        "addresses": [
+            "hylers.net"
+        ]
     }
 ]
