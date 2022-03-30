@@ -1829,6 +1829,13 @@
         ]
     },
     {
+        "id": "goldzonecz",
+        "name": "Gold-Zone.cz",
+        "addresses": [
+            "gold-zone.cz"
+        ]
+    },
+    {
         "id": "cavrynetwork",
         "name": "Cavry Network",
         "addresses": [
@@ -1840,7 +1847,7 @@
         "name": "Kandang Alwi",
         "addresses": [
             "kandangalwi.net",
-	    "kandangalwi.id"
+            "kandangalwi.id"
         ]
     },
     {
