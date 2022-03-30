@@ -1877,5 +1877,12 @@
         "addresses": [
             "motimaa.net"
         ]
+    },
+    {
+        "id": "quutio",
+        "name": "Quut.io",
+        "addresses": [
+            "quut.io"
+        ]
     }
 ]
