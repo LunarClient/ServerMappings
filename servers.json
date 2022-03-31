@@ -1,5 +1,12 @@
 [
     {
+        "id": "prismamc",
+        "name": "Prisma Network",
+        "addresses": [
+            "prismamc.net"
+        ]
+    },
+    {
         "id": "astromc",
         "name": "AstroMC",
         "addresses": [
