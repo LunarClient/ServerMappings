@@ -7,6 +7,13 @@
           ]
    },
    {
+        "id": "prismamc",
+        "name": "PrismaMC Network",
+        "addresses": [
+            "prismamc.net"
+          ]
+   },	
+   {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
