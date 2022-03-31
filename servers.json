@@ -12,7 +12,15 @@
         "addresses": [
             "esta.land"
           ]
-   },    
+   },
+   {
+        "id": "prismamc",
+        "name": "PrismaMC Network",
+        "addresses": [
+            "mc.prismamc.net",
+	    "prismamc.net"
+          ]
+   },   
    {
         "id": "minexo",
         "name": "MineXO Network",
