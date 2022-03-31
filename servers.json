@@ -6,6 +6,13 @@
             "ikami.cc"
           ]
    },
+  {
+        "id": "prismamc",
+        "name": "Prisma Network",
+        "addresses": [
+            "prismamc.net"
+          ]
+   }, 
    {
         "id": "esta",
         "name": "Esta Network",
