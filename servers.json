@@ -1905,5 +1905,12 @@
         "addresses": [
             "stolencode.fun"
         ]
+    },
+    {
+        "id": "vervekits",
+        "name": "Verve Kits",
+        "addresses": [
+            "na.verve.rip"
+        ]
     }
 ]
