@@ -1759,6 +1759,13 @@
 	]
     },
     {
+	"id": "combo",
+	"name": "Combo Network",
+	"addresses": [
+	    "combo.rip"
+	]
+    },
+    {
 	"id": "megaplanet",
 	"name": "MEGA Planet",
 	"addresses": [
