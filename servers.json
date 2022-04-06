@@ -1905,5 +1905,12 @@
         "addresses": [
             "stolencode.fun"
         ]
+    },
+    {
+        "id": "eclipsepvp",
+        "name": "EclipsePvP",
+        "addresses": [
+            "eclipsepvp.club"
+        ]
     }
 ]
