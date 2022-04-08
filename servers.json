@@ -1759,6 +1759,13 @@
 	]
     },
     {
+	"id": "combo",
+	"name": "Combo Network",
+	"addresses": [
+	    "combo.rip"
+	]
+    },
+    {
 	"id": "megaplanet",
 	"name": "MEGA Planet",
 	"addresses": [
@@ -1911,6 +1918,13 @@
         "name": "EclipsePvP",
         "addresses": [
             "eclipsepvp.club"
+          ]
+    },
+    {
+        "id": "synxnetwork",
+        "name": "Synx Network",
+        "addresses": [
+            "synx.live"
         ]
     }
 ]
