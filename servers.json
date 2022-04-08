@@ -1,9 +1,16 @@
-[   
+[
  {
         "id": "prismamc",
         "name": "PrismaMC Network",
         "addresses": [
             "prismamc.net"
+        ]
+    },
+	{
+        "id": "atlashcf",
+        "name": "Atlas Network",
+        "addresses": [
+            "atlash.cf"
         ]
     },
    {
