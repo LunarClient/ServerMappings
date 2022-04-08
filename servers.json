@@ -1912,5 +1912,12 @@
         "addresses": [
             "stolencode.fun"
         ]
+    },
+    {
+        "id": "synxnetwork",
+        "name": "Synx Network",
+        "addresses": [
+            "synx.live"
+        ]
     }
 ]
