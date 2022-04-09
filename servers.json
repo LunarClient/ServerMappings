@@ -1759,6 +1759,13 @@
 	]
     },
     {
+	"id": "combo",
+	"name": "Combo Network",
+	"addresses": [
+	    "combo.rip"
+	]
+    },
+    {
 	"id": "megaplanet",
 	"name": "MEGA Planet",
 	"addresses": [
@@ -1907,10 +1914,17 @@
         ]
     },
     {
+        "id": "synxnetwork",
+        "name": "Synx Network",
+        "addresses": [
+            "synx.live"
+        ]
+    },
+    {
         "id": "vervekits",
         "name": "Verve Kits",
         "addresses": [
-            "na.verve.rip"
+            "verve.rip"
         ]
     }
 ]
