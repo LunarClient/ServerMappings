@@ -1914,6 +1914,13 @@
         ]
     },
     {
+        "id": "eclipsepvp",
+        "name": "EclipsePvP",
+        "addresses": [
+            "eclipsepvp.club"
+          ]
+    },
+    {
         "id": "synxnetwork",
         "name": "Synx Network",
         "addresses": [
