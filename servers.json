@@ -1919,5 +1919,12 @@
         "addresses": [
             "synx.live"
         ]
+    },
+    {
+        "id": "cyruspvp",
+        "name": "CyrusPvP Network",
+        "addresses": [
+            "cyruspvp.net"
+        ]
     }
 ]
