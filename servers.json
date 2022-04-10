@@ -1933,5 +1933,14 @@
         "addresses": [
             "verve.rip"
         ]
+    },
+    {
+        "id": "wildnetwork",
+        "name": "WildNetwork",
+        "addresses": [
+            "wildnetwork.net",
+            "wildprison.net",
+            "wildsmp.net"
+        ]
     }
 ]
