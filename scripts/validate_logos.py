@@ -20,7 +20,7 @@ def main():
         server_id = server['id']
         server_name = server['name']
 
-        logo_path = f'{args.server_icons}/{server_id}.png'
+        logo_path = f'{args.servers_icons}/{server_id}.png'
         
         # Check image exists
         if not os.path.isfile(logo_path):
