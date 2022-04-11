@@ -29,51 +29,48 @@ def main():
 
     # Loop through each server in index.
     for server in servers:
-        try:
-            server_id = server['id']
-            server_name = server['name']
-            logo_source = '%s/%s.png' % (args.source, server_id)
+        server_id = server['id']
+        server_name = server['name']
+        logo_source = '%s/%s.png' % (args.source, server_id)
 
-            # Check if server in index has an accompanying logo.
-            if not os.path.isfile(logo_source):
-                raise ValueError(
-                    '%s does not have a server logo... Please ensure the file name matches the server ID and is a PNG.' %
+        # Check if server in index has an accompanying logo.
+        if not os.path.isfile(logo_source):
+            raise ValueError(
+                '%s does not have a server logo... Please ensure the file name matches the server ID and is a PNG.' %
+                    server_name
+            )
+
+        # Load image and check dimensions.
+        server_logo = Image.open(logo_source)
+        if server_logo.width != server_logo.height:
+            raise ValueError(
+                '%s\'s server logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding.' %
+                    server_name
+            )
+        if server_logo.width < 512:
+            raise ValueError(
+                    '%s\'s server logo width/height is less than 512px... Please ensure the image meets the requirements before proceeding.' %
                         server_name
                 )
 
-            # Load image and check dimensions.
-            server_logo = Image.open(logo_source)
-            if server_logo.width != server_logo.height:
-                raise ValueError(
-                    '%s\'s server logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding.' %
-                        server_name
-                )
-            if server_logo.width < 512:
-                raise ValueError(
-                        '%s\'s server logo width/height is less than 512px... Please ensure the image meets the requirements before proceeding.' %
-                            server_name
-                    )
+        # Base 512 Size
+        convert_and_resize(
+            logo_source,
+            '%s/%s.webp' % (args.destination, server_id),
+            512,
+            args.lossless
+        )
 
-            # Base 512 Size
+        # Size-based destination name
+        for size in args.resize:
             convert_and_resize(
                 logo_source,
-                '%s/%s.webp' % (args.destination, server_id),
-                512,
+                '%s/%s-%s.webp' % (args.destination, server_id, size),
+                size,
                 args.lossless
             )
 
-            # Size-based destination name
-            for size in args.resize:
-                convert_and_resize(
-                    logo_source,
-                    '%s/%s-%s.webp' % (args.destination, server_id, size),
-                    size,
-                    args.lossless
-                )
-
-            print('Successfully converted %s\'s logo.' % server_name)
-        except Exception:
-            print('Couldn\'t process %s\'s logo... Skipping.' % server_name)
+        print('Successfully converted %s\'s logo.' % server_name)
 
     print('Done!')
 
