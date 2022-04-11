@@ -57,6 +57,10 @@ def convert_and_resize(source, destination, lossless=False, size=512):
     if lossless:
         options.append('-lossless')
 
+    print(source)
+    print(destination)
+    print(' '.join(options))
+
     output = webptools.cwebp(
         input_image=source,
         output_image=destination,
@@ -64,6 +68,7 @@ def convert_and_resize(source, destination, lossless=False, size=512):
     )
 
     if output.get('exit_code'):
+        print(output['exit_code'])
         raise OSError(f'Failed to run Webptools ({source})')
 
 
