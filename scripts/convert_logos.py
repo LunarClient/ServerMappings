@@ -67,8 +67,6 @@ def convert_and_resize(source, destination, lossless=False, size=512):
         option=' '.join(options)
     )
 
-    print(output)
-
     if output.get('exit_code'):
         raise OSError(f'Failed to run Webptools ({source})')
 
