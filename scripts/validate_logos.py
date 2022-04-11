@@ -6,7 +6,7 @@ from PIL import Image as image
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers', required=True, type=str)
-    parser.add_argument('--servers_icons', required=True, type=str)
+    parser.add_argument('--servers_logos_source', required=True, type=str)
     args = parser.parse_args()
 
     # Load server mappings JSON
@@ -20,7 +20,7 @@ def main():
         server_id = server['id']
         server_name = server['name']
 
-        logo_path = f'{args.servers_icons}/{server_id}.png'
+        logo_path = f'{args.servers_logos_source}/{server_id}.png'
         
         # Check image exists
         if not os.path.isfile(logo_path):

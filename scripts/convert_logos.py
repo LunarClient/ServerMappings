@@ -29,7 +29,7 @@ def main():
         server_id = server['id']
         server_name = server['name']
 
-        logo_path = f'{args.servers_icons}/{server_id}.png'
+        logo_path = f'{args.servers_logos_source}/{server_id}.png'
 
         # Base 512 Size
         convert_and_resize(
