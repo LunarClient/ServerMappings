@@ -1,4 +1,3 @@
-import os
 import argparse
 import json
 import webptools
@@ -20,9 +19,6 @@ def main():
     with open(args.servers) as servers_file:
         servers = json.load(servers_file)
 
-    # Create server logos output directory
-    os.makedirs(args.servers_logos_output, exist_ok=True)
-
     print(f'Converting {len(servers)} server logos.')
     
     for server in servers:
@@ -34,15 +30,15 @@ def main():
         # Base 512 Size
         convert_and_resize(
             logo_path,
-            f'{args.server_logos_output}/{server_id}.webp',
+            f'{args.servers_logos_output}/{server_id}.webp',
             lossless=args.lossless
         )
 
         # Size-based destination name
-        for size in args.resize:
+        for size in args.sizes:
             convert_and_resize(
                 logo_path,
-                f'{args.server_logos_output}/{server_id}-{size}.webp',
+                f'{args.servers_logos_output}/{server_id}-{size}.webp',
                 lossless=args.lossless,
                 size=size,
             )
@@ -62,8 +58,8 @@ def convert_and_resize(source, destination, lossless=False, size=512):
         options.append('-lossless')
 
     output = webptools.cwebp(
-        input_image=(source),
-        output_image=(destination),
+        input_image=source,
+        output_image=destination,
         option=' '.join(options)
     )
 
