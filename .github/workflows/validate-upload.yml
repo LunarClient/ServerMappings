@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install Python dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Validate Server JSON
         run: python scripts/validate_json.py --servers servers.json --servers_schema servers.schema.json
@@ -60,7 +60,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install Python dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Output Server JSON
         run: |
