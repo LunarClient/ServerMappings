@@ -510,7 +510,14 @@
         "id": "zonecraft",
         "name": "ZoneCraft Network",
         "addresses": [
-            "zonecraft.es"
+            "zonecraft.es",
+            "zonecn.es",
+            "hypixel.es",
+            "amamarla.com",
+            "banananetwork.es",
+            "darktimes.es",
+            "bedwars.es",
+            "zonehosting.net"
         ]
     },
     {
