@@ -1,3 +1,4 @@
+import os
 import argparse
 import json
 import webptools
@@ -21,6 +22,9 @@ def main():
 
     print(f'Converting {len(servers)} server logos.')
     
+    # Create server logos output directory
+    os.makedirs(args.servers_logos_output, exist_ok=True)
+
     for server in servers:
         server_id = server['id']
         server_name = server['name']
@@ -57,10 +61,6 @@ def convert_and_resize(source, destination, lossless=False, size=512):
     if lossless:
         options.append('-lossless')
 
-    print(source)
-    print(destination)
-    print(' '.join(options))
-
     output = webptools.cwebp(
         input_image=source,
         output_image=destination,
@@ -70,7 +70,6 @@ def convert_and_resize(source, destination, lossless=False, size=512):
     print(output)
 
     if output.get('exit_code'):
-        print(output['exit_code'])
         raise OSError(f'Failed to run Webptools ({source})')
 
 
