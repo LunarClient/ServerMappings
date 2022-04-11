@@ -62,12 +62,12 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Output Sever JSON
+      - name: Output Server JSON
         run: |
           mkdir .out/
           cp servers.json .out/
           
-      - name: Prepare Server Logos
+      - name: Output Server Logos
         run: python scripts/convert_logos.py --servers servers.json --servers_logos_source logos --servers_logos_output .out/logos --sizes 256 128 64 32
 
       - name: Upload to S3

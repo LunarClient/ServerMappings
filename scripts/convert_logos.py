@@ -1,6 +1,10 @@
+import os
 import argparse
 import json
 import webptools
+
+# Grant permissions to Webptools
+webptools.grant_permission()
 
 def main():
     parser = argparse.ArgumentParser()
@@ -11,9 +15,6 @@ def main():
     parser.add_argument('--lossless', default=False, action='store_true')
     args = parser.parse_args()
 
-    # Grant permissions to Webptools
-    webptools.grant_permission()
-
     # Load server mappings JSON
     servers = {}
     with open(args.servers) as servers_file:
@@ -21,6 +22,9 @@ def main():
 
     print(f'Converting {len(servers)} server logos.')
     
+    # Create server logos output directory
+    os.makedirs(args.servers_logos_output, exist_ok=True)
+
     for server in servers:
         server_id = server['id']
         server_name = server['name']
