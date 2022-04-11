@@ -62,19 +62,16 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: List Directories
-        run: |
-          ls
-
       - name: Output Sever JSON
         run: |
-          cp servers.json /_out/
+          mkdir .out/
+          cp servers.json .out/
           
       - name: Prepare Server Logos
-        run: python scripts/convert_logos.py --servers servers.json --servers_logos_source logos --servers_logos_output _out/logos --sizes 256 128 64 32
+        run: python scripts/convert_logos.py --servers servers.json --servers_logos_source logos --servers_logos_output .out/logos --sizes 256 128 64 32
 
       - name: Upload to S3
-        run: aws s3 sync _out s3://$cdn_bucket --delete --cache-control "public, max-age=604800, immutable"
+        run: aws s3 sync .out s3://$cdn_bucket --delete --cache-control "public, max-age=604800, immutable"
 
       - name: Purge cache
         run: aws cloudfront create-invalidation --distribution-id $cdn_distribution --paths "/*"
