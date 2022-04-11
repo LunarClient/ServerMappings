@@ -2,6 +2,9 @@ import argparse
 import json
 import webptools
 
+# Grant permissions to Webptools
+webptools.grant_permission()
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers', required=True, type=str)
@@ -10,9 +13,6 @@ def main():
     parser.add_argument('--sizes', nargs='+', type=int, default=[256])
     parser.add_argument('--lossless', default=False, action='store_true')
     args = parser.parse_args()
-
-    # Grant permissions to Webptools
-    webptools.grant_permission()
 
     # Load server mappings JSON
     servers = {}
