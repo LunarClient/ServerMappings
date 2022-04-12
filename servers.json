@@ -73,6 +73,13 @@
         ]
     },
     {
+        "id": "betterpvp",
+        "name": "BetterPvP",
+        "addresses": [
+            "betterpvp.pl",
+        ]
+    },
+    {
         "id": "survivalgamescz",
         "name": "Survival-Games.cz",
         "addresses": [
