@@ -367,6 +367,13 @@
         ]
     },
     {
+        "id": "crystal",
+        "name": "Crystal Network",
+        "addresses": [
+            "crystal.rip",
+        ]
+    },
+    {
         "id": "sagepvp",
         "name": "SagePvP",
         "addresses": [
