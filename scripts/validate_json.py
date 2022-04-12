@@ -16,7 +16,7 @@ def main():
     # Load server mappings Schema
     servers_schema = {}
     with open(args.servers_schema) as servers_file:
-        servers = json.load(servers_file)
+        servers_schema = json.load(servers_file)
 
     print(f'Validating servers JSON.')
 
