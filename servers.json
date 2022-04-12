@@ -7,7 +7,7 @@
         ]
     },
     {
-        "id": "visionmc",
+        "id": 1,
         "name": "VisionMC Network",
         "addresses": [
             "visionmc.club",
