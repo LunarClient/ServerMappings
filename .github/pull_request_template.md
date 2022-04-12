@@ -1,13 +1,11 @@
 ### General:
-
 * [ ] The pull request title is descriptive. *(ex. `Added Lunar Network`, not `Updated servers.json`)*
 * [ ] The pull request does not contain any unrelated commits.  *(ex. commits from previous pull requests)*
 
 ### Mapping Additions or Updates:
-
-* [ ] My formatting matches the pre-existing formatting.
+* [ ] No changes were made to the file's formatting.
 * [ ] There are no syntax errors.
-* [ ] There is no pre-existing mapping with my id.
+* [ ] There is no pre-existing mapping matching my id.
 * [ ] My field values match your requirements.
 * You can view our patterns here: [servers.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/servers.schema.json), or take a look below and complete the field checklist:
   - [ ] `id`: a lowercase string *(ex. `myserver`)*
@@ -16,9 +14,8 @@
     - You do not need to specify sub-domains, Lunar Client services automatically detect them.
 
 ### Logo Additions or Updates:
-
-* [ ] My image is a `.png` file.
-* [ ] I uploaded the image in the `logos` directory.
-* [ ] My image is transparent & square (1:1 aspect ratio).
-* [ ] My image is a minimum of `512` pixels in width and height.
-* [ ] My images image name matches its mapping id.
+* [ ] My image is a `png` file.
+* [ ] I uploaded my image to the `logos` directory.
+* [ ] My image has a transparent background and is square (1:1 aspect ratio).
+* [ ] My image is `512` pixels in width and height.
+* [ ] My image's file name matches its mapping id.
