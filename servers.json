@@ -1212,5 +1212,12 @@
         "addresses": [
             "verve.rip"
         ]
+    },
+    {
+        "id": "sharkmc",
+        "name": "Sharkmc Network",
+        "addresses": [
+            "sharkmc.es"
+        ]
     }
 ]
