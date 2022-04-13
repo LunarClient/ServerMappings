@@ -1207,6 +1207,13 @@
         ]
     },
     {
+        "id": "vestpvp",
+        "name": "VestPVP",
+        "addresses": [
+            "vestpvp.pl"
+        ]
+    },
+    {
         "id": "vervekits",
         "name": "Verve Kits",
         "addresses": [
