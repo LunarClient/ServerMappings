@@ -1219,5 +1219,12 @@
         "addresses": [
             "verve.rip"
         ]
+    },
+    {
+        "id": "cloudnetwork",
+        "name": "CloudNetwork.cc",
+        "addresses": [
+            "cloudnetwork.cc"
+        ]
     }
 ]
