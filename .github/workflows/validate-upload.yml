@@ -1,0 +1,77 @@
+name: Validate and upload
+
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  validate-servers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+        name: Checkout from GitHub
+
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Validate Server JSON
+        run: python scripts/validate_json.py --servers servers.json --servers_schema servers.schema.json
+
+      - name: Validate Server Logos
+        run: python scripts/validate_logos.py --servers servers.json --servers_logos_source logos
+
+  upload-servers:
+    needs: validate-servers
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+
+    runs-on: ubuntu-latest
+    
+    permissions:
+      id-token: write
+      contents: read
+
+    env:
+      cdn_bucket: lunarclient-cdn-servermappings
+      cdn_distribution: E45B8N9YLM3QG
+
+    steps:
+      - name: Checkout from GitHub
+        uses: actions/checkout@master
+        
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
+          aws-region: us-east-2
+
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Output Server JSON
+        run: |
+          mkdir .out/
+          cp servers.json .out/
+          
+      - name: Output Server Logos
+        run: python scripts/convert_logos.py --servers servers.json --servers_logos_source logos --servers_logos_output .out/logos --sizes 256 128 64 32
+
+      - name: Upload to S3
+        run: aws s3 sync .out s3://$cdn_bucket --delete --cache-control "public, max-age=604800, immutable"
+
+      - name: Purge cache
+        run: aws cloudfront create-invalidation --distribution-id $cdn_distribution --paths "/*"
