@@ -444,16 +444,6 @@
             "cubecraft.net"
         ]
     },
-    
-    
-    {
-        "id": "minerip",
-        "name": "MineRIP Network",
-        "addresses": [
-            "mine.rip",
-            "hyzeria.com"
-        ]
-    },
     {
         "id": "greeveu",
         "name": "Greev.eu",
@@ -1205,11 +1195,7 @@
         "id": "ravenhub",
         "name": "RavenHub",
         "addresses": [
-            "ravenhub.net",
-            "play.ravenhub.net",
-            "us.ravenhub.net",
-            "eu.ravenhub.net",
-            "proxy.ravenhub.net"
+            "ravenhub.net"
         ]
     },
     {
