@@ -1243,5 +1243,12 @@
         "addresses": [
             "cloudnetwork.cc"
         ]
+    },
+    {
+        "id": "blurkit",
+        "name": "Blurkit Network",
+        "addresses": [
+            "blurkit.net"
+        ]
     }
 ]
