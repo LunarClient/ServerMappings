@@ -1214,6 +1214,13 @@
         ]
     },
     {
+        "id": "pvpheaven",
+        "name": "PvPHeaven",
+        "addresses": [
+            "pvpheaven.com"
+        ]
+    },
+    {
         "id": "vervekits",
         "name": "Verve Kits",
         "addresses": [
