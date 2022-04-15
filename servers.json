@@ -445,14 +445,6 @@
         ]
     },
     {
-        "id": "minerip",
-        "name": "MineRIP Network",
-        "addresses": [
-            "mine.rip",
-            "hyzeria.com"
-        ]
-    },
-    {
         "id": "greeveu",
         "name": "Greev.eu",
         "addresses": [
@@ -1198,6 +1190,13 @@
         "name": "Motimaa",
         "addresses": [
             "motimaa.net"
+        ]
+    },
+    {
+        "id": "ravenhub",
+        "name": "RavenHub",
+        "addresses": [
+            "ravenhub.net"
         ]
     },
     {
