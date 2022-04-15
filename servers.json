@@ -444,6 +444,8 @@
             "cubecraft.net"
         ]
     },
+    
+    
     {
         "id": "minerip",
         "name": "MineRIP Network",
@@ -1197,6 +1199,17 @@
         "name": "Motimaa",
         "addresses": [
             "motimaa.net"
+        ]
+    },
+    {
+        "id": "ravenhub",
+        "name": "RavenHub",
+        "addresses": [
+            "ravenhub.net",
+            "play.ravenhub.net",
+            "us.ravenhub.net",
+            "eu.ravenhub.net",
+            "proxy.ravenhub.net"
         ]
     },
     {
