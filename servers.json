@@ -1249,5 +1249,12 @@
         "addresses": [
             "blurkit.net"
         ]
+    },
+    {
+        "id": "Sharkmc",
+        "name": "Sharkmc Network"
+        "addresses": [
+            "sharkmc.es"
+        ]
     }
 ]
