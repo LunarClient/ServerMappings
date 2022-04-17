@@ -1,5 +1,12 @@
 [
     {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land"
+        ]
+    },
+    {
         "id": "prismamc",
         "name": "PrismaMC Network",
         "addresses": [
