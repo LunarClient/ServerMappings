@@ -1249,5 +1249,12 @@
         "addresses": [
             "blurkit.net"
         ]
+    },
+    {
+        "id": "cobelpvp",
+        "name": "CobelPvP.com",
+        "addresses": [
+            "cobelpvp.com"
+        ]
     }
 ]
