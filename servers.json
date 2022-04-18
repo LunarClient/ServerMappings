@@ -1271,5 +1271,12 @@
             "arashimc.fr",
             "mhauhc.fr"
         ]
+    },
+    {
+        "id": "mythicalmc",
+        "name": "MythicalMC Network",
+        "addresses": [
+            "mythicalmc.org"
+        ]
     }
 ]
