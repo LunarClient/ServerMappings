@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "crystal",
+        "name": "Crystal Network",
+        "addresses": [
+            "crystal.rip"
+        ]
+    },
+    {
         "id": "prismamc",
         "name": "PrismaMC Network",
         "addresses": [
