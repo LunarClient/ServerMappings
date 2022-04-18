@@ -1,5 +1,19 @@
 [
     {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land"
+        ]
+    },
+    {
+        "id": "crystal",
+        "name": "Crystal Network",
+        "addresses": [
+            "crystal.rip"
+        ]
+    },
+    {
         "id": "prismamc",
         "name": "PrismaMC Network",
         "addresses": [
@@ -1255,6 +1269,20 @@
         "name": "Sharkmc Network"
         "addresses": [
             "sharkmc.es"
+    },
+    {
+        "id": "arashimc",
+        "name": "ArashiMC",
+        "addresses": [
+            "arashimc.fr",
+            "mhauhc.fr"
+        ]
+    },
+    {
+        "id": "mythicalmc",
+        "name": "MythicalMC Network",
+        "addresses": [
+            "mythicalmc.org"
         ]
     }
 ]
