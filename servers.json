@@ -1,5 +1,12 @@
 [
     {
+        "id": "esta",
+        "name": "Esta Network",
+        "addresses": [
+            "esta.land"
+        ]
+    },
+    {
         "id": "prismamc",
         "name": "PrismaMC Network",
         "addresses": [
@@ -70,6 +77,13 @@
         "addresses": [
             "baldymc.com",
             "baldymc.xyz"
+        ]
+    },
+    {
+        "id": "betterpvp",
+        "name": "BetterPvP",
+        "addresses": [
+            "betterpvp.pl"
         ]
     },
     {
@@ -435,14 +449,6 @@
         "name": "CubeCraft Games",
         "addresses": [
             "cubecraft.net"
-        ]
-    },
-    {
-        "id": "minerip",
-        "name": "MineRIP Network",
-        "addresses": [
-            "mine.rip",
-            "hyzeria.com"
         ]
     },
     {
@@ -1168,7 +1174,8 @@
         "id": "cavrynetwork",
         "name": "Cavry Network",
         "addresses": [
-            "cavrynetwork.xyz"
+            "cavrynetwork.xyz",
+            "cavrynet.work"
         ]
     },
     {
@@ -1190,6 +1197,13 @@
         "name": "Motimaa",
         "addresses": [
             "motimaa.net"
+        ]
+    },
+    {
+        "id": "ravenhub",
+        "name": "RavenHub",
+        "addresses": [
+            "ravenhub.net"
         ]
     },
     {
@@ -1225,6 +1239,37 @@
         "name": "Verve Kits",
         "addresses": [
             "verve.rip"
+        ]
+    },
+    {
+        "id": "wildnetwork",
+        "name": "WildNetwork",
+        "addresses": [
+            "wildnetwork.net",
+            "wildprison.net",
+            "wildsmp.net"
+        ]
+    },
+    {
+        "id": "cloudnetwork",
+        "name": "CloudNetwork.cc",
+        "addresses": [
+            "cloudnetwork.cc"
+        ]
+    },
+    {
+        "id": "blurkit",
+        "name": "Blurkit Network",
+        "addresses": [
+            "blurkit.net"
+        ]
+    },
+    {
+        "id": "arashimc",
+        "name": "ArashiMC",
+        "addresses": [
+            "arashimc.fr",
+            "mhauhc.fr"
         ]
     }
 ]
