@@ -94,6 +94,13 @@
         ]
     },
     {
+        "id": "squads",
+        "name": "Squads",
+        "addresses": [
+            "squads.rip"
+        ]
+    },
+    {
         "id": "survivalgamescz",
         "name": "Survival-Games.cz",
         "addresses": [
