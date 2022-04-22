@@ -1,5 +1,12 @@
 [
     {
+        "id": "Eclipsepvp"
+        "name": "Eclipsepvp Network",
+        "addresses": [
+            "eclipsepvp.club"
+        ]
+    },
+    {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
