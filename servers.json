@@ -1,5 +1,12 @@
 [
     {
+        "id" : "Eclipsepvp" ,
+        "nombre" : "Eclipsepvp Network" ,
+        "direcciones" : [
+            "eclipsepvp.club"
+        ]
+    },
+    {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
