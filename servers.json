@@ -1,5 +1,12 @@
 [
     {
+        "id": "Nightly",
+        "name": "Nightly",
+        "addresses": [
+            "Nightlymc.com"
+        ]
+    },
+    {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
