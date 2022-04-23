@@ -65,6 +65,13 @@
         ]
     },
     {
+        "id": "squads",
+        "name": "Squads Network",
+        "addresses": [
+            "squads.rip"
+        ]
+    },
+    {
         "id": "squidland",
         "name": "Squid Land | Network",
         "addresses": [
