@@ -1,7 +1,7 @@
 [
     {
-        "id" : "Eclipsepvp" ,
-        "nombre" : "Eclipsepvp Network" ,
+        "id" : "eclipsepvp",
+        "nombre" : "Eclipsepvp Network",
         "direcciones" : [
             "eclipsepvp.club"
         ]
