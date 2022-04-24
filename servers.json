@@ -145,6 +145,13 @@
         ]
     },
     {
+        "id": "squads",
+        "name": "Squads Network",
+        "addresses": [
+            "squads.rip"
+        ]
+    },
+    {
         "id": "tecnocraft",
         "name": "TecnoCraft.net",
         "addresses": [
