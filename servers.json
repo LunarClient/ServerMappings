@@ -1285,5 +1285,12 @@
         "addresses": [
             "mythicalmc.org"
         ]
+    },
+    {
+        "id": "cyruspvp",
+        "name": "CyrusPvP Network",
+        "addresses": [
+            "cyruspvp.net"
+        ]
     }
 ]
