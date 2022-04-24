@@ -1,8 +1,8 @@
 [
     {
         "id" : "eclipsepvp",
-        "nombre" : "Eclipsepvp Network",
-        "direcciones" : [
+        "name" : "Eclipsepvp Network",
+        "addresses" : [
             "eclipsepvp.club"
         ]
     },
