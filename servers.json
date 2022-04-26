@@ -1,8 +1,8 @@
 [
     {
-        "id" : "eclipsepvp",
-        "name" : "Eclipsepvp Network",
-        "addresses" : [
+        "id": "eclipsepvp",
+        "name": "Eclipsepvp Network",
+        "addresses": [
             "eclipsepvp.club"
         ]
     },
@@ -11,6 +11,13 @@
         "name": "Esta Network",
         "addresses": [
             "esta.land"
+        ]
+    },
+    {
+        "id": "beepvp",
+        "name": "Bee PVP",
+        "addresses": [
+            "beepvp.com"
         ]
     },
     {
@@ -729,6 +736,13 @@
         ]
     },
     {
+        "id": "twistedmc",
+        "name": "TwistedMC",
+        "addresses": [
+            "twistedmc.net"
+        ]
+    },    
+    {
         "id": "blocksmc",
         "name": "BlocksMC",
         "addresses": [
@@ -1060,6 +1074,13 @@
             "minecraftpvp.com",
             "mc-warz.com",
             "minecraftbuild.com"
+        ]
+    },
+    {
+        "id": "nasgar",
+        "name": "Nasgar Network",
+        "addresses": [
+            "nasgar.online"
         ]
     },
     {
