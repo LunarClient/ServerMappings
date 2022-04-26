@@ -722,6 +722,13 @@
         ]
     },
     {
+        "id": "twistedmc",
+        "name": "TwistedMC",
+        "addresses": [
+            "twistedmc.net"
+        ]
+    },    
+    {
         "id": "blocksmc",
         "name": "BlocksMC",
         "addresses": [
