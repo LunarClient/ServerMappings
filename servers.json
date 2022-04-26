@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "beepvp",
+        "name": "Bee PVP",
+        "addresses": [
+            "beepvp.com"
+        ]
+    },
+    {
         "id": "crystal",
         "name": "Crystal Network",
         "addresses": [
