@@ -1,5 +1,26 @@
 [
     {
+        "id": "protocol",
+        "name": "Protocol Network",
+        "addresses": [
+            "protocol.rip"
+        ]
+    },
+    {
+        "id": "combo",
+        "name": "Combo Network",
+        "addresses": [
+            "combo.rip"
+        ]
+    },
+    {
+        "id": "nightly",
+        "name": "Nightly",
+        "addresses": [
+            "nightlymc.com"
+        ]
+    },
+    {
         "id": "eclipsepvp",
         "name": "Eclipsepvp Network",
         "addresses": [
