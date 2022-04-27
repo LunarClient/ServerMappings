@@ -115,6 +115,13 @@
         ]
     },
     {
+        "id": "pvpplay",
+        "name": "PvPPlay",
+        "addresses": [
+            "pvpplay.pl"
+        ]
+    },
+    {
         "id": "betterpvp",
         "name": "BetterPvP",
         "addresses": [
