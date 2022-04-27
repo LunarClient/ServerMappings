@@ -6,6 +6,13 @@
             "protocol.rip"
         ]
     },
+        {
+        "id": "astromc",
+        "name": "AstroMC",
+        "addresses": [
+            "astromc.cc"
+        ]
+    },
     {
         "id": "combo",
         "name": "Combo Network",
