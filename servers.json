@@ -1320,5 +1320,12 @@
         "addresses": [
             "mythicalmc.org"
         ]
+    },
+    {
+        "id": "northpvp",
+        "name": "NorthPvP Network",
+        "addresses": [
+            "northpvp.club"
+        ]
     }
 ]
