@@ -1,5 +1,13 @@
 [
     {
+        "id": "eclipsepvp",
+        "name": "Eclipsepvp Network",
+        "addresses": [
+            "eclipsepvp.club"
+        ]
+    },
+    
+    {
         "id": "protocol",
         "name": "Protocol Network",
         "addresses": [
