@@ -1320,5 +1320,12 @@
         "addresses": [
             "mythicalmc.org"
         ]
+    },
+    {
+        "id": "crowl",
+        "name": "Crowl Network",
+        "addresses": [
+            "crowl.club"
+        ]
     }
 ]
