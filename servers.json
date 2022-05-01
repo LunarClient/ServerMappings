@@ -1,5 +1,12 @@
 [
     {
+        "id": "muffinized",
+        "name": "Muffinized Network",
+        "addresses": [
+            "muffinized.net"
+        ]
+    },
+    {
         "id": "protocol",
         "name": "Protocol Network",
         "addresses": [
