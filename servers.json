@@ -21,6 +21,13 @@
         ]
     },
     {
+        "id": "squads",
+        "name": "Squads Network",
+        "addresses": [
+            "squads.rip"
+        ]
+    },
+    {
         "id": "esta",
         "name": "Esta Network",
         "addresses": [
