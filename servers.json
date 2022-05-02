@@ -1,5 +1,12 @@
 [
     {
+        "id": "koolkidzmc",
+        "name": "KoolKidz MC",
+        "addresses": [
+            "play.koolkidzmc.com"
+        ]
+    },
+    {
         "id": "muffinized",
         "name": "Muffinized Network",
         "addresses": [
