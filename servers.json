@@ -1327,5 +1327,12 @@
         "addresses": [
             "mythicalmc.org"
         ]
+    },
+    {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc"
+        ]
     }
 ]
