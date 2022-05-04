@@ -14,18 +14,18 @@
         ]
     },
     {
+        "id": "combo",
+        "name": "Combo Network",
+        "addresses": [
+            "combo.rip"
+        ]
+    },
+    {
         "id": "dropthem",
         "name": "Dropthem Network",
         "addresses": [
             "dropthem.eu"
             "mc.dropthem.eu"
-        ]
-    },
-    {
-        "id": "combo",
-        "name": "Combo Network",
-        "addresses": [
-            "combo.rip"
         ]
     },
     {
