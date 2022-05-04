@@ -1334,5 +1334,12 @@
         "addresses": [
             "certix.cc"
         ]
+    },
+    {
+        "id": "northpvp",
+        "name": "NorthPvP Network",
+        "addresses": [
+            "northpvp.club"
+        ]
     }
 ]
