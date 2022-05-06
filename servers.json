@@ -1,5 +1,12 @@
 [
     {
+        "id": "koolkidzmc",
+        "name": "KoolKidz MC",
+        "addresses": [
+            "koolkidzmc.com"
+        ]
+    },
+    { 
         "id": "fademc",
         "name": "FadeMC",
         "addresses": [
