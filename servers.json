@@ -7,6 +7,27 @@
         ]
     },
     {
+        "id": "koolkidzmc",
+        "name": "KoolKidz MC",
+        "addresses": [
+            "koolkidzmc.com"
+        ]
+    },
+    { 
+        "id": "fademc",
+        "name": "FadeMC",
+        "addresses": [
+            "fademc.org"
+        ]
+    },
+    {
+        "id": "muffinized",
+        "name": "Muffinized Network",
+        "addresses": [
+            "muffinized.net"
+        ]
+    },
+    {
         "id": "protocol",
         "name": "Protocol Network",
         "addresses": [
@@ -1326,6 +1347,27 @@
         "name": "MythicalMC Network",
         "addresses": [
             "mythicalmc.org"
+        ]
+    },
+    {
+        "id": "certix",
+        "name": "Certix Network",
+        "addresses": [
+            "certix.cc"
+        ]
+    },
+    {
+        "id": "northpvp",
+        "name": "NorthPvP Network",
+        "addresses": [
+            "northpvp.club"
+        ]
+    },
+    {
+        "id": "vanillaplus",
+        "name": "Vanilla Plus",
+        "addresses": [
+            "vanillaplus.net"
         ]
     }
 ]
