@@ -6,6 +6,13 @@
             "koolkidzmc.com"
         ]
     },
+    { 
+        "id": "fademc",
+        "name": "FadeMC",
+        "addresses": [
+            "fademc.org"
+        ]
+    },
     {
         "id": "muffinized",
         "name": "Muffinized Network",
@@ -1347,6 +1354,13 @@
         "name": "NorthPvP Network",
         "addresses": [
             "northpvp.club"
+        ]
+    },
+    {
+        "id": "vanillaplus",
+        "name": "Vanilla Plus",
+        "addresses": [
+            "vanillaplus.net"
         ]
     }
 ]
