@@ -1362,5 +1362,12 @@
         "addresses": [
             "vanillaplus.net"
         ]
+    },
+    {
+        "id": "dropthem",
+        "name": "Dropthem Network",
+        "addresses": [
+            "dropthem.eu"
+        ]
     }
 ]
