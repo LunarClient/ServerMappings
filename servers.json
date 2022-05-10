@@ -1369,5 +1369,13 @@
         "addresses": [
             "dropthem.eu"
         ]
+    },
+    {
+        "id": "vealypvp",
+        "name": "VealyPvP.us",
+        "addresses": [
+            "vealypvp.us",
+            "play.vealypvp.us",
+        ]
     }
 ]
