@@ -1369,5 +1369,12 @@
         "addresses": [
             "dropthem.eu"
         ]
+    },
+    {
+        "id": "heavenpvp",
+        "name": "HeavenPvP Network",
+        "addresses": [
+            "heavenpvp.net"
+        ]
     }
 ]
