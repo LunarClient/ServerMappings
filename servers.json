@@ -1358,6 +1358,13 @@
         ]
     },
     {
+        "id": "valley",
+        "name": "Valley Network",
+        "addresses": [
+            "valleypvp.us"
+        ]
+    },
+    {
         "id": "vanillaplus",
         "name": "Vanilla Plus",
         "addresses": [
