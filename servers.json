@@ -1,4 +1,11 @@
-[
+[ 
+    {
+        "id": "eclipsepvp",
+        "name": "Eclipsepvp Network",
+        "addresses": [
+            "eclipsepvp.club"
+        ]
+    },
     {
         "id": "koolkidzmc",
         "name": "KoolKidz MC",
