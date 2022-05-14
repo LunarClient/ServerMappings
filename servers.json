@@ -1,5 +1,12 @@
 [ 
     {
+        "id": "menastro",
+        "name": "Menastro Network",
+        "addresses": [
+            "menastro.gg"
+        ]
+    },
+    {
         "id": "eclipsepvp",
         "name": "Eclipsepvp Network",
         "addresses": [
