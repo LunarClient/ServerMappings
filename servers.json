@@ -1384,5 +1384,12 @@
         "addresses": [
             "dropthem.eu"
         ]
+    },
+    {
+        "id": "ymzc",
+        "name": "YMZC Network",
+        "addresses": [
+            "ymzc.pro"
+        ]
     }
 ]
