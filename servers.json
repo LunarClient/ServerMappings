@@ -1,5 +1,13 @@
 [ 
     {
+        "id": "hikari",
+        "name": "Hikari Network",
+        "addresses": [
+            "play.hikarimc.com",
+            "play.hikarimc.net"
+        ]
+    },
+    {
         "id": "menastro",
         "name": "Menastro Network",
         "addresses": [
