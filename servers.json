@@ -1,10 +1,11 @@
 [ 
     {
         "id": "hikari",
-        "name": "Hikari Network",
+        "name": "Hikari",
         "addresses": [
             "play.hikarimc.com",
-            "play.hikarimc.net"
+            "play.hikarimc.net",
+            "funsmp.com"
         ]
     },
     {
