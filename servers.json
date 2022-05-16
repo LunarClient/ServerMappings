@@ -1405,5 +1405,18 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "claritymc",
+        "name": "ClarityMC",
+        "addresses": [
+            "claritymc.net",
+            "claritynetwork.net",
+            "claritynetwork.id",
+            "play.claritymc.net",
+            "play.claritynetwork.net",
+            "play.claritynetwork.id",
+            "clarity.mc.gg"
+        ]
     }
 ]
