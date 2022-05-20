@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "glade",
+        "name": "Glade",
+        "addresses": [
+            "glade.gg"
+        ]
+    },
+    {
         "id": "eclipsepvp",
         "name": "Eclipsepvp Network",
         "addresses": [
@@ -637,7 +644,6 @@
         "id": "uhcarcade",
         "name": "UHC Arcade",
         "addresses": [
-            "glade.gg",
             "uhcarcade.com"
         ]
     },
