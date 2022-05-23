@@ -1,5 +1,19 @@
 [ 
     {
+        "id": "menastro",
+        "name": "Menastro Network",
+        "addresses": [
+            "menastro.gg"
+        ]
+    },
+    {
+        "id": "glade",
+        "name": "Glade",
+        "addresses": [
+            "glade.gg"
+        ]
+    },
+    {
         "id": "eclipsepvp",
         "name": "Eclipsepvp Network",
         "addresses": [
@@ -630,7 +644,6 @@
         "id": "uhcarcade",
         "name": "UHC Arcade",
         "addresses": [
-            "glade.gg",
             "uhcarcade.com"
         ]
     },
@@ -1392,6 +1405,20 @@
         "name": "Dropthem Network",
         "addresses": [
             "dropthem.eu"
+        ]
+    },
+    {
+        "id": "vealypvp",
+        "name": "VealyPvP.us",
+        "addresses": [
+            "vealypvp.us"
+        ]
+    },
+    {
+        "id": "ymzc",
+        "name": "YMZC Network",
+        "addresses": [
+            "ymzc.pro"
         ]
     }
 ]
