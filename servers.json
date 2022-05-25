@@ -1,4 +1,10 @@
-[ 
+[   {
+        "id": "shadowrient",
+        "name": "Shadowrient Network",
+        "addresses": [
+            "mc.shadowrient.ml"
+        ]
+    },
     {
         "id": "menastro",
         "name": "Menastro Network",
