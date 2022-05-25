@@ -1406,17 +1406,17 @@
         ]
     },
     {
-        "id": "ymzc",
-        "name": "YMZC Network",
-        "addresses": [
-            "ymzc.pro"
-        ]
-    },
-    {
         "id": "udropclub",
         "name": "uDrop Club",
         "addresses": [
             "udrop.club"
+        ]
+    },
+    {
+        "id": "ymzc",
+        "name": "YMZC Network",
+        "addresses": [
+            "ymzc.pro"
         ]
     }  
 ]
