@@ -1405,6 +1405,13 @@
             "vealypvp.us"
         ]
     },
+        {
+        "id": "shadowrient",
+        "name": "ShadowRient",
+        "addresses": [
+            "mc.shadowrient.ml"
+        ]
+    },
     {
         "id": "ymzc",
         "name": "YMZC Network",
