@@ -1411,5 +1411,13 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "mineshaft",
+        "name": "Mineshaft Network",
+        "addresses": [
+            "mineshaft.network"
+            "mineshaft.earth"
+        ]
     }
 ]
