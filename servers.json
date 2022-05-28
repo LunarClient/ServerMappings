@@ -1344,6 +1344,15 @@
         ]
     },
     {
+        "id": "revivenetwork",
+        "name": "Revive Network",
+        "addresses": [
+            "revivenetwork.net",
+            "revivenetwork.xyz",
+            "heartsteal.xyz"
+        ]
+    },
+    {
         "id": "cloudnetwork",
         "name": "CloudNetwork.cc",
         "addresses": [
