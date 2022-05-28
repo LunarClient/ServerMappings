@@ -1429,5 +1429,13 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "kaosmc",
+        "name": "Kaosmc Network",
+        "addresses": [
+            "kaosmc.club",
+            "kaosmc.live"
+        ]
     }
 ]
