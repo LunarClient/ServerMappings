@@ -1429,5 +1429,12 @@
         "addresses": [
             "ymzc.pro"
         ]
-    }
+    },
+    {
+        "id": "orbitmc",
+        "name": "OrbitMC Network",
+        "addresses": [
+            "orbitmc.cc"
+        ]
+    }    
 ]
