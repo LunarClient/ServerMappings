@@ -1424,6 +1424,14 @@
         ]
     },
     {
+        "id": "kaosmc",
+        "name": "KaosMC",
+        "addresses": [
+            "kaosmc.live",
+            "kaosmc.club"
+        ]
+    },
+    {
         "id": "ymzc",
         "name": "YMZC Network",
         "addresses": [
