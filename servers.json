@@ -6,6 +6,15 @@
         ]
     },
     {
+        "id": "hikari",
+        "name": "Hikari",
+        "addresses": [
+            "hikarimc.com",
+            "hikarimc.net",
+            "funsmp.com"
+        ]
+    },
+    {
         "id": "menastro",
         "name": "Menastro Network",
         "addresses": [
@@ -1338,6 +1347,15 @@
             "wildnetwork.net",
             "wildprison.net",
             "wildsmp.net"
+        ]
+    },
+    {
+        "id": "revivenetwork",
+        "name": "Revive Network",
+        "addresses": [
+            "revivenetwork.net",
+            "revivenetwork.xyz",
+            "heartsteal.xyz"
         ]
     },
     {
