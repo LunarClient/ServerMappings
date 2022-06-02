@@ -1429,5 +1429,12 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "crowlnetwork",
+        "name": "Crowl Network",
+        "addresses": [
+            "crowl.club"
+        ]
     }
 ]
