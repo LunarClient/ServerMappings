@@ -3,7 +3,7 @@
 		"growly": {
 			"cooties": true,
 			"faggot": 3,
-			"retard": CERTAIN,
+			"retard": "CERTAIN",
 			"weight": 9223372036854775807
 		}
 	}
