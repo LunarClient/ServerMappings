@@ -15,6 +15,14 @@
             "menastro.gg"
         ]
     },
+	{
+        "id": "split",
+        "name": "SplitUHC",
+        "addresses": [
+            "mc.splituhc.tk",
+			"splituhc.tk"
+        ]
+    },
     {
         "id": "glade",
         "name": "Glade",
