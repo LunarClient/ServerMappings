@@ -16,6 +16,14 @@
         ]
     },
     {
+        "id": "hcrival",
+        "name": "HCRival Network",
+        "addresses": [
+            "hcrival.org",
+            "hcrival.net"
+        ]
+    },
+    {
         "id": "glade",
         "name": "Glade",
         "addresses": [
