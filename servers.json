@@ -1429,5 +1429,13 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "minexo",
+        "name": "MineXO Network",
+        "addresses": [
+            "minexo.net",
+            "hcgames.org"
+        ]
     }
 ]
