@@ -1437,5 +1437,12 @@
             "troyplex.net", 
             "play.troyplex.net"
         ]
+    },
+    {
+        "id": "udropclub",
+        "name": "uDrop Club",
+        "addresses": [
+            "udrop.club"
+        ]
     }
 ]
