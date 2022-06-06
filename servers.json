@@ -1429,5 +1429,13 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "troyplex",
+        "name": "Troyplex Network",
+        "addresses": [
+            "troyplex.net", 
+            "play.troyplex.net"
+        ]
     }
 ]
