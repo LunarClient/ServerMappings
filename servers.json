@@ -1436,5 +1436,12 @@
         "addresses": [
             "udrop.club"
         ]
+    },
+    {
+        "id": "awitamc",
+        "name": "AwitaMC Network",
+        "addresses": [
+            "awitamc.net"
+        ]
     }
 ]
