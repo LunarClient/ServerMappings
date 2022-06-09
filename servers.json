@@ -1453,6 +1453,13 @@
         ]
     },
     {
+        "id": "awitamc",
+        "name": "AwitaMC Network",
+        "addresses": [
+            "awitamc.net"
+        ]
+    },
+    {
         "id": "pixelcade",
         "name": "Pixelcade",
         "addresses": [
