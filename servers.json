@@ -1441,7 +1441,6 @@
         "id": "pixelcade",
         "name": "Pixelcade",
         "addresses": [
-            "play.pixelcade.net",
             "pixelcade.net"
         ]
     }
