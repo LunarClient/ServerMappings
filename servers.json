@@ -1453,6 +1453,13 @@
         ]
     },
     {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
+        ]
+    },
+    {
         "id": "awitamc",
         "name": "AwitaMC Network",
         "addresses": [
