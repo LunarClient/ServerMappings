@@ -1431,6 +1431,13 @@
         ]
     },
     {
+        "id": "patetamc",
+        "name": "PatetaMC",
+        "addresses": [
+            "pateta.online"
+        ]
+    },
+    {
         "id": "udropclub",
         "name": "uDrop Club",
         "addresses": [
