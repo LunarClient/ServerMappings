@@ -1437,5 +1437,19 @@
             "pvpbear.net",
             "snowbear.playwithus.cc"
         ]
+    },
+    {
+        "id": "patetamc",
+        "name": "PatetaMC",
+        "addresses": [
+            "pateta.online"
+        ]
+    },
+    {
+        "id": "udropclub",
+        "name": "uDrop Club",
+        "addresses": [
+            "udrop.club"
+        ]
     }
 ]
