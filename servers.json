@@ -1431,6 +1431,21 @@
         ]
     },
     {
+        "id": "pvpbear",
+        "name": "PvP Bear",
+        "addresses": [
+            "pvpbear.net",
+            "snowbear.playwithus.cc"
+        ]
+    },
+    {
+        "id": "patetamc",
+        "name": "PatetaMC",
+        "addresses": [
+            "pateta.online"
+        ]
+    },
+    {
         "id": "udropclub",
         "name": "uDrop Club",
         "addresses": [
@@ -1442,6 +1457,20 @@
         "name": "Revenge Network",
         "addresses": [
             "revenge.cc"
+        ]
+    },
+    {
+        "id": "awitamc",
+        "name": "AwitaMC Network",
+        "addresses": [
+            "awitamc.net"
+        ]
+    },
+    {
+        "id": "pixelcade",
+        "name": "Pixelcade",
+        "addresses": [
+            "pixelcade.net"
         ]
     }
 ]
