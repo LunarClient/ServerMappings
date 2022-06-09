@@ -1436,5 +1436,12 @@
         "addresses": [
             "udrop.club"
         ]
+    },
+    {
+        "id": "betterpvpnt",
+        "name": "BetterPvP Network",
+        "addresses": [
+            "betterpvp.club"
+        ]
     }
 ]
