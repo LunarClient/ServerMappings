@@ -1451,5 +1451,12 @@
         "addresses": [
             "udrop.club"
         ]
+    },
+    {
+        "id": "pixelcade",
+        "name": "Pixelcade",
+        "addresses": [
+            "pixelcade.net"
+        ]
     }
 ]
