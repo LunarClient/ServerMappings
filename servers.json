@@ -1465,5 +1465,12 @@
         "addresses": [
             "pixelcade.net"
         ]
+    },
+    {
+        "id": "teamcocoa",
+        "name": "TeamCocoa",
+        "addresses": [
+            "teamcocoa.kr"
+        ]
     }
 ]
