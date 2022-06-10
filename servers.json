@@ -1465,5 +1465,14 @@
         "addresses": [
             "pixelcade.net"
         ]
+    },
+    {
+        "id": "alphqhq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+            "syrex.dev",
+	        "dev.alphahq.org"
+        ]
     }
 ]
