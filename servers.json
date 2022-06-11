@@ -1465,5 +1465,12 @@
         "addresses": [
             "pixelcade.net"
         ]
+    },
+    {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
+        ]
     }
 ]
