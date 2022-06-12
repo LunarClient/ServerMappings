@@ -15,6 +15,13 @@
             "menastro.gg"
         ]
     },
+        {
+        "id": "shadowrient",
+        "name": "ShadowRient Network",
+        "addresses": [
+            "mc.shadowrient.ml"
+        ]
+    },
     {
         "id": "glade",
         "name": "Glade",
