@@ -1465,5 +1465,12 @@
         "addresses": [
             "pixelcade.net"
         ]
+    },
+    {
+        "id": "kantay",
+        "name": "Kantay Network",
+        "addresses": [
+            "kantay.cc"
+        ]
     }
 ]
