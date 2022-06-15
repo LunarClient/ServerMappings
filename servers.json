@@ -16,6 +16,14 @@
         ]
     },
     {
+        "id": "juvymc",
+        "name": "JuvyMC",
+        "addresses": [
+            "juvymc.net",
+            "juvymc.club"
+        ]
+    },
+    {
         "id": "menastro",
         "name": "Menastro Network",
         "addresses": [
