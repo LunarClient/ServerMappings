@@ -1487,5 +1487,12 @@
         "addresses": [
             "kantay.cc"
         ]
+    },
+    {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
+        ]
     }
 ]
