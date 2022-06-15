@@ -1,11 +1,26 @@
 [ 
     {
+        "id": "minehq",
+        "name": "MineHQ Network",
+        "addresses": [
+            "minehq.org"
+        ]
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
             "hikarimc.com",
             "hikarimc.net",
             "funsmp.com"
+        ]
+    },
+    {
+        "id": "juvymc",
+        "name": "JuvyMC",
+        "addresses": [
+            "juvymc.net",
+            "juvymc.club"
         ]
     },
     {
@@ -1464,6 +1479,13 @@
         "name": "Pixelcade",
         "addresses": [
             "pixelcade.net"
+        ]
+    },
+    {
+        "id": "kantay",
+        "name": "Kantay Network",
+        "addresses": [
+            "kantay.cc"
         ]
     },
     {
