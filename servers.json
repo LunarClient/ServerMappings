@@ -1424,8 +1424,9 @@
         "name": "Ares Network",
         "addresses": [
             "aresnetwork.net"
+     },
         ]
-                "id": "pvpbear",
+        "id": "pvpbear",
         "name": "PvP Bear",
         "addresses": [
             "pvpbear.net",
