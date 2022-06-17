@@ -1425,5 +1425,46 @@
         "addresses": [
             "aresnetwork.net"
         ]
+                "id": "pvpbear",
+        "name": "PvP Bear",
+        "addresses": [
+            "pvpbear.net",
+            "snowbear.playwithus.cc"
+        ]
+    },
+    {
+        "id": "patetamc",
+        "name": "PatetaMC",
+        "addresses": [
+            "pateta.online"
+        ]
+    },
+    {
+        "id": "udropclub",
+        "name": "uDrop Club",
+        "addresses": [
+            "udrop.club"
+        ]
+    },
+    {
+        "id": "awitamc",
+        "name": "AwitaMC Network",
+        "addresses": [
+            "awitamc.net"
+        ]
+    },
+    {
+        "id": "pixelcade",
+        "name": "Pixelcade",
+        "addresses": [
+            "pixelcade.net"
+        ]
+    },
+    {
+        "id": "kantay",
+        "name": "Kantay Network",
+        "addresses": [
+            "kantay.cc"
+        ]
     }
 ]
