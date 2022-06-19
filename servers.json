@@ -1487,5 +1487,12 @@
         "addresses": [
             "kantay.cc"
         ]
+    },
+    {
+        "id": "clashmc",
+        "name": "ClashMC Network",
+        "addresses": [
+            "clashmc.org"
+        ]
     }
 ]
