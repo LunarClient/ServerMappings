@@ -1487,5 +1487,14 @@
         "addresses": [
             "kantay.cc"
         ]
+    },
+    {
+        "id": "battle",
+        "name": "Battle Network",
+        "addresses": [
+            "battle.rip",
+            "na.battle.rip",
+            "eu.battle.rip"
+        ]
     }
 ]
