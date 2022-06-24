@@ -1489,6 +1489,13 @@
         ]
     },
     {
+        "id": "clashmc",
+        "name": "ClashMC Network",
+        "addresses": [
+            "clashmc.org"
+        ]
+    },
+    {
         "id": "revenge",
         "name": "Revenge Network",
         "addresses": [
