@@ -1489,6 +1489,13 @@
         ]
     },
     {
+        "id": "ascendantmc",
+        "name": "AscendantMC",
+        "addresses": [
+            "ascendantmc.net"
+        ]
+    },
+    {
         "id": "betterpvpnt",
         "name": "BetterPvP Network",
         "addresses": [
@@ -1496,7 +1503,7 @@
         ]
     },
     {
-		"id": "clashmc",
+		    "id": "clashmc",
         "name": "ClashMC Network",
         "addresses": [
             "clashmc.org"
