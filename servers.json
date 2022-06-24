@@ -1489,6 +1489,34 @@
         ]
     },
     {
+        "id": "ascendantmc",
+        "name": "AscendantMC",
+        "addresses": [
+            "ascendantmc.net"
+        ]
+    },
+    {
+        "id": "betterpvpnt",
+        "name": "BetterPvP Network",
+        "addresses": [
+            "betterpvp.club"
+        ]
+    },
+    {
+		    "id": "clashmc",
+        "name": "ClashMC Network",
+        "addresses": [
+            "clashmc.org"
+        ]
+    },
+    {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
+        ]
+    },
+    {
         "id": "teamcocoa",
         "name": "TeamCocoa",
         "addresses": [
