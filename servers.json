@@ -1489,7 +1489,14 @@
         ]
     },
     {
-        "id": "clashmc",
+        "id": "betterpvpnt",
+        "name": "BetterPvP Network",
+        "addresses": [
+            "betterpvp.club"
+        ]
+    },
+    {
+		"id": "clashmc",
         "name": "ClashMC Network",
         "addresses": [
             "clashmc.org"
