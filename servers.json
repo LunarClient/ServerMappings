@@ -1494,5 +1494,12 @@
         "addresses": [
             "clashmc.org"
         ]
+    },
+    {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
+        ]
     }
 ]
