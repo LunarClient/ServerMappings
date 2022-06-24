@@ -1496,6 +1496,7 @@
         ]
     },
     {
+		"id": "clashmc",
         "name": "ClashMC Network",
         "addresses": [
             "clashmc.org"
