@@ -1494,5 +1494,18 @@
         "addresses": [
             "betterpvp.club"
         ]
+    },
+    {
+        "name": "ClashMC Network",
+        "addresses": [
+            "clashmc.org"
+        ]
+    },
+    {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
+        ]
     }
 ]
