@@ -1503,10 +1503,10 @@
         ]
     },
     {
-		    "id": "clashmc",
-        "name": "ClashMC Network",
+        "id": "imperialrip",
+        "name": "Imperial Network",
         "addresses": [
-            "clashmc.org"
+            "imperial.rip"
         ]
     },
     {
@@ -1516,4 +1516,5 @@
             "revenge.cc"
         ]
     }
+	
 ]
