@@ -7,12 +7,27 @@
         ]
     },
     {
+        "id": "minehq",
+        "name": "MineHQ Network",
+        "addresses": [
+            "minehq.org"
+        ]
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
             "hikarimc.com",
             "hikarimc.net",
             "funsmp.com"
+        ]
+    },
+    {
+        "id": "juvymc",
+        "name": "JuvyMC",
+        "addresses": [
+            "juvymc.net",
+            "juvymc.club"
         ]
     },
     {
@@ -1435,6 +1450,77 @@
         "name": "YMZC Network",
         "addresses": [
             "ymzc.pro"
+        ]
+    },
+    {
+        "id": "pvpbear",
+        "name": "PvP Bear",
+        "addresses": [
+            "pvpbear.net",
+            "snowbear.playwithus.cc"
+        ]
+    },
+    {
+        "id": "patetamc",
+        "name": "PatetaMC",
+        "addresses": [
+            "pateta.online"
+        ]
+    },
+    {
+        "id": "udropclub",
+        "name": "uDrop Club",
+        "addresses": [
+            "udrop.club"
+        ]
+    },
+    {
+        "id": "awitamc",
+        "name": "AwitaMC Network",
+        "addresses": [
+            "awitamc.net"
+        ]
+    },
+    {
+        "id": "pixelcade",
+        "name": "Pixelcade",
+        "addresses": [
+            "pixelcade.net"
+        ]
+    },
+    {
+        "id": "kantay",
+        "name": "Kantay Network",
+        "addresses": [
+            "kantay.cc"
+        ]
+    },
+    {
+        "id": "ascendantmc",
+        "name": "AscendantMC",
+        "addresses": [
+            "ascendantmc.net"
+        ]
+    },
+    {
+        "id": "betterpvpnt",
+        "name": "BetterPvP Network",
+        "addresses": [
+            "betterpvp.club"
+        ]
+    },
+    {
+		    "id": "clashmc",
+        "name": "ClashMC Network",
+        "addresses": [
+            "clashmc.org"
+        ]
+    },
+    {
+        "id": "revenge",
+        "name": "Revenge Network",
+        "addresses": [
+            "revenge.cc"
         ]
     }
 ]
