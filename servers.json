@@ -1,11 +1,5 @@
 [ 
-    {
-        "id": "minehq",
-        "name": "MineHQ Network",
-        "addresses": [
-            "minehq.org"
-        ]
-    },
+
     {
         "id": "hikari",
         "name": "Hikari",
