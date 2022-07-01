@@ -31,6 +31,13 @@
         ]
     },
     {
+        "id": "fusionmc",
+        "name": "FusionMC Network",
+        "addresses": [
+            "play.fusionmc.ml"
+        ]
+    },
+    {
         "id": "glade",
         "name": "Glade",
         "addresses": [
