@@ -1516,4 +1516,11 @@
             "revenge.cc"
         ]
     }
+    {
+        "id": "harlon",
+        "name": "Harlon City Server",
+        "addresses": [
+            "harlonserver.net"
+        ]
+    }    
 ]
