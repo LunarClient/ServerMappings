@@ -1432,6 +1432,13 @@
         ]
     },
     {
+        "id": "antique",
+        "name": "Antique Network",
+        "addresses": [
+            "antique.gg"
+        ]
+    },
+    {
         "id": "vealypvp",
         "name": "VealyPvP.us",
         "addresses": [
