@@ -1515,5 +1515,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+	{
+        "id": "minescapes",
+        "name": "MineScapes",
+        "addresses": [
+            "minescapes.net"
+        ]
     }
 ]
