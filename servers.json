@@ -1515,5 +1515,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "imperial",
+        "name": "Imperial Network",
+        "addresses": [
+            "imperial.rip"
+        ]
     }
 ]
