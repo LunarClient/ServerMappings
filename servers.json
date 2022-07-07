@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "teamcocoa",
+        "name": "TeamCocoa",
+        "addresses": [
+            "teamcocoa.kr"
+        ]
     }
 ]
