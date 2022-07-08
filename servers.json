@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "magicmine",
+        "name": "MagicMine Network",
+        "addresses": [
+            "magicmine.eu"
+        ]
     }
 ]
