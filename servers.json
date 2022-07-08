@@ -1,5 +1,13 @@
 [ 
     {
+        "id": "fightclub",
+        "name": "FightClub Practice",
+        "addresses": [
+            "fightclubpvp.eu"
+        ]
+    },
+[ 
+    {
         "id": "minehq",
         "name": "MineHQ Network",
         "addresses": [
