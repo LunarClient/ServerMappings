@@ -768,9 +768,10 @@
     },
     {
         "id": "librecraft",
-        "name": "LibreCraft.com",
+        "name": "Librecraft Network",
         "addresses": [
-            "librecraft.com"
+            "librecraft.com",
+		"librecraft.juegos"
         ]
     },
     {
