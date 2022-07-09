@@ -1522,5 +1522,13 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "nekocraft",
+        "name": "NekoCraft Network",
+        "addresses": [
+            "nekocraft.us",
+	    "nekocraft.es"
+        ]
     }
 ]
