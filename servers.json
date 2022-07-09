@@ -1530,5 +1530,13 @@
             "nekocraft.us",
 	    "nekocraft.es"
         ]
+    },
+    {
+        "id": "minelatino",
+        "name": "MineLatino Network",
+        "addresses": [
+            "minelatino.com",
+	    "minelatino.net"
+        ]
     }
 ]
