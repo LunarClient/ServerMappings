@@ -1359,12 +1359,13 @@
         ]
     },
     {
-        "id": "revivenetwork",
-        "name": "Revive Network",
+        "id": "heartsteal",
+        "name": "HeartSteal SMP",
         "addresses": [
             "revivenetwork.net",
             "revivenetwork.xyz",
-            "heartsteal.xyz"
+            "heartsteal.xyz",
+	    "heartsteal.net"	
         ]
     },
     {
