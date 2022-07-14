@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "kazer",
+        "name": "Kazer Network",
+        "addresses": [
+            "kazer.cc"
+        ]
     }
 ]
