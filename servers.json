@@ -1520,11 +1520,11 @@
         "id": "comugamers",
         "name": "ComuGamers Network",
         "addresses": [
-	    "comugamers.net",
+            "comugamers.net",
             "comugamers.com",
-	    "comugamers.eu",
-	    "comugamers.org",
-	    "gamezchile.cl"
+            "comugamers.eu",
+            "comugamers.org",
+            "gamezchile.cl"
         ]
     }
 ]
