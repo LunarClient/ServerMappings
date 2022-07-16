@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "LemonClub",
+        "name": "LemonClub",
+        "addresses": [
+            "lemonclub.eu"
+        ]
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
