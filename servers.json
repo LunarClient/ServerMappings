@@ -1439,6 +1439,13 @@
         ]
     },
     {
+        "id": "nyte",
+        "name": "Nyte Network",
+        "addresses": [
+            "nyte.cc"
+        ]
+    },
+    {
         "id": "vealypvp",
         "name": "VealyPvP.us",
         "addresses": [
@@ -1524,3 +1531,4 @@
         ]
     }
 ]
+
