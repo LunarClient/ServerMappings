@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "bridgepractice",
+        "name": "BridgePractice.net",
+        "addresses": [
+            "bridgepractice.net"
+        ]
     }
 ]
