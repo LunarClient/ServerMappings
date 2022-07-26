@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "neptunemc",
+        "name": "NeptuneMC Network",
+        "addresses": [
+            "neptunemc"
+        ]
     }
 ]
