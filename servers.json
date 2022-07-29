@@ -1569,5 +1569,21 @@
         "addresses": [
             "twistmc.net"
         ]
+    },
+    {
+        "id": "nekocraft",
+        "name": "NekoCraft Network",
+        "addresses": [
+            "nekocraft.us",
+            "nekocraft.es"
+        ]
+    },
+    {
+        "id": "minelatino",
+        "name": "MineLatino Network",
+        "addresses": [
+            "minelatino.com",
+            "minelatino.net"
+        ]
     }
 ]
