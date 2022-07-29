@@ -624,7 +624,8 @@
             "banananetwork.es",
             "darktimes.es",
             "bedwars.es",
-            "zonehosting.net"
+            "zonehosting.net",
+            "skywars.es"
         ]
     },
     {
@@ -833,6 +834,13 @@
         "name": "PikaNetwork",
         "addresses": [
             "pika-network.net"
+        ]
+    },
+    {
+        "id": "glorynetwork",
+        "name": "GloryNetwork",
+        "addresses": [
+            "glory-network.com"
         ]
     },
     {
@@ -1521,6 +1529,30 @@
         "name": "Revenge Network",
         "addresses": [
             "revenge.cc"
+        ]
+    },
+    {
+        "id": "minebox",
+        "name": "MineBox Network",
+        "addresses": [
+            "minebox.es",
+            "minelc.com"
+        ]
+    },
+    {
+        "id": "kig",
+        "name": "KIG Network",
+        "addresses": [
+            "playkig.com",
+            "hive.rip",
+            "cai.rip"
+        ]
+    },
+    {
+        "id": "bridgepractice",
+        "name": "BridgePractice.net",
+        "addresses": [
+            "bridgepractice.net"
         ]
     },
     {
