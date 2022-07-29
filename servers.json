@@ -836,6 +836,13 @@
         ]
     },
     {
+        "id": "glorynetwork",
+        "name": "GloryNetwork",
+        "addresses": [
+            "glory-network.com"
+        ]
+    },
+    {
         "id": "hivemc",
         "name": "HiveMC",
         "addresses": [
@@ -1521,6 +1528,23 @@
         "name": "Revenge Network",
         "addresses": [
             "revenge.cc"
+        ]
+    },
+    {
+        "id": "minebox",
+        "name": "MineBox Network",
+        "addresses": [
+            "minebox.es",
+            "minelc.com"
+        ]
+    },
+    {
+        "id": "kig",
+        "name": "KIG Network",
+        "addresses": [
+            "playkig.com",
+            "hive.rip",
+            "cai.rip"
         ]
     },
     {
