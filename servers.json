@@ -1,5 +1,12 @@
 [ 
     {
+        "id": "minebet",
+        "name": "MineBet",
+        "addresses": [
+            "minebet.net"
+        ]
+    },
+    {
         "id": "minehq",
         "name": "MineHQ Network",
         "addresses": [
@@ -624,7 +631,8 @@
             "banananetwork.es",
             "darktimes.es",
             "bedwars.es",
-            "zonehosting.net"
+            "zonehosting.net",
+            "skywars.es"
         ]
     },
     {
@@ -768,9 +776,10 @@
     },
     {
         "id": "librecraft",
-        "name": "LibreCraft.com",
+        "name": "Librecraft Network",
         "addresses": [
-            "librecraft.com"
+            "librecraft.com",
+            "librecraft.juegos"
         ]
     },
     {
@@ -833,6 +842,13 @@
         "name": "PikaNetwork",
         "addresses": [
             "pika-network.net"
+        ]
+    },
+    {
+        "id": "glorynetwork",
+        "name": "GloryNetwork",
+        "addresses": [
+            "glory-network.com"
         ]
     },
     {
@@ -1432,6 +1448,13 @@
         ]
     },
     {
+        "id": "antique",
+        "name": "Antique Network",
+        "addresses": [
+            "antique.gg"
+        ]
+    },
+    {
         "id": "vealypvp",
         "name": "VealyPvP.us",
         "addresses": [
@@ -1514,6 +1537,53 @@
         "name": "Revenge Network",
         "addresses": [
             "revenge.cc"
+        ]
+    },
+    {
+        "id": "minebox",
+        "name": "MineBox Network",
+        "addresses": [
+            "minebox.es",
+            "minelc.com"
+        ]
+    },
+    {
+        "id": "kig",
+        "name": "KIG Network",
+        "addresses": [
+            "playkig.com",
+            "hive.rip",
+            "cai.rip"
+        ]
+    },
+    {
+        "id": "bridgepractice",
+        "name": "BridgePractice.net",
+        "addresses": [
+            "bridgepractice.net"
+        ]
+    },
+    {
+        "id": "twistmc",
+        "name": "TwistMC",
+        "addresses": [
+            "twistmc.net"
+        ]
+    },
+    {
+        "id": "nekocraft",
+        "name": "NekoCraft Network",
+        "addresses": [
+            "nekocraft.us",
+            "nekocraft.es"
+        ]
+    },
+    {
+        "id": "minelatino",
+        "name": "MineLatino Network",
+        "addresses": [
+            "minelatino.com",
+            "minelatino.net"
         ]
     },
     {
