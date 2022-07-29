@@ -836,6 +836,13 @@
         ]
     },
     {
+        "id": "glorynetwork",
+        "name": "GloryNetwork",
+        "addresses": [
+            "glory-network.com"
+        ]
+    },
+    {
         "id": "hivemc",
         "name": "HiveMC",
         "addresses": [
