@@ -1522,5 +1522,13 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "minebox",
+        "name": "MineBox Network",
+        "addresses": [
+            "minebox.es",
+            "minelc.com"
+        ]
     }
 ]
