@@ -1,5 +1,12 @@
 [ 
     {
+        "id": "minebet",
+        "name": "MineBet",
+        "addresses": [
+            "minebet.net"
+        ]
+    },
+    {
         "id": "minehq",
         "name": "MineHQ Network",
         "addresses": [
