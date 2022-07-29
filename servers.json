@@ -1,5 +1,12 @@
 [ 
     {
+        "id": "minebet",
+        "name": "MineBet",
+        "addresses": [
+            "minebet.net"
+        ]
+    },
+    {
         "id": "minehq",
         "name": "MineHQ Network",
         "addresses": [
@@ -624,7 +631,8 @@
             "banananetwork.es",
             "darktimes.es",
             "bedwars.es",
-            "zonehosting.net"
+            "zonehosting.net",
+            "skywars.es"
         ]
     },
     {
@@ -833,6 +841,13 @@
         "name": "PikaNetwork",
         "addresses": [
             "pika-network.net"
+        ]
+    },
+    {
+        "id": "glorynetwork",
+        "name": "GloryNetwork",
+        "addresses": [
+            "glory-network.com"
         ]
     },
     {
@@ -1524,11 +1539,42 @@
         ]
     },
     {
+        "id": "minebox",
+        "name": "MineBox Network",
+        "addresses": [
+            "minebox.es",
+            "minelc.com"
+        ]
+    },
+    {
+        "id": "kig",
+        "name": "KIG Network",
+        "addresses": [
+            "playkig.com",
+            "hive.rip",
+            "cai.rip"
+        ]
+    },
+    {
+        "id": "bridgepractice",
+        "name": "BridgePractice.net",
+        "addresses": [
+            "bridgepractice.net"
+        ]
+    },
+    {
+        "id": "twistmc",
+        "name": "TwistMC",
+        "addresses": [
+            "twistmc.net"
+        ]
+    },
+    {
         "id": "nekocraft",
         "name": "NekoCraft Network",
         "addresses": [
             "nekocraft.us",
-	    "nekocraft.es"
+            "nekocraft.es"
         ]
     },
     {
@@ -1536,7 +1582,7 @@
         "name": "MineLatino Network",
         "addresses": [
             "minelatino.com",
-	    "minelatino.net"
+            "minelatino.net"
         ]
     }
 ]
