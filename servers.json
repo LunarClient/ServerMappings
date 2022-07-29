@@ -1530,5 +1530,14 @@
             "minebox.es",
             "minelc.com"
         ]
+    },
+    {
+        "id": "kig",
+        "name": "KIG Network",
+        "addresses": [
+            "playkig.com",
+            "hive.rip",
+            "cai.rip"
+        ]
     }
 ]
