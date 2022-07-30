@@ -1,4 +1,11 @@
-[ 
+[   
+     {
+        "id": "shadowrient",
+        "name": "Shadowrient Network",
+        "addresses": [
+            "shadowrient.ml"
+        ]
+    },
     {
         "id": "minebet",
         "name": "MineBet",
