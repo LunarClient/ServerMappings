@@ -1520,8 +1520,7 @@
         "id": "limaru",
         "name": "Federal Republic of Limaru",
         "addresses": [
-            "limaru.ddns.net:25543",
-		"limaru.ddns.net:25692"
+            "limaru.ddns.net"
         ]
     }
 ]
