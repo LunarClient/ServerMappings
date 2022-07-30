@@ -10,8 +10,11 @@
 * You can view our patterns here: [servers.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/servers.schema.json), or take a look below and complete the field checklist:
   - [ ] `id`: a lowercase string *(ex. `myserver`)*
   - [ ] `name`: a string *(ex. `MyServerPvP`)*
-  - [ ] `addresses`: an array with lowercase strings *(ex. of address `my.server`)*
-    - You do not need to specify sub-domains, Lunar Client services automatically detect them.
+  - [ ] `addresses`: an array with lowercase strings *(ex. `["my.server", "your-server.com"]`)*
+    - You do not need to specify subdomains, Lunar Client services automatically detect them.
+  - [ ] `primaryAddress`: an address *(ex. `my.server`)*
+  - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.18", "1.19"]`)*
+  - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.18`)*
 
 ### Logo Additions or Updates:
 * [ ] My image is a `png` file.

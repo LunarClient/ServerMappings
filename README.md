@@ -12,6 +12,9 @@ Please feel free to open a PR against `servers.json` in this repository, and we'
 
 The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["lunar.gg", "other.domain"]` will match `lunar.gg`, `na.lunar.gg`, `play.other.domain`, and so on.
 
+## Primary Info & Minecraft Versions
+We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array. The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18, 1.19)*; The `primaryMinecraftVersion` field must be a version included in the `minecraftVersions` array.
+
 ## Logos
 In addition to the entry that you will need to provide in the `servers.json`, you will need to upload a `.png` version of your logo into the `/logos` directory in this repository. All images are to be _transparent_, _square (1:1 aspect ratio)_, and _a minimum of 512px in width and height_. The file name should match the server ID in the `servers.json` (for example: `lunarnetwork.png`).
 
@@ -25,4 +28,4 @@ Go for it.
 
 ## Any other questions?
 
-Please contact us at https://support.lunarclient.com for any additional questions.
+Please contact us at [support.lunarclient.com](https://support.lunarclient.com) for any additional questions.
