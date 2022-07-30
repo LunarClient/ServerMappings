@@ -1596,6 +1596,13 @@
         ]
     },
     {
+        "id": "harlon",
+        "name": "Harlon City Server",
+        "addresses": [
+            "harlonserver.net"
+        ]
+    },    
+    {
         "id": "limaru",
         "name": "Federal Republic of Limaru",
         "addresses": [
