@@ -1596,6 +1596,13 @@
         ]
     },
     {
+        "id": "limaru",
+        "name": "Federal Republic of Limaru",
+        "addresses": [
+            "limaru.ddns.net"
+        ]
+    },
+    {
         "id": "minebox",
         "name": "MineBox Network",
         "addresses": [
