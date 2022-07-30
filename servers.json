@@ -1657,6 +1657,13 @@
         ]
     },
     {
+        "id": "savanapvp",
+        "name": "SavanaPvP Network",
+        "addresses": [
+            "savanapvp.net",
+        ]
+    },
+    {
         "id": "comugamers",
         "name": "ComuGamers Network",
         "addresses": [
