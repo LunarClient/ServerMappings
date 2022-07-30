@@ -1649,5 +1649,16 @@
             "comugamers.org",
             "gamezchile.cl"
         ]
+    },
+    {
+        "id": "alphahq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+	     "syrex.dev"
+        ],
+        "primaryAddress": "alphahq.org",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.7"
     }
 ]
