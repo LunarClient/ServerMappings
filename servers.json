@@ -7,13 +7,6 @@
         ]
     },
     {
-        "id": "minehq",
-        "name": "MineHQ Network",
-        "addresses": [
-            "minehq.org"
-        ]
-    },
-    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
@@ -215,7 +208,10 @@
         "name": "JailMC",
         "addresses": [
             "jailmc.com"
-        ]
+        ],
+        "primaryAddress": "jailmc.com",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "neptuniummc",
@@ -264,7 +260,10 @@
         "name": "MineClub",
         "addresses": [
             "mineclub.com"
-        ]
+        ],
+        "primaryAddress": "play.mineclub.com",
+        "minecraftVersions": ["1.18", "1.19"],
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "pvpland",
@@ -416,7 +415,10 @@
         "name": "Hypixel",
         "addresses": [
             "hypixel.net"
-        ]
+        ],
+        "primaryAddress": "mc.hypixel.net",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "bedwarspractice",
@@ -486,7 +488,20 @@
         "name": "Shotbow",
         "addresses": [
             "shotbow.net"
-        ]
+        ],
+        "primaryAddress": "play.shotbow.net",
+        "minecraftVersions": ["1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "minecadia",
+        "name": "Minecadia",
+        "addresses": [
+            "minecadia.com"
+        ],
+        "primaryAddress": "play.minecadia.com",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "sagepvp",
@@ -601,7 +616,10 @@
             "gamefack.me",
             "gamefack.us",
             "ghostly.live"
-        ]
+        ],
+        "primaryAddress": "ghostly.live",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "vipermc",
@@ -611,7 +629,10 @@
             "viperhcf.net",
             "vipermc.com",
             "vipermc.net"
-        ]
+        ],
+        "primaryAddress": "play.vipermc.net",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "hylex",
@@ -699,7 +720,10 @@
         "name": "PvP Legacy",
         "addresses": [
             "pvplegacy.net"
-        ]
+        ],
+        "primaryAddress": "pvplegacy.net",
+        "minecraftVersions": ["1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.18"
     },
     {
         "id": "hadaria",
@@ -736,7 +760,10 @@
         "name": "Overcast Community",
         "addresses": [
             "oc.tc"
-        ]
+        ],
+        "primaryAddress": "play.oc.tc",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "watermc",
@@ -805,7 +832,10 @@
             "holyh.cf",
             "holypvp.net",
             "watermc.gg"
-        ]
+        ],
+        "primaryAddress": "holypvp.net",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "tropical",
@@ -821,7 +851,10 @@
             "lunar.gg",
             "lunargg.dev",
             "mcteams.com"
-        ]
+        ],
+        "primaryAddress": "lunar.gg",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "twistedmc",
@@ -900,6 +933,26 @@
         "addresses": [
             "lynxmc.ga"
         ]
+    },
+    {
+        "id": "opblocks",
+        "name": "OPBlocks",
+        "addresses": [
+            "opblocks.com"
+        ],
+        "primaryAddress": "opblocks.com",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "mccentral",
+        "name": "Minecraft Central",
+        "addresses": [
+            "mccentral.org"
+        ],
+        "primaryAddress": "mccentral.org",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "potpvpbrazil",
