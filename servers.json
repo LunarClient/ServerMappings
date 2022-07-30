@@ -235,10 +235,10 @@
         ]
     },
     {
-        "id": "craftplay",
-        "name": "CraftPlay",
+        "id": "kithard",
+        "name": "kithard",
         "addresses": [
-            "craftplay.pl"
+            "kithard.eu"
         ]
     },
     {
@@ -1405,6 +1405,13 @@
         "addresses": [
             "stolencode.fun",
             "stolenco.de"
+        ]
+    },
+    {
+        "id": "vestpvp",
+        "name": "VestPVP",
+        "addresses": [
+            "vestpvp.pl"
         ]
     },
     {
