@@ -1687,5 +1687,12 @@
         "primaryAddress": "minequest.gg",
         "minecraftVersions": ["1.8"],
         "primaryMinecraftVersion": "1.8"
+    },
+	{
+        "id": "kazer",
+        "name": "Kazer Network",
+        "addresses": [
+            "kazer.cc"
+        ]
     }
 ]
