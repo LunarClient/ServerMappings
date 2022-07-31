@@ -1698,5 +1698,15 @@
         "primaryAddress": "accentry.cn",
         "minecraftVersions": ["1.8","1.12","1.16","1.17","1.18","1.19"],
         "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "neptunemc",
+        "name": "NeptuneMC Network",
+        "addresses": [
+            "neptunemc.es"
+        ],
+        "primaryAddress": "neptunemc.es",
+        "minecraftVersions": ["1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.17"
     }
 ]
