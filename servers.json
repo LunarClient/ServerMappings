@@ -1,9 +1,9 @@
-[ 
+[
     {
-        "id": "minehq",
-        "name": "MineHQ Network",
+        "id": "minebet",
+        "name": "MineBet",
         "addresses": [
-            "minehq.org"
+            "minebet.net"
         ]
     },
     {
@@ -51,7 +51,7 @@
             "koolkidzmc.com"
         ]
     },
-    { 
+    {
         "id": "fademc",
         "name": "FadeMC",
         "addresses": [
@@ -208,7 +208,10 @@
         "name": "JailMC",
         "addresses": [
             "jailmc.com"
-        ]
+        ],
+        "primaryAddress": "jailmc.com",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "neptuniummc",
@@ -257,7 +260,10 @@
         "name": "MineClub",
         "addresses": [
             "mineclub.com"
-        ]
+        ],
+        "primaryAddress": "play.mineclub.com",
+        "minecraftVersions": ["1.18", "1.19"],
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "pvpland",
@@ -395,7 +401,10 @@
             "minemenclub.com",
             "pvp.bar",
             "zonix.us"
-        ]
+        ],
+        "primaryAddress": "minemen.club",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "loverfella",
@@ -409,7 +418,10 @@
         "name": "Hypixel",
         "addresses": [
             "hypixel.net"
-        ]
+        ],
+        "primaryAddress": "mc.hypixel.net",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "bedwarspractice",
@@ -479,7 +491,20 @@
         "name": "Shotbow",
         "addresses": [
             "shotbow.net"
-        ]
+        ],
+        "primaryAddress": "play.shotbow.net",
+        "minecraftVersions": ["1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "minecadia",
+        "name": "Minecadia",
+        "addresses": [
+            "minecadia.com"
+        ],
+        "primaryAddress": "play.minecadia.com",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "sagepvp",
@@ -594,7 +619,10 @@
             "gamefack.me",
             "gamefack.us",
             "ghostly.live"
-        ]
+        ],
+        "primaryAddress": "ghostly.live",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "vipermc",
@@ -604,7 +632,10 @@
             "viperhcf.net",
             "vipermc.com",
             "vipermc.net"
-        ]
+        ],
+        "primaryAddress": "play.vipermc.net",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "hylex",
@@ -624,7 +655,8 @@
             "banananetwork.es",
             "darktimes.es",
             "bedwars.es",
-            "zonehosting.net"
+            "zonehosting.net",
+            "skywars.es"
         ]
     },
     {
@@ -691,7 +723,10 @@
         "name": "PvP Legacy",
         "addresses": [
             "pvplegacy.net"
-        ]
+        ],
+        "primaryAddress": "pvplegacy.net",
+        "minecraftVersions": ["1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.18"
     },
     {
         "id": "hadaria",
@@ -728,7 +763,10 @@
         "name": "Overcast Community",
         "addresses": [
             "oc.tc"
-        ]
+        ],
+        "primaryAddress": "play.oc.tc",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "watermc",
@@ -768,9 +806,10 @@
     },
     {
         "id": "librecraft",
-        "name": "LibreCraft.com",
+        "name": "Librecraft Network",
         "addresses": [
-            "librecraft.com"
+            "librecraft.com",
+            "librecraft.juegos"
         ]
     },
     {
@@ -796,7 +835,10 @@
             "holyh.cf",
             "holypvp.net",
             "watermc.gg"
-        ]
+        ],
+        "primaryAddress": "holypvp.net",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "tropical",
@@ -812,7 +854,10 @@
             "lunar.gg",
             "lunargg.dev",
             "mcteams.com"
-        ]
+        ],
+        "primaryAddress": "lunar.gg",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "twistedmc",
@@ -820,7 +865,7 @@
         "addresses": [
             "twistedmc.net"
         ]
-    },    
+    },
     {
         "id": "blocksmc",
         "name": "BlocksMC",
@@ -833,6 +878,13 @@
         "name": "PikaNetwork",
         "addresses": [
             "pika-network.net"
+        ]
+    },
+    {
+        "id": "glorynetwork",
+        "name": "GloryNetwork",
+        "addresses": [
+            "glory-network.com"
         ]
     },
     {
@@ -884,6 +936,26 @@
         "addresses": [
             "lynxmc.ga"
         ]
+    },
+    {
+        "id": "opblocks",
+        "name": "OPBlocks",
+        "addresses": [
+            "opblocks.com"
+        ],
+        "primaryAddress": "opblocks.com",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "mccentral",
+        "name": "Minecraft Central",
+        "addresses": [
+            "mccentral.org"
+        ],
+        "primaryAddress": "mccentral.org",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "potpvpbrazil",
@@ -1432,6 +1504,13 @@
         ]
     },
     {
+        "id": "antique",
+        "name": "Antique Network",
+        "addresses": [
+            "antique.gg"
+        ]
+    },
+    {
         "id": "vealypvp",
         "name": "VealyPvP.us",
         "addresses": [
@@ -1522,5 +1601,131 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+        "id": "harlon",
+        "name": "Harlon City Server",
+        "addresses": [
+            "harlonserver.net"
+        ]
+    },    
+    {
+        "id": "limaru",
+        "name": "Federal Republic of Limaru",
+        "addresses": [
+            "limaru.ddns.net"
+        ]
+    },
+    {
+        "id": "minebox",
+        "name": "MineBox Network",
+        "addresses": [
+            "minebox.es",
+            "minelc.com"
+        ]
+    },
+    {
+        "id": "kig",
+        "name": "KIG Network",
+        "addresses": [
+            "playkig.com",
+            "hive.rip",
+            "cai.rip"
+        ]
+    },
+    {
+        "id": "bridgepractice",
+        "name": "BridgePractice.net",
+        "addresses": [
+            "bridgepractice.net"
+        ]
+    },
+    {
+        "id": "twistmc",
+        "name": "TwistMC",
+        "addresses": [
+            "twistmc.net"
+        ]
+    },
+    {
+        "id": "nekocraft",
+        "name": "NekoCraft Network",
+        "addresses": [
+            "nekocraft.us",
+            "nekocraft.es"
+        ]
+    },
+    {
+        "id": "minelatino",
+        "name": "MineLatino Network",
+        "addresses": [
+            "minelatino.com",
+            "minelatino.net"
+        ]
+    },
+    {
+        "id": "comugamers",
+        "name": "ComuGamers Network",
+        "addresses": [
+            "comugamers.net",
+            "comugamers.com",
+            "comugamers.eu",
+            "comugamers.org",
+            "gamezchile.cl"
+        ]
+    },
+    {
+        "id": "alphahq",
+        "name": "AlphaHQ Network",
+        "addresses": [
+            "alphahq.org",
+            "syrex.dev"
+        ],
+        "primaryAddress": "alphahq.org",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.7"
+    },
+    {
+        "id": "minequest",
+        "name": "Minequest",
+        "addresses": [
+            "minequest.gg"
+        ],
+        "primaryAddress": "minequest.gg",
+        "minecraftVersions": ["1.8"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "ariacraft",
+        "name": "AriaCraft",
+        "addresses":[
+            "accentry.cn",
+            "zqat.top"
+        ],
+        "primaryAddress": "accentry.cn",
+        "minecraftVersions": ["1.8","1.12","1.16","1.17","1.18","1.19"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "neptunemc",
+        "name": "NeptuneMC Network",
+        "addresses": [
+            "neptunemc.es",
+            "limitedmc.fun",
+            "skyvermc.es"
+        ],
+        "primaryAddress": "neptunemc.es",
+        "minecraftVersions": ["1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.17"
+    },
+    {
+        "id": "kazer",
+        "name": "Kazer Network",
+        "addresses": [
+            "kazer.cc"
+        ],
+        "primaryAddress": "kazer.cc",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     }
 ]
