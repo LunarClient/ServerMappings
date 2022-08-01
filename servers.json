@@ -1703,9 +1703,10 @@
         "id": "neptunemc",
         "name": "NeptuneMC Network",
         "addresses": [
-            "neptunemc.es"
+            "neptunemc.es",
+            "limitedmc.fun"
         ],
-        "primaryAddress": "neptunemc.es",
+        "primaryAddress": "play.neptunemc.es",
         "minecraftVersions": ["1.12", "1.16", "1.17", "1.18", "1.19"],
         "primaryMinecraftVersion": "1.17"
     }
