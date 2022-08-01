@@ -1568,6 +1568,13 @@
         ]
     },
     {
+        "id": "battle",
+        "name": "Battle Network",
+        "addresses": [
+            "battle.rip"
+        ]
+     },
+     {
         "id": "ascendantmc",
         "name": "AscendantMC",
         "addresses": [
