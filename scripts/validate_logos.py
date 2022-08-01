@@ -21,7 +21,7 @@ def main():
         server_name = server['name']
 
         logo_path = f'{args.servers_logos_source}/{server_id}.png'
-        
+
         # Check image exists
         if not os.path.isfile(logo_path):
             raise ValueError(f'{server_name}\'s server logo does not exist... Please ensure the file name matches the server ID and is a PNG.')
@@ -30,7 +30,7 @@ def main():
 
         # Check image format is a PNG
         if logo_image.format not in ['PNG']:
-            raise ValueError(f'{server_name}\'s server logo is not a PNG... Please ensure the image meets the requirements before proceeding.')
+            raise ValueError(f'{server_name}\'s server logo is not a PNG (currently {logo_image.format})... Please ensure the image meets the requirements before proceeding.')
 
         # Check image dimensions are a 1:1 ratio
         if logo_image.width != logo_image.height:
