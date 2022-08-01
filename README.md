@@ -18,9 +18,14 @@ We also require your server's primary connection information and allowed client 
 ## Logos
 In addition to the entry that you will need to provide in the `servers.json`, you will need to upload a `.png` version of your logo into the `/logos` directory in this repository. All images are to be _transparent_, _square (1:1 aspect ratio)_, and _a minimum of 512px in width and height_. The file name should match the server ID in the `servers.json` (for example: `lunarnetwork.png`).
 
+## Backgrounds
+Servers are also required to provide background image, you will need to upload a `.png` version of the background into the `/backgrounds` directory in this repository. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should match the server ID in the `servers.json` (for example: `lunarnetwork.png`).
+
 ## Restrictions
 
 We ask that this repository is only used to store mappings for *public* Minecraft servers. Some server IPs, such as private SMPs, tournament servers, etc. should not be listed in this repository, out of respect for privacy.
+
+Lunar Client also reserves the right to omit any servers that do not comply with our [Terms of Service](https://www.lunarclient.com/terms).
 
 ## Can I use this data for ___?
 
