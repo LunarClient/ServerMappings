@@ -1431,13 +1431,14 @@
         ]
     },
     {
-        "id": "revivenetwork",
-        "name": "Revive Network",
+        "id": "heartsteal",
+        "name": "HeartSteal SMP",
         "addresses": [
-            "revivenetwork.net",
-            "revivenetwork.xyz",
-            "heartsteal.xyz"
-        ]
+            "heartsteal.net"
+        ],
+        "primaryAddress": "heartsteal.net",
+        "minecraftVersions": ["1.19"],
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "cloudnetwork",
