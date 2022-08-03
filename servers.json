@@ -213,6 +213,16 @@
         "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18"],
         "primaryMinecraftVersion": "1.8"
     },
+	{
+        "id": "regorland",
+        "name": "Regorland",
+        "addresses": [
+            "regorland.net"
+        ],
+        "primaryAddress": "jailmc.com",
+        "minecraftVersions": ["1.8", "1.19"],
+        "primaryMinecraftVersion": "1.19"
+    },
     {
         "id": "neptuniummc",
         "name": "NeptuniumMC",
