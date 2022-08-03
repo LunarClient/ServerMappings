@@ -1,4 +1,15 @@
 [
+	{
+        "id": "zeronmc",
+        "name": "ZeronMC",
+        "addresses": [
+            "play.zeronmc.ml"
+        ],
+        "primaryAddress": "play.zeronmc.ml",
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.8"
+    },
+	
     {
         "id": "minebet",
         "name": "MineBet",
