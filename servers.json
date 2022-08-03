@@ -1590,8 +1590,11 @@
         "id": "savanapvp",
         "name": "SavanaPvP Network",
         "addresses": [
-            "savanapvp.net",
-        ]
+            "savanapvp.net"
+        ],
+        "primaryAddress": "savanapvp.net",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "comugamers",
