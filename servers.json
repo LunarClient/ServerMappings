@@ -884,7 +884,8 @@
         "id": "glorynetwork",
         "name": "GloryNetwork",
         "addresses": [
-            "glory-network.com"
+            "play.glory-network.com",
+            "as.glory-network.com"
         ]
     },
     {
