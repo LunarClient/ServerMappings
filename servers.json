@@ -219,7 +219,7 @@
         "addresses": [
             "regorland.net"
         ],
-        "primaryAddress": "jailmc.com",
+        "primaryAddress": "regorland.net",
         "minecraftVersions": ["1.8", "1.19"],
         "primaryMinecraftVersion": "1.19"
     },
