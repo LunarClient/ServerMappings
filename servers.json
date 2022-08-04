@@ -1562,7 +1562,10 @@
         "name": "AwitaMC Network",
         "addresses": [
             "awitamc.net"
-        ]
+        ],
+	"primaryAddress": "awitamc.net",
+        "minecraftVersions": ["1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.17"
     },
     {
         "id": "pixelcade",
@@ -1668,6 +1671,16 @@
         ]
     },
     {
+        "id": "savanapvp",
+        "name": "SavanaPvP Network",
+        "addresses": [
+            "savanapvp.net"
+        ],
+        "primaryAddress": "savanapvp.net",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "comugamers",
         "name": "ComuGamers Network",
         "addresses": [
@@ -1751,5 +1764,15 @@
         "primaryAddress": "zeronmc.ml",
         "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18"],
         "primaryMinecraftVersion": "1.8"
-    }	
+    },
+    {
+        "id": "elevatemc",
+        "name": "ElevateMC Network",
+        "addresses": [
+            "elevatemc.com"
+        ],
+        "primaryAddress": "elevatemc.com",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
+    }
 ]
