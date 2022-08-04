@@ -38,6 +38,16 @@
         ]
     },
     {
+        "id": "pvpbeach",
+        "name": "PvPBeach Network",
+        "addresses": [
+            "pvpbeach.com"
+        ],
+        "primaryAddress": "pvpbeach.com",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "eclipsepvp",
         "name": "Eclipsepvp Network",
         "addresses": [
