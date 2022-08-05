@@ -16,11 +16,25 @@
             "addresses": {
                 "type": "array",
                 "uniqueItems": true,
-                "items": {
-                    "type": "string",
-                    "pattern": "^[a-z0-9_.-]+$"
-                }
-            }
+                "items": { "$ref": "#/definitions/ServerAddress" }
+            },
+            "primaryAddress": { "$ref": "#/definitions/ServerAddress" },
+            "minecraftVersions": {
+                "type": "array",
+                "uniqueItems": true,
+                "items": { "$ref": "#/definitions/MinecraftVersion" }
+            },
+            "primaryMinecraftVersion": { "$ref": "#/definitions/MinecraftVersion" }
+        }
+    },
+    "definitions": {
+        "ServerAddress": {
+            "type": "string",
+            "pattern": "^[a-z0-9_.-]+$"
+        },
+        "MinecraftVersion": {
+            "type": "string",
+            "enum": ["1.7", "1.8", "1.12", "1.16", "1.17", "1.18", "1.19"]
         }
     }
 }
