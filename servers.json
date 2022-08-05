@@ -1795,7 +1795,7 @@
         "minecraftVersions": ["1.7", "1.8"],
         "primaryMinecraftVersion": "1.8"
     }
-	{
+    {
         "id": "myntora",
         "name": "Myntora",
         "addresses": [
