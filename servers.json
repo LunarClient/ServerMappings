@@ -1799,7 +1799,7 @@
         "id": "myntora",
         "name": "Myntora",
         "addresses": [
-            "play.myntora.net"
+            "myntora.net"
         ],
         "primaryAddress": "play.myntora.net",
         "minecraftVersions": ["1.8", "1.9", "1.12", "1.16", "1.18", "1.19"],
