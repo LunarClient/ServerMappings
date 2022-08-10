@@ -1342,6 +1342,13 @@
         ]
     },
     {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ]
+    },
+    {
         "id": "hydracraftnetwork",
         "name": "HydraCraft Network",
         "addresses": [
