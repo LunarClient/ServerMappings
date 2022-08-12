@@ -1438,6 +1438,14 @@
         ]
     },
     {
+        "id": "hamstersmp",
+        "name": "Hamster SMP",
+        "addresses": [
+            "play.houseofchupchik.net",
+            
+        ]
+    },{
+	   
         "id": "vestpvp",
         "name": "VestPVP",
         "addresses": [
