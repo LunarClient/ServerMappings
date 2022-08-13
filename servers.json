@@ -1802,7 +1802,7 @@
             "myntora.net"
         ],
         "primaryAddress": "play.myntora.net",
-        "minecraftVersions": ["1.8", "1.9", "1.12", "1.16", "1.18", "1.19"],
+        "minecraftVersions": ["1.8", "1.12", "1.16", "1.18", "1.19"],
         "primaryMinecraftVersion": "1.19"
     }
 ]
