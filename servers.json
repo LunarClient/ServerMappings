@@ -1,5 +1,13 @@
 [
     {
+        "id": "fightclub,
+        "name": "FightClub",
+        "addresses": [
+            "fightclubpvp.eu"
+        ]
+    },
+[
+    {
         "id": "minebet",
         "name": "MineBet",
         "addresses": [
