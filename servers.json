@@ -745,8 +745,8 @@
             "pvplegacy.net"
         ],
         "primaryAddress": "pvplegacy.net",
-        "minecraftVersions": ["1.16", "1.17", "1.18"],
-        "primaryMinecraftVersion": "1.18"
+        "minecraftVersions": ["1.16", "1.17", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "hadaria",
