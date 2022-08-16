@@ -1,6 +1,6 @@
 ## How to use the Generator
 First install the requirements and
-run the main.py file then press 1.
+run the generator.py file then press 1.
 You will be asked some questions related 
 about your server, after the generator woll
 fetch the servers file and will generate rhe 
