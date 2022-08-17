@@ -1845,5 +1845,15 @@
         "primaryAddress": "stelarmc.us",
         "minecraftVersions": ["1.8", "1.12", "1.16", "1.17", "1.18", "1.19"],
         "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "exaltedmc",
+        "name": "ExaltedMC",
+        "addresses": [
+            "exaltedmc.club"
+        ],
+        "primaryAddress": "eu.exaltedmc.club",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     }
 ]
