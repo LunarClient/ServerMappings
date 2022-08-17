@@ -1,5 +1,19 @@
 [
     {
+        "id": "insidious",
+        "name": "Insidious Network",
+        "addresses": [
+            "insidious.cc"
+        ]
+    },
+    {
+        "id": "hcstatic",
+        "name": "HCStatic Network",
+        "addresses": [
+            "hcstatic.us"
+        ]
+    },
+    {
         "id": "minebet",
         "name": "MineBet",
         "addresses": [
