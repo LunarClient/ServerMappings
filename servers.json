@@ -7,6 +7,16 @@
         ]
     },
     {
+        "id": "meapcraft",
+        "name": "MeapCraft",
+        "addresses": [
+            "meapcraft.online"
+        ],
+        "primaryAddress": "meapcraft.online",
+        "minecraftVersions": ["1.19"],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
