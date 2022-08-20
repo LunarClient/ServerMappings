@@ -7,6 +7,16 @@
         ]
     },
     {
+        "id": "meapcraft",
+        "name": "MeapCraft",
+        "addresses": [
+            "meapcraft.online"
+        ],
+        "primaryAddress": "meapcraft.online",
+        "minecraftVersions": ["1.19"],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
@@ -1484,7 +1494,7 @@
         "primaryAddress": "hypnomc.net",
         "minecraftVersions": ["1.19"],
         "primaryMinecraftVersion": "1.19"
-    },	
+    },
     {
         "id": "cloudnetwork",
         "name": "CloudNetwork.cc",
@@ -1660,7 +1670,7 @@
         "addresses": [
             "harlonserver.net"
         ]
-    },    
+    },
     {
         "id": "limaru",
         "name": "Federal Republic of Limaru",
@@ -1860,5 +1870,15 @@
         "primaryAddress": "eu.exaltedmc.club",
         "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.18", "1.19"],
         "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "tubnet",
+        "name": "TubNet",
+        "addresses": [
+            "tubnet.gg"
+        ],
+        "primaryAddress": "tubnet.gg",
+        "minecraftVersions": ["1.18", "1.19"],
+        "primaryMinecraftVersion": "1.19"
     }
 ]
