@@ -7,6 +7,13 @@
         ]
     },
     {
+        "id": "meapcraft",
+        "name": "MeapCraft",
+        "addresses": [
+            "meapcraft.online"
+        ]
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
