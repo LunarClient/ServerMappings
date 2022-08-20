@@ -943,13 +943,12 @@
         "name": "PvP Arcade",
         "addresses": [
             "pvparcade.gg",
-            "pvparca.de"
+            "pvparca.de",
             "aripvp.club"
         ],
         "primaryAddress": "pvparca.de",
         "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.18", "1.19"],
         "primaryMinecraftVersion": "1.8"
-		
     },
     {
         "id": "inertianetwork",
