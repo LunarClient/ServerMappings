@@ -1886,7 +1886,7 @@
         "addresses": [
             "vealpvp.net"
         ],
-        "primaryAddress": "vealpvp.net,
+        "primaryAddress": "vealpvp.net",
         "minecraftVersions": ["1.7", "1.8", "1.18"],
         "primaryMinecraftVersion": "1.8"
     },	
