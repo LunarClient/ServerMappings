@@ -1894,7 +1894,7 @@
         "id": "sunrisecity",
         "name": "Sunrise City Server",
         "addresses": [
-            "play.sunrisecity.uk:2260"
+            "sunrisecity.uk"
         ],
         "primaryAddress": "play.sunrisecity.uk",
         "minecraftVersions": ["1.17", "1.18"],
