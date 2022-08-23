@@ -1899,5 +1899,15 @@
         "primaryAddress": "play.sunrisecity.uk",
         "minecraftVersions": ["1.17", "1.18"],
         "primaryMinecraftVersion": "1.17"
+    },
+    {
+        "id": "minedestiny",
+        "name": "MineDestiny",
+        "addresses": [
+            "play.minedestiny.hu"
+        ],
+        "primaryAddress": "play.minedestiny.hu",
+        "minecraftVersions": ["1.16", "1.17", "1.18"],
+        "primaryMinecraftVersion": "1.18"
     }
 ]
