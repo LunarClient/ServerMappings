@@ -17,6 +17,16 @@
         "primaryMinecraftVersion": "1.19"
     },
     {
+        "id": "mizu",
+        "name": "Mizu",
+        "addresses": [
+            "mizu.lol"
+        ],
+        "primaryAddress": "mizu.lol",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
