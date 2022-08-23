@@ -7,6 +7,16 @@
         ]
     },
     {
+        "id": "fraze",
+        "name": "Fraze",
+        "addresses": [
+            "fraze.pl",
+            "mc.fraze.pl",
+            "kyumc.pl",
+            "mc.kyumc.pl"
+        ]
+    },
+    {
         "id": "meapcraft",
         "name": "MeapCraft",
         "addresses": [
