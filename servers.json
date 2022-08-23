@@ -11,10 +11,11 @@
         "name": "Fraze",
         "addresses": [
             "fraze.pl",
-            "mc.fraze.pl",
-            "kyumc.pl",
-            "mc.kyumc.pl"
-        ]
+            "kyumc.pl"
+        ],
+        "primaryAddress": "fraze.pl",
+        "minecraftVersions": ["1.19", "1.18", "1.17", "1.16.5"],
+        "primaryMinecraftVersion": "1.18.2"
     },
     {
         "id": "meapcraft",
