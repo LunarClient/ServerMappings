@@ -943,8 +943,12 @@
         "name": "PvP Arcade",
         "addresses": [
             "pvparcade.gg",
+            "pvparca.de",
             "aripvp.club"
-        ]
+        ],
+        "primaryAddress": "pvparca.de",
+        "minecraftVersions": ["1.7", "1.8", "1.12", "1.16", "1.18", "1.19"],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "inertianetwork",
@@ -1875,5 +1879,25 @@
         "primaryAddress": "tubnet.gg",
         "minecraftVersions": ["1.18", "1.19"],
         "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "veal",
+        "name": "VealPvP",
+        "addresses": [
+            "vealpvp.net"
+        ],
+        "primaryAddress": "vealpvp.net",
+        "minecraftVersions": ["1.7", "1.8", "1.18"],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "sunrisecity",
+        "name": "Sunrise City Server",
+        "addresses": [
+            "sunrisecity.uk"
+        ],
+        "primaryAddress": "play.sunrisecity.uk",
+        "minecraftVersions": ["1.17", "1.18"],
+        "primaryMinecraftVersion": "1.17"
     }
 ]
