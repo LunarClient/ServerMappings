@@ -1900,6 +1900,16 @@
         "minecraftVersions": ["1.7", "1.8", "1.18"],
         "primaryMinecraftVersion": "1.8"
     },
+	{
+        "id": "kiopvp",
+        "name": "KioPvP Network",
+        "addresses": [
+            "kiopvp.com"
+        ],
+        "primaryAddress": "kiopvp.com",
+        "minecraftVersions": ["1.7", "1.8"],
+        "primaryMinecraftVersion": "1.8"
+    },
     {
         "id": "sunrisecity",
         "name": "Sunrise City Server",
