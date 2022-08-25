@@ -1904,7 +1904,7 @@
         "id": "minedestiny",
         "name": "MineDestiny",
         "addresses": [
-            "play.minedestiny.hu"
+            "minedestiny.hu"
         ],
         "primaryAddress": "play.minedestiny.hu",
         "minecraftVersions": ["1.16", "1.17", "1.18"],
