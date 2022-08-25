@@ -7,6 +7,47 @@
         ]
     },
     {
+        "id": "fraze",
+        "name": "Fraze",
+        "addresses": [
+            "fraze.pl",
+            "kyumc.pl"
+        ],
+        "primaryAddress": "fraze.pl",
+        "minecraftVersions": [
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.18"
+    },
+    {
+        "id": "meapcraft",
+        "name": "MeapCraft",
+        "addresses": [
+            "meapcraft.online"
+        ],
+        "primaryAddress": "meapcraft.online",
+        "minecraftVersions": [
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "mizu",
+        "name": "Mizu",
+        "addresses": [
+            "mizu.lol"
+        ],
+        "primaryAddress": "mizu.lol",
+        "minecraftVersions": [
+            "1.7",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "hikari",
         "name": "Hikari",
         "addresses": [
@@ -36,6 +77,24 @@
         "addresses": [
             "glade.gg"
         ]
+    },
+    {
+        "id": "pvpbeach",
+        "name": "PvPBeach Network",
+        "addresses": [
+            "pvpbeach.com"
+        ],
+        "primaryAddress": "pvpbeach.com",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "eclipsepvp",
@@ -220,6 +279,23 @@
         "primaryMinecraftVersion": "1.8",
         "primaryColor": "#79c8f5",
         "secondaryColor": "#e5be22"
+    },
+    {
+        "id": "regorland",
+        "name": "Regorland",
+        "addresses": [
+            "regorland.net"
+        ],
+        "primaryAddress": "regorland.net",
+        "minecraftVersions": [
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "neptuniummc",
@@ -768,9 +844,10 @@
         "minecraftVersions": [
             "1.16",
             "1.17",
-            "1.18"
+            "1.18",
+            "1.19"
         ],
-        "primaryMinecraftVersion": "1.18"
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "hadaria",
@@ -972,8 +1049,19 @@
         "name": "PvP Arcade",
         "addresses": [
             "pvparcade.gg",
+            "pvparca.de",
             "aripvp.club"
-        ]
+        ],
+        "primaryAddress": "pvparca.de",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.8"
     },
     {
         "id": "inertianetwork",
@@ -1395,6 +1483,24 @@
         ]
     },
     {
+        "id": "lust",
+        "name": "Lust",
+        "addresses": [
+            "lust.rip"
+        ],
+        "primaryAddress": "lust.rip",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "hydracraftnetwork",
         "name": "HydraCraft Network",
         "addresses": [
@@ -1504,13 +1610,28 @@
         ]
     },
     {
-        "id": "revivenetwork",
-        "name": "Revive Network",
+        "id": "heartsteal",
+        "name": "HeartSteal SMP",
         "addresses": [
-            "revivenetwork.net",
-            "revivenetwork.xyz",
-            "heartsteal.xyz"
-        ]
+            "heartsteal.net"
+        ],
+        "primaryAddress": "heartsteal.net",
+        "minecraftVersions": [
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "hypnomc",
+        "name": "HypnoMC",
+        "addresses": [
+            "hypnomc.net"
+        ],
+        "primaryAddress": "hypnomc.net",
+        "minecraftVersions": [
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.19"
     },
     {
         "id": "cloudnetwork",
@@ -1584,6 +1705,24 @@
         ]
     },
     {
+        "id": "nyte",
+        "name": "Nyte",
+        "addresses": [
+            "nyte.cc"
+        ],
+        "primaryAddress": "nyte.cc",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "vealypvp",
         "name": "VealyPvP.us",
         "addresses": [
@@ -1624,7 +1763,16 @@
         "name": "AwitaMC Network",
         "addresses": [
             "awitamc.net"
-        ]
+        ],
+        "primaryAddress": "awitamc.net",
+        "minecraftVersions": [
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.17"
     },
     {
         "id": "pixelcade",
@@ -1730,6 +1878,19 @@
         ]
     },
     {
+        "id": "savanapvp",
+        "name": "SavanaPvP Network",
+        "addresses": [
+            "savanapvp.net"
+        ],
+        "primaryAddress": "savanapvp.net",
+        "minecraftVersions": [
+            "1.7",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
         "id": "comugamers",
         "name": "ComuGamers Network",
         "addresses": [
@@ -1793,7 +1954,9 @@
         "id": "neptunemc",
         "name": "NeptuneMC Network",
         "addresses": [
-            "neptunemc.es"
+            "neptunemc.es",
+            "limitedmc.fun",
+            "skyvermc.es"
         ],
         "primaryAddress": "neptunemc.es",
         "minecraftVersions": [
@@ -1802,6 +1965,179 @@
             "1.17",
             "1.18",
             "1.19"
+        ],
+        "primaryMinecraftVersion": "1.17"
+    },
+    {
+        "id": "kazer",
+        "name": "Kazer Network",
+        "addresses": [
+            "kazer.cc"
+        ],
+        "primaryAddress": "kazer.cc",
+        "minecraftVersions": [
+            "1.7",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "vaint",
+        "name": "Vaint Network",
+        "addresses": [
+            "vaint.us"
+        ],
+        "primaryAddress": "vaint.us",
+        "minecraftVersions": [
+            "1.7",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "battle",
+        "name": "Battle Network",
+        "addresses": [
+            "battle.rip"
+        ],
+        "primaryAddress": "battle.rip",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.12"
+        ],
+        "primaryMinecraftVersion": "1.7"
+    },
+    {
+        "id": "zeronmc",
+        "name": "ZeronMC",
+        "addresses": [
+            "zeronmc.ml"
+        ],
+        "primaryAddress": "zeronmc.ml",
+        "minecraftVersions": [
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "elevatemc",
+        "name": "ElevateMC Network",
+        "addresses": [
+            "elevatemc.com"
+        ],
+        "primaryAddress": "elevatemc.com",
+        "minecraftVersions": [
+            "1.7",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "myntora",
+        "name": "Myntora",
+        "addresses": [
+            "myntora.net"
+        ],
+        "primaryAddress": "play.myntora.net",
+        "minecraftVersions": [
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "stelarmc",
+        "name": "StelarMC",
+        "addresses": [
+            "stelarmc.us",
+            "stelarmc.club"
+        ],
+        "primaryAddress": "stelarmc.us",
+        "minecraftVersions": [
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.17",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "exaltedmc",
+        "name": "ExaltedMC",
+        "addresses": [
+            "exaltedmc.club"
+        ],
+        "primaryAddress": "eu.exaltedmc.club",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.12",
+            "1.16",
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "tubnet",
+        "name": "TubNet",
+        "addresses": [
+            "tubnet.gg"
+        ],
+        "primaryAddress": "tubnet.gg",
+        "minecraftVersions": [
+            "1.18",
+            "1.19"
+        ],
+        "primaryMinecraftVersion": "1.19"
+    },
+    {
+        "id": "veal",
+        "name": "VealPvP",
+        "addresses": [
+            "vealpvp.net"
+        ],
+        "primaryAddress": "vealpvp.net",
+        "minecraftVersions": [
+            "1.7",
+            "1.8",
+            "1.18"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "kiopvp",
+        "name": "KioPvP Network",
+        "addresses": [
+            "kiopvp.com"
+        ],
+        "primaryAddress": "kiopvp.com",
+        "minecraftVersions": [
+            "1.7",
+            "1.8"
+        ],
+        "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "sunrisecity",
+        "name": "Sunrise City Server",
+        "addresses": [
+            "sunrisecity.uk"
+        ],
+        "primaryAddress": "play.sunrisecity.uk",
+        "minecraftVersions": [
+            "1.17",
+            "1.18"
         ],
         "primaryMinecraftVersion": "1.17"
     }
