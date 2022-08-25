@@ -13,8 +13,8 @@
   - [ ] `addresses`: an array with lowercase strings *(ex. `["my.server", "your-server.com"]`)*
     - You do not need to specify subdomains, Lunar Client services automatically detect them.
   - [ ] `primaryAddress`: an address *(ex. `my.server`)*
-  - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.18", "1.19"]`)*
-  - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.18`)*
+  - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.18", "1.19"]` - Must be versions supported by Lunar Client)*
+  - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.18` - Must be versions supported by Lunar Client)*
   - [ ] `primaryColor`: a hexademical color code that primarily distiguishes the server *(ex. `#00FFFF`)* 
   - [ ] `secondaryColor`: a hexademical color code that accompanies the `primaryColor` of the server *(ex. `#FF0000`)*
 
