@@ -1,0 +1,18 @@
+{
+    "id": "ariacraft",
+    "name": "AriaCraft",
+    "addresses": [
+        "accentry.cn",
+        "zqat.top"
+    ],
+    "primaryAddress": "accentry.cn",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8"
+}

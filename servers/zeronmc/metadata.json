@@ -1,0 +1,16 @@
+{
+    "id": "zeronmc",
+    "name": "ZeronMC",
+    "addresses": [
+        "zeronmc.ml"
+    ],
+    "primaryAddress": "zeronmc.ml",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.8"
+}

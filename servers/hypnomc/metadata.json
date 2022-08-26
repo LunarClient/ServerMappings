@@ -1,0 +1,12 @@
+{
+    "id": "hypnomc",
+    "name": "HypnoMC",
+    "addresses": [
+        "hypnomc.net"
+    ],
+    "primaryAddress": "hypnomc.net",
+    "minecraftVersions": [
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19"
+}

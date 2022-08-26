@@ -1,48 +1,44 @@
 {
-    "type": "array",
-    "uniqueItems": true,
-    "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": [
-            "id",
-            "name",
-            "addresses"
-        ],
-        "properties": {
-            "id": {
-                "type": "string",
-                "pattern": "^[a-z0-9_.-]+$"
-            },
-            "name": {
-                "type": "string"
-            },
-            "addresses": {
-                "type": "array",
-                "uniqueItems": true,
-                "items": {
-                    "$ref": "#/definitions/ServerAddress"
-                }
-            },
-            "primaryAddress": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "id",
+        "name",
+        "addresses"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_.-]+$"
+        },
+        "name": {
+            "type": "string"
+        },
+        "addresses": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
                 "$ref": "#/definitions/ServerAddress"
-            },
-            "minecraftVersions": {
-                "type": "array",
-                "uniqueItems": true,
-                "items": {
-                    "$ref": "#/definitions/MinecraftVersion"
-                }
-            },
-            "primaryMinecraftVersion": {
-                "$ref": "#/definitions/MinecraftVersion"
-            },
-            "primaryColor": {
-                "$ref": "#/definitions/RGBColor"
-            },
-            "secondaryColor": {
-                "$ref": "#/definitions/RGBColor"
             }
+        },
+        "primaryAddress": {
+            "$ref": "#/definitions/ServerAddress"
+        },
+        "minecraftVersions": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "$ref": "#/definitions/MinecraftVersion"
+            }
+        },
+        "primaryMinecraftVersion": {
+            "$ref": "#/definitions/MinecraftVersion"
+        },
+        "primaryColor": {
+            "$ref": "#/definitions/RGBColor"
+        },
+        "secondaryColor": {
+            "$ref": "#/definitions/RGBColor"
         }
     },
     "definitions": {

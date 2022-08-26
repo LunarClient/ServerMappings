@@ -1,0 +1,7 @@
+{
+    "id": "protocol",
+    "name": "Protocol Network",
+    "addresses": [
+        "protocol.rip"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "sunrisecity",
+    "name": "Sunrise City Server",
+    "addresses": [
+        "sunrisecity.uk"
+    ],
+    "primaryAddress": "play.sunrisecity.uk",
+    "minecraftVersions": [
+        "1.17",
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.17"
+}

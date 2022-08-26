@@ -1,0 +1,7 @@
+{
+    "id": "glancenetwork",
+    "name": "Glance Network",
+    "addresses": [
+        "glance.top"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "pvplegacy",
+    "name": "PvP Legacy",
+    "addresses": [
+        "pvplegacy.net"
+    ],
+    "primaryAddress": "pvplegacy.net",
+    "minecraftVersions": [
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19"
+}
