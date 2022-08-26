@@ -74,7 +74,7 @@ jobs:
       - name: Upload to S3
         run: |
           aws s3 sync .out s3://$cdn_bucket --content-type "image/webp" --delete --cache-control "public, max-age=86400"
-          aws s3 cp servers.json s3://$cdn_bucket/servers.json --content-type "application/json" --cache-control "public, max-age=86400"
+          aws s3 cp .out/servers.json s3://$cdn_bucket/servers.json --content-type "application/json" --cache-control "public, max-age=86400"
 
       - name: Purge cache
         run: aws cloudfront create-invalidation --distribution-id $cdn_distribution --paths "/*"
