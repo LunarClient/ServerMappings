@@ -3,17 +3,15 @@ import argparse
 import json
 from PIL import Image as image
 
+from utils import get_all_servers
+
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--servers', required=True, type=str)
-    parser.add_argument('--servers_logos_source', required=True, type=str)
-    parser.add_argument('--servers_background_source', required=True, type=str)
+    parser.add_argument('--servers_dir', required=True, type=str)
     args = parser.parse_args()
 
     # Load server mappings JSON
-    servers = {}
-    with open(args.servers) as servers_file:
-        servers = json.load(servers_file)
+    servers = get_all_servers(args.servers_dir)
 
     print(f'Validating {len(servers)} server media...')
     background_amount = 0
@@ -23,8 +21,8 @@ def main():
         server_name = server['name']
 
         # Paths
-        logo_path = f'{args.servers_logos_source}/{server_id}.png'
-        background_path = f'{args.servers_background_source}/{server_id}.png'
+        logo_path = f'{args.servers_dir}/{server_id}/logo.png'
+        background_path = f'{args.servers_dir}/{server_id}/background.png'
 
         validate_logo(logo_path, server_name)
         if validate_background(background_path, server_name):

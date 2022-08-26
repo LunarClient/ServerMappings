@@ -3,6 +3,8 @@ import json
 import os
 import shutil
 
+from utils import get_all_servers
+
 
 def main():
     parser = argparse.ArgumentParser()
@@ -10,22 +12,8 @@ def main():
     parser.add_argument('--index_output', required=True, type=str)
     args = parser.parse_args()
 
-    servers = []
-
-    # Looping over each server folder
-    for root, _dirs, _files in os.walk(args.servers_dir):
-        server_id = root.split(os.path.sep)[-1]
-        if not server_id:
-            continue
-
-        # Open metadata.json
-        with open(f"{args.servers_dir}{server_id}/metadata.json") as server_file:
-            server = json.load(server_file)
-
-        servers.append(server)
-
-    # Sort A-Z
-    servers.sort(key=lambda x: x["id"])
+    # Collect all servers
+    servers = get_all_servers(args.servers_dir)
 
     # Write to index file
     json_object = json.dumps(servers, indent=4)

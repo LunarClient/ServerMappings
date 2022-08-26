@@ -18,11 +18,11 @@ def main():
     # Looping over each server folder
     for root, _dirs, _files in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
-        if not server_id:
+        if not server_id or server_id == args.servers_dir:
             continue
 
         # Open metadata.json
-        with open(f"{args.servers_dir}{server_id}/metadata.json") as server_file:
+        with open(f"{args.servers_dir}/{server_id}/metadata.json") as server_file:
             server = json.load(server_file)
 
         print(f'Validating {server_id}\'s metadata.json file...')
