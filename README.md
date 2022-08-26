@@ -6,20 +6,20 @@ This is a public mapping of server IPs <-> a pretty display name. This data is u
 
 ## How do I add/update/remove a server?
 
-Please feel free to open a PR against `servers.json` in this repository, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes.
+Each server in ServerMappings is represented by a folder with an accompanying `metadata.json` and `logo.png`. Open a pull requrest in this repository whilst following the steps below, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes. Check out `metadata.example.json` as an example of how to structure your metadata file.
 
 ## IP Addresses
 
 The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["lunar.gg", "other.domain"]` will match `lunar.gg`, `na.lunar.gg`, `play.other.domain`, and so on.
 
 ## Primary Info & Minecraft Versions
-We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array. The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18, 1.19)*; The `primaryMinecraftVersion` field must be a version included in the `minecraftVersions` array. The versions you include must be versions that are directly offered in Lunar Client, which can be found in the version selector of the Lunar Client Launcher.
+We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array. The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18, 1.19)*; The `primaryMinecraftVersion` field must be a version included in the `minecraftVersions` array. **The versions you include must be versions that are directly offered in Lunar Client**, which can be found in the version selector of the Lunar Client Launcher.
 
 ## Logos
-In addition to the entry that you will need to provide in the `servers.json`, you will need to upload a `.png` version of your logo into the `/logos` directory in this repository. All images are to be _transparent_, _square (1:1 aspect ratio)_, and _a minimum of 512px in width and height_. The file name should match the server ID in the `servers.json` (for example: `lunarnetwork.png`).
+In addition to the data that you will need to provide in your `metadata.json`, you will need to upload a `.png` version of your logo into the same folder. All images are to be _transparent_, _square (1:1 aspect ratio)_, and _a minimum of 512px in width and height_. The file name should be `logo.png`. We require the logo to be large as we perform a number of different transformations for all the various places in Lunar Client!
 
 ## Backgrounds
-Servers are also required to provide background image, you will need to upload a `.png` version of the background into the `/backgrounds` directory in this repository. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should match the server ID in the `servers.json` (for example: `lunarnetwork.png`).
+Servers are also required to provide background image, you will need to upload a `.png` version of the background into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should be `background.png`.
 
 ## Restrictions
 

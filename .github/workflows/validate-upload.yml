@@ -25,7 +25,7 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Validate Server JSON
-        run: python scripts/validate_json.py --servers_dir servers --servers_schema servers.schema.json
+        run: python scripts/validate_json.py --servers_dir servers --metadata_schema metadata.schema.json
 
       - name: Validate Server Media
         run: python scripts/validate_media.py --servers_dir servers
