@@ -68,6 +68,9 @@ jobs:
       - name: Output Server Media
         run: python scripts/convert_media.py --servers servers.json --servers_logos_source logos --servers_logos_output .out/logos --servers_logos_sizes 256 128 64 32 --servers_backgrounds_source backgrounds --servers_backgrounds_output .out/backgrounds
 
+      - name: Create Index File
+        run: python scripts/create_index.py --servers_dir servers/ --index_output .out/servers.json
+
       - name: Upload to S3
         run: |
           aws s3 sync .out s3://$cdn_bucket --content-type "image/webp" --delete --cache-control "public, max-age=86400"
