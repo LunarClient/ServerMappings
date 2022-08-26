@@ -1,0 +1,16 @@
+{
+    "id": "fraze",
+    "name": "Fraze",
+    "addresses": [
+        "fraze.pl",
+        "kyumc.pl"
+    ],
+    "primaryAddress": "fraze.pl",
+    "minecraftVersions": [
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.18"
+}

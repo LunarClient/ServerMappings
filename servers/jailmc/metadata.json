@@ -1,0 +1,18 @@
+{
+    "id": "jailmc",
+    "name": "JailMC",
+    "addresses": [
+        "jailmc.com"
+    ],
+    "primaryAddress": "jailmc.com",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#79c8f5",
+    "secondaryColor": "#e5be22"
+}

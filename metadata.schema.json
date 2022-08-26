@@ -1,0 +1,66 @@
+{
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "id",
+        "name",
+        "addresses"
+    ],
+    "properties": {
+        "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_.-]+$"
+        },
+        "name": {
+            "type": "string"
+        },
+        "addresses": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "$ref": "#/definitions/ServerAddress"
+            }
+        },
+        "primaryAddress": {
+            "$ref": "#/definitions/ServerAddress"
+        },
+        "minecraftVersions": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "$ref": "#/definitions/MinecraftVersion"
+            }
+        },
+        "primaryMinecraftVersion": {
+            "$ref": "#/definitions/MinecraftVersion"
+        },
+        "primaryColor": {
+            "$ref": "#/definitions/RGBColor"
+        },
+        "secondaryColor": {
+            "$ref": "#/definitions/RGBColor"
+        }
+    },
+    "definitions": {
+        "ServerAddress": {
+            "type": "string",
+            "pattern": "^[a-z0-9_.-]+$"
+        },
+        "MinecraftVersion": {
+            "type": "string",
+            "enum": [
+                "1.7",
+                "1.8",
+                "1.12",
+                "1.16",
+                "1.17",
+                "1.18",
+                "1.19"
+            ]
+        },
+        "RGBColor": {
+            "type": "string",
+            "pattern": "^#([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$"
+        }
+    }
+}

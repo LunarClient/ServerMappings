@@ -1,0 +1,12 @@
+{
+    "id": "heartsteal",
+    "name": "HeartSteal SMP",
+    "addresses": [
+        "heartsteal.net"
+    ],
+    "primaryAddress": "heartsteal.net",
+    "minecraftVersions": [
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19"
+}

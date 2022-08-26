@@ -1,6 +1,7 @@
 import os
 import argparse
 import json
+from utils import get_all_servers
 import webptools
 
 # Grant permissions to Webptools
@@ -8,23 +9,19 @@ webptools.grant_permission()
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--servers', required=True, type=str)
+    parser.add_argument('--servers_dir', required=True, type=str)
     parser.add_argument('--lossless', default=False, action='store_true')
 
     # Logo Args
-    parser.add_argument('--servers_logos_source', required=True, type=str)
     parser.add_argument('--servers_logos_output', required=True, type=str)
     parser.add_argument('--servers_logos_sizes', nargs='+', type=int, default=[256])
 
     # Background args
-    parser.add_argument('--servers_backgrounds_source', required=True, type=str)
     parser.add_argument('--servers_backgrounds_output', required=True, type=str)
     args = parser.parse_args()
 
     # Load server mappings JSON
-    servers = {}
-    with open(args.servers) as servers_file:
-        servers = json.load(servers_file)
+    servers = get_all_servers(args.servers_dir)
 
     print(f'Converting {len(servers)} server media...')
     background_amount = 0
@@ -38,8 +35,8 @@ def main():
         server_name = server['name']
 
         # Paths
-        logo_path = f'{args.servers_logos_source}/{server_id}.png'
-        background_path = f'{args.servers_backgrounds_source}/{server_id}.png'
+        logo_path = f'{args.servers_dir}/{server_id}/logo.png'
+        background_path = f'{args.servers_dir}/{server_id}/background.png'
 
         convert_logo(logo_path, args.servers_logos_output, server_id, server_name, args.servers_logos_sizes, args.lossless)
         if convert_background(background_path, args.servers_backgrounds_output, server_id, server_name, args.lossless):

@@ -1,0 +1,12 @@
+{
+    "id": "minequest",
+    "name": "Minequest",
+    "addresses": [
+        "minequest.gg"
+    ],
+    "primaryAddress": "minequest.gg",
+    "minecraftVersions": [
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8"
+}

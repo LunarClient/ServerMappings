@@ -1,0 +1,19 @@
+{
+    "id": "minemenclub",
+    "name": "Minemen Club",
+    "addresses": [
+        "minemen.club",
+        "mineman.club",
+        "icantjoinlmfao.club",
+        "euicantjoinlmfao.club",
+        "minemenclub.com",
+        "pvp.bar",
+        "zonix.us"
+    ],
+    "primaryAddress": "minemen.club",
+    "minecraftVersions": [
+        "1.7",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8"
+}

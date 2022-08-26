@@ -1,0 +1,17 @@
+{
+    "id": "opblocks",
+    "name": "OPBlocks",
+    "addresses": [
+        "opblocks.com"
+    ],
+    "primaryAddress": "opblocks.com",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8"
+}

@@ -1,0 +1,13 @@
+{
+    "id": "mineclub",
+    "name": "MineClub",
+    "addresses": [
+        "mineclub.com"
+    ],
+    "primaryAddress": "play.mineclub.com",
+    "minecraftVersions": [
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19"
+}

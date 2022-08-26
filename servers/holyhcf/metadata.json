@@ -1,0 +1,16 @@
+{
+    "id": "holyhcf",
+    "name": "Holy Network",
+    "addresses": [
+        "eaglehcf.com",
+        "holyh.cf",
+        "holypvp.net",
+        "watermc.gg"
+    ],
+    "primaryAddress": "holypvp.net",
+    "minecraftVersions": [
+        "1.7",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8"
+}
