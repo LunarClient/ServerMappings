@@ -22,7 +22,6 @@
     "primaryRegion": "EU",
     "gameTypes": [
         "PvP",
-        "Training",
         "Survival"
     ]
 }
