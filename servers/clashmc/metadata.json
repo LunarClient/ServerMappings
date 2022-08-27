@@ -1,11 +1,11 @@
 {
-    "id":"clashmc",
-    "name":"ClashMC Network",
-    "addresses":[
+    "id": "clashmc",
+    "name": "ClashMC Network",
+    "addresses": [
         "clashmc.org"
     ],
-    "primaryAddress":"clashmc.org",
-    "minecraftVersions":[
+    "primaryAddress": "clashmc.org",
+    "minecraftVersions": [
         "1.7",
         "1.8",
         "1.12",
@@ -14,8 +14,7 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion":"1.8",
-    "primaryColor":"#AA0000",
-    "secondaryColor":"#00AAAA"
-
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#00AAAA"
 }
