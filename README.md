@@ -21,6 +21,18 @@ In addition to the data that you will need to provide in your `metadata.json`, y
 ## Backgrounds
 Servers are also required to provide background image, you will need to upload a `.png` version of the background into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should be `background.png`.
 
+## Regions
+In your `metadata.json`, you can define both a `primaryRegion` and `regions` which your server supports. Below is a table of the regions.
+
+| Region Code | Name |
+| --- | --- |
+| AF | Africa |
+| AS | Asia |
+| EU | Europe |
+| NA | North America |
+| OC | Oceania |
+| SA | South America |
+
 ## Restrictions
 
 We ask that this repository is only used to store mappings for *public* Minecraft servers. Some server IPs, such as private SMPs, tournament servers, etc. should not be listed in this repository, out of respect for privacy.

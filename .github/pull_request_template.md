@@ -18,6 +18,8 @@
   - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.18` - Must be versions supported by Lunar Client)*
   - [ ] `primaryColor`: a hexademical color code that primarily distiguishes the server *(ex. `#00FFFF`)* 
   - [ ] `secondaryColor`: a hexademical color code that accompanies the `primaryColor` of the server *(ex. `#FF0000`)*
+  - [ ] `primaryRegion`: the primary region where your server operates in *(ex. `NA`)*
+  - [ ] `regions`: a list of regions where you have servers located that service your players *(ex. `["NA", "EU", "AS"]`)*
 
 ### Media:
 #### Logo
