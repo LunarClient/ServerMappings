@@ -14,5 +14,9 @@
     ],
     "primaryMinecraftVersion": "1.8",
     "primaryColor": "#79c8f5",
-    "secondaryColor": "#e5be22"
+    "secondaryColor": "#e5be22",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ]
 }
