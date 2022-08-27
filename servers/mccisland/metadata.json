@@ -1,0 +1,18 @@
+{
+    "id": "mccisland",
+    "name": "MCC Island",
+    "addresses": [
+        "mccisland.net",
+        "mccisland.com",
+        "noxcrew.online"
+    ],
+    "primaryAddress": "mccisland.net",
+    "minecraftVersions": [
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ]
+}
