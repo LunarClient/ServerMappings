@@ -13,5 +13,9 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ]
 }

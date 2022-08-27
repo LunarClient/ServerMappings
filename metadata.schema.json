@@ -39,6 +39,34 @@
         },
         "secondaryColor": {
             "$ref": "#/definitions/RGBColor"
+        },
+        "primaryLanguage": {
+            "$ref": "#/definitions/Language"
+        },
+        "languages": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "$ref": "#/definitions/Language"
+            }
+        },
+        "primaryRegion": {
+            "$ref": "#/definitions/Region"
+        },
+        "regions": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "$ref": "#/definitions/Region"
+            }
+        },
+        "gameTypes": {
+            "type": "array",
+            "uniqueItems": true,
+            "maxItems": 3,
+            "items": {
+                "$ref": "#/definitions/GameType"
+            }
         }
     },
     "definitions": {
@@ -58,9 +86,63 @@
                 "1.19"
             ]
         },
+        "Region": {
+            "type": "string",
+            "enum": [
+                "AF",
+                "AS",
+                "EU",
+                "NA",
+                "OC",
+                "SA"
+            ]
+        },
+        "Language": {
+            "type": "string",
+            "enum": [
+                "en",
+                "es-EN",
+                "it",
+                "tr",
+                "ar",
+                "zh-CN",
+                "nl",
+                "fr",
+                "de",
+                "el",
+                "ja",
+                "ko",
+                "lt",
+                "no",
+                "pl",
+                "pt-PT",
+                "pt-BR",
+                "sv-SE"
+            ]
+        },
         "RGBColor": {
             "type": "string",
             "pattern": "^#([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$"
+        },
+        "GameType": {
+            "type": "string",
+            "enum": [
+                "PvP",
+                "PvE",
+                "HCF",
+                "Factions",
+                "Minigames",
+                "Skyblock",
+                "Parkour",
+                "UHC",
+                "Hardcore",
+                "Survival",
+                "Open World",
+                "Prison",
+                "Creative",
+                "Roleplay",
+                "Adventure"
+            ]
         }
     }
 }
