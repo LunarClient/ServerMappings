@@ -4,7 +4,7 @@
     "addresses": [
         "sunrisecity.uk"
     ],
-    "primaryAddress": "play.sunrisecity.uk",
+    "primaryAddress": "play.sunrisecity.uk:2260",
     "minecraftVersions": [
         "1.17",
         "1.18"
