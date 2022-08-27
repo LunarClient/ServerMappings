@@ -12,5 +12,21 @@
     ],
     "primaryMinecraftVersion":"1.17",
     "primaryColor":"#FF6A00",
-    "secondaryColor":"#00B3FF"
+    "secondaryColor":"#00B3FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "AF",
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ]
 }
