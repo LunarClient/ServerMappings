@@ -1,0 +1,28 @@
+{
+    "id": "hglabor",
+    "name": "HGLabor",
+    "addresses": [
+        "hglabor.de"
+    ],
+    "primaryAddress": "hglabor.de",
+    "minecraftVersions": [
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#6dbef7",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "gameTypes": [
+        "PvP",
+        "Training",
+        "Survival"
+    ]
+}
