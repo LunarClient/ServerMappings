@@ -1,18 +1,18 @@
 {
-    "id":"sunrisecity",
-    "name":"Sunrise City Server",
-    "addresses":[
+    "id": "sunrisecity",
+    "name": "Sunrise City Server",
+    "addresses": [
         "sunrisecity.uk"
     ],
-    "primaryAddress":"play.sunrisecity.uk:2260",
-    "minecraftVersions":[
+    "primaryAddress": "play.sunrisecity.uk:2260",
+    "minecraftVersions": [
         "1.17",
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion":"1.17",
-    "primaryColor":"#FF6A00",
-    "secondaryColor":"#00B3FF",
+    "primaryMinecraftVersion": "1.17",
+    "primaryColor": "#FF6A00",
+    "secondaryColor": "#00B3FF",
     "primaryLanguage": "en",
     "languages": [
         "en"
