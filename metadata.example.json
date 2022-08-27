@@ -13,5 +13,20 @@
     ],
     "primaryMinecraftVersion": "1.8",
     "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de"
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
 }
