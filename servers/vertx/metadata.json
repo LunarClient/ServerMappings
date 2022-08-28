@@ -10,4 +10,16 @@
         "1.8"
     ],
     "primaryMinecraftVersion": "1.8"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "HCF"
+    ]
 }
