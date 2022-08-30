@@ -1,0 +1,29 @@
+{
+    "id": "minedestiny",
+    "name": "MineDestiny",
+    "addresses": [
+        "minedestiny.hu"
+    ],
+    "primaryAddress": "play.minedestiny.hu",
+    "minecraftVersions": [
+        "1.16",
+        "1.17",
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryColor": "#dd544e",
+    "secondaryColor": "#a5366f",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock", 
+        "Survival", 
+        "Minigames"
+    ]
+}
