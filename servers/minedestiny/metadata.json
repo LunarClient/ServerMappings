@@ -22,6 +22,8 @@
         "EU"
     ],
     "gameTypes": [
-        "Skyblock", "Survival", "Minigames"
+        "Skyblock", 
+        "Survival", 
+        "Minigames"
     ]
 }
