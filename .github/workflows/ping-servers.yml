@@ -1,0 +1,26 @@
+name: Ping Servers
+
+on:
+  push:
+    branches:
+    - master
+  workflow_dispatch:
+
+jobs:
+  ping-servers:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+        name: Checkout from GitHub
+
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Validate Server Status
+        run: python scripts/validate_status.py --servers_dir servers

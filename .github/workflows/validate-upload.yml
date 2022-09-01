@@ -24,9 +24,6 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Validate Server Status
-        run: python scripts/validate_status.py --servers_dir servers
-
       - name: Validate Server JSON
         run: python scripts/validate_json.py --servers_dir servers --metadata_schema metadata.schema.json
 
