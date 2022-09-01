@@ -36,3 +36,4 @@
 * [ ] My background has an aspect ratio of 16:9.
 * [ ] My background is atleast `1920` pixels in width and `1080` pixels in height (can be bigger, but must remain the same aspect ratio).
 * [ ] My background contains relevant content pertaining to the server, is my own property, and complies with relevant copyright/privacy laws.
+* [ ] My background doesn't contain any markings, text, or logos (unless part of a build).

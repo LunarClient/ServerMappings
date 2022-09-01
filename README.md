@@ -22,7 +22,7 @@ In addition to the data that you will need to provide in your `metadata.json`, y
 
 ## Backgrounds
 
-Servers are also required to provide background image, you will need to upload a `.png` version of the background into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should be `background.png`.
+Servers are also required to provide background image, you will need to upload a `.png` version of the background into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should be `background.png`. Backgrounds should be free of marketing, text, and/or any logos (that isn't part of a build).
 
 ## Regions
 
