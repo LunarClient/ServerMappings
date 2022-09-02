@@ -8,7 +8,27 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers_dir', required=True, type=str)
     parser.add_argument('--metadata_schema', required=True, type=str)
+    parser.add_argument('--inactive_file', required=True, type=str)
+    parser.add_argument('--inactive_schema', required=True, type=str)
     args = parser.parse_args()
+
+    # Validate Inactive File
+    inactive_schema = {}
+    with open(args.inactive_schema) as inactive_schema_file:
+        inactive_schema = json.load(inactive_schema_file)
+
+    inactive_file = []
+    with open(args.inactive_file) as inactive_file_file:
+        inactive_file = json.load(inactive_file_file)
+
+    print(f'Validating inactive.json file...')
+
+    try:
+        jsonschema.validate(instance=inactive_file, schema=inactive_schema)
+    except jsonschema.ValidationError:
+        raise ValueError('inactive.json does not match the schema.')
+
+    print(f'Successfully validated inactive.json file!')
 
     # Load server mappings Schema
     metadata_schema = {}
