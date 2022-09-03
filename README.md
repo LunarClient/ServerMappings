@@ -49,6 +49,12 @@ We ask that this repository is only used to store mappings for *public* Minecraf
 
 Lunar Client also reserves the right to omit any servers that do not comply with our [Terms of Service](https://www.lunarclient.com/terms).
 
+## Inactive Server Policy
+
+If a server has closed down or has not been joinable for at least 3 months, we will add it to the `inactive.json`. This just flags our internal systems to not include the server in various place, but still retains all of the branding and other metadata you submit.
+
+If you think your server has been added to this list by mistake, please make a support ticket at the link below.
+
 ## Can I use this data for ___?
 
 Go for it.
