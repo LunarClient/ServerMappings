@@ -1,0 +1,26 @@
+{
+    "id": "nucleoid",
+    "name": "Nucleoid",
+    "addresses": [
+        "nucleoid.xyz",
+    ],
+    "primaryAddress": "nucleoid.xyz",
+    "minecraftVersions": [
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",    
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gametypes": [
+        "PVP",
+        "Minigames"
+    ]
+}
