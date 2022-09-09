@@ -2,16 +2,22 @@
     "id": "lookcraft",
     "name": "LookCraft",
     "addresses": [
-        "play.lookcraft.tk"
+        "lookcraft.tk"
     ],
-    "primaryAddress": "play.lookcraft.tk",
+    "primaryAddress": "lookcraft.tk",
     "minecraftVersions": [
         "1.8",
         "1.19"
     ],
     "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#969696",
+    "secondaryColor": "#383838",
     "primaryRegion": "SA",
     "regions": [
         "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
     ]
 }
