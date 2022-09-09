@@ -2,16 +2,16 @@
     "id": "minearte",
     "name": "Minearte Network",
     "addresses": [
-        "mc.minearte.net"
+        "minearte.net"
     ],
-    "primaryAddress": "mc.minearte.net",
+    "primaryAddress": "minearte.net",
     "minecraftVersions": [
-        "1.19.2",
-        "1.12.2",
-        "1.16.4",
-        "1.8.8"
+        "1.19",
+        "1.12",
+        "1.16",
+        "1.8"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.19",
     "primaryColor": "#bd6800",
     "secondaryColor": "#fcbe2b",
     "primaryLanguage": "es",
