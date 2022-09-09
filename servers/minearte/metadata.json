@@ -3,5 +3,28 @@
     "name": "Minearte Network",
     "addresses": [
         "mc.minearte.net"
+    ],
+    "primaryAddress": "mc.minearte.net",
+    "minecraftVersions": [
+        "1.19.2",
+        "1.12.2",
+        "1.16.4",
+        "1.8.8"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PVP"
     ]
 }
