@@ -1,0 +1,17 @@
+{
+    "id": "lookcraft",
+    "name": "LookCraft",
+    "addresses": [
+        "play.lookcraft.tk"
+    ],
+    "primaryAddress": "play.lookcraft.tk",
+    "minecraftVersions": [
+        "1.8",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ]
+}
