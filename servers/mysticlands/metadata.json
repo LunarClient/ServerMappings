@@ -1,0 +1,28 @@
+{
+    "id": "MysticLands",
+    "name": "MysticLands",
+    "addresses": [
+        "play.mysticlands.net",
+    ],
+    "primaryAddress": "play.mysticlands.net",
+    "minecraftVersions": [
+        "1.7",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#aa00aa",
+    "secondaryColor": "#706870",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Adventure",
+        "Minigames"
+    ]
+}
