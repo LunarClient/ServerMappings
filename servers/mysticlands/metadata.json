@@ -2,7 +2,7 @@
     "id": "mysticlands",
     "name": "MysticLands",
     "addresses": [
-        "play.mysticlands.net"
+        "mysticlands.net"
     ],
     "primaryAddress": "play.mysticlands.net",
     "minecraftVersions": [
