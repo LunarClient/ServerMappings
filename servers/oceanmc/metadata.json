@@ -2,7 +2,7 @@
     "id": "oceanmc",
     "name": "OceanMC Network",
     "addresses": [
-        "oceanmc.es",
+        "oceanmc.es"
     ],
     "primaryAddress": "oceanmc.es",
     "minecraftVersions": [
