@@ -2,7 +2,30 @@
     "id": "gummymc",
     "name": "GummyMC",
     "addresses": [
-        "gummymc.net",
-		"play.gummymc.net"
+        "play.gummymc.net"
+    ],
+    "primaryAddress": "play.gummymc.net",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#b00078",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Creative"
     ]
 }
