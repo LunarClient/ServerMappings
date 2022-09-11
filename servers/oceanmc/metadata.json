@@ -16,9 +16,9 @@
     "primaryMinecraftVersion": "1.8",
     "primaryColor": "#00FFF7",
     "secondaryColor": "#003A9E",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "EU",
     "regions": [
