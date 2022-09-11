@@ -1,1 +1,33 @@
-
+{
+    "id": "oceanmc",
+    "name": "OceanMC Network",
+    "addresses": [
+        "oceanmc.es",
+    ],
+    "primaryAddress": "oceanmc.es",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#00FFF7",
+    "secondaryColor": "#003A9E",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Prison",
+        "Roleplay"
+    ]
+}
