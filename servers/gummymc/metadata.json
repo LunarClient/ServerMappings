@@ -2,9 +2,9 @@
     "id": "gummymc",
     "name": "GummyMC",
     "addresses": [
-        "play.gummymc.net"
+        "gummymc.net"
     ],
-    "primaryAddress": "gummymc.net",
+    "primaryAddress": "play.gummymc.net",
     "minecraftVersions": [
         "1.8",
         "1.12",
