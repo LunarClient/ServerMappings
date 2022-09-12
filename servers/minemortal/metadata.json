@@ -1,0 +1,29 @@
+{
+    "id": "minemortal",
+    "name": "MineMortal Network",
+    "addresses": [
+        "minemortal.org",
+        "rivalpvp.net",
+        "minehaven.net"
+    ],
+    "primaryAddress": "minemortal.org",
+    "minecraftVersions": [
+        "1.19",
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryColor": "#ff1100",
+
+    "secondaryColor": "#ff7d00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "minearte",
+    "name": "Minearte Network",
+    "addresses": [
+        "minearte.net"
+    ],
+    "primaryAddress": "mc.minearte.net",
+    "minecraftVersions": [
+        "1.19",
+        "1.12",
+        "1.16",
+        "1.18",
+        "1.17",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#bd6800",
+    "secondaryColor": "#fcbe2b",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ]
+}
