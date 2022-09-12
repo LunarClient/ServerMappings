@@ -1,0 +1,29 @@
+{
+    "id": "minespoky",
+    "name": "MineSpoky Network",
+    "addresses": [
+        "minespoky.net"
+    ],
+    "primaryAddress": "minespoky.net",
+    "minecraftVersions": [
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.17",
+    "primaryColor": "#FB9700",
+    "secondaryColor": "#FBF100",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ]
+}
