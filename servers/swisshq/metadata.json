@@ -2,7 +2,8 @@
     "id": "swisshq",
     "name": "SwissHQ Network",
     "addresses": [
-        "swisshq.net",
+        "swisshq.net"
+
     ],
     "primaryAddress": "swisshq.net",
     "minecraftVersions": [
@@ -11,14 +12,15 @@
     ],
     "primaryMinecraftVersion": "1.7",
     "primaryColor": "#ffffff",
-    "secondaryColor": "##ff0000",
+    "secondaryColor": "#ff0000",
+
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "PvP"
