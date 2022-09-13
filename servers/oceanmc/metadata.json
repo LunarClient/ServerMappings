@@ -27,7 +27,6 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Prison",
-        "Roleplay"
+        "Prison"
     ]
 }
