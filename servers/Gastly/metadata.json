@@ -22,5 +22,6 @@
     ],
     "gameTypes": [
 	    "PvP",
-        "Survival"
+        "Survival",
+		"Open World"
 }
