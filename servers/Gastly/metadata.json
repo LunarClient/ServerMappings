@@ -21,6 +21,8 @@
         "NA"
     ],
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "PvP",
+        "Open World"
     ]
 }
