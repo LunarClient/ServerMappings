@@ -1,0 +1,28 @@
+{
+    "id": "gastlynetwork",
+    "name": "Gastly Network",
+    "addresses": [
+        "gastly.live"
+    ],
+    "primaryAddress": "gastly.live",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#8E2CC3",
+    "secondaryColor": "#FBFBFB",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Open World"
+    ]
+}
