@@ -14,6 +14,11 @@
         "name": {
             "type": "string"
         },
+        "description": {
+            "type": "string",
+            "minLength": 16,
+            "maxLength": 80
+        },
         "addresses": {
             "type": "array",
             "uniqueItems": true,

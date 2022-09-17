@@ -10,7 +10,7 @@ Each server in ServerMappings is represented by a folder with an accompanying `m
 
 ## IP Addresses
 
-The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["lunar.gg", "other.domain"]` will match `lunar.gg`, `na.lunar.gg`, `play.other.domain`, and so on.
+The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["lunar.gg", "other.domain"]` will match `lunar.gg`, `na.lunar.gg`, `play.other.domain`, and so on. The `primaryAddress` field is where you can include the desired subdomain (`na.lunar.gg`, `play.lunar.gg`) for users to connect to your server on and is required to be resolvable. This primary address will be used to ensure that the server remains online and active.
 
 ## Primary Info & Minecraft Versions
 

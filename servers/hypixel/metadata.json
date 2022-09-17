@@ -1,6 +1,7 @@
 {
     "id": "hypixel",
     "name": "Hypixel",
+    "description": "Play the best Minecraft minigames for free!",
     "addresses": [
         "hypixel.net"
     ],

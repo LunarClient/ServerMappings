@@ -1,6 +1,7 @@
 {
     "id": "lunarnetwork",
     "name": "Lunar Network",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "lunar.gg",
         "lunargg.dev",

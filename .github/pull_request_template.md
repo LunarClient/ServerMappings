@@ -11,9 +11,10 @@
 * You can view our patterns here: [metadata.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/metadata.schema.json), or take a look below and complete the field checklist:
   - [ ] `id`: a lowercase string, which should match the folder name *(ex. `myserver`)*
   - [ ] `name`: a string *(ex. `MyServerPvP`)*
+  - [ ] `description`: hook between 16 and 80 characters *(ex. `Home of Competitive Minecraft PvP`)* 
   - [ ] `addresses`: an array with lowercase strings *(ex. `["my.server", "your-server.com"]`)*
     - You do not need to specify subdomains, Lunar Client services automatically detect them.
-  - [ ] `primaryAddress`: an address *(ex. `my.server`)*
+  - [ ] `primaryAddress`: the primary address that people connect to with (please include the subdomain if required) *(ex. `mc.my.server`)*
   - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.18", "1.19"]` - Must be versions supported by Lunar Client)*
   - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.18` - Must be versions supported by Lunar Client)*
   - [ ] `primaryColor`: a hexademical color code that primarily distiguishes the server *(ex. `#00FFFF`)* 

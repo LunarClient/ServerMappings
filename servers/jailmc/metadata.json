@@ -1,6 +1,7 @@
 {
     "id": "jailmc",
     "name": "JailMC",
+    "description": "A new diverse prison experience",
     "addresses": [
         "jailmc.com"
     ],
