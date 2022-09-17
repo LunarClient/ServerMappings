@@ -1,6 +1,7 @@
 {
     "id": "mineclub",
     "name": "MineClub",
+    "description": "Social Metaverse playable on Minecraft",
     "addresses": [
         "mineclub.com"
     ],
