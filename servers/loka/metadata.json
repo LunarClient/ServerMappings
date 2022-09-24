@@ -1,0 +1,17 @@
+{
+    "id": "loka",
+    "name": "Loka",
+    "description": "The Original Conquest Server",
+    "addresses": [
+        "lokamc.com"
+    ],
+    "primaryAddress": "play.lokamc.com",
+    "minecraftVersions": [
+        "1.18"
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ]
+}
