@@ -3,8 +3,7 @@
     "name": "FloraMC",
     "description": "FloraMC provides a jewel in the crown experience with various gamemodes and features",
     "addresses": [
-        "play.floramc.club",
-        "join.floramc.club"
+        "floramc.club"
     ],
     "primaryAddress": "floramc.club",
     "minecraftVersions": [
