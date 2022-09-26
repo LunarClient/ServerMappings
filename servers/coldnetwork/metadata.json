@@ -4,5 +4,6 @@
     "addresses": [
         "coldnetwork.net",
         "coldpvp.com"
-    ]
+    ],
+    "primaryAddress": "play.coldnetwork.net"
 }

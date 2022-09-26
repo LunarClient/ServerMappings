@@ -3,5 +3,6 @@
     "name": "FruitServers",
     "addresses": [
         "fruitservers.net"
-    ]
+    ],
+    "primaryAddress": "mc.fruitservers.net"
 }
