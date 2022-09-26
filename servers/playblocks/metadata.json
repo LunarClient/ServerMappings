@@ -4,5 +4,6 @@
     "addresses": [
         "playblocks.org",
         "minealong.com"
-    ]
+    ],
+    "primaryAddress": "mc.playblocks.org"
 }

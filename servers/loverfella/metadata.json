@@ -3,5 +3,6 @@
     "name": "Loverfella",
     "addresses": [
         "loverfella.com"
-    ]
+    ],
+    "primaryAddress": "play.loverfella.com"
 }

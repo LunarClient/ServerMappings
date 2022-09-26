@@ -3,5 +3,6 @@
     "name": "MineGlobe Network",
     "addresses": [
         "mineglobe.org"
-    ]
+    ],
+    "primaryAddress": "play.mineglobe.org"
 }

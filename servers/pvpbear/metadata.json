@@ -4,5 +4,6 @@
     "addresses": [
         "pvpbear.net",
         "snowbear.playwithus.cc"
-    ]
+    ],
+    "primaryAddress": "mc.pvpbear.net"
 }

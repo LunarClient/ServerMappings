@@ -4,5 +4,6 @@
     "addresses": [
         "minelatino.com",
         "minelatino.net"
-    ]
+    ],
+    "primaryAddress": "play.minelatino.com"
 }

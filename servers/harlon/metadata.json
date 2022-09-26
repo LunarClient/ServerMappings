@@ -3,5 +3,6 @@
     "name": "Harlon City Server",
     "addresses": [
         "harlonserver.net"
-    ]
+    ],
+    "primaryAddress": "play.harlonserver.net"
 }

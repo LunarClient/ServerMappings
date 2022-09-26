@@ -4,5 +4,6 @@
     "addresses": [
         "nekocraft.us",
         "nekocraft.es"
-    ]
+    ],
+    "primaryAddress": "mc.nekocraft.us"
 }

@@ -3,5 +3,6 @@
     "name": "PandakMC",
     "addresses": [
         "pandakmc.fr"
-    ]
+    ],
+    "primaryAddress": "play.pandakmc.fr"
 }
