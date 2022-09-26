@@ -3,5 +3,6 @@
     "name": "UniversoCraft",
     "addresses": [
         "universocraft.com"
-    ]
+    ],
+    "primaryAddress": "mc.universocraft.com"
 }

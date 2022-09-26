@@ -3,5 +3,6 @@
     "name": "TearfulMC",
     "addresses": [
         "tearfulmc.com"
-    ]
+    ],
+    "primaryAddress": "play.tearfulmc.com"
 }

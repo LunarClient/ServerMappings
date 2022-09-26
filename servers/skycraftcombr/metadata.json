@@ -3,5 +3,6 @@
     "name": "SkyCraft Network",
     "addresses": [
         "skycraft.com.br"
-    ]
+    ],
+    "primaryAddress": "mc.skycraft.com.br"
 }

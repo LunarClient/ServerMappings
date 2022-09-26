@@ -3,5 +3,6 @@
     "name": "Verve Kits",
     "addresses": [
         "verve.rip"
-    ]
+    ],
+    "primaryAddress": "na.verve.rip"
 }

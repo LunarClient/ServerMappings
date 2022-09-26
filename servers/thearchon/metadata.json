@@ -3,5 +3,6 @@
     "name": "TheArchon",
     "addresses": [
         "thearchon.net"
-    ]
+    ],
+    "primaryAddress": "pvp.thearchon.net"
 }

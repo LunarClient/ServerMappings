@@ -3,5 +3,6 @@
     "name": "Bedwars Practice",
     "addresses": [
         "bedwarspractice.club"
-    ]
+    ],
+    "primaryAddress": "bedwarspractice.club"
 }
