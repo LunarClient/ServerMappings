@@ -15,5 +15,10 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ]    
 }
