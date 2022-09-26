@@ -23,4 +23,4 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Validate Server Status
-        run: python scripts/validate_status.py --servers_dir servers
+        run: python scripts/validate_status.py --servers_dir servers --inactive_file inactive.json
