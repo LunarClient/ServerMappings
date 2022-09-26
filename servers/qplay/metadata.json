@@ -3,5 +3,6 @@
     "name": "QPlay",
     "addresses": [
         "qplay.cz"
-    ]
+    ],
+    "primaryAddress": "mc.qplay.cz"
 }

@@ -3,5 +3,6 @@
     "name": "Pixelcade",
     "addresses": [
         "pixelcade.net"
-    ]
+    ],
+    "primaryAddress": "play.pixelcade.net"
 }

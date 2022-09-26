@@ -3,5 +3,6 @@
     "name": "TecnoCraft.net",
     "addresses": [
         "tecnocraft.net"
-    ]
+    ],
+    "primaryAddress": "play.tecnocraft.net"
 }

@@ -3,5 +3,6 @@
     "name": "Muffinized Network",
     "addresses": [
         "muffinized.net"
-    ]
+    ],
+    "primaryAddress": "play.muffinized.net"
 }

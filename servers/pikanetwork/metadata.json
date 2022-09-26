@@ -3,5 +3,6 @@
     "name": "PikaNetwork",
     "addresses": [
         "pika-network.net"
-    ]
+    ],
+    "primaryAddress": "pika-network.net"
 }

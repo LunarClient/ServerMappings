@@ -3,5 +3,6 @@
     "name": "Voltyum Network",
     "addresses": [
         "voltyum.net"
-    ]
+    ],
+    "primaryAddress": "mc.voltyum.net"
 }

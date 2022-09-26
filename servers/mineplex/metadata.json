@@ -3,5 +3,6 @@
     "name": "Mineplex",
     "addresses": [
         "mineplex.com"
-    ]
+    ],
+    "primaryAddress": "mineplex.com"
 }

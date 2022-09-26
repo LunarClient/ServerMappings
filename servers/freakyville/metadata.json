@@ -3,5 +3,6 @@
     "name": "FreakyVille",
     "addresses": [
         "freakyville.net"
-    ]
+    ],
+    "primaryAddress": "mc.freakyville.net"
 }

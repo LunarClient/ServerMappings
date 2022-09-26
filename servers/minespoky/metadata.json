@@ -4,7 +4,7 @@
     "addresses": [
         "minespoky.net"
     ],
-    "primaryAddress": "minespoky.net",
+    "primaryAddress": "play.minespoky.net",
     "minecraftVersions": [
         "1.16",
         "1.17",

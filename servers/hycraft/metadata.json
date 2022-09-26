@@ -3,5 +3,6 @@
     "name": "HyCraft Network",
     "addresses": [
         "hycraft.us"
-    ]
+    ],
+    "primaryAddress": "mc.hycraft.us"
 }

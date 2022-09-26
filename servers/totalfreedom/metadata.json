@@ -3,5 +3,6 @@
     "name": "Total Freedom",
     "addresses": [
         "totalfreedom.me"
-    ]
+    ],
+    "primaryAddress": "play.totalfreedom.me"
 }

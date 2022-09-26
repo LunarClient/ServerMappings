@@ -3,5 +3,6 @@
     "name": "Sydaria",
     "addresses": [
         "sydaria.fr"
-    ]
+    ],
+    "primaryAddress": "play.sydaria.fr"
 }

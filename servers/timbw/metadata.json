@@ -3,5 +3,6 @@
     "name": "TimBW Network",
     "addresses": [
         "timbw.xyz"
-    ]
+    ],
+    "primaryAddress": "mc.timbw.xyz"
 }

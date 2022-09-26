@@ -3,5 +3,6 @@
     "name": "MagicCraft",
     "addresses": [
         "magiccraft.fr"
-    ]
+    ],
+    "primaryAddress": "mc.magiccraft.fr"
 }

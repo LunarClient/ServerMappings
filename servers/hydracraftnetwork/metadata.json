@@ -3,5 +3,6 @@
     "name": "HydraCraft Network",
     "addresses": [
         "hydracraft.es"
-    ]
+    ],
+    "primaryAddress": "mc.hydracraft.es"
 }

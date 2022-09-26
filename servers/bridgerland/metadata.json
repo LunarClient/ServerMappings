@@ -3,5 +3,6 @@
     "name": "Bridger Land",
     "addresses": [
         "bridger.land"
-    ]
+    ],
+    "primaryAddress": "bridger.land"
 }

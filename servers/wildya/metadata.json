@@ -3,5 +3,6 @@
     "name": "Wildya",
     "addresses": [
         "wildya.fr"
-    ]
+    ],
+    "primaryAddress": "play.wildya.fr"
 }

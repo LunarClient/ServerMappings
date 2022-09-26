@@ -3,5 +3,6 @@
     "name": "GommeHD",
     "addresses": [
         "gommehd.net"
-    ]
+    ],
+    "primaryAddress": "gommehd.net"
 }

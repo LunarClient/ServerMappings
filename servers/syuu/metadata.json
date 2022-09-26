@@ -3,5 +3,6 @@
     "name": "Syuu",
     "addresses": [
         "syuu.net"
-    ]
+    ],
+    "primaryAddress": "syuu.net"
 }

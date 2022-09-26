@@ -3,5 +3,6 @@
     "name": "PvP Land",
     "addresses": [
         "pvp.land"
-    ]
+    ],
+    "primaryAddress": "pvp.land"
 }

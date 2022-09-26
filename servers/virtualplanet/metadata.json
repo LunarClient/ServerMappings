@@ -3,5 +3,6 @@
     "name": "VirtualPlanet",
     "addresses": [
         "virtualplanet.es"
-    ]
+    ],
+    "primaryAddress": "mc.virtualplanet.es"
 }

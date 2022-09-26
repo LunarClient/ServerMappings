@@ -4,5 +4,6 @@
     "addresses": [
         "glory-network.com",
         "rbw.world"
-    ]
+    ],
+    "primaryAddress": "play.glory-network.com"
 }
