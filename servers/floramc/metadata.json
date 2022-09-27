@@ -1,0 +1,33 @@
+{
+    "id": "floramc",
+    "name": "FloraMC",
+    "description": "FloraMC is a minecraft server providing top notch gameplay to its players",
+    "addresses": [
+        "floramc.club"
+    ],
+    "primaryAddress": "floramc.club",
+    "minecraftVersions": [
+        "1.19",
+        "1.18",
+        "1.17",
+        "1.16",
+        "1.12",
+        "1.8",
+        "1.7"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#00FF00",
+    "secondaryColor": "#00FFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"     
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ]
+}
