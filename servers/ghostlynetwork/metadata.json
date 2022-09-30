@@ -1,6 +1,7 @@
 {
     "id": "ghostlynetwork",
     "name": "Ghostly Network",
+    "description": "A popular PvP network which specialises in many competitive gamemodes",
     "addresses": [
         "gamefack.me",
         "gamefack.us",

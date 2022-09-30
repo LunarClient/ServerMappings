@@ -1,6 +1,7 @@
 {
     "id": "opblocks",
     "name": "OPBlocks",
+    "description": "A high-quality Minecraft Prison, Skyblock, and Survival SMP server",
     "addresses": [
         "opblocks.com"
     ],
