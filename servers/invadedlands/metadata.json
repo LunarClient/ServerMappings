@@ -8,6 +8,8 @@
         "nitro.rip"
     ],
     "primaryAddress": "invadedlands.net",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "primaryMinecraftVersion": "1.8",
     "minecraftVersions": [
         "1.7",
