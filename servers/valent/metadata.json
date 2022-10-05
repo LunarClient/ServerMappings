@@ -13,9 +13,17 @@
         "1.8"
     ],
     "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#e6c627",
+    "secondaryColor": "#ffffff",
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Practice",
+        "Soup",
+        "Minigames"
     ]
 }
