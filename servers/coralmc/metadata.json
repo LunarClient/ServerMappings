@@ -30,5 +30,7 @@
         "PvP",
         "Minigames",
         "Survival"
-    ]
+    ],
+    "website": "https://www.coralmc.it",
+    "store": "https://store.coralmc.it"
 }
