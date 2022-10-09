@@ -72,9 +72,19 @@
             "items": {
                 "$ref": "#/definitions/GameType"
             }
+        },
+        "website": {
+            "$ref": "#/definitions/WebAddress"
+        },
+        "store": {
+            "$ref": "#/definitions/WebAddress"
         }
     },
     "definitions": {
+        "WebAddress": {
+            "format": "uri",
+            "pattern": "^https?://"
+        },
         "ServerAddress": {
             "type": "string",
             "pattern": "^[a-z0-9_.-]+$"
