@@ -1,6 +1,8 @@
 {
     "id": "mcplayhd",
     "name": "McPlayHD",
+    "website": "https://mcplayhd.net/",
+    "store": "https://store.mcplayhd.net/",
     "addresses": [
         "mcplayhd.net"
     ]

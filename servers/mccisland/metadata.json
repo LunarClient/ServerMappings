@@ -1,6 +1,8 @@
 {
     "id": "mccisland",
     "name": "MCC Island",
+    "website": "https://mccisland.net/",
+    "store": "https://store.mccisland.net/",
     "addresses": [
         "mccisland.net",
         "mccisland.com",

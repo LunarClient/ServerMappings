@@ -1,6 +1,8 @@
 {
     "id": "cubehard",
     "name": "Cubehard",
+    "website": "https://cubehard.pl/",
+    "store": "https://cubehard.pl/shop",
     "addresses": [
         "cubehard.net"
     ]

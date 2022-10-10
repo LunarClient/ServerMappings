@@ -1,6 +1,8 @@
 {
     "id": "treepark",
     "name": "TreeparkMC",
+    "website": "https://treepark.games/",
+    "store": "https://store.treepark.games/",
     "addresses": [
         "treepark.games"
     ]

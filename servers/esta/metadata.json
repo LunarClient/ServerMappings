@@ -1,6 +1,8 @@
 {
     "id": "esta",
     "name": "Esta Network",
+    "website": "https://esta.land/",
+    "store": "https://practice.tebex.io/",
     "addresses": [
         "esta.land"
     ]

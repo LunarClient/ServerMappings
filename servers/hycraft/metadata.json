@@ -1,6 +1,8 @@
 {
     "id": "hycraft",
     "name": "HyCraft Network",
+    "website": "https://hycraft.us/",
+    "store": "https://store.hycraft.us/",
     "addresses": [
         "hycraft.us"
     ],

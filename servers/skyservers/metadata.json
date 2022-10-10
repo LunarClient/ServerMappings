@@ -1,6 +1,8 @@
 {
     "id": "skyservers",
     "name": "SkyServers",
+    "website": "https://www.skyservers.net/",
+    "store": "https://www.skyservers.net/survivalshop",
     "addresses": [
         "sky-mc.net"
     ]

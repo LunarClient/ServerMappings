@@ -1,6 +1,8 @@
 {
     "id": "octc",
     "name": "Overcast Community",
+    "website": "https://oc.tc/",
+    "store": "https://oc.tc/donate/",
     "description": "Competitive PvP since 2012",
     "addresses": [
         "oc.tc"

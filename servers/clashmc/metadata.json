@@ -1,6 +1,7 @@
 {
     "id": "clashmc",
     "name": "ClashMC Network",
+    "store": "https://store.clashmc.org/",
     "addresses": [
         "clashmc.org"
     ],

@@ -1,6 +1,7 @@
 {
     "id": "pvpland",
     "name": "PvP Land",
+    "store": "https://store.pvp.land/",
     "addresses": [
         "pvp.land"
     ],

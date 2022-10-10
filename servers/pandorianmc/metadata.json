@@ -1,6 +1,8 @@
 {
     "id": "pandorianmc",
     "name": "PandorianMC",
+    "website": "https://www.pandorianmc.net/",
+    "store": "https://store.pandorianmc.net/",
     "addresses": [
         "pandorianmc.net"
     ]

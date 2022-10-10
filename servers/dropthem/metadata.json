@@ -1,6 +1,7 @@
 {
     "id": "dropthem",
     "name": "Dropthem Network",
+    "store": "https://store.dropthem.eu/",
     "addresses": [
         "dropthem.eu"
     ]

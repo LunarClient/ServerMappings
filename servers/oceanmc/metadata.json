@@ -1,6 +1,8 @@
 {
     "id": "oceanmc",
     "name": "OceanMC Network",
+    "website": "http://oceanmc.es/",
+    "store": "https://tienda.oceanmc.es/",
     "addresses": [
         "oceanmc.es"
     ],

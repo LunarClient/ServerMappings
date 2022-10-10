@@ -1,6 +1,8 @@
 {
     "id": "bridgerland",
     "name": "Bridger Land",
+    "website": "https://bridger.land/",
+    "store": "https://store.bridger.land/",
     "addresses": [
         "bridger.land"
     ],

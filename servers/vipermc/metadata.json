@@ -1,6 +1,8 @@
 {
     "id": "vipermc",
     "name": "ViperMC",
+    "website": "https://www.vipermc.net/",
+    "store": "https://store.vipermc.net/",
     "description": "We're your home with the Hardcore Factions and the PotPvP gamemodes!",
     "addresses": [
         "viperhcf.com",

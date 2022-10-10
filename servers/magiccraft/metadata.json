@@ -1,6 +1,8 @@
 {
     "id": "magiccraft",
     "name": "MagicCraft",
+    "website": "http://magiccraft.fr/",
+    "store": "https://magicshopvip.buycraft.net/",
     "addresses": [
         "magiccraft.fr"
     ],

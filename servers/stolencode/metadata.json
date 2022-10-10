@@ -1,6 +1,8 @@
 {
     "id": "stolencode",
     "name": "StolenCode",
+    "website": "https://stolenco.de/",
+    "store": "https://donate.stolenco.de/",
     "addresses": [
         "stolencode.fun",
         "stolenco.de"

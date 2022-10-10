@@ -1,6 +1,8 @@
 {
     "id": "minemenclub",
     "name": "Minemen Club",
+    "website": "https://minemen.club/",
+    "store": "https://store.minemen.club/",
     "addresses": [
         "minemen.club",
         "mineman.club",

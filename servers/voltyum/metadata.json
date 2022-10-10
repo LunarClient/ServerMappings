@@ -1,6 +1,8 @@
 {
     "id": "voltyum",
     "name": "Voltyum Network",
+    "website": "https://voltyum.net/",
+    "store": "https://tienda.voltyum.net/",
     "addresses": [
         "voltyum.net"
     ],

@@ -1,6 +1,8 @@
 {
     "id": "minearte",
     "name": "Minearte Network",
+    "website": "https://minearte.net/",
+    "store": "https://minearte.net/tienda",
     "addresses": [
         "minearte.net"
     ],

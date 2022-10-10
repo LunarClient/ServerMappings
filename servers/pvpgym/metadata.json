@@ -1,6 +1,8 @@
 {
     "id": "pvpgym",
     "name": "PvPGym",
+    "website": "https://pvpgym.net/",
+    "store": "https://store.pvpgym.net/",
     "addresses": [
         "pvpgym.net"
     ]

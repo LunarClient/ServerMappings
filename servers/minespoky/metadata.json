@@ -1,6 +1,7 @@
 {
     "id": "minespoky",
     "name": "MineSpoky Network",
+    "store": "https://minespoky-network.tebex.io/",
     "addresses": [
         "minespoky.net"
     ],

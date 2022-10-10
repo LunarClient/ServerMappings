@@ -1,6 +1,8 @@
 {
     "id": "jartexnetwork",
     "name": "JartexNetwork",
+    "website": "https://jartexnetwork.com/",
+    "store": "https://store.jartexnetwork.com/",
     "addresses": [
         "jartexnetwork.com"
     ]

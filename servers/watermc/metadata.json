@@ -1,6 +1,8 @@
 {
     "id": "watermc",
     "name": "WaterMC",
+    "website": "https://www.watermc.gg/",
+    "store": "https://watermcnet.tebex.io/",
     "addresses": [
         "watermc.gg"
     ]

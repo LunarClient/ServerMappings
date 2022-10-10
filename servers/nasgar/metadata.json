@@ -1,6 +1,8 @@
 {
     "id": "nasgar",
     "name": "Nasgar Network",
+    "website": "https://nasgar.online/",
+    "store": "https://nasgar.online/shop",
     "addresses": [
         "nasgar.online"
     ]

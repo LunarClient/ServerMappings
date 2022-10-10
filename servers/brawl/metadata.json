@@ -1,6 +1,8 @@
 {
     "id": "brawl",
     "name": "Brawl",
+    "website": "https://www.brawl.com/front/",
+    "store": "https://shop.brawl.com/",
     "addresses": [
         "mcbrawl.com",
         "brawl.com",

@@ -1,6 +1,7 @@
 {
     "id": "harlon",
     "name": "Harlon City Server",
+    "website": "http://harlonserver.net/",
     "addresses": [
         "harlonserver.net"
     ],

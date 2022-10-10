@@ -1,6 +1,8 @@
 {
     "id": "minecadia",
     "name": "Minecadia",
+    "website": "https://minecadia.com/",
+    "store": "https://store.minecadia.com/",
     "addresses": [
         "minecadia.com"
     ],

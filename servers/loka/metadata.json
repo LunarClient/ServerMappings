@@ -1,6 +1,8 @@
 {
     "id": "loka",
     "name": "Loka",
+    "website": "https://lokamc.com/",
+    "store": "https://store.lokamc.com/",
     "description": "The Original Conquest Server",
     "addresses": [
         "lokamc.com"

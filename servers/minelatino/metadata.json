@@ -1,6 +1,8 @@
 {
     "id": "minelatino",
     "name": "MineLatino Network",
+    "website": "https://minelatino.com/",
+    "store": "https://tienda.minelatino.com/",
     "addresses": [
         "minelatino.com",
         "minelatino.net"

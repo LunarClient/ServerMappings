@@ -1,6 +1,8 @@
 {
     "id": "mineplex",
     "name": "Mineplex",
+    "website": "http://mineplex.com/",
+    "store": "https://www.mineplex.com/shop",
     "addresses": [
         "mineplex.com"
     ],

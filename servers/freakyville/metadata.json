@@ -1,6 +1,8 @@
 {
     "id": "freakyville",
     "name": "FreakyVille",
+    "website": "https://www.freakyville.net/",
+    "store": "https://freakyvillemc.buycraft.net/",
     "addresses": [
         "freakyville.net"
     ],

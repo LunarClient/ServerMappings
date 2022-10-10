@@ -1,6 +1,7 @@
 {
     "id": "sololegends",
     "name": "SoloLegends.net",
+    "store": "https://store.sololegends.net/",
     "addresses": [
         "sololegends.net"
     ]

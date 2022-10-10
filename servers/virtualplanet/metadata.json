@@ -1,6 +1,7 @@
 {
     "id": "virtualplanet",
     "name": "VirtualPlanet",
+    "store": "https://tienda.virtualplanet.es/",
     "addresses": [
         "virtualplanet.es"
     ],

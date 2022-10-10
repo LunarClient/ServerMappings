@@ -1,6 +1,8 @@
 {
     "id": "pixelcade",
     "name": "Pixelcade",
+    "website": "https://pixelcade.net/",
+    "store": "https://store.pixelcade.net/",
     "addresses": [
         "pixelcade.net"
     ],
