@@ -1,6 +1,8 @@
 {
     "id": "coralmc",
     "name": "CoralMC",
+    "website": "https://www.coralmc.it/",
+    "store": "https://store.coralmc.it/",
     "description": "CoralMC is the best server in Italy for those who enjoy healthy competition.",
     "addresses": [
         "coralmc.it",

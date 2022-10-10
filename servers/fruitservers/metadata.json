@@ -1,6 +1,8 @@
 {
     "id": "fruitservers",
     "name": "FruitServers",
+    "website": "http://fruitservers.net/",
+    "store": "https://www.fruitservers.net/survivalshop",
     "addresses": [
         "fruitservers.net"
     ],

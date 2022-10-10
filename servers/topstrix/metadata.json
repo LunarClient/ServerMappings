@@ -1,6 +1,8 @@
 {
     "id": "topstrix",
     "name": "TopStrix Network",
+    "website": "https://www.topstrix.net/",
+    "store": "https://store.topstrix.net/",
     "addresses": [
         "topstrix.net",
         "topstrix.com"

@@ -1,6 +1,8 @@
 {
     "id": "erisium",
     "name": "Erisium",
+    "website": "https://erisium.com/",
+    "store": "https://store.erisium.com/",
     "addresses": [
         "erisium.com"
     ]

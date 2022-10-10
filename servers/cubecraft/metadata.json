@@ -1,6 +1,8 @@
 {
     "id": "cubecraft",
     "name": "CubeCraft Games",
+    "website": "https://www.cubecraft.net/",
+    "store": "https://store.cubecraft.net/",
     "addresses": [
         "cubecraft.net"
     ],

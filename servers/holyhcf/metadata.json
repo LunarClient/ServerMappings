@@ -1,6 +1,8 @@
 {
     "id": "holyhcf",
     "name": "Holy Network",
+    "website": "https://www.holypvp.net/",
+    "store": "https://store.holypvp.net/",
     "description": "The #1 Spanish-speaking Minecraft PvP server for more than 6 years",
     "addresses": [
         "eaglehcf.com",

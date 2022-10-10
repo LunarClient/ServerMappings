@@ -1,6 +1,8 @@
 {
     "id": "minehut",
     "name": "Minehut Server",
+    "website": "https://minehut.com/",
+    "store": "https://shop.minehut.com/",
     "addresses": [
         "minehut.com",
         "minehut.gg"

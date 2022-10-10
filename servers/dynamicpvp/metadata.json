@@ -1,6 +1,7 @@
 {
     "id": "dynamicpvp",
     "name": "Dynamic Network",
+    "store": "https://store.dynamicpvp.net/",
     "addresses": [
         "dynamicpvp.net"
     ]

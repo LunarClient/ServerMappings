@@ -1,6 +1,8 @@
 {
     "id": "vanillaplus",
     "name": "Vanilla Plus",
+    "website": "https://www.vanillaplus.net/",
+    "store": "https://store.vanillaplus.net/",
     "addresses": [
         "vanillaplus.net"
     ]

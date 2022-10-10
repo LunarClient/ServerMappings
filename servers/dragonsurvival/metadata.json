@@ -1,6 +1,8 @@
 {
     "id": "dragonsurvival",
     "name": "DragonSurvival.EU",
+    "website": "https://dragon-survival.eu/",
+    "store": "https://dragon-survival.eu/shop",
     "addresses": [
         "dragon-survival.eu",
         "dragonsurvival.eu"

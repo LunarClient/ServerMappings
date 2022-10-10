@@ -1,6 +1,7 @@
 {
     "id": "mcprison",
     "name": "MCPrison",
+    "store": "https://buy.mchub.com/",
     "addresses": [
         "mcprison.com"
     ]

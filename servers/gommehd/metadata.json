@@ -1,6 +1,8 @@
 {
     "id": "gommehd",
     "name": "GommeHD",
+    "website": "https://www.gommehd.net/",
+    "store": "https://shop.gommehd.net/",
     "addresses": [
         "gommehd.net"
     ],

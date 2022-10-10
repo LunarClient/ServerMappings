@@ -1,6 +1,8 @@
 {
     "id": "techcraft",
     "name": "TechCraft Network",
+    "website": "https://techcraftmc.com/",
+    "store": "https://store.techcraftmc.com/",
     "addresses": [
         "techcraftmc.com"
     ]

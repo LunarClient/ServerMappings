@@ -1,6 +1,8 @@
 {
     "id": "kig",
     "name": "KIG Network",
+    "website": "https://playkig.com/",
+    "store": "https://store.playkig.com/",
     "addresses": [
         "playkig.com",
         "hive.rip",

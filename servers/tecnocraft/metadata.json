@@ -1,6 +1,8 @@
 {
     "id": "tecnocraft",
     "name": "TecnoCraft.net",
+    "website": "https://www.tecnocraft.net/",
+    "store": "https://store.tecnocraft.net/",
     "addresses": [
         "tecnocraft.net"
     ],

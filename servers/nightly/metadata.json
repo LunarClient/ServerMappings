@@ -1,6 +1,7 @@
 {
     "id": "nightly",
     "name": "Nightly",
+    "store": "https://store.nightlymc.com/",
     "addresses": [
         "nightlymc.com"
     ]

@@ -1,6 +1,8 @@
 {
     "id": "udropclub",
     "name": "uDrop Club",
+    "website": "https://udrop.club/",
+    "store": "https://store.udrop.club/",
     "addresses": [
         "udrop.club"
     ]

@@ -1,6 +1,8 @@
 {
     "id": "floramc",
     "name": "FloraMC",
+    "website": "https://www.floramc.club/",
+    "store": "https://store.floramc.club/",
     "description": "FloraMC is a minecraft server providing top notch gameplay to its players",
     "addresses": [
         "floramc.club"

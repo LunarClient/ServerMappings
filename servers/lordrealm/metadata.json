@@ -1,6 +1,8 @@
 {
     "id": "lordrealm",
     "name": "LordRealm Network",
+    "website": "https://www.lordrealm.games/",
+    "store": "http://store.lordrealm.xyz/",
     "addresses": [
         "lordrealm.xyz",
         "lordrealm.net"

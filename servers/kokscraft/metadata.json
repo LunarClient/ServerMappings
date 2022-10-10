@@ -1,6 +1,8 @@
 {
     "id": "kokscraft",
     "name": "KoksCraft.pl",
+    "website": "https://kokscraft.pl/",
+    "store": "https://kokscraft.pl/daily/shop",
     "addresses": [
         "kokscraft.pl"
     ]

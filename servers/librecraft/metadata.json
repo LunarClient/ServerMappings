@@ -1,6 +1,8 @@
 {
     "id": "librecraft",
     "name": "Librecraft Network",
+    "website": "https://librecraft.com/",
+    "store": "https://tienda.librecraft.com/",
     "addresses": [
         "librecraft.com",
         "librecraft.juegos"

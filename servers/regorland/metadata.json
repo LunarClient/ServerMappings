@@ -1,6 +1,7 @@
 {
     "id": "regorland",
     "name": "Regorland",
+    "store": "https://tienda.regorland.net/",
     "addresses": [
         "regorland.net"
     ],

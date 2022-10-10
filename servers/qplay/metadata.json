@@ -1,6 +1,8 @@
 {
     "id": "qplay",
     "name": "QPlay",
+    "website": "https://qplay.cz/",
+    "store": "https://store.qplay.cz/",
     "addresses": [
         "qplay.cz"
     ],

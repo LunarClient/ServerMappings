@@ -1,6 +1,8 @@
 {
     "id": "megaplanet",
     "name": "MEGA Planet",
+    "website": "https://megaplanet.net/",
+    "store": "https://tienda.megaplanet.net/",
     "addresses": [
         "megaplanet.net"
     ],

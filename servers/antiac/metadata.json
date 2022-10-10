@@ -1,6 +1,8 @@
 {
     "id": "antiac",
     "name": "AntiAC",
+    "website": "https://antiac.net/",
+    "store": "https://shop.antiac.net/",
     "addresses": [
         "antiac.net"
     ]

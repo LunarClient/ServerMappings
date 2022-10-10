@@ -1,6 +1,8 @@
 {
     "id": "hypixel",
     "name": "Hypixel",
+    "website": "https://hypixel.net/",
+    "store": "https://store.hypixel.net/",
     "description": "Play the best Minecraft minigames for free!",
     "addresses": [
         "hypixel.net"

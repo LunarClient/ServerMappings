@@ -1,6 +1,7 @@
 {
     "id": "fruskygames",
     "name": "FruskyGames",
+    "store": "https://store.fruskygames.net/",
     "addresses": [
         "fruskygames.net",
         "fruskygames.nl"

@@ -1,6 +1,8 @@
 {
     "id": "herobrineorg",
     "name": "Herobrine.org",
+    "website": "https://www.herobrine.org/",
+    "store": "https://shop.herobrine.org/",
     "addresses": [
         "herobrine.org"
     ]

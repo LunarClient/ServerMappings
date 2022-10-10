@@ -1,6 +1,8 @@
 {
     "id": "glorynetwork",
     "name": "GloryNetwork",
+    "website": "https://glory-network.com/",
+    "store": "https://store.glory-network.com/",
     "addresses": [
         "glory-network.com",
         "rbw.world"

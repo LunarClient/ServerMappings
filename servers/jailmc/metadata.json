@@ -1,6 +1,7 @@
 {
     "id": "jailmc",
     "name": "JailMC",
+    "store": "https://buy.jailmc.com/",
     "description": "A new diverse prison experience",
     "addresses": [
         "jailmc.com"

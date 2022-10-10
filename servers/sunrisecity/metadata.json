@@ -1,6 +1,8 @@
 {
     "id": "sunrisecity",
     "name": "Sunrise City Server",
+    "website": "https://www.sunrisecity.uk/",
+    "store": "https://sunrise.craftingstore.net/",
     "addresses": [
         "sunrisecity.uk"
     ],

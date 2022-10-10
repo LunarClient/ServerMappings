@@ -1,6 +1,8 @@
 {
     "id": "mineglobe",
     "name": "MineGlobe Network",
+    "website": "https://mineglobe.org/",
+    "store": "https://store.mineglobe.org/",
     "addresses": [
         "mineglobe.org"
     ],

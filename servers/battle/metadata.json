@@ -1,6 +1,8 @@
 {
     "id": "battle",
     "name": "Battle Network",
+    "website": "https://battle.rip/",
+    "store": "https://store.battle.rip/",
     "addresses": [
         "battle.rip"
     ],

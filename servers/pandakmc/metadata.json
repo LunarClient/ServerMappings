@@ -1,6 +1,8 @@
 {
     "id": "pandakmc",
     "name": "PandakMC",
+    "website": "https://pandakmc.fr/",
+    "store": "https://pandakmc.fr/shop",
     "addresses": [
         "pandakmc.fr"
     ],

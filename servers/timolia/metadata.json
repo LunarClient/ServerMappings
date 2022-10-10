@@ -1,6 +1,8 @@
 {
     "id": "timolia",
     "name": "Timolia",
+    "website": "https://www.timolia.de/",
+    "store": "https://shop.timolia.de/",
     "addresses": [
         "timolia.de"
     ]
