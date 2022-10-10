@@ -1,0 +1,29 @@
+{
+  "id": "dixpvp",
+  "name": "DixPvP Network",
+  "description": "We're a NETWORK based on the PotPvP gamemode!",
+  "addresses": [
+    "dixpvp.cf"
+  ],
+  "primaryAddress": "dixpvp.cf",
+  "minecraftVersions": [
+    "1.7",
+    "1.8"
+  ],
+  "primaryMinecraftVersion": "1.8",
+  "primaryColor": "#FF8000",
+  "secondaryColor": "#FFE800",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA",
+    "EU",
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ]
+}
