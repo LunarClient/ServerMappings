@@ -29,5 +29,7 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "website": "https://www.lunar.gg",
+    "store": "https://store.lunar.gg"
 }
