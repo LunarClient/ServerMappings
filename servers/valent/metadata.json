@@ -1,0 +1,27 @@
+{
+    "id": "valent",
+    "name": "Valent Network",
+    "description": "We are a Practice server based in Europe that helps you improve your PvP skills",
+    "addresses": [
+        "valent.gg",
+        "eu.valent.gg",
+        "na.valent.gg"
+    ],
+    "primaryAddress": "valent.gg",
+    "minecraftVersions": [
+        "1.7",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#e6c627",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ]
+}
