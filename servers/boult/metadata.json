@@ -10,7 +10,7 @@
     "1.7",
     "1.8"
   ],
-  "primaryMinecraftVersion": "1.8",
+  "primaryMinecraftVersion": "1.7",
   "primaryColor": "#FF8000",
   "secondaryColor": "#FFE800",
   "primaryLanguage": "en",
@@ -25,5 +25,7 @@
   ],
   "gameTypes": [
     "PvP"
-  ]
+  ],
+  "website": "https://www.boult.club",
+  "store": "https://store.boult.club"
 }
