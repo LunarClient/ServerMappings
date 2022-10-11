@@ -21,8 +21,7 @@
         "NA"
     ],
     "gameTypes": [
-        "Practice",
-        "Soup",
+        "PvP",
         "Minigames"
     ]
 }
