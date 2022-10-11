@@ -1,6 +1,8 @@
 {
     "id": "blocksmc",
     "name": "BlocksMC",
+    "website": "https://blocksmc.com/",
+    "store": "https://blocksmc.com/store",
     "addresses": [
         "blocksmc.com"
     ]

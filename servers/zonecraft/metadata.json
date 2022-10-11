@@ -1,6 +1,8 @@
 {
     "id": "zonecraft",
     "name": "ZoneCraft Network",
+    "website": "https://zonecraft.es/",
+    "store": "https://tienda.zonecraft.es/",
     "addresses": [
         "zonecraft.es",
         "zonecn.es",

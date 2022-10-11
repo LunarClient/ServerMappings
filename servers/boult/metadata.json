@@ -4,7 +4,6 @@
   "description": "We're a NETWORK based on the PotPvP gamemode!",
   "addresses": [
     "boult.club"
-    "dev.boult.club"
   ],
   "primaryAddress": "boult.club",
   "minecraftVersions": [

@@ -1,6 +1,8 @@
 {
     "id": "kantay",
     "name": "Kantay Network",
+    "website": "https://www.kantay.cc/",
+    "store": "https://store.kantay.cc/",
     "addresses": [
         "kantay.cc"
     ]

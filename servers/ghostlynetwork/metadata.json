@@ -1,6 +1,7 @@
 {
     "id": "ghostlynetwork",
     "name": "Ghostly Network",
+    "store": "https://store.ghostly.live/",
     "description": "A popular PvP network which specialises in many competitive gamemodes",
     "addresses": [
         "gamefack.me",

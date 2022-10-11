@@ -1,6 +1,8 @@
 {
     "id": "vortexnetwork",
     "name": "Vortex Network",
+    "website": "https://vortexnetwork.net/",
+    "store": "https://buy.vortexnetwork.net/",
     "addresses": [
         "vortexnetwork.net"
     ]

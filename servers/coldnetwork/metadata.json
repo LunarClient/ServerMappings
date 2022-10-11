@@ -1,6 +1,8 @@
 {
     "id": "coldnetwork",
     "name": "ColdNetwork",
+    "website": "https://coldnetwork.net/",
+    "store": "https://store.coldnetwork.net/",
     "addresses": [
         "coldnetwork.net",
         "coldpvp.com"

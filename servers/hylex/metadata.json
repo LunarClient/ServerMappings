@@ -1,6 +1,8 @@
 {
     "id": "hylex",
     "name": "HYLEX.net",
+    "website": "https://hylex.gg/",
+    "store": "https://hylex.gg/itens",
     "addresses": [
         "hylex.net"
     ]

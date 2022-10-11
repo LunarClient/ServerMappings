@@ -1,6 +1,8 @@
 {
     "id": "stratusnetwork",
     "name": "Stratus Network",
+    "website": "https://stratus.network/",
+    "store": "https://stratusnetwork.buycraft.net/",
     "addresses": [
         "stratus.network"
     ]

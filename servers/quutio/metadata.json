@@ -1,6 +1,8 @@
 {
     "id": "quutio",
     "name": "Quut.io",
+    "website": "https://quut.io/",
+    "store": "https://kauppa.quut.io/",
     "addresses": [
         "quut.io"
     ]

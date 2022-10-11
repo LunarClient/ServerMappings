@@ -1,6 +1,8 @@
 {
     "id": "pikanetwork",
     "name": "PikaNetwork",
+    "website": "https://pika-network.net/",
+    "store": "https://store.pika-network.net/",
     "addresses": [
         "pika-network.net"
     ],

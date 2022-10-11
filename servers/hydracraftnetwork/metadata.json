@@ -1,6 +1,8 @@
 {
     "id": "hydracraftnetwork",
     "name": "HydraCraft Network",
+    "website": "https://hydracraft.es/",
+    "store": "https://tienda.hydracraft.es/",
     "addresses": [
         "hydracraft.es"
     ],

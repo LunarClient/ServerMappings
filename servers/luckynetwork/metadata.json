@@ -1,6 +1,8 @@
 {
     "id": "luckynetwork",
     "name": "Lucky Network",
+    "website": "https://www.luckynetwork.net/",
+    "store": "https://store.luckynetwork.net/",
     "addresses": [
         "luckynetwork.net"
     ]

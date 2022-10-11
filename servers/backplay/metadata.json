@@ -1,6 +1,8 @@
 {
     "id": "backplay",
     "name": "BackPlay",
+    "website": "https://backplay.net/",
+    "store": "https://shop.backplay.net/",
     "addresses": [
         "backplay.net"
     ],

@@ -1,6 +1,7 @@
 {
     "id": "timbw",
     "name": "TimBW Network",
+    "store": "https://store.timbw.xyz/",
     "addresses": [
         "timbw.xyz"
     ],

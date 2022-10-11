@@ -1,6 +1,8 @@
 {
     "id": "visionmc",
     "name": "VisionMC Network",
+    "website": "https://visionmc.club/",
+    "store": "https://store.visionmc.club/",
     "addresses": [
         "visionmc.club",
         "visionmc.gq"

@@ -1,6 +1,8 @@
 {
     "id": "warzone",
     "name": "Warzone Network",
+    "website": "https://warzone.network/",
+    "store": "https://store.warzone.network/",
     "addresses": [
         "warzone.network",
         "warz.one"

@@ -1,6 +1,8 @@
 {
     "id": "munchymc",
     "name": "MunchyMC",
+    "website": "https://www.munchymc.com/",
+    "store": "https://shop.munchymc.com/",
     "addresses": [
         "munchymc.com",
         "kitpvp.us"

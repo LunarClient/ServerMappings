@@ -1,6 +1,8 @@
 {
     "id": "meapcraft",
     "name": "MeapCraft",
+    "website": "https://home.meapcraft.online/",
+    "store": "https://store.meapcraft.online/",
     "addresses": [
         "meapcraft.online"
     ],

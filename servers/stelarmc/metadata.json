@@ -1,6 +1,7 @@
 {
     "id": "stelarmc",
     "name": "StelarMC",
+    "store": "https://tienda.stelarmc.us/",
     "addresses": [
         "stelarmc.us",
         "stelarmc.club"

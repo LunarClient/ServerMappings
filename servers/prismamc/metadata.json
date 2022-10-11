@@ -1,6 +1,7 @@
 {
     "id": "prismamc",
     "name": "PrismaMC Network",
+    "store": "https://tienda.prismamc.net/",
     "addresses": [
         "prismamc.net"
     ]

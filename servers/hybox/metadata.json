@@ -1,6 +1,8 @@
 {
     "id": "hybox",
     "name": "Hybox",
+    "website": "https://hybox.gg/",
+    "store": "https://tienda.hybox.gg/",
     "addresses": [
         "hybox.gg"
     ],

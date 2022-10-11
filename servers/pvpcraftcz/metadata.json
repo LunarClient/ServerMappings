@@ -1,6 +1,8 @@
 {
     "id": "pvpcraftcz",
     "name": "PvPCraft.cz",
+    "website": "https://pvpcraft.cz/",
+    "store": "https://obchod.pvpcraft.cz/",
     "addresses": [
         "pvpcraft.cz"
     ]

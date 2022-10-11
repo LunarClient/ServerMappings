@@ -1,6 +1,8 @@
 {
     "id": "universocraft",
     "name": "UniversoCraft",
+    "website": "https://www.universocraft.com/",
+    "store": "https://tienda.universocraft.com/",
     "addresses": [
         "universocraft.com"
     ],

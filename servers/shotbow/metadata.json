@@ -1,6 +1,8 @@
 {
     "id": "shotbow",
     "name": "Shotbow",
+    "website": "https://shotbow.net/",
+    "store": "https://buy.shotbow.net/",
     "description": "Home of Annihilation, MineZ, and SMASH",
     "addresses": [
         "shotbow.net"

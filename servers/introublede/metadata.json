@@ -1,6 +1,8 @@
 {
     "id": "introublede",
     "name": "InTroubleDE",
+    "website": "https://introuble.de/",
+    "store": "https://shop.introuble.de/",
     "addresses": [
         "introuble.de"
     ]

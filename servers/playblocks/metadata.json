@@ -1,6 +1,8 @@
 {
     "id": "playblocks",
     "name": "Playblocks",
+    "website": "https://playblocks.org/",
+    "store": "https://store.playblocks.org/",
     "addresses": [
         "playblocks.org",
         "minealong.com"

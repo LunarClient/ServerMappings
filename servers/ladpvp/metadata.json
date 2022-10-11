@@ -1,6 +1,8 @@
 {
     "id": "ladpvp",
     "name": "LAD Network",
+    "website": "https://ladpvp.net/",
+    "store": "https://store.ladpvp.net/",
     "addresses": [
         "ladpvp.net"
     ],

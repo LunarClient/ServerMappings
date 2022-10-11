@@ -1,6 +1,8 @@
 {
     "id": "ariacraft",
     "name": "AriaCraft",
+    "website": "https://accentry.cn/",
+    "store": "https://store.accentry.cn/",
     "addresses": [
         "accentry.cn",
         "zqat.top"

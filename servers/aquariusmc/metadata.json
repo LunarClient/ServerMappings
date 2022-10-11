@@ -1,6 +1,7 @@
 {
     "id": "aquariusmc",
     "name": "AquariusMC",
+    "store": "https://store.aquariusmc.it/",
     "addresses": [
         "aquariusmc.it"
     ],

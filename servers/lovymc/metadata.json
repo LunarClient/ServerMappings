@@ -1,6 +1,7 @@
 {
     "id": "lovymc",
     "name": "LovyMC Network",
+    "store": "https://tienda.lovymc.com/",
     "addresses": [
         "lovymc.com"
     ],

@@ -1,6 +1,8 @@
 {
     "id": "virtualhit",
     "name": "VirtualHit Network",
+    "website": "https://virtualhit.es/",
+    "store": "https://tienda.virtualhit.es/",
     "addresses": [
         "virtualhit.es"
     ]

@@ -1,6 +1,8 @@
 {
     "id": "tearfulmc",
     "name": "TearfulMC",
+    "website": "https://www.tearfulmc.com/",
+    "store": "https://store.tearfulmc.com/",
     "addresses": [
         "tearfulmc.com"
     ],

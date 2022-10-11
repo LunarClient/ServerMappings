@@ -1,6 +1,8 @@
 {
     "id": "blurkit",
     "name": "Blurkit Network",
+    "website": "https://blurkit.net/",
+    "store": "https://tienda.blurkit.net/",
     "addresses": [
         "blurkit.net"
     ]

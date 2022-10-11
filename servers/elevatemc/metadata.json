@@ -1,6 +1,8 @@
 {
     "id": "elevatemc",
     "name": "ElevateMC Network",
+    "website": "https://elevatemc.com/",
+    "store": "https://store.elevatemc.com/",
     "addresses": [
         "elevatemc.com"
     ],

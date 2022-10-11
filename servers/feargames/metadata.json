@@ -1,6 +1,8 @@
 {
     "id": "feargames",
     "name": "FearGames",
+    "website": "https://feargames.it/",
+    "store": "https://shop.feargames.it/",
     "addresses": [
         "feargames.it"
     ]

@@ -1,6 +1,7 @@
 {
     "id": "vicnix",
     "name": "Vicnix Network",
+    "store": "https://tienda.vicnix.net/",
     "addresses": [
         "vicnix.net",
         "onlymc.us"

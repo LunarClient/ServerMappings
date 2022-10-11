@@ -1,6 +1,7 @@
 {
     "id": "hazelmc",
     "name": "Hazel MC",
+    "store": "https://store.hazelmc.com/",
     "addresses": [
         "hazelmc.com"
     ]

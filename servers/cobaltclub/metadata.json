@@ -1,6 +1,7 @@
 {
     "id": "cobaltclub",
     "name": "Cobalt Club",
+    "store": "https://store.cobalt.club/",
     "addresses": [
         "cobalt.club"
     ]

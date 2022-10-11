@@ -1,6 +1,7 @@
 {
     "id": "heartsteal",
     "name": "HeartSteal SMP",
+    "store": "https://store.heartsteal.net/",
     "addresses": [
         "heartsteal.net"
     ],

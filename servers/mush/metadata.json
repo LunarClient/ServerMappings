@@ -1,6 +1,8 @@
 {
     "id": "mush",
     "name": "MushMC",
+    "website": "https://mush.com.br/",
+    "store": "https://mush.com.br/loja/ranks",
     "addresses": [
         "mushmc.com",
         "mush.com.br",

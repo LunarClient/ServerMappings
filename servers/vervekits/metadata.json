@@ -1,6 +1,8 @@
 {
     "id": "vervekits",
     "name": "Verve Kits",
+    "website": "https://verve.rip/",
+    "store": "https://verve-kits.tebex.io/",
     "addresses": [
         "verve.rip"
     ],

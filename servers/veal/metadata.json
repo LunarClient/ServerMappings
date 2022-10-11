@@ -1,6 +1,7 @@
 {
     "id": "veal",
     "name": "VealPvP",
+    "store": "http://store.vealpvp.net/",
     "addresses": [
         "vealpvp.net"
     ],

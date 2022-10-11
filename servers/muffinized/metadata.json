@@ -1,6 +1,8 @@
 {
     "id": "muffinized",
     "name": "Muffinized Network",
+    "website": "https://muffinized.net/",
+    "store": "https://muffinized.net/store/",
     "addresses": [
         "muffinized.net"
     ],

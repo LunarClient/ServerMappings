@@ -1,6 +1,7 @@
 {
     "id": "certix",
     "name": "Certix Network",
+    "store": "https://store.certix.cc/",
     "addresses": [
         "certix.cc"
     ]
