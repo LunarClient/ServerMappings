@@ -1,7 +1,7 @@
 {
     "id": "rosenetwork",
     "name": "RoseNetwork",
-    "description": "A server where you can stay in the Chill play with your friends and be in peace, or make new friends or even compete with other people in pvp.",
+    "description": "A server where you can play with your friends, or make new friends.",
     "addresses": [
         "rosenetwork.it"
     ],
@@ -22,7 +22,7 @@
     "languages": [
         "it"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU"        
