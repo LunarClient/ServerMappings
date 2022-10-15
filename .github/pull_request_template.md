@@ -25,6 +25,17 @@
   - [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) *(ex. `https://www.your-server.com`)*
   - [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) *(ex. `https://store.your-server.com`)*
 
+### Socials
+* [ ] (optional) `twitter`: username of twitter account without the @ *(ex. MyServer)*
+* [ ] (optional) `discord`: invite link to twitter *(ex. https://discord.com/invite/4ceEJuH)*
+* [ ] (optional) `youtube`: slug or username of youtube channel *(ex. MyServer)*
+* [ ] (optional) `instagram`: username of instagram account *(ex. MyServer)*
+* [ ] (optional) `twitch`: username of twitch account *(ex. MyServer)*
+* [ ] (optional) `telegram`: slug of telegram group *(ex. MyServer)*
+* [ ] (optional) `reddit`: slug of subdreddit wtih 'r/' *(ex. MyServer)*
+* [ ] (optional) `tiktok`: username of tiktok account *(ex. MyServer)*
+* [ ] (optional) `facebook`: slug of facebook page *(ex. MyServer)*
+
 ### Media:
 #### Logo
 * [ ] My logo is a `png` file.

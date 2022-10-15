@@ -78,6 +78,38 @@
         },
         "store": {
             "$ref": "#/definitions/WebAddress"
+        },
+        "socials": {
+            "type": "object",
+            "properties": {
+                "twitter": {
+                    "type": "string"
+                },
+                "discord": {
+                    "type": "string"
+                },
+                "youtube": {
+                    "type": "string"
+                },
+                "instagram": {
+                    "type": "string"
+                },
+                "twitch": {
+                    "type": "string"
+                },
+                "telegram": {
+                    "type": "string"
+                },
+                "reddit": {
+                    "type": "string"
+                },
+                "tiktok": {
+                    "type": "string"
+                },
+                "facebook": {
+                    "type": "string"
+                }
+            }
         }
     },
     "definitions": {

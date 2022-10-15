@@ -31,5 +31,10 @@
         "PvP"
     ],
     "website": "https://www.lunar.gg",
-    "store": "https://store.lunar.gg"
+    "store": "https://store.lunar.gg",
+    "socials": {
+        "twitter": "LunarNetwork",
+        "telegram": "lunarnetwork",
+        "discord": "https://www.lunar.gg/discord"
+    }
 }
