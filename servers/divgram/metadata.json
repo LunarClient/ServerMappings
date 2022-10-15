@@ -1,0 +1,33 @@
+{
+    "id": "divgram",
+    "name": "DivGram",
+    "description": "The official DivGram Minecraft",
+    "addresses": [
+        "mc.divgram.com"
+    ],
+    "primaryAddress": "mc.divgram.com",
+    "minecraftVersions": [
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryColor": "#305B63",
+    "secondaryColor": "#7D7F63",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://www.divgram.com"
+}
