@@ -3,13 +3,13 @@
     "name": "SplashNetwork",
     "description": "SplashNetwork een netwerk waar het allemaal gebeurd.",
     "addresses": [
-        "play.splashnetwork.nl"
+        "splashnetwork.nl"
     ],
     "primaryAddress": "play.splashnetwork.nl",
     "minecraftVersions": [
-        "1.12.2"
+        "1.12"
     ],
-    "primaryMinecraftVersion": "1.12.2",
+    "primaryMinecraftVersion": "1.12",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#2150d1",
     "primaryLanguage": "nl",
