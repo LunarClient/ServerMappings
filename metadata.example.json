@@ -1,33 +1,40 @@
 {
-    "id": "splashnetwork",
-    "name": "SplashNetwork",
-    "description": "SplashNetwork een netwerk waar het allemaal gebeurd.",
+    "id": "lunarnetwork",
+    "name": "Lunar Network",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "play.splashnetwork.nl"
+        "lunar.gg",
+        "lunargg.dev",
+        "mcteams.com"
     ],
-    "primaryAddress": "play.splashnetwork.nl",
+    "primaryAddress": "lunar.gg",
     "minecraftVersions": [
-        "1.12.2"
+        "1.7",
+        "1.8"
     ],
-    "primaryMinecraftVersion": "1.12.2",
+    "primaryMinecraftVersion": "1.8",
     "primaryColor": "#44a1e3",
-    "secondaryColor": "#2150d1",
-    "primaryLanguage": "nl",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
     "languages": [
-        "nl"
+        "en"
     ],
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
-        "EU"
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
     "gameTypes": [
-        "Roleplay"
+        "PvP"
     ],
-    "website": "https://splashnetwork.nl",
-    "store": "https://shop.splashnetwork.nl",
+    "website": "https://www.lunar.gg",
+    "store": "https://store.lunar.gg",
     "socials": {
-        "twitter": "",
-        "telegram": "",
-        "discord": "https://discord.gg/splashnetwork"
+        "twitter": "LunarNetwork",
+        "telegram": "lunarnetwork",
+        "discord": "https://www.lunar.gg/discord"
     }
 }
