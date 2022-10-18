@@ -17,7 +17,7 @@
   - [ ] `primaryAddress`: the primary address that people connect to with (please include the subdomain if required) *(ex. `mc.my.server`)*
   - [ ] `minecraftVersions`: an array with Minecraft versions as strings *(ex. `["1.18", "1.19"]` - Must be versions supported by Lunar Client)*
   - [ ] `primaryMinecraftVersion`: a Minecraft version as a string *(ex. `1.18` - Must be versions supported by Lunar Client)*
-  - [ ] `primaryColor`: a hexademical color code that primarily distiguishes the server *(ex. `#00FFFF`)* 
+  - [ ] `primaryColor`: a hexademical color code that primarily distinguishes the server *(ex. `#00FFFF`)* 
   - [ ] `secondaryColor`: a hexademical color code that accompanies the `primaryColor` of the server *(ex. `#FF0000`)*
   - [ ] `primaryRegion`: the primary region where your server operates in *(ex. `NA`)*
   - [ ] `regions`: a list of regions where you have servers located that service your players *(ex. `["NA", "EU", "AS"]`)*
@@ -27,7 +27,7 @@
 
 ### Socials
 * [ ] (optional) `twitter`: username of twitter account without the @ *(ex. MyServer)*
-* [ ] (optional) `discord`: invite link to twitter *(ex. https://discord.com/invite/4ceEJuH)*
+* [ ] (optional) `discord`: invite link to discord *(ex. https://discord.com/invite/4ceEJuH)*
 * [ ] (optional) `youtube`: slug or username of youtube channel *(ex. MyServer)*
 * [ ] (optional) `instagram`: username of instagram account *(ex. MyServer)*
 * [ ] (optional) `twitch`: username of twitch account *(ex. MyServer)*
