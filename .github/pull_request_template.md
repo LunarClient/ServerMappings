@@ -20,7 +20,7 @@
   - [ ] `primaryColor`: a hexademical color code that primarily distinguishes the server *(ex. `#00FFFF`)* 
   - [ ] `secondaryColor`: a hexademical color code that accompanies the `primaryColor` of the server *(ex. `#FF0000`)*
   - [ ] `primaryRegion`: the primary region where your server operates in *(ex. `NA`)*
-  - [ ] `regions`: a list of regions where you have servers located that services your players *(ex. `["NA", "EU", "AS"]`)*
+  - [ ] `regions`: a list of regions where you have servers located that service your players *(ex. `["NA", "EU", "AS"]`)*
   - [ ] `gameTypes`: a list of games that describe the content on your server, must be a max of 3 listed *(ez. `["PVP", "UHC", "HCF"]`)*
   - [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) *(ex. `https://www.your-server.com`)*
   - [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) *(ex. `https://store.your-server.com`)*
