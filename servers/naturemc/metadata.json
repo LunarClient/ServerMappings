@@ -3,22 +3,21 @@
     "name": "NatureMC",
     "description": "An unique Survival experience.",
     "addresses": [
-        "play.naturemc.net",
-        "mc.naturemc.net"
+        "naturemc.net"
     ],
     "primaryAddress": "play.naturemc.net",
     "minecraftVersions": [
         "1.16",
         "1.17",
         "1.18",
-        "1,19"
+        "1.19"
     ],
     "primaryMinecraftVersion": "1.19",
     "primaryColor": "#FFD700",
     "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "EU",
     "regions": [
