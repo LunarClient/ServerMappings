@@ -2,11 +2,13 @@
     "id": "azarathcc",
     "name": "AzarathCC Network",
     "store": "https://buy.azarath.cc/",
-    "twitter": "AzarathCC",
     "description": "Competitive clicking network",
     "addresses": [
         "azarath.cc"
     ],
+    "socials": {
+        "twitter": "AzarathCC"
+    },
     "primaryAddress": "azarath.cc",
     "minecraftVersions": [
         "1.7",
