@@ -1,0 +1,24 @@
+{
+    "id": "azarathcc",
+    "name": "AzarathCC Network",
+    "store": "https://buy.azarath.cc/",
+    "description": "Competitive clicking network",
+    "addresses": [
+        "azarath.cc"
+    ],
+    "socials": {
+        "twitter": "AzarathCC"
+    },
+    "primaryAddress": "azarath.cc",
+    "minecraftVersions": [
+        "1.7",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.7",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ]
+}
