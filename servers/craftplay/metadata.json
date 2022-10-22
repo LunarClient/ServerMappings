@@ -4,5 +4,9 @@
     "store": "https://craftplay.pl/",
     "addresses": [
         "craftplay.pl"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/RR3QJju",
+        "facebook": "CraftPlaypl"
+    }
 }

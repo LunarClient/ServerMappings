@@ -6,5 +6,9 @@
     "addresses": [
         "og-network.net",
         "og-sg.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "playognetwork",
+        "discord": "https://discord.com/invite/UFDP3QXq5H"
+    }
 }

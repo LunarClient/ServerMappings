@@ -5,5 +5,12 @@
     "store": "https://store.ultimismc.com/",
     "addresses": [
         "ultimismc.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "ultimismc",
+        "discord": "https://discord.com/invite/ultimismc",
+        "youtube": "UltimisMCOffical",
+        "instagram": "ultimismc",
+        "reddit": "UltimisMC"
+    }
 }

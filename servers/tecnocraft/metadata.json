@@ -6,5 +6,9 @@
     "addresses": [
         "tecnocraft.net"
     ],
-    "primaryAddress": "play.tecnocraft.net"
+    "primaryAddress": "play.tecnocraft.net",
+    "socials": {
+        "discord": "https://discord.com/invite/TecnoRoleplay",
+        "telegram": "tecnotutor"
+    }
 }

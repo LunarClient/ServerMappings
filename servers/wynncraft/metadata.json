@@ -6,5 +6,12 @@
     "addresses": [
         "wynncraft.com"
     ],
-    "primaryAddress": "play.wynncraft.com"
+    "primaryAddress": "play.wynncraft.com",
+    "socials": {
+        "twitter": "Wynncraft",
+        "discord": "https://discord.com/invite/yJkSQwp",
+        "youtube": "UC-ZXrUQOrtYcqAGx9F9IEeQ",
+        "reddit": "WynnCraft",
+        "facebook": "wynncraft"
+    }
 }

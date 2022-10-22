@@ -6,5 +6,9 @@
     "addresses": [
         "voltyum.net"
     ],
-    "primaryAddress": "mc.voltyum.net"
+    "primaryAddress": "mc.voltyum.net",
+    "socials": {
+        "twitter": "voltyum",
+        "discord": "https://discord.com/invite/U3EwyX6Fmr"
+    }
 }

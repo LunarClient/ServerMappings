@@ -4,5 +4,9 @@
     "store": "https://tienda.prismamc.net/",
     "addresses": [
         "prismamc.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "PrismaMCNW",
+        "discord": "https://discord.com/invite/yesGKfpkFa"
+    }
 }

@@ -5,5 +5,11 @@
     "addresses": [
         "totalfreedom.me"
     ],
-    "primaryAddress": "play.totalfreedom.me"
+    "primaryAddress": "play.totalfreedom.me",
+    "socials": {
+        "twitter": "totalfreedommc",
+        "discord": "https://discord.com/invite/PW4savJR9a",
+        "youtube": "UCg9FmAxZVe5DCf6ZASih3GQ",
+        "reddit": "TotalFreedom"
+    }
 }

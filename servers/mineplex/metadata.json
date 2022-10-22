@@ -6,5 +6,13 @@
     "addresses": [
         "mineplex.com"
     ],
-    "primaryAddress": "mineplex.com"
+    "primaryAddress": "mineplex.com",
+    "socials": {
+        "twitter": "mineplex",
+        "discord": "https://discord.com/invite/uv7hBwx",
+        "youtube": "MineplexGamesOfficial",
+        "instagram": "official.mineplex",
+        "twitch": "mineplex",
+        "facebook": "MineplexGames"
+    }
 }

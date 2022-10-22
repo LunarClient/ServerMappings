@@ -5,5 +5,9 @@
     "addresses": [
         "pvp.land"
     ],
-    "primaryAddress": "pvp.land"
+    "primaryAddress": "pvp.land",
+    "socials": {
+        "twitter": "pvp_land",
+        "discord": "https://discord.com/invite/Q4CQjQs"
+    }
 }

@@ -6,5 +6,11 @@
     "addresses": [
         "qplay.cz"
     ],
-    "primaryAddress": "mc.qplay.cz"
+    "primaryAddress": "mc.qplay.cz",
+    "socials": {
+        "discord": "https://discord.com/invite/5c68GMB",
+        "youtube": "qplaycz",
+        "instagram": "qplaycz",
+        "facebook": "QPlay.cz"
+    }
 }

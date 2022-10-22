@@ -6,5 +6,15 @@
     "addresses": [
         "gommehd.net"
     ],
-    "primaryAddress": "gommehd.net"
+    "primaryAddress": "gommehd.net",
+    "socials": {
+        "twitter": "GommeHDnet",
+        "discord": "GommeHDnet",
+        "youtube": "GommeHDnet",
+        "instagram": "gommehdnetwork",
+        "twitch": "GommeHDnet",
+        "reddit": "gommehdnet",
+        "tiktok": "gommehdnetwork",
+        "facebook": "gommehdnet"
+    }
 }

@@ -5,5 +5,10 @@
     "store": "https://obchod.pvpcraft.cz/",
     "addresses": [
         "pvpcraft.cz"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/suzTg4D",
+        "instagram": "pvpcraft.cz",
+        "tiktok": "pvpcraftcz"
+    }
 }

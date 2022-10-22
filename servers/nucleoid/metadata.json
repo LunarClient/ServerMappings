@@ -25,5 +25,9 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "twitter": "nucleoidmc",
+        "discord": "https://discord.com/invite/MVsm5Pu"
+    }
 }

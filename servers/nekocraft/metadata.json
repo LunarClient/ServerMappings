@@ -6,5 +6,8 @@
         "nekocraft.us",
         "nekocraft.es"
     ],
-    "primaryAddress": "mc.nekocraft.us"
+    "primaryAddress": "mc.nekocraft.us",
+    "socials": {
+        "twitter": "NeroCraftNW_"
+    }
 }

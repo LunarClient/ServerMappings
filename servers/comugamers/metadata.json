@@ -10,5 +10,13 @@
         "comugamers.org",
         "gamezchile.cl"
     ],
-    "primaryAddress": "mc.comugamers.com"
+    "primaryAddress": "mc.comugamers.com",
+    "socials": {
+        "twitter": "comugamers",
+        "discord": "https://discord.com/invite/D4YRQ9R",
+        "youtube": "UCEThoQ97WEDd4cVUnv3gYjw",
+        "instagram": "comugamers",
+        "twitch": "comugtwitch",
+        "facebook": "ComuGamers"
+    }
 }

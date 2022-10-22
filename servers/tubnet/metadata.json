@@ -10,5 +10,12 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.19"
+    "primaryMinecraftVersion": "1.19",
+    "socials": {
+        "twitter": "TubNet",
+        "discord": "https://discord.com/invite/tubnet",
+        "youtube": "UCYd_qJ7idcWMWmPQJqmwahQ",
+        "twitch": "tubnet",
+        "tiktok": "tubnetgg"
+    }
 }

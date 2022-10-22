@@ -29,5 +29,11 @@
         "Minigames",
         "PvE",
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "SpacePotatoDE",
+        "discord": "https://discord.com/invite/uXEdJDs",
+        "youtube": "UCG2_-N5ACCb_-Utpdw9iJ1g",
+        "reddit": "SpacePotatoDe"
+    }
 }

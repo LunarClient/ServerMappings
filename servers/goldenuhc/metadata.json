@@ -5,5 +5,9 @@
     "store": "https://boutique.goldenuhc.eu/",
     "addresses": [
         "goldenuhc.eu"
-    ]
+    ],
+    "socials": {
+        "twitter": "Golden_UHC",
+        "discord": "https://discord.com/invite/goldenuhc"
+    }
 }

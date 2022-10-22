@@ -22,5 +22,14 @@
         "PvP",
         "PvE",
         "Survival"
-    ]    
+    ],
+    "socials": {
+        "twitter": "LokaMinecraft",
+        "discord": "https://discord.com/invite/PcQafJD",
+        "youtube": "Lokamc",
+        "instagram": "lokaminecraft",
+        "twitch": "lokaminecraft",
+        "reddit": "lokamc",
+        "facebook": "lokaminecraft"
+    }
 }

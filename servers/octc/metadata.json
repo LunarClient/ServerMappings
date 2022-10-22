@@ -20,5 +20,11 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "socials": {
+        "twitter": "OvercastPGM",
+        "discord": "https://discord.com/invite/OCTC",
+        "youtube": "OvercastNetwork",
+        "twitch": "OCNLive"
+    }
 }

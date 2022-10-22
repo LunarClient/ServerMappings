@@ -6,5 +6,11 @@
     "addresses": [
         "backplay.net"
     ],
-    "primaryAddress": "eu.backplay.net"
+    "primaryAddress": "eu.backplay.net",
+    "socials": {
+        "twitter": "BackPlayNetwork",
+        "discord": "https://discord.com/invite/FfRZaU2",
+        "youtube": "BackPlay",
+        "instagram": "backplaynetwork"
+    }
 }

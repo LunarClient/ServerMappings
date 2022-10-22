@@ -15,5 +15,8 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "socials": {
+        "discord": "https://discord.com/invite/aukgcsW378"
+    }
 }

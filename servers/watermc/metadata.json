@@ -5,5 +5,10 @@
     "store": "https://watermcnet.tebex.io/",
     "addresses": [
         "watermc.gg"
-    ]
+    ],
+    "socials": {
+        "twitter": "watermcnetwork",
+        "discord": "https://discord.com/invite/8SPk8uUJjb",
+        "instagram": "watermc_network"
+    }
 }

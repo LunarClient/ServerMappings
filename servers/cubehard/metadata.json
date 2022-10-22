@@ -5,5 +5,11 @@
     "store": "https://cubehard.pl/shop",
     "addresses": [
         "cubehard.net"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/4MfcHEHMBY",
+        "youtube": "CubeHardOfficial",
+        "tiktok": "cubehard",
+        "facebook": "CUBEHARD"
+    }
 }

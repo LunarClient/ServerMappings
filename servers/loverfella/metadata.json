@@ -6,5 +6,15 @@
     "addresses": [
         "loverfella.com"
     ],
-    "primaryAddress": "play.loverfella.com"
+    "primaryAddress": "play.loverfella.com",
+    "socials": {
+        "twitter": "loverfellatv",
+        "discord": "https://discord.com/invite/loverfam",
+        "youtube": "UCt6XC9hvuZtlxfDYvI1WAEg",
+        "instagram": "loverfella",
+        "twitch": "loverfella",
+        "reddit": "LoverFella",
+        "tiktok": "loverfella_official",
+        "facebook": "LoverFella"
+    }
 }

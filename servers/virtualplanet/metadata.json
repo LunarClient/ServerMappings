@@ -5,5 +5,9 @@
     "addresses": [
         "virtualplanet.es"
     ],
-    "primaryAddress": "mc.virtualplanet.es"
+    "primaryAddress": "mc.virtualplanet.es",
+    "socials": {
+        "twitter": "VirtualPlanetNT",
+        "discord": "https://discord.com/invite/fwPuWPw"
+    }
 }

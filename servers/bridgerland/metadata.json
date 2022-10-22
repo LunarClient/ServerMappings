@@ -6,5 +6,10 @@
     "addresses": [
         "bridger.land"
     ],
-    "primaryAddress": "bridger.land"
+    "primaryAddress": "bridger.land",
+    "socials": {
+        "twitter": "Bridger_Land",
+        "discord": "https://discord.com/invite/6TkXDKkejp",
+        "youtube": "UCERl5BIhV4gjbVnQEv80VuQ"
+    }
 }

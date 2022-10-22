@@ -1,8 +1,13 @@
 {
     "id": "certix",
     "name": "Certix Network",
+    "website": "https://www.certix.cc/index.php",
     "store": "https://store.certix.cc/",
     "addresses": [
         "certix.cc"
-    ]
+    ],
+    "socials": {
+        "twitter": "certixcc",
+        "discord": "https://discord.com/invite/DFu6mey"
+    }
 }

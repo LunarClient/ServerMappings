@@ -7,5 +7,8 @@
         "pvpbear.net",
         "snowbear.playwithus.cc"
     ],
-    "primaryAddress": "mc.pvpbear.net"
+    "primaryAddress": "mc.pvpbear.net",
+    "socials": {
+        "discord": "https://discord.com/invite/scSxTpq3HK"
+    }
 }

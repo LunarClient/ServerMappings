@@ -4,5 +4,8 @@
     "store": "https://buy.mchub.com/",
     "addresses": [
         "mcprison.com"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/mchub"
+    }
 }

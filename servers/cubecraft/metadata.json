@@ -6,5 +6,13 @@
     "addresses": [
         "cubecraft.net"
     ],
-    "primaryAddress": "cubecraft.net"
+    "primaryAddress": "cubecraft.net",
+    "socials": {
+        "twitter": "CubeCraftGames",
+        "discord": "https://discord.com/invite/cubecraft",
+        "youtube": "cubecraftgamesserver",
+        "instagram": "cubecraftgames",
+        "tiktok": "cubecrafttiktok",
+        "facebook": "CubeCraftGames"
+    }
 }

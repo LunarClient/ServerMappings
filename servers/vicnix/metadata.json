@@ -6,5 +6,16 @@
         "vicnix.net",
         "onlymc.us"
     ],
-    "primaryAddress": "mc.vicnix.net"
+    "primaryAddress": "mc.vicnix.net",
+    "socials": {
+        "twitter": "",
+        "discord": "",
+        "youtube": "",
+        "instagram": "",
+        "twitch": "",
+        "telegram": "",
+        "reddit": "",
+        "tiktok": "",
+        "facebook": ""
+    }
 }

@@ -5,5 +5,8 @@
     "store": "https://kauppa.quut.io/",
     "addresses": [
         "quut.io"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/RkEMPGukVn"
+    }
 }

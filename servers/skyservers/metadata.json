@@ -5,5 +5,12 @@
     "store": "https://www.skyservers.net/survivalshop",
     "addresses": [
         "sky-mc.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "SkyServerMinecr",
+        "discord": "https://discord.com/invite/m34FZpFd",
+        "youtube": "UCGYMzjCIziTNhzv186HD4FQ",
+        "instagram": "skyservers",
+        "facebook": "skyserversmc"
+    }
 }

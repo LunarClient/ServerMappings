@@ -17,5 +17,10 @@
         "1.7",
         "1.8"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "socials": {
+        "twitter": "minemen_network",
+        "discord": "https://discord.com/invite/4gfk48gv9z",
+        "reddit": "MinemenClub"
+    }
 }

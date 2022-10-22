@@ -5,5 +5,12 @@
     "addresses": [
         "harlonserver.net"
     ],
-    "primaryAddress": "play.harlonserver.net"
+    "primaryAddress": "play.harlonserver.net",
+    "socials": {
+        "twitter": "HarlonServer",
+        "discord": "https://discord.com/invite/qMmk8MuEBz",
+        "youtube": "UCUsBniuYo4fKNWy-PcAoDNg",
+        "instagram": "harlonserver",
+        "tiktok": "harlonserver"
+    }
 }

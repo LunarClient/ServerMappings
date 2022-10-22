@@ -6,5 +6,11 @@
     "addresses": [
         "hycraft.us"
     ],
-    "primaryAddress": "mc.hycraft.us"
+    "primaryAddress": "mc.hycraft.us",
+    "socials": {
+        "twitter": "hycraftnw",
+        "discord": "https://discord.com/invite/hycraft",
+        "youtube": "HyCraft",
+        "twitch": "hycraftnw"
+    }
 }

@@ -6,5 +6,13 @@
     "addresses": [
         "megaplanet.net"
     ],
-    "primaryAddress": "mc.megaplanet.net"
+    "primaryAddress": "mc.megaplanet.net",
+    "socials": {
+        "twitter": "ServeMegaPlanet",
+        "discord": "https://discord.com/invite/2jRDxt6YcT",
+        "youtube": "servidormegaplanet",
+        "instagram": "megaplanetsv",
+        "twitch": "svmegaplanet",
+        "facebook": "serverMEGAPlanet"
+    }
 }

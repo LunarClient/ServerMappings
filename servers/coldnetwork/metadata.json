@@ -7,5 +7,10 @@
         "coldnetwork.net",
         "coldpvp.com"
     ],
-    "primaryAddress": "play.coldnetwork.net"
+    "primaryAddress": "play.coldnetwork.net",
+    "socials": {
+        "twitter": "coldnetworknet",
+        "discord": "https://discord.com/invite/NX9U5ZR",
+        "youtube": "coldnetworknet"
+    }
 }

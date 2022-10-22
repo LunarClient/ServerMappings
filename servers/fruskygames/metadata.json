@@ -5,5 +5,11 @@
     "addresses": [
         "fruskygames.net",
         "fruskygames.nl"
-    ]
+    ],
+    "socials": {
+        "twitter": "realfruskygames",
+        "discord": "https://discord.com/invite/HsxPnAF",
+        "youtube": "FruskyGames",
+        "tiktok": "fruskygames"
+    }
 }

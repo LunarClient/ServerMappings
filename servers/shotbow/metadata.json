@@ -19,5 +19,14 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "socials": {
+        "twitter": "ShotbowNetwork",
+        "discord": "https://discord.com/invite/shotbow",
+        "youtube": "ShotbowOfficial",
+        "instagram": "shotbowofficial",
+        "reddit": "ShotBow",
+        "tiktok": "shotbownetwork",
+        "facebook": "ShotbowOfficial"
+    }
 }

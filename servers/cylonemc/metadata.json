@@ -6,5 +6,9 @@
         "cylonemc.net",
         "cylonemc.com",
         "pvp.cylone.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "cylonemc",
+        "discord": "https://discord.com/invite/Urv66KG"
+    }
 }

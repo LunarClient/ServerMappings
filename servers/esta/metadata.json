@@ -5,5 +5,9 @@
     "store": "https://practice.tebex.io/",
     "addresses": [
         "esta.land"
-    ]
+    ],
+    "socials": {
+        "twitter": "esta_network",
+        "discord": "https://discord.com/invite/avWYwSXxzJ"
+    }
 }

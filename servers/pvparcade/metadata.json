@@ -15,5 +15,9 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "socials": {
+        "twitter": "pvparcadegg",
+        "discord": "https://discord.com/invite/v7XbUtHxam"
+    }
 }

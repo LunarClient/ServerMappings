@@ -17,5 +17,9 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "socials": {
+        "twitter": "GhostlyLive",
+        "discord": "https://discord.com/invite/ghostly"
+    }
 }

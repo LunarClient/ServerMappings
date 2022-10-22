@@ -4,5 +4,10 @@
     "website": "https://greev.eu/",
     "addresses": [
         "greev.eu"
-    ]
+    ],
+    "socials": {
+        "twitter": "Greeveu",
+        "discord": "https://discord.com/invite/taAbPpq",
+        "instagram": "greev.eu"
+    }
 }

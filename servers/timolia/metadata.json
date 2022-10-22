@@ -5,5 +5,13 @@
     "store": "https://shop.timolia.de/",
     "addresses": [
         "timolia.de"
-    ]
+    ],
+    "socials": {
+        "twitter": "TimoliaTeam",
+        "discord": "https://discord.com/invite/Q55FujN",
+        "youtube": "Timolia",
+        "reddit": "timolia",
+        "tiktok": "timolianetwork",
+        "facebook": "timoliamc"
+    }
 }

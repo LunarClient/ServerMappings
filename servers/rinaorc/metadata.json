@@ -5,5 +5,12 @@
     "store": "https://store.rinaorc.com/",
     "addresses": [
         "rinaorc.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "rinaorc",
+        "discord": "https://discord.com/invite/vXYXrGk",
+        "youtube": "UCKC-StNGaVW9qJF_it-C0kg",
+        "tiktok": "serveur.rinaorc",
+        "facebook": "rinaorc.mc"
+    }
 }

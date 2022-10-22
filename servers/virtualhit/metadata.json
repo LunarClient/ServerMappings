@@ -5,5 +5,11 @@
     "store": "https://tienda.virtualhit.es/",
     "addresses": [
         "virtualhit.es"
-    ]
+    ],
+    "socials": {
+        "twitter": "VirtualHitES",
+        "discord": "https://discord.com/invite/virtualhit",
+        "instagram": "virtualhites",
+        "tiktok": "virtualhites"
+    }
 }

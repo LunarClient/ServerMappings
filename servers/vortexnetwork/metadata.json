@@ -5,5 +5,10 @@
     "store": "https://buy.vortexnetwork.net/",
     "addresses": [
         "vortexnetwork.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "VortexPvP",
+        "discord": "https://discord.com/invite/mc",
+        "tiktok": "thevortexnetwork"
+    }
 }

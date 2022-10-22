@@ -27,5 +27,9 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "TwistedMC1",
+        "discord": "https://discord.com/invite/twistedmc"
+    }
 }

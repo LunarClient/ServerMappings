@@ -5,5 +5,14 @@
     "store": "https://kwadratowa.games/sklep",
     "addresses": [
         "kwadratowa.games"
-    ]
+    ],
+    "socials": {
+        "twitter": "KwadratowaTV",
+        "discord": "https://discord.com/invite/3DB8U7k",
+        "youtube": "UCdRFDT-UQ5uqEJ7XLpI8lHg",
+        "instagram": "kmasakra",
+        "twitch": "kwadratowamasakra",
+        "tiktok": "kwadratowa.games",
+        "facebook": "kmasakra"
+    }
 }

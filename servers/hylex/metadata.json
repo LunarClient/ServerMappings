@@ -5,5 +5,11 @@
     "store": "https://hylex.gg/itens",
     "addresses": [
         "hylex.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "hylexmc",
+        "discord": "https://discord.com/invite/hylex",
+        "youtube": "UCZmIJ5CZXYt-pTVfVwpMjFA",
+        "instagram": "hylexmc"
+    }
 }

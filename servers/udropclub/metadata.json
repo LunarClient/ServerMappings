@@ -5,5 +5,9 @@
     "store": "https://store.udrop.club/",
     "addresses": [
         "udrop.club"
-    ]
+    ],
+    "socials": {
+        "twitter": "udropnetwork",
+        "discord": "https://discord.com/invite/Cg2nhUVS7C"
+    }
 }
