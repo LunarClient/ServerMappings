@@ -19,5 +19,10 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "socials": {
+        "twitter": "ViperMC",
+        "discord": "https://discord.com/invite/viper",
+        "tiktok": "vipermc"
+    }
 }

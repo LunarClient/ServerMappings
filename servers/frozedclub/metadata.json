@@ -6,5 +6,9 @@
     "addresses": [
         "elb1to.me",
         "frozed.club"
-    ]
+    ],
+    "socials": {
+        "twitter": "FrozedClubGames",
+        "discord": "https://discord.com/invite/dCrQmcn83D"
+    }
 }

@@ -6,5 +6,11 @@
     "addresses": [
         "librecraft.com",
         "librecraft.juegos"
-    ]
+    ],
+    "socials": {
+        "twitter": "LibreCraftMC",
+        "discord": "https://discord.com/invite/v9H6xd6",
+        "youtube": "UCFTDLW_Q-TVrwc5fOpKW_tg",
+        "facebook": "librecraftnetwork"
+    }
 }

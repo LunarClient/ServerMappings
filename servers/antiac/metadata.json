@@ -5,5 +5,9 @@
     "store": "https://shop.antiac.net/",
     "addresses": [
         "antiac.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "AntiACnet",
+        "discord": "https://discord.com/invite/q2uA4HP"
+    }
 }

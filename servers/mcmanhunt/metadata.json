@@ -4,5 +4,11 @@
     "store": "https://store.mcmanhunt.com/",
     "addresses": [
         "mcmanhunt.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "manhuntnetwork",
+        "discord": "https://discord.com/invite/manhunt",
+        "instagram": "mcmanhunt",
+        "tiktok": "mcmanhuntnetwork"
+    }
 }

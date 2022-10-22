@@ -7,5 +7,10 @@
         "playblocks.org",
         "minealong.com"
     ],
-    "primaryAddress": "mc.playblocks.org"
+    "primaryAddress": "mc.playblocks.org",
+    "socials": {
+        "twitter": "playblocksmc",
+        "discord": "https://discord.com/invite/WsMAuXqZFy",
+        "tiktok": "playblocksmc"
+    }
 }

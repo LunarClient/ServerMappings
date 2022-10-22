@@ -5,5 +5,12 @@
     "addresses": [
         "lovymc.com"
     ],
-    "primaryAddress": "play.lovymc.com"
+    "primaryAddress": "play.lovymc.com",
+    "socials": {
+        "twitter": "lovymcnetwork",
+        "discord": "https://discord.com/invite/KBNZqwn",
+        "youtube": "UCkffITHR2IDkuTPbB67ZBKQ",
+        "tiktok": "lovymc.network",
+        "facebook": "LovymcNetwork"
+    }
 }

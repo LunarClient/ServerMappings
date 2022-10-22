@@ -5,5 +5,10 @@
     "store": "https://nasgar.online/shop",
     "addresses": [
         "nasgar.online"
-    ]
+    ],
+    "socials": {
+        "twitter": "nasgarnetwork",
+        "discord": "https://discord.com/invite/68FrwtW",
+        "instagram": "NasgarNetwork"
+    }
 }

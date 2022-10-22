@@ -6,5 +6,8 @@
     "addresses": [
         "koolkidzmc.com"
     ],
-    "primaryAddress": "play.koolkidzmc.com"
+    "primaryAddress": "play.koolkidzmc.com",
+    "socials": {
+        "tiktok": "koolkidzcommunity"
+    }
 }

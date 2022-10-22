@@ -33,6 +33,8 @@
         "Minigames",
         "Survival"
     ],
-    "website": "https://www.coralmc.it",
-    "store": "https://store.coralmc.it"
+    "socials": {
+        "discord": "https://discord.com/invite/MGW42TXHBd",
+        "telegram": "CoralMC"
+    }
 }

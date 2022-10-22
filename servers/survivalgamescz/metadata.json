@@ -5,5 +5,9 @@
     "store": "https://store.survival-games.cz/",
     "addresses": [
         "survival-games.cz"
-    ]
+    ],
+    "socials": {
+        "instagram": "survival.games.cz",
+        "facebook": "CZSurvivalGames"
+    }
 }

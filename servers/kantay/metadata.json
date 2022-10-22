@@ -5,5 +5,9 @@
     "store": "https://store.kantay.cc/",
     "addresses": [
         "kantay.cc"
-    ]
+    ],
+    "socials": {
+        "twitter": "KantayCC",
+        "discord": "https://discord.com/invite/EKSjMKKy7n"
+    }
 }

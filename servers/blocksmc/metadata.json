@@ -5,5 +5,9 @@
     "store": "https://blocksmc.com/store",
     "addresses": [
         "blocksmc.com"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/rDxUS57",
+        "instagram": "BlocksMC"
+    }
 }

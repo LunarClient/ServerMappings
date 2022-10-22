@@ -5,5 +5,10 @@
     "store": "https://kokscraft.pl/daily/shop",
     "addresses": [
         "kokscraft.pl"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kokscraft",
+        "instagram": "kokscraft.mc",
+        "facebook": "kokscraftpl"
+    }
 }

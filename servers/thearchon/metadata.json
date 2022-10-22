@@ -6,5 +6,11 @@
     "addresses": [
         "thearchon.net"
     ],
-    "primaryAddress": "pvp.thearchon.net"
+    "primaryAddress": "pvp.thearchon.net",
+    "socials": {
+        "twitter": "TheArchon",
+        "discord": "https://discord.com/invite/thearchon",
+        "instagram": "thearchonserver",
+        "reddit": "TheArchon"
+    }
 }

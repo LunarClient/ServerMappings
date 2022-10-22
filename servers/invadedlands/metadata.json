@@ -34,5 +34,10 @@
         "PvP",
         "Skyblock",
         "Survival"
-    ]
+    ],
+    "socials": {
+        "twitter": "invadedlands",
+        "discord": "https://discord.com/invite/WrrPtqJ",
+        "reddit": "InvadedLands"
+    }
 }

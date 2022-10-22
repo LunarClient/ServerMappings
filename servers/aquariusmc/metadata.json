@@ -28,5 +28,10 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "networkaquarius",
+        "discord": "https://discord.com/invite/ErpABRs",
+        "telegram": "aquariusmcnetwork"
+    }
 }

@@ -31,5 +31,9 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/2T3RqxJ",
+        "instagram": "warzonemc"
+    }
 }

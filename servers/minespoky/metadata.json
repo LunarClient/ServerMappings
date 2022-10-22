@@ -26,5 +26,10 @@
     "gameTypes": [
         "Survival",
         "Skyblock"
-    ]
+    ],
+    "socials": {
+        "twitter": "MineSpoky",
+        "discord": "https://discord.com/invite/SR5BCZZ",
+        "tiktok": "minespoky.net"
+    }
 }

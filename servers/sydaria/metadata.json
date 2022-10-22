@@ -6,5 +6,9 @@
     "addresses": [
         "sydaria.fr"
     ],
-    "primaryAddress": "play.sydaria.fr"
+    "primaryAddress": "play.sydaria.fr",
+    "socials": {
+        "twitter": "sydariafr",
+        "discord": "https://discord.com/invite/sydaria"
+    }
 }

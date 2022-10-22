@@ -5,5 +5,10 @@
     "store": "https://tienda.blurkit.net/",
     "addresses": [
         "blurkit.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "BlurkitNetwork",
+        "discord": "https://discord.com/invite/rjS49gQ",
+        "tiktok": "blurkeon"
+    }
 }

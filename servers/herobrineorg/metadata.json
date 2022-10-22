@@ -5,5 +5,9 @@
     "store": "https://shop.herobrine.org/",
     "addresses": [
         "herobrine.org"
-    ]
+    ],
+    "socials": {
+        "twitter": "herobrinedotorg",
+        "discord": "https://discord.com/invite/herobrine"
+    }
 }

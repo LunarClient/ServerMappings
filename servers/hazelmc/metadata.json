@@ -4,5 +4,8 @@
     "store": "https://store.hazelmc.com/",
     "addresses": [
         "hazelmc.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "hazelmcnetwork"
+    }
 }

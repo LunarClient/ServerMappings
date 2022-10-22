@@ -5,5 +5,9 @@
     "store": "https://store.vanillaplus.net/",
     "addresses": [
         "vanillaplus.net"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/vanillaplus",
+        "tiktok": "vanillaplus.net"
+    }
 }

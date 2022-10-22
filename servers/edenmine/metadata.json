@@ -5,5 +5,11 @@
     "store": "https://www.edenmine.eu/store/",
     "addresses": [
         "edenmine.eu"
-    ]
+    ],
+    "socials": {
+        "twitter": "Edenminenetwork",
+        "discord": "https://discord.com/invite/XVJYhYDdzz",
+        "telegram": "edenmine",
+        "facebook": "edenminenetwork"
+    }
 }

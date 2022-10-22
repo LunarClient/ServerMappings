@@ -6,5 +6,9 @@
     "addresses": [
         "muffinized.net"
     ],
-    "primaryAddress": "play.muffinized.net"
+    "primaryAddress": "play.muffinized.net",
+    "socials": {
+        "twitter": "muffinized_",
+        "discord": "https://discord.com/invite/XpsCQjbEst"
+    }
 }

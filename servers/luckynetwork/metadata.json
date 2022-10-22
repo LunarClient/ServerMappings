@@ -5,5 +5,11 @@
     "store": "https://store.luckynetwork.net/",
     "addresses": [
         "luckynetwork.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "",
+        "discord": "https://discord.com/invite/luckynetwork",
+        "youtube": "UCmQk50LLBSeLDe6RA8SpEcA",
+        "instagram": "luckynetwork"
+    }
 }

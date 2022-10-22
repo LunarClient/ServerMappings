@@ -11,5 +11,9 @@
         "1.8",
         "1.18"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "socials": {
+        "twitter": "vealnetwork",
+        "discord": "https://discord.com/invite/czm5stDjQn"
+    }
 }

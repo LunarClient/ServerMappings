@@ -5,5 +5,9 @@
     "store": "https://store.techcraftmc.com/",
     "addresses": [
         "techcraftmc.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "techcraftmc",
+        "discord": "https://discord.com/invite/an6SfqC"
+    }
 }

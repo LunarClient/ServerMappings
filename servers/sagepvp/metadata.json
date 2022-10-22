@@ -6,5 +6,10 @@
     "addresses": [
         "sagepvp.org"
     ],
-    "primaryAddress": "sagepvp.org"
+    "primaryAddress": "sagepvp.org",
+    "socials": {
+        "twitter": "sagepvporg",
+        "discord": "https://discord.com/invite/kfCUDK2khu/",
+        "telegram": "SagePvPNetwork"
+    }
 }

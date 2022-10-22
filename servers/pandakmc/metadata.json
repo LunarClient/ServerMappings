@@ -6,5 +6,8 @@
     "addresses": [
         "pandakmc.fr"
     ],
-    "primaryAddress": "play.pandakmc.fr"
+    "primaryAddress": "play.pandakmc.fr",
+    "socials": {
+        "discord": "https://discord.com/invite/pandakmc"
+    }
 }

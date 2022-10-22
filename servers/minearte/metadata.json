@@ -30,5 +30,10 @@
     "gameTypes": [
         "Survival",
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "MinearteNet",
+        "discord": "https://discord.com/invite/cehWysWBJx",
+        "tiktok": "mineartenet"
+    }
 }

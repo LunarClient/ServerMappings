@@ -5,5 +5,12 @@
     "store": "https://store.originrealms.com/",
     "addresses": [
         "originrealms.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "originrealms",
+        "discord": "https://discord.com/invite/originrealms",
+        "youtube": "UCNh6mNB2NNzzlF2S3dn9Nxg",
+        "instagram": "originrealms",
+        "reddit": "OriginRealms"
+    }
 }

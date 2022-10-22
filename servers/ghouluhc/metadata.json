@@ -5,5 +5,9 @@
     "addresses": [
         "ghouluhc.club"
     ],
-    "primaryAddress": "play.ghoulpvp.us"
+    "primaryAddress": "play.ghoulpvp.us",
+    "socials": {
+        "twitter": "ghouluhc_",
+        "discord": "https://discord.com/invite/h2GQp4jtud"
+    }
 }

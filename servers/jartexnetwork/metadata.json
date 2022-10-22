@@ -5,5 +5,13 @@
     "store": "https://store.jartexnetwork.com/",
     "addresses": [
         "jartexnetwork.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "JartexNetwork",
+        "discord": "https://discord.com/invite/bkPMrVp",
+        "youtube": "UCfDU_v9ky0rK2Pndf5v88oA",
+        "instagram": "jartex.network",
+        "reddit": "JartexNetwork",
+        "facebook": "JartexNetwork"
+    }
 }

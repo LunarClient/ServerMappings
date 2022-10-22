@@ -15,5 +15,11 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "socials": {
+        "twitter": "playmineclub",
+        "discord": "https://discord.com/invite/mineclub",
+        "instagram": "mineclubserver",
+        "reddit": "MineClub"
+    }
 }

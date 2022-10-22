@@ -5,5 +5,9 @@
     "store": "https://store.twistmc.net/",
     "addresses": [
         "twistmc.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "twistminecraft",
+        "discord": "https://discord.com/invite/9HnJq2KXRD"
+    }
 }

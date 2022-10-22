@@ -14,5 +14,11 @@
         "minecraftpvp.com",
         "mc-warz.com",
         "minecraftbuild.com"
-    ]
+    ],
+    "socials": {
+        "twitter": "BrawlGames",
+        "youtube": "minecraftpvp",
+        "twitch": "mcpvp",
+        "facebook": "BrawlGames"
+    }
 }

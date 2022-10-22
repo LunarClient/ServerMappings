@@ -9,5 +9,9 @@
     "minecraftVersions": [
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.19"
+    "primaryMinecraftVersion": "1.19",
+    "socials": {
+        "discord": "https://discord.com/invite/tMxN5BTTPT",
+        "tiktok": "heartsteal.smp"
+    }
 }

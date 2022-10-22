@@ -25,5 +25,9 @@
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "stolenco_de",
+        "discord": "https://discord.com/invite/JJNknRGJGB"
+    }
 }

@@ -7,5 +7,12 @@
         "minelatino.com",
         "minelatino.net"
     ],
-    "primaryAddress": "play.minelatino.com"
+    "primaryAddress": "play.minelatino.com",
+    "socials": {
+        "twitter": "MineLatServer",
+        "discord": "https://discord.com/invite/krSnVsK",
+        "instagram": "minelatinonetwork",
+        "tiktok": "play.minelatino.com",
+        "facebook": "MineLatino.oficial"
+    }
 }

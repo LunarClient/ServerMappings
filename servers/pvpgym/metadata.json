@@ -5,5 +5,10 @@
     "store": "https://store.pvpgym.net/",
     "addresses": [
         "pvpgym.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "PvpGymOfficial",
+        "discord": "https://discord.com/invite/CWkq9XgQXB",
+        "tiktok": "pvpgym"
+    }
 }

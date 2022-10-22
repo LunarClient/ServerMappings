@@ -5,5 +5,11 @@
     "store": "https://store.cavepvp.org/",
     "addresses": [
         "cavepvp.org"
-    ]
+    ],
+    "socials": {
+        "twitter": "CavePvPorg",
+        "discord": "https://discord.com/invite/cavepvp",
+        "telegram": "cavepvporg",
+        "tiktok": "https://www.tiktok.com/@cavepv"
+    }
 }

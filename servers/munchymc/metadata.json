@@ -6,5 +6,12 @@
     "addresses": [
         "munchymc.com",
         "kitpvp.us"
-    ]
+    ],
+    "socials": {
+        "twitter": "munchy_mc",
+        "discord": "https://discord.com/invite/munchymc",
+        "youtube": "UCN4LdcieqEuK8P3S_qyJgjQ",
+        "reddit": "MunchyMC",
+        "tiktok": "munchy_mc"
+    }
 }

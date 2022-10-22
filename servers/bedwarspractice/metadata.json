@@ -5,5 +5,9 @@
     "addresses": [
         "bedwarspractice.club"
     ],
-    "primaryAddress": "bedwarspractice.club"
+    "primaryAddress": "bedwarspractice.club",
+    "socials": {
+        "twitter": "BedwarsPractice",
+        "discord": "https://discord.com/invite/TUeUnkqXnY"
+    }
 }

@@ -6,5 +6,11 @@
     "addresses": [
         "tearfulmc.com"
     ],
-    "primaryAddress": "play.tearfulmc.com"
+    "primaryAddress": "play.tearfulmc.com",
+    "socials": {
+        "twitter": "TearfulMC",
+        "discord": "https://discord.com/invite/wuQKeSWQ",
+        "youtube": "UCB3UBOj0zR4fM31xduesuYg",
+        "instagram": "tearful.mc"
+    }
 }

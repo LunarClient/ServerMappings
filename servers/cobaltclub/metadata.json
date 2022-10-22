@@ -4,5 +4,10 @@
     "store": "https://store.cobalt.club/",
     "addresses": [
         "cobalt.club"
-    ]
+    ],
+    "socials": {
+        "twitter": "CobaltClubMC",
+        "discord": "https://discord.com/invite/fwJRACwPgB",
+        "youtube": "UCPINbfBWEGhB6kcIFZU8f1Q"
+    }
 }

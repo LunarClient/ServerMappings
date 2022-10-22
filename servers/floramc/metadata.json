@@ -31,5 +31,10 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "twitter": "FloraMC_Club",
+        "discord": "https://discord.com/invite/floramc",
+        "instagram": "floramc.club"
+    }
 }

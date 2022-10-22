@@ -4,5 +4,9 @@
     "store": "https://store.crotus.cc/",
     "addresses": [
         "crotus.cc"
-    ]
+    ],
+    "socials": {
+        "twitter": "CrotusCC",
+        "discord": "https://discord.com/invite/FFJEkGZ"
+    }
 }

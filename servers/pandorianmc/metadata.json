@@ -5,5 +5,9 @@
     "store": "https://store.pandorianmc.net/",
     "addresses": [
         "pandorianmc.net"
-    ]
+    ],
+    "socials": {
+        "twitter": "PandorianMC",
+        "discord": "https://discord.com/invite/KYX29wBhdP"
+    }
 }

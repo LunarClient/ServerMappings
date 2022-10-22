@@ -5,5 +5,13 @@
     "store": "https://shop.feargames.it/",
     "addresses": [
         "feargames.it"
-    ]
+    ],
+    "socials": {
+        "twitter": "",
+        "discord": "https://discord.com/invite/yZ6FnK8",
+        "youtube": "UCcS-t5V9TP0tM01fzwFebzg",
+        "instagram": "feargames.it",
+        "telegram": "FearGames",
+        "facebook": "FearGames.it"
+    }
 }

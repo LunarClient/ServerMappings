@@ -7,5 +7,9 @@
         "slycemc.com",
         "slyce.fr"
     ],
-    "primaryAddress": "play.slycemc.eu"
+    "primaryAddress": "play.slycemc.eu",
+    "socials": {
+        "twitter": "slycemc",
+        "discord": "https://discord.com/invite/kFg2DtpFpd"
+    }
 }

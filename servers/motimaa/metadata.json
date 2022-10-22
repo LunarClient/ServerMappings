@@ -5,5 +5,8 @@
     "store": "https://kauppa.motimaa.net/",
     "addresses": [
         "motimaa.net"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Eggb2w7"
+    }
 }

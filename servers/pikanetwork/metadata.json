@@ -6,5 +6,13 @@
     "addresses": [
         "pika-network.net"
     ],
-    "primaryAddress": "pika-network.net"
+    "primaryAddress": "pika-network.net",
+    "socials": {
+        "twitter": "PikaNetworkMC",
+        "discord": "https://discord.com/invite/eAVpTEy",
+        "youtube": "UC-86TfZpgf53efsDlZg8Xow",
+        "instagram": "pika.network",
+        "twitch": "pikanetwork",
+        "facebook": "pika.netwrok"
+    }
 }

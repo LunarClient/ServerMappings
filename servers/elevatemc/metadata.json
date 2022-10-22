@@ -11,5 +11,10 @@
         "1.7",
         "1.8"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "socials": {
+        "twitter": "ElevateMCNet",
+        "discord": "https://discord.com/invite/GkqtzCYCvF",
+        "telegram": "ElevateMC"
+    }
 }
