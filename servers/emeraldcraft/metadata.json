@@ -3,7 +3,7 @@
     "name": "EmeraldCraft Network",
     "description": "El mejor server de Argentina",
     "addresses": [
-        "mc.emeraldcraft.com.ar"
+        "emeraldcraft.com.ar"
     ],
     "primaryAddress": "mc.emeraldcraft.com.ar",
     "minecraftVersions": [
@@ -15,7 +15,7 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.7.10",
+    "primaryMinecraftVersion": "1.7",
     "primaryColor": "#00ff11",
     "secondaryColor": "#16731c",
     "primaryLanguage": "es-EN",
