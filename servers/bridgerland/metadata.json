@@ -6,6 +6,8 @@
     "addresses": [
         "bridger.land"
     ],
+    "primaryColor": "#f7b204",
+    "secondaryColor": "#9c451f",
     "primaryAddress": "bridger.land",
     "socials": {
         "twitter": "Bridger_Land",

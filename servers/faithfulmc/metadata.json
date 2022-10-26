@@ -4,5 +4,7 @@
     "addresses": [
         "faithfulhcf.com",
         "faithfulmc.com"
-    ]
+    ],
+    "primaryColor": "#d8ab7efe",
+    "secondaryColor": "#38353afe"
 }

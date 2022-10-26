@@ -6,6 +6,8 @@
     "addresses": [
         "stratus.network"
     ],
+    "primaryColor": "#6389cb",
+    "secondaryColor": "#3246a2",
     "socials": {
         "twitter": "stratusmc",
         "discord": "https://discord.com/invite/Aaf9hTr",

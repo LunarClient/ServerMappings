@@ -6,6 +6,8 @@
     "addresses": [
         "virtualhit.es"
     ],
+    "primaryColor": "#f8ecfdfb",
+    "secondaryColor": "#083467",
     "socials": {
         "twitter": "VirtualHitES",
         "discord": "https://discord.com/invite/virtualhit",

@@ -3,5 +3,7 @@
     "name": "Arcane Network",
     "addresses": [
         "arcane.cc"
-    ]
+    ],
+    "primaryColor": "#b941fb",
+    "secondaryColor": "#626071"
 }

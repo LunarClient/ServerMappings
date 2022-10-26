@@ -5,6 +5,8 @@
     "addresses": [
         "sololegends.net"
     ],
+    "primaryColor": "#eeeeeffd",
+    "secondaryColor": "#23346c",
     "socials": {
         "twitter": "sololegendsnet",
         "discord": "https://discord.com/invite/sololegends"

@@ -3,5 +3,7 @@
     "name": "MineJunkie",
     "addresses": [
         "minejunkie.com"
-    ]
+    ],
+    "primaryColor": "#cd1404",
+    "secondaryColor": "#26161efe"
 }

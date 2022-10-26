@@ -20,6 +20,8 @@
     "regions": [
         "NA"
     ],
+    "primaryColor": "#553c22fd",
+    "secondaryColor": "#c1c1c0f9",
     "socials": {
         "twitter": "ShotbowNetwork",
         "discord": "https://discord.com/invite/shotbow",

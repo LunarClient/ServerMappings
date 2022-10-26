@@ -6,6 +6,8 @@
     "addresses": [
         "blurkit.net"
     ],
+    "primaryColor": "#dda003fc",
+    "secondaryColor": "#cf937ffb",
     "socials": {
         "twitter": "BlurkitNetwork",
         "discord": "https://discord.com/invite/rjS49gQ",

@@ -7,6 +7,8 @@
         "pandakmc.fr"
     ],
     "primaryAddress": "play.pandakmc.fr",
+    "primaryColor": "#569a36fc",
+    "secondaryColor": "#ededf0fd",
     "socials": {
         "discord": "https://discord.com/invite/pandakmc"
     }

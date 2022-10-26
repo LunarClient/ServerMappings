@@ -5,6 +5,8 @@
         "awitamc.net"
     ],
     "primaryAddress": "play.awitamc.net",
+    "primaryColor": "#00b2bd",
+    "secondaryColor": "#00e1cc",
     "minecraftVersions": [
         "1.12",
         "1.16",

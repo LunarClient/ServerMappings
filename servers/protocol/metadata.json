@@ -3,5 +3,7 @@
     "name": "Protocol Network",
     "addresses": [
         "protocol.rip"
-    ]
+    ],
+    "primaryColor": "#f3a034",
+    "secondaryColor": "#4c3f33"
 }

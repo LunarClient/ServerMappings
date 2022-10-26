@@ -16,6 +16,8 @@
         "1.19"
     ],
     "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#fcad05",
+    "secondaryColor": "#062f5dfd",
     "socials": {
         "twitter": "PlayMinecadia",
         "discord": "https://discord.com/invite/minecadia"

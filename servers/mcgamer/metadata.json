@@ -3,5 +3,7 @@
     "name": "MCGamer",
     "addresses": [
         "mcgamer.net"
-    ]
+    ],
+    "primaryColor": "#fdb903fe",
+    "secondaryColor": "#5c3217fb"
 }

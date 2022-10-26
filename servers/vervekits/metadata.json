@@ -7,6 +7,8 @@
         "verve.rip"
     ],
     "primaryAddress": "na.verve.rip",
+    "primaryColor": "#75a2be",
+    "secondaryColor": "#1b211e",
     "socials": {
         "discord": "https://discord.com/invite/jnEHvFPaNJ"
     }

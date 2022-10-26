@@ -5,6 +5,8 @@
     "addresses": [
         "hazelmc.com"
     ],
+    "primaryColor": "#f8f9f9fe",
+    "secondaryColor": "#032d5d",
     "socials": {
         "twitter": "hazelmcnetwork"
     }

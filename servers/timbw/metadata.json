@@ -5,5 +5,7 @@
     "addresses": [
         "timbw.xyz"
     ],
-    "primaryAddress": "mc.timbw.xyz"
+    "primaryAddress": "mc.timbw.xyz",
+    "primaryColor": "#db2914fe",
+    "secondaryColor": "#db2914fe"
 }

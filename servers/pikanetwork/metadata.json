@@ -7,6 +7,8 @@
         "pika-network.net"
     ],
     "primaryAddress": "pika-network.net",
+    "primaryColor": "#d2d42dfe",
+    "secondaryColor": "#b83d18",
     "socials": {
         "twitter": "PikaNetworkMC",
         "discord": "https://discord.com/invite/eAVpTEy",

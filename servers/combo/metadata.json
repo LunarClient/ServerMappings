@@ -3,5 +3,7 @@
     "name": "Combo Network",
     "addresses": [
         "combo.rip"
-    ]
+    ],
+    "primaryColor": "#1e8de3fe",
+    "secondaryColor": "#114f87"
 }

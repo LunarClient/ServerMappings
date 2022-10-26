@@ -6,6 +6,8 @@
     "addresses": [
         "nasgar.online"
     ],
+    "primaryColor": "#1c81adfd",
+    "secondaryColor": "#fdb23ef4",
     "socials": {
         "twitter": "nasgarnetwork",
         "discord": "https://discord.com/invite/68FrwtW",

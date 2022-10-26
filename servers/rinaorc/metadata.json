@@ -6,6 +6,8 @@
     "addresses": [
         "rinaorc.com"
     ],
+    "primaryColor": "#e9bb12",
+    "secondaryColor": "#8c4b24fe",
     "socials": {
         "twitter": "rinaorc",
         "discord": "https://discord.com/invite/vXYXrGk",

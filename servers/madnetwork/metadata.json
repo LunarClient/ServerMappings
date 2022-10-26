@@ -3,5 +3,7 @@
     "name": "MadNetwork",
     "addresses": [
         "madnetwork.club"
-    ]
+    ],
+    "primaryColor": "#d72f33fe",
+    "secondaryColor": "#110a0afe"
 }

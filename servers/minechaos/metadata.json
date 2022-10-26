@@ -3,5 +3,7 @@
     "name": "MineChaos",
     "addresses": [
         "minechaos.eu"
-    ]
+    ],
+    "primaryColor": "#de908ffb",
+    "secondaryColor": "#7f7d7d"
 }

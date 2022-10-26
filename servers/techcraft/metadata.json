@@ -6,6 +6,8 @@
     "addresses": [
         "techcraftmc.com"
     ],
+    "primaryColor": "#00000000",
+    "secondaryColor": "#fefefe",
     "socials": {
         "twitter": "techcraftmc",
         "discord": "https://discord.com/invite/an6SfqC"

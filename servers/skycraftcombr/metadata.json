@@ -6,6 +6,8 @@
         "skycraft.com.br"
     ],
     "primaryAddress": "mc.skycraft.com.br",
+    "primaryColor": "#e29c00fd",
+    "secondaryColor": "#00a9bdfc",
     "socials": {
         "twitter": "networkskycraft",
         "youtube": "UC9AAU7H_yhc_IlyeIP0jJBA",

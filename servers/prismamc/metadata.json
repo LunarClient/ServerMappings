@@ -5,6 +5,8 @@
     "addresses": [
         "prismamc.net"
     ],
+    "primaryColor": "#c9f5f7",
+    "secondaryColor": "#f1ac33",
     "socials": {
         "twitter": "PrismaMCNW",
         "discord": "https://discord.com/invite/yesGKfpkFa"

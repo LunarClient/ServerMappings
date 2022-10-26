@@ -6,6 +6,8 @@
     "addresses": [
         "erisium.com"
     ],
+    "primaryColor": "#9332f5",
+    "secondaryColor": "#110e2efe",
     "socials": {
         "twitter": "Erisium",
         "discord": "https://discord.com/invite/cRJckZc",

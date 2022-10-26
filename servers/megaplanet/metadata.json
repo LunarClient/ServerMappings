@@ -7,6 +7,8 @@
         "megaplanet.net"
     ],
     "primaryAddress": "mc.megaplanet.net",
+    "primaryColor": "#fdfdfb",
+    "secondaryColor": "#0f3935fb",
     "socials": {
         "twitter": "ServeMegaPlanet",
         "discord": "https://discord.com/invite/2jRDxt6YcT",

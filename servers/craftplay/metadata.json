@@ -5,6 +5,8 @@
     "addresses": [
         "craftplay.pl"
     ],
+    "primaryColor": "#fab850fd",
+    "secondaryColor": "#141d34fe",
     "socials": {
         "discord": "https://discord.com/invite/RR3QJju",
         "facebook": "CraftPlaypl"

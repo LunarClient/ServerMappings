@@ -7,6 +7,8 @@
         "minehut.com",
         "minehut.gg"
     ],
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff",
     "socials": {
         "twitter": "minehutmc",
         "discord": "https://discord.com/invite/minehut",

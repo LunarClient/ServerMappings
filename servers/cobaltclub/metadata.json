@@ -5,6 +5,8 @@
     "addresses": [
         "cobalt.club"
     ],
+    "primaryColor": "#0047ab",
+    "secondaryColor": "#0047ab",
     "socials": {
         "twitter": "CobaltClubMC",
         "discord": "https://discord.com/invite/fwJRACwPgB",

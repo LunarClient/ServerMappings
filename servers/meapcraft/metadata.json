@@ -11,6 +11,8 @@
         "1.19"
     ],
     "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#6e2a69",
+    "secondaryColor": "#fcdb7f",
     "socials": {
         "discord": "https://discord.com/invite/CnqeBsuyMF",
         "youtube": "UCVCLjrFzLvaYQWb6tcaPbGw"

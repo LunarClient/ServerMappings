@@ -3,5 +3,7 @@
     "name": "ChillCenter",
     "addresses": [
         "chillcenter.cc"
-    ]
+    ],
+    "primaryColor": "#ef91a8fe",
+    "secondaryColor": "#aec2fa"
 }

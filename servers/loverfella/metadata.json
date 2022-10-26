@@ -7,6 +7,8 @@
         "loverfella.com"
     ],
     "primaryAddress": "play.loverfella.com",
+    "primaryColor": "#cd2127fe",
+    "secondaryColor": "#e91e27fd",
     "socials": {
         "twitter": "loverfellatv",
         "discord": "https://discord.com/invite/loverfam",

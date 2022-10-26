@@ -5,6 +5,8 @@
     "addresses": [
         "crotus.cc"
     ],
+    "primaryColor": "#56c56afe",
+    "secondaryColor": "#121212",
     "socials": {
         "twitter": "CrotusCC",
         "discord": "https://discord.com/invite/FFJEkGZ"

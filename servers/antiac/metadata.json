@@ -6,6 +6,8 @@
     "addresses": [
         "antiac.net"
     ],
+    "primaryColor": "#fee503",
+    "secondaryColor": "#fc7103",
     "socials": {
         "twitter": "AntiACnet",
         "discord": "https://discord.com/invite/q2uA4HP"

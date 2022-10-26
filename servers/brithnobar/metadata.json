@@ -3,5 +3,7 @@
     "name": "Brithnobar",
     "addresses": [
         "brithnobar.com"
-    ]
+    ],
+    "primaryColor": "#b92153f4",
+    "secondaryColor": "#f8b74bee"
 }

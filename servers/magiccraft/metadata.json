@@ -7,6 +7,8 @@
         "magiccraft.fr"
     ],
     "primaryAddress": "mc.magiccraft.fr",
+    "primaryColor": "#fec430fe",
+    "secondaryColor": "#9c7b0bf2",
     "socials": {
         "twitter": "MagicCraftFR",
         "discord": "https://discord.com/invite/rwCsNU5",

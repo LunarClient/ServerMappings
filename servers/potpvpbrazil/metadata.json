@@ -3,5 +3,7 @@
     "name": "PotPvP Brazil",
     "addresses": [
         "potpvp.com.br"
-    ]
+    ],
+    "primaryColor": "#4e1413fe",
+    "secondaryColor": "#b69d9afa"
 }

@@ -3,5 +3,7 @@
     "name": "Menastro Network",
     "addresses": [
         "menastro.gg"
-    ]
+    ],
+    "primaryColor": "#10abbcf8",
+    "secondaryColor": "#4e5050fe"
 }

@@ -12,5 +12,7 @@
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.19"
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#4e1b79",
+    "secondaryColor": "#0b0a11f5"
 }

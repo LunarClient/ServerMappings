@@ -8,6 +8,8 @@
         "coldpvp.com"
     ],
     "primaryAddress": "play.coldnetwork.net",
+    "primaryColor": "#0da1de",
+    "secondaryColor": "#081723fd",
     "socials": {
         "twitter": "coldnetworknet",
         "discord": "https://discord.com/invite/NX9U5ZR",

@@ -4,5 +4,7 @@
     "store": "https://store.dropthem.eu/",
     "addresses": [
         "dropthem.eu"
-    ]
+    ],
+    "primaryColor": "#0666affb",
+    "secondaryColor": "#000000"
 }

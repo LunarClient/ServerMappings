@@ -6,6 +6,8 @@
     "addresses": [
         "ultimismc.com"
     ],
+    "primaryColor": "#01d5d9fe",
+    "secondaryColor": "#9e9e9d",
     "socials": {
         "twitter": "ultimismc",
         "discord": "https://discord.com/invite/ultimismc",

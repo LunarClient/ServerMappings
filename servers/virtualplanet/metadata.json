@@ -6,6 +6,8 @@
         "virtualplanet.es"
     ],
     "primaryAddress": "mc.virtualplanet.es",
+    "primaryColor": "#f1db81",
+    "secondaryColor": "#d57d47",
     "socials": {
         "twitter": "VirtualPlanetNT",
         "discord": "https://discord.com/invite/fwPuWPw"

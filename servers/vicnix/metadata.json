@@ -7,6 +7,8 @@
         "onlymc.us"
     ],
     "primaryAddress": "mc.vicnix.net",
+    "primaryColor": "#83b326fd",
+    "secondaryColor": "#85c606fe",
     "socials": {
         "twitter": "VicnixNet",
         "discord": "https://discord.com/invite/PNQUgPSH4R",

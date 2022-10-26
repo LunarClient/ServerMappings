@@ -3,5 +3,7 @@
     "name": "Aplaxy Network",
     "addresses": [
         "aplaxy.net"
-    ]
+    ],
+    "primaryColor": "#d89917fe",
+    "secondaryColor": "#b30909"
 }

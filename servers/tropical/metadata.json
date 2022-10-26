@@ -3,5 +3,7 @@
     "name": "Tropical",
     "addresses": [
         "tropical.gg"
-    ]
+    ],
+    "primaryColor": "#59a933fe",
+    "secondaryColor": "#d4920afe"
 }

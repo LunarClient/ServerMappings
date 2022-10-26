@@ -7,6 +7,8 @@
         "freakyville.net"
     ],
     "primaryAddress": "mc.freakyville.net",
+    "primaryColor": "#fdc713",
+    "secondaryColor": "#aa5c16",
     "socials": {
         "twitter": "FreakyVilleMC",
         "discord": "https://discord.com/invite/qf6F6Zz",

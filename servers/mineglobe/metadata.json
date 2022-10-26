@@ -7,6 +7,8 @@
         "mineglobe.org"
     ],
     "primaryAddress": "play.mineglobe.org",
+    "primaryColor": "#f0a134fe",
+    "secondaryColor": "#64daccfe",
     "socials": {
         "twitter": "MineGlobe",
         "discord": "https://discord.com/invite/mineglobe",

@@ -6,6 +6,8 @@
     "addresses": [
         "quut.io"
     ],
+    "primaryColor": "#418dcc",
+    "secondaryColor": "#2f529e",
     "socials": {
         "discord": "https://discord.com/invite/RkEMPGukVn"
     }

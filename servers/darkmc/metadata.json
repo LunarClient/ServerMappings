@@ -3,5 +3,7 @@
     "name": "DarkMC Network",
     "addresses": [
         "dark-mc.xyz"
-    ]
+    ],
+    "primaryColor": "#682275fe",
+    "secondaryColor": "#130f13fe"
 }

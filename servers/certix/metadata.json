@@ -6,6 +6,8 @@
     "addresses": [
         "certix.cc"
     ],
+    "primaryColor": "#695babfd",
+    "secondaryColor": "#020104",
     "socials": {
         "twitter": "certixcc",
         "discord": "https://discord.com/invite/DFu6mey"

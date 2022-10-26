@@ -21,6 +21,8 @@
     "regions": [
         "NA"
     ],
+    "primaryColor": "#9638b5ee",
+    "secondaryColor": "#e8beccea",
     "socials": {
         "twitter": "opblocks",
         "discord": "https://discord.com/invite/tXPUtSPTMN",

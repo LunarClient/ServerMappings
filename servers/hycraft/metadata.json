@@ -7,6 +7,8 @@
         "hycraft.us"
     ],
     "primaryAddress": "mc.hycraft.us",
+    "primaryColor": "#2f7cdb",
+    "secondaryColor": "#e9aa65",
     "socials": {
         "twitter": "hycraftnw",
         "discord": "https://discord.com/invite/hycraft",
