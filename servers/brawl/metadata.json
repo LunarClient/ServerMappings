@@ -15,8 +15,8 @@
         "mc-warz.com",
         "minecraftbuild.com"
     ],
-    "primaryColor": "FBB306",
-    "secondaryColor": "1A1A1A",
+    "primaryColor": "#FBB306",
+    "secondaryColor": "#1A1A1A",
     "socials": {
         "twitter": "BrawlGames",
         "youtube": "minecraftpvp",
