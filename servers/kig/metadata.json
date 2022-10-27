@@ -8,6 +8,8 @@
         "hive.rip",
         "cai.rip"
     ],
+    "primaryColor": "#0b173d",
+    "secondaryColor": "#d0a003",
     "socials": {
         "twitter": "kignetwork",
         "discord": "https://discord.com/invite/gYJaRRV",

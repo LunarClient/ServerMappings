@@ -6,6 +6,8 @@
         "uhchub.club",
         "uhchub.eu"
     ],
+    "primaryColor": "#fabf16",
+    "secondaryColor": "#5b8f20",
     "socials": {
         "twitter": "ContrumORG",
         "discord": "https://discord.com/invite/9b8Ga2YVbK",

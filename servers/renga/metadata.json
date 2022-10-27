@@ -3,5 +3,7 @@
     "name": "Renga Network",
     "addresses": [
         "realren.ga"
-    ]
+    ],
+    "primaryColor": "#bb1939",
+    "secondaryColor": "#0e0317"
 }

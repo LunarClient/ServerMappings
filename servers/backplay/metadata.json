@@ -7,6 +7,8 @@
         "backplay.net"
     ],
     "primaryAddress": "eu.backplay.net",
+    "primaryColor": "#01cee5",
+    "secondaryColor": "#161b1d",
     "socials": {
         "twitter": "BackPlayNetwork",
         "discord": "https://discord.com/invite/FfRZaU2",

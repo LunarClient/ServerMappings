@@ -3,5 +3,7 @@
     "name": "Revenge Network",
     "addresses": [
         "revenge.cc"
-    ]
+    ],
+    "primaryColor": "#487c5e",
+    "secondaryColor": "#c7d2d4"
 }

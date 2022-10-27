@@ -8,6 +8,8 @@
         "zqat.top"
     ],
     "primaryAddress": "accentry.cn",
+    "primaryColor": "#eb6eb0",
+    "secondaryColor": "#889cdc",
     "minecraftVersions": [
         "1.8",
         "1.12",

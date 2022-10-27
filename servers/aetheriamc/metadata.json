@@ -4,5 +4,8 @@
     "addresses": [
         "aetheria.world",
         "aetheriamc.xyz"
-    ]
+    ],
+    "primaryColor": "#f8100c",
+    "secondaryColor": "#3aebef"
+    
 }

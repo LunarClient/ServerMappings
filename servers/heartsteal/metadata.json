@@ -6,6 +6,8 @@
         "heartsteal.net"
     ],
     "primaryAddress": "heartsteal.net",
+    "primaryColor": "#39c2e6",
+    "secondaryColor": "#ab28cc",
     "minecraftVersions": [
         "1.19"
     ],

@@ -6,6 +6,8 @@
     "addresses": [
         "bridgepractice.net"
     ],
+    "primaryColor": "#00b6f6",
+    "secondaryColor": "#e33609",
     "socials": {
         "twitter": "BridgePractice1",
         "discord": "https://discord.com/invite/kwBWv6gyj3",

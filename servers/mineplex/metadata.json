@@ -7,6 +7,8 @@
         "mineplex.com"
     ],
     "primaryAddress": "mineplex.com",
+    "primaryColor": "#ee9f0b",
+    "secondaryColor": "#2a292b",
     "socials": {
         "twitter": "mineplex",
         "discord": "https://discord.com/invite/uv7hBwx",

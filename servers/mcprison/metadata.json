@@ -5,6 +5,8 @@
     "addresses": [
         "mcprison.com"
     ],
+    "primaryColor": "#e99b24",
+    "secondaryColor": "#b6b6b6",
     "socials": {
         "discord": "https://discord.com/invite/mchub"
     }

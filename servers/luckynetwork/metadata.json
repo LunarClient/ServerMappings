@@ -6,8 +6,9 @@
     "addresses": [
         "luckynetwork.net"
     ],
+    "primaryColor": "#cf9541",
+    "secondaryColor": "#1a0524",
     "socials": {
-        "twitter": "",
         "discord": "https://discord.com/invite/luckynetwork",
         "youtube": "UCmQk50LLBSeLDe6RA8SpEcA",
         "instagram": "luckynetwork"

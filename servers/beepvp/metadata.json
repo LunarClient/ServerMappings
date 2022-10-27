@@ -3,5 +3,7 @@
     "name": "Bee PVP",
     "addresses": [
         "beepvp.com"
-    ]
+    ],
+    "primaryColor": "#b89647",
+    "secondaryColor": "#52311b"
 }

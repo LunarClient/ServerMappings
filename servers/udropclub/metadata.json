@@ -6,6 +6,8 @@
     "addresses": [
         "udrop.club"
     ],
+    "primaryColor": "#ffa314",
+    "secondaryColor": "#dededd",
     "socials": {
         "twitter": "udropnetwork",
         "discord": "https://discord.com/invite/Cg2nhUVS7C"

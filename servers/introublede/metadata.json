@@ -6,6 +6,8 @@
     "addresses": [
         "introuble.de"
     ],
+    "primaryColor": "#fca800",
+    "secondaryColor": "#732700",
     "socials": {
         "twitter": "InTroubleDE",
         "discord": "https://discord.com/invite/introuble",

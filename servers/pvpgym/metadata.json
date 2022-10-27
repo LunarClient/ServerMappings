@@ -6,6 +6,8 @@
     "addresses": [
         "pvpgym.net"
     ],
+    "primaryColor": "#02999c",
+    "secondaryColor": "#0d0604",
     "socials": {
         "twitter": "PvpGymOfficial",
         "discord": "https://discord.com/invite/CWkq9XgQXB",

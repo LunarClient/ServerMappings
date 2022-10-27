@@ -16,6 +16,8 @@
     "regions": [
         "NA"
     ],
+    "primaryColor": "#660e84",
+    "secondaryColor": "#4787d3",
     "socials": {
         "twitter": "playmineclub",
         "discord": "https://discord.com/invite/mineclub",

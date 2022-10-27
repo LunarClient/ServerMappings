@@ -6,6 +6,8 @@
     "addresses": [
         "kantay.cc"
     ],
+    "primaryColor": "#44b7fd",
+    "secondaryColor": "#191919",
     "socials": {
         "twitter": "KantayCC",
         "discord": "https://discord.com/invite/EKSjMKKy7n"

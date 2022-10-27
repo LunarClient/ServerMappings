@@ -21,6 +21,8 @@
     "regions": [
         "NA"
     ],
+    "primaryColor": "#e3b34a",
+    "secondaryColor": "#1a1c20",
     "socials": {
         "twitter": "_mccentral",
         "discord": "https://discord.com/invite/9jzwQDQ",

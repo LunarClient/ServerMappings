@@ -4,5 +4,7 @@
     "store": "https://store.nightlymc.com/",
     "addresses": [
         "nightlymc.com"
-    ]
+    ],
+    "primaryColor": "#c08413",
+    "secondaryColor": "#102160"
 }

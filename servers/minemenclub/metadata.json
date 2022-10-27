@@ -18,6 +18,8 @@
         "1.8"
     ],
     "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#e911e5",
+    "secondaryColor": "#fffeff",
     "socials": {
         "twitter": "minemen_network",
         "discord": "https://discord.com/invite/4gfk48gv9z",

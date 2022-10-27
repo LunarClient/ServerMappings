@@ -16,5 +16,7 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "primaryColor": "#0392c5",
+    "secondaryColor": "#a2a1a3"
 }

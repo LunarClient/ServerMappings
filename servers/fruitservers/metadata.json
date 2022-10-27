@@ -7,6 +7,8 @@
         "fruitservers.net"
     ],
     "primaryAddress": "mc.fruitservers.net",
+    "primaryColor": "#271e13",
+    "secondaryColor": "#c3ac2d",
     "socials": {
         "twitter": "FruitServers",
         "discord": "https://discord.com/invite/fruitservers",

@@ -3,5 +3,7 @@
     "name": "WarfareMC.eu",
     "addresses": [
         "warfaremc.eu"
-    ]
+    ],
+    "primaryColor": "#a0cde3",
+    "secondaryColor": "#3d4b5b"
 }

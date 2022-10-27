@@ -11,6 +11,8 @@
         "1.19"
     ],
     "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#f88e02",
+    "secondaryColor": "#21aded",
     "socials": {
         "twitter": "TubNet",
         "discord": "https://discord.com/invite/tubnet",

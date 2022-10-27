@@ -6,6 +6,8 @@
     "addresses": [
         "goldenuhc.eu"
     ],
+    "primaryColor": "#c72c28",
+    "secondaryColor": "#dcaa28",
     "socials": {
         "twitter": "Golden_UHC",
         "discord": "https://discord.com/invite/goldenuhc"

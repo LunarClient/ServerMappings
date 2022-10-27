@@ -3,5 +3,7 @@
     "name": "MythicalMC Network",
     "addresses": [
         "mythicalmc.org"
-    ]
+    ],
+    "primaryColor": "#4d391e",
+    "secondaryColor": "#efd8ae"
 }

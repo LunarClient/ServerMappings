@@ -3,5 +3,7 @@
     "name": "PatetaMC",
     "addresses": [
         "pateta.online"
-    ]
+    ],
+    "primaryColor": "#da8f57",
+    "secondaryColor": "#0c0909"
 }

@@ -3,5 +3,7 @@
     "name": "TeamFight Network",
     "addresses": [
         "teamfight.cc"
-    ]
+    ],
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff"
 }

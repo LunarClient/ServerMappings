@@ -8,6 +8,8 @@
         "rbw.world"
     ],
     "primaryAddress": "play.glory-network.com",
+    "primaryColor": "#c59326",
+    "secondaryColor": "#3be6ed",
     "socials": {
         "discord": "https://discord.com/invite/tUqdWEUVvx"
     }

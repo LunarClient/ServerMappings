@@ -6,6 +6,8 @@
         "harlonserver.net"
     ],
     "primaryAddress": "play.harlonserver.net",
+    "primaryColor": "#06b10e",
+    "secondaryColor": "#06b10e",
     "socials": {
         "twitter": "HarlonServer",
         "discord": "https://discord.com/invite/qMmk8MuEBz",

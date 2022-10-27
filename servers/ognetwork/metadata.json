@@ -7,6 +7,8 @@
         "og-network.net",
         "og-sg.net"
     ],
+    "primaryColor": "#65bf75",
+    "secondaryColor": "#cccccb",
     "socials": {
         "twitter": "playognetwork",
         "discord": "https://discord.com/invite/UFDP3QXq5H"

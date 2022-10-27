@@ -7,6 +7,8 @@
         "wynncraft.com"
     ],
     "primaryAddress": "play.wynncraft.com",
+    "primaryColor": "#b0b46c",
+    "secondaryColor": "#463d2b",
     "socials": {
         "twitter": "Wynncraft",
         "discord": "https://discord.com/invite/yJkSQwp",

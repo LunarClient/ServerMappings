@@ -3,5 +3,7 @@
     "name": "MineArcade",
     "addresses": [
         "minearcade.org"
-    ]
+    ],
+    "primaryColor": "#f9f9f9",
+    "secondaryColor": "#333534"
 }

@@ -5,6 +5,8 @@
     "addresses": [
         "greev.eu"
     ],
+    "primaryColor": "#65AC67",
+    "secondaryColor": "#5F8A60",
     "socials": {
         "twitter": "Greeveu",
         "discord": "https://discord.com/invite/taAbPpq",

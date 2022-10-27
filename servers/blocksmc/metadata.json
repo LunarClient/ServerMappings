@@ -6,6 +6,8 @@
     "addresses": [
         "blocksmc.com"
     ],
+    "primaryColor": "#048acb",
+    "secondaryColor": "#394047",
     "socials": {
         "discord": "https://discord.com/invite/rDxUS57",
         "instagram": "BlocksMC"

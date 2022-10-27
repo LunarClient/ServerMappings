@@ -4,5 +4,7 @@
     "addresses": [
         "ausheroes.net",
         "mythic.gg"
-    ]
+    ],
+    "primaryColor": "#921afc",
+    "secondaryColor": "#190b26"
 }

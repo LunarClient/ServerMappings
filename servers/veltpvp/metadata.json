@@ -3,5 +3,7 @@
     "name": "VeltPvP",
     "addresses": [
         "veltpvp.com"
-    ]
+    ],
+    "primaryColor": "#343f9f",
+    "secondaryColor": "#8c2121"
 }

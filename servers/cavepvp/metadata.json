@@ -6,6 +6,8 @@
     "addresses": [
         "cavepvp.org"
     ],
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
     "socials": {
         "twitter": "CavePvPorg",
         "discord": "https://discord.com/invite/cavepvp",

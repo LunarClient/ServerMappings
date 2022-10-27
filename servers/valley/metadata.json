@@ -3,5 +3,7 @@
     "name": "Valley Network",
     "addresses": [
         "valleypvp.us"
-    ]
+    ],
+    "primaryColor": "#fa69b8",
+    "secondaryColor": "#00ca01"
 }

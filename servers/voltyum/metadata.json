@@ -7,6 +7,8 @@
         "voltyum.net"
     ],
     "primaryAddress": "mc.voltyum.net",
+    "primaryColor": "#e4cc33",
+    "secondaryColor": "#2b1301",
     "socials": {
         "twitter": "voltyum",
         "discord": "https://discord.com/invite/U3EwyX6Fmr"

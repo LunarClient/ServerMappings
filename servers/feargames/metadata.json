@@ -6,6 +6,8 @@
     "addresses": [
         "feargames.it"
     ],
+    "primaryColor": "#e3e5e5",
+    "secondaryColor": "#492b28",
     "socials": {
         "twitter": "",
         "discord": "https://discord.com/invite/yZ6FnK8",

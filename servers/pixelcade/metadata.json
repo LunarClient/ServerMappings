@@ -6,5 +6,7 @@
     "addresses": [
         "pixelcade.net"
     ],
-    "primaryAddress": "play.pixelcade.net"
+    "primaryAddress": "play.pixelcade.net",
+    "primaryColor": "#c53d4e",
+    "secondaryColor": "#844ad4"
 }

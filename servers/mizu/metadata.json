@@ -9,5 +9,7 @@
         "1.7",
         "1.8"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#e6be1e",
+    "secondaryColor": "#5c1b1b"
 }

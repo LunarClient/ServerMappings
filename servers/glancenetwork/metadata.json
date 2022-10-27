@@ -3,5 +3,7 @@
     "name": "Glance Network",
     "addresses": [
         "glance.top"
-    ]
+    ],
+    "primaryColor": "#2d2d2d",
+    "secondaryColor": "#2d2d2d"
 }

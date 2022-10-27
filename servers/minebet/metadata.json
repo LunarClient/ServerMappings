@@ -3,5 +3,7 @@
     "name": "MineBet",
     "addresses": [
         "minebet.net"
-    ]
+    ],
+    "primaryColor": "#43a047",
+    "secondaryColor": "#ffffff"
 }
