@@ -7,8 +7,8 @@
         "exaltedmc.club"
     ],
     "primaryAddress": "eu.exaltedmc.club",
-    "primaryColor": "#35cd30fe",
-    "secondaryColor": "#077006fe",
+    "primaryColor": "#35cd30",
+    "secondaryColor": "#077006",
     "minecraftVersions": [
         "1.7",
         "1.8",
