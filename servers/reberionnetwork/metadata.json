@@ -5,8 +5,7 @@
     "store": "https://reberion-webshop.tebex.io/",
     "description": "Home of Competitive Minecraft Survival Games",
     "addresses": [
-        "eu.reberion.com",
-        "tr.reberion.com",
+        "reberion.com",
         "reberion.eu"
     ],
     "primaryAddress": "eu.reberion.com",
@@ -20,13 +19,12 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-		"tr"
+	"tr"
     ],
     "primaryRegion": "EU",
     "regions": [
         "EU",
-        "US",
-        "TR"
+        "NA"
     ],
     "gameTypes": [
         "PvP"
