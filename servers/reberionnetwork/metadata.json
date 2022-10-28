@@ -1,0 +1,36 @@
+{
+    "id": "reberionnetwork",
+    "name": "Reberion Network",
+    "website": "https://www.reberion.com",
+    "store": "https://reberion-webshop.tebex.io/",
+    "description": "Home of Competitive Minecraft Survival Games",
+    "addresses": [
+        "reberion.com",
+        "reberion.eu"
+    ],
+    "primaryAddress": "eu.reberion.com",
+    "minecraftVersions": [
+        "1.7",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#d01e1e",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+	"tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ReberionFeeds",
+        "discord": "https://discord.gg/DN2f3kWUkF"
+    }
+}
