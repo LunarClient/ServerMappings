@@ -21,8 +21,6 @@
     "NA"
   ],
   "gameTypes": [
-    "PvP",
-    "Practice",
-    "PotSG"
-    ]
+    "PvP"
+  ]
 }
