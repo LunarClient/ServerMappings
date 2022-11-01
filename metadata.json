@@ -1,34 +1,50 @@
 {
-    "id": "gamestarted",
-    "name": "GameStarted",
-    "store": "https://gamestarted.tebex.io/",
+    "id": "hyfelia",
+    "name": "Hyfelia",
+    "description": "Hyfelia.",
     "addresses": [
-        "game-started.it"
+        "hyfelia.com"
     ],
-    "primaryAddress": "mc.game-started.it",
+    "primaryAddress": "play.hyfelia.com",
     "minecraftVersions": [
         "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
         "1.12",
+        "1.13",
+        "1.14",
+        "1.15",
         "1.16",
+        "1.17",
+        "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.19",
-    "primaryColor": "#297b91",
-    "secondaryColor": "#066078",
+    "primaryMinecraftVersion": "1.17",
+    "primaryColor": "#914ad9",
+    "secondaryColor": "#ffffff",
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
     "gameTypes": [
         "PvP",
+        "Survival",
         "Factions"
     ],
+    "website": "https://www.hyfelia.com",
+    "store": "https://store.hyfelia.com",
     "socials": {
-        "discord": "https://discord.gg/gamestarted",
-        "telegram": "gamestartedinfo"
+        "twitter": "HyfeliaNetwork",
+        "telegram": "Hyfelia",
+        "discord": "https://discord.hyfelia.com"
     }
 }
