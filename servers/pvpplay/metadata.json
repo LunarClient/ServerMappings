@@ -1,0 +1,15 @@
+{
+    "id": "pvpplay",
+    "name": "PvPPlay",
+    "website": "http://pvpplay.pl/",
+    "store": "https://pvpplay.pl/",
+    "addresses": [
+        "pvpplay.pl"
+    ],
+    "primaryAddress": "pvpplay.pl",
+    "primaryColor": "#8f00ff",
+    "secondaryColor": "#a5bdf5",
+    "socials": {
+        "discord": "https://dc.pvpplay.pl/"
+    }
+}
