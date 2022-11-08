@@ -1,13 +1,28 @@
 {
-    "id": "irlchase.pw",
+    "id": "irlchase",
     "name": "IRLChase Network",
-    "website": "https://www.irlchase.pw",
+    "description": "Events, Survival, and more",
     "addresses": [
         "irlchase.pw"
     ],
+    "primaryAddress": "irlchase.pw",
+    "minecraftVersions": [
+        "1.8",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8",
     "primaryColor": "#a020f0",
-    "secondaryColor": "#ffffff"
-    "socials": {
-        "twitter": "lmaoredstone"
-    }
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+	],
 }
