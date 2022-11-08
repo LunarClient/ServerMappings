@@ -1,9 +1,13 @@
 {
-    "id": "irlchase",
+    "id": "irlchase.pw",
     "name": "IRLChase Network",
+    "website": "https://www.irlchase.pw",
     "addresses": [
         "irlchase.pw"
     ],
     "primaryColor": "#a020f0",
     "secondaryColor": "#ffffff"
+    "socials": {
+        "twitter": "lmaoredstone"
+    }
 }
