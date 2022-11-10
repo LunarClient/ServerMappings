@@ -1,0 +1,32 @@
+{
+    "id": "pvpplay",
+    "name": "PvPPlay",
+    "description": "Practice server",
+    "addresses": [
+        "pvpplay.pl",
+        "wywrotkamc.pl",
+    ],
+    "primaryAddress": "pvpplay.pl",
+    "minecraftVersions": [
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#be03fc",
+    "secondaryColor": "##f0e9f2",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+    ],
+    "gameTypes": [
+        "Practice"
+    ],
+    "website": "https://www.pvpplay.pl",
+    "store": "https://www.pvpplay.pl",
+    "socials": {
+        "discord": "https://discord.com/invite/Am4sfS2f28"
+    }
+}
