@@ -4,7 +4,7 @@
     "description": "Practice server",
     "addresses": [
         "pvpplay.pl",
-        "wywrotkamc.pl",
+        "wywrotkamc.pl"
     ],
     "primaryAddress": "pvpplay.pl",
     "minecraftVersions": [
@@ -19,7 +19,7 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "Practice"
