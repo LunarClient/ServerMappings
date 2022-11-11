@@ -1,7 +1,6 @@
 {
     "id": "pvpplay",
     "name": "PvPPlay",
-    "description": "Practice server",
     "addresses": [
         "pvpplay.pl",
         "wywrotkamc.pl"
