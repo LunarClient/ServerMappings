@@ -21,14 +21,14 @@ def main():
     with open(args.inactive_file) as inactive_file_file:
         inactive_file = json.load(inactive_file_file)
 
-    print(f'Validating inactive.json file...')
+    print('Validating inactive.json file...')
 
     try:
         jsonschema.validate(instance=inactive_file, schema=inactive_schema)
     except jsonschema.ValidationError:
         raise ValueError('inactive.json does not match the schema.')
 
-    print(f'Successfully validated inactive.json file!')
+    print('Successfully validated inactive.json file!')
 
     # Load server mappings Schema
     metadata_schema = {}
@@ -43,7 +43,10 @@ def main():
 
         # Open metadata.json
         with open(f"{args.servers_dir}/{server_id}/metadata.json") as server_file:
-            server = json.load(server_file)
+            try:
+                server = json.load(server_file)
+            except json.decoder.JSONDecodeError:
+                raise ValueError(f'{server_id}\'s metadata.json is malfored, please ensure it is valid json.')
 
         print(f'Validating {server_id}\'s metadata.json file...')
 
