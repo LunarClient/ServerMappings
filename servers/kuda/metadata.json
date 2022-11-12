@@ -1,0 +1,13 @@
+{
+    "id": "kuda",
+    "name": "Kuda",
+    "store": "https://store.kuda.rip/",
+    "addresses": [
+        "kuda.rip"
+    ],
+    "primaryColor": "#2750d8",
+    "secondaryColor": "#c5b727",
+    "socials": {
+        "discord": "https://discord.kuda.rip",
+    }
+}
