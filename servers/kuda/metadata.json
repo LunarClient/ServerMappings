@@ -1,0 +1,30 @@
+{
+    "id": "kuda",
+    "name": "Kuda",
+    "addresses": [
+        "kuda.rip"
+    ],
+    "primaryAddress": "kuda.rip",
+    "minecraftVersions": [
+        "1.7",
+		"1.8"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#2750d8",
+    "secondaryColor": "#c5b727",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.kuda.rip",
+    "socials": {
+        "discord": "https://discord.com/invite/ETKyHNHcpp"
+    }
+}
