@@ -10,6 +10,7 @@
     ],
     "primaryAddress": "play.coralmc.it",
     "minecraftVersions": [
+        "1.7",
         "1.8",
         "1.12",
         "1.16",
@@ -35,6 +36,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/MGW42TXHBd",
-        "telegram": "CoralMC"
+        "instagram" : "coralmc.it",
+        "telegram": "CoralMC",
+        "tiktok" : "coralmc.it"
     }
 }
