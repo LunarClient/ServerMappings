@@ -1,0 +1,40 @@
+{
+    "id": "hylers",
+    "name": "Hylers Network",
+    "description": "Tratamos de dar la mejor experiencia y crear minijuegos únicos",
+    "addresses": [
+        "hylers.us"
+    ],
+    "primaryAddress": "mc.hylers.us",
+    "minecraftVersions": [
+        "1.8",
+        "1.12",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#d28500",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+    ],
+    "gameTypes": [
+        "SkyWars"
+        "KnocBackFFA"
+        "BedWars"
+        "Survival"
+    ],
+    "website": "https://hylers.us/",
+    "store": "https://hylers.us/tienda",
+    "socials": {
+        "twitter": "hylersnw",
+        "discord": "https://discord.gg/yMM42tkg9X"
+    }
+}
