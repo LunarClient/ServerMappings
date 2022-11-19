@@ -1,7 +1,6 @@
 {
     "id": "hylers",
     "name": "Hylers Network",
-    "description": "Tratamos de dar la mejor experiencia y crear minijuegos únicos",
     "addresses": [
         "hylers.us"
     ],
@@ -26,10 +25,7 @@
         "NA",
     ],
     "gameTypes": [
-        "SkyWars"
-        "KnocBackFFA"
-        "BedWars"
-        "Survival"
+        "PvP"
     ],
     "website": "https://hylers.us/",
     "store": "https://hylers.us/tienda",
