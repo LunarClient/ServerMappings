@@ -1,0 +1,14 @@
+{
+    "id": "icepvp",
+    "name": "IcePvP Network",
+    "store": "store.icepvp.cc/",
+    "addresses": [
+        "icepvp.cc"
+    ],
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "IcePvPNetwork",
+        "discord": "https://discord.io/IcePvP"
+    }
+}
