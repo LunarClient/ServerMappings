@@ -1,8 +1,6 @@
 {
     "id": "icepvp",
     "name": "IcePvP Network",
-    "website": "https://www.icepvp.cc",
-    "store": "https://store.icepvp.cc/",
     "description": "IcePvP Network is a PotPvP Network focused on OP-Prison and Kitmap",
     "addresses": [
         "icepvp.cc"
@@ -23,6 +21,8 @@
         "Kitmap",
         "Op-Prison"
     ],
+    "website": "https://www.icepvp.cc",
+    "store": "https://store.icepvp.cc/",
     "socials": {
         "twitter": "IcePvPNetwork",
         "discord": "https://discord.gg/NZZ7Qfa8CV"
