@@ -1,8 +1,7 @@
 {
     "id": "zonecraft",
     "name": "ZoneCraft Network",
-    "website": "https://zonecraft.es/",
-    "store": "https://tienda.zonecraft.es/",
+    "description": "Hosteamos diversión y modalidades únicas",
     "addresses": [
         "zonecraft.es",
         "zonecn.es",
@@ -12,15 +11,43 @@
         "darktimes.es",
         "bedwars.es",
         "zonehosting.net",
-        "skywars.es"
+        "skywars.es",
+        "pickaxe.es"
     ],
-    "primaryColor": "#fd012b",
-    "secondaryColor": "#9fc8ee",
+    "primaryAddress": "play.zonecraft.es",
+    "primaryMinecraftVersion": "1.8",
+    "minecraftVersions": [
+        "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
+        "1.12",
+        "1.13",
+        "1.14",
+        "1.15",
+        "1.16",
+        "1.17",
+        "1.18",
+        "1.19"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://zonecraft.es/",
+    "store": "https://tienda.zonecraft.es/",
+    "primaryColor": "#ff3344",
+    "secondaryColor": "#ffffff",
     "socials": {
         "twitter": "zonecraftes",
-        "discord": "https://discord.com/invite/bBe2Haw",
-        "youtube": "UCy4aU62EZVnlcX47eLdJguw",
-        "instagram": "zonecraftes",
-        "facebook": "ZoneCraft"
+        "discord": "https://discord.zonecraft.es",
+        "youtube": "@zonecraftes",
+        "instagram": "zonecraftes"
     }
 }
