@@ -1,0 +1,31 @@
+{
+    "id": "fallmc",
+    "name": "FallMC",
+    "description": "Survival server",
+    "addresses": [
+        "fallmc.xyz"
+    ],
+    "primaryAddress": "fallmc.xyz",
+    "minecraftVersions": [
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#57d120",
+    "secondaryColor": "#fad35e",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.fallmc.xyz",
+    "socials": {
+        "twitter": "fallmcnetwork",
+        "discord": "https://discord.gg/pEJ7KEUEG9"
+    }
+}
