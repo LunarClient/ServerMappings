@@ -30,10 +30,9 @@
         "1.18",
         "1.19"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
-        "en"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "gameTypes": [
