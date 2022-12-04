@@ -1,0 +1,18 @@
+{
+  "id": "pvprefuge",
+  "name": "PvPRefuge",
+  "store": "https://store.pvprefuge.net/",
+  "addresses": [
+    "pvprefuge.net",
+    "na.pvprefuge.net",
+    "us.pvprefuge.net",
+    "play.pvprefuge.net"
+  ],
+  "primaryAddress": "pvprefuge.net",
+  "primaryColor": "#487c5e",
+  "secondaryColor": "#c7d2d4",
+  "socials": {
+    "twitter": "pvprefuge",
+    "discord": "https://discord.pvprefuge.net/"
+  }
+}
