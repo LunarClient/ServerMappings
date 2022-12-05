@@ -3,8 +3,7 @@
   "name": "Pokewild",
   "description": "Play Pixelmon without mods!",
   "addresses": [
-    "play.pokewild.com",
-    "mc.pokewild.com"
+    "pokewild.com"
   ],
   "primaryAddress": "mc.pokewild.com",
   "minecraftVersions": [
@@ -32,6 +31,6 @@
   "socials": {
     "twitter": "PokeWild",
     "tiktok": "pokewildmc",
-    "discord": "https://discord.pokewild.com"
+    "discord": "https://discord.com/invite/6Z3ZnAAUmP"
   }
 }
