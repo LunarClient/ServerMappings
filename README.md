@@ -14,7 +14,11 @@ The `addresses` array in each server object is actually an array of IP _suffixes
 
 ## Primary Info & Minecraft Versions
 
-We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array. The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18, 1.19)*; The `primaryMinecraftVersion` field must be a version included in the `minecraftVersions` array. **The versions you include must be versions that are directly offered in Lunar Client**, which can be found in the version selector of the Lunar Client Launcher.
+We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array.
+
+The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18.1, 1.19.2)*; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array. **The versions you include must be versions that are directly offered in Lunar Client**, which can be found in the version selector of the Lunar Client Launcher.
+
+If your server supports all of the subversions within a major version, you can list the version in `minecraftVersions` as `1.19.*`, but you will still need to specify the specific subversion in the `primaryMinecraftVersion` as this is the specific version that the client uses to Launch you into the game for Quick Joining.
 
 ## Logos
 
