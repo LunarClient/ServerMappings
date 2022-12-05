@@ -7,9 +7,9 @@
     ],
     "primaryAddress": "play.splashnetwork.nl",
     "minecraftVersions": [
-        "1.12"
+        "1.12.*"
     ],
-    "primaryMinecraftVersion": "1.12",
+    "primaryMinecraftVersion": "1.12.2",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#2150d1",
     "primaryLanguage": "nl",

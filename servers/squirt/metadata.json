@@ -7,9 +7,9 @@
   ],
   "primaryAddress": "squirt.gq",
   "minecraftVersions": [
-    "1.8"
+    "1.8.*"
   ],
-  "primaryMinecraftVersion": "1.8",
+  "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#FFFF00",
   "secondaryColor": "#90EE90",
   "primaryLanguage": "es-EN",

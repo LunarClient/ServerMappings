@@ -12,10 +12,10 @@
     ],
     "primaryAddress": "play.vipermc.net",
     "minecraftVersions": [
-        "1.7",
-        "1.8"
+        "1.7.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"

@@ -8,14 +8,14 @@
     ],
     "primaryAddress": "oceanmc.es",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#00FFF7",
     "secondaryColor": "#003A9E",
     "primaryLanguage": "es-EN",
