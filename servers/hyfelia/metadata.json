@@ -7,14 +7,14 @@
     ],
     "primaryAddress": "play.hyfelia.com",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.17",
+    "primaryMinecraftVersion": "1.17.1",
     "primaryColor": "#914ad9",
     "secondaryColor": "#ffffff",
     "primaryLanguage": "it",
