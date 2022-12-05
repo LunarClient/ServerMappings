@@ -1,0 +1,37 @@
+{
+  "id": "pokewild",
+  "name": "Pokewild",
+  "description": "Play Pixelmon without mods!",
+  "addresses": [
+    "play.pokewild.com",
+    "mc.pokewild.com"
+  ],
+  "primaryAddress": "mc.pokewild.com",
+  "minecraftVersions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ],
+  "primaryMinecraftVersion": "1.16",
+  "primaryColor": "#44a1e3",
+  "secondaryColor": "#a854de",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "website": "https://www.pokewild.com",
+  "store": "https://store.pokewild.com",
+  "socials": {
+    "twitter": "PokeWild",
+    "tiktok": "pokewildmc",
+    "discord": "https://discord.pokewild.com"
+  }
+}
