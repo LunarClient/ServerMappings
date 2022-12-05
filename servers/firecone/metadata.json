@@ -1,0 +1,35 @@
+{
+    "id": "firecone",
+    "name": "Firecone.eu",
+    "description": "survival events and more",
+    "addresses": [
+        "mc.firecone.eu"
+    ],
+    "primaryAddress": "mc.firecone.eu",
+    "minecraftVersions": [
+        "1.8",
+        "1.9",
+        "1.18",
+        "1.19"
+          ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#ff6c05",
+    "secondaryColor": "#1E82DA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "website": "firecone.eu",
+    "store": "https://store.firecone.eu",
+    "socials": {
+        "discord": "https://discord.gg/ckpBsz2F3k"
+    }
+}
