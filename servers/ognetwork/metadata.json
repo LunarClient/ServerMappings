@@ -10,7 +10,7 @@
     "primaryColor": "#65bf75",
     "secondaryColor": "#cccccb",
     "gameTypes": [
-        "Faction"
+        "Factions"
     ],
     "socials": {
         "twitter": "playognetwork",
