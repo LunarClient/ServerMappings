@@ -9,13 +9,13 @@
     ],
     "primaryAddress": "play.shotbow.net",
     "minecraftVersions": [
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
     "primaryRegion": "NA",
     "regions": [
         "NA"

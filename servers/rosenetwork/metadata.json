@@ -7,15 +7,15 @@
     ],
     "primaryAddress": "play.rosenetwork.it",
     "minecraftVersions": [
-        "1.7",
-        "1.8",
-        "1.12",
-        "1.16", 
-        "1.17", 
-        "1.18",
-        "1.19"
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
     "primaryColor": "#CC0000",
     "secondaryColor": "#000000",
     "primaryLanguage": "it",
@@ -25,7 +25,7 @@
     "primaryRegion": "EU",
     "regions": [
         "NA",
-        "EU"        
+        "EU"
     ],
     "gameTypes": [
         "PvP", 

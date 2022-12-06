@@ -1,6 +1,16 @@
 import os
 import json
 
+MAJOR_ALL = {
+    "1.7.*": ["1.7.10"],
+    "1.8.*": ["1.8.9"],
+    "1.12.*": ["1.12.2"],
+    "1.16.*": ["1.16.5"],
+    "1.17.*": ["1.17.1"],
+    "1.18.*": ["1.18.1", "1.18.2"],
+    "1.19.*": ["1.19", "1.19.2"]
+}
+
 
 def get_all_servers(servers_dir):
     servers = []
@@ -20,6 +30,10 @@ def get_all_servers(servers_dir):
         with open(f"{servers_dir}/{server_id}/metadata.json") as server_file:
             server = json.load(server_file)
 
+        # Modify versions
+        if "minecraftVersions" in server:
+            server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
+
         # Enrich server data
         server["inactive"] = server["id"] in inactive
         server["enriched"] = is_enriched(server, server_id, servers_dir)
@@ -32,6 +46,18 @@ def get_all_servers(servers_dir):
     servers.sort(key=lambda x: x["id"])
 
     return servers
+
+
+def get_all_versions(versions):
+    to_return = []
+
+    for version in versions:
+        if version in MAJOR_ALL:
+            to_return.extend(MAJOR_ALL[version])
+        else:
+            to_return.append(version)
+
+    return to_return
 
 
 def is_enriched(server, server_id, servers_dir):

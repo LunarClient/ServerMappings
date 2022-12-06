@@ -7,12 +7,12 @@
     ],
     "primaryAddress": "fraze.pl",
     "minecraftVersions": [
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.18",
+    "primaryMinecraftVersion": "1.18.2",
     "primaryColor": "#f66fa8",
     "secondaryColor": "#05bbf5"
 }

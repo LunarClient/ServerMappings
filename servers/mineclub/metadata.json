@@ -8,10 +8,10 @@
     ],
     "primaryAddress": "play.mineclub.com",
     "minecraftVersions": [
-        "1.18",
-        "1.19"
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
     "primaryRegion": "NA",
     "regions": [
         "NA"

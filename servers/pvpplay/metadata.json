@@ -7,9 +7,9 @@
     ],
     "primaryAddress": "pvpplay.pl",
     "minecraftVersions": [
-        "1.8"
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#be03fc",
     "secondaryColor": "#f0e9f2",
     "primaryLanguage": "pl",

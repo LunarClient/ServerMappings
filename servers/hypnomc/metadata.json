@@ -6,9 +6,9 @@
     ],
     "primaryAddress": "hypnomc.net",
     "minecraftVersions": [
-        "1.19"
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
     "primaryColor": "#53b9e0",
     "secondaryColor": "#7115a4"
 }

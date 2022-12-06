@@ -11,17 +11,17 @@
     },
     "primaryAddress": "azarath.cc",
     "minecraftVersions": [
-        "1.7",
-        "1.8"
+        "1.7.*",
+        "1.8.*"
     ],
-    "gameTypes": [
-        "PvP"
-    ],
-    "primaryMinecraftVersion": "1.7",
+    "primaryMinecraftVersion": "1.7.10",
     "primaryColor": "#FF55FF",
     "secondaryColor": "#AA00AA",
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "gameTypes": [
+        "PvP"
     ]
 }
