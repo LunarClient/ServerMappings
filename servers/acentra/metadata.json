@@ -8,7 +8,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Prisons",
+        "Prison",
         "Minigames"
     ],
     "primaryColor": "#fba41e",
