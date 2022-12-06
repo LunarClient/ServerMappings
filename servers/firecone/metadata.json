@@ -1,14 +1,16 @@
 {
     "id": "firecone",
-    "name": "Firecone.eu",
+    "name": "Firecone",
     "description": "survival events and more",
     "addresses": [
-        "mc.firecone.eu"
+        "firecone.eu"
     ],
     "primaryAddress": "mc.firecone.eu",
     "minecraftVersions": [
         "1.8",
-        "1.9",
+        "1.12",
+        "1.16",
+        "1.17",
         "1.18",
         "1.19"
           ],
