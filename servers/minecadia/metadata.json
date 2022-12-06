@@ -21,7 +21,7 @@
     "gameTypes": [
         "Factions",
         "Survival",
-        "Prisons"
+        "Prison"
     ],
     "socials": {
         "twitter": "PlayMinecadia",
