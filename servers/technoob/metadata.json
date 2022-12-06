@@ -7,11 +7,11 @@
     ],
     "primaryAddress": "tech-noob.com",
     "minecraftVersions": [
-        "1.7",
-        "1.8",
-        "1.19"
+        "1.7.10",
+        "1.8.9",
+        "1.19.2"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#3768b8",
     "secondaryColor": "#d1620d",
     "primaryLanguage": "de",
