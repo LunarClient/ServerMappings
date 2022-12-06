@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#048acb",
     "secondaryColor": "#394047",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/rDxUS57",
         "instagram": "BlocksMC"

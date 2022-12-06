@@ -8,6 +8,11 @@
     ],
     "primaryColor": "#1467b6",
     "secondaryColor": "#18ae2f",
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Creative"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/Eggb2w7"
     }

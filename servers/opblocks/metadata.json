@@ -23,6 +23,11 @@
     ],
     "primaryColor": "#9638b5",
     "secondaryColor": "#e8becc",
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "Skyblock"
+    ],
     "socials": {
         "twitter": "opblocks",
         "discord": "https://discord.com/invite/tXPUtSPTMN",

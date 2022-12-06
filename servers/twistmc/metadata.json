@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#26e06e",
     "secondaryColor": "#8132d5",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "twistminecraft",
         "discord": "https://discord.com/invite/9HnJq2KXRD"

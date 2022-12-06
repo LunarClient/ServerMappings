@@ -18,6 +18,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#f8c117",
     "secondaryColor": "#392400",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "pvparcadegg",
         "discord": "https://discord.com/invite/v7XbUtHxam"

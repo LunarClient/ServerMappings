@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#ef2d2d",
     "secondaryColor": "#060303",
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
     "socials": {
         "twitter": "realfruskygames",
         "discord": "https://discord.com/invite/HsxPnAF",

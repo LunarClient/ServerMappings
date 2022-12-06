@@ -9,6 +9,10 @@
     "primaryAddress": "syuu.net",
     "primaryColor": "#f0a40e",
     "secondaryColor": "#080502",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "_SyuuNet",
         "discord": "https://discord.com/invite/fCcsqHe"

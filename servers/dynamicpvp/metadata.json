@@ -7,6 +7,10 @@
     ],
     "primaryColor": "#9c34b8",
     "secondaryColor": "#17151c",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
     "socials": {
         "twitter": "dynamicpvpnet",
         "discord": "https://discord.com/invite/XpGVDZ49GP"

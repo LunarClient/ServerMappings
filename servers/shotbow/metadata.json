@@ -22,6 +22,10 @@
     ],
     "primaryColor": "#553c22",
     "secondaryColor": "#c1c1c0",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "ShotbowNetwork",
         "discord": "https://discord.com/invite/shotbow",

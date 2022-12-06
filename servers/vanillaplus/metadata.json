@@ -8,6 +8,9 @@
     ],
     "primaryColor": "#214161",
     "secondaryColor": "#320c3b",
+    "gameTypes": [
+        "Survival"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/vanillaplus",
         "tiktok": "vanillaplus.net"

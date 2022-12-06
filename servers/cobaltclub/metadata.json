@@ -7,6 +7,11 @@
     ],
     "primaryColor": "#0047ab",
     "secondaryColor": "#0047ab",
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
     "socials": {
         "twitter": "CobaltClubMC",
         "discord": "https://discord.com/invite/fwJRACwPgB",

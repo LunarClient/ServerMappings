@@ -14,6 +14,9 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "ElevateMCNet",
         "discord": "https://discord.com/invite/GkqtzCYCvF",

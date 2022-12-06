@@ -20,6 +20,10 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#e911e5",
     "secondaryColor": "#fffeff",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "minemen_network",
         "discord": "https://discord.com/invite/4gfk48gv9z",

@@ -6,6 +6,10 @@
     "addresses": [
         "antiac.net"
     ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "primaryColor": "#fee503",
     "secondaryColor": "#fc7103",
     "socials": {

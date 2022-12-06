@@ -21,13 +21,13 @@
         "EU"
     ],
     "gameTypes": [
-        "Roleplay"
+        "Roleplay",
+        "PvP",
+        "Survival"
     ],
     "website": "https://splashnetwork.nl",
     "store": "https://shop.splashnetwork.nl",
     "socials": {
-        "twitter": "",
-        "telegram": "",
         "discord": "https://discord.gg/splashnetwork"
     }
 }

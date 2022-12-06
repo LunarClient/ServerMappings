@@ -8,6 +8,9 @@
     ],
     "primaryColor": "#745151",
     "secondaryColor": "#100c11",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "esta_network",
         "discord": "https://discord.com/invite/avWYwSXxzJ"

@@ -9,6 +9,11 @@
     "primaryAddress": "mc.freakyville.net",
     "primaryColor": "#fdc713",
     "secondaryColor": "#aa5c16",
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "Creative"
+    ],
     "socials": {
         "twitter": "FreakyVilleMC",
         "discord": "https://discord.com/invite/qf6F6Zz",

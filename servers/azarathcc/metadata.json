@@ -20,5 +20,8 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "gameTypes": [
+        "PvP"
     ]
 }

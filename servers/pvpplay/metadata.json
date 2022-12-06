@@ -21,7 +21,8 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Survival"
     ],
     "website": "https://www.pvpplay.pl",
     "store": "https://www.pvpplay.pl",

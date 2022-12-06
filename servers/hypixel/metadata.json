@@ -23,6 +23,11 @@
     "regions": [
         "NA"
     ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
     "socials": {
         "twitter": "HypixelNetwork",
         "discord": "https://discord.com/invite/Hypixel",

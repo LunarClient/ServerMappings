@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#314484",
     "secondaryColor": "#c79e56",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "hylexmc",
         "discord": "https://discord.com/invite/hylex",

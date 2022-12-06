@@ -5,6 +5,9 @@
         "aetheria.world",
         "aetheriamc.xyz"
     ],
+    "gameTypes": [
+        "Survival"
+    ],
     "primaryColor": "#f8100c",
     "secondaryColor": "#3aebef"
     

@@ -7,6 +7,10 @@
     ],
     "primaryColor": "#e99b24",
     "secondaryColor": "#b6b6b6",
+    "gameTypes": [
+        "Skyblock",
+        "Prison"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/mchub"
     }

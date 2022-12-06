@@ -14,5 +14,9 @@
         "1.18.*",
         "1.19.*"
     ],
+    "gameTypes": [
+        "Survival",
+        "Creative"
+    ],
     "primaryMinecraftVersion": "1.17.1"
 }
