@@ -19,6 +19,10 @@
     ],
     "primaryColor": "#f9e28b",
     "secondaryColor": "#15ddfd",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "mccisland_",
         "discord": "https://discord.com/invite/mcc",

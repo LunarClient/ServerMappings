@@ -12,6 +12,10 @@
         "1.18"
     ],
     "primaryMinecraftVersion": "1.8",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
     "primaryColor": "#871982",
     "secondaryColor": "#060306",
     "socials": {

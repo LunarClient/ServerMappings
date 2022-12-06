@@ -8,6 +8,11 @@
     ],
     "primaryColor": "#f2e295",
     "secondaryColor": "#0b1205",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/kokscraft",
         "instagram": "kokscraft.mc",

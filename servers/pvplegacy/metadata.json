@@ -17,6 +17,10 @@
     "regions": [
         "NA"
     ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "primaryColor": "#0392c5",
     "secondaryColor": "#a2a1a3"
 }

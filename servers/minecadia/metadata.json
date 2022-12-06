@@ -18,6 +18,11 @@
     "primaryMinecraftVersion": "1.8",
     "primaryColor": "#fcad05",
     "secondaryColor": "#062f5d",
+    "gameTypes": [
+        "Factions",
+        "Survival",
+        "Prisons"
+    ],
     "socials": {
         "twitter": "PlayMinecadia",
         "discord": "https://discord.com/invite/minecadia"

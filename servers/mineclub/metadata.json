@@ -18,6 +18,10 @@
     ],
     "primaryColor": "#660e84",
     "secondaryColor": "#4787d3",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "playmineclub",
         "discord": "https://discord.com/invite/mineclub",

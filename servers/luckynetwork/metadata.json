@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#cf9541",
     "secondaryColor": "#1a0524",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/luckynetwork",
         "youtube": "UCmQk50LLBSeLDe6RA8SpEcA",

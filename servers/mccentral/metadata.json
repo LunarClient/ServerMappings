@@ -23,6 +23,11 @@
     ],
     "primaryColor": "#e3b34a",
     "secondaryColor": "#1a1c20",
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Prison"
+    ],
     "socials": {
         "twitter": "_mccentral",
         "discord": "https://discord.com/invite/9jzwQDQ",

@@ -10,6 +10,10 @@
         "1.8"
     ],
     "primaryMinecraftVersion": "1.8",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "primaryColor": "#9d3df6",
     "secondaryColor": "#80480f"
 }

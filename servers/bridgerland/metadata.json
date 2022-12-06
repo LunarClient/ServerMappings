@@ -9,6 +9,10 @@
     "primaryColor": "#f7b204",
     "secondaryColor": "#9c451f",
     "primaryAddress": "bridger.land",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "Bridger_Land",
         "discord": "https://discord.com/invite/6TkXDKkejp",

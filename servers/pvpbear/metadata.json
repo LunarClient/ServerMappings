@@ -10,6 +10,9 @@
     "primaryAddress": "mc.pvpbear.net",
     "primaryColor": "#bc1103",
     "secondaryColor": "#ddb71a",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/scSxTpq3HK"
     }

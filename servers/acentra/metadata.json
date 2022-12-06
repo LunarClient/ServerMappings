@@ -6,6 +6,11 @@
     "addresses": [
         "acentramc.com"
     ],
+    "gameTypes": [
+        "PvP",
+        "Prisons",
+        "Minigames"
+    ],
     "primaryColor": "#fba41e",
     "secondaryColor": "#393335",
     "socials": {

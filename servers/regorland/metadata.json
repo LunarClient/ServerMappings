@@ -17,6 +17,10 @@
     "primaryMinecraftVersion": "1.19",
     "primaryColor": "#b51e1b",
     "secondaryColor": "#251715",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/keFuwGCa5t"
     }

@@ -7,6 +7,10 @@
     ],
     "primaryColor": "#f9e11f",
     "secondaryColor": "#2d2626",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "manhuntnetwork",
         "discord": "https://discord.com/invite/manhunt",

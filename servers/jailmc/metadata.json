@@ -21,6 +21,9 @@
     "regions": [
         "NA"
     ],
+    "gameTypes": [
+        "Prison"
+    ],
     "socials": {
         "twitter": "JailMCPrison",
         "discord": "https://discord.com/invite/jailmc"

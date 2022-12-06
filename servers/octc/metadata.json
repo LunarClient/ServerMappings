@@ -23,6 +23,9 @@
     ],
     "primaryColor": "#d7d2bf",
     "secondaryColor": "#4c0704",
+    "gameTypes": [
+        "Minigames"
+    ],
     "socials": {
         "twitter": "OvercastPGM",
         "discord": "https://discord.com/invite/OCTC",

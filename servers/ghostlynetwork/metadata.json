@@ -20,6 +20,11 @@
     ],
     "primaryColor": "#6e0707",
     "secondaryColor": "#616161",
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "HCF"
+    ],
     "socials": {
         "twitter": "GhostlyLive",
         "discord": "https://discord.com/invite/ghostly"

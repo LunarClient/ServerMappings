@@ -10,6 +10,10 @@
     "primaryAddress": "mc.playblocks.org",
     "primaryColor": "#d3d5d6",
     "secondaryColor": "#1f1355",
+    "gameTypes": [
+        "Creative",
+        "Survival"
+    ],
     "socials": {
         "twitter": "playblocksmc",
         "discord": "https://discord.com/invite/WsMAuXqZFy",

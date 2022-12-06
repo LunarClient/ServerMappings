@@ -22,6 +22,10 @@
     "regions": [
         "NA"
     ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
     "socials": {
         "twitter": "holypvpnet",
         "discord": "https://discord.gg/paQgGtzHbT"

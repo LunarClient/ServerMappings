@@ -7,6 +7,11 @@
         "topstrix.net",
         "topstrix.com"
     ],
+    "gameTypes": [
+        "Creative",
+        "Skyblock",
+        "Minigames"
+    ],
     "primaryColor": "#6b6968",
     "secondaryColor": "#1a130e"
 }

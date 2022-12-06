@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#6389cb",
     "secondaryColor": "#3246a2",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "stratusmc",
         "discord": "https://discord.com/invite/Aaf9hTr",

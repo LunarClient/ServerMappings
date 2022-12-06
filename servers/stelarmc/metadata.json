@@ -18,6 +18,10 @@
     "primaryMinecraftVersion": "1.8",
     "primaryColor": "#5cc5a3",
     "secondaryColor": "#4f4f3a",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
     "socials": {
         "twitter": "StelarMcNT",
         "discord": "https://discord.com/invite/6uPBm4AHJy",

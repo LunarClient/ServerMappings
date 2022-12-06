@@ -14,6 +14,9 @@
         "1.7",
         "1.8"
     ],
+    "gameTypes": [
+        "PvP"
+    ],
     "primaryMinecraftVersion": "1.7",
     "primaryColor": "#FF55FF",
     "secondaryColor": "#AA00AA",

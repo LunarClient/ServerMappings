@@ -16,6 +16,10 @@
     ],
     "primaryColor": "#fd012b",
     "secondaryColor": "#9fc8ee",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "zonecraftes",
         "discord": "https://discord.com/invite/bBe2Haw",

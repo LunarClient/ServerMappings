@@ -27,7 +27,8 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Factions"
     ],
     "socials": {
         "twitter": "networkaquarius",

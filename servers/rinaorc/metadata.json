@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#e9bb12",
     "secondaryColor": "#8c4b24",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "rinaorc",
         "discord": "https://discord.com/invite/vXYXrGk",

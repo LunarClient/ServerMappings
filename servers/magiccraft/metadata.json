@@ -9,6 +9,9 @@
     "primaryAddress": "mc.magiccraft.fr",
     "primaryColor": "#fec430",
     "secondaryColor": "#9c7b0b",
+    "gameTypes": [
+        "Roleplay"
+    ],
     "socials": {
         "twitter": "MagicCraftFR",
         "discord": "https://discord.com/invite/rwCsNU5",
