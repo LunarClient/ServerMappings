@@ -13,7 +13,7 @@ def main():
     args = parser.parse_args()
 
     # Collect all servers
-    servers = get_all_servers(args.servers_dir)
+    servers = get_all_servers(args.servers_dir, False)
 
     # Write to index file
     json_object = json.dumps(servers, indent=4)

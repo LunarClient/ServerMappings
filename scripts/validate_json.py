@@ -10,6 +10,7 @@ def main():
     parser.add_argument('--metadata_schema', required=True, type=str)
     parser.add_argument('--inactive_file', required=True, type=str)
     parser.add_argument('--inactive_schema', required=True, type=str)
+    parser.add_argument('--v')
     args = parser.parse_args()
 
     # Validate Inactive File
@@ -39,6 +40,10 @@ def main():
     for root, _dirs, _files in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
         if not server_id or server_id == args.servers_dir:
+            continue
+
+        # Skip validating inactive files
+        if server_id in inactive_file:
             continue
 
         # Open metadata.json

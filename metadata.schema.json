@@ -4,7 +4,8 @@
     "required": [
         "id",
         "name",
-        "addresses"
+        "addresses",
+        "gameTypes"
     ],
     "properties": {
         "id": {
