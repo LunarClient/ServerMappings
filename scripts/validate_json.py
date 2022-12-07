@@ -10,7 +10,7 @@ def main():
     parser.add_argument('--metadata_schema', required=True, type=str)
     parser.add_argument('--inactive_file', required=True, type=str)
     parser.add_argument('--inactive_schema', required=True, type=str)
-    parser.add_argument('--v')
+    parser.add_argument('--validate_inactive', action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
 
     # Validate Inactive File
@@ -43,7 +43,7 @@ def main():
             continue
 
         # Skip validating inactive files
-        if server_id in inactive_file:
+        if server_id in inactive_file and not args.validate_inactive:
             continue
 
         # Open metadata.json
@@ -53,7 +53,7 @@ def main():
             except json.decoder.JSONDecodeError:
                 raise ValueError(f'{server_id}\'s metadata.json is malfored, please ensure it is valid json.')
 
-        print(f'Validating {server_id}\'s metadata.json file...')
+        print(f'Validating {server_id}\'s metadata.json file {"(inactive)" if server_id in inactive_file else ""}...')
 
         # Validate!
         try:
