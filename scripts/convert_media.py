@@ -25,7 +25,7 @@ def main():
     args = parser.parse_args()
 
     # Load server mappings JSON
-    servers = get_all_servers(args.servers_dir, False)
+    servers = get_all_servers(args.servers_dir)
 
     print(f"Converting {len(servers)} server media...")
     background_amount = 0
