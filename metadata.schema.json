@@ -5,7 +5,9 @@
         "id",
         "name",
         "addresses",
-        "gameTypes"
+        "gameTypes",
+        "primaryColor",
+        "secondaryColor"
     ],
     "properties": {
         "id": {
