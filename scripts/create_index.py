@@ -10,10 +10,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers_dir', required=True, type=str)
     parser.add_argument('--index_output', required=True, type=str)
+    parser.add_argument('--include_inactive', action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
 
     # Collect all servers
-    servers = get_all_servers(args.servers_dir)
+    servers = get_all_servers(args.servers_dir, args.include_inactive)
 
     # Write to index file
     json_object = json.dumps(servers, indent=4)
