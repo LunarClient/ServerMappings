@@ -29,10 +29,8 @@
   "gameTypes": [
     "Prison",
     "Open World",
-    "Adventure",
     "Survival"
   ],
-  "website": "https://store.mythonia.net",
   "store": "https://store.mythonia.net",
   "socials": {
     "twitter": "MythoniaNetwork",
