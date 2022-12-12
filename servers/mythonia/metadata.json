@@ -3,8 +3,7 @@
   "name": "Mythonia",
   "description": "Where the adventure begins...",
   "addresses": [
-    "play.mythonia.net",
-    "lunar.mythonia.net"
+    "mythonia.net"
   ],
   "primaryAddress": "lunar.mythonia.net",
   "minecraftVersions": [
