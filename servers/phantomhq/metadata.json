@@ -3,9 +3,8 @@
   "name": "PhantomHQ",
   "description": "A brand new journey...",
   "addresses": [
-    "play.phantomhq.club",
-    "mc.phantomhq.club"
-  ],
+    "phantomhq.club"
+    ],
   "primaryAddress": "phantomhq.club",
   "minecraftVersions": [
     "1.7.*",
