@@ -7,15 +7,15 @@
     ],
     "primaryAddress": "arkamc.net",
     "minecraftVersions": [
-        "1.7",
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#00CDFF",
     "secondaryColor": "#00FFF7",
     "primaryLanguage": "ko",

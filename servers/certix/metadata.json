@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#695bab",
     "secondaryColor": "#020104",
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
     "socials": {
         "twitter": "certixcc",
         "discord": "https://discord.com/invite/DFu6mey"

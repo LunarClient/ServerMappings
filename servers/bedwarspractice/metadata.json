@@ -9,6 +9,10 @@
     "primaryAddress": "bedwarspractice.club",
     "primaryColor": "#8C1615",
     "secondaryColor": "#413420",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "BedwarsPractice",
         "discord": "https://discord.com/invite/TUeUnkqXnY"

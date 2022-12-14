@@ -9,6 +9,11 @@
     "primaryAddress": "mc.universocraft.com",
     "primaryColor": "#08a4f8",
     "secondaryColor": "#aade1d",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
     "socials": {
         "twitter": "MCUniversoCraft",
         "discord": "https://discord.com/invite/universocraft",

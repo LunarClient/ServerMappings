@@ -8,6 +8,9 @@
     ],
     "primaryColor": "#90aa4e",
     "secondaryColor": "#1c251a",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "Edenminenetwork",
         "discord": "https://discord.com/invite/XVJYhYDdzz",

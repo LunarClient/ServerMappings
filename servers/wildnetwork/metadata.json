@@ -6,6 +6,9 @@
         "wildprison.net",
         "wildsmp.net"
     ],
+    "gameTypes": [
+        "Prison"
+    ],
     "primaryColor": "#f3cb0b",
     "secondaryColor": "#dce3ec"
 }

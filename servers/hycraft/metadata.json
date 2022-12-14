@@ -9,6 +9,10 @@
     "primaryAddress": "mc.hycraft.us",
     "primaryColor": "#2f7cdb",
     "secondaryColor": "#e9aa65",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "hycraftnw",
         "discord": "https://discord.com/invite/hycraft",

@@ -9,6 +9,11 @@
     ],
     "primaryColor": "#ffffff",
     "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Prison"
+    ],
     "socials": {
         "twitter": "minehutmc",
         "discord": "https://discord.com/invite/minehut",

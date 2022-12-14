@@ -10,11 +10,16 @@
     "primaryColor": "#e2b13f",
     "secondaryColor": "#bd2527",
     "minecraftVersions": [
-        "1.7",
-        "1.8",
-        "1.12"
+        "1.7.*",
+        "1.8.*",
+        "1.12.*"
     ],
-    "primaryMinecraftVersion": "1.7",
+    "primaryMinecraftVersion": "1.7.10",
+    "gameTypes": [
+        "HCF",
+        "UHC",
+        "PvP"
+    ],
     "socials": {
         "twitter": "BattleRIPNet",
         "discord": "https://discord.com/invite/MPpUPxq3RV"

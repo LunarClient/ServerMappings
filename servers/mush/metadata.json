@@ -10,6 +10,10 @@
     ],
     "primaryColor": "#ecb845",
     "secondaryColor": "#522e23",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "MushMC_",
         "discord": "https://discord.com/invite/pFJKcUZ",

@@ -8,6 +8,11 @@
     ],
     "primaryColor": "#003244",
     "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
     "socials": {
         "twitter": "KwadratowaTV",
         "discord": "https://discord.com/invite/3DB8U7k",

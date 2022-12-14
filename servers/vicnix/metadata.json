@@ -9,6 +9,10 @@
     "primaryAddress": "mc.vicnix.net",
     "primaryColor": "#83b326",
     "secondaryColor": "#85c606",
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
     "socials": {
         "twitter": "VicnixNet",
         "discord": "https://discord.com/invite/PNQUgPSH4R",

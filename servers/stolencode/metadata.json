@@ -9,10 +9,10 @@
     ],
     "primaryAddress": "stolenco.de",
     "minecraftVersions": [
-        "1.7",
-        "1.8"
+        "1.7.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#FFAA00",
     "secondaryColor": "#191919",
     "primaryLanguage": "en",

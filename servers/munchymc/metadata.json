@@ -9,6 +9,11 @@
     ],
     "primaryColor": "#b65606",
     "secondaryColor": "#779970",
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+        "Survival"
+    ],
     "socials": {
         "twitter": "munchy_mc",
         "discord": "https://discord.com/invite/munchymc",

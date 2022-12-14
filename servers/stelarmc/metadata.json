@@ -8,16 +8,20 @@
     ],
     "primaryAddress": "stelarmc.us",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#5cc5a3",
     "secondaryColor": "#4f4f3a",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
     "socials": {
         "twitter": "StelarMcNT",
         "discord": "https://discord.com/invite/6uPBm4AHJy",
