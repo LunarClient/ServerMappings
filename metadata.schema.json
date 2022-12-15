@@ -4,7 +4,10 @@
     "required": [
         "id",
         "name",
-        "addresses"
+        "addresses",
+        "gameTypes",
+        "primaryColor",
+        "secondaryColor"
     ],
     "properties": {
         "id": {

@@ -12,7 +12,7 @@ MAJOR_ALL = {
 }
 
 
-def get_all_servers(servers_dir):
+def get_all_servers(servers_dir, include_inactive=True):
     servers = []
 
     # Open inactive.json
@@ -37,9 +37,11 @@ def get_all_servers(servers_dir):
         # Enrich server data
         server["inactive"] = server["id"] in inactive
         server["enriched"] = is_enriched(server, server_id, servers_dir)
-        # TODO: Add if they are a partnered server
 
-        # Add to list
+        # Add to list if flag is enabled
+        if not include_inactive and server["inactive"]:
+            continue
+
         servers.append(server)
 
     # Sort A-Z
@@ -52,6 +54,7 @@ def get_all_versions(versions):
     to_return = []
 
     for version in versions:
+        
         if version in MAJOR_ALL:
             to_return.extend(MAJOR_ALL[version])
         else:
