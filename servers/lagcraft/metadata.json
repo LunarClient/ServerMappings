@@ -1,11 +1,11 @@
 {
     "id": "lagcraft",
+    "description": "Poland 'Blocks' server",
     "name": "LagCraft",
     "website": "https://lagcraft.pl/",
     "store": "https://sklep.lagcraft.pl/",
     "addresses": [
-        "lagcraft.pl",
-        "szymeq.kokscraft.pl"
+        "lagcraft.pl"
     ],
     "primaryLanguage": "pl",
     "languages": [
@@ -15,6 +15,11 @@
     "regions": [
         "EU"
     ],
+    "primaryAddress": "lagcraft.pl",
+    "minecraftVersions": [
+       "1.17.*", "1.18.*", "1.19.*" 
+     ],
+    "primaryMinecraftVersion": "1.17.1",
     "primaryColor": "#000000",
     "secondaryColor": "#ffffff",
     "gameTypes": [
