@@ -3,7 +3,9 @@
         "id": "prismamc",
         "name": "Prisma Network",
         "addresses": [
-            "prismamc.net"
+            "prismamc.net",
+            "mc.prismamc.net",
+            "play.prismamc.net"
         ]
     },
     {
