@@ -1,0 +1,27 @@
+{
+    "id": "lagcraft",
+    "name": "LagCraft",
+    "website": "https://lagcraft.pl/",
+    "store": "https://sklep.lagcraft.pl/",
+    "addresses": [
+        "lagcraft.pl",
+        "szymeq.kokscraft.pl"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryColor": "#000000",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "ChickenBlock",
+        "OneBlock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hNNy2rXbA7",
+    }
+}
