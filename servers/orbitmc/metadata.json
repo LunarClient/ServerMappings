@@ -3,13 +3,13 @@
     "name": "OrbitMc",
     "description": "Place for ASIAN Pvpers",
     "addresses": [
-        "mc.orbitmc.xyz"
+        "orbitmc.xyz"
 
     ],
     "primaryAddress": "mc.orbitmc.xyz",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*",
+        "1.8.*"
 
     ],
     "primaryMinecraftVersion": "1.8.9",
@@ -29,6 +29,6 @@
     ],
     "store": "https://store.orbitmc.xyz",
     "socials": {
-        "discord": "https://discord.orbitmc.xyz"
+        "discord": "https://discord.gg/rjyvFbpFC4"
     }
 }
