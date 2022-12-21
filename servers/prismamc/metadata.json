@@ -5,8 +5,14 @@
     "addresses": [
         "prismamc.net"
     ],
+    "primaryAddress": "mc.prismamc.net",
     "primaryColor": "#c9f5f7",
     "secondaryColor": "#f1ac33",
+    "gameTypes": [
+        "Minigames",
+        "Factions",
+        "Survival"
+    ],
     "socials": {
         "twitter": "PrismaMCNW",
         "discord": "https://discord.com/invite/yesGKfpkFa"
