@@ -1,24 +1,24 @@
 {
-  "id": "squirt",
-  "name": "Squirt Network",
+  "id": "arspot",
+  "name": "Arspot Network",
   "description": "Cool PvP Server.",
   "addresses": [
-    "squirt.gq"
+    "arspot.club"
   ],
-  "primaryAddress": "squirt.gq",
+  "primaryAddress": "arspot.club",
   "minecraftVersions": [
     "1.8"
   ],
   "primaryMinecraftVersion": "1.8",
-  "primaryColor": "#FFFF00",
-  "secondaryColor": "#90EE90",
+  "primaryColor": "#FF9999",
+  "secondaryColor": "#FFFFFF",
   "primaryLanguage": "es-EN",
   "languages": [
     "es-EN"
   ],
   "primaryRegion": "NA",
   "regions": [
-    "NA"
+    "SA"
   ],
   "gameTypes": [
     "PvP"
