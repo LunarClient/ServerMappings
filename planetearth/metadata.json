@@ -1,0 +1,32 @@
+{
+    "id": "planetearth",
+    "name": "PlanetEarth",
+    "description": "Geopolitical Twony",
+    "addresses": [
+        "planetearth.kr"
+    ],
+    "primaryAddress": "planetearth.kr",
+    "minecraftVersions": [
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryColor": "#00E5FF",
+    "secondaryColor": "#00FF0D",
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Open World",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/VJJDsnKDcy"
+    }
+}
