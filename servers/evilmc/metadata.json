@@ -1,0 +1,42 @@
+{
+    "id": "evilmc",
+    "name": "EvilMC",
+    "description": "Minecraft italian server",
+    "addresses": [
+        "evilmc.it"
+    ],
+    "primaryAddress": "mc.evilmc.it",
+    "minecraftVersions": [
+        "1.8.",
+        "1.12.",
+        "1.16.",
+        "1.17.",
+        "1.18.",
+        "1.19."
+    ],
+    "primaryMinecraftVersion": "1.18",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigame"
+    ],
+    "website": "wwww.evilmc.it",
+    "store": "https://www.evilmc.it/store",
+    "socials": {
+        "discord": "https://discord.com/invite/mtmNjCYErS"
+    }
+}
