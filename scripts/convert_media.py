@@ -1,6 +1,6 @@
 import os
 import argparse
-import json
+import shutil
 from utils import get_all_servers
 import webptools
 
@@ -70,7 +70,10 @@ def convert_background(path, output, server_id, server_name, sizes, lossless=Fal
     if not os.path.isfile(path):
         return False  # Silently skip as it is optional
 
-    # Base 1920x1080 Size
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base 1920x1080 Size (WebP)
     convert_and_resize(
         path,
         f"{output}/{server_id}.webp",
@@ -93,7 +96,10 @@ def convert_background(path, output, server_id, server_name, sizes, lossless=Fal
 
 
 def convert_logo(path, output, server_id, server_name, sizes, lossless=False):
-    # Base 512 Size Logo
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base 512 Size Logo (WebP)
     convert_and_resize(
         path, f"{output}/{server_id}.webp", lossless=lossless, width=512, height=512
     )
