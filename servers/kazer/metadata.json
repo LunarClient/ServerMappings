@@ -3,9 +3,7 @@
     "name": "Kazer Network",
     "description": "Home of Competitive Minecraft Games",
     "addresses": [
-        "kazer.cc",
-        "mc.kazer.cc",
-        "kazer.team"
+        "kazer.cc"
     ],
     "primaryAddress": "kazer.cc",
     "minecraftVersions": [
