@@ -1,0 +1,31 @@
+{
+    "id": "whiplashmc",
+    "name": "Whiplash MC",
+    "description": "Fun survival and duels server run by aztralymc and itzjormc",
+    "addresses": [
+        "play.whiplashmc.com"
+    ],
+    "primaryAddress": "play.whiplashmc.com",
+    "minecraftVersions": [
+        "1.19.2"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#17ad30",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "SMP",
+        "DUELS",
+        "EVENTS"
+    ],
+    "website": "https://whiplashmc.com",
+    "store": "https://play.whiplashmc.store",
+    "socials": {
+        "twitch": "Aztralymc",
+        "twitch2": "Itzjormc",
+        "discord": "https://discord.gg/b8DSTAZfsd"
+    }
+}
