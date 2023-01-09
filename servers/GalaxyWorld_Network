@@ -1,0 +1,26 @@
+{
+    "id": "GalaxyWorld",
+    "name": "GalaxyWorld Network",
+    "website": "http://discord.galaxyworld.club/",
+    "store": "http://store.galaxyworld.club/",
+    "addresses": [
+        "mc.galaxyworld.club",
+        "mc.Neocrafters.net"
+    ],
+    "primaryAddress": "mc.galaxyworld.club",
+    "primaryColor": "#bea311",
+    "secondaryColor": "#edf2a9",
+    "gameTypes": [
+        "Prision",
+        "PvP"
+        "Survival"
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "GalaxyWorld_NW",
+        "discord": "http://discord.galaxyworld.club/",
+        "youtube": "http://yt.galaxyworld.club/",
+        "tiktok": "http://tiktok.galaxyworld.club/",
+        "facebook": "https://www.facebook.com/GalaxyWorldNTK",
+    }
+}
