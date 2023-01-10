@@ -22,6 +22,10 @@ def main():
     parser.add_argument(
         "--servers_backgrounds_sizes", nargs="+", type=str, default=["1920x1080"]
     )
+
+    # Banner args
+    parser.add_argument('--servers_banners_output', required=True, type=str)
+
     args = parser.parse_args()
 
     # Load server mappings JSON
@@ -29,10 +33,12 @@ def main():
 
     print(f"Converting {len(servers)} server media...")
     background_amount = 0
+    banner_amount = 0
 
     # Create server media output directory
     os.makedirs(args.servers_logos_output, exist_ok=True)
     os.makedirs(args.servers_backgrounds_output, exist_ok=True)
+    os.makedirs(args.servers_banners_output, exist_ok=True)
 
     for server in servers:
         server_id = server["id"]
@@ -41,6 +47,7 @@ def main():
         # Paths
         logo_path = f"{args.servers_dir}/{server_id}/logo.png"
         background_path = f"{args.servers_dir}/{server_id}/background.png"
+        banner_path = f"{args.servers_dir}/{server_id}/banner.png"
 
         convert_logo(
             logo_path,
@@ -60,9 +67,21 @@ def main():
         ):
             background_amount += 1
 
+        if convert_banner(
+            banner_path,
+            args.servers_banners_output,
+            server_id,
+            server_name,
+            args.lossless,
+        ):
+            banner_amount += 1
+
     print(f"Sucessfully converted {len(servers)} server logos.")
     print(
         f"Sucessfully converted {background_amount} server backgrounds - ({len(servers) - background_amount} servers did not provide a background)."
+    )
+    print(
+        f"Sucessfully converted {banner_amount} server banners - ({len(servers) - banner_amount} servers did not provide a banner)."
     )
 
 
@@ -92,6 +111,23 @@ def convert_background(path, output, server_id, server_name, sizes, lossless=Fal
         )
 
     print(f"Successfully converted {server_name}'s background.")
+    return True
+
+def convert_banner(path, output, server_id, server_name, lossless=False):
+    if not os.path.isfile(path):
+        return False  # Silently skip as it is optional
+
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base full Size (WebP)
+    convert_and_resize(
+        path,
+        f"{output}/{server_id}.webp",
+        lossless=lossless,
+    )
+
+    print(f"Successfully converted {server_name}'s banner.")
     return True
 
 

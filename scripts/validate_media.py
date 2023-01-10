@@ -15,6 +15,7 @@ def main():
 
     print(f'Validating {len(servers)} server media...')
     background_amount = 0
+    banner_amount = 0
 
     for server in servers:
         server_id = server['id']
@@ -23,15 +24,20 @@ def main():
         # Paths
         logo_path = f'{args.servers_dir}/{server_id}/logo.png'
         background_path = f'{args.servers_dir}/{server_id}/background.png'
+        banner_path = f'{args.servers_dir}/{server_id}/banner.png'
 
         validate_logo(logo_path, server_name)
         if validate_background(background_path, server_name):
             background_amount += 1
 
+        if validate_banner(banner_path, server_name):
+            banner_amount += 1
+
         print(f'Successfully validated {server_name}\'s media.')
 
     print(f'Sucessfully validated {len(servers)} server logos.')
     print(f'Sucessfully validated {background_amount} server backgrounds - ({len(servers) - background_amount} servers did not provide a background).')
+    print(f'Sucessfully validated {banner_amount} server banners - ({len(servers) - banner_amount} servers did not provide a banner).')
 
 
 '''
@@ -91,6 +97,25 @@ def validate_background(path, server_name):
     
     return True
 
+def validate_banner(path, server_name):
+    if not os.path.isfile(path):
+        print(f'No banner found for {server_name}... skipping.')
+        return False
+
+    banner_image = image.open(path)
+
+    if banner_image.format not in {'PNG'}:
+        raise ValueError(f'{server_name}\'s server banner is not a PNG (currently {banner_image.format})... Please ensure the image meets the requirements before proceeding.')
+
+    aspect_ratio = round(banner_image.width / banner_image.height, 3)
+
+    if aspect_ratio != 7.556:
+        raise ValueError(f'{server_name}\'s server banner does not have a 68:9 aspect ratio... Please ensure the image meets the requirements before proceeding.')
+
+    if banner_image.width < 340:
+        raise ValueError(f'{server_name}\'s server banner is less than 340x45... Please ensure the image meets the requirements before proceeding.')
+
+    return True
 
 if __name__ == '__main__':
     main()
