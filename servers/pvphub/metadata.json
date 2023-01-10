@@ -3,8 +3,7 @@
     "name": "PvPHub",
     "description": "Your best PvP experience right here, right now!",
     "addresses": [
-        "pvphub.me",
-        "play.pvphub.me"
+        "pvphub.me"
     ],
     "primaryAddress": "pvphub.me",
     "minecraftVersions": [
