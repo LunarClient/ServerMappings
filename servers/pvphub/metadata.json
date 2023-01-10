@@ -18,8 +18,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival",
-        "Practice"
+        "Survival"
     ],
     "store": "https://store.pvphub.me",
     "primaryColor": "#FB4BAE",
