@@ -7,9 +7,9 @@
   ],
   "primaryAddress": "arspot.club",
   "minecraftVersions": [
-    "1.8"
+    "1.8.9"
   ],
-  "primaryMinecraftVersion": "1.8",
+  "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#FF9999",
   "secondaryColor": "#FFFFFF",
   "primaryLanguage": "es-EN",
