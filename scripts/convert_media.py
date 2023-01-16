@@ -3,6 +3,7 @@ import argparse
 import shutil
 from utils import get_all_servers
 import webptools
+from PIL import Image as image
 
 # Grant permissions to Webptools
 webptools.grant_permission()
@@ -47,10 +48,11 @@ def main():
         # Paths
         logo_path = f"{args.servers_dir}/{server_id}/logo.png"
         background_path = f"{args.servers_dir}/{server_id}/background.png"
-        banner_path = f"{args.servers_dir}/{server_id}/banner.png"
+        static_banner_path = f"{args.servers_dir}/{server_id}/banner.png"
+        animated_banner_path = f"{args.servers_dir}/{server_id}/banner.gif"
 
         convert_logo(
-            logo_path,
+            logo_path, 
             args.servers_logos_output,
             server_id,
             server_name,
@@ -67,14 +69,17 @@ def main():
         ):
             background_amount += 1
 
-        if convert_banner(
-            banner_path,
-            args.servers_banners_output,
-            server_id,
-            server_name,
-            args.lossless,
-        ):
-            banner_amount += 1
+        # convert only the first banner that exists, because either can exist.
+        for banner_path in [static_banner_path, animated_banner_path]:
+            if convert_banner(
+                banner_path,
+                args.servers_banners_output,
+                server_id,
+                server_name,
+                args.lossless,
+            ):
+                banner_amount += 1
+                break
 
     print(f"Sucessfully converted {len(servers)} server logos.")
     print(
@@ -117,19 +122,35 @@ def convert_banner(path, output, server_id, server_name, lossless=False):
     if not os.path.isfile(path):
         return False  # Silently skip as it is optional
 
-    # Raw no transformations (PNG)
-    shutil.copyfile(path, f"{output}/{server_id}.png")
+    img = image.open(path)
 
-    # Base full Size (WebP)
-    convert_and_resize(
-        path,
-        f"{output}/{server_id}.webp",
-        lossless=lossless,
-    )
+    if img.format == 'PNG':
+        # Raw no transformations (PNG)
+        shutil.copyfile(path, f"{output}/{server_id}.png")
+
+        # Base full Size (WebP)
+        convert_and_resize(
+            path,
+            f"{output}/{server_id}.webp",
+            lossless=lossless,
+        )
+    elif img.format == 'GIF':
+        shutil.copyfile(path, f"{output}/{server_id}.gif")
+        gif_to_sprite_sheet(path, output, server_id, lossless)
 
     print(f"Successfully converted {server_name}'s banner.")
     return True
 
+def gif_to_sprite_sheet(path, output, server_id, lossless=False):
+    img = image.open(path)
+    sprite_img = image.new('RGBA', (img.width, img.height * img.n_frames))
+
+    for idx in range(0, img.n_frames):
+        img.seek(idx)
+        sprite_img.paste(img, (0, img.height * idx))
+
+    sprite_img.save(f"{output}/{server_id}.png")
+    convert_and_resize(f"{output}/{server_id}.png", f"{output}/{server_id}.webp", lossless=lossless)
 
 def convert_logo(path, output, server_id, server_name, sizes, lossless=False):
     # Raw no transformations (PNG)

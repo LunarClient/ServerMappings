@@ -104,8 +104,8 @@ def validate_banner(path, server_name):
 
     banner_image = image.open(path)
 
-    if banner_image.format not in {'PNG'}:
-        raise ValueError(f'{server_name}\'s server banner is not a PNG (currently {banner_image.format})... Please ensure the image meets the requirements before proceeding.')
+    if banner_image.format not in {'PNG', 'GIF'}:
+        raise ValueError(f'{server_name}\'s server banner is not a PNG or GIF (currently {banner_image.format})... Please ensure the image meets the requirements before proceeding.')
 
     aspect_ratio = round(banner_image.width / banner_image.height, 3)
 
