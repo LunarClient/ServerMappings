@@ -122,8 +122,8 @@ def validate_banner(path, server_name):
 
             total_duration += duration
 
-        if total_duration > 3000:
-            raise ValueError(f'{server_name}\'s server banner is more than 3 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
+        if total_duration > 10000:
+            raise ValueError(f'{server_name}\'s server banner is more than 10 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
 
         fps = (banner_image.n_frames / (total_duration / 1000.0))
 

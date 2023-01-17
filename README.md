@@ -30,7 +30,7 @@ Servers are also required to provide background image, you will need to upload a
 
 ## Banners
 
-Servers may also provide a server banner - you will be made aware if this is a requirement for your server. If a banner is provided, it must be uploaded as either a `.png` version named `banner.png` (for static banners,) or a `.gif` version named `banner.gif` (for animated banners,) in the same folder as your `metadata.json`. Banners should represent the content of the server, and prominently feature the server's name and/or IP. All banners must be _a minimum of 340 pixels wide and 45 pixels high, resulting in a 68:9 aspect ratio._ Additionally, animated (GIF) banners must play at _20 frames per second_, and be no more than _3 seconds in duration_.
+Servers may also provide a server banner - you will be made aware if this is a requirement for your server. If a banner is provided, it must be uploaded as either a `.png` version named `banner.png` (for static banners,) or a `.gif` version named `banner.gif` (for animated banners,) in the same folder as your `metadata.json`. Banners should represent the content of the server, and prominently feature the server's name and/or IP. All banners must be _a minimum of 340 pixels wide and 45 pixels high, resulting in a 68:9 aspect ratio._ Additionally, animated (GIF) banners must play at _20 frames per second_, and be no more than _10 seconds in duration_.
 
 ## Regions
 
