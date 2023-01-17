@@ -24,14 +24,18 @@ def main():
         # Paths
         logo_path = f'{args.servers_dir}/{server_id}/logo.png'
         background_path = f'{args.servers_dir}/{server_id}/background.png'
-        banner_path = f'{args.servers_dir}/{server_id}/banner.png'
+        static_banner_path = f"{args.servers_dir}/{server_id}/banner.png"
+        animated_banner_path = f"{args.servers_dir}/{server_id}/banner.gif"
 
         validate_logo(logo_path, server_name)
         if validate_background(background_path, server_name):
             background_amount += 1
 
-        if validate_banner(banner_path, server_name):
-            banner_amount += 1
+        # convert only the first banner that exists, because either can exist.
+        for banner_path in [static_banner_path, animated_banner_path]:
+            if validate_banner(banner_path, server_name):
+                banner_amount += 1
+                break
 
         print(f'Successfully validated {server_name}\'s media.')
 
@@ -106,6 +110,25 @@ def validate_banner(path, server_name):
 
     if banner_image.format not in {'PNG', 'GIF'}:
         raise ValueError(f'{server_name}\'s server banner is not a PNG or GIF (currently {banner_image.format})... Please ensure the image meets the requirements before proceeding.')
+
+    if banner_image.format == 'GIF' and banner_image.n_frames > 1:
+        duration = banner_image.info['duration']
+        total_duration = duration
+        # loop through all the frames, rather than just do duration * n_frames, because GIF can have different duration for each frame.
+        for idx in range(1, banner_image.n_frames):
+            banner_image.seek(idx)
+            if banner_image.info['duration'] != duration:
+                raise ValueError(f'{server_name}\'s server banner does not have the same duration for all frames... Please ensure the image meets the requirements before proceeding.')
+
+            total_duration += duration
+
+        if total_duration > 3000:
+            raise ValueError(f'{server_name}\'s server banner is more than 3 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
+
+        fps = (banner_image.n_frames / (total_duration / 1000.0))
+
+        if fps != 20.0:
+            raise ValueError(f'{server_name}\'s server banner is not exactly 20 FPS (currently {fps})... Please ensure the image meets the requirements before proceeding.')
 
     aspect_ratio = round(banner_image.width / banner_image.height, 3)
 
