@@ -132,11 +132,11 @@ def validate_banner(path, server_name):
 
     aspect_ratio = round(banner_image.width / banner_image.height, 3)
 
-    if aspect_ratio != 7.556:
-        raise ValueError(f'{server_name}\'s server banner does not have a 68:9 aspect ratio... Please ensure the image meets the requirements before proceeding.')
+    if aspect_ratio != 7.8:
+        raise ValueError(f'{server_name}\'s server banner does not have a 39:5 aspect ratio... Please ensure the image meets the requirements before proceeding.')
 
-    if banner_image.width < 340:
-        raise ValueError(f'{server_name}\'s server banner is less than 340x45... Please ensure the image meets the requirements before proceeding.')
+    if banner_image.width < 351:
+        raise ValueError(f'{server_name}\'s server banner is less than 351x45... Please ensure the image meets the requirements before proceeding.')
 
     return True
 
