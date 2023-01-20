@@ -5,7 +5,9 @@
     "store": "https://store.accentry.cn/",
     "addresses": [
         "accentry.cn",
-        "zqat.top"
+        "zqat.top",
+        "hyprc.cn",
+        "hyprcn.cn"
     ],
     "primaryAddress": "accentry.cn",
     "primaryColor": "#eb6eb0",
