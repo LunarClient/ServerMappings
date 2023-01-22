@@ -13,6 +13,13 @@
     "minecraftVersions": [
         "1.19.*"
     ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "AS",
+        "OC",
+        "EU"
+    ],    
     "gameTypes": [
         "Survival",
     ],    
