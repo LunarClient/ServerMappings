@@ -13,6 +13,9 @@
     "minecraftVersions": [
         "1.19.*"
     ],
+    "gameTypes": [
+        "Survival",
+    ],    
     "primaryMinecraftVersion": "1.19.2",
     "store": "https://store.earthsteal.net/",
     "socials": {
