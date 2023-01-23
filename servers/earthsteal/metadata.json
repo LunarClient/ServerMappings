@@ -1,0 +1,33 @@
+{
+    "id": "earthsteal",
+    "name": "Earth Steal",
+    "addresses": [
+        "earthsteal.net",
+        "earthsteal.org",
+        "earthsteal.gg",
+        "earthsteal.com"
+    ],
+    "primaryAddress": "earthsteal.net",
+    "primaryColor": "#74e482",
+    "secondaryColor": "#22eac3",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "AS",
+        "OC",
+        "EU"
+    ],    
+    "gameTypes": [
+        "Survival"
+    ],    
+    "primaryMinecraftVersion": "1.19.2",
+    "store": "https://store.earthsteal.net/",
+    "socials": {
+        "discord": "https://discord.gg/MmzCabuXs9",
+        "tiktok": "earthsteal",
+        "twitter": "earthsteal"
+    }
+}
