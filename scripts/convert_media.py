@@ -107,7 +107,6 @@ def convert_background(path, output, server_id, server_name, sizes, lossless=Fal
 
     # Background Size-based destination name
     for size in sizes:
-        print(size)
         convert_and_resize(
             path,
             f"{output}/{server_id}-{size.split('x')[1]}.webp",
