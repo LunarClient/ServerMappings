@@ -2,3 +2,4 @@ Pillow
 webptools
 jsonschema
 mcstatus
+requests
