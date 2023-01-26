@@ -23,7 +23,6 @@ def post_comment(messages: dict):
         json={'body': comment, 'event': 'REQUEST_CHANGES'},
         headers={'Accept': 'application/vnd.github.v3+json', 'Authorization': f"Token {os.getenv('BOT_PAT')}"}
     )
-    exit(1)
 
 
 def check_metadata(args: argparse.Namespace) -> dict:
@@ -208,5 +207,15 @@ if __name__ == '__main__':
                          'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
             )
         exit(0)
+    else:
+        # Remove previously added labels
+        requests.post(
+            f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
+            json={'labels': []},
+            headers={'Accept': 'application/vnd.github+json',
+                        'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
+        )
 
-    post_comment(all_errors)
+        # Post Feedback
+        post_comment(all_errors)
+        exit(1)
