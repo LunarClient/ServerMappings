@@ -24,11 +24,12 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Validate Server JSON
-        run: python scripts/validate_json.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json
-
-      - name: Validate Server Media
-        run: python scripts/validate_media.py --servers_dir servers
+      - name: Validate Servers
+        run: python scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json
+        env:
+          PR_ID: ${{ github.event.pull_request.number }}
+          BOT_PAT: ${{ secrets.GITHUB_TOKEN }}
+          USE_ARGS: "true"
 
   upload-servers:
     needs: validate-servers
