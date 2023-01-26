@@ -67,10 +67,10 @@ jobs:
         run: mkdir .out/
           
       - name: Output Server Media
-        run: python scripts/convert_media.py --servers_dir servers --servers_logos_output .out/logos --servers_logos_sizes 256 128 64 32 --servers_backgrounds_output .out/backgrounds --servers_backgrounds_sizes 1280x720 852x480 --servers_banners_output .out/banners
+        run: python scripts/convert_media.py --servers_dir servers --inactive_file inactive.json --servers_logos_output .out/logos --servers_logos_sizes 256 128 64 32 --servers_backgrounds_output .out/backgrounds --servers_backgrounds_sizes 1280x720 852x480 --servers_banners_output .out/banners
 
       - name: Create Index File
-        run: python scripts/create_index.py --servers_dir servers --index_output .out/servers.json
+        run: python scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output .out/servers.json
 
       - name: Upload to S3
         run: |

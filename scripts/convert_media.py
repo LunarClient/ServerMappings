@@ -12,6 +12,7 @@ webptools.grant_permission()
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--servers_dir", required=True, type=str)
+    parser.add_argument("--inactive_file", required=True, type=str)
     parser.add_argument("--lossless", default=False, action="store_true")
 
     # Logo Args
@@ -30,7 +31,7 @@ def main():
     args = parser.parse_args()
 
     # Load server mappings JSON
-    servers = get_all_servers(args.servers_dir, False)
+    servers = get_all_servers(args.servers_dir, args.inactive_file, False)
 
     print(f"Converting {len(servers)} server media...")
     background_amount = 0
