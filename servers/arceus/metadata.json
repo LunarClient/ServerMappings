@@ -1,0 +1,37 @@
+{
+    "id": "arceus",
+    "name": "Arceus Network",
+    "description": "Top 1.8 PVP, Kits and HCF combat server!",
+    "addresses": [
+        "arceus.live"
+    ],
+    "primaryAddress": "arceus.live",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#22388b",
+    "secondaryColor": "#020111",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://web.arceus.live",
+    "socials": {
+        "twitter": "LunarNetwork",
+        "telegram": "lunarnetwork",
+        "discord": "https://discord.gg/kvkgcBqdAR"
+    }
+}
