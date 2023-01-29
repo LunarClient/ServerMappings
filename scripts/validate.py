@@ -206,6 +206,8 @@ if __name__ == '__main__':
                 headers={'Accept': 'application/vnd.github+json',
                          'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
             )
+
+        print("No errors happend. PR is ready for manual review.")
         exit(0)
     else:
         # Remove previously added labels if there is a pull_id
