@@ -182,7 +182,11 @@ def validate_banner(path, server_name):
         if total_duration > 10000:
             errors.append(f'{server_name}\'s server banner is more than 3 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
 
-        fps = (banner_image.n_frames / (total_duration / 1000.0))
+        if total_duration == 0:
+            errors.append(f'{server_name}\'s server gif server banner seems to not have any duration associated with it... Please ensure the image meets the requirements before proceeding.')
+
+        # TODO: some sort of fix so only one of the errors above or below show ( temp atm )
+        fps = (banner_image.n_frames / (total_duration / 1000.0)) if total_duration != 0 else 20.0
 
         if fps != 20.0:
             errors.append(f'{server_name}\'s server banner is not exactly 20 FPS (currently {fps})... Please ensure the image meets the requirements before proceeding.')
