@@ -197,8 +197,8 @@ if __name__ == '__main__':
     all_errors = check_media(arguments, metadata_errors)
 
     # If no errors happened for anything above add ready for review tag.
+    pull_id = os.getenv('PR_ID')
     if all(len(section) == 0 for section in all_errors.values()):
-        pull_id = os.getenv('PR_ID')
         if pull_id:
             requests.post(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
@@ -206,15 +206,18 @@ if __name__ == '__main__':
                 headers={'Accept': 'application/vnd.github+json',
                          'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
             )
+
+        print("No errors happend. PR is ready for manual review.")
         exit(0)
     else:
-        # Remove previously added labels
-        requests.post(
-            f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
-            json={'labels': []},
-            headers={'Accept': 'application/vnd.github+json',
-                        'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
-        )
+        # Remove previously added labels if there is a pull_id
+        if pull_id:
+            requests.post(
+                f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
+                json={'labels': []},
+                headers={'Accept': 'application/vnd.github+json',
+                            'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
+            )
 
         # Post Feedback
         post_comment(all_errors)
