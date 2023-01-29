@@ -176,6 +176,7 @@ def check_media(args: argparse.Namespace, current_errors: dict) -> dict:
 
 if __name__ == '__main__':
     use_args = os.getenv('USE_ARGS') == "true"
+    print(os.getenv('PR_ID'))
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers_dir', required=use_args, type=str)
     parser.add_argument('--metadata_schema', required=use_args, type=str)
