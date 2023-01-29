@@ -176,7 +176,6 @@ def check_media(args: argparse.Namespace, current_errors: dict) -> dict:
 
 if __name__ == '__main__':
     use_args = os.getenv('USE_ARGS') == "true"
-    print(os.getenv('PR_ID'))
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers_dir', required=use_args, type=str)
     parser.add_argument('--metadata_schema', required=use_args, type=str)
@@ -201,12 +200,14 @@ if __name__ == '__main__':
     pull_id = os.getenv('PR_ID')
     if all(len(section) == 0 for section in all_errors.values()):
         if pull_id:
+            print("request made")
             requests.post(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
                 json={'labels': ["Ready for review"]},
                 headers={'Accept': 'application/vnd.github+json',
                          'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
             )
+            print("request made2")
 
         print("No errors happend. PR is ready for manual review.")
         exit(0)
