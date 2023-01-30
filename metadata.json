@@ -1,0 +1,38 @@
+{
+    "id": "jadenetwork",
+    "name": "JadeMC Network",
+    "description": "Where the best players play",
+    "addresses": [
+        "jademc.net",
+        "play.jademc.net"
+    ],
+    "primaryAddress": "jademc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F39C12",
+    "secondaryColor": "#FFFF00",
+    "primaryLanguage": "es",
+    "languages": [
+        "en",
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+        "PotPvP"
+        "HCF"
+        "Factions"
+    ],
+    "store": "http://store.jademc.net",
+    "socials": {
+        "twitter": "jademcnet",
+        "telegram": "jademcnet",
+        "discord": "https://discord.gg/DrGaKGVaWp"
+    }
+}
