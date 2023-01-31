@@ -1,0 +1,43 @@
+{
+  "id": "playmides",
+  "name": "PlayMides Network",
+  "description": "We're a competitive mini games & pvp 1.8.8 network",
+  "addresses": [
+    "playmides.net"
+  ],
+  "primaryAddress": "playmides.net",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.*",
+	"1.9.*",
+	"1.10.*",
+	"1.11.*",
+	"1.12.*",
+	"1.13.*",
+	"1.14.*",
+	"1.15.*",
+	"1.16.*",
+	"1.17.*",
+	"1.18.*",
+	"1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.8.*",
+  "primaryColor": "#00F0FF",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+      "PvP",
+	  "MiniGames",
+	  "Prison"
+  ],
+  "website": "https://www.playmides.net",
+  "store": "https://store.playmides.net"
+}
