@@ -58,10 +58,6 @@ def main():
     os.makedirs(args.servers_banners_output, exist_ok=True)
 
     for server in servers:
-        if server["id"] != "blocksmc":
-            print("asd")
-            continue
-        print('asd2')
         server_id = server["id"]
         server_name = server["name"]
 
