@@ -10,25 +10,40 @@ webptools.grant_permission()
 
 
 def main():
+    use_args = os.getenv('USE_ARGS') == "true"
     parser = argparse.ArgumentParser()
-    parser.add_argument("--servers_dir", required=True, type=str)
-    parser.add_argument("--inactive_file", required=True, type=str)
-    parser.add_argument("--lossless", default=False, action="store_true")
+
+
+    parser.add_argument("--servers_dir", required=use_args, type=str)
+    parser.add_argument("--inactive_file", required=use_args, type=str)
+    parser.add_argument("--lossless", default=use_args, action="store_true")
 
     # Logo Args
-    parser.add_argument("--servers_logos_output", required=True, type=str)
+    parser.add_argument("--servers_logos_output", required=use_args, type=str)
     parser.add_argument("--servers_logos_sizes", nargs="+", type=int, default=[256])
 
     # Background args
-    parser.add_argument("--servers_backgrounds_output", required=True, type=str)
+    parser.add_argument("--servers_backgrounds_output", required=use_args, type=str)
     parser.add_argument(
         "--servers_backgrounds_sizes", nargs="+", type=str, default=["1920x1080"]
     )
 
     # Banner args
-    parser.add_argument('--servers_banners_output', required=True, type=str)
+    parser.add_argument('--servers_banners_output', required=use_args, type=str)
 
     args = parser.parse_args()
+
+    # If we don't find the env variable for use args assume we're running this locally
+    if not use_args:
+        local = os.path.abspath(os.path.join(os.path.dirname(__file__), '..')).replace("\\", "/")
+
+        args.inactive_file = local + "/inactive.json"
+        args.servers_dir = local + "/servers"
+
+        args.servers_logos_output = local + "/.out/servers_logos_output"
+        args.servers_backgrounds_output = local + "/.out/backgrounds"
+        args.servers_banners_output = local + "/.out/banners"
+        args.lossless = True
 
     # Load server mappings JSON
     servers = get_all_servers(args.servers_dir, args.inactive_file, False)
@@ -43,6 +58,10 @@ def main():
     os.makedirs(args.servers_banners_output, exist_ok=True)
 
     for server in servers:
+        if server["id"] != "blocksmc":
+            print("asd")
+            continue
+        print('asd2')
         server_id = server["id"]
         server_name = server["name"]
 
