@@ -16,7 +16,7 @@ def main():
 
     parser.add_argument("--servers_dir", required=use_args, type=str)
     parser.add_argument("--inactive_file", required=use_args, type=str)
-    parser.add_argument("--lossless", default=use_args, action="store_true")
+    parser.add_argument("--lossless", default=False, action="store_true")
 
     # Logo Args
     parser.add_argument("--servers_logos_output", required=use_args, type=str)
@@ -43,7 +43,7 @@ def main():
         args.servers_logos_output = local + "/.out/servers_logos_output"
         args.servers_backgrounds_output = local + "/.out/backgrounds"
         args.servers_banners_output = local + "/.out/banners"
-        args.lossless = True
+        args.lossless = False
 
     # Load server mappings JSON
     servers = get_all_servers(args.servers_dir, args.inactive_file, False)
