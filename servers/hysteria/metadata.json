@@ -1,9 +1,35 @@
 {
     "id": "hysteria",
     "name": "Hysteria Network",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "hy-pvp.com"
     ],
-    "primaryColor": "#454462",
-    "secondaryColor": "#0e0e1c"
+    "primaryAddress": "hy-pvp.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.hy-pvp.com",
+    "store": "https://store.hy-pvp.com",
+    "socials": {
+        "twitter": "HyNetwork",
+        "telegram": "hysterianetwork",
+        "discord": "https://discord.gg/hypvp"
+    }
 }
