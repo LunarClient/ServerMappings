@@ -24,15 +24,13 @@
         "NA"
     ],
     "gameTypes": [
-        "PvP"
-        "PotPvP"
+        "PvP",
         "HCF"
-        "Factions"
     ],
     "store": "http://store.jademc.net",
     "socials": {
-        "twitter": "jademcnet",
-        "telegram": "jademcnet",
+        "twitter": "https://twitter.com/jademcnet",
+        "telegram": "https://t.me/jademcnet",
         "discord": "https://discord.gg/DrGaKGVaWp"
     }
 }
