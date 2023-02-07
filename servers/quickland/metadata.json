@@ -1,0 +1,42 @@
+{
+    "id": "quickland",
+    "name": "QuickLand Network",
+    "description": "A Minecraft Network with Survival, PvP and Creative",
+    "addresses": [
+        "quickland.net"
+    ],
+    "primaryAddress": "quickland.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "FFA Clans",
+        "Skywars",
+        "Creative"
+    ],
+    "website": "https://quicklandx.tebex.io/",
+    "store": "https://quicklandx.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/quickland-network-703838301886349312"
+    }
+}
