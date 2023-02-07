@@ -1,0 +1,32 @@
+{
+    "id": "rise",
+    "name": "Rise Network",
+    "description": "Competitive Minecraft UHC Network",
+    "addresses": [
+        "riseuhc.club"
+    ],
+    "primaryAddress": "riseuhc.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+	"primaryColor": "#fd9801",
+    "secondaryColor": "#ffffff"
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+    ],
+    "gameTypes": [
+        "PvP",
+		"UHC"
+    ],
+    "socials": {
+        "twitter": "RiseGameFeed",
+        "discord": "https://discord.gg/2E54g9pg7c"
+    }
+}
