@@ -1,4 +1,5 @@
 import os
+import json
 import argparse
 import shutil
 from utils import get_all_servers
@@ -153,8 +154,24 @@ def convert_banner(path, output, server_id, server_name, lossless=False):
         shutil.copyfile(path, f"{output}/{server_id}.gif")
         gif_to_sprite_sheet(path, output, server_id, lossless)
 
+    make_banner_metadata(path, output, server_id)
+
     print(f"Successfully converted {server_name}'s banner.")
     return True
+
+def make_banner_metadata(path, output, server_id):
+    img = image.open(path)
+    frame_durations = []
+
+    if img.n_frames > 1:
+        for idx in range(0, img.n_frames):
+            img.seek(idx)
+            frame_durations.append(img.info['duration'])
+
+    with open(f"{output}/{server_id}.json", 'w') as fp:
+        json.dump({
+            'frame_durations': frame_durations
+        }, fp)
 
 def gif_to_sprite_sheet(path, output, server_id, lossless=False):
     img = image.open(path)
