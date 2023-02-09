@@ -1,0 +1,21 @@
+{
+    "id": "sosamc",
+    "name": "SosaMC",
+    "website": "https://sosamc.net/",
+    "store": "https://store.sosamc.net/",
+    "addresses": [
+        "sosamc.net",
+        "mc.sosamc.net"
+    ],
+    "primaryAddress": "sosamc.net",
+    "primaryColor": "#47cfcf",
+    "secondaryColor": "#0da39b",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "sosanetwork",
+        "discord": "https://discord.sosamc.net",
+    }
+}
