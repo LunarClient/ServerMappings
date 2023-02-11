@@ -3,9 +3,9 @@
     "name": "RoseNetwork",
     "description": "A server where you can play with your friends, or make new friends.",
     "addresses": [
-        "rosenetwork.it"
+        "rose-network.it"
     ],
-    "primaryAddress": "play.rosenetwork.it",
+    "primaryAddress": "play.rose-network.it",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -31,6 +31,6 @@
         "PvP", 
         "Survival"
     ],
-    "website": "https://www.rosenetwork.it",
-    "store": "https://store.rosenetwork.it"
+    "website": "https://www.rose-network.it",
+    "store": "https://store.rose-network.it"
 }
