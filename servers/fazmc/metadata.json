@@ -1,13 +1,25 @@
 {
     "id": "fazmc",
-    "name": "FazMC.com",
+    "name": "FazMC",
     "website": "https://fazmc.com/",
     "description": "FazMC is a minigames server with interesting, original modes.",
     "addresses": [
         "fazmc.com"
     ],
+    "primaryAddress": "electrich.cf",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+    ],
+    "primaryMinecraftVersion": "1.19.2",
     "primaryColor": "#df7b08",
     "secondaryColor": "#feb00a",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "Minigames"
     ],
