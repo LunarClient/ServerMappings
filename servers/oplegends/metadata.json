@@ -1,0 +1,41 @@
+{
+    "id": "oplegends",
+    "name": "OPLegends",
+    "description": "A new era of Minecraft awaits!",
+    "website": "https://oplegends.com",
+    "store": "https://store.oplegends.com",
+    "addresses": [
+        "oplegends.com",
+        "opl.ms",
+        "oplegends.net",
+        "oplegends.org"
+    ],
+    "primaryAddress": "play.oplegends.com",
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "Minigames"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryColor": "#f1ba53",
+    "secondaryColor": "#b22c32",
+    "primaryMinecraftVersion": "1.19.2",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "socials": {
+        "twitter": "OPLegendsMC",
+        "discord": "https://discord.com/invite/oplegends",
+        "youtube": "OPLegendsMC",
+        "instagram": "oplegendsmc",
+        "tiktok": "oplegendsmc"
+    }
+}
