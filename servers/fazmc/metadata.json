@@ -1,0 +1,19 @@
+{
+    "id": "fazmc",
+    "name": "FazMC.com",
+    "website": "https://fazmc.com/",
+    "description": "FazMC is a minigames server with interesting, original modes.",
+    "addresses": [
+        "fazmc.com"
+    ],
+    "primaryColor": "#df7b08",
+    "secondaryColor": "#feb00a",
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/CtrgrCQHBa",
+        "tiktok": "fazmc.com",
+        "youtube": "FazMC"
+    }
+}
