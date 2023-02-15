@@ -1,7 +1,7 @@
 {
     "id": "realmi",
     "name": "Realmi",
-	"description": "Suomalainen Peliyhteisö. Liity mukaan jatkuvasti kasvavaan yhteisöömme!",
+    "description": "Suomalainen Peliyhteisö. Liity mukaan jatkuvasti kasvavaan yhteisöömme!",
     "addresses": [
         "realmi.fi"
     ],
@@ -15,7 +15,7 @@
     "secondaryColor": "#ffa800",
     "primaryLanguage": "fi",
     "primaryRegion": "EU",
-	"regions": [
+    "regions": [
         "EU"
     ],
     "gameTypes": [
@@ -23,7 +23,7 @@
         "Creative",
         "Minigames"
     ],
-	"website": "https://realmi.fi/",
+    "website": "https://realmi.fi/",
     "store": "https://kauppa.realmi.fi/",
     "socials": {
         "discord": "https://discord.com/invite/realmi",
