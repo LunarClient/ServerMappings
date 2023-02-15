@@ -5,10 +5,10 @@
     "addresses": [
         "realmi.fi"
     ],
-	"primaryAddress": "realmi.fi",
-	"minecraftVersions": [
-        "1.8.*",
-		"1.19.*"
+    "primaryAddress": "realmi.fi",
+    "minecraftVersions": [
+	"1.8.*",
+	"1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
     "primaryColor": "#fb6900",
@@ -21,7 +21,7 @@
     "gameTypes": [
         "Survival",
         "Creative",
-		"Minigames"
+        "Minigames"
     ],
 	"website": "https://realmi.fi/",
     "store": "https://kauppa.realmi.fi/",
