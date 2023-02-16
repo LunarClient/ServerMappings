@@ -222,5 +222,5 @@ if __name__ == '__main__':
 
         # Post Feedback
         post_comment(all_errors)
-        print(all_errors)
+        #print(all_errors)
         exit(1)
