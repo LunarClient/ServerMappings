@@ -24,11 +24,5 @@
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.kazer.cc",
-    "store": "https://store.kazer.cc",
-    "socials": {
-        "twitter": "KazerNetwork",
-        "telegram": "kazernetwork",
-        "discord": "https://www.kazer.cc/discord"
-    }
+    "store": "https://store.kazer.cc"
 }
