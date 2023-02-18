@@ -29,9 +29,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
         "Skyblock",
-        "Parkour",
         "Survival",
         "Creative"
     ],
