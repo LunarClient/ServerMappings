@@ -27,7 +27,7 @@
   "primaryLanguage": "en",
   "languages": [
     "en",
-    "es"
+    "es-EN"
   ],
   "primaryRegion": "NA",
   "regions": [
@@ -35,8 +35,8 @@
   ],
   "gameTypes": [
       "PvP",
-	  "MiniGames",
-	  "Prison"
+      "MiniGames",
+      "Prison"
   ],
   "website": "https://www.playmides.net",
   "store": "https://store.playmides.net"
