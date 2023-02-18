@@ -18,9 +18,9 @@
     "primaryMinecraftVersion": "1.7.10",
     "primaryColor": "#55ffff",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "primaryRegion": "NA",
@@ -28,9 +28,11 @@
         "NA"
     ],
     "gameTypes": [
+        "PvP",
+        "PvE",
+        "Skyblock",
+        "Parkour",
         "Survival",
-        "FFA Clans",
-        "Skywars",
         "Creative"
     ],
     "website": "https://quicklandx.tebex.io/",
