@@ -200,12 +200,13 @@ if __name__ == '__main__':
     pull_id = os.getenv('PR_ID')
     if all(len(section) == 0 for section in all_errors.values()):
         if pull_id:
-            requests.post(
+            r = requests.post(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
                 json={'labels': ["Ready for review"]},
                 headers={'Accept': 'application/vnd.github+json',
                          'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
             )
+            print(r)
 
         print("No errors happend. PR is ready for manual review.")
         exit(0)
@@ -221,4 +222,5 @@ if __name__ == '__main__':
 
         # Post Feedback
         post_comment(all_errors)
+        print(all_errors)
         exit(1)
