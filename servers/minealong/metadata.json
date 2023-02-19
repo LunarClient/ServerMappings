@@ -1,9 +1,19 @@
 {
     "id": "minealong",
     "name": "Minealong",
+    "website": "https://store.minealong.com",
+    "store": "https://store.minealong.com",
     "addresses": [
-        "play.minealong.com"
+        "play.minealong.come"
     ],
+    "primaryAddress": "play.minealong.com",
+    "minecraftVersions": [
+        "1.16.*+"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
     "primaryColor": "#2596be",
-    "secondaryColor": "#2596be"
+    "secondaryColor": "#2596be",
+    "gameTypes": [
+        "Survival"
+    ]
 }
