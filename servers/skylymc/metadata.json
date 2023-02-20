@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 {
     "id": "skylymc",
     "name": "Skyly",
@@ -31,8 +30,7 @@
         "EU"
     ],
     "gameTypes": [
-        "Minigames",
-        "PVP"
+        "PvP"
     ],
     "socials": {
         "twitter": "skylymc",
@@ -42,48 +40,3 @@
         "tiktok": "skylymc"
     }
 }
-=======
-{
-    "id": "skylymc",
-    "name": "Skyly",
-    "description": "Large French FFA Game server",
-    "website": "https://skyly.fr/",
-    "addresses": [
-        "skyly.fr",
-        "mc.skyly.fr",
-        "play.skyly.fr"
-    ],
-    "primaryAddress": "skyly.fr",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#fdd24d",
-    "secondaryColor": "#fffeff",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr",
-        "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
-    "gameTypes": [
-        "Minigames",
-        "PVP"
-    ],
-    "socials": {
-        "twitter": "skylymc",
-        "discord": "https://discord.gg/uTRDp4ZyZ9",
-        "youtube": "skylymc",
-        "instagram": "skylymc",
-        "tiktok": "skylymc"
-    }
-}
->>>>>>> Stashed changes
