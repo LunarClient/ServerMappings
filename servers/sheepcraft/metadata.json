@@ -5,7 +5,7 @@
     "addresses": ["play.sheepcraft.org"],
     "primaryAddress": "play.sheepcraft.org",
     "minecraftVersions": ["1.8.*", "1.19.*"],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#9900ff",
     "secondaryColor": "#ffffff",
     "regions": ["NA", "SA", "EU"],
