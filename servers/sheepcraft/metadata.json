@@ -1,18 +1,18 @@
 {
-    "id": "comboland",
-    "name": "Combo Land",
-    "description": "The ultimate PvP experience",
-    "addresses": ["combo.land", "sopaipa.club", "sopaipa.xyz", "pvpnig.ga"],
-    "primaryAddress": "combo.land",
-    "minecraftVersions": ["1.7.*", "1.8.*"],
-    "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#00fff7",
-    "secondaryColor": "#00ae99",
-    "regions": ["NA", "SA"],
-    "primaryRegion": "NA",
+    "id": "sheepcraft",
+    "name": "SheepCraft",
+    "description": "La casa del Survival PVP para clanes, since 2020",
+    "addresses": "play.sheepcraft.org",
+    "primaryAddress": "play.sheepcraft.org",
+    "minecraftVersions": ["1.8.*", "1.19.0"],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryColor": "#9900ff",
+    "secondaryColor": "#ffffff",
+    "regions": ["NA", "SA", "EU"],
+    "primaryRegion": "SA",
     "gameTypes": ["PvP"],
-    "store": "https://store.combo.land",
+    "store": "https://store.sheepcraft.org",
     "socials": {
-        "discord": "https://discord.combo.land"
+        "discord": "https://discord.gg/sheepcraft"
     }
 }
