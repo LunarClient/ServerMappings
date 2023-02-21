@@ -8,9 +8,13 @@ on:
     branches:
     - master
 
+
 jobs:
   validate-servers:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v1
