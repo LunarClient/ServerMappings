@@ -2,7 +2,7 @@
     "id": "sheepcraft",
     "name": "SheepCraft",
     "description": "La casa del Survival PVP para clanes, since 2020",
-    "addresses": "play.sheepcraft.org",
+    "addresses": ["play.sheepcraft.org"],
     "primaryAddress": "play.sheepcraft.org",
     "minecraftVersions": ["1.8.*", "1.19.*"],
     "primaryMinecraftVersion": "1.8.8",
