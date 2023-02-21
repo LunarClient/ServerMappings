@@ -10,7 +10,7 @@
     "secondaryColor": "#ffffff",
     "regions": ["NA", "SA", "EU"],
     "primaryRegion": "SA",
-    "gameTypes": ["PvP"],
+    "gameTypes": ["PvP", "Survival"],
     "store": "https://store.sheepcraft.org",
     "socials": {
         "discord": "https://discord.gg/sheepcraft"
