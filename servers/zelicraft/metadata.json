@@ -21,8 +21,6 @@
     ],
     "primaryRegion": "NA",
     "gameTypes": [
-        "PvP",
-        "PvE",
         "Survival",
         "Adventure",
         "Minigames"
