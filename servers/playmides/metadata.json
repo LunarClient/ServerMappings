@@ -3,7 +3,8 @@
   "name": "PlayMides Network",
   "description": "We're a competitive mini games & pvp 1.8.8 network",
   "addresses": [
-    "playmides.net"
+    "playmides.net",
+    "midesprojects.net"
   ],
   "primaryAddress": "playmides.net",
   "minecraftVersions": [
@@ -15,7 +16,7 @@
     "1.18.*",
     "1.19.*"
   ],
-  "primaryMinecraftVersion": "1.8.*",
+  "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#00F0FF",
   "secondaryColor": "#FFFFFF",
   "primaryLanguage": "en",
