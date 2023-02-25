@@ -2,31 +2,17 @@
     "id": "catedral",
     "name": "Catedral Network",
     "description": "PotPvP competitive based server",
-    "addresses": [
-        "catedral.rip"
-    ],
+    "addresses": ["catedral.rip"],
     "primaryAddress": "catedral.rip",
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
-    ],
+    "minecraftVersions": ["1.8.*"],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ac4ea5",
-    "secondaryColor": "#9472ba",
-    "primaryLanguage": "es",
-    "languages": [
-        "es"
-    ],
+    "primaryColor": "#9900ff",
+    "secondaryColor": "#ffffff",
+    "regions": ["NA"],
     "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
-    "gameTypes": [
-        "HCF"
-    ],
+    "gameTypes": ["PvP"],
     "store": "https://store.catedral.rip",
     "socials": {
-        "twitter": "CatedralRIP",,
         "discord": "https://www.catedral.rip/discord"
     }
 }
