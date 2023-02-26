@@ -34,9 +34,7 @@
    "gameTypes":[
       "PvP",
       "PvE",
-      "Minigames",
-      "Survival",
-      "Adventure"
+      "Minigames"
    ],
    "website":"https://www.kaory.xyz",
    "store":"https://store.kaory.xyz",
