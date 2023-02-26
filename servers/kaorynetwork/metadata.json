@@ -1,48 +1,48 @@
 {
-    "id": "kaorynetwork",
-    "name": "Kaory Network",
-    "description": "Minecraft network with multiple minigames, multi-language and multi-region.",
-    "addresses": [
-        "kaory.xyz",
-    ],
-    "primaryAddress": "mc.kaory.xyz",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#20FF64",
-    "secondaryColor": "#4dff85",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN",
-        "de",
-        "jp"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA",
-        "EU",
-        "AS",
-        "SA"
-    ],
-    "gameTypes": [
-        "PvP",
-        "PvE",
-        "Minigames",
-        "Survival",
-        "Adventure"
-    ],
-    "website": "https://www.kaory.xyz",
-    "store": "https://store.kaory.xyz",
-    "socials": {
-        "twitter": "KaoryNetwork",
-        "discord": "https://discord.kaory.xyz",
-        "tiktok": "kaorynetwork"
-    }
+   "id":"kaorynetwork",
+   "name":"Kaory Network",
+   "description":"Minecraft network with multiple minigames, multi-language and multi-region.",
+   "addresses":[
+      "kaory.xyz"
+   ],
+   "primaryAddress":"mc.kaory.xyz",
+   "minecraftVersions":[
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*"
+   ],
+   "primaryMinecraftVersion":"1.8.9",
+   "primaryColor":"#20FF64",
+   "secondaryColor":"#4dff85",
+   "primaryLanguage":"es-EN",
+   "languages":[
+      "en",
+      "es-EN",
+      "de",
+      "jp"
+   ],
+   "primaryRegion":"NA",
+   "regions":[
+      "NA",
+      "EU",
+      "AS",
+      "SA"
+   ],
+   "gameTypes":[
+      "PvP",
+      "PvE",
+      "Minigames",
+      "Survival",
+      "Adventure"
+   ],
+   "website":"https://www.kaory.xyz",
+   "store":"https://store.kaory.xyz",
+   "socials":{
+      "twitter":"KaoryNetwork",
+      "discord":"https://discord.kaory.xyz",
+      "tiktok":"kaorynetwork"
+   }
 }
