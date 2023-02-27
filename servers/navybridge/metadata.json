@@ -10,8 +10,7 @@
     "secondaryColor": "#2d576c",
     "regions": ["NA"],
     "primaryRegion": "NA",
-    "gameTypes": ["PvP", "Bridging"],
-    "store": "",
+    "gameTypes": ["PvP"],
     "socials": {
         "youtube": "youtube.com/@iiNavy"
     }
