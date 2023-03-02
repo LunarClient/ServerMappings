@@ -2,9 +2,13 @@
     "id": "cubenetwork",
     "name": "CubeNetwork",
     "addresses": [
-        "cubenetwork.it"
+        "cubenetwork.it",
         "spongegames.tk"
     ],
+    "gameTypes": [
+        "KitPvP"
+    ],    
     "primaryColor": "#0080db",
     "secondaryColor": "#2d52b6"
+    
 }
