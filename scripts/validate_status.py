@@ -14,19 +14,9 @@ def main():
     args = parser.parse_args()
 
     # Load server mappings JSON
-    servers = get_all_servers(args.servers_dir)
-
-    # Load inactive servers
-    inactive_file = []
-    with open(args.inactive_file) as inactive_file_file:
-        inactive_file = json.load(inactive_file_file)
+    servers = get_all_servers(args.servers_dir, args.inactive_file, False)
 
     for server in servers:
-        # Ignore inacitve servers
-        if server["id"] in inactive_file:
-            print("\u23ED", f" Skipped inactive server {server['name']}")
-            continue
-
         # Attempt to ping
         try:
             address = (

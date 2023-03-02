@@ -1,6 +1,7 @@
 {
     "id": "kazer",
     "name": "Kazer Network",
+    "description": "Home of Competitive Minecraft Games",
     "addresses": [
         "kazer.cc"
     ],
@@ -10,6 +11,18 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#000000",
-    "secondaryColor": "#ffffff"
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.kazer.cc"
 }
