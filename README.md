@@ -65,7 +65,7 @@ If you think your server has been added to this list by mistake, please make a s
 
 ## Can I use this data for ___?
 
-Go for it.
+Go for it!
 
 ## Any other questions?
 
