@@ -73,6 +73,7 @@ jobs:
           R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
         run: |
           aws s3 sync .out s3://lunarclient-artifacts-servermappings --content-type "image/webp" --delete --endpoint-url $R2_ENDPOINT
           aws s3 cp .out/servers.json s3://lunarclient-artifacts-servermappings/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
