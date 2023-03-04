@@ -6,7 +6,7 @@
         "spongegames.tk"
     ],
     "gameTypes": [
-        "KitPvP"
+        "PvP"
     ],    
     "primaryColor": "#0080db",
     "secondaryColor": "#2d52b6"
