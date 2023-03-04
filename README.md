@@ -28,6 +28,10 @@ In addition to the data that you will need to provide in your `metadata.json`, y
 
 Servers are also required to provide background image, you will need to upload a `.png` version of the background into the same folder as your `metadata.json`. Images should represent either the artistic style or the content of the server, with images needing to be _a minimum of 1920px in width and 1080px in height, resulting in a 16:9 aspect ratio_. The file name should be `background.png`. Backgrounds should be free of marketing, text, and/or any logos (that isn't part of a build).
 
+## Banners
+
+Servers may also provide a server banner - you will be made aware if this is a requirement for your server. If a banner is provided, it must be uploaded as either a `.png` version named `banner.png` (for static banners,) or a `.gif` version named `banner.gif` (for animated banners,) in the same folder as your `metadata.json`. Banners should represent the content of the server, and prominently feature the server's name and/or IP. All banners must be _a minimum of 340 pixels wide and 45 pixels high, resulting in a 68:9 aspect ratio._ Additionally, animated (GIF) banners must play at _20 frames per second_, and be no more than _10 seconds in duration_.
+
 ## Regions
 
 In your `metadata.json`, you can define both a `primaryRegion` and `regions` which your server supports. Below is a table of the regions.
@@ -61,7 +65,7 @@ If you think your server has been added to this list by mistake, please make a s
 
 ## Can I use this data for ___?
 
-Go for it.
+Go for it!
 
 ## Any other questions?
 

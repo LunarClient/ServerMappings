@@ -1,0 +1,33 @@
+{
+    "id": "realmi",
+    "name": "Realmi",
+    "description": "Suomalainen Peliyhteisö. Liity mukaan jatkuvasti kasvavaan yhteisöömme!",
+    "addresses": [
+        "realmi.fi"
+    ],
+    "primaryAddress": "realmi.fi",
+    "minecraftVersions": [
+	"1.8.*",
+	"1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#fb6900",
+    "secondaryColor": "#ffa800",
+    "primaryLanguage": "en",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Minigames"
+    ],
+    "website": "https://realmi.fi/",
+    "store": "https://kauppa.realmi.fi/",
+    "socials": {
+        "discord": "https://discord.com/invite/realmi",
+        "instagram": "officialrealmi",
+        "tiktok": "realmi.fi"
+    }
+}

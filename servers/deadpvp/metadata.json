@@ -1,0 +1,22 @@
+{
+    "id": "deadpvp",
+    "name": "DeadPvP Network",
+    "website": "https://www.deadpvp.eu",
+    "store": "https://store.deadpvp.eu",
+    "addresses": [
+        "deadpvp.eu",
+        "deadpvp.network",
+        "fluxmine.eu"
+    ],
+    "primaryAddress": "deadpvp.eu",
+    "primaryColor": "#e10015",
+    "secondaryColor": "#494949",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.deadpvp.eu",
+        "instagram": "deadpvp.eu",
+        "twitter": "deadpvpeu"
+    }
+}

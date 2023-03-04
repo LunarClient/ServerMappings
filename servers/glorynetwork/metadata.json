@@ -4,15 +4,16 @@
     "website": "https://glory-network.com/",
     "store": "https://store.glory-network.com/",
     "addresses": [
-        "glory-network.com",
+        "glory-network.net",
         "rbw.world"
     ],
-    "primaryAddress": "play.glory-network.com",
-    "primaryColor": "#c59326",
-    "secondaryColor": "#3be6ed",
+    "primaryAddress": "play.glory-network.net",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#ffff00",
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.com/invite/tUqdWEUVvx"
