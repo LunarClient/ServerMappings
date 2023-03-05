@@ -1,0 +1,55 @@
+{
+    "id": "minehades",
+    "name": "MineHades Network",
+    "description": "La red de dioses. - play.minehades.net",
+    "addresses": [
+        "play.minehades.net",
+        "jugar.minehades.net",
+        "mc.minehades.net"
+    ],
+    "primaryAddress": "play.minehades.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.*",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Adventure"
+
+    ],
+    "website": "https://minehades.net/",
+    "store": "https://tienda.minehades.net",
+    "socials": {
+        "twitter": "MineHadesNET",
+        "tiktok": "MineHadesNET",
+        "discord": "https://discord.minehades.net/"
+    }
+}
