@@ -2,8 +2,10 @@
     "id": "cubenetwork",
     "name": "CubeNetwork",
     "addresses": [
+        "play.cubenetwork.it",
+        "mc.cubenetwork.it",
         "cubenetwork.it",
-        "spongegames.tk"
+        "play.spongegames.tk"
     ],
     "gameTypes": [
         "PvP"
