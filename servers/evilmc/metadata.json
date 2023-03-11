@@ -1,10 +1,9 @@
 {
   "id": "evilmc",
-  "name": "EvilMC",
+  "name": "EvilMC Network",
   "description": "EvilMC is a network focused on PvP like UHC, HCF & Kitmap.",
   "addresses": [
-    "evilmc.us",
-    "exoticos.club"
+    "evilmc.us"
   ],
   "primaryAddress": "evilmc.us",
   "minecraftVersions": [
