@@ -8,9 +8,13 @@ on:
     branches:
     - master
 
+
 jobs:
   validate-servers:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
 
     steps:
       - uses: actions/checkout@v1
@@ -41,19 +45,9 @@ jobs:
       id-token: write
       contents: read
 
-    env:
-      cdn_bucket: lunarclient-cdn-servermappings
-      cdn_distribution: E45B8N9YLM3QG
-
     steps:
       - name: Checkout from GitHub
         uses: actions/checkout@master
-        
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
-          aws-region: us-east-2
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v1
@@ -74,10 +68,21 @@ jobs:
       - name: Create Index File
         run: python scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output .out/servers.json
 
-      - name: Upload to S3
+      - name: Upload to Cloudflare
+        env:
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
         run: |
-          aws s3 sync .out s3://$cdn_bucket --content-type "image/webp" --delete --cache-control "public, max-age=86400"
-          aws s3 cp .out/servers.json s3://$cdn_bucket/servers.json --content-type "application/json" --cache-control "public, max-age=86400"
+          aws s3 sync .out s3://servermappings-lunarclientcdn-com --content-type "image/webp" --delete --endpoint-url $R2_ENDPOINT
+          aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
 
-      - name: Purge cache
-        run: aws cloudfront create-invalidation --distribution-id $cdn_distribution --paths "/*"
+      - name: Purge Cloudflare cache
+        env:
+          CLOUDFLARE_PURGE_TOKEN: ${{ secrets.CLOUDFLARE_PURGE_TOKEN }}
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
+            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
