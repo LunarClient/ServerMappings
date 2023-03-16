@@ -6,7 +6,6 @@
     "addresses": [
         "fazmc.com"
     ],
-    "primaryAddress": "electrich.cf",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
