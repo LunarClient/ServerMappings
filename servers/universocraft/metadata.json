@@ -4,7 +4,8 @@
     "website": "https://www.universocraft.com/",
     "store": "https://tienda.universocraft.com/",
     "addresses": [
-        "universocraft.com"
+        "universocraft.com",
+        "mc.universocraft.net"
     ],
     "primaryAddress": "mc.universocraft.com",
     "primaryColor": "#08a4f8",
