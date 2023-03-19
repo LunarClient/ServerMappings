@@ -8,9 +8,9 @@
     ],
     "primaryAddress": "onecube.com",
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.9"
     ],
-    "primaryMinecraftVersion": "1.8*",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#e2a90d",
     "secondaryColor": "#63e4c8",
     "primaryLanguage": "fr",

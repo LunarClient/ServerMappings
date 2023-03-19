@@ -10,7 +10,7 @@
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8*",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#73849a",
     "secondaryColor": "#51f06f",
     "primaryLanguage": "fr",
