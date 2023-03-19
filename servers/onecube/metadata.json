@@ -1,0 +1,34 @@
+{
+    "id": "onecube",
+    "name": "onecube",
+    "website": "https://www.onecube.com/",
+    "store": "https://www.onecube.com/shop",
+    "addresses": [
+        "onecube.com"
+    ],
+    "primaryAddress": "onecube.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8*",
+    "primaryColor": "#e2a90d",
+    "secondaryColor": "#63e4c8",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "OneCubeFR",
+        "discord": "https://discord.com/invite/OneCube",
+        "instagram": "onecubeofficiel",
+        "youtube": "OneCubeFR"
+    }
+}

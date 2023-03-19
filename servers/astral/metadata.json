@@ -1,0 +1,33 @@
+{
+    "id": "astral",
+    "name": "AstralMC",
+    "store": "https://store.astralmc.cc/",
+    "addresses": [
+        "astralmc.cc"
+    ],
+    "primaryAddress": "astralmc.cc",
+    "minecraftVersions": [
+        "1.7*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8*",
+    "primaryColor": "#ff5af0",
+    "secondaryColor": "#060627",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PVP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "AstralNetworkCC",
+        "discord": "http://discord.gg/astralmc"
+    }
+}
