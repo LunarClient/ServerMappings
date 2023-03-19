@@ -7,6 +7,11 @@
         "qplay.cz"
     ],
     "primaryAddress": "mc.qplay.cz",
+    "primaryColor": "#ef5353",
+    "secondaryColor": "#363535",
+    "gameTypes": [
+        "Survival"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/5c68GMB",
         "youtube": "qplaycz",

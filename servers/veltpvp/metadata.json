@@ -3,5 +3,11 @@
     "name": "VeltPvP",
     "addresses": [
         "veltpvp.com"
-    ]
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "primaryColor": "#343f9f",
+    "secondaryColor": "#8c2121"
 }

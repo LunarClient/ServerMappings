@@ -6,6 +6,13 @@
     "addresses": [
         "quut.io"
     ],
+    "primaryColor": "#418dcc",
+    "secondaryColor": "#2f529e",
+    "gameTypes": [
+        "Survival",
+        "Prison",
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/RkEMPGukVn"
     }

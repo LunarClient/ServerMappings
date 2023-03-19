@@ -6,18 +6,21 @@
     "description": "CoralMC is the best server in Italy for those who enjoy healthy competition.",
     "addresses": [
         "coralmc.it",
+        "coralmc.eu",
+        "coralmc.net",
         "quarantena.rip"
     ],
     "primaryAddress": "play.coralmc.it",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#1387ca",
     "secondaryColor": "#262d37",
     "primaryLanguage": "it",
@@ -35,6 +38,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/MGW42TXHBd",
-        "telegram": "CoralMC"
+        "instagram": "coralmc.it",
+        "telegram": "CoralMC",
+        "tiktok": "coralmc.it"
     }
 }

@@ -8,9 +8,14 @@
     ],
     "primaryAddress": "play.meapcraft.online",
     "minecraftVersions": [
-        "1.19"
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#6e2a69",
+    "secondaryColor": "#fcdb7f",
+    "gameTypes": [
+        "Survival"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/CnqeBsuyMF",
         "youtube": "UCVCLjrFzLvaYQWb6tcaPbGw"

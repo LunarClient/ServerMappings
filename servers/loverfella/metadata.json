@@ -7,6 +7,13 @@
         "loverfella.com"
     ],
     "primaryAddress": "play.loverfella.com",
+    "primaryColor": "#cd2127",
+    "secondaryColor": "#e91e27",
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Parkour"
+    ],
     "socials": {
         "twitter": "loverfellatv",
         "discord": "https://discord.com/invite/loverfam",

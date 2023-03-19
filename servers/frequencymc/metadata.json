@@ -5,5 +5,11 @@
     "store": "https://store.frequencymc.cc/",
     "addresses": [
         "frequencymc.cc"
-    ]
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryColor": "#282828",
+    "secondaryColor": "#b4fcfc"
 }

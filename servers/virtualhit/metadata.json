@@ -6,6 +6,12 @@
     "addresses": [
         "virtualhit.es"
     ],
+    "primaryColor": "#f8ecfd",
+    "secondaryColor": "#083467",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
     "socials": {
         "twitter": "VirtualHitES",
         "discord": "https://discord.com/invite/virtualhit",

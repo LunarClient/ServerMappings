@@ -10,12 +10,18 @@
     ],
     "primaryAddress": "mccisland.net",
     "minecraftVersions": [
-        "1.19"
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryColor": "#f9e28b",
+    "secondaryColor": "#15ddfd",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
     ],
     "socials": {
         "twitter": "mccisland_",

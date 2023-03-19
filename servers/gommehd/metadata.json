@@ -7,6 +7,12 @@
         "gommehd.net"
     ],
     "primaryAddress": "gommehd.net",
+    "primaryColor": "#f7d63f",
+    "secondaryColor": "#5d3220",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "GommeHDnet",
         "discord": "https://discord.com/invite/GommeHDnet",

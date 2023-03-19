@@ -3,5 +3,10 @@
     "name": "WarfareMC.eu",
     "addresses": [
         "warfaremc.eu"
-    ]
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryColor": "#a0cde3",
+    "secondaryColor": "#3d4b5b"
 }

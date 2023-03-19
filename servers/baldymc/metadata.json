@@ -7,6 +7,11 @@
         "baldymc.com",
         "baldymc.xyz"
     ],
+    "primaryColor": "#955a06",
+    "secondaryColor": "#fbcb01",
+    "gameTypes": [
+        "Survival"
+    ],
     "socials": {
         "twitter": "BaldyMCOfficial"
     }

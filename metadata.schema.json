@@ -4,7 +4,10 @@
     "required": [
         "id",
         "name",
-        "addresses"
+        "addresses",
+        "gameTypes",
+        "primaryColor",
+        "secondaryColor"
     ],
     "properties": {
         "id": {
@@ -37,7 +40,7 @@
             }
         },
         "primaryMinecraftVersion": {
-            "$ref": "#/definitions/MinecraftVersion"
+            "$ref": "#/definitions/MinecraftSubversion"
         },
         "primaryColor": {
             "$ref": "#/definitions/RGBColor"
@@ -124,13 +127,38 @@
         "MinecraftVersion": {
             "type": "string",
             "enum": [
-                "1.7",
-                "1.8",
-                "1.12",
-                "1.16",
-                "1.17",
-                "1.18",
-                "1.19"
+                "1.7.*",
+                "1.8.*",
+                "1.12.*",
+                "1.16.*",
+                "1.17.*",
+                "1.18.*",
+                "1.19.*",
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3"
+            ]
+        },
+        "MinecraftSubversion": {
+            "type": "string",
+            "enum": [
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3"
             ]
         },
         "Region": {

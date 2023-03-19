@@ -6,8 +6,13 @@
     "addresses": [
         "feargames.it"
     ],
+    "primaryColor": "#e3e5e5",
+    "secondaryColor": "#492b28",
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
     "socials": {
-        "twitter": "",
         "discord": "https://discord.com/invite/yZ6FnK8",
         "youtube": "UCcS-t5V9TP0tM01fzwFebzg",
         "instagram": "feargames.it",

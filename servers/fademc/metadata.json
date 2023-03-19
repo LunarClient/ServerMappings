@@ -3,5 +3,7 @@
     "name": "FadeMC",
     "addresses": [
         "fademc.org"
-    ]
+    ],
+    "primaryColor": "#01a6ca",
+    "secondaryColor": "#424740"
 }

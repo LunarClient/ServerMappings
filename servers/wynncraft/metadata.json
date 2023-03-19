@@ -7,6 +7,13 @@
         "wynncraft.com"
     ],
     "primaryAddress": "play.wynncraft.com",
+    "primaryColor": "#b0b46c",
+    "secondaryColor": "#463d2b",
+    "gameTypes": [
+        "Roleplay",
+        "PvP",
+        "PvE"
+    ],
     "socials": {
         "twitter": "Wynncraft",
         "discord": "https://discord.com/invite/yJkSQwp",

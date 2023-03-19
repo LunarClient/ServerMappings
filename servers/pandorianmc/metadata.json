@@ -6,6 +6,11 @@
     "addresses": [
         "pandorianmc.net"
     ],
+    "primaryColor": "#00a1fe",
+    "secondaryColor": "#000101",
+    "gameTypes": [
+        "Skyblock"
+    ],
     "socials": {
         "twitter": "PandorianMC",
         "discord": "https://discord.com/invite/KYX29wBhdP"

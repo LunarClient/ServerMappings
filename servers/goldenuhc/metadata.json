@@ -6,6 +6,11 @@
     "addresses": [
         "goldenuhc.eu"
     ],
+    "primaryColor": "#c72c28",
+    "secondaryColor": "#dcaa28",
+    "gameTypes": [
+        "UHC"
+    ],
     "socials": {
         "twitter": "Golden_UHC",
         "discord": "https://discord.com/invite/goldenuhc"

@@ -6,6 +6,13 @@
     "addresses": [
         "blurkit.net"
     ],
+    "primaryColor": "#dda003",
+    "secondaryColor": "#cf937f",
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "BlurkitNetwork",
         "discord": "https://discord.com/invite/rjS49gQ",

@@ -4,5 +4,10 @@
     "store": "https://store.nightlymc.com/",
     "addresses": [
         "nightlymc.com"
-    ]
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryColor": "#c08413",
+    "secondaryColor": "#102160"
 }

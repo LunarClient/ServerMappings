@@ -7,6 +7,11 @@
         "pika-network.net"
     ],
     "primaryAddress": "pika-network.net",
+    "primaryColor": "#d2d42d",
+    "secondaryColor": "#b83d18",
+    "gameTypes": [
+        "Minigames"
+    ],
     "socials": {
         "twitter": "PikaNetworkMC",
         "discord": "https://discord.com/invite/eAVpTEy",

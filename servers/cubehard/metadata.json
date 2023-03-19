@@ -6,6 +6,12 @@
     "addresses": [
         "cubehard.net"
     ],
+    "primaryColor": "#207f20",
+    "secondaryColor": "#7f7f7f",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/4MfcHEHMBY",
         "youtube": "CubeHardOfficial",

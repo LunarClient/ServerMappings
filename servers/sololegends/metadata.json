@@ -5,6 +5,13 @@
     "addresses": [
         "sololegends.net"
     ],
+    "primaryColor": "#eeeeef",
+    "secondaryColor": "#23346c",
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "UHC"
+    ],
     "socials": {
         "twitter": "sololegendsnet",
         "discord": "https://discord.com/invite/sololegends"

@@ -3,5 +3,10 @@
     "name": "AkumaMC",
     "addresses": [
         "akumamc.net"
-    ]
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "primaryColor": "#e97324",
+    "secondaryColor": "#ad9e8f"
 }

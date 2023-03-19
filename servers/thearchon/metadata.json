@@ -7,6 +7,13 @@
         "thearchon.net"
     ],
     "primaryAddress": "pvp.thearchon.net",
+    "primaryColor": "#e83827",
+    "secondaryColor": "#591215",
+    "gameTypes": [
+        "Skyblock",
+        "Prison",
+        "Factions"
+    ],
     "socials": {
         "twitter": "TheArchon",
         "discord": "https://discord.com/invite/thearchon",

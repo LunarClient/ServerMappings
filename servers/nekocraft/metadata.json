@@ -7,6 +7,8 @@
         "nekocraft.es"
     ],
     "primaryAddress": "mc.nekocraft.us",
+    "primaryColor": "#16d4ee",
+    "secondaryColor": "#05132d",
     "socials": {
         "twitter": "NeroCraftNW_"
     }

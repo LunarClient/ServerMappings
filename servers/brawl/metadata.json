@@ -15,6 +15,13 @@
         "mc-warz.com",
         "minecraftbuild.com"
     ],
+    "primaryColor": "#FBB306",
+    "secondaryColor": "#1A1A1A",
+    "gameTypes": [
+        "Minigames",
+        "Creative",
+        "Survival"
+    ],
     "socials": {
         "twitter": "BrawlGames",
         "youtube": "minecraftpvp",

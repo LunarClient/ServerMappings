@@ -5,6 +5,12 @@
     "addresses": [
         "hazelmc.com"
     ],
+    "primaryColor": "#f8f9f9",
+    "secondaryColor": "#032d5d",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
     "socials": {
         "twitter": "hazelmcnetwork"
     }

@@ -6,6 +6,13 @@
     "addresses": [
         "erisium.com"
     ],
+    "primaryColor": "#9332f5",
+    "secondaryColor": "#110e2e",
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
     "socials": {
         "twitter": "Erisium",
         "discord": "https://discord.com/invite/cRJckZc",

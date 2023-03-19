@@ -8,6 +8,12 @@
         "hive.rip",
         "cai.rip"
     ],
+    "primaryColor": "#0b173d",
+    "secondaryColor": "#d0a003",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "kignetwork",
         "discord": "https://discord.com/invite/gYJaRRV",

@@ -8,6 +8,13 @@
         "minelatino.net"
     ],
     "primaryAddress": "play.minelatino.com",
+    "primaryColor": "#fa8c16",
+    "secondaryColor": "#f5eb81",
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "Skyblock"
+    ],
     "socials": {
         "twitter": "MineLatServer",
         "discord": "https://discord.com/invite/krSnVsK",

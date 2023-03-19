@@ -5,5 +5,10 @@
         "kirah.cf",
         "kira.vip",
         "kira.rip"
-    ]
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryColor": "#5f45d3",
+    "secondaryColor": "#3f3957"
 }

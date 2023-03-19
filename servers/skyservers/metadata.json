@@ -6,6 +6,11 @@
     "addresses": [
         "sky-mc.net"
     ],
+    "primaryColor": "#0071d4",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Survival"
+    ],
     "socials": {
         "twitter": "SkyServerMinecr",
         "discord": "https://discord.com/invite/m34FZpFd",

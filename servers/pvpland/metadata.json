@@ -6,6 +6,11 @@
         "pvp.land"
     ],
     "primaryAddress": "pvp.land",
+    "primaryColor": "#64a6f7",
+    "secondaryColor": "#0275d8",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "pvp_land",
         "discord": "https://discord.com/invite/Q4CQjQs"

@@ -5,12 +5,18 @@
         "awitamc.net"
     ],
     "primaryAddress": "play.awitamc.net",
+    "primaryColor": "#00b2bd",
+    "secondaryColor": "#00e1cc",
     "minecraftVersions": [
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.17"
+    "gameTypes": [
+        "Survival",
+        "Creative"
+    ],
+    "primaryMinecraftVersion": "1.17.1"
 }

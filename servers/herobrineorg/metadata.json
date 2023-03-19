@@ -6,6 +6,13 @@
     "addresses": [
         "herobrine.org"
     ],
+    "primaryColor": "#bb8b73",
+    "secondaryColor": "#2e1f0e",
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Skyblock"
+    ],
     "socials": {
         "twitter": "herobrinedotorg",
         "discord": "https://discord.com/invite/herobrine"

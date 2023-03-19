@@ -7,8 +7,14 @@
         "tecnocraft.net"
     ],
     "primaryAddress": "play.tecnocraft.net",
+    "primaryColor": "#067438",
+    "secondaryColor": "#53a178",
+    "gameTypes": [
+        "Roleplay",
+        "Creative"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/TecnoRoleplay",
-        "telegram": "tecnotutor"
+        "telegram": "TecnoRoleplay"
     }
 }

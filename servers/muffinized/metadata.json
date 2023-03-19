@@ -7,6 +7,11 @@
         "muffinized.net"
     ],
     "primaryAddress": "play.muffinized.net",
+    "primaryColor": "#2317c5",
+    "secondaryColor": "#030303",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "muffinized_",
         "discord": "https://discord.com/invite/XpsCQjbEst"

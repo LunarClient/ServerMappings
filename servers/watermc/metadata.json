@@ -6,6 +6,12 @@
     "addresses": [
         "watermc.gg"
     ],
+    "primaryColor": "#1679c9",
+    "secondaryColor": "#d5d8da",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
     "socials": {
         "twitter": "watermcnetwork",
         "discord": "https://discord.com/invite/8SPk8uUJjb",

@@ -6,6 +6,12 @@
     "addresses": [
         "vortexnetwork.net"
     ],
+    "primaryColor": "#d03030",
+    "secondaryColor": "#f48c27",
+    "gameTypes": [
+        "Skyblock",
+        "Prison"
+    ],
     "socials": {
         "twitter": "VortexPvP",
         "discord": "https://discord.com/invite/mc",

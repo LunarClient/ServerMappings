@@ -7,6 +7,12 @@
         "cubecraft.net"
     ],
     "primaryAddress": "cubecraft.net",
+    "primaryColor": "#1e89eb",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "CubeCraftGames",
         "discord": "https://discord.com/invite/cubecraft",
