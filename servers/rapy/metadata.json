@@ -1,0 +1,35 @@
+{
+    "id": "rapy",
+    "name": "Rapy",
+    "website": "https://rapy.pl/",
+    "store": "https://rapy.pl/",
+    "addresses": [
+        "rapy.pl"
+    ],
+    "primaryAddress": "rapy.pl",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryColor": "#ffcc00",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "instagram": "rapy.pl",
+        "facebook": "ekiparapy",
+        "tiktok": "rapy.pl",
+        "discord": "https://discord.com/invite/mv48WUAHsk"
+    }
+}

@@ -4,7 +4,9 @@
     "website": "https://minecadia.com/",
     "store": "https://store.minecadia.com/",
     "addresses": [
-        "minecadia.com"
+        "minecadia.com",
+        "play.minecadia.net",
+        "minecadia.net"
     ],
     "primaryAddress": "play.minecadia.com",
     "minecraftVersions": [
