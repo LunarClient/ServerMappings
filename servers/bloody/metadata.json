@@ -1,0 +1,24 @@
+{
+    "id": "bloody",
+    "name": "Bloody Network",
+    "addresses": [
+        "bldsv.kr"
+    ],
+    "primaryAddress": "bldsv.kr",
+    "minecraftVersions": [
+        "1.12.2"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ]
+}

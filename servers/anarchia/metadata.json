@@ -1,0 +1,34 @@
+{
+    "id": "anarchia",
+    "name": "Anarchia",
+    "website": "https://anarchia.gg/",
+    "store": "https://anarchia.gg/shop",
+    "addresses": [
+        "anarchia.gg"
+    ],
+    "primaryAddress": "anarchia.gg",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.3"
+    ],
+    "primaryMinecraftVersion": "1.17.*",
+    "primaryColor": "#f2f2f3",
+    "secondaryColor": "#fef334",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/epnvKD6gHs",
+        "tiktok": "anarchia.gg",
+        "youtube": "Sagi1"
+    }
+}

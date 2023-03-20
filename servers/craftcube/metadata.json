@@ -1,0 +1,38 @@
+{
+    "id": "craftcube",
+    "name": "CraftCube",
+    "website": "https://craftcube.pl/",
+    "store": "https://craftcube.pl/#shop",
+    "addresses": [
+        "craftcube.pl"
+    ],
+    "primaryAddress": "craftcube.pl",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.*",
+    "primaryColor": "#ffd503",
+    "secondaryColor": "#652002",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/craftcube",
+        "tiktok": "craftcube_"
+    }
+}
