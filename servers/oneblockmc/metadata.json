@@ -1,0 +1,34 @@
+{
+    "id": "oneblockmc",
+    "name": "OneBlockMC",
+    "website": "https://oneblockmc.com/",
+    "store": "https://store.hypixel.net/",
+    "description": "Play the best Minecraft minigames for free!",
+    "addresses": [
+        "play.oneblockmc.com",
+        "oneblockmc.com"
+    ],
+    "primaryAddress": "play.oneblockmc.com",
+    "primaryColor": "#9ffffc",
+    "secondaryColor": "#96ffc7",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "oneblockmc",
+        "discord": "https://discord.com/invite/Hypixel"
+    }
+}
