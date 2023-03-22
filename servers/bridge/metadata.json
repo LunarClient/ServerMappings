@@ -10,8 +10,7 @@
     "secondaryColor": "#ffffff",
     "primaryAddress": "bridge.rip",
     "gameTypes": [
-        "PvP",
-        "Practice"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/FDtUhWhdSh"
