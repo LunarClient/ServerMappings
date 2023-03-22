@@ -1,0 +1,19 @@
+{
+    "id": "bridge.rip",
+    "name": "Bridge.rip",
+    "website": "https://bridge.rip/",
+    "store": "https://store.bridge.rip/",
+    "addresses": [
+        "bridge.rip"
+    ],
+    "primaryColor": "#f7b204",
+    "secondaryColor": "#ffffff",
+    "primaryAddress": "bridge.rip",
+    "gameTypes": [
+        "PvP",
+        "Practice"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FDtUhWhdSh"
+    }
+}
