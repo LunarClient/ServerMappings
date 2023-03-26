@@ -3,8 +3,7 @@
   "name": "EvilMC",
   "description": "EvilMC is a network focused on PvP like UHC, HCF & Kitmap.",
   "addresses": [
-    "evilmc.us",
-    "exoticos.club"
+    "evilmc.us"
   ],
   "primaryAddress": "evilmc.us",
   "minecraftVersions": [

@@ -1,6 +1,7 @@
 {
     "id": "moonsama",
     "name": "Moonsama",
+    "website": "https://mcapi.moonsama.com/",
     "description": "The Minecraft Metaverse.",
     "addresses": [
         "mc.moonsama.com",

@@ -1,0 +1,32 @@
+{
+    "id": "pixelmonrealms",
+    "name": "Pixelmon Realms",
+    "website": "https://pixelmonrealms.com/",
+    "store": "https://store.pixelmonrealms.com/",
+    "addresses": [
+        "play.pixelmonrealms.com"
+    ],
+    "primaryAddress": "play.pixelmonrealms.com",
+    "primaryColor": "#beb8c3",
+    "secondaryColor": "#f4e24e",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/pixelmonrealms"
+    }
+}

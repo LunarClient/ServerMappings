@@ -1,0 +1,32 @@
+{
+    "id": "neonetwork",
+    "name": "NeoNetwork",
+    "website": "https://hypixel.net/",
+    "store": "https://store.neocubest.com/",
+    "description": "Play the best Minecraft minigames for free!",
+    "addresses": [
+        "play.neocubest.com"
+    ],
+    "primaryAddress": "play.neocubest.com",
+    "primaryColor": "#aae3ff",
+    "secondaryColor": "#2f2c97",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "TheNeoCubestYT",
+        "discord": "https://discord.com/invite/PMaXwVdHJC"
+    }
+}
