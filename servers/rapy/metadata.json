@@ -4,7 +4,8 @@
     "website": "https://rapy.pl/",
     "store": "https://rapy.pl/",
     "addresses": [
-        "rapy.pl"
+        "rapy.pl",
+        "jjsmp.pl"
     ],
     "primaryAddress": "rapy.pl",
     "minecraftVersions": [
