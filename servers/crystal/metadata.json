@@ -23,9 +23,7 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
-        "NA",
-        "OC"
+        "EU"
     ],
     "gameTypes": [
         "Creative",
