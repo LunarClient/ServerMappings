@@ -1,0 +1,31 @@
+{
+    "id": "vflnetwork",
+    "name": "Virtual Football League",
+    "store": "https://store.vflnetwork.com/",
+    "addresses": [
+        "mc.vflnetwork.com"
+    ],
+    "primaryAddress": "mc.vflnetwork.com",
+    "primaryColor": "#da2127",
+    "secondaryColor": "#003a73",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/83RtkX8ym6",
+        "tiktok": "virtualhighfootball"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "lotc",
+    "name": "Lord of the Craft",
+    "website": "https://www.lordofthecraft.net/",
+    "store": "https://www.lordofthecraft.net/store/",
+    "addresses": [
+        "mc.lotc.co",
+        "mc.lordofthecraft.net"
+    ],
+    "primaryAddress": "mc.lotc.co",
+    "primaryColor": "",
+    "secondaryColor": "",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "LordOfTheCraft",
+        "discord": "https://discord.com/invite/lotc",
+        "youtube": "thelordofthecraft",
+        "instagram": "lordofthecraft",
+        "facebook": "LordOfTheCraft"
+    }
+}
