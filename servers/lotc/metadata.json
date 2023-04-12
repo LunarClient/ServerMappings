@@ -8,8 +8,8 @@
         "mc.lordofthecraft.net"
     ],
     "primaryAddress": "mc.lotc.co",
-    "primaryColor": "",
-    "secondaryColor": "",
+    "primaryColor": "#c29f4b",
+    "secondaryColor": "#751d18",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*"
