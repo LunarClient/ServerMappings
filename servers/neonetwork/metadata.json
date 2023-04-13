@@ -5,7 +5,8 @@
     "store": "https://store.neocubest.com/",
     "description": "Play the best Minecraft minigames for free!",
     "addresses": [
-        "play.neocubest.com"
+        "play.neocubest.com",
+        "neocubest.com"
     ],
     "primaryAddress": "play.neocubest.com",
     "primaryColor": "#aae3ff",
