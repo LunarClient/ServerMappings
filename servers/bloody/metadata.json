@@ -18,6 +18,10 @@
     "regions": [
         "AS"
     ],
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko"
+    ],
     "gameTypes": [
         "PvP"
     ],
