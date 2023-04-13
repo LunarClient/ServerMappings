@@ -1,0 +1,32 @@
+{
+    "id": "roleplayhub",
+    "name": "Roleplay Hub",
+    "store": "https://buy.roleplayhub.net/",
+    "addresses": [
+        "play.schoolrp.net",
+        "mc.roleplayhub.net",
+        "play.roleplayhub.net"
+    ],
+    "primaryAddress": "play.schoolrp.net",
+    "primaryColor": "#000000",
+    "secondaryColor": "#8c53f9",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "roleplayhubmc",
+        "discord": "https://discord.com/invite/P7RsDKf",
+        "youtube": "UCk6DZoCfUnm1B90PiwjJfAw"
+    }
+}

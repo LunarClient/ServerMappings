@@ -1,0 +1,34 @@
+{
+    "id": "trexmine",
+    "name": "TrexMine",
+    "website": "https://trexmine.com/",
+    "addresses": [
+        "play.trexmine.com"
+    ],
+    "primaryAddress": "play.trexmine.com",
+    "primaryColor": "#98ff00",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/DRNEtE9t",
+        "instagram": "TrexMine",
+        "telegram": "TrexMine"
+    }
+}
