@@ -1,0 +1,29 @@
+{
+    "id": "oceprestige",
+    "name": "Oceania Prestige",
+    "store": "https://store.oceprestige.com/",
+    "addresses": [
+        "play.oceprestige.net"
+    ],
+    "primaryAddress": "play.oceprestige.net",
+    "primaryColor": "#49f6ff",
+    "secondaryColor": "#5c398c",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XN28TaPSHa"
+    }
+}
