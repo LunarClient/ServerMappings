@@ -1,0 +1,34 @@
+{
+    "id": "echomc",
+    "name": "EchoMC",
+    "description": "Network KitPVP Italiano per SP",
+    "addresses": [
+        "echomc.it",
+        "play.echomc.it"
+    ],
+    "primaryAddress": "play.EchoMC.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e7eb15",
+    "secondaryColor": "#b08612",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://regolamento.echomc.it",
+    "store": "https://store.echomc.it",
+    "socials": {
+        "telegram": "echomcnetwork",
+        "discord": "discord.echomc.it"
+    }
+}
