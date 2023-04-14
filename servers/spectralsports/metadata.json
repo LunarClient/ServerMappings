@@ -1,0 +1,31 @@
+{
+    "id": "spectralsports",
+    "name": "Spectral Sports",
+    "website": "https://spectralsports.net/",
+    "store": "https://shop-mfl.tebex.io/",
+    "addresses": [
+        "mc.spectralsports.net"
+    ],
+    "primaryAddress": "mc.spectralsports.net",
+    "primaryColor": "#272789",
+    "secondaryColor": "#7c3133",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Hypixel",
+        "youtube": "UCtlGIMSw3HYijb7p2juxqQA"
+    }
+}
