@@ -1,0 +1,35 @@
+{
+    "id": "applemc",
+    "name": "AppleMC",
+    "website": "https://applemc.fun/",
+    "store": "https://store.applemc.fun/",
+    "addresses": [
+        "play.applemc.fun",
+        "applemc.fun"
+    ],
+    "primaryAddress": "play.applemc.fun",
+    "primaryColor": "#de1313",
+    "secondaryColor": "#290000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "AppleMCSMP",
+        "discord": "https://discord.com/invite/applemc"
+    }
+}

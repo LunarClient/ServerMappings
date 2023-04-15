@@ -1,0 +1,30 @@
+{
+    "id": "mcpvp",
+    "name": "PvP Club",
+    "website": "http://mcpvp.club/",
+    "store": "http://mcpvp.club/store",
+    "addresses": [
+        "mcpvp.club",
+        "eu.mcpvp.club",
+        "east.mcpvp.club"
+    ],
+    "primaryAddress": "mcpvp.club",
+    "primaryColor": "#ee092f",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [  
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/UsQrfX7ayG"
+    }
+}

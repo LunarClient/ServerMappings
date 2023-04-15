@@ -1,0 +1,37 @@
+{
+    "id": "foxcraft",
+    "name": "FoxCraft",
+    "website": "https://www.mcfoxcraft.com/",
+    "store": "http://store.foxcraft.net",
+    "addresses": [
+        "play.foxcraft.net",
+        "foxcraft.net",
+        "play.mcfoxcraft.com",
+        "mcfoxcraft.com"
+    ],
+    "primaryAddress": "play.foxcraft.net",
+    "primaryColor": "#f3893b",
+    "secondaryColor": "#5a9b3c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Survival",
+        "Parkour"
+    ],
+    "socials": {
+        "twitter": "mcFoxCraft",
+        "discord": "https://discord.com/invite/ZpNuSdC"
+    }
+}

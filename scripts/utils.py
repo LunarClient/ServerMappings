@@ -10,7 +10,7 @@ MAJOR_ALL = {
     "1.16.*": ["1.16.5", "1.16"],
     "1.17.*": ["1.17.1", "1.17"],
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
-    "1.19.*": ["1.19", "1.19.2", "1.19.3"]
+    "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"]
 }
 
 
@@ -81,6 +81,17 @@ def is_enriched(server, server_id, servers_dir):
 
     # TODO: add more enriched labels later
     return True
+
+
+def gif_to_sprite_sheet(path):
+    img = image.open(path)
+    sprite_img = image.new('RGBA', (img.width, img.height * img.n_frames))
+
+    for idx in range(0, img.n_frames):
+        img.seek(idx)
+        sprite_img.paste(img, (0, img.height * idx))
+    return sprite_img
+
 
 
 '''
@@ -156,6 +167,7 @@ Validate that server banner meets the following requirements:
   * is a PNG or GIF
   * has a 39:5 aspect ratio
   * is greater than 340 pixels in width and 45 pixels in height
+  * we can convert it to a sprite image without it erroring.
 '''
 def validate_banner(path, server_name):
     if not os.path.isfile(path):
@@ -192,6 +204,11 @@ def validate_banner(path, server_name):
         #    errors.append(f'{server_name}\'s server banner is not exactly 20 FPS (currently {fps})... Please ensure the image meets the requirements before proceeding.')
 
     aspect_ratio = round(banner_image.width / banner_image.height, 3)
+
+    sprite = gif_to_sprite_sheet(path)
+
+    if sprite.height > 16383 or sprite.width > 16383:
+        errors.append(f'{server_name}\'s server banner is either too tall as a sprite image, or too wide. we\'re unable to convert this later... Please ensure the image meets the requirements before proceeding.')
 
     if aspect_ratio != 7.8:
         errors.append(f'{server_name}\'s server banner does not have a 39:5 aspect ratio... Please ensure the image meets the requirements before proceeding.')

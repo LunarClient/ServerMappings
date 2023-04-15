@@ -1,0 +1,35 @@
+{
+    "id": "minestar",
+    "name": "MineStar",
+    "website": "https://minestar.pl/",
+    "store": "https://minestar.pl/shop",
+    "addresses": [
+        "minestar.pl"
+    ],
+    "primaryAddress": "minestar.pl",
+    "primaryColor": "#ffc10c",
+    "secondaryColor": "#3f241a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/V7MEnGJdWM",
+        "tiktok": "minestar.pl",
+        "facebook": "minestarpl"
+    }
+}

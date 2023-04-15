@@ -1,0 +1,27 @@
+{
+    "id": "mineville",
+    "name": "Mineville",
+    "store": "https://store.mineville.io/",
+    "addresses": [
+        "play.mineville.io"
+    ],
+    "primaryAddress": "play.mineville.io",
+    "primaryColor": "#ffd039",
+    "secondaryColor": "#5c0e06",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/mineville",
+        "twitter": "MinevilleSocial"
+    }
+}
