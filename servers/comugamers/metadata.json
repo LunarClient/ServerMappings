@@ -24,12 +24,11 @@
     "primaryAddress": "mc.comugamers.com",
     "primaryColor": "#026694",
     "secondaryColor": "#f6f6f7",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
         "en",
-        "es",
-        "fr",
-        "ru"
+        "es-EN",
+        "fr"
     ],
     "gameTypes": [
         "PvP"
