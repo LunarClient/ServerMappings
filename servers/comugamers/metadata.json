@@ -1,8 +1,9 @@
 {
     "id": "comugamers",
     "name": "ComuGamers Network",
+    "description": "Tu Comunidad Online",
     "website": "https://www.comugamers.com/",
-    "store": "https://shop.comugamers.com/",
+    "store": "https://store.comugamers.com/",
     "addresses": [
         "comugamers.net",
         "comugamers.com",
@@ -11,18 +12,39 @@
         "cgm.rs",
         "edaters.network"
     ],
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
     "primaryAddress": "mc.comugamers.com",
     "primaryColor": "#026694",
     "secondaryColor": "#f6f6f7",
+    "primaryLanguage": "es",
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+    ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
-        "twitter": "comugamers",
+        "twitter": "ComuGamers",
         "discord": "https://discord.com/invite/D4YRQ9R",
         "youtube": "UCEThoQ97WEDd4cVUnv3gYjw",
         "instagram": "comugamers",
-        "twitch": "comugtwitch",
         "facebook": "ComuGamers"
     }
 }
