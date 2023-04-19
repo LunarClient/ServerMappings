@@ -1,0 +1,18 @@
+{
+    "id": "kaguya",
+    "name": "Kaguya Network",
+    "description": "A server chosen by the some of the best and ran by some of the best.",
+    "addresses": ["kaguya.gg", "destiny.rip"],
+    "primaryAddress": "kaguya.gg",
+    "minecraftVersions": ["1.7.*", "1.8.*", "1.19.*"],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ecc4c4",
+    "secondaryColor": "#f2ff00",
+    "regions": ["AS"],
+    "primaryRegion": "AS",
+    "gameTypes": ["Practice", "KitPvP", "BedWars"],
+    "store": "https://store.kaguya.gg",
+    "socials": {
+        "discord": "https://discord.kaguya.gg"
+    }
+}
