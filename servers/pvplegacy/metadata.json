@@ -3,7 +3,8 @@
     "name": "PvP Legacy",
     "description": "Offers a modern PvP experience for KitPvP and custom duels",
     "addresses": [
-        "pvplegacy.net"
+        "pvplegacy.net",
+        "pvplegacy.com"
     ],
     "primaryAddress": "pvplegacy.net",
     "minecraftVersions": [

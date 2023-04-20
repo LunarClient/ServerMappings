@@ -1,0 +1,32 @@
+{
+    "id": "stray",
+    "name": "Stray PvP",
+    "store": "https://store.stray.gg/",
+    "addresses": [
+        "stray.gg"
+    ],
+    "primaryAddress": "stray.gg",
+    "primaryColor": "#64d8fe",
+    "secondaryColor": "#2e2e2e",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/straypvp"
+    }
+}
