@@ -1,0 +1,36 @@
+{
+    "id": "twerion",
+    "name": "Twerion",
+    "website": "https://www.twerion.net/",
+    "store": "http://shop.twerion.net/",
+    "addresses": [
+        "twerion.net"
+    ],
+    "primaryAddress": "twerion.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#e08041",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "twerionnetwork",
+        "discord": "https://discord.com/invite/qFVjAP3U9k",
+        "instagram": "twerion_network",
+        "facebook": "twerionnetwork"
+    }
+}
