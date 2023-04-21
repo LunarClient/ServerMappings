@@ -16,6 +16,7 @@
         "1.18.*",
         "1.19.*"
     ],
+    "primaryAddress": "jartexnetwork.com",
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#f7d331",
     "secondaryColor": "#d78207",
