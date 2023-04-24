@@ -1,0 +1,33 @@
+{
+    "id": "unicmc",
+    "name": "UnicMC",
+    "website": "https://unicmc.net/",
+    "store": "https://butik.unicmc.net/",
+    "addresses": [
+        "unicmc.net"
+    ],
+    "primaryAddress": "unicmc.net",
+    "primaryColor": "#0a8aee",
+    "secondaryColor": "#73c081",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/UETmqhccq7"
+    }
+}

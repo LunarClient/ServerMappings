@@ -1,0 +1,28 @@
+{
+    "id": "speedcubing",
+    "name": "SpeedCubing",
+    "website": "https://speedcubing.top/",
+    "addresses": [
+        "speedcubing.top"
+    ],
+    "primaryAddress": "speedcubing.top",
+    "primaryColor": "#000000",
+    "secondaryColor": "#7a2b28",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "speedcubing_top",
+        "discord": "https://discord.com/invite/rnbRWrb",    
+        "instagram": "speedcubing.top"
+    }
+}

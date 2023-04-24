@@ -1,0 +1,40 @@
+{
+    "id": "bwhub",
+    "name": "BW Hub",
+    "website": "https://hypixel.net/",
+    "store": "https://store.hypixel.net/",
+    "description": "Play the best Minecraft minigames for free!",
+    "addresses": [
+        "hypixel.net"
+    ],
+    "primaryAddress": "mc.hypixel.net",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "HypixelNetwork",
+        "discord": "https://discord.com/invite/KgZJuKwTZA",
+        "youtube": "Hypixel",
+        "instagram": "hypixelofficial",
+        "reddit": "hypixel",
+        "tiktok": "hypixel",
+        "facebook": "Hypixel"
+    }
+}
