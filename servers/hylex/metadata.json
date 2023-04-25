@@ -5,7 +5,8 @@
     "store": "https://hylex.gg/itens",
     "addresses": [
         "hylex.net",
-        "original.hylex.gg"
+        "original.hylex.gg",
+        "hylex.gg"
     ],
     "primaryAddress": "hylex.gg",
     "primaryColor": "#314484",
