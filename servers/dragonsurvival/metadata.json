@@ -10,6 +10,9 @@
     "primaryAddress": "dragonsurvival.eu",
     "primaryColor": "#f0db85",
     "secondaryColor": "#262a26",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "instagram": "dragonsurvivalmc",
         "facebook": "DragonSurvivalMC"
