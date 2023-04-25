@@ -6,7 +6,8 @@
     "addresses": [
         "hub.mc-complex.com",
         "tekkit.mc-complex.com",
-        "ftb.mc-complex.com"
+        "ftb.mc-complex.com",
+        "bmc.mc-complex.com"
     ],
     "primaryAddress": "hub.mc-complex.com",
     "primaryColor": "#ecebed",
