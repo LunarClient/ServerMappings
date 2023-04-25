@@ -1,0 +1,17 @@
+{
+    "id": "acepvp",
+    "name": "AcePVP",
+    "website": "https://acepvp.fun/",
+    "store": "https://store.acepvp.fun/",
+    "addresses": [
+        "mc.acepvp.fun"
+    ],
+    "gameTypes": [
+        "PvP",
+    ],
+    "primaryColor": "#0096FF",
+    "secondaryColor": "#FFF",
+    "socials": {
+        "discord": "https://discord.gg/acepvpmc"
+    }
+}
