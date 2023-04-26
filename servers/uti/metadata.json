@@ -1,0 +1,26 @@
+{
+    "id": "uti",
+    "name": "UTI Network",
+    "addresses": [
+        "uti24.kr"
+    ],
+    "primaryAddress": "uti24.kr",
+    "primaryColor": "#d2b1cc",
+    "secondaryColor": "#b3bcdb",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zZTzKSauHX"
+    }
+}
