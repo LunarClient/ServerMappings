@@ -4,7 +4,8 @@
     "website": "https://www.tecnocraft.net/",
     "store": "https://store.tecnocraft.net/",
     "addresses": [
-        "tecnocraft.net"
+        "tecnocraft.net",
+        "tecnocraft.it"
     ],
     "primaryAddress": "play.tecnocraft.net",
     "primaryColor": "#067438",
