@@ -1,0 +1,30 @@
+{
+    "id": "deathban",
+    "name": "Deathban Network",
+    "description": "Servidor único de Minecraft Moderno",
+    "addresses": [
+        "deathban.es"
+    ],
+    "primaryAddress": "play.deathban.es",
+    "primaryMinecraftVersion": "1.19",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryLanguage": "es-ES",
+    "languages": [
+        "es-ES"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "Survival",
+        "Hardcore"
+    ],
+    "website": "https://deathban.es/",
+    "store": "https://tienda.deathban.es/",
+    "primaryColor": "#ff3344",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "deathban_",
+        "discord": "https://discord.deathban.es"
+    }
+}
