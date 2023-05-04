@@ -1,0 +1,20 @@
+{
+    "id": "thewonderserver",
+    "name": "The Wonder Server",
+    "description": "The Wonder Server is a 1:1 scale replica of the Disney Theme Parks in Florida. This includes all the rides, characters and shows around the entire park!",
+    "addresses": ["play.thewonderserver.com"],
+    "primaryAddress": "play.thewonderserver.com",
+    "minecraftVersions": ["1.12.2", "1.13.*", "1.14.*", "1.15.*", "1.16.*", "1.17.*", "1.18.*", "1.19.*"],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryColor": "#59c7eb",
+    "secondaryColor": "#ffffff",
+    "regions": ["EU"],
+    "primaryRegion": "EU",
+    "gameTypes": ["Open World"],
+    "website": "https://thewonderserver.com",
+    "store": "https://store.thewonderserver.com",
+    "socials": {
+        "twitter": "TheWonderServer",
+        "discord": "https://wonserv.eu/discord"
+    }
+}
