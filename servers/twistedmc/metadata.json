@@ -5,16 +5,11 @@
     "addresses": [
         "twistedmc.net"
     ],
-    "primaryAddress": "twistedmc.net",
+    "primaryAddress": "play.twistedmc.net",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#3498db",
     "secondaryColor": "#1185d2",
     "primaryLanguage": "en",
@@ -26,7 +21,8 @@
         "NA"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "PvE"
     ],
     "socials": {
         "twitter": "TwistedMC1",
