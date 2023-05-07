@@ -7,17 +7,12 @@
         "mcdiamondfire.com"
     ],
     "primaryAddress": "mcdiamondfire.com",
-    "primaryColor": "#ecb94f",
-    "secondaryColor": "#372826",
+    "primaryColor": "#3e79a6",
+    "secondaryColor": "#f37d20",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -25,15 +20,9 @@
     "gameTypes": [
         "Minigames",
         "PvP",
-        "Skyblock"
+        "Parkour"
     ],
     "socials": {
-        "twitter": "HypixelNetwork",
-        "discord": "https://discord.com/invite/Hypixel",
-        "youtube": "Hypixel",
-        "instagram": "hypixelofficial",
-        "reddit": "hypixel",
-        "tiktok": "hypixel",
-        "facebook": "Hypixel"
+        "discord": "https://discord.com/invite/pDHBbBD"
     }
 }
