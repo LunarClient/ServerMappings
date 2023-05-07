@@ -2,8 +2,7 @@
     "id": "oneblockmc",
     "name": "OneBlockMC",
     "website": "https://oneblockmc.com/",
-    "store": "https://store.hypixel.net/",
-    "description": "Play the best Minecraft minigames for free!",
+    "store": "https://store.oneblockmc.com/",
     "addresses": [
         "play.oneblockmc.com",
         "oneblockmc.com"
@@ -29,6 +28,6 @@
     ],
     "socials": {
         "twitter": "oneblockmc",
-        "discord": "https://discord.com/invite/Hypixel"
+        "discord": "https://discord.com/invite/oneblockmc"
     }
 }

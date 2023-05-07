@@ -4,7 +4,8 @@
     "website": "https://www.luckynetwork.net/",
     "store": "https://store.luckynetwork.net/",
     "addresses": [
-        "luckynetwork.net"
+        "luckynetwork.net",
+        "luckynetwork.id"
     ],
     "primaryColor": "#cf9541",
     "secondaryColor": "#1a0524",

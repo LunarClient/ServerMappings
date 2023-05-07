@@ -1,0 +1,33 @@
+{
+    "id": "bankmc",
+    "name": "BankMC",
+    "store": "https://bankmc.pl/",
+    "addresses": [
+        "bankmc.pl"
+    ],
+    "primaryAddress": "bankmc.pl",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#03071a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/ZKPYRrm6tb",
+        "tiktok": "bankmcpl"
+    }
+}

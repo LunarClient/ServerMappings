@@ -1,0 +1,29 @@
+{
+    "id": "rearth",
+    "name": "Reath Network",
+    "website": "https://rearthserver.net/",
+    "store": "https://shop.rearthserver.net/",
+    "addresses": [
+        "playrearth.net"
+    ],
+    "primaryAddress": "playrearth.net",
+    "primaryColor": "#26cbff",
+    "secondaryColor": "#95ff9d",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "RearthServer",
+        "discord": "https://discord.gg/rearth",
+        "youtube": "RearthServer"
+    }
+}
