@@ -1,0 +1,25 @@
+{
+    "id": "minebuddies",
+    "name": "MineBuddies",
+    "store": "https://store.minebuddies.org/",
+    "addresses": [
+        "minebuddies.org"
+    ],
+    "primaryAddress": "play.minebuddies.org",
+    "primaryColor": "#54d0f8",
+    "secondaryColor": "#00204b",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minebuddies"
+    }
+}
