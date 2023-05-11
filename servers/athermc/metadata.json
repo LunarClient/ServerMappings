@@ -16,6 +16,10 @@
         "1.18.*",
         "1.19.*"
     ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#d8bd6f",
     "secondaryColor": "#fff8e7"
