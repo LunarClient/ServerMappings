@@ -1,0 +1,29 @@
+{
+    "id": "earthmc",
+    "name": "EarthMC",
+    "website": "https://earthmc.net/",
+    "store": "https://store.earthmc.net/category/premium/",
+    "addresses": [
+        "earthmc.net"
+    ],
+    "primaryAddress": "play.earthmc.net",
+    "primaryColor": "#3b66c9",
+    "secondaryColor": "#68a73ca",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "OfficialEarthMC",
+        "discord": "https://discord.gg/6rAnxd8",
+        "instagram": "Officialearthmc",
+        "reddit": "EarthMC"
+    }
+}
