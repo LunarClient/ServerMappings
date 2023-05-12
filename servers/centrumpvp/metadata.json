@@ -4,7 +4,8 @@
     "website": "https://centrumpvp.pl/",
     "store": "https://centrumpvp.pl/sklep",
     "addresses": [
-        "centrumpvp.pl"
+        "centrumpvp.pl",
+        "cpvp.pl"
     ],
     "primaryAddress": "centrumpvp.pl",
     "primaryColor": "#f7c102",

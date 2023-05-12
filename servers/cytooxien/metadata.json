@@ -4,7 +4,8 @@
     "website": "https://www.cytooxien.de/",
     "store": "https://shop.cytooxien.de/",
     "addresses": [
-        "cytooxien.de"
+        "cytooxien.de",
+        "cytooxien.net"
     ],
     "primaryAddress": "cytooxien.de",
     "primaryColor": "#ffdd16",
