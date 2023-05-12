@@ -1,0 +1,35 @@
+{
+    "id": "mineberry",
+    "name": "Mineberry",
+    "website": "https://mineberry.org/",
+    "store": "https://store.mineberry.org/",
+    "addresses": [
+        "mineberry.org"
+    ],
+    "primaryAddress": "mc.mineberry.org",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "mineberry_mc",
+        "telegram": "mineberry",
+        "discord": "https://discord.gg/38BpaBT"
+    }
+}
