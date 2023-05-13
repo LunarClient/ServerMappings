@@ -1,0 +1,31 @@
+{
+    "id": "mazerclub",
+    "name": "MazerClub",
+    "store": "https://store.mazerclub.com/",
+    "addresses": [
+        "mazerclub.com"
+    ],
+    "primaryAddress": "mazerclub.com",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Rpfecpuuzf",
+        "youtube": "mazer-club5697",
+        "telegram": "mazer_club",
+        "tiktok": "mazerclub",
+        "facebook": "mazerclub"
+    }
+}
