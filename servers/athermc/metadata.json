@@ -1,0 +1,26 @@
+{
+    "id": "athermc",
+    "name": "AtherMC Network",
+    "addresses": [
+        "athermc.cc",
+        "soltionmc.net",
+        "exoticos.club"
+    ],
+    "primaryAddress": "athermc.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d8bd6f",
+    "secondaryColor": "#fff8e7"
+}
