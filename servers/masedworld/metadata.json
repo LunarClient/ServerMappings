@@ -6,8 +6,8 @@
         "masedworld.net"
     ],
     "primaryAddress": "mc.masedworld.net",
-    "primaryColor": "#ecb94f",
-    "secondaryColor": "#372826",
+    "primaryColor": "#80bae5",
+    "secondaryColor": "#6c1122",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
