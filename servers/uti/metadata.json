@@ -2,7 +2,8 @@
     "id": "uti",
     "name": "UTI Network",
     "addresses": [
-        "uti24.kr"
+        "uti24.kr",
+        "utipvp.kr"
     ],
     "primaryAddress": "uti24.kr",
     "primaryColor": "#d2b1cc",
