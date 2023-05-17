@@ -1,0 +1,30 @@
+{
+    "id": "mitologicmc",
+    "name": "MitologicMC Network",
+    "description": "Servidor HCF de habla hispana e inglesa. ¡Únete hoy!",
+    "addresses": [
+        "mitologicmc.com"
+    ],
+    "primaryAddress": "mitologicmc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5b2076",
+    "secondaryColor": "#c500ff",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "store": "https://store.mitologicmc.com",
+    "socials": {
+        "twitter": "mitologicmcnet",
+        "discord": "https://discord.gg/BDr7vWgfBq",
+        "discord2": "https://dc.mitologicmc.com"
+    }
+}
