@@ -4,7 +4,8 @@
     "website": "https://mineberry.org/",
     "store": "https://store.mineberry.org/",
     "addresses": [
-        "mineberry.org"
+        "mineberry.org",
+        "mineberry.net"
     ],
     "primaryAddress": "mc.mineberry.org",
     "primaryColor": "#ecb94f",
