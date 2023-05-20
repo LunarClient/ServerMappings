@@ -1,40 +1,20 @@
 {
-    "id": "polycraftmc",
-    "name": "PolyCraftMC",
-    "website": "https://polycraftmc.net/",
-    "store": "https://store.polycraftmc.net/",
-    "description": "PolyCraftMC, Pure Competition",
-    "addresses": [
-        "mc.polycraftmc.net",
-    ],
-    "primaryAddress": "mc.polycraftmc.net",
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#1c59ff",
-    "secondaryColor": "#001ba1",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
-    "gameTypes": [
-        "PvP",
-        "CrackShot",
-        "OhioCraft"
-    ],
-    "socials": {
-        "discord": "https://dsc.gg/polycraft",
-        "telegram": "PolyCraft Official",
-    }
+  "serverName": "PolyCraftMC",
+  "serverId": "polycraftmc",
+  "addresses": ["mc.polycraftmc.net"],
+  "primaryAddress": "mc.polycraftmc.net",
+  "minecraftVersions": ["1.8.9+"],
+  "primaryMinecraftVersion": "1.8.9",
+  "logo": "logo.png",
+  "background": "background.png",
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "gameTypes": ["PvP", "CrackShot", "OhioCraft"],
+  "description": "PolyCraftMC, pura competizione dall'1.8.9 in su!",
+  "website": "https://www.polycraftmc.net",
+  "discord": "https://discord.com/invite/VuM5n3YdS7",
+  "youtube": "https://youtube.com/@PolyCraftMC_Official",
+  "instagram": "https://www.instagram.com/polycraftmc_official/",
+  "tiktok": "https://www.tiktok.com/@polycraftmc",
+  "language": "italiano"
 }
