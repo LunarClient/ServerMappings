@@ -5,7 +5,8 @@
     "store": "https://store.hypixel.net/",
     "description": "Play the best Minecraft minigames for free!",
     "addresses": [
-        "hypixel.net"
+        "hypixel.net",
+        "hypixel.io"
     ],
     "primaryAddress": "mc.hypixel.net",
     "primaryColor": "#ecb94f",
