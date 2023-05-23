@@ -1,12 +1,12 @@
 {
-    "id": "virtualplanet",
-    "name": "VirtualPlanet",
-    "website": "https://hypixel.net/",
+    "id": "poudlardrp",
+    "name": "PoudlardRP",
+    "website": "https://poudlardrp.fr/",
     "store": "https://tienda.virtualplanet.es/",
     "addresses": [
-        "virtualplanet.es"
+        "poudlardrp.fr"
     ],
-    "primaryAddress": "mc.virtualplanet.es",
+    "primaryAddress": "play.poudlardrp.fr",
     "primaryColor": "#f1db81",
     "secondaryColor": "#d57d47",
     "minecraftVersions": [
