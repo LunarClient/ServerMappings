@@ -2,10 +2,9 @@
   "id": "devilmc",
   "name": "DevilMC Network",
   "store": "https://store.devilmc.org/",
+  "description": "The UHC Network where the Demon Players play",
   "addresses": [
-    "devilmc.org",
-    "na.devilmc.org",
-    "eu.devilmc.org"
+    "devilmc.org"
   ],
   "primaryAddress": "devilmc.org",
   "minecraftVersions": [
