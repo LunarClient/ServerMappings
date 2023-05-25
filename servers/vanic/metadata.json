@@ -2,6 +2,7 @@
     "id": "vanic",
     "name": "Vanic Network",
     "store": "https://store.vanic.gg/",
+    "description": "Home of the largest Competitive UHC server.",
     "addresses": [
         "vanic.gg"
     ],
