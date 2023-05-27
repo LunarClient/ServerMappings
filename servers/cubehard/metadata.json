@@ -10,6 +10,17 @@
     "primaryAddress": "cubehard.pl",
     "primaryColor": "#207f20",
     "secondaryColor": "#7f7f7f",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
