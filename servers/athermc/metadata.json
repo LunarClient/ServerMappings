@@ -1,14 +1,16 @@
 {
     "id": "athermc",
     "name": "AtherMC Network",
+    "store": "http://store.athermc.cc/",
     "addresses": [
         "athermc.cc",
         "soltionmc.net",
         "exoticos.club"
     ],
     "primaryAddress": "athermc.cc",
+    "primaryColor": "#d8bd6f",
+    "secondaryColor": "#fff8e7",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
@@ -16,11 +18,13 @@
         "1.18.*",
         "1.19.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
         "UHC"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#d8bd6f",
-    "secondaryColor": "#fff8e7"
+    "socials": {
+        "twitter": "xAtherMC",
+        "discord": "https://discord.com/invite/uPqQzvDpbG"
+    }
 }

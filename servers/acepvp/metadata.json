@@ -1,16 +1,25 @@
 {
 	"id": "acepvp",
 	"name": "AcePVP",
-	"website": "https://acepvp.fun/",
 	"store": "https://store.acepvp.fun/",
 	"addresses": [
-		"mc.acepvp.fun"
+		"acepvp.fun"
 	],
+	"primaryAddress": "mc.acepvp.fun",
+	"primaryColor": "#5adfee",
+	"secondaryColor": "#dbe3e7",
+	"minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+	"primaryRegion": "AS",
+	"regions": [
+        "AS"
+    ],
 	"gameTypes": [
 		"PvP"
 	],
-	"primaryColor": "#0047AB",
-	"secondaryColor": "#FFF",
 	"socials": {
 		"discord": "discord.gg/acepvpmc"
 	}
