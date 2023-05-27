@@ -4,8 +4,7 @@
     "website": "https://www.craftyourtown.com/",
     "store": "https://store.craftyourtown.com/",
     "addresses": [
-        "mc.craftyourtown.com",
-        "go.craftyourtown.com"
+        "craftyourtown.com"
     ],
     "primaryAddress": "mc.craftyourtown.com",
     "primaryColor": "#129dd4",
