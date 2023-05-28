@@ -1,8 +1,8 @@
 {
     "id": "freakyville",
     "name": "FreakyVille",
-    "website": "https://www.freakyville.net/",
-    "store": "https://freakyvillemc.buycraft.net/",
+    "website": "https://freakyville.dk/",
+    "store": "https://shop.freakyville.dk/",
     "addresses": [
         "freakyville.net",
         "mc.freakyville.dk"
@@ -10,6 +10,19 @@
     "primaryAddress": "mc.freakyville.net",
     "primaryColor": "#fdc713",
     "secondaryColor": "#aa5c16",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Prison",
         "Skyblock",

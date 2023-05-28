@@ -13,6 +13,7 @@
     "minecraftVersions": [
         "1.19.*"
     ],
+    "primaryMinecraftVersion": "1.19.2",
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -23,7 +24,6 @@
     "gameTypes": [
         "Survival"
     ],    
-    "primaryMinecraftVersion": "1.19.2",
     "store": "https://store.earthsteal.net/",
     "socials": {
         "discord": "https://discord.gg/MmzCabuXs9",

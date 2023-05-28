@@ -8,6 +8,19 @@
     ],
     "primaryColor": "#e3e5e5",
     "secondaryColor": "#492b28",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Minigames",
         "Survival"

@@ -8,6 +8,19 @@
     ],
     "primaryColor": "#90aa4e",
     "secondaryColor": "#1c251a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "PvP"
     ],
