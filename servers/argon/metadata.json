@@ -1,0 +1,51 @@
+{
+    "id": "argonnetwork",
+    "name": "Argon Network",
+    "description": "A network with various competitive mini games",
+    "addresses": [
+        "na.argon.lol",
+        "argon.lol",
+        "dev.argon.lol",
+        "eu.argon.lol"
+    ],
+    "primaryAddress": "argon.lol",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#33ceb7",
+    "secondaryColor": "#ce33c2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA",
+        "AS",
+        "AU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "BedWars",
+        "KitPvP"
+    ],
+    "website": "https://www.argon.lol",
+    "socials": {
+        "discord": "https://discord.argon.lol"
+    }
+}
