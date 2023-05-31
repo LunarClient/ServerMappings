@@ -1,6 +1,6 @@
 {
     "id": "jademc",
-    "name": "JadeMC",
+    "name": "Jade Network",
     "store": "http://store.jademc.net/",
     "description": "Where the best players play",
     "addresses": [
@@ -24,6 +24,6 @@
     ],
     "socials": {
         "twitter": "jademcnet",
-        "discord": "https://discord.com/invite/DrGaKGVaWp"
+        "discord": "https://discord.com/invite/nckK4bvMS6"
     }
 }
