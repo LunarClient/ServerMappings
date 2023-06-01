@@ -1,17 +1,19 @@
 {
   "id": "ghostmc",
   "name": "GhostMC",
+  "website": "https://ghostmc.pl",
+  "store": "https://ghostmc.pl",
   "description": "Innovative Minecraft Survival Server",
   "addresses": [
     "ghostmc.pl"
   ],
   "primaryAddress": "ghostmc.pl",
+  "primaryColor": "#ff6f00",
+  "secondaryColor": "#ffbf00",
   "minecraftVersions": [
     "1.19.*"
   ],
   "primaryMinecraftVersion": "1.19.2",
-  "primaryColor": "#ff6f00",
-  "secondaryColor": "#ffbf00",
   "primaryLanguage": "pl",
   "languages": [
     "pl"
@@ -23,6 +25,9 @@
   "gameTypes": [
       "Survival"
   ],
-  "website": "https://ghostmc.pl",
-  "store": "https://ghostmc.pl"
+  "socials": {
+    "instagram": "ghostmc.pl",
+    "tiktok": "ghostmcpl",
+    "facebook": "ghostmcpl"
+}
 }

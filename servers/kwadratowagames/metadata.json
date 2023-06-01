@@ -8,6 +8,21 @@
     ],
     "primaryColor": "#003244",
     "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"    
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+      "pl"
+    ],
     "gameTypes": [
         "Minigames",
         "PvP",

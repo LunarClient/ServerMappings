@@ -1,9 +1,33 @@
 {
     "id": "galaxycore",
     "name": "GalaxyCore.net",
+    "website": "https://galaxycore.net/",
     "addresses": [
         "galaxycore.net"
     ],
+    "primaryAddress": "galaxycore.net",
     "primaryColor": "#d1d1d3",
-    "secondaryColor": "#606061"
+    "secondaryColor": "#606061",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "socials": {
+        "twitter": "Galaxycore_net",
+        "discord": "https://discord.com/invite/q2FrRxxCyt",
+        "youtube": "336CBEEnB3v4ujFalVA",
+        "twitch": "galaxy_core_net",
+        "instagram": "galaxycore_net",
+        "tiktok": "galaxycore.net"
+    }
 }

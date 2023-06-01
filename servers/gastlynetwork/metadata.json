@@ -5,6 +5,8 @@
         "gastly.live"
     ],
     "primaryAddress": "gastly.live",
+    "primaryColor": "#8E2CC3",
+    "secondaryColor": "#FBFBFB",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,8 +16,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#8E2CC3",
-    "secondaryColor": "#FBFBFB",
     "primaryRegion": "NA",
     "regions": [
         "NA"

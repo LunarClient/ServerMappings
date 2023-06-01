@@ -6,6 +6,8 @@
         "minespoky.net"
     ],
     "primaryAddress": "play.minespoky.net",
+    "primaryColor": "#FB9700",
+    "secondaryColor": "#FBF100",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -13,8 +15,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.17.1",
-    "primaryColor": "#FB9700",
-    "secondaryColor": "#FBF100",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"

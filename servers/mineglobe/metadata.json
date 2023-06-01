@@ -9,6 +9,19 @@
     "primaryAddress": "play.mineglobe.org",
     "primaryColor": "#f0a134",
     "secondaryColor": "#64dacc",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Survival",
         "Skyblock"

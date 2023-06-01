@@ -10,6 +10,23 @@
     "primaryAddress": "play.minelatino.com",
     "primaryColor": "#fa8c16",
     "secondaryColor": "#f5eb81",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+      "es-EN"
+    ],
     "gameTypes": [
         "Minigames",
         "Survival",

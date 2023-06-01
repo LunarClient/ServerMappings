@@ -9,6 +9,18 @@
     "primaryAddress": "mc.magiccraft.fr",
     "primaryColor": "#fec430",
     "secondaryColor": "#9c7b0b",
+    "minecraftVersions": [
+        "1.17.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+      "fr"
+    ],
     "gameTypes": [
         "Roleplay"
     ],

@@ -9,6 +9,24 @@
     "primaryAddress": "play.koolkidzmc.com",
     "primaryColor": "#d89dce",
     "secondaryColor": "#573185",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "gameTypes": [
+        "SurvivaL",
+        "Creative",
+        "Skyblock"
+    ],
     "socials": {
         "tiktok": "koolkidzcommunity"
     }

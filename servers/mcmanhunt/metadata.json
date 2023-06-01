@@ -5,8 +5,22 @@
     "addresses": [
         "mcmanhunt.com"
     ],
+    "primaryAddress": "play.mcmanhunt.com",
     "primaryColor": "#f9e11f",
     "secondaryColor": "#2d2626",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames"

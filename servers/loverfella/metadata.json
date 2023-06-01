@@ -9,6 +9,20 @@
     "primaryAddress": "play.loverfella.com",
     "primaryColor": "#cd2127",
     "secondaryColor": "#e91e27",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Survival",
         "Skyblock",

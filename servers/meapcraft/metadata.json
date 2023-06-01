@@ -7,12 +7,20 @@
         "meapcraft.online"
     ],
     "primaryAddress": "play.meapcraft.online",
+    "primaryColor": "#6e2a69",
+    "secondaryColor": "#fcdb7f",
     "minecraftVersions": [
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#6e2a69",
-    "secondaryColor": "#fcdb7f",
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Survival"
     ],

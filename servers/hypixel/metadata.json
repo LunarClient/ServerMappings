@@ -24,6 +24,10 @@
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Minigames",
         "PvP",

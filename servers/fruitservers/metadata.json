@@ -9,8 +9,18 @@
     "primaryAddress": "mc.fruitservers.net",
     "primaryColor": "#271e13",
     "secondaryColor": "#c3ac2d",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Skyblock",
+        "Prison"
     ],
     "socials": {
         "twitter": "FruitServers",

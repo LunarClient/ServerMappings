@@ -6,16 +6,12 @@
         "kealands.net"
     ],
     "primaryAddress": "kealands.net",
+    "primaryColor": "#63cc4e",
+    "secondaryColor": "#eca942",
     "minecraftVersions": [
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#63cc4e",
-    "secondaryColor": "#eca942",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "OC",
     "regions": [
         "OC"
@@ -23,6 +19,10 @@
     "gameTypes": [
         "Survival",
         "Minigames"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "socials": {
         "twitter": "KealandsMC",

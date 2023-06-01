@@ -7,6 +7,8 @@
         "minearte.net"
     ],
     "primaryAddress": "mc.minearte.net",
+    "primaryColor": "#bd6800",
+    "secondaryColor": "#fcbe2b",
     "minecraftVersions": [
         "1.19.*",
         "1.12.*",
@@ -16,8 +18,6 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#bd6800",
-    "secondaryColor": "#fcbe2b",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"

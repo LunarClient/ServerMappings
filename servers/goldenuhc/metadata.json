@@ -8,6 +8,20 @@
     ],
     "primaryColor": "#c72c28",
     "secondaryColor": "#dcaa28",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "UHC"
     ],

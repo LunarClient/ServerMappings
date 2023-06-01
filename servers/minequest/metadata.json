@@ -1,11 +1,15 @@
 {
     "id": "minequest",
     "name": "Minequest",
+    "website": "https://www.minequest.gg",
+    "store": "https://store.minequest.gg",
     "description": "Multi-version Minecraft social hub.",
     "addresses": [
         "minequest.gg"
     ],
     "primaryAddress": "minequest.gg",
+    "primaryColor": "#2299ff",
+    "secondaryColor": "#22e7ff",
     "minecraftVersions": [
         "1.8.*",
         "1.16.*",
@@ -14,8 +18,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#2299ff",
-    "secondaryColor": "#22e7ff",
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -28,8 +30,6 @@
         "Open World",
         "PvP"
     ],
-    "website": "https://www.minequest.gg",
-    "store": "https://store.minequest.gg",
     "socials": {
         "twitter": "MinequestGG",
         "discord": "https://discord.gg/Dm8tA4Psu5"

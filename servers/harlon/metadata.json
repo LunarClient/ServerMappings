@@ -8,6 +8,18 @@
     "primaryAddress": "play.harlonserver.net",
     "primaryColor": "#06b10e",
     "secondaryColor": "#06b10e",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "Open World"
     ],

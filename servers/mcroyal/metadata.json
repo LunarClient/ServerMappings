@@ -10,6 +10,8 @@
         "mcroyal.net"
     ],
     "primaryAddress": "play.mcroyal.fr",
+    "primaryColor": "#F69E31",
+    "secondaryColor": "#51B8EC",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,8 +21,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#F69E31",
-    "secondaryColor": "#51B8EC",
     "primaryLanguage": "fr",
     "languages": [
         "fr"
