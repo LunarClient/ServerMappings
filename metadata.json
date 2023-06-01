@@ -3,9 +3,7 @@
     "name": "Elytaria Club",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "elytaria.club",
-        "lunargg.dev",
-        "mcteams.com"
+        "elytaria.club"
     ],
     "primaryAddress": "mc.elytaria.club",
     "minecraftVersions": [
@@ -41,7 +39,7 @@
         "Minigames"
     ],
     "website": "https://www.elytaria.club",
-    "store": "https://store.elyatrai.club",
+    "store": "https://store.elytaria.club",
     "socials": {
         "telegram": "elytariaclub",
         "discord": "https://discord.gg/elytaria"
