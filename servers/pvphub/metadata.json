@@ -1,12 +1,16 @@
 {
     "id": "pvphub",
     "name": "PvPHub",
+    "store": "https://store.pvphub.me",
     "description": "Your best PvP experience right here, right now!",
     "addresses": [
         "pvphub.me"
     ],
     "primaryAddress": "pvphub.me",
+    "primaryColor": "#FB4BAE",
+    "secondaryColor": "#FFE1F2",
     "minecraftVersions": [
+        "1.17.*",
         "1.18.*",
         "1.19.*"
     ],
@@ -17,12 +21,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
         "Survival"
     ],
-    "store": "https://store.pvphub.me",
-    "primaryColor": "#FB4BAE",
-    "secondaryColor": "#FFE1F2",
     "socials": {
         "discord": "https://discord.gg/Fa7YXrB6cr"
     }

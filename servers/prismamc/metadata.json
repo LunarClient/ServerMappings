@@ -5,8 +5,30 @@
     "addresses": [
         "prismamc.net"
     ],
+    "primaryAddress": "prismamc.net",
     "primaryColor": "#c9f5f7",
     "secondaryColor": "#f1ac33",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+      "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
     "socials": {
         "twitter": "PrismaMCNW",
         "discord": "https://discord.com/invite/yesGKfpkFa"

@@ -7,8 +7,26 @@
         "og-network.net",
         "og-sg.net"
     ],
+    "primaryAddress": "og-network.net",
     "primaryColor": "#65bf75",
     "secondaryColor": "#cccccb",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Factions"
     ],

@@ -11,6 +11,23 @@
     "primaryAddress": "pika-network.net",
     "primaryColor": "#d2d42d",
     "secondaryColor": "#b83d18",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Minigames"
     ],

@@ -6,13 +6,13 @@
         "nucleoid.xyz"
     ],
     "primaryAddress": "nucleoid.xyz",
+    "primaryColor": "#180527",
+    "secondaryColor": "#0C6F47",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
-    "primaryColor": "#180527",
-    "secondaryColor": "#0C6F47",
     "primaryLanguage": "en",
     "languages": [
         "en"

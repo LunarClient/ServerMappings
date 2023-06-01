@@ -7,6 +7,8 @@
         "pvplegacy.com"
     ],
     "primaryAddress": "pvplegacy.net",
+    "primaryColor": "#0392c5",
+    "secondaryColor": "#a2a1a3",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -22,6 +24,8 @@
         "PvP",
         "Minigames"
     ],
-    "primaryColor": "#0392c5",
-    "secondaryColor": "#a2a1a3"
+    "socials": {
+        "twitter": "PvPLegacyNet",
+        "discord": "https://discord.com/invite/pvplegacy"
+    }
 }

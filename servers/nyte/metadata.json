@@ -5,6 +5,8 @@
         "nyte.cc"
     ],
     "primaryAddress": "nyte.cc",
+    "primaryColor": "#33274d",
+    "secondaryColor": "#8869ab",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -15,6 +17,12 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#33274d",
-    "secondaryColor": "#8869ab"
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ]
 }

@@ -6,6 +6,7 @@
     "addresses": [
         "pvpcraft.cz"
     ],
+    "primaryAddress": "pvpcraft.cz",
     "primaryColor": "#ecd212",
     "secondaryColor": "#909090",
     "gameTypes": [

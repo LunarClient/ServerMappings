@@ -6,8 +6,26 @@
     "addresses": [
         "pandorianmc.net"
     ],
+    "primaryAddress": "pandorianmc.net",
     "primaryColor": "#00a1fe",
     "secondaryColor": "#000101",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Skyblock"
     ],

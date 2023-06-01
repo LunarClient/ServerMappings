@@ -6,6 +6,8 @@
     "pokewild.com"
   ],
   "primaryAddress": "mc.pokewild.com",
+  "primaryColor": "#44a1e3",
+  "secondaryColor": "#a854de",
   "minecraftVersions": [
     "1.16.*",
     "1.17.*",
@@ -13,8 +15,6 @@
     "1.19.*"
   ],
   "primaryMinecraftVersion": "1.16.5",
-  "primaryColor": "#44a1e3",
-  "secondaryColor": "#a854de",
   "primaryLanguage": "en",
   "languages": [
     "en"

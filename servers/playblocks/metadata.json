@@ -10,6 +10,18 @@
     "primaryAddress": "mc.playblocks.org",
     "primaryColor": "#d3d5d6",
     "secondaryColor": "#1f1355",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
     "gameTypes": [
         "Creative",
         "Survival"

@@ -5,9 +5,29 @@
     "addresses": [
         "nightlymc.com"
     ],
-    "gameTypes": [
-        "PvP"
-    ],
+    "primaryAddress": "nightlymc.com",
     "primaryColor": "#c08413",
-    "secondaryColor": "#102160"
+    "secondaryColor": "#102160",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/nightlymc"
+    }
 }
