@@ -23,7 +23,8 @@
     ],
     "gameTypes": [
         "HCF",
-        "PvP"
+        "PvP",
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.gg/VkPnCtFjDM"
