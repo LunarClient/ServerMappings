@@ -1,0 +1,32 @@
+{
+    "id": "crobarus",
+    "name": "Crobar Network",
+    "description": "A Competitive Minecraft Server dedicated to Hardcore Factions.",
+    "addresses": [
+        "crobar.us"
+    ],
+    "primaryAddress": "crobar.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#1a0ecc",
+    "secondaryColor": "#00FFFF ",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/VkPnCtFjDM"
+    }
+}
