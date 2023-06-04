@@ -22,8 +22,6 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "PvE",
         "Survival",
         "Prison",
         "Minigames"
