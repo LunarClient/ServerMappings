@@ -1,0 +1,41 @@
+{
+    "id": "polycraftmc",
+    "name": "PolyCraftMC",
+    "description": "Pure competition",
+    "addresses": [
+        "mc.polycraftmc.net"
+    ],
+    "primaryAddress": "mc.polycraftmc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#002aff",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://polycraftmc.net",
+    "store": "https://store.polycraftmc.net",
+    "socials": {
+        "tiktok": "polycraftmc",
+        "instagram": "polycraftmc_official",
+        "discord": "https://discord.gg/VuM5n3YdS7"
+    }
+}
