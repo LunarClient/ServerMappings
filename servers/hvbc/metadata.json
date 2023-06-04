@@ -1,9 +1,9 @@
 {
     "id": "hvbc",
     "name": "HVBC",
-    "description": "A practice server for legitimate players",
+    "description": "A practice server for legit players",
     "addresses": [
-        "hvbc.club",
+        "hvbc.club"
     ],
     "primaryAddress": "na.hvbc.club",
     "minecraftVersions": [
@@ -19,12 +19,12 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
+        "NA"
     ],
     "gameTypes": [
-        "PvP",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/hvbc",
+        "discord": "https://discord.gg/hvbc"
     }
 }
