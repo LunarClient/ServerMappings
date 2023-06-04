@@ -1,11 +1,9 @@
 {
     "id": "hvbc",
     "name": "HVBC",
-    "description": "Practice Server For Legit player",
+    "description": "A practice server for legitimate players",
     "addresses": [
         "hvbc.club",
-        "na.hvbc.club",
-        "dev.hvbc.club",
     ],
     "primaryAddress": "na.hvbc.club",
     "minecraftVersions": [
