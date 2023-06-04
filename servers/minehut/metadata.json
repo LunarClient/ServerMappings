@@ -2,20 +2,40 @@
     "id": "minehut",
     "name": "Minehut Server",
     "website": "https://minehut.com/",
-    "store": "https://shop.minehut.com/",
+    "store": "https://minehut.com/shop/credits/",
+    "description": "The largest Minecraft network connecting millions of servers.",
     "addresses": [
         "minehut.com",
         "minehut.gg"
     ],
-    "primaryColor": "#ffffff",
-    "secondaryColor": "#ffffff",
+    "primaryAddress": "mc.minehut.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#19F4B9",
+    "secondaryColor": "#00081A",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Prison"
     ],
     "socials": {
-        "twitter": "minehutmc",
+        "twitter": "minehut",
         "discord": "https://discord.com/invite/minehut",
         "youtube": "Minehut",
         "instagram": "minehutmc",
