@@ -2,7 +2,6 @@
     "id": "vanitymc",
     "name": "VanityMC Network",
     "store": "https://store.vanitymc.es/",
-    "description": "Vanity Network join now",
     "addresses": [
         "vanitymc.es"
     ],
