@@ -1,0 +1,30 @@
+{
+    "id": "vanitymc",
+    "name": "VanityMC Network",
+    "store": "https://store.vanitymc.es/",
+    "description": "Vanity Network join now",
+    "addresses": [
+        "vanitymc.es"
+    ],
+    "primaryAddress": "vanitymc.es",
+    "primaryColor": "#fb04d3",
+    "secondaryColor": "#fbfbfb",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "vanitymces",
+        "discord": "https://discord.com/invite/vanityes",
+        "youtube": "UCajj-yUBRnEE28L4ImS5t_w"
+    }
+}
