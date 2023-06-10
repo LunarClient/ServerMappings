@@ -23,6 +23,7 @@
         "EU",
     ],
     "gameTypes": [
-        "KitMap"
+        "PvP",
+		"HCF"
     ],
 }
