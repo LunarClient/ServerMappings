@@ -4,9 +4,7 @@
     "website": "https://www.mc-complex.com/",
     "store": "https://store.mc-complex.com/",
     "addresses": [
-        "hub.mc-complex.com",
-        "tekkit.mc-complex.com",
-        "ftb.mc-complex.com"
+        "mc-complex.com"
     ],
     "primaryAddress": "hub.mc-complex.com",
     "primaryColor": "#ecebed",
