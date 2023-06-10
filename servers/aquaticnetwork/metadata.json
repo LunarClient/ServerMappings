@@ -23,8 +23,7 @@
         "EU",
     ],
     "gameTypes": [
-        "PvP",
-		"HCF"
+        "PvP"
     ],
     "socials": {
         "discord": "https://dsc.gg/aquatic/"
