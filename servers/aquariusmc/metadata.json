@@ -1,38 +1,30 @@
 {
     "id": "aquariusmc",
     "name": "AquariusMC",
-    "store": "https://store.aquariusmc.it/",
+    "description": "Home of KitMap players.",
     "addresses": [
         "aquariusmc.it"
     ],
-    "primaryAddress": "play.aquariusmc.it",
+    "primaryAddress": "aquariusmc.it",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#4bd5fa",
-    "secondaryColor": "#0c9dc4",
-    "primaryLanguage": "it",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
     "languages": [
-        "it"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "Factions"
+        "KitMap"
     ],
     "socials": {
-        "twitter": "networkaquarius",
-        "discord": "https://discord.com/invite/ErpABRs",
-        "telegram": "aquariusmcnetwork"
+        "discord": "https://dsc.gg/aquatic"
     }
 }
