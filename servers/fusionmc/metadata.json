@@ -1,0 +1,44 @@
+{
+    "id": "fusionmc",
+    "name": "FusionMC",
+    "website": "https://www.fusionmc.it/",
+    "store": "https://store.fusionmc.it/",
+    "description": "FusionMC is an Italian minecraft server that is expanding throughout Europe.",
+    "addresses": [
+        "mc.fusionmc.it",
+        "play.awitmc.it",
+        "play.fusionmc.eu",
+        "mc.fusionmc.eu"
+    ],
+    "primaryAddress": "play.fusionmc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#42A4BD",
+    "secondaryColor": "#242C47",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.fusionmc.it/",
+        "instagram": "fusionmc.it",
+        "telegram": "FusionMCEu"
+    }
+}

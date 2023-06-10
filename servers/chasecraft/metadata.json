@@ -1,0 +1,32 @@
+{
+    "id": "chasecraft",
+    "name": "ChaseCraft",
+    "website": "https://chasecraft.gg/",
+    "store": "https://store.chasecraft.gg/",
+    "addresses": [
+        "chasecraft.gg"
+    ],
+    "primaryAddress": "play.chasecraft.gg",
+    "primaryColor": "#fb9f32",
+    "secondaryColor": "#fa321f",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "PlayChasecraft",
+        "discord": "https://discord.com/invite/DJwk4Fc"
+    }
+}
