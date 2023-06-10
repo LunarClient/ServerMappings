@@ -1,7 +1,7 @@
 {
     "id": "aquaticnetwork",
     "name": "Aquatic Network",
-    "description": "NetWork de minecraft PvP.",
+    "description": "NetWork of minecraft PvP.",
     "addresses": [
         "aquatic.mysrv.us"
     ],
@@ -11,16 +11,19 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#f1c232",
-    "primaryLanguage": "it",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es-En",
     "languages": [
-        "it"
+        "es-En"
     ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
     "gameTypes": [
         "PvP"
