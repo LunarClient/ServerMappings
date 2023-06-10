@@ -1,5 +1,5 @@
 {
-	"id": "hcstaticnetwork",
+	"id": "hcstatic",
 	"name": "HCStatic Network",
 	"description": "A potion and soup based pvp network",
 	"addresses": [
@@ -31,7 +31,6 @@
 	"gameTypes": [
 		"HCF",
 		"Kitmap",
-		"KitPvP",
 		"Practice"
 	],
 	"store": "https://store.hcstatic.us/",
