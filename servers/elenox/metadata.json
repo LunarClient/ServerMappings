@@ -1,0 +1,36 @@
+{
+    "id": "elenox",
+    "name": "Elenox Network",
+    "website": "https://www.elenox.net/",
+    "store": "https://www.elenox.net/store",
+    "addresses": [
+        "elenox.net"
+    ],
+    "primaryAddress": "mc.elenox.net",
+    "primaryColor": "#f48e09",
+    "secondaryColor": "#8f949a",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "ElesiaSAS",
+        "discord": "https://discord.com/invite/a7cQCsfszN",
+        "youtube": "Elesia",
+        "instagram": "elenox_network",
+        "tiktok": "elenox_network"
+    }
+}
