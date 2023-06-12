@@ -1,0 +1,33 @@
+{
+    "id": "rederevo",
+    "name": "Rederevo",
+    "store": "https://rederevo.com/",
+    "addresses": [
+        "rederevo.com"
+    ],
+    "primaryAddress": "rederevo.com",
+    "primaryColor": "#168bc4",
+    "secondaryColor": "#dfc4a3",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "rederevo_",
+        "discord": "https://discord.com/invite/rederevo",
+        "youtube": "rederevo_",
+        "twitch": "rederevo",
+        "instagram": "rede.revo"
+    }
+}
