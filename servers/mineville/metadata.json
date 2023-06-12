@@ -3,13 +3,15 @@
     "name": "Mineville",
     "store": "https://store.mineville.io/",
     "addresses": [
-        "play.mineville.io"
+        "mineville.io",
+        "mineville.org"
     ],
-    "primaryAddress": "play.mineville.io",
+    "primaryAddress": "play.mineville.org",
     "primaryColor": "#ffd039",
     "secondaryColor": "#5c0e06",
     "minecraftVersions": [
-        "1.19.*"
+        "1.19.*",
+        "1.20"
     ],
     "primaryMinecraftVersion": "1.19.2",
     "primaryRegion": "NA",
