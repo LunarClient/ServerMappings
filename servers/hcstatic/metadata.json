@@ -30,8 +30,7 @@
 	],
 	"gameTypes": [
 		"HCF",
-		"Kitmap",
-		"Practice"
+		"PvP"
 	],
 	"store": "https://store.hcstatic.us/",
 	"socials": {
