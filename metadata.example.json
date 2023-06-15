@@ -36,5 +36,6 @@
         "twitter": "LunarNetwork",
         "telegram": "lunarnetwork",
         "discord": "https://www.lunar.gg/discord"
-    }
+    },
+    "crossplay": false
 }

@@ -22,6 +22,7 @@
   - [ ] `primaryRegion`: the primary region where your server operates in *(ex. `NA`)*
   - [ ] `regions`: a list of regions where you have servers located that service your players *(ex. `["NA", "EU", "AS"]`)*
   - [ ] `gameTypes`: a list of games that describe the content on your server, must be a max of 3 listed *(ez. `["PVP", "UHC", "HCF"]`)*
+  - [ ] `crossplay`: whether the server has support for Bedrock Edition players (through proxies such as [GeyserMC](https://geysermc.org/))
   - [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) *(ex. `https://www.your-server.com`)*
   - [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) *(ex. `https://store.your-server.com`)*
 
