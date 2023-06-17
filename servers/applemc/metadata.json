@@ -19,6 +19,7 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
