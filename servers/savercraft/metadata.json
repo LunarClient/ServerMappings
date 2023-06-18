@@ -1,0 +1,33 @@
+{
+    "id": "wildwoodsmp",
+    "name": "Savercraft",
+    "website": "https://www.savercraft.net/",
+    "store": "https://store.savercraft.net/",
+    "addresses": [
+        "savercraft.net"
+    ],
+    "primaryAddress": "play.savercraft.net",
+    "primaryColor": "#3cdedf",
+    "secondaryColor": "#1e2428",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/savercraft",
+        "youtube": "UCXCt6kt5GelxDZoMc8_73tg"
+    }
+}
