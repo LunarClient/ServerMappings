@@ -3,7 +3,6 @@
     "name": "ValorHut",
     "description": "Place for Minigames, Survival, PvP and such casual gamemodes.",
     "addresses": [
-        "play.valorhut.net",
         "valorhut.net"
     ],
     "primaryAddress": "play.valorhut.net",
