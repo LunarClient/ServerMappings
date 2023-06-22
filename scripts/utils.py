@@ -30,8 +30,11 @@ def get_all_servers(servers_dir, inactive_file, include_inactive=True):
             continue
 
         # Open metadata.json
-        with open(f"{servers_dir}/{server_id}/metadata.json") as server_file:
-            server = json.load(server_file)
+        try:
+            with open(f"{servers_dir}/{server_id}/metadata.json") as server_file:
+                server = json.load(server_file)
+        except Exception:
+            continue # Already added to errors in validate.py
 
         # Modify versions
         if "minecraftVersions" in server:
