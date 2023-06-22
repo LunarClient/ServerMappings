@@ -1,17 +1,15 @@
 {
-    "id": "hypixel",
-    "name": "Hypixel",
-    "website": "https://hypixel.net/",
-    "store": "https://store.hypixel.net/",
-    "description": "Play the best Minecraft minigames for free!",
+    "id": "deathzone",
+    "name": "DeathZone Network",
+    "store": "https://tienda.deathzone.net/",
     "addresses": [
-        "hypixel.net",
-        "hypixel.io"
+        "deathzone.net"
     ],
-    "primaryAddress": "mc.hypixel.net",
-    "primaryColor": "#ecb94f",
-    "secondaryColor": "#372826",
+    "primaryAddress": "deathzone.net",
+    "primaryColor": "#e60608",
+    "secondaryColor": "#091e3f",
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
