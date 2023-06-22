@@ -21,9 +21,14 @@
         "1.20"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Minigames",
@@ -38,6 +43,5 @@
         "reddit": "hypixel",
         "tiktok": "hypixel",
         "facebook": "Hypixel"
-    },
-    "crossplay": false
+    }
 }

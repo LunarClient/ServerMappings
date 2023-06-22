@@ -1,0 +1,33 @@
+{
+    "id": "atlasmc",
+    "name": "AtlasMC",
+    "store": "https://store.atlasmc.it/",
+    "addresses": [
+        "atlasmc.it"
+    ],
+    "primaryAddress": "play.atlasmc.it",
+    "primaryColor": "#25afca",
+    "secondaryColor": "#8db0b1",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/HmgVaVkj2d",
+        "instagram": "atlasmc_official",
+        "tiktok": "atlasmcnet"
+    }
+}

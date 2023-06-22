@@ -1,0 +1,38 @@
+{
+    "id": "pvpwars",
+    "name": "PvPWars",
+    "website": "https://pvpwars.net/",
+    "store": "https://shop.pvpwars.net/",
+    "addresses": [
+        "pvpwars.net"
+    ],
+    "primaryAddress": "play.pvpwars.net",
+    "primaryColor": "#19b3d1",
+    "secondaryColor": "#fffefe",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "PvPWarsMC",
+        "discord": "https://discord.com/invite/PRUeakK"
+    }
+}
