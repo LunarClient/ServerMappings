@@ -6,7 +6,7 @@
     "description": "Multi-Gamemode Network featuring casual gamemodes and minigames such as Prison, GTA and much more!",
     "addresses": [
         "jailmine.org",
-		"mc.jailmine.org"
+		"mc.jailmine.org",
         "play.jailmine.org"
     ],
     "primaryAddress": "play.jailmine.org",
@@ -45,6 +45,6 @@
         "twitter": "JailMineNetwork",
         "discord": "https://discord.com/invite/5zZyPKnpMM",
         "youtube": "JailMine",
-        "tiktok": "JailMine",
+        "tiktok": "JailMine"
     }
 }
