@@ -1,0 +1,38 @@
+{
+    "id": "redestory",
+    "name": "Rede Story",
+    "store": "https://loja.redestory.com/",
+    "addresses": [
+        "redestory.com"
+    ],
+    "primaryAddress": "redestory.com",
+    "primaryColor": "#e66f11",
+    "secondaryColor": "#efb315",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "pt",
+    "languages": [
+        "pt"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/redestory",
+        "tiktok": "redestory"
+    }
+}
