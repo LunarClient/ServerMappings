@@ -1,0 +1,34 @@
+{
+    "id": "hypermc",
+    "name": "HyperMC",
+    "website": "https://hypermc.net/",
+    "store": "https://shop.hypermc.net/",
+    "description": "HyperMC is a PvP server for Koreans who plays 1.8",
+    "addresses": [
+        "play.hypermc.net"
+    ],
+    "primaryAddress": "play.hypermc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryColor": "#e69e17",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko",
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/BTdYWmyCyD",
+        "youtube": "@hypermcnetwork",
+    }
+}
