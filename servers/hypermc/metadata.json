@@ -4,9 +4,9 @@
     "website": "https://hypermc.net/",
     "store": "https://store.hypermc.net/",
     "addresses": [
-        "HyperMC.net"
+        "hypermc.net"
     ],
-    "primaryAddress": "HyperMC.net",
+    "primaryAddress": "hypermc.net",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
