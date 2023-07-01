@@ -2,23 +2,22 @@
     "id": "hypermc",
     "name": "HyperMC",
     "website": "https://hypermc.net/",
-    "store": "https://store.hypermc.net/",
     "addresses": [
-        "hypermc.net"
+        "hyper.net"
     ],
     "primaryAddress": "play.hypermc.net",
+    "primaryColor": "#e69e17",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#e69e17",
-    "secondaryColor": "#ffffff",
     "gameTypes": [
         "PvP"
-    ]
+    ],
     "socials": {
         "discord": "https://discord.gg/BTdYWmyCyD",
-        "youtube": "@hypermcnetwork",
+        "youtube": "@hypermcnetwork"
     }
 }
