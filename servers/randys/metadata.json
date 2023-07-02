@@ -1,0 +1,33 @@
+{
+    "id": "randys",
+    "name": "Randys Network",
+    "website": "https://www.randys.lat/",
+    "store": "https://randys.lat/store",
+    "addresses": [
+        "randys.lat"
+    ],
+    "primaryAddress": "randys.lat",
+    "primaryColor": "#5555FF",
+    "secondaryColor": "#55FFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+	"SkyWars",
+	"BedWars",
+	"SkyBlock",
+	"Practice"
+    ],
+    "socials": {
+        "twitter": "randys_lat",
+        "discord": "https://dsc.gg/randys"
+    }
+}
