@@ -10,10 +10,10 @@
     ],
     "primaryAddress": "iostein.de",
     "minecraftVersions": [
-        "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.18.2",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "EU",
     "regions": [
         "EU"
