@@ -14,8 +14,7 @@
     "secondaryColor": "#FFD966",
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "he"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -26,8 +25,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "UHC",
-        "Adventure"
+        "UHC"
     ],
     "website": "https://selamixers.club",
     "store": "https://store.selamixers.club",
