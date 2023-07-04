@@ -6,12 +6,12 @@
         "mc.quadflame.com"
     ],
     "primaryAddress": "mc.quadflame.com",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#AA00AA",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#55FFFF",
-    "secondaryColor": "#AA00AA",
     "primaryLanguage": "en",
     "languages": [
         "en"

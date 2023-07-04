@@ -10,7 +10,8 @@ MAJOR_ALL = {
     "1.16.*": ["1.16.5", "1.16"],
     "1.17.*": ["1.17.1", "1.17"],
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
-    "1.19.*": ["1.19", "1.19.2", "1.19.3"]
+    "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
+    "1.20.*": ["1.20"]
 }
 
 
@@ -29,8 +30,11 @@ def get_all_servers(servers_dir, inactive_file, include_inactive=True):
             continue
 
         # Open metadata.json
-        with open(f"{servers_dir}/{server_id}/metadata.json") as server_file:
-            server = json.load(server_file)
+        try:
+            with open(f"{servers_dir}/{server_id}/metadata.json") as server_file:
+                server = json.load(server_file)
+        except Exception:
+            continue # Already added to errors in validate.py
 
         # Modify versions
         if "minecraftVersions" in server:

@@ -1,0 +1,38 @@
+{
+    "id": "waraccademy",
+    "name": "WarAccademy",
+    "website": "https://waraccademy.com/",
+    "store": "https://store.waraccademy.com/",
+    "addresses": [
+        "waraccademy.com",
+        "waraccademy.it",
+        "premium.waraccademy.com"
+    ],
+    "primaryAddress": "mc.waraccademy.com",
+    "primaryColor": "#ff4e56",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/NpwZCUs7Jg",
+        "telegram": "waraccademyofficial",
+        "instagram": "waraccademyofficial"
+    }
+}

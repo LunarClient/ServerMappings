@@ -1,0 +1,36 @@
+{
+  "id": "koldpvp",
+  "name": "KoldPvP",
+  "description": "KoldPvP is a network focused on PvP like UHC, HCF & Kitmap.",
+  "addresses": [
+    "koldpvp.cc"
+  ],
+  "primaryAddress": "koldpvp.cc",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#BA0202",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "HCF",
+    "UHC",
+    "PvP"
+  ],
+  "website": "https://koldpvp.cc",
+  "store": "https://store.koldpvp.cc",
+  "socials": {
+    "twitter": "KoldPvP",
+    "discord": "https://discord.koldpvp.cc"
+  }
+}

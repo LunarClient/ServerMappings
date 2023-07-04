@@ -1,0 +1,29 @@
+{
+    "id": "opsucht",
+    "name": "opsucht",
+    "website": "https://www.opsucht.net/",
+    "store": "https://shop.opsucht.net/",
+    "addresses": [
+        "opsucht.net"
+    ],
+    "primaryAddress": "opsucht.net",
+    "primaryColor": "#e2eef7",
+    "secondaryColor": "#17174c",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "OPSUCHT",
+        "discord": "https://discord.com/invite/BRNDrxCAxp",
+        "instagram": "opsuchtnet"
+    }
+}
