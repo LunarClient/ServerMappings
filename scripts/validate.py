@@ -6,6 +6,7 @@ import requests
 
 from utils import get_all_servers, validate_logo, validate_background, validate_banner
 
+file_whitelist = ['.git', '.github', '.gitignore', 'inactive.json', 'inactive.schema.json', 'LICENSE', 'metadata.example.json', 'metadata.schema.json', 'README.md', 'scripts', 'servers']
 
 def post_comment(messages: dict):
     pull_id = os.getenv('PR_ID')
@@ -175,6 +176,11 @@ def check_media(args: argparse.Namespace, current_errors: dict) -> dict:
 
 
 if __name__ == '__main__':
+    if any([file not in file_whitelist for file in os.listdir("..")]):
+        post_comment({"Overall": ["A file is in the main directory but not in file_whitelist"]})
+        print("A file is in the main directory but not in file_whitelist")
+        exit(1)
+
     use_args = os.getenv('USE_ARGS') == "true"
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers_dir', required=use_args, type=str)
