@@ -175,13 +175,13 @@ def check_media(args: argparse.Namespace, current_errors: dict) -> dict:
     return current_errors
 
 
-if __name__ == '__main__':
-    print(os.listdir(".."))
-    if any([file not in file_whitelist for file in os.listdir("..")]):
-        post_comment({"Overall": ["A file is in the main directory but not in file_whitelist"]})
-        print("A file is in the main directory but not in file_whitelist")
-        exit(1)
+def validate_root(dir="."):
+    if any([file not in file_whitelist for file in os.listdir(dir)]):
+            post_comment({"Overall": ["A file is in the main directory but not in file_whitelist"]})
+            print("A file is in the main directory but not in file_whitelist")
+            exit(1)
 
+if __name__ == '__main__':
     use_args = os.getenv('USE_ARGS') == "true"
     parser = argparse.ArgumentParser()
     parser.add_argument('--servers_dir', required=use_args, type=str)
@@ -193,12 +193,16 @@ if __name__ == '__main__':
 
     # If we don't find the env variable for use args assume we're running this locally
     if not use_args:
+        validate_root("..")
         local = os.path.abspath(os.path.join(os.path.dirname(__file__), '..')).replace("\\", "/")
         arguments.inactive_schema = local + "/inactive.schema.json"
         arguments.inactive_file = local + "/inactive.json"
         arguments.metadata_schema = local + "/metadata.schema.json"
         arguments.servers_dir = local + "/servers"
         arguments.validate_inactive = False
+    else:
+        validate_root()
+    
 
     metadata_errors = check_metadata(arguments)
     all_errors = check_media(arguments, metadata_errors)
