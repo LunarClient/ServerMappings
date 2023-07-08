@@ -176,6 +176,7 @@ def check_media(args: argparse.Namespace, current_errors: dict) -> dict:
 
 
 if __name__ == '__main__':
+    print(os.listdir(".."))
     if any([file not in file_whitelist for file in os.listdir("..")]):
         post_comment({"Overall": ["A file is in the main directory but not in file_whitelist"]})
         print("A file is in the main directory but not in file_whitelist")
