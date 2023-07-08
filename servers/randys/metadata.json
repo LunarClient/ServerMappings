@@ -20,11 +20,7 @@
         "NA"
     ],
     "gameTypes": [
-        "Minigames",
-	"SkyWars",
-	"BedWars",
-	"SkyBlock",
-	"Practice"
+        "Minigames"
     ],
     "socials": {
         "twitter": "randys_lat",
