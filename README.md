@@ -2,7 +2,9 @@
 
 ## Summary
 
-This is a public mapping of server IPs <-> a pretty display name. This data is used extensively around Lunar Client, most notably when displaying server names (or "Private Server", if unknown) on the friends list. Historically, this mapping was handled internally, and server owners did not have a good way to manage data for their server.
+Server Mappings is a collection of mappings for Minecraft servers, including the most popular servers such as Hypixel, Mineplex, and more. Server Mappings provides information such as server name, server icon and more.
+
+For a full overview of the information which can be found in Server Mappings, [check out our documentation](https://lunarclient.dev/server-mappings/introduction).
 
 ## How do I add/update/remove a server?
 
