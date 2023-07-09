@@ -1,0 +1,30 @@
+{
+    "id": "mcspirit",
+    "name": "McSpirit",
+    "store": "https://store.mcspirit.club/",
+    "addresses": [
+        "mcspirit.club"
+    ],
+    "primaryAddress": "mcspirit.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#3d3d3d",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+    ],
+    "socials": {
+        "discord": "http://discord.gg/cpUjKubrVb"
+    }
