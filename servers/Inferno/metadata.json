@@ -1,0 +1,51 @@
+{
+    "id": "inferno",
+    "name": "Inferno Network",
+    "description": "A Minecraft pvp server featuring KitPvP Kitmap Practice HCFactions and more to come!",
+    "addresses": [
+        "inferno.rip",
+        "mc.inferno.rip"
+    ],
+    "primaryAddress": "mc.inferno.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ab2b22",
+    "secondaryColor": "#f50a0a",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.inferno.rip",
+    "store": "https://store.inferno.rip",
+    "socials": {
+        "twitter": "InfernoHCF",
+        "discord": "https://www.discord.inferno.rip"
+    },
+    "crossplay": false
+}
