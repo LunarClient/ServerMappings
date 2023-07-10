@@ -8,7 +8,7 @@ For a full overview of the information which can be found in Server Mappings, [c
 
 ## How do I add/update/remove a server?
 
-Each server in ServerMappings is represented by a folder with an accompanying `metadata.json` and `logo.png`. Open a pull request in this repository whilst following the steps below, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes. Check out `metadata.example.json` as an example of how to structure your metadata file.
+Each server in Server Mappings is represented by a folder with an accompanying `metadata.json` and `logo.png`. Open a pull request in this repository whilst following the steps below, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes. Check out `metadata.example.json` as an example of how to structure your metadata file.
 
 ## IP Addresses
 
