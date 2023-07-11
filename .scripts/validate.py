@@ -6,7 +6,7 @@ import requests
 
 from utils import get_all_servers, validate_logo, validate_background, validate_banner
 
-FILE_WHITELIST = ['.git', '.github', '.gitignore', 'inactive.json', 'inactive.schema.json', 'LICENSE', 'metadata.example.json', 'metadata.schema.json', 'README.md', 'scripts', 'servers', 'docs']
+FILE_WHITELIST = ['.git', '.github', '.gitignore', 'inactive.json', 'inactive.schema.json', 'LICENSE', 'metadata.example.json', 'metadata.schema.json', 'README.md', '.scripts', 'servers', 'docs']
 
 def post_comment(messages: dict):
     pull_id = os.getenv('PR_ID')
