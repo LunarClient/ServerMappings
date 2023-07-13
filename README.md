@@ -25,7 +25,7 @@ If you believe your server has been incorrectly marked as inactive, please conta
 
 ## Can I use this data for my project?
 
-You are free to use this data for anything you wish. Aslong as it abides by [our terms of service](https://www.lunarclient.com/terms). You can read how to harness this data in our [documentation](https://lunarclient.dev/server-mappings/using-servermappings).
+You are free to use this data for anything you wish. As long as it abides by [our terms of service](https://www.lunarclient.com/terms). You can read how to harness this data in our [documentation](https://lunarclient.dev/server-mappings/using-servermappings).
 
 
 ## Any other questions?
