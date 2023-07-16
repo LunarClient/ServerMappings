@@ -12,21 +12,21 @@ An example can also be found in the root, `metadata.example.json`. This contains
 
 Below is a table of the basic fields that are required for your server's metadata file, and a brief description of what they are.
 
-| Field | Description |
-| --- | --- |
-| `id` | This is the ID for the server, discussed in the [overview](server-mappings/adding-servers/overview), this must match the name of your server's folder.  |
-| `name` | This is the name for your server.  |
-| `description` | This is the description for your server. It must be **between 16-80 characters**.  |
+| Field         | Description                                                                                                                                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `id`          | This is the ID for the server, discussed in the [overview](server-mappings/adding-servers/overview), this must match the name of your server's folder. |
+| `name`        | This is the name for your server.                                                                                                                      |
+| `description` | This is the description for your server. It must be **between 16-80 characters**.                                                                      |
 
-###  Addresses
+### Addresses
 
 The `addresses` array in each server object is actually an array of IP suffixes. **This should not include the subdomain for the server**.
 
-| ✅ Correct | ❌ Incorrect |
-| --- | --- |
+| ✅ Correct    | ❌ Incorrect       |
+| ------------- | ------------------ |
 | `example.com` | `play.example.com` |
 | `hypixel.net` | `play.hypixel.net` |
-| `lunar.gg` | `eu.lunar.gg` |
+| `lunar.gg`    | `eu.lunar.gg`      |
 
 The `primaryAddress` in each server object is for users to connect to your server on and is required to be resolvable. This primary address will be used to ensure that the server remains online and active. **This can (and should) include the subdomain for the server**.
 
@@ -44,7 +44,7 @@ Each server must have a `primaryColor` and `secondaryColor`. These colors should
 
 ### Minecraft Versions
 
-The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18.1, 1.19.2)*; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array. 
+The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. _(ie. 1.18.1, 1.19.2)_; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array.
 
 **The versions you include must be versions that are directly offered in Lunar Client, which can be found in the version selector of the Lunar Client Launcher.**
 
@@ -72,17 +72,17 @@ You can define both `languages` (a list of all the languages your server support
 - `sv-SE`
 
 ### Regions
-    
+
 You can define both `regions` (a list of all the regions your server supports) and a `primaryRegion` (the main region your server operates out of) which your server supports. These regions can be selected from the following:
 
-| Region Code | Name |
-| --- | --- |
-| AF | Africa |
-| AS | Asia |
-| EU | Europe |
-| NA | North America |
-| OC | Oceania |
-| SA | South America |
+| Region Code | Name          |
+| ----------- | ------------- |
+| AF          | Africa        |
+| AS          | Asia          |
+| EU          | Europe        |
+| NA          | North America |
+| OC          | Oceania       |
+| SA          | South America |
 
 ### Website/Store
 
@@ -91,6 +91,7 @@ The URLs to your server's website and store. These should be a valid URLs includ
 ### Socials
 
 You can provide any social media links that you would like to be displayed on your server's page. These links will be displayed alongside your server. These should be under the `socials` key. We support the following socials:
+
 - `twitter`
 - `discord`
 - `youtube`
