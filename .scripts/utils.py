@@ -192,8 +192,8 @@ def validate_banner(path, server_name):
             banner_image.seek(idx)
             total_duration += duration
 
-        if total_duration > 10000:
-           errors.append(f'{server_name}\'s server banner is more than 10 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
+        if total_duration > 15_000:
+           errors.append(f'{server_name}\'s server banner is more than 15 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
 
         if total_duration == 0:
             errors.append(f'{server_name}\'s server gif server banner seems to not have any duration associated with it... Please ensure the image meets the requirements before proceeding.')
