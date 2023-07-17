@@ -1,0 +1,32 @@
+{
+    "id": "fruitscraft",
+    "name": "FruitsCraft",
+    "website": "https://www.fruitscraft.com/",
+    "store": "https://store.fruitscraft.com/",
+    "description": "A modern server that aims to enhance vanilla gameplay in fun and exciting ways.",
+    "addresses": [
+        "play.fruitscraft.com"
+    ],
+    "primaryAddress": "play.fruitscraft.com",
+    "primaryColor": "#ff4949",
+    "secondaryColor": "#30005d",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "FruitsCraft",
+        "discord": "https://discord.com/invite/applecraft",
+        "youtube": "UCUiGQYMxCWOTg54mCbJD-tw",
+        "instagram": "fruitscraftsserver",
+        "tiktok": "fruitscraft"
+    }
+}

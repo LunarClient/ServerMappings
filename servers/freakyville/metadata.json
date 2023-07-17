@@ -4,7 +4,8 @@
     "website": "https://www.freakyville.net/",
     "store": "https://freakyvillemc.buycraft.net/",
     "addresses": [
-        "freakyville.net"
+        "freakyville.net",
+        "mc.freakyville.dk"
     ],
     "primaryAddress": "mc.freakyville.net",
     "primaryColor": "#fdc713",

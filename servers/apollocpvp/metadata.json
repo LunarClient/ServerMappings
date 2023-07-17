@@ -1,0 +1,29 @@
+{
+    "id": "apollocpvp",
+    "name": "ApolloCPvP",
+    "store": "https://store.apollocpvp.com/",
+    "addresses": [
+        "apollocpvp.com"
+    ],
+    "primaryAddress": "apollocpvp.com",
+    "primaryColor": "#a0cbfe",
+    "secondaryColor": "#091a32",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/apollocpvp"
+    }
+}

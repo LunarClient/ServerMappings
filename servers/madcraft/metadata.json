@@ -1,0 +1,34 @@
+{
+    "id": "madcraft",
+    "name": "MadCraft",
+    "website": "https://madcraft.ir/",
+    "addresses": [
+        "madcraft.ir"
+    ],
+    "primaryAddress": "play.madcraft.ir",
+    "primaryColor": "#fb9409",
+    "secondaryColor": "#463f3a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/HzrsAn7",
+        "telegram": "madcraft",
+        "instagram": "madcraft.ir"
+    }
+}

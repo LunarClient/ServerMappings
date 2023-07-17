@@ -6,8 +6,23 @@
     "addresses": [
         "timolia.de"
     ],
+    "primaryAddress": "timolia.de",
     "primaryColor": "#f4d7b0",
     "secondaryColor": "#23365b",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "PvP",
         "UHC",

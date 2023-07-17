@@ -1,0 +1,38 @@
+{
+    "id": "performium",
+    "name": "Performium Network",
+    "website": "https://performium.net/",
+    "store": "https://store.performium.net/",
+    "addresses": [
+        "performium.net",
+        "skyblocknetwork.com"
+    ],
+    "primaryAddress": "mc.performium.net",
+    "primaryColor": "#bd101b",
+    "secondaryColor": "#77140c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "performium",
+        "discord": "https://discord.com/invite/43kJeeqyzr",
+        "youtube": "UCepS4nC_90eBruv_TvXs0sQ",
+        "facebook": "Performium"
+    }
+}

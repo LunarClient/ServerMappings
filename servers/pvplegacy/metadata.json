@@ -3,14 +3,16 @@
     "name": "PvP Legacy",
     "description": "Offers a modern PvP experience for KitPvP and custom duels",
     "addresses": [
-        "pvplegacy.net"
+        "pvplegacy.net",
+        "pvplegacy.com"
     ],
     "primaryAddress": "pvplegacy.net",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20"
     ],
     "primaryMinecraftVersion": "1.19.2",
     "primaryRegion": "NA",

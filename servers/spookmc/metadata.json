@@ -1,0 +1,36 @@
+{
+    "id": "spookmc",
+    "name": "SpookMC Network",
+    "website": "https://www.spookmc.net/",
+    "store": "https://tienda.spookmc.net/",
+    "addresses": [
+        "spookmc.net"
+    ],
+    "primaryAddress": "spookmc.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#8f8f93",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Baz9nQxNkM",
+        "youtube": "spookmcnet",
+        "tiktok": "spookmcnetwork"
+    }
+}
