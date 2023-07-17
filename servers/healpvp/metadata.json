@@ -4,16 +4,16 @@
     "store": "https://store.healpvp.com/",
     "addresses": [
         "minebow.us",
-		"healpvp.com"
+	"healpvp.com"
     ],
     "primaryColor": "#9c34b8",
     "secondaryColor": "#17151c",
     "gameTypes": [
         "HCF",
         "PvP",
-		"Survival",
-		"KitPvP",
-		"Cubecore"
+	"Survival"
+	"KitPvP",
+	"Cubecore"
     ],
     "socials": {
         "instagram": "healpvp",
