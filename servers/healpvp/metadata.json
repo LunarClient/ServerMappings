@@ -1,22 +1,22 @@
 {
     "id": "healpvp",
-    "name": "HealPvP Network",
+    "name": "HealPvP",
+    "website": "https://healpvp.com/",
     "store": "https://store.healpvp.com/",
     "addresses": [
-        "minebow.us",
-		"healpvp.com"
+        "healpvp.com"
     ],
-    "primaryColor": "#9c34b8",
-    "secondaryColor": "#17151c",
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
     "gameTypes": [
-        "HCF",
-        "PvP",
-		"Survival",
-		"KitPvP",
-		"Cubecore"
+        "Practice",
+        "KitPvP",
+        "Cubecore"
     ],
     "socials": {
-        "instagram": "healpvp",
-        "discord": "discord.healpvp.us"
+        "twitter": "HealPvP",
+        "discord": "https://discord.com/invite/healpvp",
+        "telegram": "healpvpcom",
+        "tiktok": "https://www.tiktok.com/@healpvp"
     }
 }
