@@ -9,9 +9,9 @@
     "primaryColor": "#db213a",
     "secondaryColor": "#3f3e4c",
     "gameTypes": [
-        "Practice",
-        "KitPvP",
-        "Kitmap"
+        "PvP",
+        "PvE",
+        "Adventure"
     ],
     "socials": {
         "twitter": "HealPvP",
