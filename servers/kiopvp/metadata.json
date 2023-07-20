@@ -4,9 +4,8 @@
     "addresses": [
         "kiopvp.com"
     ],
-    "primaryAddress": "kiopvp.com",
+    "primaryAddress": "kiopvp.org",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
