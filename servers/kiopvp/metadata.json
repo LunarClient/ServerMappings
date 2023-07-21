@@ -6,7 +6,8 @@
     ],
     "primaryAddress": "kiopvp.org",
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.*",
+        "1.13.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
