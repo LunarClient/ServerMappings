@@ -1,0 +1,35 @@
+{
+    "id": "unreach",
+    "name": "Unreach Hosting",
+    "description": "The best hosting! Start with 1.5GB Ram!",
+    "addresses": [
+        "unreach.host"
+    ],
+    "primaryAddress": "unreach.host",
+    "minecraftVersions": [
+        "1.18",
+        "1.19"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#305B63",
+    "secondaryColor": "#7D7F63",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Hosting",
+        "PvP",
+        "Survival",
+        "Creative"
+    ],
+    "website": "https://unreach.host"
+}
