@@ -5,5 +5,16 @@
     "store": "https://store.mcplayhd.net/",
     "addresses": [
         "mcplayhd.net"
-    ]
+    ],
+    "primaryColor": "#fe7303",
+    "secondaryColor": "#7a756f",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "mcplayhdnet",
+        "discord": "https://discord.com/invite/fk2C5XEYJs",
+        "reddit": "McPlayHD"
+    }
 }

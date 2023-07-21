@@ -4,7 +4,10 @@
     "required": [
         "id",
         "name",
-        "addresses"
+        "addresses",
+        "gameTypes",
+        "primaryColor",
+        "secondaryColor"
     ],
     "properties": {
         "id": {
@@ -37,7 +40,7 @@
             }
         },
         "primaryMinecraftVersion": {
-            "$ref": "#/definitions/MinecraftVersion"
+            "$ref": "#/definitions/MinecraftSubversion"
         },
         "primaryColor": {
             "$ref": "#/definitions/RGBColor"
@@ -78,6 +81,41 @@
         },
         "store": {
             "$ref": "#/definitions/WebAddress"
+        },
+        "socials": {
+            "type": "object",
+            "properties": {
+                "twitter": {
+                    "type": "string"
+                },
+                "discord": {
+                    "type": "string"
+                },
+                "youtube": {
+                    "type": "string"
+                },
+                "instagram": {
+                    "type": "string"
+                },
+                "twitch": {
+                    "type": "string"
+                },
+                "telegram": {
+                    "type": "string"
+                },
+                "reddit": {
+                    "type": "string"
+                },
+                "tiktok": {
+                    "type": "string"
+                },
+                "facebook": {
+                    "type": "string"
+                }
+            }
+        },
+        "crossplay": {
+            "type": "boolean"
         }
     },
     "definitions": {
@@ -92,13 +130,45 @@
         "MinecraftVersion": {
             "type": "string",
             "enum": [
-                "1.7",
-                "1.8",
-                "1.12",
-                "1.16",
-                "1.17",
-                "1.18",
-                "1.19"
+                "1.7.*",
+                "1.8.*",
+                "1.12.*",
+                "1.16.*",
+                "1.17.*",
+                "1.18.*",
+                "1.19.*",
+                "1.20.*",
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3",
+                "1.19.4",
+                "1.20",
+                "1.20.1"
+            ]
+        },
+        "MinecraftSubversion": {
+            "type": "string",
+            "enum": [
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3",
+                "1.19.4",
+                "1.20",
+                "1.20.1"
             ]
         },
         "Region": {

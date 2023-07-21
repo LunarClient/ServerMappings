@@ -4,6 +4,34 @@
     "website": "https://ultimismc.com/",
     "store": "https://store.ultimismc.com/",
     "addresses": [
-        "ultimismc.com"
-    ]
+        "ultimismc.com",
+        "ultimis.net"
+    ],
+    "primaryAddress": "ultimismc.com",
+    "primaryColor": "#01d5d9",
+    "secondaryColor": "#9e9e9d",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "ultimismc",
+        "discord": "https://discord.com/invite/ultimismc",
+        "youtube": "UltimisMCOffical",
+        "instagram": "ultimismc",
+        "reddit": "UltimisMC"
+    }
 }

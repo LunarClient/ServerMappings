@@ -6,5 +6,14 @@
     "addresses": [
         "sydaria.fr"
     ],
-    "primaryAddress": "play.sydaria.fr"
+    "primaryAddress": "play.sydaria.fr",
+    "primaryColor": "#f1c911",
+    "secondaryColor": "#79641f",
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "sydariafr",
+        "discord": "https://discord.com/invite/sydaria"
+    }
 }

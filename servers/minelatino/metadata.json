@@ -7,5 +7,34 @@
         "minelatino.com",
         "minelatino.net"
     ],
-    "primaryAddress": "play.minelatino.com"
+    "primaryAddress": "play.minelatino.com",
+    "primaryColor": "#fa8c16",
+    "secondaryColor": "#f5eb81",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "MineLatServer",
+        "discord": "https://discord.com/invite/krSnVsK",
+        "instagram": "minelatinonetwork",
+        "tiktok": "play.minelatino.com",
+        "facebook": "MineLatino.oficial"
+    }
 }

@@ -5,5 +5,16 @@
     "store": "https://store.pvpgym.net/",
     "addresses": [
         "pvpgym.net"
-    ]
+    ],
+    "primaryColor": "#02999c",
+    "secondaryColor": "#0d0604",
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "PvpGymOfficial",
+        "discord": "https://discord.com/invite/CWkq9XgQXB",
+        "tiktok": "pvpgym"
+    }
 }

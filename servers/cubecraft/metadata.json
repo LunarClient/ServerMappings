@@ -6,5 +6,28 @@
     "addresses": [
         "cubecraft.net"
     ],
-    "primaryAddress": "cubecraft.net"
+    "primaryAddress": "play.cubecraft.net",
+    "primaryColor": "#1e89eb",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "CubeCraftGames",
+        "discord": "https://discord.com/invite/cubecraft",
+        "youtube": "cubecraftgamesserver",
+        "instagram": "cubecraftgames",
+        "tiktok": "cubecrafttiktok",
+        "facebook": "CubeCraftGames"
+    }
 }

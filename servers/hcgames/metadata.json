@@ -1,0 +1,20 @@
+{
+    "id": "hcgames",
+    "name": "HCGames",
+    "website": "http://hcgames.org/",
+    "store": "https://store.hcgames.org/",
+    "addresses": [
+        "hcgames.org"
+    ],
+    "primaryAddress": "hcgames.org",
+    "primaryColor": "#DD5353",
+    "secondaryColor": "#FFFFFF",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "HCGamesNetwork",
+        "discord": "https://discord.com/HCGames"
+    }
+}

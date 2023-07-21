@@ -3,5 +3,7 @@
     "name": "GalaxyCore.net",
     "addresses": [
         "galaxycore.net"
-    ]
+    ],
+    "primaryColor": "#d1d1d3",
+    "secondaryColor": "#606061"
 }

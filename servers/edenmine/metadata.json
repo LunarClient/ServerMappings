@@ -5,5 +5,31 @@
     "store": "https://www.edenmine.eu/store/",
     "addresses": [
         "edenmine.eu"
-    ]
+    ],
+    "primaryAddress": "mc.edenmine.eu",
+    "primaryColor": "#90aa4e",
+    "secondaryColor": "#1c251a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "Edenminenetwork",
+        "discord": "https://discord.com/invite/XVJYhYDdzz",
+        "telegram": "edenmine",
+        "facebook": "edenminenetwork"
+    }
 }

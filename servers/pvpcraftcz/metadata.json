@@ -5,5 +5,15 @@
     "store": "https://obchod.pvpcraft.cz/",
     "addresses": [
         "pvpcraft.cz"
-    ]
+    ],
+    "primaryColor": "#ecd212",
+    "secondaryColor": "#909090",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/suzTg4D",
+        "instagram": "pvpcraft.cz",
+        "tiktok": "pvpcraftcz"
+    }
 }

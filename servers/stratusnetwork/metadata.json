@@ -5,5 +5,18 @@
     "store": "https://stratusnetwork.buycraft.net/",
     "addresses": [
         "stratus.network"
-    ]
+    ],
+    "primaryColor": "#6389cb",
+    "secondaryColor": "#3246a2",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "stratusmc",
+        "discord": "https://discord.com/invite/Aaf9hTr",
+        "youtube": "StratusNetworkmc",
+        "twitch": "stratusmc",
+        "tiktok": "stratusnetwork"
+    }
 }

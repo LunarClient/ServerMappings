@@ -1,0 +1,34 @@
+{
+    "id": "technoob",
+    "name": "tech-noob",
+    "addresses": [
+        "tech-noob.com"
+    ],
+    "primaryAddress": "tech-noob.com",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9",
+        "1.19.2"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3768b8",
+    "secondaryColor": "#d1620d",
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/YXkksB7zmF"
+    }
+}

@@ -7,12 +7,12 @@
     ],
     "primaryAddress": "play.minespoky.net",
     "minecraftVersions": [
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.17",
+    "primaryMinecraftVersion": "1.17.1",
     "primaryColor": "#FB9700",
     "secondaryColor": "#FBF100",
     "primaryLanguage": "es-EN",
@@ -26,5 +26,10 @@
     "gameTypes": [
         "Survival",
         "Skyblock"
-    ]
+    ],
+    "socials": {
+        "twitter": "MineSpoky",
+        "discord": "https://discord.com/invite/SR5BCZZ",
+        "tiktok": "minespoky.net"
+    }
 }

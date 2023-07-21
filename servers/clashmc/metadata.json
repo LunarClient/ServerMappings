@@ -7,15 +7,15 @@
     ],
     "primaryAddress": "clashmc.org",
     "minecraftVersions": [
-        "1.7",
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#AA0000",
     "secondaryColor": "#00AAAA",
     "primaryLanguage": "en",
@@ -30,5 +30,9 @@
     "gameTypes": [
         "HCF",
         "UHC"
-    ]
+    ],
+    "socials": {
+        "twitter": "ClashMCorg",
+        "discord": "https://discord.com/invite/nC8Trbannf"
+    }
 }

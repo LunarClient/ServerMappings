@@ -3,5 +3,7 @@
     "name": "Crystal Network",
     "addresses": [
         "crystal.rip"
-    ]
+    ],
+    "primaryColor": "#454462",
+    "secondaryColor": "#0e0e1c"
 }

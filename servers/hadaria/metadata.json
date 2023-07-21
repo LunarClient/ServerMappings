@@ -2,6 +2,8 @@
     "id": "hadaria",
     "name": "Hadaria",
     "description": "Le meilleur serveur PVP Factions de France",
+    "website": "https://hadaria.fr/",
+    "store": "https://boutique.hadaria.fr/",
     "addresses": [
         "hadaria.fr",
         "hadaria.net",
@@ -10,14 +12,14 @@
     ],
     "primaryAddress": "play.hadaria.fr",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#BA291E",
     "secondaryColor": "#F1CE4C",
     "primaryLanguage": "fr",
@@ -32,6 +34,9 @@
         "PvP",
         "Factions"
     ],
-    "website": "https://hadaria.fr/",
-    "store": "https://boutique.hadaria.fr/"
+    "socials": {
+        "twitter": "Hadaria_FR",
+        "discord": "https://discord.com/invite/hadaria",
+        "facebook": "HadariaFR"
+    }
 }

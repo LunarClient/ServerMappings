@@ -6,5 +6,13 @@
     "addresses": [
         "pandakmc.fr"
     ],
-    "primaryAddress": "play.pandakmc.fr"
+    "primaryAddress": "play.pandakmc.fr",
+    "primaryColor": "#569a36",
+    "secondaryColor": "#ededf0",
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/pandakmc"
+    }
 }

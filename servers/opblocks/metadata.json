@@ -8,17 +8,31 @@
         "opblocks.com"
     ],
     "primaryAddress": "opblocks.com",
+    "primaryColor": "#9638b5",
+    "secondaryColor": "#e8becc",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ]
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "opblocks",
+        "discord": "https://discord.com/invite/tXPUtSPTMN",
+        "youtube": "UC3uucqNHTcwadJKG2Hrnfow",
+        "tiktok": "opblocks"
+    }
 }

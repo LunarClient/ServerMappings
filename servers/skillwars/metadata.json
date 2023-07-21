@@ -3,5 +3,7 @@
     "name": "SkillWars Network",
     "addresses": [
         "skillwars.us"
-    ]
+    ],
+    "primaryColor": "#922ecf",
+    "secondaryColor": "#130a15"
 }

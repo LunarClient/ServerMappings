@@ -4,5 +4,11 @@
     "store": "https://store.crotus.cc/",
     "addresses": [
         "crotus.cc"
-    ]
+    ],
+    "primaryColor": "#56c56a",
+    "secondaryColor": "#121212",
+    "socials": {
+        "twitter": "CrotusCC",
+        "discord": "https://discord.com/invite/FFJEkGZ"
+    }
 }

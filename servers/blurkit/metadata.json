@@ -5,5 +5,31 @@
     "store": "https://tienda.blurkit.net/",
     "addresses": [
         "blurkit.net"
-    ]
+    ],
+    "primaryAddress": "blurkit.net",
+    "primaryColor": "#dda003",
+    "secondaryColor": "#cf937f",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "BlurkitNetwork",
+        "discord": "https://discord.com/invite/rjS49gQ",
+        "tiktok": "blurkeon"
+    }
 }

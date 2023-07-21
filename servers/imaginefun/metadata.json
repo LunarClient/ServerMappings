@@ -1,0 +1,31 @@
+{
+    "id": "imaginefun",
+    "name": "ImagineFun",
+    "website": "https://imagineeringfun.net/",
+    "store": "https://buy.imaginefun.net/",
+    "addresses": [
+        "imaginefun.net"
+    ],
+    "primaryAddress": "mc.imaginefun.net",
+    "primaryColor": "#e1cc31",
+    "secondaryColor": "#515382",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "imagine_fun",
+        "discord": "https://discord.com/invite/disneyland",
+        "youtube": "imaginefun",
+        "instagram": "imaginefun",
+        "twitch": "ImagineFunLive",
+        "tiktok": "imagine_fun"
+    }
+}

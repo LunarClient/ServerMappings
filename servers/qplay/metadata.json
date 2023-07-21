@@ -6,5 +6,29 @@
     "addresses": [
         "qplay.cz"
     ],
-    "primaryAddress": "mc.qplay.cz"
+    "primaryAddress": "mc.qplay.cz",
+    "primaryColor": "#ef5353",
+    "secondaryColor": "#363535",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/5c68GMB",
+        "youtube": "qplaycz",
+        "instagram": "qplaycz",
+        "facebook": "QPlay.cz"
+    }
 }

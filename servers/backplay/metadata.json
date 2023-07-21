@@ -6,5 +6,26 @@
     "addresses": [
         "backplay.net"
     ],
-    "primaryAddress": "eu.backplay.net"
+    "primaryAddress": "eu.backplay.net",
+    "primaryColor": "#01cee5",
+    "secondaryColor": "#161b1d",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "BackPlayNetwork",
+        "discord": "https://discord.com/invite/FfRZaU2",
+        "youtube": "BackPlay",
+        "instagram": "backplaynetwork"
+    }
 }

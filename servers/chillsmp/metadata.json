@@ -1,0 +1,26 @@
+{
+    "id": "chillsmp",
+    "name": "ChillSMP",
+    "store": "https://shop.chillsmp.org/",
+    "addresses": [
+        "chillsmp.org"
+    ],
+    "primaryAddress": "mc.chillsmp.org",
+    "primaryColor": "#2495e9",
+    "secondaryColor": "#a6c9e0",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/npYxzyrEUV"
+    }
+}

@@ -3,7 +3,18 @@
     "name": "GhoulUHC",
     "store": "https://store.ghoulpvp.us/",
     "addresses": [
-        "ghouluhc.club"
+        "ghouluhc.club",
+        "ghoulpvp.net"
     ],
-    "primaryAddress": "play.ghoulpvp.us"
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "primaryAddress": "play.ghoulpvp.us",
+    "primaryColor": "#c11f37",
+    "secondaryColor": "#030101",
+    "socials": {
+        "twitter": "ghouluhc_",
+        "discord": "https://discord.com/invite/h2GQp4jtud"
+    }
 }

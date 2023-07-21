@@ -1,0 +1,30 @@
+{
+    "id": "firevanilla",
+    "name": "Fire Vanilla",
+    "store": "https://store.firevanilla.net/",
+    "addresses": [
+        "firevanilla.net"
+    ],
+    "primaryAddress": "firevanilla.net",
+    "primaryColor": "#ff7a01",
+    "secondaryColor": "#6a1200",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "http://discord.gg/firevanilla"
+    }
+}

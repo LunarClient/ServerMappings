@@ -5,5 +5,18 @@
     "addresses": [
         "uhchub.club",
         "uhchub.eu"
-    ]
+    ],
+    "primaryColor": "#fabf16",
+    "secondaryColor": "#5b8f20",
+    "gameTypes": [
+        "UHC",
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ContrumORG",
+        "discord": "https://discord.com/invite/9b8Ga2YVbK",
+        "youtube": "UCpVjVWgSzM4ZzgangWuWuEA",
+        "instagram": "ContrumORG"
+    }
 }

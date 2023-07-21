@@ -3,5 +3,7 @@
     "name": "HiveMC",
     "addresses": [
         "hivemc.com"
-    ]
+    ],
+    "primaryColor": "#f6df00",
+    "secondaryColor": "#592201"
 }

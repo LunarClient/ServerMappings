@@ -6,5 +6,17 @@
         "vicnix.net",
         "onlymc.us"
     ],
-    "primaryAddress": "mc.vicnix.net"
+    "primaryAddress": "mc.vicnix.net",
+    "primaryColor": "#83b326",
+    "secondaryColor": "#85c606",
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "VicnixNet",
+        "discord": "https://discord.com/invite/PNQUgPSH4R",
+        "instagram": "Vicnixnet",
+        "tiktok": "vicnixnet"
+    }
 }

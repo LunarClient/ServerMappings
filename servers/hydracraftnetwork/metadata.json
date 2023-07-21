@@ -6,5 +6,16 @@
     "addresses": [
         "hydracraft.es"
     ],
-    "primaryAddress": "mc.hydracraft.es"
+    "primaryAddress": "mc.hydracraft.es",
+    "primaryColor": "#fefefe",
+    "secondaryColor": "#fefefe",
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "hydracraft_es",
+        "discord": "https://discord.com/invite/hydracraft"
+    }
 }

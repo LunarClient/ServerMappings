@@ -5,5 +5,14 @@
     "store": "https://store.techcraftmc.com/",
     "addresses": [
         "techcraftmc.com"
-    ]
+    ],
+    "primaryColor": "#000000",
+    "secondaryColor": "#fefefe",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "techcraftmc",
+        "discord": "https://discord.com/invite/an6SfqC"
+    }
 }

@@ -1,0 +1,29 @@
+{
+    "id": "bosscraft",
+    "name": "BossCraft",
+    "store": "https://www.bosscraft.net/",
+    "addresses": [
+        "mc.bosscraft.net",
+        "bosscraft.net"
+    ],
+    "primaryAddress": "mc.bosscraft.net",
+    "primaryColor": "#ff2c32",
+    "secondaryColor": "#5dadf2",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/bosscraft"
+    }
+}

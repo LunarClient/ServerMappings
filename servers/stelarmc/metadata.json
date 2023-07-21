@@ -1,19 +1,35 @@
 {
     "id": "stelarmc",
-    "name": "StelarMC",
-    "store": "https://tienda.stelarmc.us/",
+    "name": "StelarMC Network",
+    "store": "https://tienda.stelarmc.net/",
     "addresses": [
+        "stelarmc.es",
+        "stelarmc.net",
+        "stelarmc.com",
         "stelarmc.us",
         "stelarmc.club"
     ],
-    "primaryAddress": "stelarmc.us",
+    "primaryAddress": "stelarmc.es",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.8"
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#5cc5a3",
+    "secondaryColor": "#4f4f3a",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "StelarMcNT",
+        "discord": "https://discord.com/invite/6uPBm4AHJy",
+        "youtube": "UCAszhWeMT9tK66-hxbkJM8w",
+        "tiktok": "stelarmcnetwork"
+    }
 }

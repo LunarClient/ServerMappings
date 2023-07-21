@@ -1,0 +1,30 @@
+{
+    "id": "dracolegend",
+    "name": "DracoLegend Network",
+    "website": "https://dracolegend.net/",
+    "store": "https://dracolegend.craftingstore.net/",
+    "addresses": [
+        "dracolegend.net"
+    ],
+    "primaryAddress": "dracolegend.net",
+    "primaryColor": "#fbf0ed",
+    "secondaryColor": "#191917",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/zYWqcWH"
+    }
+}

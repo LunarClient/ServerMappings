@@ -5,5 +5,12 @@
     "store": "https://nasgar.online/shop",
     "addresses": [
         "nasgar.online"
-    ]
+    ],
+    "primaryColor": "#1c81ad",
+    "secondaryColor": "#fdb23e",
+    "socials": {
+        "twitter": "nasgarnetwork",
+        "discord": "https://discord.com/invite/68FrwtW",
+        "instagram": "NasgarNetwork"
+    }
 }

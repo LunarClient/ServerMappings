@@ -6,5 +6,19 @@
     "addresses": [
         "magiccraft.fr"
     ],
-    "primaryAddress": "mc.magiccraft.fr"
+    "primaryAddress": "mc.magiccraft.fr",
+    "primaryColor": "#fec430",
+    "secondaryColor": "#9c7b0b",
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "MagicCraftFR",
+        "discord": "https://discord.com/invite/rwCsNU5",
+        "youtube": "MagicCraftYoutube",
+        "instagram": "magiccraftfr",
+        "twitch": "magiccraftstreams",
+        "tiktok": "magiccraftfr",
+        "facebook": "magiccraft"
+    }
 }

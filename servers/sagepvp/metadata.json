@@ -6,5 +6,16 @@
     "addresses": [
         "sagepvp.org"
     ],
-    "primaryAddress": "sagepvp.org"
+    "primaryAddress": "sagepvp.org",
+    "primaryColor": "#4fb238",
+    "secondaryColor": "#3d3325",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "sagepvporg",
+        "discord": "https://discord.com/invite/kfCUDK2khu/",
+        "telegram": "SagePvPNetwork"
+    }
 }

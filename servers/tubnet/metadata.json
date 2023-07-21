@@ -2,13 +2,27 @@
     "id": "tubnet",
     "name": "TubNet",
     "website": "https://tubnet.gg/",
+    "description": "TubNet is a next-generation Minecraft server founded by Tubbo.",
     "addresses": [
         "tubnet.gg"
     ],
     "primaryAddress": "tubnet.gg",
     "minecraftVersions": [
-        "1.18",
-        "1.19"
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19"
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#f88e02",
+    "secondaryColor": "#21aded",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "TubNet",
+        "discord": "https://discord.com/invite/tubnet",
+        "youtube": "UCYd_qJ7idcWMWmPQJqmwahQ",
+        "twitch": "tubnet",
+        "tiktok": "tubnetgg"
+    }
 }

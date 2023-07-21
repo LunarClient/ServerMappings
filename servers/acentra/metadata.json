@@ -4,6 +4,19 @@
     "website": "https://acentramc.com/",
     "store": "https://store.acentramc.com/",
     "addresses": [
-        "acentramc.com"
-    ]
+        "acentramc.com",
+        "glance.top"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "Minigames"
+    ],
+    "primaryColor": "#fba41e",
+    "secondaryColor": "#393335",
+    "socials": {
+        "discord": "https://discord.com/invite/4vPVeNdekf",
+        "youtube": "UCndobW90gOlBP2dSxBBfMkg",
+        "tiktok": "acentramc"
+    }
 }

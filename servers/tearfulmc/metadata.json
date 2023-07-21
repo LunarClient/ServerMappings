@@ -6,5 +6,16 @@
     "addresses": [
         "tearfulmc.com"
     ],
-    "primaryAddress": "play.tearfulmc.com"
+    "primaryAddress": "play.tearfulmc.com",
+    "primaryColor": "#8af9f5",
+    "secondaryColor": "#10b610",
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "TearfulMC",
+        "discord": "https://discord.com/invite/wuQKeSWQ",
+        "youtube": "UCB3UBOj0zR4fM31xduesuYg",
+        "instagram": "tearful.mc"
+    }
 }

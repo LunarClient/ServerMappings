@@ -6,15 +6,14 @@
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "lunar.gg",
-        "lunargg.dev",
-        "mcteams.com"
+        "lunargg.dev"
     ],
     "primaryAddress": "lunar.gg",
     "minecraftVersions": [
-        "1.7",
-        "1.8"
+        "1.7.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
     "primaryLanguage": "en",
@@ -32,6 +31,9 @@
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.lunar.gg",
-    "store": "https://store.lunar.gg"
+    "socials": {
+        "twitter": "LunarNetwork",
+        "discord": "https://discord.com/invite/4ceEJuH",
+        "telegram": "LunarNetwork"
+    }
 }

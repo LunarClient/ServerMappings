@@ -5,5 +5,10 @@
     "addresses": [
         "redesky.com",
         "redesky.gg"
-    ]
+    ],
+    "primaryColor": "#eca603",
+    "secondaryColor": "#414c4b",
+    "socials": {
+        "twitter": "redeskyoficial"
+    }
 }

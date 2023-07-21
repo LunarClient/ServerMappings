@@ -3,5 +3,10 @@
     "name": "Protocol Network",
     "addresses": [
         "protocol.rip"
-    ]
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryColor": "#f3a034",
+    "secondaryColor": "#4c3f33"
 }

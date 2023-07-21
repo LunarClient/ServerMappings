@@ -6,5 +6,10 @@
     "addresses": [
         "koolkidzmc.com"
     ],
-    "primaryAddress": "play.koolkidzmc.com"
+    "primaryAddress": "play.koolkidzmc.com",
+    "primaryColor": "#d89dce",
+    "secondaryColor": "#573185",
+    "socials": {
+        "tiktok": "koolkidzcommunity"
+    }
 }

@@ -7,5 +7,19 @@
         "mushmc.com",
         "mush.com.br",
         "mushmc.com.br"
-    ]
+    ],
+    "primaryColor": "#ecb845",
+    "secondaryColor": "#522e23",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "MushMC_",
+        "discord": "https://discord.com/invite/pFJKcUZ",
+        "youtube": "MushNetwork",
+        "twitch": "mushmc",
+        "tiktok": "mushmc_",
+        "facebook": "MushMCNetwork"
+    }
 }

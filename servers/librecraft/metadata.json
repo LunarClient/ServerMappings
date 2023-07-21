@@ -1,10 +1,37 @@
 {
     "id": "librecraft",
     "name": "Librecraft Network",
+    "description": "Librecraft es el mejor lugar para jugar a Minecraft en español",
     "website": "https://librecraft.com/",
     "store": "https://tienda.librecraft.com/",
     "addresses": [
         "librecraft.com",
         "librecraft.juegos"
-    ]
+    ],
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "primaryColor": "#87b60a",
+    "secondaryColor": "#0a1a2a",
+    "socials": {
+        "twitter": "LibreCraftMC",
+        "discord": "https://discord.com/invite/v9H6xd6",
+        "youtube": "UCFTDLW_Q-TVrwc5fOpKW_tg",
+        "facebook": "librecraftnetwork"
+    }
 }

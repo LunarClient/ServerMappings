@@ -5,5 +5,28 @@
     "store": "https://kauppa.quut.io/",
     "addresses": [
         "quut.io"
-    ]
+    ],
+    "primaryColor": "#418dcc",
+    "secondaryColor": "#2f529e",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/RkEMPGukVn"
+    }
 }

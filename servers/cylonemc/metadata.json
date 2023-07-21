@@ -6,5 +6,26 @@
         "cylonemc.net",
         "cylonemc.com",
         "pvp.cylone.net"
-    ]
+    ],
+    "primaryAddress": "mc.cylonemc.net",
+    "primaryColor": "#b92d81",
+    "secondaryColor": "#1a2431",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Parkour",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "cylonemc",
+        "discord": "https://discord.com/invite/Urv66KG"
+    }
 }

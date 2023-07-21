@@ -4,5 +4,7 @@
     "addresses": [
         "zoltix.net",
         "minecraftoce.net"
-    ]
+    ],
+    "primaryColor": "#483e3e",
+    "secondaryColor": "#ef0303"
 }

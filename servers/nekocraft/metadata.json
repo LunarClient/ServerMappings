@@ -3,8 +3,12 @@
     "name": "NekoCraft Network",
     "website": "https://nekocraft.us/",
     "addresses": [
-        "nekocraft.us",
-        "nekocraft.es"
+        "nekocraft.us"
     ],
-    "primaryAddress": "mc.nekocraft.us"
+    "primaryAddress": "mc.nekocraft.us",
+    "primaryColor": "#16d4ee",
+    "secondaryColor": "#05132d",
+    "socials": {
+        "twitter": "NekoCraftNW"
+    }
 }

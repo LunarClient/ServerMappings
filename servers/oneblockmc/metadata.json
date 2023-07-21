@@ -1,0 +1,35 @@
+{
+    "id": "oneblockmc",
+    "name": "OneBlockMC",
+    "website": "https://oneblockmc.com/",
+    "store": "https://store.oneblockmc.com/",
+    "addresses": [
+        "play.oneblockmc.com",
+        "oneblockmc.com"
+    ],
+    "primaryAddress": "play.oneblockmc.com",
+    "primaryColor": "#9ffffc",
+    "secondaryColor": "#96ffc7",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "oneblockmc",
+        "discord": "https://discord.com/invite/oneblockmc"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "kellarimc",
+    "name": "KellariMC",
+    "website": "https://kellarimc.fi/",
+    "addresses": [
+        "kellarimc.fi"
+    ],
+    "primaryAddress": "kellarimc.fi",
+    "primaryColor": "#ed4a04",
+    "secondaryColor": "#321900",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Creative",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/U4EsJTRYdP",
+        "youtube": "Jyksedi",
+        "instagram": "jyksedii",
+        "tiktok": "jyksedii"
+    }
+}

@@ -6,5 +6,16 @@
     "addresses": [
         "mineglobe.org"
     ],
-    "primaryAddress": "play.mineglobe.org"
+    "primaryAddress": "play.mineglobe.org",
+    "primaryColor": "#f0a134",
+    "secondaryColor": "#64dacc",
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "MineGlobe",
+        "discord": "https://discord.com/invite/mineglobe",
+        "tiktok": "headedog"
+    }
 }

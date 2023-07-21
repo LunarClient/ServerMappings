@@ -6,5 +6,16 @@
     "addresses": [
         "fruitservers.net"
     ],
-    "primaryAddress": "mc.fruitservers.net"
+    "primaryAddress": "mc.fruitservers.net",
+    "primaryColor": "#271e13",
+    "secondaryColor": "#c3ac2d",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "FruitServers",
+        "discord": "https://discord.com/invite/fruitservers",
+        "instagram": "fruit_servers",
+        "facebook": "fruitservers"
+    }
 }

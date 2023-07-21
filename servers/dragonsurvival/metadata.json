@@ -5,6 +5,28 @@
     "store": "https://dragon-survival.eu/shop",
     "addresses": [
         "dragon-survival.eu",
-        "dragonsurvival.eu"
-    ]
+        "dragonsurvival.eu",
+        "dragonsurvival.pl"
+    ],
+    "primaryAddress": "dragonsurvival.eu",
+    "primaryColor": "#f0db85",
+    "secondaryColor": "#262a26",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "instagram": "dragonsurvivalmc",
+        "facebook": "DragonSurvivalMC"
+    }
 }

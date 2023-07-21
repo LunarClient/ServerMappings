@@ -8,11 +8,11 @@
     ],
     "primaryAddress": "spacepotato.de",
     "minecraftVersions": [
-        "1.16",
-        "1.12",
-        "1.8"
+        "1.16.*",
+        "1.12.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#55ffff",
     "secondaryColor": "#540585",
     "primaryLanguage": "en",
@@ -29,5 +29,11 @@
         "Minigames",
         "PvE",
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "SpacePotatoDE",
+        "discord": "https://discord.com/invite/uXEdJDs",
+        "youtube": "UCG2_-N5ACCb_-Utpdw9iJ1g",
+        "reddit": "SpacePotatoDe"
+    }
 }

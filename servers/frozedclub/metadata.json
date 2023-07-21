@@ -6,5 +6,11 @@
     "addresses": [
         "elb1to.me",
         "frozed.club"
-    ]
+    ],
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "FrozedClubGames",
+        "discord": "https://discord.com/invite/dCrQmcn83D"
+    }
 }

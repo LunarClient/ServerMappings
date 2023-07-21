@@ -5,5 +5,15 @@
     "addresses": [
         "skycraft.com.br"
     ],
-    "primaryAddress": "mc.skycraft.com.br"
+    "primaryAddress": "mc.skycraft.com.br",
+    "primaryColor": "#e29c00",
+    "secondaryColor": "#00a9bd",
+    "socials": {
+        "twitter": "networkskycraft",
+        "youtube": "UC9AAU7H_yhc_IlyeIP0jJBA",
+        "instagram": "networkskycraft",
+        "twitch": "networkskycraft",
+        "tiktok": "networkskycraft",
+        "facebook": "NetworkSkycraft"
+    }
 }

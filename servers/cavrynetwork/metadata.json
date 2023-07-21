@@ -4,5 +4,7 @@
     "addresses": [
         "cavrynetwork.xyz",
         "cavrynet.work"
-    ]
+    ],
+    "primaryColor": "#2129bb",
+    "secondaryColor": "#040713"
 }

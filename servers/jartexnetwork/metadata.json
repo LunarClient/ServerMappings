@@ -4,6 +4,36 @@
     "website": "https://jartexnetwork.com/",
     "store": "https://store.jartexnetwork.com/",
     "addresses": [
-        "jartexnetwork.com"
-    ]
+        "jartexnetwork.com",
+        "top.jartex.fun",
+        "jartex.fun",
+        "jartexnetwork.net"
+    ],
+    "primaryAddress": "jartexnetwork.com",
+    "primaryColor": "#f7d331",
+    "secondaryColor": "#d78207",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": true,
+    "gameTypes": [
+        "Minigames",
+        "Factions",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "JartexNetwork",
+        "discord": "https://discord.com/invite/bkPMrVp",
+        "youtube": "UCfDU_v9ky0rK2Pndf5v88oA",
+        "instagram": "jartex.network",
+        "reddit": "JartexNetwork",
+        "facebook": "JartexNetwork"
+    }
 }
