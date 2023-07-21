@@ -1,16 +1,16 @@
 {
-    "id": "divgram",
-    "name": "DivGram",
-    "description": "The official DivGram Minecraft",
+    "id": "unreach",
+    "name": "Unreach Hosting",
+    "description": "The best hosting! Start with 1.5GB Ram!",
     "addresses": [
-        "mc.divgram.com"
+        "unreach.host"
     ],
-    "primaryAddress": "mc.divgram.com",
+    "primaryAddress": "unreach.host",
     "minecraftVersions": [
         "1.18",
         "1.19"
     ],
-    "primaryMinecraftVersion": "1.18",
+    "primaryMinecraftVersion": "1.20",
     "primaryColor": "#305B63",
     "secondaryColor": "#7D7F63",
     "primaryLanguage": "en",
@@ -26,8 +26,10 @@
         "SA"
     ],
     "gameTypes": [
+        "Hosting",
+        "PvP",
         "Survival",
-        "PvP"
+        "Creative"
     ],
-    "website": "https://www.divgram.com"
+    "website": "https://unreach.host"
 }
