@@ -1,0 +1,33 @@
+{
+    "id": "pvpcamp",
+    "name": "PvP Camp",
+    "description": "The premier competitive Minecraft network.",
+    "addresses": [
+        "pvp.camp",
+        "na.pvp.camp"
+    ],
+    "primaryAddress": "pvp.camp",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#daa520",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.pvp.camp",
+    "socials": {
+        "discord": "http://discord.gg/4F39Qh8dHJ"
+    }
+}
