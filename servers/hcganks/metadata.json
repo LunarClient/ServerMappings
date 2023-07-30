@@ -1,0 +1,32 @@
+{
+    "id": "hcganks",
+    "name": "HCGanks",
+    "description": "Competitive Minecraft Server dedicated to HCF and PotPvP.",
+    "addresses": [
+        "hcganks.com"
+    ],
+    "primaryAddress": "hcganks.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#ffea00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+	"HCF"
+    ],
+    "store": "https://hcganks.com",
+    "socials": {
+        "discord": "https://discord.gg/7DE6AX6E2v"
+    }
+}
