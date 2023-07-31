@@ -24,7 +24,11 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "HCF"
+        "HCF",
+        "PvP"
     ],
+    "socials": {
+        "twitter": "lushpvp",
+        "discord": "https://discord.gg/lushgames"
+    }
 }
