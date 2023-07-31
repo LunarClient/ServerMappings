@@ -12,23 +12,10 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA",
-        "EU"
-    ],
     "gameTypes": [
         "HCF",
         "PvP"
     ],
-    "socials": {
-        "twitter": "lushpvp",
-        "discord": "https://discord.gg/lushgames"
-    }
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
 }
