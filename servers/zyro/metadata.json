@@ -28,8 +28,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "HCF",
-        "Practice"
+        "HCF"
     ],
     "socials": {
         "twitter": "ZyroNetwork",
