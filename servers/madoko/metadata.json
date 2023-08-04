@@ -1,6 +1,8 @@
 {
     "id": "madoko",
     "name": "Madoko",
+    "website": "https://madoko.fr",
+    "store": "https://madoko.fr/shop",
     "description": "Serveur mini jeux minecraft Français !",
     "addresses": [
         "madoko.fr"
@@ -28,8 +30,6 @@
         "Minigames",
         "UHC"
     ],
-    "website": "https://madoko.fr",
-    "store": "https://madoko.fr/shop",
     "socials": {
         "twitter": "MadokoMC",
         "youtube": "madokomc",
