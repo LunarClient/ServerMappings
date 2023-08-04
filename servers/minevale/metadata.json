@@ -17,6 +17,10 @@
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
     "gameTypes": [
         "Roleplay"
     ],

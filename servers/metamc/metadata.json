@@ -4,7 +4,8 @@
     "website": "https://www.metamc.it/",
     "store": "https://store.metamc.it/",
     "addresses": [
-        "metamc.it"
+        "metamc.it",
+        "flexdojo.it"
     ],
     "primaryAddress": "metamc.it",
     "primaryColor": "#f28536",

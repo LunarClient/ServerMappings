@@ -1,0 +1,35 @@
+{
+    "id": "addicted2",
+    "name": "Addicted2 Network",
+    "website": "https://addicted2.ro/",
+    "store": "http://store.addicted2.ro/",
+    "addresses": [
+        "addicted2.ro"
+    ],
+    "primaryAddress": "play.addicted2.ro",
+    "primaryColor": "#d73131",
+    "secondaryColor": "#d1d2d2",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Minigames",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/addicted2",
+        "instagram": "addicted2ro"
+    }
+}
