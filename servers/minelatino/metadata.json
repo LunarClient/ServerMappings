@@ -29,8 +29,8 @@
         "es-EN"
     ],
     "gameTypes": [
-        "Minigames",
         "Survival",
+        "Minigames",
         "Skyblock"
     ],
     "socials": {

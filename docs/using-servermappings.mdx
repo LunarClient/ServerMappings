@@ -1,0 +1,21 @@
+# Using Server Mappings Data
+
+You are free to use this data for anything you wish. As long as it abides by [our terms of service](https://www.lunarclient.com/terms). You can harness this data through two possible sources:
+
+## Cloning the repository
+
+You are free to clone this repository and use the data as you wish. This may be useful if you want access to the raw data easily, or if you want to contribute additional fields to the project. If you feel that there is a field we are missing which you wish to contribute directly to the project, [create an issue](https://github.com/LunarClient/ServerMappings/issues/new).
+
+## Using our CDN
+
+Lunar Client exposes a static dump of this data on our CDN in JSON form which you can access at `https://servermappings.lunarclientcdn.com`, this is a computed dataset which is synced directly from this repository. This is useful if you want to use the data in your own projects without having to clone the repository.
+
+This CDN includes the following files:
+
+- `servers.json` - A list of all servers which are in Server Mappings. This also includes two additional fields: `enriched` (given to servers we feel provide all the necessary information) and `inactive` (given to servers we have deemed inactive).
+- `logos/<id>.png` - The logo for the provided server ID.
+- `backgrounds/<id>.png` - The background for the provided server ID.
+- `banners/<id>.png` - The banner sprite for the provided server ID.
+- `banners/<id>.json` - The banner frame animation timings for the provided server ID.
+
+> Each of the images can also be accessed through the CDN in their WEBP format. You can do so by simply switching the `.png` extension for `.webp`.
