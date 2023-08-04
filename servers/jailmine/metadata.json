@@ -6,7 +6,7 @@
     "description": "Multi-Gamemode Network featuring casual gamemodes and minigames.",
     "addresses": [
         "jailmine.org",
-		"mc.jailmine.org",
+	"mc.jailmine.org",
         "play.jailmine.org"
     ],
     "primaryAddress": "play.jailmine.org",
