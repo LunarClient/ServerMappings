@@ -4,7 +4,8 @@
     "website": "https://performium.net/",
     "store": "https://store.performium.net/",
     "addresses": [
-        "performium.net"
+        "performium.net",
+        "fluxpvp.net"
     ],
     "primaryAddress": "mc.performium.net",
     "primaryColor": "#bd101b",
