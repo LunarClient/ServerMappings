@@ -7,6 +7,8 @@
         "lushpvp.com"
     ],
     "primaryAddress": "lushpvp.com",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -16,8 +18,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
     "gameTypes": [
         "HCF",
         "PvP"
