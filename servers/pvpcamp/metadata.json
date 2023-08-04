@@ -1,10 +1,10 @@
 {
     "id": "pvpcamp",
     "name": "PvP Camp",
+    "store": "https://store.pvp.camp",
     "description": "The premier competitive Minecraft network.",
     "addresses": [
-        "pvp.camp",
-        "na.pvp.camp"
+        "pvp.camp"
     ],
     "primaryAddress": "pvp.camp",
     "minecraftVersions": [
@@ -26,7 +26,6 @@
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://store.pvp.camp",
     "socials": {
         "discord": "http://discord.gg/4F39Qh8dHJ"
     }
