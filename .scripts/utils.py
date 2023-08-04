@@ -11,7 +11,7 @@ MAJOR_ALL = {
     "1.17.*": ["1.17.1", "1.17"],
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
-    "1.20.*": ["1.20"]
+    "1.20.*": ["1.20", "1.20.1"]
 }
 
 
@@ -190,22 +190,13 @@ def validate_banner(path, server_name):
         # loop through all the frames, rather than just do duration * n_frames, because GIF can have different duration for each frame.
         for idx in range(1, banner_image.n_frames):
             banner_image.seek(idx)
-            #if banner_image.info['duration'] != duration:
-            #    errors.append(f'{server_name}\'s server banner does not have the same duration for all frames... Please ensure the image meets the requirements before proceeding.')
-
             total_duration += duration
 
-        #if total_duration > 10000:
-        #    errors.append(f'{server_name}\'s server banner is more than 10 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
+        if total_duration > 15_000:
+           errors.append(f'{server_name}\'s server banner is more than 15 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding.')
 
         if total_duration == 0:
             errors.append(f'{server_name}\'s server gif server banner seems to not have any duration associated with it... Please ensure the image meets the requirements before proceeding.')
-
-        # TODO: some sort of fix so only one of the errors above or below show ( temp atm )
-        #fps = (banner_image.n_frames / (total_duration / 1000.0)) if total_duration != 0 else 20.0
-
-        #if fps != 20.0:
-        #    errors.append(f'{server_name}\'s server banner is not exactly 20 FPS (currently {fps})... Please ensure the image meets the requirements before proceeding.')
 
     aspect_ratio = round(banner_image.width / banner_image.height, 3)
 

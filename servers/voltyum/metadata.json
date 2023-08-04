@@ -9,6 +9,21 @@
     "primaryAddress": "mc.voltyum.net",
     "primaryColor": "#e4cc33",
     "secondaryColor": "#2b1301",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Survival",
         "Skyblock"

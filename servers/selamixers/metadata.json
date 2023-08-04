@@ -1,0 +1,39 @@
+{
+    "id": "selamixers",
+    "name": "Sela Mixers",
+    "description": "Gather and engage in daily events",
+    "addresses": [
+        "selamixers.club"
+    ],
+    "primaryAddress": "selamixers.club",
+    "minecraftVersions": [
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#e3f235",
+    "secondaryColor": "#FFD966",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "website": "https://selamixers.club",
+    "store": "https://store.selamixers.club",
+    "socials": {
+        "discord": "https://discord.selamixers.club"
+    },
+    "crossplay": false
+}
