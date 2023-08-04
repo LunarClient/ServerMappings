@@ -2,6 +2,8 @@
     "id": "redtrap",
     "name": "RedTrap",
     "description": "Redefining the nature of PvP",
+    "website": "https://www.redtrap.org/",
+    "store": "https://store.redtrap.org/",
     "addresses": [
         "redtrap.org"
     ],
@@ -31,8 +33,6 @@
         "Minigames",
         "Survival"
     ],
-    "website": "https://www.redtrap.org/",
-    "store": "https://store.redtrap.org/",
     "socials": {
         "discord": "https://discord.gg/sSDuSXbZvZ",
         "tiktok": "play.redtrap.org"
