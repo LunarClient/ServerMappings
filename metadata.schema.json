@@ -6,6 +6,8 @@
         "name",
         "addresses",
         "primaryAddress",
+        "minecraftVersions",
+        "primaryMinecraftVersion",
         "gameTypes",
         "primaryColor",
         "secondaryColor"
