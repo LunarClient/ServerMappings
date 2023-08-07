@@ -5,6 +5,7 @@
         "id",
         "name",
         "addresses",
+        "primaryAddress",
         "gameTypes",
         "primaryColor",
         "secondaryColor"
