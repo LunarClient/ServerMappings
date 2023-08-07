@@ -28,7 +28,7 @@ jobs:
         run: pip install -r .scripts/requirements.txt
 
       - name: Validate Servers
-        run: python .scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json --validate_inactive false
+        run: python .scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json --validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
           BOT_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -65,7 +65,7 @@ jobs:
           USE_ARGS: "true"
 
       - name: Create Index File
-        run: python .scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output .out/servers.json --include_inactive false
+        run: python .scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output .out/servers.json --include_inactive
 
       - name: Upload to Cloudflare
         env:
