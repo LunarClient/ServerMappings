@@ -3,10 +3,20 @@
     "name": "Lucky Network",
     "website": "https://www.luckynetwork.net/",
     "store": "https://store.luckynetwork.net/",
+    "primaryAddress": "play.luckynetwork.net",
     "addresses": [
         "luckynetwork.net",
         "luckynetwork.id"
     ],
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#cf9541",
     "secondaryColor": "#1a0524",
     "gameTypes": [
