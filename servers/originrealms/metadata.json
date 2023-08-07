@@ -3,6 +3,7 @@
     "name": "Origin Realms",
     "website": "https://originrealms.com/",
     "store": "https://store.originrealms.com/",
+    "primaryAddress": "play.originrealms.com",
     "addresses": [
         "originrealms.com"
     ],

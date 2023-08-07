@@ -9,6 +9,7 @@
     "primaryAddress": "play.pandakmc.fr",
     "primaryColor": "#569a36",
     "secondaryColor": "#ededf0",
+    "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
