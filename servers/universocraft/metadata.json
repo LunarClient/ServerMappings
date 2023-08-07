@@ -11,6 +11,16 @@
     "primaryAddress": "mc.universocraft.com",
     "primaryColor": "#08a4f8",
     "secondaryColor": "#aade1d",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Minigames",
         "PvP",

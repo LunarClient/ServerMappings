@@ -6,8 +6,15 @@
     "addresses": [
         "healpvp.com"
     ],
+    "primaryAddress": "healpvp.com",
     "primaryColor": "#db213a",
     "secondaryColor": "#3f3e4c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
         "PvE",
