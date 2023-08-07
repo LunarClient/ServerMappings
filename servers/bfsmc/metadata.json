@@ -4,7 +4,8 @@
     "website": "https://bfsmc.pl/",
     "store": "https://sklep.bfsmc.pl/",
     "addresses": [
-        "bfsmc.pl"
+        "bfsmc.pl",
+        "applemc.pl"
     ],
     "primaryAddress": "bfsmc.pl",
     "primaryColor": "#ffd100",
