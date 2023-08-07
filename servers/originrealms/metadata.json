@@ -7,8 +7,14 @@
     "addresses": [
         "originrealms.com"
     ],
+    "primaryAddress": "originrealms.com",
     "primaryColor": "#e47a14",
     "secondaryColor": "#c0b5b2",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
     "gameTypes": [
         "Hardcore"
     ],

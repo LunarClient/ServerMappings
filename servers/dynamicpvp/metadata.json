@@ -5,6 +5,7 @@
     "addresses": [
         "dynamicpvp.net"
     ],
+    "primaryAddress": "dynamicpvp.net",
     "primaryColor": "#9c34b8",
     "secondaryColor": "#17151c",
     "minecraftVersions": [

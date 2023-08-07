@@ -6,8 +6,18 @@
     "addresses": [
         "erisium.com"
     ],
+    "primaryAddress": "mc.erisium.com",
     "primaryColor": "#9332f5",
     "secondaryColor": "#110e2e",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
         "Minigames",
