@@ -6,6 +6,7 @@
     "addresses": [
         "vortexnetwork.net"
     ],
+    "primaryAddress": "mc.vortexnetwork.net",
     "primaryColor": "#d03030",
     "secondaryColor": "#f48c27",
     "minecraftVersions": [
