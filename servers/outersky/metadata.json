@@ -1,0 +1,28 @@
+{
+    "id": "outersky",
+    "name": "OuterSky",
+    "store": "https://store.outersky.club/",
+    "addresses": [
+        "play.outersky.club"
+    ],
+    "primaryAddress": "2b2t.org",
+    "primaryColor": "#5555FF",
+    "secondaryColor": "#DF2E38",
+    "minecraftVersions": [
+    	"1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Factions"
+    ]
+}
