@@ -3,7 +3,7 @@
     "name": "MineGalaxy",
     "description": "The Newest 1.19.4 Gens Tycoon Network",
     "addresses": [
-        "minegalaxy.org",
+        "minegalaxy.org"
     ],
     "primaryAddress": "minegalaxy.org",
     "minecraftVersions": [
@@ -19,7 +19,7 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
+        "NA"
     ],
     "gameTypes": [
         "Skyblock"
