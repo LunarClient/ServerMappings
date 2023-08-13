@@ -1,13 +1,17 @@
 {
     "id": "melonmc",
     "name": "MelonMC",
-    "description": "MelonMC is a Minecraft server with PvP Gamemodes and Events that are hosted by staff members",
+    "description": "MelonMC is a Minecraft server with PvP Gamemodes and Events",
     "addresses": [
         "melonmc.org"
     ],
     "primaryAddress": "melonmc.org",
     "primaryColor": "#026b02",
     "secondaryColor": "#08bf08",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*"
+    ]
     "primaryLanguage": "en",
     "languages": [
         "en"
