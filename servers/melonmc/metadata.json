@@ -1,0 +1,26 @@
+{
+    "id": "melonmc",
+    "name": "MelonMC",
+    "description": "MelonMC is a Minecraft server with PvP Gamemodes and Events that are hosted by staff members",
+    "addresses": [
+        "melonmc.org"
+    ],
+    "primaryAddress": "melonmc.org",
+    "primaryColor": "#026b02",
+    "secondaryColor": "#08bf08",
+    "primaryLanguage": "en",
+    "languages": [
+    "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+    "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "@MelonMCNetwork",
+        "discord": "https://discord.melonmc.org/"
+    }
+}
