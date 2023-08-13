@@ -3,7 +3,8 @@
     "name": "HVBC",
     "description": "A practice server for legit players",
     "addresses": [
-        "hvbc.club"
+        "hvbc.club",
+        "na.hvbc.club"
     ],
     "primaryAddress": "na.hvbc.club",
     "minecraftVersions": [
