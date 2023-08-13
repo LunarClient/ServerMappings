@@ -10,11 +10,11 @@
     "secondaryColor": "#08bf08",
     "primaryLanguage": "en",
     "languages": [
-    "en"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
-    "EU"
+        "EU"
     ],
     "gameTypes": [
         "PvP"
