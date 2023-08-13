@@ -7,9 +7,9 @@
     ],
     "primaryAddress": "kealands.net",
     "minecraftVersions": [
-        "1.19.*"
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#63cc4e",
     "secondaryColor": "#eca942",
     "primaryLanguage": "en",
@@ -24,9 +24,11 @@
         "Survival",
         "Minigames"
     ],
+    "store": "https://store.kealands.net",
     "socials": {
         "twitter": "KealandsMC",
         "tiktok": "kealands_",
-        "discord": "https://discord.gg/8tcmEr9kq3"
-    }
+        "discord": "https://discord.kealands.net/"
+    },
+    "crossplay": false
 }
