@@ -6,6 +6,7 @@
     "addresses": [
         "kwadratowa.games"
     ],
+    "primaryAddress": "kwadratowa.games",
     "primaryColor": "#003244",
     "secondaryColor": "#ffffff",
     "gameTypes": [

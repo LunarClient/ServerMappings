@@ -1,12 +1,23 @@
 {
     "id": "hazelmc",
-    "name": "Hazel MC",
+    "name": "HazelMC Network",
     "store": "https://store.hazelmc.com/",
     "addresses": [
         "hazelmc.com"
     ],
+    "primaryAddress": "hazelmc.com",
     "primaryColor": "#f8f9f9",
     "secondaryColor": "#032d5d",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
         "PvP"

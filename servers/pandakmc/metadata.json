@@ -9,6 +9,16 @@
     "primaryAddress": "play.pandakmc.fr",
     "primaryColor": "#569a36",
     "secondaryColor": "#ededf0",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
     "gameTypes": [
         "Factions"
     ],
