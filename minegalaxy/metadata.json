@@ -1,0 +1,33 @@
+{
+    "id": "minegalaxy",
+    "name": "MineGalaxy",
+    "description": "The Newest 1.19.4 Gens Tycoon Network",
+    "addresses": [
+        "minegalaxy.org",
+    ],
+    "primaryAddress": "minegalaxy.org",
+    "minecraftVersions": [
+        "1.19.4",  
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#AA00FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "store": "https://store.minegalaxy.org/",
+    "socials": {
+        "twitter": "minegalaxymc",
+        "discord": "discord.minegalaxy.org"
+    },
+    "crossplay": true
+}
