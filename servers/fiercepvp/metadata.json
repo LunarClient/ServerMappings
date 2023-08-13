@@ -1,0 +1,40 @@
+{
+    "id": "fiercepvp",
+    "name": "FiercePvP",
+    "description": "Welcome to the wild and amazing world of FiercePvP.",
+    "addresses": [
+        "fiercepvp.net"
+    ],
+    "primaryAddress": "fiercepvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+		"1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "website": "https://fiercepvp.net",
+    "store": "https://store.fiercepvp.net",
+    "socials": {
+        "twitter": "FiercePvP_NET",
+        "discord": "https://fiercepvp.net/discord"
+    },
+    "crossplay": false
+}
