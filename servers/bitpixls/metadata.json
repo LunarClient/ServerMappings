@@ -29,7 +29,8 @@
     "website": "https://bitpixls.org",
     "store": "https://kauppa.bitpixls.org",
     "socials": {
-        "discord": "https://bitpixls.org/discord"
+        "discord": "https://bitpixls.org/discord",
+        "youtube": "bitpixls"
     },
     "crossplay": true
 }
