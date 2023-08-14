@@ -1,0 +1,36 @@
+{
+    "id": "bitpixls",
+    "name": "BITPIXLS",
+    "description": "Monipuolinen Suomalainen minipelipalvelin.",
+    "addresses": [
+        "bitpixls.org",
+        "play.bitpixls.org"
+    ],
+    "primaryAddress": "bitpixls.org",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#f23f32",
+    "secondaryColor": "#fba700",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Minigames",
+        "PvP"
+    ],
+    "website": "https://bitpixls.org",
+    "store": "https://kauppa.bitpixls.org",
+    "socials": {
+        "discord": "https://bitpixls.org/discord"
+    },
+    "crossplay": true
+}
