@@ -24,8 +24,7 @@
     "gameTypes": [
         "Survival",
         "Creative",
-        "Minigames",
-        "PvP"
+        "Minigames"
     ],
     "website": "https://bitpixls.org",
     "store": "https://kauppa.bitpixls.org",
