@@ -21,6 +21,9 @@
     "languages": [
         "en"
     ],
+    "gameTypes": [
+        "Factions"
+    ],
     "website": "https://dupemc.net/",
     "store": "https://store.dupemc.net/",
     "socials": {
