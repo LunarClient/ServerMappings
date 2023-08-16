@@ -1,0 +1,36 @@
+{
+    "id": "starvel",
+    "name": "Starvel Studios",
+    "description": "A Starvel vem em busca de trazer a melhor jogabilidade possível para os jogadores e cada vez inovando mais os seus modos de jogos.",
+    "addresses": [
+        "starvel.net"
+    ],
+    "primaryAddress": "starvel.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "pt-br",
+    "languages": [
+        "pt-br"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "RankUP",
+        "Prison",
+        "Tycoon"
+    ],
+    "website": "https:/starvel.net",
+    "store": "https://starvel.net",
+    "socials": {
+        "discord": "https://discord.gg/starvel"
+    },
+    "crossplay": false
+}
