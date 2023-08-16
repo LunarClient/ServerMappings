@@ -1,20 +1,21 @@
 {
     "id": "pvplegacy",
     "name": "PvP Legacy",
-    "description": "Offers a modern PvP experience for KitPvP and custom duels",
+    "website": "https://pvplegacy.net",
+    "store": "https://store.pvplegacy.net",
+    "description": "Offers a modern PvP experience with KitPvP and custom duels",
     "addresses": [
         "pvplegacy.net",
         "pvplegacy.com"
     ],
-    "primaryAddress": "pvplegacy.net",
+    "primaryAddress": "play.pvplegacy.net",
     "minecraftVersions": [
-        "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -23,6 +24,10 @@
         "PvP",
         "Minigames"
     ],
+    "socials": {
+        "twitter": "PvPLegacyNet",
+        "discord": "https://discord.pvplegacy.net"
+    },
     "primaryColor": "#0392c5",
     "secondaryColor": "#a2a1a3"
 }
