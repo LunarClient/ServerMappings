@@ -25,11 +25,9 @@
         "AS"
     ],
     "gameTypes": [
-        "Minigames",
         "PvP",
         "Survival",
         "Bedwars",
-        "OneBlock"
     ],
     "socials": {
         "discord": "https://discord.gg/hRjhTkVPq9",
