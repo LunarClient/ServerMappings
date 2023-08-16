@@ -1,6 +1,6 @@
 {
     "id": "firecone",
-    "name": "Firecone",
+    "name": "Firecone.eu",
     "description": "Survival, PVP and more",
     "addresses": [
         "mc.firecone.eu"
@@ -10,10 +10,11 @@
         "1.8.9",
         "1.16.5",
         "1.18.2",
-        "1.19.2",
-        "1.19.3"
+        "1.19.4",
+        "1.20",
+        "1.20.1",
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#ff6c05",
     "secondaryColor": "#1E82DA",
     "primaryLanguage": "en",
