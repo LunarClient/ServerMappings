@@ -12,9 +12,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
-    "primaryLanguage": "pt-br",
+    "primaryLanguage": "pt-BR",
     "languages": [
-        "pt-br"
+        "pt-BR"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -23,7 +23,7 @@
         "SA"
     ],
     "gameTypes": [
-        "RankUP",
+        "Minigames",
         "Prison",
         "Tycoon"
     ],
