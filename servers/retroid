@@ -1,0 +1,35 @@
+{
+    "id": "retroid",
+    "name": "Retroid Network",
+    "website": "https://retroid.wtf/",
+    "addresses": [
+        "retroid.wtf"
+    ],
+    "primaryAddress": "retroid.wtf",
+    "primaryColor": "#8331cc",
+    "secondaryColor": "#c6b2b1",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "discord.retroid.wtf",
+        "instagram": "retroid.wtf",
+        "tiktok": "retroid.wtf",
+        "facebook": "retroid"
+    }
+}
