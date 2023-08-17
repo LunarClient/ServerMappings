@@ -1,0 +1,64 @@
+{
+    "id": "uchilahmc",
+    "name": "UchilahMC Network",
+    "description": "Minigames como PartyGames, BedWars, BattleRoyale, Parkour e muito mais no UchilahMC",
+    "addresses": [
+        "uchilahmc.com"
+    ],
+    "primaryAddress": "uchilahmc.com",
+    "minecraftVersions": [
+                "1.8.*",
+                "1.12.*",
+                "1.16.*",
+                "1.17.*",
+                "1.18.*",
+                "1.19.*",
+                "1.20.*",
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3",
+                "1.19.4",
+                "1.20",
+                "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff7709",
+    "secondaryColor": "#c25a07",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Parkour"
+    ],
+    "website": "https://uchilahmc.com",
+    "store": "https://loja.uchilahmc.com",
+    "socials": {
+        "twitter": "UchilahMC",
+        "instagram": "UchilahMC",
+        "youtube": "UchilahMC",
+        "twitch": "UchilahMC",
+        "tiktok": "UchilahMC",
+        "reddit": "r/uchilahmc",
+        "discord": "https://discord.uchilahmc.com"
+    },
+    "crossplay": true
+}
