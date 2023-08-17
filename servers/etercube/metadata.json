@@ -27,9 +27,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Faction",
-        "Minigames"
+        "Factions"        
     ],
     "website": "https://etercube.fr",
     "store": "https://etercube.fr",
