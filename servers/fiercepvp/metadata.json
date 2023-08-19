@@ -1,6 +1,8 @@
 {
     "id": "fiercepvp",
     "name": "FiercePvP",
+    "website": "https://fiercepvp.net",
+    "store": "https://store.fiercepvp.net",
     "description": "Welcome to the wild and amazing world of FiercePvP.",
     "addresses": [
         "fiercepvp.net"
@@ -30,11 +32,9 @@
     "gameTypes": [
         "Prison"
     ],
-    "website": "https://fiercepvp.net",
-    "store": "https://store.fiercepvp.net",
     "socials": {
         "twitter": "FiercePvP_NET",
-        "discord": "https://fiercepvp.net/discord"
+        "discord": "https://discord.com/invite/K7ADJS6JnK"
     },
     "crossplay": false
 }
