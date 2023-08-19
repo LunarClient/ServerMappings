@@ -31,7 +31,7 @@ jobs:
         run: python .scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
-          BOT_PAT: ${{ secrets.GITHUB_TOKEN }}
+          BOT_PAT: ${{ secrets.BOT_PAT }}
           USE_ARGS: "true"
 
   upload-servers:
