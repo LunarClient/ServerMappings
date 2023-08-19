@@ -1,6 +1,7 @@
 {
     "id": "kealands",
     "name": "Kealands",
+    "store": "https://store.kealands.net",
     "description": "Survival with integrated Mini-games",
     "addresses": [
         "kealands.net"
@@ -24,11 +25,10 @@
         "Survival",
         "Minigames"
     ],
-    "store": "https://store.kealands.net",
     "socials": {
         "twitter": "KealandsMC",
         "tiktok": "kealands_",
-        "discord": "https://discord.kealands.net/"
+        "discord": "https://discord.com/invite/ZXYuT9YJJq"
     },
     "crossplay": false
 }
