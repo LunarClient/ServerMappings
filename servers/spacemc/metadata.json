@@ -3,8 +3,7 @@
     "name": "SpaceMC Network",
     "store": "https://store.spacemc.club",
     "addresses": [
-        "spacemc.club",
-		"mc.spacemc.club"
+        "spacemc.club"
     ],
     "primaryAddress": "spacemc.club",
     "primaryColor": "#AA00AA",
