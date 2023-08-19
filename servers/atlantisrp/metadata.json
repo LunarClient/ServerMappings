@@ -1,6 +1,8 @@
 {
     "id": "atlantisrp",
     "name": "AtlantisRP",
+    "website": "https://www.atlantisrp.it",
+    "store": "https://store.atlantisrp.it",
     "description": "The most immersive Minecraft Roleplay server in Italy",
     "addresses": [
         "atlantisrp.it"
@@ -26,11 +28,9 @@
     "gameTypes": [
         "Roleplay"
     ],
-    "website": "https://www.atlantisrp.it",
-    "store": "https://store.atlantisrp.it",
     "socials": {
         "telegram": "AtlantisRP",
-        "discord": "https://discord.atlantisrp.it",
+        "discord": "https://discord.com/invite/Qc7yHhCfpX",
         "instagram": "atlantis_roleplay_official",
         "tiktok": "atlantisrp_official"
     },
