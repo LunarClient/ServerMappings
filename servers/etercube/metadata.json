@@ -4,16 +4,18 @@
     "website": "https://etercube.fr",
     "store": "https://etercube.fr",
     "addresses": [
-        "etercube.fr"
+        "etercube.fr",
+        "play.etercube.fr"
     ],
-    "primaryAddress": "play.etercube.fr",
+    "primaryAddress": "mc.etercube.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"        
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#0090ff",
@@ -31,6 +33,10 @@
         "Factions"        
     ],
     "socials": {
-        "discord": "https://discord.gg/XUVdDDJ59H"
-    }
+        "discord": "https://discord.gg/XUVdDDJ59H",
+        "twitter": "https://twitter.com/etercube",
+        "youtube": "https://www.youtube.com/@etercube",        
+        "tiktok": "https://tiktok.com/@etercube"
+    },
+    "crossplay": true
 }
