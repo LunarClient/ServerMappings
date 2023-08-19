@@ -1,0 +1,28 @@
+{
+    "id": "witchythings",
+    "name": "Witchy Things SMP",
+    "addresses": [
+        "xanthus.uk"
+    ],
+    "primaryAddress": "play.xanthus.uk",
+    "primaryColor": "#000000",
+    "secondaryColor": "#800080",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/HaCWVcaJcX"
+    }
+}
