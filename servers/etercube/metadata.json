@@ -1,0 +1,36 @@
+{
+    "id": "etercube",
+    "name": "Etercube",
+    "website": "https://etercube.fr",
+    "store": "https://etercube.fr",
+    "addresses": [
+        "etercube.fr"
+    ],
+    "primaryAddress": "play.etercube.fr",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"        
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#0090ff",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"        
+    ],
+    "socials": {
+        "discord": "https://discord.gg/XUVdDDJ59H"
+    }
+}
