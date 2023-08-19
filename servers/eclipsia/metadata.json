@@ -1,6 +1,8 @@
 {
     "id": "eclipsia",
     "name": "Eclipsia",
+    "website": "https://www.eclipsia.fr",
+    "store": "https://www.eclipsia.fr/shop",
     "description": "Eclipsia is a mini-game server",
     "addresses": [
         "eclipsia.fr"
@@ -27,13 +29,11 @@
         "PvP",
         "Minigames"
     ],
-    "website": "https://www.eclipsia.fr",
-    "store": "https://www.eclipsia.fr/shop",
     "socials": {
-        "discord": "https://dsc.eclipsia.fr",
-        "youtube": "https://youtube.com/@EclipsiaMC",
-        "twitter": "https://twitter.com/Eclipsia_MC",
-        "instagram": "https://instagram.com/eclipsia.fr/",
-        "tiktok": "https://tiktok.com/@eclipsia.fr"
+        "twitter": "Eclipsia_MC",
+        "discord": "https://discord.com/invite/vedzVWA",
+        "youtube": "EclipsiaMC",
+        "instagram": "eclipsia.fr",
+        "tiktok": "eclipsia.fr"
     }
 }
