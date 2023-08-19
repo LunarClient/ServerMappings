@@ -1,11 +1,12 @@
 {
     "id": "etercube",
     "name": "Etercube",
+    "website": "https://etercube.fr",
+    "store": "https://etercube.fr",
     "addresses": [
-        "play.etercube.fr",
-        "mc.etercube.fr"
+        "etercube.fr"
     ],
-    "primaryAddress": "etercube.fr",
+    "primaryAddress": "play.etercube.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -29,8 +30,6 @@
         "PvP",
         "Factions"        
     ],
-    "website": "https://etercube.fr",
-    "store": "https://etercube.fr",
     "socials": {
         "discord": "https://discord.gg/XUVdDDJ59H"
     }
