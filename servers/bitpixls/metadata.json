@@ -1,12 +1,13 @@
 {
     "id": "bitpixls",
     "name": "BITPIXLS",
+    "website": "https://bitpixls.org",
+    "store": "https://kauppa.bitpixls.org",
     "description": "Monipuolinen Suomalainen minipelipalvelin.",
     "addresses": [
-        "bitpixls.org",
-        "play.bitpixls.org"
+        "bitpixls.org"
     ],
-    "primaryAddress": "bitpixls.org",
+    "primaryAddress": "play.bitpixls.org",
     "minecraftVersions": [
         "1.20.1"
     ],
@@ -26,10 +27,8 @@
         "Creative",
         "Minigames"
     ],
-    "website": "https://bitpixls.org",
-    "store": "https://kauppa.bitpixls.org",
     "socials": {
-        "discord": "https://bitpixls.org/discord",
+        "discord": "https://discord.com/invite/SFPPAJqK2V",
         "youtube": "bitpixls"
     },
     "crossplay": true
