@@ -5,6 +5,7 @@
     "addresses": [
         "2b2t.org"
     ],
+    "primaryAddress": "2b2t.org",
     "primaryColor": "#ceb19e",
     "secondaryColor": "#000000",
     "minecraftVersions": [
