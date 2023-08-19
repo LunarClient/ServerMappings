@@ -5,7 +5,8 @@
     "store": "https://etercube.fr",
     "addresses": [
         "etercube.fr",
-        "play.etercube.fr"
+        "play.etercube.fr",
+        "mc.etercube.fr"
     ],
     "primaryAddress": "mc.etercube.fr",
     "minecraftVersions": [
