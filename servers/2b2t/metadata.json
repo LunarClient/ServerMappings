@@ -2,6 +2,9 @@
     "id": "2b2t",
     "name": "2b2t",
     "store": "https://shop.2b2t.org/",
+    "addresses": [
+        "2b2t.org"
+    ],
     "primaryColor": "#ceb19e",
     "secondaryColor": "#000000",
     "minecraftVersions": [
