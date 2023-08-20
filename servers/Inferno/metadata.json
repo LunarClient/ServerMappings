@@ -1,0 +1,41 @@
+{
+    "id": "inferno",
+    "name": "Inferno",
+    "description": "A Hcf Styled server (Bunkers, Hcf, Kitmap, etc)",
+    "addresses": [
+        "inferno.rip",
+        "mc.inferno.rip"
+    ],
+    "primaryAddress": "inferno.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#Ff0000",
+    "secondaryColor": "#Fbef51",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.inferno.rip",
+    "store": "https://store.inferno.rip",
+    "socials": {
+        "twitter": "infernohcf",
+        "discord": "https://discord.inferno.rip"
+    },
+    "crossplay": false
+}
