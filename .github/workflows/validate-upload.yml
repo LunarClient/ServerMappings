@@ -22,7 +22,8 @@ jobs:
       - uses: actions/checkout@master
         name: Checkout from GitHub
         with:
-          ref: ${{ github.head_ref }}
+          repository: ${{ github.event.pull_request.head.repo }}
+          ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v4
