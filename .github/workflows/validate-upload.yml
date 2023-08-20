@@ -15,7 +15,10 @@ jobs:
       pull-requests: write
       issues: write
 
+
     steps:
+      - run: echo ${{ github.head_ref }}
+
       - uses: actions/checkout@master
         name: Checkout from GitHub
         with:
