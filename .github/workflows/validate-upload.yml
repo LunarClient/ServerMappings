@@ -17,6 +17,9 @@ jobs:
 
 
     steps:
+      - run: echo "${{ github.event.pull_request.head.repo }}"
+      - run: echo "${{ github.event.pull_request.head.ref }}"
+      
       - name: Checkout from GitHub
         uses: actions/checkout@v3
         with:
