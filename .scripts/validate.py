@@ -219,17 +219,24 @@ if __name__ == '__main__':
             )
             print(r)
 
-        print("No errors happend. PR is ready for manual review.")
+        print("No errors happened. PR is ready for manual review.")
         exit(0)
     else:
         # Remove previously added labels if there is a pull_id
+        print("Pull Request ID", pull_id)
+        print("There were errors. PR is not ready for review.")
         if pull_id:
-            requests.post(
+            r = requests.post(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
                 json={'labels': []},
                 headers={'Accept': 'application/vnd.github+json',
                             'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
             )
+
+            if r.status_code != 200:
+                print(r.text)
+                print(r.status_code)
+                exit(1) 
 
         # Post Feedback
         post_comment(all_errors)
