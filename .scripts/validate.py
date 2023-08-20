@@ -223,7 +223,7 @@ if __name__ == '__main__':
         exit(0)
     else:
         # Remove previously added labels if there is a pull_id
-        print(pull_id)
+        print("Pull Request ID", pull_id)
         if pull_id:
             r = requests.post(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
@@ -235,7 +235,7 @@ if __name__ == '__main__':
             if r.status_code != 200:
                 print(r.text)
                 print(r.status_code)
-                exit(1)
+                exit(1) 
 
         # Post Feedback
         post_comment(all_errors)
