@@ -3,6 +3,7 @@ import json
 import jsonschema
 import os
 import requests
+import sys
 
 from utils import get_all_servers, validate_logo, validate_background, validate_banner
 
@@ -211,33 +212,33 @@ if __name__ == '__main__':
     pull_id = os.getenv('PR_ID')
     if all(len(section) == 0 for section in all_errors.values()):
         if pull_id:
-            r = requests.post(
+            res = requests.post(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
                 json={'labels': ["Ready for review"]},
-                headers={'Accept': 'application/vnd.github+json',
-                         'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
+                headers={
+                    'Accept': 'application/vnd.github+json',
+                    'Authorization': f"Bearer {os.getenv('BOT_PAT')}"
+                }
             )
-            print(r)
+
+            res.raise_for_status()
 
         print("No errors happened. PR is ready for manual review.")
-        exit(0)
+        sys.exit(0)
     else:
         # Remove previously added labels if there is a pull_id
-        print("Pull Request ID", pull_id)
         if pull_id:
-            r = requests.post(
+            res = requests.delete(
                 f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
-                json={'labels': []},
-                headers={'Accept': 'application/vnd.github+json',
-                            'Authorization': f"Bearer {os.getenv('BOT_PAT')}"}
+                headers={
+                    'Accept': 'application/vnd.github+json',
+                    'Authorization': f"Bearer {os.getenv('BOT_PAT')}"
+                }
             )
 
-            if r.status_code != 200:
-                print(r.text)
-                print(r.status_code)
-                exit(1) 
+            res.raise_for_status()
 
         # Post Feedback
         post_comment(all_errors)
         print(all_errors)
-        exit(1)
+        sys.exit(1)
