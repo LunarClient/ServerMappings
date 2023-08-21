@@ -1,0 +1,39 @@
+{
+    "id": "noskillworld",
+    "name": "NoSkillWorld",
+    "description": "",
+    "addresses": [
+        "noskillworld.fr"
+    ],
+    "primaryAddress": "noskillworld.fr",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#2C70BA",
+    "secondaryColor": "#1a1a1a",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Survival",
+        "Open World",
+        "Hardcore"
+    ],
+    "website": "https://play.noskillworld.fr",
+    "store": "https://shop.noskillworld.fr",
+    "socials": {
+        "twitter": "noskillworld",
+        "instagram": "noskillworld",
+        "tiktok": "noskillworld_mc",
+        "youtube": "noskillworld",
+        "discord": "https://discord.noskillworld.fr"
+    },
+    "crossplay": false
+}
