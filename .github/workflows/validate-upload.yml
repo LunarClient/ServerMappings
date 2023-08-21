@@ -6,7 +6,7 @@ on:
       - master
   pull_request_target:
     branches:
-      - master
+      - '*'
 
 jobs:
   validate-servers:
@@ -15,11 +15,13 @@ jobs:
       pull-requests: write
       issues: write
 
+
     steps:
-      - uses: actions/checkout@master
-        name: Checkout from GitHub
+      - name: Checkout from GitHub
+        uses: actions/checkout@v3
         with:
-          ref: ${{ github.head_ref }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v4
@@ -48,7 +50,7 @@ jobs:
 
     steps:
       - name: Checkout from GitHub
-        uses: actions/checkout@master
+        uses: actions/checkout@v3
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v4
