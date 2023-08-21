@@ -2,11 +2,8 @@
     "id": "etercube",
     "name": "Etercube",
     "website": "https://etercube.fr",
-    "store": "https://etercube.fr",
     "addresses": [
-        "etercube.fr",
-        "play.etercube.fr",
-        "mc.etercube.fr"
+        "etercube.fr"
     ],
     "primaryAddress": "mc.etercube.fr",
     "minecraftVersions": [
@@ -35,9 +32,9 @@
     ],
     "socials": {
         "discord": "https://discord.gg/cAWNkX5Am5",
-        "twitter": "https://twitter.com/etercube",
-        "youtube": "https://www.youtube.com/@etercube",        
-        "tiktok": "https://tiktok.com/@etercube"
+        "twitter": "etercube",
+        "youtube": "@etercube",        
+        "tiktok": "etercube"
     },
     "crossplay": true
 }
