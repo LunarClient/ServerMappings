@@ -22,9 +22,7 @@
     ],
     "gameTypes": [
         "Adventure",
-        "Survival",
-        "Open World",
-        "Hardcore"
+        "Survival"
     ],
     "website": "https://play.noskillworld.fr",
     "store": "https://shop.noskillworld.fr",
