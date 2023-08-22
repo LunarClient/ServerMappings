@@ -15,7 +15,7 @@ jobs:
         name: Checkout from GitHub
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
