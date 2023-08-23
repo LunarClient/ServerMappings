@@ -127,7 +127,7 @@ def check_metadata(args: argparse.Namespace) -> dict:
                 elif error.validator == "required":
                     val = error.message.split("'")
                     messages[server_id].append(
-                        f"`{val[1]}` is required but wasn't found. Please review the [README](https://github.com/LunarClient/ServerMappings/blob/master/README.md).")
+                        f"`{val[1]}` is required but wasn't found. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
                 else:  # If the error isn't defined above show the message.
                     messages[server_id].append(error.message)
 
