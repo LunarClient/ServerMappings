@@ -1,7 +1,7 @@
 {
     "id": "comugamers",
     "name": "ComuGamers Network",
-    "description": "Tu Comunidad Online",
+    "description": "Servidor de Minecraft creado por y para la comunidad. Hosteamos infinidad de diversión con muchos minijuegos variados.",
     "website": "https://www.comugamers.com/",
     "store": "https://store.comugamers.com/",
     "addresses": [
@@ -19,7 +19,8 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryAddress": "mc.comugamers.com",
     "primaryColor": "#026694",
@@ -31,7 +32,11 @@
         "fr"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Creative",
+        "Minigames",
+        "Parkour",
+        "Survival"
     ],
     "socials": {
         "twitter": "ComuGamers",
