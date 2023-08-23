@@ -3,7 +3,6 @@
     "name": "HoneyMC",
     "website": "https://honeymc.net/",
     "store": "https://honeymc.net/shop",
-    "description": "Le serveur francophone le plus convivial qui soit.",
     "addresses": [
         "honeymc.net"
     ],
@@ -27,9 +26,6 @@
     "gameTypes": [
         "Survival",
         "PvE",
-        "Open World",
-        "Roleplay",
-        "Minigames",
         "Adventure"
     ],
     "socials": {
