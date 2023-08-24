@@ -1,0 +1,34 @@
+{
+    "id": "ksurvival",
+    "name": "KSurvival",
+    "description": "Custom Survival for fun",
+    "addresses": [
+        "lunar.gg",
+        "lunargg.dev",
+        "mcteams.com"
+    ],
+    "primaryAddress": "play.ksurvival.eu",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#ffd500",
+    "secondaryColor": "#ff6600",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.ksurvival.eu",
+    "socials": {
+        "discord": "https://discord.gg/TKZvtN9qvk"
+    },
+    "crossplay": false
+}
