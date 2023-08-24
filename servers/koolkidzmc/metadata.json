@@ -30,5 +30,6 @@
         "Skyblock",
         "Lifesteal",
         "Events"
-    ]
+    ],
+    "crossplay": false
 }
