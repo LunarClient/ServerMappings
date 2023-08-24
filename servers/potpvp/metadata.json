@@ -1,11 +1,12 @@
+{
     "id": "potpvp",
     "name": "PotPvP Network",
     "website": "https://www.potpvp.com/",
     "store": "https://store.potpvp.com/",
     "addresses": [
         "potpvp.com",
-	"skylandkits.net",
-	"bridge.rip"
+        "skylandkits.net",
+        "bridge.rip"
     ],
     "primaryAddress": "potpvp.com",
     "primaryColor": "#f7b204",
@@ -19,7 +20,7 @@
     "primaryRegion": "NA",
     "regions": [
         "NA",
-	"EU"
+        "EU"
     ],
     "primaryLanguage": "en",
     "languages": [
