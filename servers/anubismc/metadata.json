@@ -1,0 +1,32 @@
+{
+    "id": "anubismc",
+    "name": "AnubisMC",
+    "website": "https://anubismc.com/",
+    "store": "https://buy.anubismc.com/",
+    "addresses": [
+        "play.anubismc.com"
+    ],
+    "primaryAddress": "play.anubismc.com",
+    "primaryColor": "#f24fff",
+    "secondaryColor": "#eeba96",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "AnubisMCS",
+        "discord": "https://discord.com/invite/H3dhmH6bzE"
+    }
+}

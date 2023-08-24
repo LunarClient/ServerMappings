@@ -1,0 +1,39 @@
+{
+    "id": "gamster",
+    "name": "Gamster",
+    "website": "https://www.gamster.org/",
+    "store": "https://web.gamster.org/",
+    "addresses": [
+        "mc.gamster.org",
+        "gamster.org"
+    ],
+    "primaryAddress": "mc.gamster.org",
+    "primaryColor": "#7b4900",
+    "secondaryColor": "#394246",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Prison"
+    ],
+    "socials": {
+        "twitter": "GamsterOrg",
+        "discord": "https://discord.com/invite/gamster",
+        "instagram": "the_real_gamster_official",
+        "facebook": "GamsterOfficial",
+        "tiktok": "gamstercommunity"
+    }
+}
