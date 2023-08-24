@@ -1,6 +1,7 @@
 {
     "id": "historiamc",
     "name": "HistoriaMC",
+    "description": "An innovative french minigames Minecraft server.",
     "website": "https://historiamc.com",
     "store": "https://store.historiamc.com",
     "addresses": [
@@ -37,4 +38,5 @@
         "tiktok": "historiamc_",
         "twitter": "historiamc_"
     }
+    "crossplay": false
 }
