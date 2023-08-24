@@ -1,0 +1,36 @@
+{
+    "id": "pokehub",
+    "name": "PokeHub",
+    "store": "https://store.pokehub.org/",
+    "addresses": [
+        "pokehub.org"
+    ],
+    "primaryAddress": "play.pokehub.org",
+    "primaryColor": "#ffb05b",
+    "secondaryColor": "#413b4c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/UED6ArKr2v"
+    }
+}
