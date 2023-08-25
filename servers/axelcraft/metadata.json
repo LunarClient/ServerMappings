@@ -25,16 +25,15 @@
     "gameTypes": [
         "Skyblock",
         "PvP",
-        "Survival",
-        "Open World"
+        "Survival"
     ],
     "website": "https://axelcraft.pl",
     "store": "https://axelcraft.pl/sklep",
     "socials": {
         "discord": "https://discord.gg/axelcraft",
-        "tiktok": "https://www.tiktok.com/@axelcraftpl",
-        "youtube": "https://www.youtube.com/@axelcraftpl",
-        "facebook": "https://www.facebook.com/AxelCraftPL"
+        "tiktok": "axelcraftpl",
+        "youtube": "axelcraftpl",
+        "facebook": "AxelCraftPL"
     },
     "crossplay": false
 }
