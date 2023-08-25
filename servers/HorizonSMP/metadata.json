@@ -1,0 +1,34 @@
+{
+    "id": "horizonsmp",
+    "name": "HorizonSMP",
+    "description": "UK-Based Lag Free EarthSMP",
+    "store": "https://store.horizonsmp.com/",
+    "addresses": [
+        "horizonsmp.com"
+    ],
+    "primaryAddress": "play.horizonsmp.com",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#00008b",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.lunar.gg",
+    "store": "https://store.lunar.gg",
+    "socials": {
+        "tiktok": "@_HorizonSMP",
+        "discord": "https://t.ly/HorizonSMP/"
+    },
+    "crossplay": false
+}
