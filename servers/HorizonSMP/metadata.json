@@ -2,6 +2,7 @@
     "id": "horizonsmp",
     "name": "HorizonSMP",
     "description": "UK-Based Lag Free EarthSMP",
+    "store": "https://store.horizonsmp.com/",
     "addresses": [
         "horizonsmp.com"
     ],
@@ -16,7 +17,7 @@
     "languages": [
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
