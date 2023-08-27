@@ -1,0 +1,26 @@
+{
+    "id": "AwitMc",
+    "name": "AwitMc",
+    "store": "https://awit.it/",
+    "addresses": [
+        "play.awit.it"
+    ],
+    "primaryAddress": "play.awit.it",
+    "primaryColor": "#b728bc",
+    "secondaryColor": "#a1a3ab",
+    "minecraftVersions": [
+        "1.8.",
+        "1.16.",
+        "1.17.",
+        "1.18.",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "KitPvP"
+    ]
+}
