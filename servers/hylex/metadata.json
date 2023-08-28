@@ -20,9 +20,9 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.3",
-    "primaryRegion": "NA",
+    "primaryRegion": "SA",
     "regions": [
-        "NA"
+        "SA"
     ],
     "gameTypes": [
         "Minigames",
