@@ -8,8 +8,8 @@
         "hylex.gg"
     ],
     "primaryAddress": "hylex.gg",
-    "primaryColor": "#314484",
-    "secondaryColor": "#c79e56",
+    "primaryColor": "#1e647d",
+    "secondaryColor": "#e7cd2b",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
