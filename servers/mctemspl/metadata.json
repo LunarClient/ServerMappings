@@ -1,0 +1,34 @@
+{
+    "id": "mctemspl",
+    "name": "mc.tems.pl",
+    "store": "https://tems.pl/",
+    "addresses": [
+        "mc.tems.pl",
+        "tems.pl"
+    ],
+    "primaryAddress": "mc.tems.pl",
+    "primaryColor": "#dc71d6",
+    "secondaryColor": "#1ea47e",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Factions",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/REVG35ShJM"
+    },
+    "languages": [
+        "pl"
+    ]
+}
