@@ -1,34 +1,35 @@
 {
-    "id": "mctemspl",
-    "name": "mc.tems.pl",
-    "store": "https://tems.pl/",
-    "addresses": [
-        "mc.tems.pl",
+    "id":"mctemspl",
+    "name":"McTems",
+    "description": "Wbijaj i zagraj na najlepszy EarthSMP w Polsce!",
+    "store":"https://tems.pl/",
+    "addresses":[
         "tems.pl"
     ],
-    "primaryAddress": "mc.tems.pl",
-    "primaryColor": "#dc71d6",
-    "secondaryColor": "#1ea47e",
-    "minecraftVersions": [
+    "primaryAddress":"mc.tems.pl",
+    "primaryColor":"#dc71d6",
+    "secondaryColor":"#1ea47e",
+    "minecraftVersions":[
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
-    "crossplay": false,
-    "primaryRegion": "EU",
-    "regions": [
+    "primaryMinecraftVersion":"1.20.1",
+    "crossplay":false,
+    "primaryRegion":"EU",
+    "regions":[
         "EU"
     ],
-    "gameTypes": [
+    "gameTypes":[
         "Survival",
         "Factions",
         "Open World"
     ],
-    "socials": {
-        "discord": "https://discord.gg/REVG35ShJM"
+    "socials":{
+        "discord":"https://discord.gg/REVG35ShJM",
+        "tiktok":"https://tiktok.com/@mc.tems.pl"
     },
-    "languages": [
+    "languages":[
         "pl"
     ]
 }
