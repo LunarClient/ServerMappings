@@ -1,12 +1,56 @@
 {
     "id": "protocol",
     "name": "Protocol Network",
+    "description": "The hardcore server for players, by players!",
     "addresses": [
         "protocol.rip"
     ],
-    "gameTypes": [
-        "PvP"
+    "primaryAddress": "protocol.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
     ],
-    "primaryColor": "#f3a034",
-    "secondaryColor": "#4c3f33"
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e3873f",
+    "secondaryColor": "#4f3724",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC",
+        "Minigames",
+        "Hardcore"
+    ],
+    "website": "https://protocol.rip",
+    "store": "https://protocol.rip/store",
+    "socials": {
+        "twitter": "Protocol_MC",
+        "telegram": "protocolrip",
+        "discord": "https://protocol.rip/discord"
+    },
+    "crossplay": true
 }
