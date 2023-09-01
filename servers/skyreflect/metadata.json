@@ -2,6 +2,7 @@
     "id": "skyreflect",
     "name": "SkyReflect",
     "store": "https://bolt.skyreflect.hu",
+    "description": "Unique Hungarian server with SkyPvP, FullPvP & much more!",
     "addresses": [
         "skyreflect.hu"
     ],
