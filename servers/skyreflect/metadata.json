@@ -1,0 +1,32 @@
+{
+    "id": "skyreflect",
+    "name": "SkyReflect",
+    "store": "https://bolt.skyreflect.hu",
+    "addresses": [
+        "skyreflect.hu"
+    ],
+    "primaryAddress": "play.skyreflect.hu",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#AA0000",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "PvE",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/8uGUZRe"
+    }
+}
