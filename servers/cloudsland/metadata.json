@@ -1,0 +1,51 @@
+{
+    "id": "cloudsland",
+    "name": "CloudsLand Network",
+    "description": "Server KitPvP e SkyBlock Italiano",
+    "addresses": [
+        "cloudsland.eu"
+    ],
+    "primaryAddress": "mc.cloudsland.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1685D6",
+    "secondaryColor": "#00FFF7",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "AF",
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.cloudsland.eu",
+    "store": "https://store.cloudsland.eu",
+    "socials": {
+        "telegram": "cloudslandnews",
+        "discord": "https://discord.cloudsland.eu"
+    },
+    "crossplay": false
+}
