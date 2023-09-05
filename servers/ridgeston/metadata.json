@@ -1,0 +1,28 @@
+{
+    "id": "ridgeston",
+    "name": "Ridgeston County",
+    "addresses": [
+        "ridgeston.cc"
+    ],
+    "primaryAddress": "mc.ridgeston.cc",
+    "primaryColor": "#8FCB41",
+    "secondaryColor": "#65943B",
+    "minecraftVersions": [
+        "1.18.2"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Open World",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ridgeston",
+        "tiktok": "https://www.tiktok.com/@ridgestoncounty",
+        "youtube": "https://www.youtube.com/@ridgestonroleplay"
+    }
+}
