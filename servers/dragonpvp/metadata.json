@@ -3,7 +3,8 @@
     "name": "DragonPvP NetWork",
     "website": "https://www.dragonpvp.site/",
     "store": "https://www.dragonpvp.site/store/",
-    "description": "DragonPvP è un server minecraft creato nel 2020, vieni a giocare alla nostra modalitá 'Kaboom' dove puoi divertirti tu e i tuoi amici o puoi giocare competivamente contro altri giocatori, puoi anche giocare un kitpvp custom con tante aggiunte originali, in piú ogni tanto vengono organizzati degli eventi UHC. Scala le classifiche e diventa il migliore!",
+    "address": "dragonpvp.it",
+    "description": "DragonPvP NetWork. Le modalitá sono: KitPvP custom, UHC e Kaboom.",
     "primaryAddress": "play.dragonpvp.it",
     "primaryColor": "#a21616",
     "secondaryColor": "#131313",
@@ -18,14 +19,14 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
-    "primaryRegion": "IT",
+    "primaryRegion": "EU",
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
     "gameTypes": [
-        "Kaboom",
-        "KitPvP",
+        "Minigames",
+        "PvP",
         "UHC"
     ],
     "socials": {
