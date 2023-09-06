@@ -3,7 +3,9 @@
     "name": "DragonPvP NetWork",
     "website": "https://www.dragonpvp.site/",
     "store": "https://www.dragonpvp.site/store/",
-    "addresses": "dragonpvp.it",
+    "addresses": [
+        "dragonpvp.it"
+    ],
     "description": "DragonPvP NetWork. Le modalitá sono: KitPvP custom, UHC e Kaboom.",
     "primaryAddress": "play.dragonpvp.it",
     "primaryColor": "#a21616",
