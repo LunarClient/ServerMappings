@@ -1,0 +1,31 @@
+{
+    "id": "minewars",
+    "name": "MineWars Network",
+    "website": "https://minewars.pl/",
+    "store": "https://minewars.pl/sklep",
+    "addresses": [],
+    "primaryAddress": "minewars.pl",
+    "primaryColor": "#00adff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.4",
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyBlock",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://minewars.pl/discord"
+    }
+}
