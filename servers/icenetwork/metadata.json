@@ -1,0 +1,43 @@
+{
+    "id": "icenetwork",
+    "name": "IceNetwork",
+    "website": "https://icenetwork.tebex.io/",
+    "store": "https://icenetwork.tebex.io/",
+    "description": "IceNetwork is a quiet server, suitable for players who want to relax.",
+    "addresses": [
+        "icenetwork.ddns.net"
+    ],
+    "primaryAddress": "icenetwork.ddns.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00a6ff",
+    "secondaryColor": "#def3ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+		"NA",
+		"SA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+		"Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/MQyfSAYtps",
+        "tiktok": "icenetworkmc",
+        "instagram": "icecommunitymc"
+    }
+}
