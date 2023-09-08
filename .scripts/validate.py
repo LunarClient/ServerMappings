@@ -113,7 +113,7 @@ def check_metadata(args: argparse.Namespace) -> dict:
                 if error.validator == "enum":
                     enum = "".join(map(lambda s: f"   - {s}\n", error.validator_value))
                     messages[server_id].append(
-                        f"\"{error.instance}\" is an acceptable input for `{path}`:\n{enum}")
+                        f"\"{error.instance}\" is not an acceptable input for `{path}`:\n{enum}")
                 elif error.validator == "pattern":
                     messages[server_id].append(
                         f"\"{error.instance}\" does not match the regex pattern \"{error.validator_value}\" in "
