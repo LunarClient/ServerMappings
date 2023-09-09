@@ -1,0 +1,37 @@
+{
+    "id": "anomicmc",
+    "name": "AnomicMC",
+    "website": "https://www.anomicmc.net",
+    "store": "https://tienda.anomicmc.net",
+    "description": "Un servidor de Minecraft ambientado en BoxPvP con grandes ambiciones.",
+    "addresses": [
+        "anomicmc.net"
+    ],
+    "primaryAddress": "anomicmc.net",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"       
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#ffbd7a",
+    "secondaryColor": "#fff09c",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "BoxPvP"        
+    ],
+    "socials": {
+        "discord": "https://discord.gg/xbaa3nur5m",
+        "tiktok": "anomicmc"
+    },
+    "crossplay": true
+}
