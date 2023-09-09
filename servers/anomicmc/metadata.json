@@ -18,16 +18,17 @@
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#ffbd7a",
     "secondaryColor": "#fff09c",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "BoxPvP"        
+        "PvP",
+        "PvE"        
     ],
     "socials": {
         "discord": "https://discord.gg/xbaa3nur5m",
