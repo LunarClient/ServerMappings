@@ -24,10 +24,7 @@
         "SA"
     ],
     "gameTypes": [
-        "Survival",
-        "Minigames",
-        "PvE",
-        "PvP"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/draconitymc",
