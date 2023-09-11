@@ -26,10 +26,10 @@
         "Minigames",
         "PvP"
     ],
-    "primaryLanguage": "PL",
+    "primaryLanguage": "pl",
     "languages": [
-        "PL",
-        "EN"
+        "pl",
+        "en"
     ],
     "socials": {
         "discord": "https://minewars.pl/discord",
