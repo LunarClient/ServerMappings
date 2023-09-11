@@ -1,0 +1,26 @@
+{
+    "id": "minecraftonline",
+    "name": "MinecraftOnline",
+	"website": "https://minecraftonline.com",
+    "store": "https://minecraftonline.com/donate.html",
+    "addresses": [
+        "minecraftonline.com"
+    ],
+    "primaryAddress": "minecraftonline.com",
+    "primaryColor": "#21b59c",
+    "secondaryColor": "#6b4a19",
+    "minecraftVersions": [
+        "1.12.2"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+	"socials": {
+    "discord": "https://discord.gg/minecraftonline",
+    }
+}
