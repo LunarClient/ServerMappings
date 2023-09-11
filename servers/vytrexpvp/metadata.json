@@ -1,0 +1,31 @@
+{
+    "id": "vytrexpvp",
+    "name": "Vytrex Network",
+    "description": "Competitive Minecraft PvP",
+    "addresses": [
+        "vytrexpvp.live"
+    ],
+    "primaryAddress": "play.vytrexpvp.live",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cc0000",
+    "secondaryColor": "#444444",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC"
+    ]
+}

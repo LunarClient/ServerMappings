@@ -1,0 +1,33 @@
+{
+    "id": "blocksmc",
+    "name": "BlocksMC",
+    "website": "https://blocksmc.com/",
+    "store": "https://blocksmc.com/store",
+    "addresses": [
+        "blocksmc.com"
+    ],
+    "primaryAddress": "play.blocksmc.com",
+    "primaryColor": "#048acb",
+    "secondaryColor": "#394047",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/rDxUS57",
+        "instagram": "BlocksMC"
+    }
+}

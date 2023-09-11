@@ -1,0 +1,46 @@
+{
+    "id": "brawl",
+    "name": "Brawl",
+    "website": "https://www.brawl.com/front/",
+    "store": "https://shop.brawl.com/",
+    "addresses": [
+        "mcbrawl.com",
+        "brawl.com",
+        "brawl.network",
+        "mc-war.com",
+        "minecraftparty.com",
+        "mcctf.com",
+        "mcpvp.com",
+        "minecraftpvp.com",
+        "mc-warz.com",
+        "minecraftbuild.com"
+    ],
+    "primaryAddress": "play.brawl.com",
+    "primaryColor": "#FBB306",
+    "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Creative",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "BrawlGames",
+        "discord": "https://discord.com/invite/Q5ZfcS7",
+        "youtube": "BrawlGames",
+        "tiktok": "brawl.network",
+        "instagram": "minecraft_brawl"
+    }
+}

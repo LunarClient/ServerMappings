@@ -2,30 +2,32 @@
 
 ## Summary
 
-This is a public mapping of server IPs <-> a pretty display name. This data is used extensively around Lunar Client, most notably when displaying server names (or "Private Server", if unknown) on the friends list. Historically, this mapping was handled internally, and server owners did not have a good way to manage data for their server.
+Server Mappings is a collection of mappings for Minecraft servers, including the most popular servers such as Hypixel, Mineplex, and more. Server Mappings provides information such as server name, server icon and more.
+
+For a full overview of the information which can be found in Server Mappings, [check out our documentation](https://lunarclient.dev/server-mappings/introduction).
 
 ## How do I add/update/remove a server?
 
-Please feel free to open a PR against `servers.json` in this repository, and we'll review it as soon as possible. Once merged, Lunar Client services will update over the next 20 minutes.
-
-## IP Addresses
-
-The `addresses` array in each server object is actually an array of IP _suffixes_. For example, `"addresses": ["lunar.gg", "other.domain"]` will match `lunar.gg`, `na.lunar.gg`, `play.other.domain`, and so on.
-
-## Primary Info & Minecraft Versions
-We also require your server's primary connection information and allowed client versions. The `primaryAddress` field should be an address included** in the `addresses` array. The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. *(ie. 1.18, 1.19)*; The `primaryMinecraftVersion` field must be a version included in the `minecraftVersions` array.
-
-## Logos
-In addition to the entry that you will need to provide in the `servers.json`, you will need to upload a `.png` version of your logo into the `/logos` directory in this repository. All images are to be _transparent_, _square (1:1 aspect ratio)_, and _a minimum of 512px in width and height_. The file name should match the server ID in the `servers.json` (for example: `lunarnetwork.png`).
+You can add your server to Server Mappings by creating a pull request on this repository. We ask that you **must** follow the guidelines detailed in [our documentation](https://lunarclient.dev/server-mappings/adding-servers/overview) on what you should include to have your server added.
 
 ## Restrictions
 
 We ask that this repository is only used to store mappings for *public* Minecraft servers. Some server IPs, such as private SMPs, tournament servers, etc. should not be listed in this repository, out of respect for privacy.
 
-## Can I use this data for ___?
+**Lunar Client also reserves the right to omit any servers that do not comply with our [terms of service](https://www.lunarclient.com/terms).**
 
-Go for it.
+
+## Inactive Server Policy
+
+If a server has closed down or has not been joinable for at least 3 months, we will add it to the `inactive.json`. This just flags our internal systems to not include the server in various place, but still retains all of the branding and other metadata you submit.
+
+If you believe your server has been incorrectly marked as inactive, please contact us in the [Lunar Client Developers Discord](https://discord.gg/ww4UhsPNwf) or [create an issue](https://github.com/LunarClient/ServerMappings/issues/new).
+
+## Can I use this data for my project?
+
+You are free to use this data for anything you wish. As long as it abides by [our terms of service](https://www.lunarclient.com/terms). You can read how to harness this data in our [documentation](https://lunarclient.dev/server-mappings/using-servermappings).
+
 
 ## Any other questions?
 
-Please contact us at [support.lunarclient.com](https://support.lunarclient.com) for any additional questions.
+Please join our [Lunar Client Developers Discord](https://discord.gg/ww4UhsPNwf) for any additional questions.

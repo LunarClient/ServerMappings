@@ -1,0 +1,33 @@
+{
+    "id": "wynncraft",
+    "name": "Wynncraft",
+    "website": "https://wynncraft.com/",
+    "store": "https://store.wynncraft.com/",
+    "addresses": [
+        "wynncraft.com"
+    ],
+    "primaryAddress": "play.wynncraft.com",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryColor": "#b0b46c",
+    "secondaryColor": "#463d2b",
+    "gameTypes": [
+        "Roleplay",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "Wynncraft",
+        "discord": "https://discord.com/invite/yJkSQwp",
+        "youtube": "UC-ZXrUQOrtYcqAGx9F9IEeQ",
+        "reddit": "WynnCraft",
+        "facebook": "wynncraft"
+    }
+}

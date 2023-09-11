@@ -1,0 +1,33 @@
+{
+    "id": "nucleoid",
+    "name": "Nucleoid",
+    "website": "https://nucleoid.xyz/",
+    "addresses": [
+        "nucleoid.xyz"
+    ],
+    "primaryAddress": "nucleoid.xyz",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#180527",
+    "secondaryColor": "#0C6F47",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "nucleoidmc",
+        "discord": "https://discord.com/invite/MVsm5Pu"
+    }
+}

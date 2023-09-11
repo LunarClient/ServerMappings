@@ -1,0 +1,9 @@
+{
+    "id": "combo",
+    "name": "Combo Network",
+    "addresses": [
+        "combo.rip"
+    ],
+    "primaryColor": "#1e8de3",
+    "secondaryColor": "#114f87"
+}

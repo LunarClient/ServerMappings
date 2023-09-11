@@ -1,0 +1,33 @@
+{
+    "id": "stratusnetwork",
+    "name": "Stratus Network",
+    "website": "https://stratus.network/",
+    "store": "https://stratusnetwork.buycraft.net/",
+    "addresses": [
+        "stratus.network"
+    ],
+    "primaryAddress": "play.stratus.network",
+    "primaryColor": "#6389cb",
+    "secondaryColor": "#3246a2",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "stratusmc",
+        "discord": "https://discord.com/invite/Aaf9hTr",
+        "youtube": "StratusNetworkmc",
+        "twitch": "stratusmc",
+        "tiktok": "stratusnetwork"
+    }
+}

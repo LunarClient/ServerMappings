@@ -1,0 +1,28 @@
+{
+    "id": "mcprison",
+    "name": "MCPrison",
+    "store": "https://buy.mchub.com/",
+    "addresses": [
+        "mcprison.com"
+    ],
+    "primaryAddress": "mcprison.com",
+    "primaryColor": "#e99b24",
+    "secondaryColor": "#b6b6b6",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "Skyblock",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/mchub"
+    }
+}

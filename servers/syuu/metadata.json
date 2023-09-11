@@ -1,0 +1,30 @@
+{
+    "id": "syuu",
+    "name": "Syuu",
+    "website": "https://www.syuu.net/",
+    "store": "https://store.syuu.io/",
+    "addresses": [
+        "syuu.net"
+    ],
+    "primaryAddress": "syuu.net",
+    "primaryColor": "#f0a40e",
+    "secondaryColor": "#080502",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "_SyuuNet",
+        "discord": "https://discord.com/invite/fCcsqHe"
+    }
+}

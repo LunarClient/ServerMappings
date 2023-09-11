@@ -1,0 +1,21 @@
+{
+    "id": "bridgepractice",
+    "name": "BridgePractice.net",
+    "website": "https://bridgepractice.net/",
+    "store": "https://bridgepractice.net/store/",
+    "addresses": [
+        "bridgepractice.net"
+    ],
+    "primaryColor": "#00b6f6",
+    "secondaryColor": "#e33609",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "BridgePractice1",
+        "discord": "https://discord.com/invite/kwBWv6gyj3",
+        "youtube": "UC8VaBceZEBUfxZmKrb-MYdw",
+        "tiktok": "bridgepractice"
+    }
+}

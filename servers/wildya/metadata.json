@@ -1,0 +1,30 @@
+{
+    "id": "wildya",
+    "name": "Wildya",
+    "addresses": [
+        "wildya.fr"
+    ],
+    "primaryAddress": "play.wildya.fr",
+    "primaryColor": "#65bed9",
+    "secondaryColor": "#215795",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/8Ffujtcxj7"
+    }
+}

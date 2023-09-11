@@ -1,0 +1,31 @@
+{
+    "id": "mineclub",
+    "name": "MineClub",
+    "store": "https://store.mineclub.com/",
+    "description": "Social Metaverse playable on Minecraft",
+    "addresses": [
+        "mineclub.com"
+    ],
+    "primaryAddress": "play.mineclub.com",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryColor": "#660e84",
+    "secondaryColor": "#4787d3",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "playmineclub",
+        "discord": "https://discord.com/invite/mineclub",
+        "instagram": "mineclubserver",
+        "reddit": "MineClub"
+    }
+}

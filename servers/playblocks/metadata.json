@@ -1,0 +1,30 @@
+{
+    "id": "playblocks",
+    "name": "Playblocks",
+    "website": "https://playblocks.org/",
+    "store": "https://store.playblocks.org/",
+    "addresses": [
+        "playblocks.org",
+        "minealong.com"
+    ],
+    "primaryAddress": "mc.playblocks.org",
+    "primaryColor": "#d3d5d6",
+    "secondaryColor": "#1f1355",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "Creative",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "playblocksmc",
+        "discord": "https://discord.com/invite/WsMAuXqZFy",
+        "tiktok": "playblocksmc"
+    }
+}

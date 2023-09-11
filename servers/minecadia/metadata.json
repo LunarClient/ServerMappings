@@ -1,0 +1,33 @@
+{
+    "id": "minecadia",
+    "name": "Minecadia",
+    "website": "https://minecadia.com/",
+    "store": "https://store.minecadia.com/",
+    "description": "We are one of the largest cross platform compatible Networks!",
+    "addresses": [
+        "minecadia.com",
+        "play.minecadia.net",
+        "minecadia.net"
+    ],
+    "primaryAddress": "play.minecadia.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fcad05",
+    "secondaryColor": "#062f5d",
+    "gameTypes": [
+        "Factions",
+        "Survival",
+        "Prison"
+    ],
+    "socials": {
+        "twitter": "PlayMinecadia",
+        "discord": "https://discord.com/invite/minecadia"
+    }
+}
