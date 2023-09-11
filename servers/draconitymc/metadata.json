@@ -1,0 +1,37 @@
+{
+    "id": "draconitymc",
+    "name": "DraconityMC",
+    "website": "https://www.draconitymc.com",
+    "store": "https://store.draconitymc.com/",
+    "addresses": [
+        "draconitymc.com"
+    ],
+    "primaryAddress": "play.draconitymc.com",
+    "primaryColor": "#3399FF",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.19.*"
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvE",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/draconitymc"
+        "youtube": "https://www.youtube.com/@draconitymc"
+    },
+    "crossplay": true
+}
