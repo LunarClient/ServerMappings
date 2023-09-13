@@ -5,7 +5,8 @@
     "store": "https://minewars.pl/sklep",
     "primaryAddress": "minewars.pl",
     "addresses": [
-        "minewars.pl"
+        "minewars.pl",
+        "minewars.network"
     ],
     "primaryColor": "#00adff",
     "secondaryColor": "#ffffff",
