@@ -11,6 +11,7 @@
     ],
     "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#ffce42ff",
+    "secondaryColor": "#ffce42ff",
     "primaryLanguage": "pl",
     "languages": [
         "pl"
