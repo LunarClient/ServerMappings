@@ -9,7 +9,7 @@
     "primaryAddress": "mc.lolimpo.net",
     "primaryColor": "#FCA800",
     "secondaryColor": "#00A0FA",
-    "minecraftVersions": "1.20.1",
+    "minecraftVersions": "1.20.*",
     "crossplay": false,
     "primaryRegion": "EU",
     "primaryMinecraftVersion": "1.20.1",
