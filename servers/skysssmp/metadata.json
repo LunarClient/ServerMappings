@@ -1,0 +1,32 @@
+{
+"id": "skysssmp",
+    "name": "SkysSsmp",
+    "website": "https://jcbm-mc.uk",
+    "store": "https://store.jcbm-mc.uk",
+    "addresses": [
+        "skysssmp.exaroton.me"
+    ],
+    "primaryAddress": "skysssmp.exaroton.me",
+    "primaryColor": "#013220",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Z3sVYGdNpt"
+    },
+    "crossplay": false
+}
