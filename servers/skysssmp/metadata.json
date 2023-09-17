@@ -1,8 +1,6 @@
 {
     "id": "skysssmp",
     "name": "SkysSSmp",
-    "website": "N/A",
-    "store": "N/A",
     "addresses": [
         "skysssmp.exaroton.me"
     ],
@@ -22,10 +20,7 @@
     "languages": [
         "en"
     ],
-    "gameTypes": [
-        "Survival/SMP",
-    ],
-    "socials": {
-        "youtube": "N/A"
+    "gameTypes": {
+        "survival",
     }
 }
