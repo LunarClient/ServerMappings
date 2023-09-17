@@ -1,0 +1,24 @@
+{
+    "id": "dkgames",
+    "name": "DKGames",
+    "website": "https://dkgames.fun/",
+    "store": "https://store.dkgames.fun/",
+    "addresses": [
+        "dkgames.fun"
+    ],
+    "primaryAddress": "play.dkgames.fun",
+    "primaryColor": "#ca6700",
+    "secondaryColor": "#edd711",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "fr",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.dkgames.fun"
+    }
+}
