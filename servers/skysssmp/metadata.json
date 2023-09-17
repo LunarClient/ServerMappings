@@ -1,6 +1,7 @@
 {
 "id": "skysssmp",
     "name": "SkysSsmp",
+    "description": "Fun SMP server made by otqp",
     "addresses": [
         "skysssmp.exaroton.me"
     ],
