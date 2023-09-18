@@ -5,9 +5,9 @@
     "store": "https://icenetwork.tebex.io/",
     "description": "IceNetwork is a quiet server, suitable for players who want to relax.",
     "addresses": [
-        "icenetwork.ddns.net"
+        "play.icenetwork.it"
     ],
-    "primaryAddress": "icenetwork.ddns.net",
+    "primaryAddress": "play.icenetwork.it",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
