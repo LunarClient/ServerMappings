@@ -15,7 +15,11 @@
     "primaryAddress": "minemen.club",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*"
+        "1.8.*",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#e911e5",
