@@ -1,0 +1,32 @@
+{
+	"id": "naaranetwork",
+	"name": "NaaraNetwork",
+	"description": "Serveur Mini-Jeux Compétitif & Fun !",
+	"addresses": [
+		"naaranetwork.fr",
+		"play.naaranetwork.fr"
+	],
+	"primaryAddress": "naaranetwork.fr",
+	"minecraftVersions": [
+		"1.8.*",
+		"1.9.*"
+	],
+	"primaryMinecraftVersion": "1.8.9",
+	"primaryColor": "#da9220",
+	"secondaryColor": "#a05222",
+	"primaryLanguage": "fr",
+	"languages": [
+		"fr"
+	],
+	"gameTypes": [
+		"Pvp",
+		"Minigames"
+	],
+	"website": "https://naaranetwork.fr/",
+	"store": "https://naaranetwork.fr/shop",
+	"socials": {
+		"twitter": "https://twitter.com/NaaraNetwork",
+		"tiktok": "https://www.tiktok.com/@naaranetwork",
+		"discord": "https://discord.gg/NaaraNetwork"
+	}
+}
