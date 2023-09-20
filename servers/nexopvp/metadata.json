@@ -1,0 +1,36 @@
+{
+    "id": "nexopvp",
+    "name": "NexoPvP",
+    "description": "Una experiencia unica en Prison OP",
+    "addresses": [
+        "nexopvp.com"
+    ],
+    "primaryAddress": "nexopvp.com",
+    "primaryMinecraftVersion": "1.8.8",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "website": "",
+    "store": "https://tienda.nexopvp.com/",
+    "primaryColor": "#ff3344",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "discord": "https://discord.gg/qRy2P9xayK"
+    }
+}
