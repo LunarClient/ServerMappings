@@ -8,8 +8,7 @@
 	],
 	"primaryAddress": "naaranetwork.fr",
 	"minecraftVersions": [
-		"1.8.*",
-		"1.9.*"
+		"1.8.*"
 	],
 	"primaryMinecraftVersion": "1.8.9",
 	"primaryColor": "#da9220",
@@ -19,7 +18,7 @@
 		"fr"
 	],
 	"gameTypes": [
-		"Pvp",
+		"PvP",
 		"Minigames"
 	],
 	"website": "https://naaranetwork.fr/",
