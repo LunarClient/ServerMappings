@@ -1,0 +1,23 @@
+{
+    "id": "screen",
+    "name": "Screen Network",
+    "description": "Um dos maiores servidores do Brasil!",
+    "website": "https://loja.redescreen.com/",
+    "addresses": [
+        "redescreen.com",
+        "redereset.com"
+    ],
+    "languages": [
+        "pt-PT",
+        "pt-BR"
+    ],
+    "primaryColor": "#EF6C00",
+    "secondaryColor": "#F9A825",
+    "socials": {
+        "twitter": "https://twitter.com/ServidorScreen",
+        "discord": "https://discord.gg/pbe8jkzD4J",
+        "tiktok": "https://www.tiktok.com/@servidorscreen",
+        "instagram": "https://www.instagram.com/servidorscreen/",
+        "youtube": "https://www.youtube.com/@ScreenNetworkYT"
+    }
+}
