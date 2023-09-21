@@ -5,7 +5,7 @@
     "store": "https://icenetwork.tebex.io/",
     "description": "IceNetwork is a quiet server, suitable for players who want to relax.",
     "addresses": [
-        "play.icenetwork.it"
+        "icenetwork.it"
     ],
     "primaryAddress": "play.icenetwork.it",
     "minecraftVersions": [
@@ -27,13 +27,13 @@
     "primaryRegion": "EU",
     "regions": [
         "EU",
-		"NA",
-		"SA"
+	"NA",
+	"SA"
     ],
     "gameTypes": [
         "Creative",
         "Minigames",
-		"Survival"
+	"Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/MQyfSAYtps",
