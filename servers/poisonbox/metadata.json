@@ -1,7 +1,7 @@
 {
     "id": "poisonbox",
     "name": "PoisonBox",
-    "website": "https://store.poisonbox.eu",
+    "store": "https://store.poisonbox.eu",
     "addresses": [
         "poisonbox.eu"
     ],
