@@ -15,7 +15,7 @@
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "website": "https://eaglemc.fr",
     "store": "https://boutique.eaglemc.fr"
 }
