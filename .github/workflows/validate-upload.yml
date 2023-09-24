@@ -3,78 +3,89 @@ name: Validate and upload
 on:
   push:
     branches:
-    - master
-  pull_request:
+      - master
+  pull_request_target:
     branches:
-    - master
+      - '*'
 
 jobs:
   validate-servers:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: write
+
 
     steps:
-      - uses: actions/checkout@v1
-        name: Checkout from GitHub
+      - name: Checkout from GitHub
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install Python dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r .scripts/requirements.txt
 
-      - name: Validate Server JSON
-        run: python scripts/validate_json.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json
-
-      - name: Validate Server Media
-        run: python scripts/validate_media.py --servers_dir servers
+      - name: Validate Servers
+        run: python .scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json --no-validate_inactive
+        env:
+          PR_ID: ${{ github.event.pull_request.number }}
+          BOT_PAT: ${{ secrets.BOT_PAT }}
+          USE_ARGS: "true"
 
   upload-servers:
     needs: validate-servers
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
     runs-on: ubuntu-latest
-    
+
     permissions:
       id-token: write
       contents: read
 
-    env:
-      cdn_bucket: lunarclient-cdn-servermappings
-      cdn_distribution: E45B8N9YLM3QG
-
     steps:
       - name: Checkout from GitHub
-        uses: actions/checkout@master
-        
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
-          aws-region: us-east-2
+        uses: actions/checkout@v3
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install Python dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r .scripts/requirements.txt
 
       - name: Create output folder
         run: mkdir .out/
-          
+
       - name: Output Server Media
-        run: python scripts/convert_media.py --servers_dir servers --servers_logos_output .out/logos --servers_logos_sizes 256 128 64 32 --servers_backgrounds_output .out/backgrounds --servers_backgrounds_sizes 1280x720 852x480
+        run: python .scripts/convert_media.py --servers_dir servers --inactive_file inactive.json --servers_logos_output .out/logos --servers_logos_sizes 256 128 64 32 --servers_backgrounds_output .out/backgrounds --servers_backgrounds_sizes 1280x720 852x480 --servers_banners_output .out/banners
+        env:
+          USE_ARGS: "true"
 
       - name: Create Index File
-        run: python scripts/create_index.py --servers_dir servers --index_output .out/servers.json
+        run: python .scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output .out/servers.json --no-include_inactive
 
-      - name: Upload to S3
+      - name: Upload to Cloudflare
+        env:
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
         run: |
-          aws s3 sync .out s3://$cdn_bucket --content-type "image/webp" --delete --cache-control "public, max-age=86400"
-          aws s3 cp .out/servers.json s3://$cdn_bucket/servers.json --content-type "application/json" --cache-control "public, max-age=86400"
+          aws s3 sync .out s3://servermappings-lunarclientcdn-com --content-type "image/webp" --delete --endpoint-url $R2_ENDPOINT
+          aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
 
-      - name: Purge cache
-        run: aws cloudfront create-invalidation --distribution-id $cdn_distribution --paths "/*"
+      - name: Purge Cloudflare cache
+        env:
+          CLOUDFLARE_PURGE_TOKEN: ${{ secrets.CLOUDFLARE_PURGE_TOKEN }}
+        run: |
+          curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
+            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'

@@ -5,7 +5,8 @@
     "store": "https://buy.mccentral.org/",
     "description": "One of the longest running servers which offers a variety of gamemodes!",
     "addresses": [
-        "mccentral.org"
+        "mccentral.org",
+        "mc-central.net"
     ],
     "primaryAddress": "mccentral.org",
     "minecraftVersions": [

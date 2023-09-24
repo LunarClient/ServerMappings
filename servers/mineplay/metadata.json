@@ -1,0 +1,35 @@
+{
+    "id": "mineplay",
+    "name": "Mineplay",
+    "website": "https://mineplay.pl/",
+    "store": "https://mineplay.pl/sklep",
+    "addresses": [
+        "mineplay.pl",
+        "ljaymc.pl"
+    ],
+    "primaryAddress": "mineplay.pl",
+    "primaryColor": "#f69908",
+    "secondaryColor": "#b3c5d1",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "youtube": "mateulusz",
+        "instagram": "mateulusz"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "unitmc",
+    "name": "UnitMC",
+    "store": "https://store.unitmc.org/",
+    "addresses": [
+        "unitmc.org"
+    ],
+    "primaryAddress": "unitmc.org",
+    "primaryColor": "#b91a17",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "discord.gg/unit",
+        "youtube": "UnitMC"
+    }
+}

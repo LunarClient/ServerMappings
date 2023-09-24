@@ -1,11 +1,12 @@
 {
     "id": "pvpcraftcz",
-    "name": "PvPCraft.cz",
+    "name": "PvPCraft Network",
     "website": "https://pvpcraft.cz/",
     "store": "https://obchod.pvpcraft.cz/",
     "addresses": [
         "pvpcraft.cz"
     ],
+    "primaryAddress": "play.pvpcraft.cz",
     "primaryColor": "#ecd212",
     "secondaryColor": "#909090",
     "gameTypes": [

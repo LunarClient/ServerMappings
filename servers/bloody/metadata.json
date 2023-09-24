@@ -1,0 +1,31 @@
+{
+    "id": "bloody",
+    "name": "Bloody Network",
+    "website": "https://universal-dirigible-6e3.notion.site/Guide-Page-cbd7d089fd974470befe31d9eeba0d20",
+    "store": "https://skhcs.com/bldsv",
+    "addresses": [
+        "bldsv.kr",
+        "global.bldsv.kr"
+    ],
+    "primaryAddress": "bldsv.kr",
+    "primaryColor": "#740a2c",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.12.2"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/bldsv"
+    }
+}

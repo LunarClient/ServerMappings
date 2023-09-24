@@ -1,0 +1,36 @@
+{
+    "id": "fadecloud",
+    "name": "FadeCloud",
+    "website": "https://fadecloud.com/",
+    "store": "https://store.fadecloud.com/",
+    "addresses": [
+        "play.fadecloud.com",
+        "fadecloud.com"
+    ],
+    "primaryAddress": "play.fadecloud.com",
+    "primaryColor": "#56b8c7",
+    "secondaryColor": "#835189",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "FadeCloudNW",
+        "discord": "https://discord.com/invite/fadecloud"
+    }
+}

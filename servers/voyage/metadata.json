@@ -1,0 +1,37 @@
+{
+    "id": "voyage",
+    "name": "Voyage Network",
+    "description": "The ultimate Minecraft experience",
+    "addresses": [
+        "voyagemc.com"
+    ],
+    "primaryAddress": "voyagemc.com",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+		"Hardcore",
+		"PvE"
+    ],
+	"website": "https://voyagemc.com",
+    "store": "https://store.voyagemc.com",
+	"socials": {
+        "twitter": "VoyageNetwork",
+        "discord": "https://discord.com/invite/YQPQekATBw"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "minemalia",
+    "name": "Minemalia",
+    "website": "https://minemalia.org/",
+    "store": "https://store.minemalia.com/",
+    "addresses": [
+        "play.minemalia.com"
+    ],
+    "primaryAddress": "play.minemalia.com",
+    "primaryColor": "#faae18",
+    "secondaryColor": "#2ac1cc",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "minemalia_mc",
+        "discord": "https://discord.com/invite/Z34d9xF",
+        "instagram": "minemalia_mc",
+        "tiktok": "minemalia_mc"
+    }
+}

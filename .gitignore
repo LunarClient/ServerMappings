@@ -3,3 +3,4 @@
 
 # JetBrains configuration files
 .idea/*
+__pycache__
