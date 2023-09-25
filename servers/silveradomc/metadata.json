@@ -32,8 +32,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival",
-        "Roleplay"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/invite/nVf5kJXJwy",
