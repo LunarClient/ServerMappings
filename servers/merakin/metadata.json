@@ -1,21 +1,22 @@
 {
     "id": "merakin",
-    "name": "Merakin",
-    "website": "https://www.merakinetwork.it/",
-    "store": "https://store.merakinetwork.it/",
+    "name": "MerakiNetwork",
+    "website": "https://www.merakinetwork.eu/",
+    "store": "https://store.merakinetwork.eu/",
     "addresses": [
-        "merakinetwork.it"
+        "play.merakinetwork.eu",
+        "merakinetwork.eu"
     ],
-    "primaryAddress": "mc.merakinetwork.it",
-    "primaryColor": "#f8c051",
-    "secondaryColor": "#27ced9",
+    "primaryAddress": "mc.merakinetwork.eu",
+    "primaryColor": "#ef9d12",
+    "secondaryColor": "#fffd06",
     "minecraftVersions": [
-        "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.16.5",
+    "primaryMinecraftVersion": "1.17.1",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -25,7 +26,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/DSvaXupmRR",
+        "discord": "https://discord.gg/XVhXKgHhd8",
         "telegram": "MerakiNetwork"
     }
 }

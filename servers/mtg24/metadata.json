@@ -1,0 +1,29 @@
+{
+    "id": "mtg24",
+    "name": "MTG24",
+    "website": "https://www.mtg24.it",
+    "store": "https://store.mtg24.it/",
+    "addresses": [
+        "eventi.mtg24.it",
+        "event.mtg24.it"
+    ],
+    "primaryAddress": "mtg24.it",
+    "primaryColor": "#89fc00",
+    "secondaryColor": "#b7ffbc",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/CTSFcvbc83",
+        "telegram": "MTG24"
+    }
+}
