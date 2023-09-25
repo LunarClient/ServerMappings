@@ -1,17 +1,28 @@
 {
-    "id": "sdfmc",
-    "name": "SDF MC",
-    "addresses": [
-        "mc.sdf.org"
-    ],
-    "primaryAddress": "mc.sdf.org",
-    "primaryColor": "#000000",
-    "secondaryColor": "#808080",
-    "minecraftVersions": [
-        "1.20.1"
-    ],
-    "primaryMinecraftVersion": "1.20.1"
-    "gameTypes": [
+	"id": "sdfmc",
+	"name": "SDF MC",
+	"description": "SDF Minecraft Server.",
+	"addresses": [
+		"mc.sdf.org"
+	],
+	"primaryAddress": "mc.sdf.org",
+	"minecraftVersions": [
+		"1.20.1"
+	],
+	"primaryMinecraftVersion": "1.20.1",
+	"primaryColor": "#000000",
+	"secondaryColor": "#808080",
+	"primaryLanguage": "en",
+	"languages": [
+		"en"
+	],
+	"primaryRegion": "NA",
+	"regions": [
+		"NA"
+	],
+	"gameTypes": [
         "Survival"
-    ]
+	],
+	"website": "https://minecraft.sdf.org/"
+	}
 }
