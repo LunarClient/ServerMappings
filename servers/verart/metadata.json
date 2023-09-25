@@ -20,7 +20,7 @@
     "regions": [
         "NA",
         "EU",
-		"AS"
+	"AS"
     ],
     "gameTypes": [
         "PvP",
@@ -29,11 +29,11 @@
     ],
     "website": "https://verart.org",
     "socials": {
-        "discord": "https://discord.verart.org",
-		"twitter": "https://twitter.com/verartteam",
-		"youtube": "https://youtube.com/@verartteam",
-		"instagram": "https://instagram.com/verartteam",
-		"tiktok": "https://tiktok.com/@verartteam"
+        "discord": "https://discord.com/invite/GsWQsTMPjq",
+	"twitter": "verartteam",
+	"youtube": "verartteam",
+	"instagram": "verartteam",
+	"tiktok": "verartteam"
     },
     "crossplay": false
 }
