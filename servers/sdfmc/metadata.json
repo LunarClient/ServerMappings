@@ -4,6 +4,14 @@
     "addresses": [
         "mc.sdf.org"
     ],
+    "primaryAddress": "mc.sdf.org",
     "primaryColor": "#000000",
-    "secondaryColor": "#808080"
+    "secondaryColor": "#808080",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1"
+    "gameTypes": [
+        "Survival"
+    ]
 }
