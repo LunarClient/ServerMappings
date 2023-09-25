@@ -1,0 +1,9 @@
+{
+    "id": "sdfmc",
+    "name": "SDF MC",
+    "addresses": [
+        "mc.sdf.org"
+    ],
+    "primaryColor": "#000000",
+    "secondaryColor": "#808080"
+}
