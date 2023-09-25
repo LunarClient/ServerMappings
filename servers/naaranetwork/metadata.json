@@ -3,10 +3,9 @@
 	"name": "NaaraNetwork",
 	"description": "Serveur Mini-Jeux Compétitif & Fun !",
 	"addresses": [
-		"naaranetwork.fr",
-		"play.naaranetwork.fr"
+		"naaranetwork.fr"
 	],
-	"primaryAddress": "naaranetwork.fr",
+	"primaryAddress": "play.naaranetwork.fr",
 	"minecraftVersions": [
 		"1.8.*"
 	],
@@ -28,8 +27,8 @@
 	"website": "https://naaranetwork.fr/",
 	"store": "https://naaranetwork.fr/shop",
 	"socials": {
-		"twitter": "https://twitter.com/NaaraNetwork",
-		"tiktok": "https://www.tiktok.com/@naaranetwork",
+		"twitter": "NaaraNetwork",
+		"tiktok": "naaranetwork",
 		"discord": "https://discord.gg/NaaraNetwork"
 	}
 }
