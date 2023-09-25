@@ -1,7 +1,7 @@
 {
     "id": "mundiland",
     "name": "mundiland network",
-    "website": "",
+    "website": "https://mundiland.net/",
     "store": "https://tienda.mundiland.net/",
     "addresses": [
         "mundiland.net"
@@ -26,9 +26,6 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
-        "Adventure",
-        "Parkour",
         "Open World"
     ],
     "socials": {
