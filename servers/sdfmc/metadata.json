@@ -3,7 +3,7 @@
 	"name": "SDF MC",
 	"description": "SDF Minecraft Server.",
 	"addresses": [
-		"mc.sdf.org"
+		"sdf.org"
 	],
 	"primaryAddress": "mc.sdf.org",
 	"minecraftVersions": [
