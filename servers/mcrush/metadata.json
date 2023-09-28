@@ -1,0 +1,35 @@
+{
+    "id": "mcrush",
+    "name": "MCRush.pl",
+    "description": "The only one innovative network",
+    "addresses": [
+        "mcrush.pl"
+    ],
+    "primaryAddress": "mcrush.pl",
+    "minecraftVersions": [
+        "1.16.*",
+	"1.17.*",
+	"1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://mcrush.pl",
+    "store": "https://mcrush.pl/shop",
+    "socials": {
+        "discord": "https://dc.mcrush.pl"
+    },
+    "crossplay": false
+}
