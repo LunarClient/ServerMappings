@@ -25,13 +25,12 @@
     "regions": [
         "NA",
         "EU",
-        "IN"
+        "AS"
     ],
     "gameTypes": [
-        "SMP",
         "Survival",
-        "Gens",
-        "EarthSMP"
+        "Skyblock",
+        "Minigames"
     ],
     "socials": {
         "twitter": "FadeRealms",
