@@ -1,6 +1,8 @@
 {
     "id": "mcrush",
     "name": "MCRush.pl",
+    "website": "https://mcrush.pl",
+    "store": "https://mcrush.pl/shop",
     "description": "The only one innovative network",
     "addresses": [
         "mcrush.pl"
@@ -26,10 +28,8 @@
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://mcrush.pl",
-    "store": "https://mcrush.pl/shop",
     "socials": {
-        "discord": "https://dc.mcrush.pl"
+        "discord": "https://discord.com/invite/Tf5aZ2Gujs"
     },
     "crossplay": false
 }
