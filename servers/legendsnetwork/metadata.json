@@ -9,7 +9,7 @@
     "primaryColor": "#ff00ff",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
-        "1.8.9"
+        "1.8.9",
         "1.7.10"
     ],
     "primaryMinecraftVersion": "1.8.9",
