@@ -22,5 +22,10 @@
         "Minigames",
         "PvP",
         "PvE"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.maxicraft.net",
+        "youtube": "https://www.youtube.com/@maxicraftmc",
+        "tiktok": "https://www.tiktok.com/@play.maxicraft.net"
+    }
 }
