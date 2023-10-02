@@ -1,0 +1,34 @@
+{
+    "id": "anteikunetwork",
+    "name": "Anteiku",
+    "website": "https://www.anteiku.net/",
+    "store": "https://store.anteiku.net/",
+    "description": "Cool PvP Server",
+    "addresses": [
+        "anteiku.net"
+    ],
+    "primaryAddress": "anteiku.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#55FF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/E3mApnW",
+        "twitter": "AnteikuNetwork",
+        "youtube": "https://www.youtube.com/channel/UCv-DCyFZ9Db3rQc_94IdOzQ"
+    }
+}
