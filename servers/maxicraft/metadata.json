@@ -16,7 +16,8 @@
         "en"
     ],
     "gameTypes": [
-        "Chunk Defence",
-        "HexHunt"
+        "Minigames",
+        "PvP",
+        "PvE"
     ]
 }
