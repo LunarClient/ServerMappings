@@ -1,0 +1,22 @@
+{
+    "id": "maxicraft",
+    "name": "Maxicraft",
+    "description": "Maxicraft is a unique custom minigames server to play with your friends.",
+    "primaryAddress": "play.maxicraft.net",
+    "primaryColor": "#eb5454",
+    "secondaryColor": "#ff8c00",
+    "primaryMinecraftVersion": "1.20.1",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "crossplay": false,
+    "primaryRegion": "OC",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Chunk Defence",
+        "HexHunt"
+    ]
+}
