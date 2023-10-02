@@ -3,6 +3,9 @@
     "name": "Maxicraft",
     "description": "Maxicraft is a unique custom minigames server to play with your friends.",
     "primaryAddress": "play.maxicraft.net",
+    "addresses": [
+        "maxicraft.net"
+    ],
     "primaryColor": "#eb5454",
     "secondaryColor": "#ff8c00",
     "primaryMinecraftVersion": "1.20.1",
