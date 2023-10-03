@@ -3,9 +3,7 @@
     "name": "Ilarity",
     "description": "Ilarity is one of the best PvP servers and the best bedwars server from Italy.",
     "addresses": [
-        "ilarity.net",
-        "play.ilarity.net",
-        "mc.ilarity.net"
+        "ilarity.net"
     ],
     "primaryAddress": "play.ilarity.net",
     "minecraftVersions": [
