@@ -14,6 +14,9 @@
     ],
     "crossplay": false,
     "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -24,8 +27,8 @@
         "PvE"
     ],
     "socials": {
-        "discord": "https://discord.maxicraft.net",
-        "youtube": "https://www.youtube.com/@maxicraftmc",
-        "tiktok": "https://www.tiktok.com/@play.maxicraft.net"
+        "discord": "https://discord.gg/XneC58n6u3",
+        "youtube": "maxicraftmc",
+        "tiktok": "play.maxicraft.net"
     }
 }
