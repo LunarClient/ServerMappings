@@ -1,0 +1,43 @@
+{
+    "id": "ayormc",
+    "name": "AyorMC",
+    "website": "https://ayormc.net/",
+    "store": "https://store.ayormc.net/",
+    "description": "AyorMC is an Asian Minecraft server with players from accross the globe.",
+    "addresses": [
+        "ayormc.net",
+        "ayormc.xyz"
+    ],
+    "primaryAddress": "mc.ayormc.net",
+    "primaryColor": "#ff9900",
+    "secondaryColor": "#6600ff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryLanguage": "en",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "languages": [
+        "en"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/p4HcXRfM4S",
+        "youtube": "@ayorminecraft"
+    }
+}
