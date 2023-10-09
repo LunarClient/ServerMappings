@@ -10,7 +10,7 @@
     "minecraftVersions": [
         "1.20.*",
         "1.19.*",
-        "1.18.*",
+        "1.18.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#DD5353",
