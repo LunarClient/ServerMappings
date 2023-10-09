@@ -7,6 +7,12 @@
         "hcgames.org"
     ],
     "primaryAddress": "hcgames.org",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+    ],
+    "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#DD5353",
     "secondaryColor": "#FFFFFF",
     "gameTypes": [
