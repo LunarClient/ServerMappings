@@ -1,0 +1,25 @@
+{
+    "id": "Soltix",
+    "name": "soltix.rip",
+    "store": "https://store.soltix.rip/",
+    "addresses": [
+        "soltix.rip"
+    ],
+    "primaryAddress": "soltix.rip",
+    "primaryColor": "#eeeeef",
+    "secondaryColor": "#23346c",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "soltixrip",
+        "discord": "https://discord.gg/BddW2CYg7s"
+    }
+}
