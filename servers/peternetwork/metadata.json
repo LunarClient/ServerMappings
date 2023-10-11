@@ -3,7 +3,7 @@
     "name": "PeterNetwork",
     "website": "https://www.tvpeter.it/",
     "store": "https://store.tvpeter.it/",
-    "description": "PeterNetwork is a Server born in 2021 known for its VanillaPlus which has always fascinated players with its mechanics, the server is constantly evolving to satisfy every player need. Plus Offers Access to Players from both Java and Bedrock Editions, Play one of our two Amazing Modes. So what are you waiting for? Join and Have Fun with Your Friends!",
+    "description": "PeterNetwork is a Server known for its VanillaPlus. Join and Have Fun with Your Friends!",
     "addresses": [
         "peternetwork.it",
         "mc.tvpeter.it"
@@ -29,8 +29,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Minigames",
-        "Mcmmo"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.tvpeter.it",
