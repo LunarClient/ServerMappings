@@ -1,0 +1,38 @@
+{
+    "id": "sakurapvp",
+    "name": "SakuraPvP Network",
+    "store": "https://store.sakurapvp.club",
+    "addresses": [
+        "sakurapvp.club",
+        "dragonblock.es"
+    ],
+    "primaryAddress": "sakurapvp.club",
+    "primaryColor": "#ff01f0",
+    "secondaryColor": "#c101ff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Prison",
+        "PvP",
+        "Minigames",
+    ],
+    "socials": {
+        "twitter": "SakuraPvPNET",
+        "discord": "https://discord.gg/V5EdJwJQ3z",
+        "youtube": "SakuraPvPNET"
+    }
+}
