@@ -2,9 +2,6 @@
     "id": "xdx3",
     "name": "xDx3",
     "description": "The Ultimate Survival Experience",
-    "addresses": [
-        "mc.xdx3.us"
-    ],
     "primaryAddress": "mc.xdx3.us",
     "minecraftVersions": [
         "1.18.*",
