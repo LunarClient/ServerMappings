@@ -2,6 +2,9 @@
     "id": "xdx3",
     "name": "xDx3",
     "description": "The Ultimate Survival Experience",
+    "addresses": [
+        "mc.xdx3.us"
+    ],
     "primaryAddress": "mc.xdx3.us",
     "minecraftVersions": [
         "1.18.*",
@@ -27,7 +30,6 @@
         "PvP"
         "PvE"
     ],
-    "website": "https://store.xdx3.us/",
     "store": "https://store.xdx3.us/",
     "socials": {
         "discord": "https://discord.gg/rTWcFzBc8P"
