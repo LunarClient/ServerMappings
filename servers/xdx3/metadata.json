@@ -16,7 +16,8 @@
     "secondaryColor": "#aa00aa",
     "primaryLanguage": "en",
     "languages": [
-        "en"
+        "en",
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -25,8 +26,8 @@
         "SA"
     ],
     "gameTypes": [
-        "Survival"
-        "Economy"
+        "Survival",
+        "Economy",
         "PvP"
     ],
     "store": "https://store.xdx3.us/",
