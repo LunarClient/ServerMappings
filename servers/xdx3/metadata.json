@@ -1,0 +1,39 @@
+{
+    "id": "xdx3",
+    "name": "xDx3",
+    "description": "The Ultimate Survival Experience",
+    "addresses": [
+        "mc.xdx3.us"
+    ],
+    "primaryAddress": "mc.xdx3.us",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#ff55ff",
+    "secondaryColor": "#aa00aa",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+        "Economy"
+        "PvP"
+        "PvE"
+    ],
+    "website": "https://store.xdx3.us/",
+    "store": "https://store.xdx3.us/",
+    "socials": {
+        "discord": "https://discord.gg/rTWcFzBc8P"
+    },
+    "crossplay": false
+}
