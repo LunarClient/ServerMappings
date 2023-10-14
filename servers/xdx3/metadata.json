@@ -27,7 +27,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "Economy",
+        "PvE",
         "PvP"
     ],
     "store": "https://store.xdx3.us/",
