@@ -1,0 +1,43 @@
+{
+    "id": "demonsmc",
+    "name": "DemonsMC",
+    "store": "https://store.demonsmc.it/",
+    "description": "DemonsMC is a competitive pvp server where players can play with gangs and fight eachother",
+    "addresses": [
+        "play.demonsmc.it"
+    ],
+    "primaryAddress": "play.demonsmc.it",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#0a0a0a",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/5v9fWH9ZBC",
+        "telegram": "DemonsMCNetwork"
+    }
+}
