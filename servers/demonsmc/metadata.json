@@ -2,20 +2,14 @@
     "id": "demonsmc",
     "name": "DemonsMC",
     "store": "https://store.demonsmc.it/",
-    "description": "DemonsMC is a competitive pvp server where players can play with gangs and fight eachother",
+    "description": "Competitive pvp server",
     "addresses": [
         "play.demonsmc.it"
     ],
     "primaryAddress": "play.demonsmc.it",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
