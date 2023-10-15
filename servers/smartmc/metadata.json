@@ -1,0 +1,37 @@
+{
+    "id": "smartmc",
+    "name": "SmartMC Network",
+    "description": "Hosteamos diversión y modalidades únicas",
+    "addresses": [
+        "smartmc.us"
+    ],
+    "primaryAddress": "play.smartmc.us",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.smartmc.us/",
+    "store": "https://tienda.smartmc.us/",
+    "primaryColor": "#00bfff",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "SmartMC_Net",
+        "discord": "https://discord.smartmc.us",
+        "youtube": "SmartMC_Net"
+    }
+}
