@@ -4,7 +4,7 @@
     "store": "https://store.demonsmc.it/",
     "description": "Competitive pvp server",
     "addresses": [
-        "play.demonsmc.it"
+        "demonsmc.it"
     ],
     "primaryAddress": "play.demonsmc.it",
     "minecraftVersions": [
@@ -30,6 +30,7 @@
     "gameTypes": [
         "PvP"
     ],
+	"crossplay": "false",
     "socials": {
         "discord": "https://discord.com/invite/5v9fWH9ZBC",
         "telegram": "DemonsMCNetwork"
