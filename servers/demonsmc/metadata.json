@@ -30,6 +30,7 @@
     "gameTypes": [
         "PvP"
     ],
+	"crossplay": false,
     "socials": {
         "discord": "https://discord.com/invite/5v9fWH9ZBC",
         "telegram": "DemonsMCNetwork"
