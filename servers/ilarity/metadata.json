@@ -1,39 +1,37 @@
 {
     "id": "ilarity",
-    "name": "Ilarity",
-    "description": "Ilarity is one of the best PvP servers and the best bedwars server in Italy.",
+    "name": "Ilarity Network",
+    "description": "Ilarity is one of the best PvP servers and the best bedwars server from Europe.",
     "addresses": [
-        "ilarity.it"
+        "ilarity.net",
+        "play.ilarity.net"
     ],
-    "primaryAddress": "play.ilarity.it",
+    "primaryAddress": "play.ilarity.net",
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#0edcac",
-    "secondaryColor": "#333333",
-    "primaryLanguage": "it",
+    "primaryColor": "#f800ff",
+    "secondaryColor": "#241f24",
+    "primaryLanguage": "en",
     "languages": [
-        "it",
         "en"
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames"
+        "PvP"
     ],
-    "website": "https://www.ilarity.it",
-    "store": "https://store.ilarity.it",
+    "website": "https://www.ilarity.net",
+    "store": "https://store.ilarity.net",
     "socials": {
         "telegram": "IlarityMC",
-        "discord": "https://discord.com/invite/zSrmRWyy2n"
-    }
+        "discord": "https://discord.gg/ilarity"
+    },
+    "crossplay": false
 }
