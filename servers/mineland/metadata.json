@@ -24,33 +24,29 @@
     "primaryMinecraftVersion": "1.12.2",
     "primaryRegion": "EU",
     "regions": [
-        "EU",
-        "RU",
-        "UA",
-        "DE",
-        "PK",
-        "IN"
+        "EU"
     ],
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "ru"
+        "de"
     ],
     "gameTypes": [
         "Skyblock",
         "Creative",
         "Prison",
-        "Skywars",
-        "Bedwars",
-        "Survival",
-        "Build Battle",
-        "Anarchy"
+        "PvP",
+        "Minigames",
+        "Parkour",
+        "Adventure",
+        "PvE"
     ],
     "socials": {
         "twitter": "MinelandMV",
         "discord": "https://discord.com/invite/JeKhkr22R7",
         "youtube": "UCs6bVvrEeugMunxyemmLOEg",
         "instagram": "minelandnetwork",
-        "reddit": "Mineland_MetaVerse"
+        "reddit": "Mineland_MetaVerse",
+        "tiktok": "minelandnetwork"
     }
 }
