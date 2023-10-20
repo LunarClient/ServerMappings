@@ -1,0 +1,17 @@
+{
+  "id": "uhcworld",
+  "name": "UHC World",
+  "website": "https://uhcworld.odoo.com/",
+  "addresses": [
+    "uhcworld.fr"
+  ],
+  "primaryColor": "#ccea6a",
+  "secondaryColor": "#41b1e1",
+  "gameTypes": [
+    "UHC"
+  ],
+  "socials": {
+    "twitter": "UHCWorld",
+    "discord": "https://discord.com/uhcworld"
+  }
+}
