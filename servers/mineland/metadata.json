@@ -5,10 +5,11 @@
     "store": "https://mineland.net/index.php/store",
     "addresses": [
         "batyacraft-join.online",
-        "mineland.me",
-        "join-ml.com"
+        "mineland.net",
+        "mineland.pro",
+        "add-ml.online"
     ],
-    "primaryAddress": "mc.batyacraft-join.online",
+    "primaryAddress": "mineland.net",
     "primaryColor": "#fb403f",
     "secondaryColor": "#e1e6e7",
     "minecraftVersions": [
@@ -20,19 +21,30 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.12.2",
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
+        "RU",
+        "UA",
+        "DE",
+        "PK",
+        "IN"
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en"
+        "en",
+        "ru"
     ],
     "gameTypes": [
         "Skyblock",
         "Creative",
-        "Prison"
+        "Prison",
+        "Skywars",
+        "Bedwars",
+        "Survival",
+        "Build Battle",
+        "Anarchy"
     ],
     "socials": {
         "twitter": "MinelandMV",
