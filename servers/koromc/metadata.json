@@ -3,8 +3,7 @@
     "name": "KoroMC",
     "description": "Serveur minecraft compétitif",
     "addresses": [
-        "craftok.fr",
-        "crafttok.fr"
+        "koromc.fr"
     ],
     "primaryAddress": "play.koromc.fr",
     "minecraftVersions": [
