@@ -3,9 +3,10 @@
   "name": "UHC World",
   "website": "https://uhcworld.odoo.com/",
   "addresses": [
-    "uhcworld.fr"
+    "uhcworld.fr",
+    "mc.uhcworld.fr"
   ],
-  "primaryAddress": "uhcworld.fr",
+  "primaryAddress": "play.uhcworld.fr",
   "primaryColor": "#ccea6a",
   "secondaryColor": "#41b1e1",
   "gameTypes": [
