@@ -23,6 +23,9 @@
     "primaryColor": "#32f928",
     "secondaryColor": "#70ff45",
     "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
