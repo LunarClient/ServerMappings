@@ -21,7 +21,7 @@ We ask that this repository is only used to store mappings for *public* Minecraf
 
 If a server has closed down or has not been joinable for at least 3 months, we will add it to the `inactive.json`. This just flags our internal systems to not include the server in various place, but still retains all of the branding and other metadata you submit.
 
-If you believe your server has been incorrectly marked as inactive, please contact us in the [Lunar Client Developers Discord](https://discord.gg/ww4UhsPNwf) or [create an issue](https://github.com/LunarClient/ServerMappings/issues/new).
+If you believe your server has been incorrectly marked as inactive, please contact us in the [Lunar Client Developers Discord](https://discord.gg/3T9Atyb6pf) or [create an issue](https://github.com/LunarClient/ServerMappings/issues/new).
 
 ## Can I use this data for my project?
 
@@ -30,4 +30,4 @@ You are free to use this data for anything you wish. As long as it abides by [ou
 
 ## Any other questions?
 
-Please join our [Lunar Client Developers Discord](https://discord.gg/ww4UhsPNwf) for any additional questions.
+Please join our [Lunar Client Developers Discord](https://discord.gg/3T9Atyb6pf) for any additional questions.
