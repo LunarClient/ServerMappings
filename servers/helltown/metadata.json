@@ -10,7 +10,7 @@
     "secondaryColor": "#ff0000",
     "regions": ["NA", "SA", "EU"],
     "primaryRegion": "SA",
-    "gameTypes": ["PvP", "Survival", "BoxPVP"],
+    "gameTypes": ["PvP", "Survival"],
     "store": "https://store.helltown.es",
     "socials": {
         "discord": "https://discord.gg/helltown"
