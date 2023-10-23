@@ -1,1 +1,18 @@
-
+{
+    "id": "helltown",
+    "name": "HellTown",
+    "description": "El actual monopolio del Survival PVP 1.8",
+    "addresses": ["mc.helltown.es"],
+    "primaryAddress": "mc.helltown.es",
+    "minecraftVersions": ["1.8.*", "1.19.*"],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8c8c8c",
+    "secondaryColor": "#ff0000",
+    "regions": ["NA", "SA", "EU"],
+    "primaryRegion": "SA",
+    "gameTypes": ["PvP", "Survival", "BoxPVP"],
+    "store": "https://store.helltown.es",
+    "socials": {
+        "discord": "https://discord.gg/helltown"
+    }
+}
