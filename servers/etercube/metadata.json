@@ -3,7 +3,8 @@
     "name": "Etercube",
     "website": "https://etercube.fr",
     "addresses": [
-        "etercube.fr"
+        "etercube.fr",
+        "etercrash.fr"
     ],
     "primaryAddress": "mc.etercube.fr",
     "minecraftVersions": [
