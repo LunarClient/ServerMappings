@@ -1,0 +1,28 @@
+{
+    "id": "stargamess",
+    "name": "Star-Gamess",
+    "store": "https://star-gamess14.buycraft.net/",
+    "addresses": [
+        "stargamess.com"
+    ],
+    "primaryAddress": "stargamess.com",
+    "primaryColor": "0BE0F5",
+    "secondaryColor": "0BA0F5",
+    "minecraftVersions": [
+        "1.20.*",
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "SkyBlock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/star-gamess",
+    }
+}
