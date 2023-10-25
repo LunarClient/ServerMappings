@@ -9,7 +9,7 @@
     "primaryColor": "0BE0F5",
     "secondaryColor": "0BA0F5",
     "minecraftVersions": [
-        "1.20.*"
+        "1.20.1.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
     "crossplay": false,
@@ -20,7 +20,7 @@
     "gameTypes": [
         "Survival",
         "Creative",
-        "SkyBlock"
+        "MiniGames"
     ],
     "socials": {
         "discord": "https://discord.com/invite/star-gamess"
