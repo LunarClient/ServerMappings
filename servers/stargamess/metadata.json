@@ -6,8 +6,8 @@
         "stargamess.com"
     ],
     "primaryAddress": "stargamess.com",
-    "primaryColor": "0BE0F5",
-    "secondaryColor": "0BA0F5",
+    "primaryColor": "#0BE0F5",
+    "secondaryColor": "#0BA0F5",
     "minecraftVersions": [
         "1.20.*"
     ],
