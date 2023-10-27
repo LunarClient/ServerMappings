@@ -3,7 +3,6 @@
     "name": "SpaceMines",
     "description": "¡Una comunidad creada para brindar diversión!",
     "addresses": [
-        "play.spacemines.net",
         "spacemines.net"
     ],
     "primaryAddress": "play.spacemines.net",
