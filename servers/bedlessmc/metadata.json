@@ -1,0 +1,29 @@
+{
+    "id": "bedlessmc",
+    "name": "BedlessMC Network",
+    "store": "https://bedlessmc.com/store",
+    "description": "Competitive Minigames Network",
+    "addresses": [
+        "bedlessmc.com"
+    ],
+    "primaryAddress": "mc.bedlessmc.com",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+        "Skyblock"
+        "Minigames"        
+    ],
+    "discord": {
+        "twitter": "https://dsc.gg/bedlessmc"
+    }
+}
