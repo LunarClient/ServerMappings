@@ -3,7 +3,7 @@
   "name": "BedlessMC Network",
   "store": "https://bedlessmc.com/store",
   "addresses": [
-    "bedlessmc.com/store"
+    "mc.bedlessmc.com"
   ],
   "primaryAddress": "bedlessmc.com/store",
   "primaryColor": "#FF55FF",
