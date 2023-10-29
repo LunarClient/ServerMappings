@@ -2,7 +2,7 @@
     "id": "turtlemc",
     "name": "TurtleMC",
     "website": "https://turtlemc.pl",
-    "store": "https://turtlemc.pl/shop",
+    "store": "https://turtlemc.pl/modes",
     "addresses": [
         "turtlemc.pl"
     ],
@@ -29,6 +29,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/EZRMM5MGDY"
+        "discord": "https://discord.com/invite/ZNv4jMVTr2",
+        "tiktok": "turtlemc"
     }
 }
