@@ -22,8 +22,7 @@
     "gameTypes":[
         "PvP",
         "Survival",
-        "Skyblock",
-        "PvE"
+        "Skyblock"
     ],
     "socials":{
         "discord":"https://discord.auroranetwork.hu",
