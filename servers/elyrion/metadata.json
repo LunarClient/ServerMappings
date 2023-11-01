@@ -1,33 +1,33 @@
 {
-	"id": "elyion",
-	"name": "Elyrion",
-	"website": "https://elyrion.fr/",
-	"description", "Server Minecraft Mini-Jeux Français",
-	"adresses": [
-		"elyrion.fr"
-	],
-	"primaryAdress": "elyrion.fr",
-	"minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-	"primaryColor": "#00981E",
-	"secondaryColor", "#FFFFFF",
-	"primaryLanguage": "fr",
-	"languages": [
-		"fr"
-	],
-	"primaryRegion": "EU",
-	"regions"[
-		"EU"
-	],
-	"gameTypes": [
-		"PvP",
-		"Minigames"
-	]
+  "id": "elyion",
+  "name": "Elyrion",
+  "website": "https://elyrion.fr/",
+  "description": "Server Minecraft Mini-Jeux Français",
+  "adresses": [
+    "elyrion.fr"
+  ],
+  "primaryAdress": "elyrion.fr",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#00981E",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ]
 }
