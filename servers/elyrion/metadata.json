@@ -3,10 +3,10 @@
   "name": "Elyrion",
   "website": "https://elyrion.fr/",
   "description": "Server Minecraft Mini-Jeux Français",
-  "adresses": [
+  "addresses": [
     "elyrion.fr"
   ],
-  "primaryAdress": "elyrion.fr",
+  "primaryAddress": "elyrion.fr",
   "minecraftVersions": [
     "1.8.*",
     "1.12.*",
