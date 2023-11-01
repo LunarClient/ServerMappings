@@ -87,6 +87,7 @@
         },
         "socials": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "twitter": {
                     "type": "string"
