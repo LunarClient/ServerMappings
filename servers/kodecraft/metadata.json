@@ -1,0 +1,33 @@
+{
+    "id": "kodecraft",
+    "name": "KodeCraft",
+    "website": "https://www.kodecraft.net/",
+    "store": "https://store.kodecraft.net/",
+    "description": "Welcome to our exciting game world! If you are a fan of virtual adventures and want an unparalleled gaming experience, you are in the right place. Our network offers a wide range of custom modes that allow you to shape the game according to your wishes, testing your skills and creativity.If you are a lover of survival challenges, we have prepared a mode for you that will put you to the test, where you will have to survive in hostile environments and face new challenges at every step.But that’s not all! Our network is full of other options, such as special events, competitive tournaments and much more. Join us and discover a universe of gaming opportunities that will make you live unique emotions.Don’t wait any longer, join our network and start experiencing your customized virtual adventures. Your next epic challenge awaits you here, alongside a community of passionate players like you. We are ready to welcome you and share the fun, adrenaline and passion for gaming. Enter now and get ready for an adventure without limits",
+    "addresses": [
+        "play.kodecraft.net"
+    ],
+    "primaryAddress": "play.kodecraft.net",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#ae02ff",
+    "secondaryColor": "#f502ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.kodecraft.net",
+        "telegram": "KodeCraft"
+    }
+}
