@@ -1,34 +1,29 @@
 {
-    "id":"auroranetwork",
-    "name":"Aurora Network",
-    "description":"Join AuroraNetwork! Unique PvP, survival adventures, and more await you!",
-    "addresses":[
-        "auroranetwork.hu",
-        "auroramc.gg"
-    ],
-    "primaryAddress":"play.auroranetwork.hu",
-    "primaryColor":"#38BFD3",
-    "secondaryColor":"#BCB1FF",
-    "minecraftVersions":[
-        "1.18.*",
-        "1.19.*",
+    "id": "auroranetwork",
+    "name": "Aurora Network",
+    "description": "Join AuroraNetwork! Experience unique PvP, thrilling survival adventures, and much more!",
+    "addresses": ["auroranetwork.hu", "auroramc.gg"],
+    "primaryAddress": "play.auroranetwork.hu",
+    "primaryColor": "#38BFD3",
+    "secondaryColor": "#BCB1FF",
+    "minecraftVersions": [
+        "1.18.*", 
+        "1.19.*", 
         "1.20.*"
     ],
-    "primaryMinecraftVersion":"1.19.4",
-    "primaryRegion":"EU",
-    "regions":[
-        "EU"
-    ],
-    "gameTypes":[
-        "PvP",
-        "Survival",
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "gameTypes": [
+        "PvP", 
+        "Survival", 
         "Skyblock"
     ],
-    "socials":{
-        "discord":"https://discord.auroranetwork.hu",
-        "twitter":"AuroraNetwrk"
+    "socials": {
+        "discord": "https://discord.gg/FAwQc7D",
+        "twitter": "AuroraNetwrk"
     },
-    "website":"https://auroranetwork.hu",
-    "store":"https://auroranetwork.hu/stellar",
-    "crossplay":false
+    "website": "https://auroranetwork.hu",
+    "store": "https://auroranetwork.hu/stellar",
+    "crossplay": false
 }
