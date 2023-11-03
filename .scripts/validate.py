@@ -83,6 +83,9 @@ def check_metadata(args: argparse.Namespace) -> dict:
             with open(f"{args.servers_dir}/{server_id}/metadata.json") as server_file:
                 try:
                     server = json.load(server_file)
+                    if server['id'] != server_id:
+                        messages[server_id] = [f"The ID field in the metadata.json does not match the file name of {server_id}.json (got {server['id']})"]
+                        continue
                 except json.decoder.JSONDecodeError:
                     messages[server_id] = ["metadata.json is malformed, please ensure it is valid json."]
                     continue  # Don't attempt to verify broken json files.
