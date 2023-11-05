@@ -1,0 +1,47 @@
+{
+    "id": "mycraft",
+    "name": "MyCraft Network",
+    "description": "Tu servidor de confianza desde 2013",
+    "addresses": [
+        "mycraft.es"
+    ],
+    "primaryAddress": "server.mycraft.es",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Skyblock",
+        "BoxPvP",
+        "RPG",
+        "Dungeon",
+        "SkyWars",
+        "Kings",
+        "Survival",
+        "Custom",
+        "Roleplay"
+    ],
+    "website": "https://www.mycraft.es",
+    "store": "https://tienda.mycraft.es",
+    "primaryColor": "#67DA40",
+    "secondaryColor": "#fca800",
+    "socials": {
+        "twitter": "mycraftnetwork",
+        "discord": "https://mycraft.es/discord",
+        "youtube": "mycraftnetworktv",
+        "instagram": "mycraftservidor"
+    }
+}
