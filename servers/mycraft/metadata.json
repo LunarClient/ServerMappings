@@ -24,9 +24,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Skyblock",
-        "Survival",
-        "Roleplay"
+        "Survival"  
     ],
     "website": "https://www.mycraft.es",
     "store": "https://tienda.mycraft.es",
