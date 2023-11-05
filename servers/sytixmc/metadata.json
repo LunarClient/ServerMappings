@@ -1,0 +1,32 @@
+{
+  "id": "sytixmc",
+  "name": "Sytix Network",
+  "store": "https://store.sytix.cc/",
+  "description": "Sytix Network is a server that seeks to expand with new game modes!",
+  "addresses": [
+    "sytix.cc"
+  ],
+  "primaryAddress": "sytix.cc",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#009999",
+  "secondaryColor": "#00FFFF",
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Hardcore",
+    "Survival"
+  ],
+  "socials": {
+    "discord": "https://discord.sytix.cc/"
+  }
+}
