@@ -1,0 +1,36 @@
+{
+    "id": "funnymcraft",
+    "name": "FunnyMcraft",
+    "description": "CzechoSlovakian survival server",
+    "addresses": [
+        "funnymcraft.eu"
+    ],
+    "primaryAddress": "play.funnymcraft.eu",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#d8f218",
+    "secondaryColor": "#182af2",
+    "primaryLanguage": "cs",
+    "languages": [
+        "cs",
+        "sk"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "http://funnymcraft.eu",
+    "store": "http://vip.funnymcraft.eu",
+    "socials": {
+        "instagram": "funnymcraft.eu",
+        "discord": "https://discord.gg/85ZYQ7wQAf"
+    },
+    "crossplay": true
+}
