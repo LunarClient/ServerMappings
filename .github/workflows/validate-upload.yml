@@ -59,6 +59,7 @@ jobs:
           --metadata_schema metadata.schema.json \
           --inactive_file inactive.json \
           --inactive_schema inactive.schema.json \
+          --discord_logo_uploaded_file discord-logo-uploaded.json \
           --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
