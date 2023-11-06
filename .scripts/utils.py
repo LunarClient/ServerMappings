@@ -72,7 +72,7 @@ def get_all_servers(
             continue
         server["inactive"] = server["id"] in inactive
         server["enriched"] = is_enriched(server, server_id, servers_dir)
-        server["discord_logo_uploaded"] = server["id"] in discord_logo_uploaded
+        server["discordLogoUploaded"] = server["id"] in discord_logo_uploaded
 
         # Discard inactive servers if not including inactive (by default we do)
         if not include_inactive and server["inactive"]:
