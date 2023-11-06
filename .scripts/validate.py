@@ -78,7 +78,7 @@ def main():
 
             res.raise_for_status()
 
-        print("No errors happened. PR is ready for manual review.")
+        print("No errors occured. PR is ready for manual review.")
         sys.exit(0)
     else:
         # Remove previously added labels if there is a pull_id
@@ -347,10 +347,8 @@ def check_media(
         current_errors[server_id] += logo_errors
         current_errors[server_id] += banner_errors
 
-    print(
-        f"Sucessfully validated {len(servers)} server logos/backgrounds."
-        f"There were {len(current_errors)} errors found."
-    )
+    print(f"Sucessfully validated {len(servers)} server logos/backgrounds.")
+    print(current_errors)
     return current_errors
 
 
