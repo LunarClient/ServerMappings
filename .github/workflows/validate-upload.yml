@@ -58,6 +58,7 @@ jobs:
           --servers_dir servers \
           --metadata_schema metadata.schema.json \
           --inactive_file inactive.json \
+          --discord_logo_uploaded_file discord-logo-uploaded.json \
           --inactive_schema inactive.schema.json \
           --no-validate_inactive
         env:
@@ -110,6 +111,7 @@ jobs:
           python .scripts/create_index.py \
           --servers_dir servers \
           --inactive_file inactive.json \
+          --discord_logo_uploaded_file discord-logo-uploaded.json \
           --json_output .out/servers.json \
           --csv_output .out/servers.csv \
           --no-include_inactive
