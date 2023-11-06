@@ -12,7 +12,8 @@ import sys
 
 import jsonschema
 import requests
-from utils import get_all_servers, validate_background, validate_banner, validate_logo
+from utils import (get_all_servers, validate_background, validate_banner,
+                   validate_logo)
 
 FILE_WHITELIST = [
     ".pylintrc",
@@ -21,6 +22,7 @@ FILE_WHITELIST = [
     ".gitignore",
     "inactive.json",
     "inactive.schema.json",
+    "discord_logo_uploaded.json",
     "LICENSE",
     "metadata.example.json",
     "metadata.schema.json",
