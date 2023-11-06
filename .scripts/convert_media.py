@@ -26,6 +26,7 @@ def main():
     # General Args
     parser.add_argument("--servers_dir", required=use_args, type=str)
     parser.add_argument("--inactive_file", required=use_args, type=str)
+    parser.add_argument("--discord_logo_uploaded_file", required=use_args, type=str)
     parser.add_argument("--lossless", default=False, action="store_true")
     parser.add_argument("--changed_files", required=False, type=str)
     parser.add_argument("--dry_upload", default=False, action="store_true")
@@ -52,6 +53,7 @@ def main():
         )
 
         args.inactive_file = local + "/inactive.json"
+        args.discord_logo_uploaded_file = local + "/discord-logo-uploaded.json"
         args.servers_dir = local + "/servers"
 
         args.servers_logos_output = local + "/.out/servers_logos_output"
@@ -60,7 +62,7 @@ def main():
         args.lossless = False
 
     # Load server mappings JSON
-    servers = get_all_servers(args.servers_dir, args.inactive_file, False)
+    servers = get_all_servers(args.servers_dir, args.inactive_file, args.discord_logo_uploaded_file, False)
 
     if args.dry_upload:
         print(f"Dry run detected. Converting {len(servers)} server media...")
