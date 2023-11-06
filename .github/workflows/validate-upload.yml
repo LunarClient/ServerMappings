@@ -96,6 +96,7 @@ jobs:
           python .scripts/convert_media.py \
           --servers_dir servers \
           --inactive_file inactive.json \
+          --discord_logo_uploaded_file discord-logo-uploaded.json \
           --servers_logos_output .out/logos \
           --servers_logos_sizes 256 128 64 32 \
           --servers_backgrounds_output .out/backgrounds \
