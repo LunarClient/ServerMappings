@@ -58,7 +58,7 @@ def main():
                 "crossplay",
                 "enriched",
                 "inactive",
-                "discord_logo_uploaded",
+                "discordLogoUploaded",
             ],
         )
         writer.writeheader()
