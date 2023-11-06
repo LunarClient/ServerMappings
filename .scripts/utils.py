@@ -45,7 +45,7 @@ def get_all_servers(
     # Open discord-logo-uploaded.json
     discord_logo_uploaded: list[str] = []
     with open(discord_logo_uploaded_file, encoding="utf-8") as discord_logo_uploaded_f:
-        print(discord_logo_uploaded_file)
+        print(discord_logo_uploaded_file, include_inactive)
         print(discord_logo_uploaded_f.readlines())
         discord_logo_uploaded = json.load(discord_logo_uploaded_f)
 
