@@ -101,7 +101,7 @@ jobs:
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
-          --dry_run ${{ needs.changes.outputs.dry }}
+          --dry_upload ${{ needs.changes.outputs.dry }}
         env:
           USE_ARGS: "true"
 
