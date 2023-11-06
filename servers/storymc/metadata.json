@@ -2,7 +2,7 @@
     "id": "storymc",
     "name": "StoryMC",
     "addresses": [
-        "play.storymc.club"
+        "storymc.club"
     ],
     "primaryAddress": "play.storymc.club",
     "primaryColor": "#FFFF55",
@@ -18,6 +18,6 @@
     ],
     "socials": {
         "twitter": "StoryMCS",
-        "discord": "discord.storymc.club"
+        "discord": "https://discord.com/invite/NXVkRtxTy6"
     }
 }
