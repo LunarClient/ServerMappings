@@ -21,6 +21,7 @@ FILE_WHITELIST = [
     ".gitignore",
     "inactive.json",
     "inactive.schema.json",
+    "discord-logo-uploaded.json",
     "LICENSE",
     "metadata.example.json",
     "metadata.schema.json",
@@ -42,6 +43,7 @@ def main():
     parser.add_argument("--metadata_schema", required=use_args, type=str)
     parser.add_argument("--inactive_file", required=use_args, type=str)
     parser.add_argument("--inactive_schema", required=use_args, type=str)
+    parser.add_argument("--discord_logo_uploaded_file", required=use_args, type=str)
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
 
@@ -53,6 +55,7 @@ def main():
         )
         arguments.inactive_schema = local + "/inactive.schema.json"
         arguments.inactive_file = local + "/inactive.json"
+        arguments.discord_logo_uploaded_file = local + "/discord-logo-uploaded.json"
         arguments.metadata_schema = local + "/metadata.schema.json"
         arguments.servers_dir = local + "/servers"
         arguments.validate_inactive = False
@@ -304,7 +307,7 @@ def check_media(
 
     # Load server mappings JSON
     servers = get_all_servers(
-        args.servers_dir, args.inactive_file, args.validate_inactive
+        args.servers_dir, args.inactive_file, args.discord_logo_uploaded_file, args.validate_inactive
     )
 
     print(f"Validating {len(servers)} server media...")
