@@ -1,7 +1,7 @@
 {
     "id": "masuru",
     "name": "Masuru",
-    "description": "Masuru is a Minecraft server that is a part of the Lilia Network. https://discord.gg/lilia",
+    "description": "Masuru is a Minecraft server that is a part of the Lilia Network!",
     "primaryAddress": "play.masuru.in.th",
     "addresses": [
         "masuru.in.th",
@@ -24,8 +24,7 @@
         "en"
     ],
     "gameTypes": [
-        "survival",
-        "smp"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/lilia",
