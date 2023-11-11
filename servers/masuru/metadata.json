@@ -1,0 +1,37 @@
+{
+    "id": "masuru",
+    "name": "Masuru",
+    "description": "Masuru is a Minecraft server that is a part of the Lilia Network. https://discord.gg/lilia",
+    "primaryAddress": "play.masuru.in.th",
+    "addresses": [
+        "masuru.in.th",
+        "masuru.moe",
+        "masuru.live"
+    ],
+    "primaryColor": "#ff3ff9",
+    "secondaryColor": "#ff9ff3",
+    "primaryMinecraftVersion": "1.20.1",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "survival",
+        "smp"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/lilia",
+        "youtube": "https://www.youtube.com/channel/UCy9Kqxy7tJZGv4l2LX6xXVQ",
+        "instagram": "https://www.instagram.com/masuruproject/",
+        "facebook": "https://www.facebook.com/MASURU.PAGE/",
+        "twitter": "https://twitter.com/masuruproject"
+    }
+}
