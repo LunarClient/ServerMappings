@@ -14,7 +14,7 @@
     "minecraftVersions": [
         "1.20.*"
     ],
-    "crossplay": false,
+    "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
         "AS"

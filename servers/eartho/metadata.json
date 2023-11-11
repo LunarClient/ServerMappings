@@ -18,6 +18,7 @@
     "regions": [
         "AS"
     ],
+    "crossplay": true,
     "gameTypes": [
         "Survival"
     ],
