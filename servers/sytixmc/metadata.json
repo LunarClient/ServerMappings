@@ -1,7 +1,7 @@
 {
     "id": "sytixmc",
     "name": "Sytix Network",
-    "store": "https://store.sytix.cc/",
+    "store": "https://sytix.tebex.io/",
     "description": "Sytix Network is a server that seeks to expand with new game modes!",
     "addresses": [
         "sytix.cc"
@@ -26,6 +26,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.sytix.cc/"
+        "discord": "http://discord.sytix.cc/"
     }
 }
