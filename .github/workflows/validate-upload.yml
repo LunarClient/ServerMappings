@@ -68,7 +68,7 @@ jobs:
 
   upload-servers:
     name: Upload Servers
-    needs: validate-servers
+    needs: [validate-servers, changes]
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
 
