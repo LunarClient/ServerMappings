@@ -21,6 +21,9 @@
         "es-EN"
     ],
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames",
@@ -32,7 +35,7 @@
     "secondaryColor": "#fca800",
     "socials": {
         "twitter": "mycraftnetwork",
-        "discord": "https://mycraft.es/discord",
+        "discord": "https://discord.com/invite/mycraft-network-498336067578232832",
         "youtube": "mycraftnetworktv",
         "instagram": "mycraftservidor"
     }
