@@ -22,7 +22,9 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "SA",
+        "EU"
     ],
     "gameTypes": [
         "PvP",
