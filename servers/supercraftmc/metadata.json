@@ -28,11 +28,9 @@
         "it"
     ],
     "gameTypes": [
-        "Factions",
         "Minigames",
         "Prison",
-        "Skyblock",
-        "Creative"
+        "Skyblock"
     ],
     "socials": {
         "discord": "http://discord.supercraftmc.it"
