@@ -28,12 +28,10 @@
         "it"
     ],
     "gameTypes": [
-        "PvP",
         "Factions",
         "Minigames",
         "Prison",
         "Skyblock",
-        "Survival",
         "Creative"
     ],
     "socials": {
