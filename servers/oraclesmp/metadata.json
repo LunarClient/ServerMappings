@@ -1,0 +1,21 @@
+{
+    "id": "oraclesmp",
+    "name": "OracleSMP",
+    "website": "https://web.oraclesmp.org/",
+    "addresses": [
+        "oraclesmp.org"
+    ],
+
+    "primaryAddress": "oraclesmp.org",
+    "primaryColor": "#ECB920",
+    "secondaryColor": "#a1ced8",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "Roleplay"
+    ]
+}
