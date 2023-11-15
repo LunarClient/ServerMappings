@@ -9,7 +9,7 @@
     "primaryAddress": "oraclesmp.org",
     "primaryColor": "#ECB920",
     "secondaryColor": "#a1ced8",
-    "minecraftVersions": [
+    "primaryMinecraftVersion": [
         "1.20.*"
     ],
 
