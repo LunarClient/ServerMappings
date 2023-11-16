@@ -1,9 +1,9 @@
 {
     "id": "stargamess",
-    "name": "Star-Gamess",
+    "name": "Star-Gamess Server",
     "store": "https://star-gamess14.buycraft.net/",
     "addresses": [
-        "play.star-gamess.com"
+        "star-gamess.com"
     ],
     "primaryAddress": "play.star-gamess.com",
     "primaryColor": "#0BE0F5",
