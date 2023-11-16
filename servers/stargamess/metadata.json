@@ -5,7 +5,7 @@
     "addresses": [
         "play.star-gamess.com"
     ],
-    "primaryAddress": "star-gamess.com",
+    "primaryAddress": "play.star-gamess.com",
     "primaryColor": "#0BE0F5",
     "secondaryColor": "#0BA0F5",
     "minecraftVersions": [
