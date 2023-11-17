@@ -85,6 +85,24 @@
         "store": {
             "$ref": "#/definitions/WebAddress"
         },
+        "compliance": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "privacyPolicy": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "termsOfService": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "rules": {
+                    "$ref": "#/definitions/WebAddress"
+                }
+            }
+        },
+        "presentationVideo": {
+            "type": "string"
+        },
         "socials": {
             "type": "object",
             "additionalProperties": false,
