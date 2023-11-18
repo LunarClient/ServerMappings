@@ -1,47 +1,41 @@
 {
-    "id": "lunarnetwork",
-    "name": "Lunar Network",
-    "description": "Home of Competitive Minecraft PvP",
+    "id": "soltix",
+    "name": "Soltix Network",
+    "description": "HCF and PvP at it's very best",
     "addresses": [
-        "lunar.gg",
-        "lunargg.dev",
-        "mcteams.com"
+        "soltix.rip"
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "soltix.ri",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#aa0000",
+    "secondaryColor": "#ff5555",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+        "EU"
     ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.lunar.gg",
-    "store": "https://store.lunar.gg",
+    "website": "https://www.soltix.rip",
+    "store": "https://soltix.rip/shop",
     "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
+        "privacyPolicy": "https://www.soltix.rip/privacy/",
+        "termsOfService": "https://www.soltix.rip/terms/",
+        "rules": "https://www.soltix.rip/rules"
     },
-    "presentationVideo": "7EV4cPuJvXE",
+    "presentationVideo": "",
     "socials": {
-        "twitter": "LunarNetwork",
-        "telegram": "lunarnetwork",
-        "discord": "https://www.lunar.gg/discord"
+        "twitter": "soltixrip",
+        "telegram": "",
+        "discord": "https://discord.gg/soltix"
     },
     "crossplay": false
 }
