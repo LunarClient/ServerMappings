@@ -1,0 +1,28 @@
+{
+  "id": "megeramc",
+  "name": "MegeraMC Network",
+  "store": "https://megeramc.xyz/store",
+  "addresses": [
+    "megeramc.xyz"
+  ],
+  "primaryAddress": "mc.megeramc.xyz",
+  "primaryColor": "#FF55FF",
+  "secondaryColor": "#AA00AA",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.7.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Parkour"
+  ],
+  "socials": {
+    "discord": "https://discord.megeramc.xyz"
+  },
+  "crossplay": false
+}
