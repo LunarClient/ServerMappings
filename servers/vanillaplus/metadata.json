@@ -1,6 +1,6 @@
 {
     "id": "vanillaplus",
-    "name": "Vanilla Plus",
+    "name": "Vanilla+",
     "website": "https://www.vanillaplus.net/",
     "store": "https://store.vanillaplus.net/",
     "addresses": [
@@ -13,7 +13,7 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.20.1",
     "gameTypes": [
         "Survival"
     ],
