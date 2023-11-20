@@ -36,5 +36,11 @@
         "instagram": "mccentral_official",
         "tiktok": "mccentral_official",
         "facebook": "mccentral.official"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://hypixel.net/privacy",
+        "termsOfService": "https://hypixel.net/terms",
+        "rules": "https://www.holypvp.net/rules"
+    },
+    "presentationVideo": "bkWHyz1MmaQ"
 }

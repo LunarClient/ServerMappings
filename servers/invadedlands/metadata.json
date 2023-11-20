@@ -40,5 +40,11 @@
         "twitter": "invadedlands",
         "discord": "https://discord.com/invite/WrrPtqJ",
         "reddit": "InvadedLands"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://invadedlands.net/help/privacy-policy/",
+        "termsOfService": "https://invadedlands.net/help/terms/",
+        "rules": "https://invadedlands.net/threads/network-rules.48/"
+    },
+    "presentationVideo": "bkWHyz1MmaQ"
 }
