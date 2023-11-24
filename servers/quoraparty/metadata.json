@@ -3,7 +3,7 @@
     "name": "QuoraParty",
     "website": "https://www.quoraparty.it/",
     "store": "https://quoraparty.craftingstore.net/",
-    "description": "CoralMC is the on of the best kitpvp server in italy.",
+    "description": "QuoraParty is the on of the best kitpvp server in italy.",
     "addresses": [
         "quoraparty.it"
     ],
@@ -20,7 +20,7 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#780ED6",
-    "secondaryColor": "#FFFFF",
+    "secondaryColor": "#FFFFFF",
     "primaryLanguage": "it",
     "languages": [
         "it"
@@ -30,7 +30,6 @@
         "EU"
     ],
     "gameTypes": [
-        "KitPvP",
         "PvP"
     ],
     "socials": {
