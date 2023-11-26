@@ -25,10 +25,7 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "Factions",
-        "Survival",
-        "Adventure"
+        "PvP"
     ],
     "store": "https://store.faypvp.cc",
     "socials": {
