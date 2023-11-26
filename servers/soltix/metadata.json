@@ -5,7 +5,7 @@
     "addresses": [
         "soltix.rip"
     ],
-    "primaryAddress": "soltix.ri",
+    "primaryAddress": "soltix.rip",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -31,10 +31,8 @@
         "termsOfService": "https://www.soltix.rip/terms/",
         "rules": "https://www.soltix.rip/rules"
     },
-    "presentationVideo": "",
     "socials": {
         "twitter": "soltixrip",
-        "telegram": "",
         "discord": "https://discord.gg/soltix"
     },
     "crossplay": false
