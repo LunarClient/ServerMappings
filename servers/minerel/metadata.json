@@ -18,7 +18,7 @@
     "primaryMinecraftVersion": "1.20",
 	"primaryRegion": "EU",
 	"regions": [
-        "AS",
+        	"AS",
 		"EU"
     ],
 	"gameTypes": [
@@ -27,6 +27,6 @@
 		"PvE"
 	],
 	"socials": {
-		"discord": "discord.gg/minerel"
+		"discord": "https://discord.com/invite/minerel"
 	}
 }
