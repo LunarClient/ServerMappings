@@ -1,11 +1,0 @@
---2023-11-27 21:30:40--  https://cdn.discordapp.com/attachments/1135616537768767530/1178794202579091497/background.png?ex=657770a6
-Resolving cdn.discordapp.com (cdn.discordapp.com)... 162.159.129.233, 162.159.135.233, 162.159.130.233, ...
-Connecting to cdn.discordapp.com (cdn.discordapp.com)|162.159.129.233|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 3822688 (3.6M) [image/png]
-Saving to: ‘background.png?ex=657770a6’
-
-          backgroun   0%[                    ]       0  --.-KB/s               background.png?ex=6 100%[===================>]   3.65M  --.-KB/s    in 0.07s   
-
-2023-11-27 21:30:41 (54.5 MB/s) - ‘background.png?ex=657770a6’ saved [3822688/3822688]
-
