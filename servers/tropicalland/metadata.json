@@ -1,0 +1,26 @@
+{
+    "id": "tropicalland",
+    "name": "TropicalLand.eu",
+    "description": "You will find some interesting features and functions on our server that you will surely like!",
+    "addresses": [
+        "tropicalland.eu"
+    ],
+    "primaryAddress": "mc.tropicalland.eu",
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryColor": "#FFFF00",
+    "secondaryColor": "#FFFFFF",
+    "website": "https://tropicalland.eu",
+    "discord": "https://discord.tropicalland.eu"
+}
