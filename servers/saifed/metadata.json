@@ -1,0 +1,45 @@
+{
+  "id": "saifed",
+  "name": "Saifed Network",
+  "description": "Cool minigames & pvp server.",
+  "addresses": [
+    "saifed.net"
+  ],
+  "primaryAddress": "saifed.net",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#44a1e3",
+  "secondaryColor": "#07699e",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "primaryRegion": "en",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "website": "https://www.saifed.net",
+  "store": "https://store.saifed.net",
+  "compliance": {
+    "privacyPolicy": "https://www.saifed.net/privacy",
+    "termsOfService": "https://www.saifed.net/terms",
+    "rules": "https://www.saifed.net/rules"
+  },
+  "socials": {
+    "twitter": "SaifedGames",
+    "telegram": "SaifedNetwork",
+    "discord": "https://discord.saifed.net/"
+  }
+}
