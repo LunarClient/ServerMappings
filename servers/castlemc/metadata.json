@@ -1,0 +1,48 @@
+{
+    "id": "castlemc",
+    "name": "CastleMC Network",
+    "description": "",
+    "website": "",
+    "store": "https://store.servername.com/",
+    "addresses": [
+        "mc.castlemc.es"
+    ],
+    "primaryAddress": "mc.castlemc.es",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "SA",
+        "NA",
+        "AF",
+        "OC"
+    ],
+    "gameTypes": [
+        "Si"
+    ],
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "",
+        "discord": "",
+        "youtube": "",
+        "instagran": "",
+        "twitch": "",
+        "telegram": "",
+        "reddit": "",
+        "tiktok": "",
+        "facebook": ""
+    }
+}
