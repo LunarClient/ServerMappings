@@ -28,11 +28,11 @@
         "PvP",
         "Supervivencia"
     ],
-    "website": "https://store.gorium.net/",
-    "store": "https://store.gorium.net/",
-    "socials": {
-    "discord": "https://discord.com/invite/GeQuBB9M2E",
-    "youtube": "https://www.youtube.com/channel/UCJH3zxoGpZBmut0quxE244g",
-    "twitter": "https://twitter.com/goriumnetwork",
+    "socials": {    
+        "website": "https://store.gorium.net/",
+        "store": "https://store.gorium.net/",
+        "discord": "https://discord.com/invite/GeQuBB9M2E",
+        "youtube": "https://www.youtube.com/channel/UCJH3zxoGpZBmut0quxE244g",
+        "twitter": "https://twitter.com/goriumnetwork",
     }
 }    
