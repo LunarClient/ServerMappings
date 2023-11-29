@@ -1,7 +1,6 @@
 {
     "id": "gorium",
     "name": "Gorium Network",
-    "description": "Servidor PvP y Supervivencia",
     "addresses": [
         "gorium.net"
     ],
@@ -16,7 +15,7 @@
     "primaryMinecraftVersion": "1.16",
     "primaryColor": "#d93e18",
     "secondaryColor": "#636261",
-    "primaryLanguage": "ES",
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
     ],
@@ -26,7 +25,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Supervivencia"
+        "Survival"
     ],
     "socials": {    
         "website": "https://store.gorium.net/",
