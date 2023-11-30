@@ -6,7 +6,7 @@
   "addresses": [
     "edalia.fr"
   ],
-  "primaryAddress": "edalia.fr",
+  "primaryAddress": "mc.edalia.fr",
   "minecraftVersions": [
     "1.8.*",
     "1.12.*",
