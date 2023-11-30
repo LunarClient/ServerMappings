@@ -1,7 +1,7 @@
 {
     "id": "tropicalland",
     "name": "TropicalLand.eu",
-    "website": "https://tropicalland.eu"
+    "website": "https://tropicalland.eu",
     "description": "Pretty new czech server with Survival and other minigames in the future!",
     "addresses": [
         "tropicalland.eu"
@@ -24,4 +24,5 @@
     ],
     "socials": {    
         "discord": "https://discord.com/invite/tropicallandeu"
+    }
 }
