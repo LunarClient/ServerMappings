@@ -15,7 +15,9 @@ import requests
 from utils import get_all_servers, validate_background, validate_banner, validate_logo
 
 FILE_WHITELIST = [
+    ".DS_Store",
     ".pylintrc",
+    ".venv",
     ".git",
     ".github",
     ".gitignore",
@@ -248,6 +250,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
         # Validate!
         try:
             jsonschema.validate(instance=server, schema=metadata_schema)
+            print(f"Successfully validated {server_id}'s metadata.json file!")
         except jsonschema.ValidationError:
             if server_id not in messages:
                 messages[server_id] = []
@@ -307,7 +310,10 @@ def check_media(
 
     # Load server mappings JSON
     servers = get_all_servers(
-        args.servers_dir, args.inactive_file, args.discord_logo_uploaded_file, args.validate_inactive
+        args.servers_dir,
+        args.inactive_file,
+        args.discord_logo_uploaded_file,
+        args.validate_inactive,
     )
 
     print(f"Validating {len(servers)} server media...")
@@ -364,12 +370,19 @@ def validate_root(directory: str = "."):
     Args:
         directory (str): The directory to validate. Defaults to ".".
     """
-    if any(file not in FILE_WHITELIST for file in os.listdir(directory)):
-        post_comment(
-            {"Overall": ["A file is in the main directory but not in file whitelist"]}
-        )
-        print("A file is in the main directory but not in file whitelist")
-        sys.exit(1)
+    for file in os.listdir(directory):
+        if file not in FILE_WHITELIST:
+            post_comment(
+                {
+                    "Overall": [
+                        f"The file '{file}' is in the main directory but not in file whitelist"
+                    ]
+                }
+            )
+            print(
+                f"The file '{file}' is in the main directory but not in file whitelist"
+            )
+            sys.exit(1)
 
 
 if __name__ == "__main__":

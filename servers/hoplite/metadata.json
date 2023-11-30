@@ -31,5 +31,10 @@
         "twitter": "hoplitenetwork",
         "discord": "https://discord.com/invite/hoplitenetwork",
         "youtube": "UCX3dkuHYteQRdAUlhmu8qaQ"
+    },
+    "modpack": {
+        "id": "oVn5uNcU",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }

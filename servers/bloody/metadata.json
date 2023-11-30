@@ -4,10 +4,9 @@
     "website": "https://universal-dirigible-6e3.notion.site/Guide-Page-cbd7d089fd974470befe31d9eeba0d20",
     "store": "https://skhcs.com/bldsv",
     "addresses": [
-        "bldsv.kr",
-        "global.bldsv.kr"
+        "bldsv.kr"
     ],
-    "primaryAddress": "bldsv.kr",
+    "primaryAddress": "global.bldsv.kr",
     "primaryColor": "#740a2c",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
