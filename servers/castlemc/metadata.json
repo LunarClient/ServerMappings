@@ -1,11 +1,12 @@
 {
     "id": "castlemc",
     "name": "CastleMC Network",
-    "description": "",
-    "website": "",
-    "store": "https://store.servername.com/",
+    "description": "CastleMC is a Minecraft network created by the community for the community, innovating in its game modes for the enjoyment of all its users.",
+    "website": "https://sites.google.com/view/ravenmc/reglas",
+    "store": "https://castlemcnw.tebex.io/",
     "addresses": [
-        "mc.castlemc.es"
+        "castlemc.es",
+        "castlemc.live"
     ],
     "primaryAddress": "mc.castlemc.es",
     "minecraftVersions": [
@@ -26,23 +27,15 @@
         "EU",
         "SA",
         "NA",
-        "AF",
-        "OC"
+        "AF"
     ],
     "gameTypes": [
-        "BoxPvP"
+        "Minigames"
     ],
     "primaryColor": "#ffffff",
     "secondaryColor": "#ffffff",
     "socials": {
-        "twitter": "",
-        "discord": "",
-        "youtube": "",
-        "instagran": "",
-        "twitch": "",
-        "telegram": "",
-        "reddit": "",
-        "tiktok": "",
-        "facebook": ""
+        "twitter": "https://x.com/CastleMCNW",
+        "discord": "discord.me/castlemc"
     }
 }
