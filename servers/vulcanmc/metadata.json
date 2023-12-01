@@ -3,7 +3,7 @@
   "name": "VulcanMC Network",
   "description": "Server Minecraft 1.8.9 - 1.19.2",
   "addresses": [
-    "mc.vulcanmc.me"
+    "vulcanmc.me"
   ],
   "primaryAddress": "mc.vulcanmc.me",
   "minecraftVersions": [
