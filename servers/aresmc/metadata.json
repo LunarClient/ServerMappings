@@ -39,8 +39,9 @@
         "EU"
     ],
     "gameTypes": [
-        "Lifesteal",
-        "pvp",
-        "practice"
+        "PvP",
+        "Minigames", 
+        "Survival",
+        "Adventure"
     ]
 }
