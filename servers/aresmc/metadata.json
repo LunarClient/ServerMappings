@@ -41,7 +41,6 @@
     "gameTypes": [
         "PvP",
         "Minigames", 
-        "Survival",
-        "Adventure"
+        "Survival"
     ]
 }
