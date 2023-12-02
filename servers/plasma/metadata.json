@@ -25,9 +25,8 @@
         "EU"
     ],
     "gameTypes": [
-        "Lifesteal",
-        "KitPvP",
-        "SkyPvP"
+        "PVP",
+        "Survival"
     ],
     "socials": {
         "tiktok": "plasmamc",
