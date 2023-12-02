@@ -3,9 +3,9 @@
     "name": "CometMC",
     "store": "https://store.cometmc.net/",
     "addresses": [
-        "play.cometmc.net"
+        "cometmc.net"
     ],
-    "primaryAddress": "cometmc.net",
+    "primaryAddress": "play.cometmc.net",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"

@@ -4,7 +4,6 @@
     "description": "Servidor de habla hispana, servidor de PvE y PvP. ¡Únete hoy!",
     "addresses": [
         "zelicraft.com",
-        "dev.zelicraft.com",
         "potyh.es",
         "followersland.me"
     ],
@@ -30,7 +29,6 @@
     "socials": {
         "twitter": "zelicraft",
         "youtube": "zelikafb",
-        "discord": "https://discord.gg/zelicraft",
-        "discord2": "https://discord.gg/zelika"
+        "discord": "https://discord.gg/zelicraft"
     }
 }

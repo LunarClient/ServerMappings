@@ -1,0 +1,31 @@
+{
+    "id": "xlzpvp",
+    "name": "xlzPVP",
+    "store": "https://xlzpvp.tebex.io/",
+    "addresses": [
+        "xlzpvp.xyz"
+    ],
+    "primaryAddress": "xlzpvp.xyz",
+    "primaryColor": "#8b0000",
+    "secondaryColor": "#ff0000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "youtube": "xlzPVP",
+        "discord": "https://discord.gg/bwkph2KBkb"
+    }
+}

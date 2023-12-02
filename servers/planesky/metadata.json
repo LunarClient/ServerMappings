@@ -1,0 +1,35 @@
+{
+   "id":"planesky",
+   "name":"PlaneSky",
+   "website":"https://planesky.fr/",
+   "store":"https://planesky.fr/shop/",
+   "description":"Play the best original skyblock with our community !",
+   "addresses":[
+      "planesky.fr"
+   ],
+   "primaryAddress":"play.planesky.fr",
+   "primaryColor":"#30c92e",
+   "secondaryColor":"#372826",
+   "minecraftVersions":[
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+   ],
+   "primaryMinecraftVersion":"1.16.5",
+   "primaryLanguage":"fr",
+   "languages":[
+      "fr",
+      "en"
+   ],
+   "gameTypes":[
+      "Skyblock",
+      "PvP"
+   ],
+   "socials":{
+      "discord":"https://discord.gg/g5em9ndXSk",
+      "youtube":"PlaneSky",
+      "tiktok":"planesky_mc"
+   }
+}
