@@ -5,7 +5,7 @@
     "store": "https://store.lumia.lol",
     "description": "A place where you can build anything and meet other players.",
     "addresses": [
-        "play.lumia.lol"
+        "lumia.lol"
     ],
     "primaryAddress": "play.lumia.lol",
     "primaryColor": "#9d73eb",
