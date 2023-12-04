@@ -3,9 +3,7 @@
     "name": "AresMC",
     "store": "https://aresmc.eu/",
     "addresses": [
-        "aresmc.eu",
-        "play.aresmc.eu",
-        "mc.aresmc.eu"
+        "aresmc.eu"
     ],
     "primaryAddress": "play.aresmc.eu",
     "primaryColor": "#FF5555",
