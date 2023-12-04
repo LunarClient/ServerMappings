@@ -1,10 +1,9 @@
 {
     "id": "omegacraft",
     "name": "OmegaCraft",
-    "website": "https://tienda.omegacraft.cl/",
     "store": "https://tienda.omegacraft.cl/",
     "addresses": [
-        "mc.omegacraft.cl"
+        "omegacraft.cl"
     ],
     "primaryAddress": "mc.omegacraft.cl",
     "primaryColor": "#ffff00",
@@ -37,6 +36,6 @@
         "twitter": "OmegacraftCl",
         "discord": "https://discord.com/invite/X8AKyXV5ZB",
         "youtube": "@OmegaInformate",
-        "tiktok": "@omegacraft_cl"
+        "tiktok": "omegacraft_cl"
     }
 }
