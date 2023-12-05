@@ -2,35 +2,32 @@
     "id": "bearmc",
     "name": "BearMC Network",
     "website": "https://bearmc.cc/",
-    "store": "https://store.bearmc.cc",
-    "description": "BearMC is a network focused on PvP like Hardcore, HCF & Kitmap.",
+    "store": "https://store.bearmc.cc/",    
     "addresses": [
         "bearmc.cc"
     ],
     "primaryAddress": "bearmc.cc",
-    "primaryColor": "#FF8700",
-    "secondaryColor": "#FFF700",
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.*",
         "1.7.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
-    "primaryLanguage": "en",
+    "primaryColor": "#ff8700",
+    "secondaryColor": "#fff700",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "en"
-        "es"
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
     ],
     "gameTypes": [
-        "Minigames",
         "PvP",
         "Survival"
     ],
-    "socials": {
-        "discord": "https://discord.gg/RYmqRbREkY"
+    "socials": {    
+        "discord": "https://discord.gg/RYmqRbREkY",
+        "twitter": "https://twitter.com/bearmc_cc"
     }
-}
+}    
