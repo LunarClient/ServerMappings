@@ -25,5 +25,8 @@
     "socials": {
         "twitter": "AcademyMc_",
         "discord": "https://discord.gg/academymc"
+    },
+    "compliance": {
+        "termsOfService": "https://loja.academymc.com.br/termos.pdf"
     }
 }
