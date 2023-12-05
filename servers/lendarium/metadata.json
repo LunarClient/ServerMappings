@@ -1,0 +1,34 @@
+{
+    "id": "lendarium",
+    "name": "Lendarium MC",
+    "description": "",
+    "addresses": [
+        "jogar.lendarium.net"
+    ],
+    "primaryAddress": "jogar.lendarium.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "website": "https://lendarium.net",
+    "store": "https://lendarium.net",
+    "socials": {
+        "discord": "https://discord.gg/lendarium"
+    },
+    "crossplay": false
+}
