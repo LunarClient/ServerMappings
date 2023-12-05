@@ -1,0 +1,30 @@
+{
+  "id": "bearmc",
+  "name": "BearMC Network",
+  "store": "https://store.bearmc.cc",
+  "addresses": [
+    "bearmc.cc"
+    "mc.bearmc.cc"
+  ],
+  "primaryAddress": "bearmc.cc",
+  "primaryColor": "#FF8700",
+  "secondaryColor": "#FFF700",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.7.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF"
+    "Factions"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/RYmqRbREkY"
+  },
+  "crossplay": false
+}
