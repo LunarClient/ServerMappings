@@ -1,0 +1,39 @@
+{
+    "id": "silentmc",
+    "name": "SilentMC",
+    "website": "https://www.silentmc.net/",
+    "store": "https://store.silentmc.net/",
+    "addresses": [
+        "silentmc.net"
+    ],
+    "primaryAddress": "silentmc.net",
+    "primaryColor": "#8e08a9",
+    "secondaryColor": "#375dd3",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+	"1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+	"Parkour",
+	"Creative",
+	"One Block",
+	"Gens Tycoon",
+	"Prison",
+	"SkyBlock"
+    ],
+    "socials": {
+	"discord": "https://discord.gg/silentmc",
+        "twitter": "SilentMCNetwork"
+    }
+}
