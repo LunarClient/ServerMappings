@@ -6,22 +6,22 @@
     "addresses": [
         "azarath.cc"
     ],
-    "socials": {
-        "twitter": "AzarathCC"
-    },
     "primaryAddress": "azarath.cc",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#FF55FF",
-    "secondaryColor": "#AA00AA",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
         "PvP"
-    ]
+    ],
+    "socials": {
+        "twitter": "AzarathCC"
+    }
 }

@@ -1,0 +1,30 @@
+{
+    "id": "minevy",
+    "name": "Minevy Network",
+    "store": "https://tienda.minevy.xyz/",
+    "addresses": [
+        "minevy.xyz"
+    ],
+    "primaryAddress": "play.minevy.xyz",
+    "primaryColor": "#ffcf00",
+    "secondaryColor": "#c6c7c5",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "http://discord.gg/minevy"
+    }
+}

@@ -1,4 +1,5 @@
 .out
+.venv
 .DS_Store
 
 # JetBrains configuration files

@@ -1,0 +1,37 @@
+{
+    "id": "deluxezone",
+    "name": "Deluxe Network",
+    "store": "https://tienda.deluxezone.net/",
+    "addresses": [
+        "deluxezone.net"
+    ],
+    "primaryAddress": "mc.deluxezone.net",
+    "primaryColor": "#9f16d2",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "deluxezonemc",
+        "discord": "https://discord.com/invite/q9enwe7v48",
+        "youtube": "UCaIpLKARUmD2xlvlDg2KKVw",
+        "instagram": "deluxezonemc",
+        "tiktok": "deluxezonemc",
+        "facebook": "DeluxeNETWORK"
+    }
+}

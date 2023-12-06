@@ -11,6 +11,19 @@
     "primaryAddress": "deadpvp.eu",
     "primaryColor": "#e10015",
     "secondaryColor": "#494949",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "PvP"
     ],

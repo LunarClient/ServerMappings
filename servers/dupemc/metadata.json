@@ -1,0 +1,32 @@
+{
+    "id": "dupemc",
+    "name": "DupeMC",
+    "addresses": [
+        "dupemc.net"
+    ],
+    "primaryAddress": "play.dupemc.net",
+    "primaryColor": "#16bdf5",
+    "secondaryColor": "#55FF55",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://dupemc.net/",
+    "store": "https://store.dupemc.net/",
+    "socials": {
+        "discord": "https://discord.com/invite/Xvn7Ab3c48"
+    }
+}

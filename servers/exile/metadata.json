@@ -1,0 +1,26 @@
+{
+    "id": "exile",
+    "name": "ExileSMP",
+    "website": "https://exile.lol/",
+    "addresses": [
+        "exile.lol"
+    ],
+    "primaryAddress": "mc.exile.lol",
+    "primaryColor": "#9F5FF3",
+    "secondaryColor": "#A6ECE6",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "AS",
+    "regions": [
+        "NA",
+        "OC"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.exile.lol/"
+    }
+}

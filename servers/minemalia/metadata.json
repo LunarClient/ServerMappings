@@ -4,7 +4,7 @@
     "website": "https://minemalia.org/",
     "store": "https://store.minemalia.com/",
     "addresses": [
-        "play.minemalia.com"
+        "minemalia.com"
     ],
     "primaryAddress": "play.minemalia.com",
     "primaryColor": "#faae18",
@@ -14,7 +14,8 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "EU",

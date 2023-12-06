@@ -1,0 +1,32 @@
+{
+	"id": "ateahcf",
+	"name": "AteaHCF",
+	"description": "HCF and Kitmap Server",
+	"addresses": [
+		"ateahcf.com"
+	],
+	"primaryAddress": "ateahcf.com",
+	"minecraftVersions": [
+		"1.7.*",
+		"1.8.*"
+	],
+	"primaryMinecraftVersion": "1.8.9",
+	"primaryColor": "#76F646",
+    "secondaryColor": "#219A15",
+	"languages": [
+		"en"
+	],
+	"primaryLanguage": "en",
+	"primaryRegion": "EU",
+	"regions": [
+		"EU"
+	],
+	"gameTypes": [
+		"PvP",
+		"HCF"
+	],
+	"store": "https://atea.craftingstore.net/",
+	"socials": {
+		"discord": "https://discord.gg/gArhmukf55"
+	}
+}

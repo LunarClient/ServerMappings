@@ -6,6 +6,10 @@
         "ghouluhc.club",
         "ghoulpvp.net"
     ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
     "primaryAddress": "play.ghoulpvp.us",
     "primaryColor": "#c11f37",
     "secondaryColor": "#030101",
