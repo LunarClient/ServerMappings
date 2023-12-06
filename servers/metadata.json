@@ -1,32 +1,28 @@
 {
-    "id": "bearmc",
-    "name": "BearMC Network",
-    "website": "https://bearmc.cc/",
-    "store": "https://store.bearmc.cc/",    
+    "id": "vanitymc",
+    "name": "VanityMC Network",
+    "store": "https://store.vanitymc.es/",
     "addresses": [
-        "bearmc.cc"
+        "vanitymc.es"
     ],
-    "primaryAddress": "bearmc.cc",
+    "primaryAddress": "vanitymc.es",
+    "primaryColor": "#fb04d3",
+    "secondaryColor": "#fbfbfb",
     "minecraftVersions": [
-        "1.8.*",
-        "1.7.*"
+        "1.7.",
+        "1.8."
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff8700",
-    "secondaryColor": "#fff700",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
-        "EU"
+        "NA"
     ],
     "gameTypes": [
-        "PvP",
-        "Survival"
+        "HCF",
+        "PvP"
     ],
-    "socials": {    
-        "discord": "https://discord.gg/RYmqRbREkY"
+    "socials": {
+        "twitter": "vanitymces",
+        "discord": "https://discord.gg/xCsczKywjV"
     }
-}    
+} 
