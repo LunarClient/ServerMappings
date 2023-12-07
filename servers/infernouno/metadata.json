@@ -1,0 +1,30 @@
+{
+  "id": "infernouno",
+  "name": "Inferno",
+  "store": "https://inferno.uno/store",
+  "addresses": [
+    "inferno.uno",
+    "inferno.wiki"
+  ],
+  "primaryAddress": "inferno.uno",
+  "primaryColor": "#FEA82F",
+  "secondaryColor": "#FFD966",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "EU",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "UHC"
+  ],
+  "socials": {
+    "twitter": "https://inferno.uno/twitter",
+    "discord": "https://inferno.uno/discord"
+  }
+}
