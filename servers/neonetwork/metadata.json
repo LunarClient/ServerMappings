@@ -1,9 +1,8 @@
 {
     "id": "neonetwork",
     "name": "NeoNetwork",
-    "website": "https://hypixel.net/",
+    "website": "https://neocubest.com/",
     "store": "https://store.neocubest.com/",
-    "description": "Play the best Minecraft minigames for free!",
     "addresses": [
         "play.neocubest.com",
         "neocubest.com"
@@ -17,6 +16,7 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.3",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"

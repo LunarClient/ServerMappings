@@ -1,0 +1,38 @@
+{
+    "id": "deathzone",
+    "name": "DeathZone Network",
+    "store": "https://tienda.deathzone.net/",
+    "addresses": [
+        "deathzone.net"
+    ],
+    "primaryAddress": "deathzone.net",
+    "primaryColor": "#e60608",
+    "secondaryColor": "#091e3f",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "Deathzone_MC",
+        "discord": "https://discord.com/invite/cpUG5pqbxw",
+        "youtube": "DeathZoneNetwork",
+        "tiktok": "deathzone.net"
+    }
+}

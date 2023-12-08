@@ -1,0 +1,39 @@
+{
+	"id": "hcstatic",
+	"name": "HCStatic Network",
+	"description": "A potion and soup based pvp network",
+	"addresses": [
+		"hcstatic.us"
+	],
+	"primaryAddress": "play.hcstatic.us",
+	"minecraftVersions": [
+		"1.7.*",
+		"1.8.*",
+		"1.16.5",
+		"1.18.2",
+		"1.19.*"
+	],
+	"primaryMinecraftVersion": "1.8.9",
+	"primaryColor": "#3bf5f5",
+	"secondaryColor": "#3bf5f5",
+	"primaryLanguage": "es-EN",
+	"languages": [
+		"es-EN"
+	],
+	"primaryRegion": "NA",
+	"regions": [
+		"NA",
+		"EU",
+		"OC",
+		"AS",
+		"SA"
+	],
+	"gameTypes": [
+		"HCF",
+		"PvP"
+	],
+	"store": "https://store.hcstatic.us/",
+	"socials": {
+		"discord": "https://discord.gg/gZnu8r9bVa"
+	}
+}

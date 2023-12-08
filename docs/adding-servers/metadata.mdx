@@ -1,0 +1,103 @@
+# Server Metadata
+
+Each server must have a `metadata.json`, this file should follow the schema found in the root of this repository `metadata.schema.json`.
+
+An example can also be found in the root, `metadata.example.json`. This contains all the fields that are required for your server's metadata file.
+
+## Required Fields
+
+> These fields are required for your server to be accepted.
+
+### Basic
+
+Below is a table of the basic fields that are required for your server's metadata file, and a brief description of what they are.
+
+| Field         | Description                                                                                                                                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `id`          | This is the ID for the server, discussed in the [overview](server-mappings/adding-servers/overview), this must match the name of your server's folder. |
+| `name`        | This is the name for your server.                                                                                                                      |
+| `description` | This is the description for your server. It must be **between 16-80 characters**.                                                                      |
+
+### Addresses
+
+The `addresses` array in each server object is actually an array of IP suffixes. **This should not include the subdomain for the server**.
+
+| ✅ Correct    | ❌ Incorrect       |
+| ------------- | ------------------ |
+| `example.com` | `play.example.com` |
+| `hypixel.net` | `play.hypixel.net` |
+| `lunar.gg`    | `eu.lunar.gg`      |
+
+The `primaryAddress` in each server object is for users to connect to your server on and is required to be resolvable. This primary address will be used to ensure that the server remains online and active. **This can (and should) include the subdomain for the server**.
+
+### Game Types
+
+Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, and `Adventure`.
+
+### Colors
+
+Each server must have a `primaryColor` and `secondaryColor`. These colors should represent the brand of your server. These colors must be in hexadecimal format, and must be prefixed with a `#`.
+
+## Optional Fields
+
+> While these fields are not required, they are highly recommended. Enriched servers are more likely to be utilized when being displayed.
+
+### Minecraft Versions
+
+The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. _(ie. 1.18.1, 1.19.2)_; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array.
+
+**The versions you include must be versions that are directly offered in Lunar Client, which can be found in the version selector of the Lunar Client Launcher.**
+
+### Languages
+
+You can define both `languages` (a list of all the languages your server supports) and a `primaryLanguage` (the main language your server operates in) which your server supports. These languages can be selected from the following:
+
+-   `en`
+-   `es-EN`
+-   `it`
+-   `tr`
+-   `ar`
+-   `zh-CN`
+-   `nl`
+-   `fr`
+-   `de`
+-   `el`
+-   `ja`
+-   `ko`
+-   `lt`
+-   `no`
+-   `pl`
+-   `pt-PT`
+-   `pt-BR`
+-   `sv-SE`
+
+### Regions
+
+You can define both `regions` (a list of all the regions your server supports) and a `primaryRegion` (the main region your server operates out of) which your server supports. These regions can be selected from the following:
+
+| Region Code | Name          |
+| ----------- | ------------- |
+| AF          | Africa        |
+| AS          | Asia          |
+| EU          | Europe        |
+| NA          | North America |
+| OC          | Oceania       |
+| SA          | South America |
+
+### Website/Store
+
+The URLs to your server's website and store. These should be a valid URLs including their protocols (e.g. `https://`).
+
+### Socials
+
+You can provide any social media links that you would like to be displayed on your server's page. These links will be displayed alongside your server. These should be under the `socials` key. We support the following socials:
+
+-   `twitter`
+-   `discord`
+-   `youtube`
+-   `instagram`
+-   `twitch`
+-   `telegram`
+-   `reddit`
+-   `tiktok`
+-   `facebook`

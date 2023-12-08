@@ -8,8 +8,20 @@
         "mush.com.br",
         "mushmc.com.br"
     ],
+    "primaryAddress": "jogar.mush.com.br",
     "primaryColor": "#ecb845",
     "secondaryColor": "#522e23",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Minigames",
         "PvP"

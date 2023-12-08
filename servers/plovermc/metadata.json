@@ -1,0 +1,40 @@
+{
+  "id": "plovermc",
+  "name": "Plover Network",
+  "store": "https://store.plovermc.net/",
+  "description": "¡The official home of UHC!",
+  "addresses": [
+    "plovermc.net"
+  ],
+  "primaryAddress": "plovermc.net",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FF8900",
+  "secondaryColor": "#EFFF00",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Hardcore",
+    "PvP"
+  ],
+  "socials": {
+    "twitter": "PloverUHC",
+    "discord": "https://dc.plovermc.net/"
+  }
+}

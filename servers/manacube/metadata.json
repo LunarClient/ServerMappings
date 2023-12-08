@@ -12,8 +12,8 @@
         "manacube.com"
     ],
     "primaryAddress": "play.manacube.com",
-    "primaryColor": "#efc85b",
-    "secondaryColor": "#512e14",
+    "primaryColor": "#1b96a8",
+    "secondaryColor": "#124656",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",

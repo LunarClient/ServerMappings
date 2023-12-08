@@ -1,0 +1,29 @@
+{
+    "id": "healpvp",
+    "name": "HealPvP Network",
+    "website": "https://healpvp.com/",
+    "store": "https://store.healpvp.com/",
+    "addresses": [
+        "healpvp.com"
+    ],
+    "primaryAddress": "healpvp.com",
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "HealPvP",
+        "discord": "https://discord.com/invite/healpvp",
+        "telegram": "healpvpcom",
+        "tiktok": "https://www.tiktok.com/@healpvp"
+    }
+}

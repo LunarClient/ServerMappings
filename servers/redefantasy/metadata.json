@@ -1,0 +1,43 @@
+{
+    "id": "redefantasy",
+    "name": "RedeFantasy",
+    "description": "redefantasy is a brazilian server providing the future.!",
+    "website": "https://redefantasy.com/",
+    "store": "https://redefantasy.com/loja",
+    "addresses": [
+        "redefantasy.com",
+        "redefantasy.gg"
+    ],
+    "primaryAddress": "redefantasy.gg",
+    "primaryColor": "#1e647d",
+    "secondaryColor": "#e7cd2b",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "redefantasy",
+        "discord": "https://discord.com/invite/redefantasy",
+        "tiktok": "redefantasyoficial"
+    },
+    "crossplay": true
+}

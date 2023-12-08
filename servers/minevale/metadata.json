@@ -1,0 +1,34 @@
+{
+    "id": "minevale",
+    "name": "MineVale",
+    "website": "https://www.minevale.de/",
+    "store": "https://shop.minevale.de/",
+    "addresses": [
+        "minevale.de"
+    ],
+    "primaryAddress": "minevale.de",
+    "primaryColor": "#14e4a7",
+    "secondaryColor": "#deeeef",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "minevale_de",
+        "discord": "https://discord.com/invite/vCBdMbPmc9",
+        "youtube": "minevale_de",
+        "instagram": "minevale_de",
+        "tiktok": "minevale_de"
+    }
+}

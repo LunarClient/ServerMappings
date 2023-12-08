@@ -1,0 +1,36 @@
+{
+    "id": "voxcraft",
+    "name": "VoxCraft",
+    "website": "https://www.voxcraft.us/",
+    "store": "https://tienda.voxcraft.us/",
+    "addresses": [
+        "voxcraft.us"
+    ],
+    "primaryAddress": "mc.voxcraft.us",
+    "primaryColor": "#f6de11",
+    "secondaryColor": "#5dcce8",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "VoxCraftMC",
+        "discord": "https://discord.com/invite/WcdNtgG5X6",
+        "tiktok": "voxcraft.network"
+    }
+}

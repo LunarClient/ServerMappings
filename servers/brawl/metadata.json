@@ -15,8 +15,22 @@
         "mc-warz.com",
         "minecraftbuild.com"
     ],
+    "primaryAddress": "play.brawl.com",
     "primaryColor": "#FBB306",
     "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Minigames",
         "Creative",
@@ -24,8 +38,9 @@
     ],
     "socials": {
         "twitter": "BrawlGames",
-        "youtube": "minecraftpvp",
-        "twitch": "mcpvp",
-        "facebook": "BrawlGames"
+        "discord": "https://discord.com/invite/Q5ZfcS7",
+        "youtube": "BrawlGames",
+        "tiktok": "brawl.network",
+        "instagram": "minecraft_brawl"
     }
 }

@@ -3,7 +3,8 @@
     "name": "Oceania Prestige",
     "store": "https://store.oceprestige.com/",
     "addresses": [
-        "play.oceprestige.net"
+        "oceprestige.net",
+        "oceprestige.com"
     ],
     "primaryAddress": "play.oceprestige.net",
     "primaryColor": "#49f6ff",

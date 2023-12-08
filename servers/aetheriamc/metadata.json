@@ -1,14 +1,27 @@
 {
     "id": "aetheriamc",
     "name": "AetheriaMC",
+    "store": "https://store.aetheria.world/",
     "addresses": [
         "aetheria.world",
         "aetheriamc.xyz"
     ],
+    "primaryAddress": "mc.aetheria.world",
+    "primaryColor": "#f8100c",
+    "secondaryColor": "#3aebef",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "primaryColor": "#f8100c",
-    "secondaryColor": "#3aebef"
+    "socials": {
+        "discord": "https://discord.com/invite/yfNYNkM"
+    }
     
 }

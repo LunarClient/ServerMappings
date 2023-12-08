@@ -8,7 +8,8 @@
         "viperhcf.com",
         "viperhcf.net",
         "vipermc.com",
-        "vipermc.net"
+        "vipermc.net",
+        "cobra.gg"
     ],
     "primaryAddress": "play.vipermc.net",
     "minecraftVersions": [
@@ -20,8 +21,8 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#182257",
-    "secondaryColor": "#e8eaf4",
+    "primaryColor": "#2197fc",
+    "secondaryColor": "#f88f28",
     "gameTypes": [
         "HCF",
         "PvP"
@@ -30,5 +31,11 @@
         "twitter": "ViperMC",
         "discord": "https://discord.com/invite/viper",
         "tiktok": "vipermc"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.vipermc.net/policy",
+        "termsOfService": "https://www.vipermc.net/tos",
+        "rules": "https://www.vipermc.net/rules"
+    },
+    "presentationVideo": "ZTUm5WUAcVY"
 }

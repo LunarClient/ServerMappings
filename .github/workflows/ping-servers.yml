@@ -3,11 +3,12 @@ name: Ping Servers
 on:
   push:
     branches:
-    - master
+      - master
   workflow_dispatch:
 
 jobs:
   ping-servers:
+    name: Ping Servers
     runs-on: ubuntu-latest
 
     steps:
@@ -15,12 +16,12 @@ jobs:
         name: Checkout from GitHub
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install Python dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r .scripts/requirements.txt
 
       - name: Validate Server Status
-        run: python scripts/validate_status.py --servers_dir servers --inactive_file inactive.json
+        run: python .scripts/validate_status.py --servers_dir servers --inactive_file inactive.json --discord_logo_uploaded_file discord-logo-uploaded.json

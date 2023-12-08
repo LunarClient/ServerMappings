@@ -1,0 +1,34 @@
+{
+    "id": "lumianetwork",
+    "name": "Lumia Network",
+    "website": "https://lumia.lol/",
+    "store": "https://store.lumia.lol",
+    "description": "A place where you can build anything and meet other players.",
+    "addresses": [
+        "lumia.lol"
+    ],
+    "primaryAddress": "play.lumia.lol",
+    "primaryColor": "#9d73eb",
+    "secondaryColor": "#9f26f2",
+    "minecraftVersions": [
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/3nQpfaSH4z"
+    }
+}
