@@ -30,8 +30,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Creative",
-        "Minigames"
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.gg/PxnJ7MDeqW",
