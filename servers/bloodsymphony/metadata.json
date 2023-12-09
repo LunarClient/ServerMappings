@@ -34,8 +34,7 @@
 	"gameTypes": [
 		"PvP",
 		"Skyblock",
-		"Factions",
-		"Prison"
+		"Factions"
 	],
 	"socials": {
 		"discord": "https://discord.com/invite/a2F5Rjz"
