@@ -1,0 +1,45 @@
+{
+    "id": "ecloriamc",
+    "name": "EcloriaMC",
+    "description": "Serveur Mini-Jeux 1.8+",
+    "addresses": [
+        "ecloria.eu"
+    ],
+    "primaryAddress": "play.ecloria.eu",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8b00",
+    "secondaryColor": "#ffe300",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://ecloriamc.inovaperf.me/",
+    "store": "https://ecloriamc.inovaperf.me/",
+    "socials": {
+        "discord": "https://discord.gg/qYHDuhRQZq"
+    },
+    "crossplay": false
+}
