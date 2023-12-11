@@ -27,8 +27,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "PvP",
-		"PvE"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/kXdFpJYgFe"
