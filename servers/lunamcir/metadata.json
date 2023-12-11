@@ -20,12 +20,11 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
-        "Bedwars",
-        "PracticePvP"
+        "Minigames",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/GTJUGeTX6v",
-        "youtube": "https://www.youtube.com/@Luna.Network",
-        "website": "https://lunamc.ir"
+        "youtube": "@Luna.Network"
     }
 }
