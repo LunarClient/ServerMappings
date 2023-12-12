@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "id": "gorium",
     "name": "Gorium Network",
@@ -35,3 +36,42 @@
         "twitter": "https://twitter.com/goriumnetwork"
     }
 }    
+=======
+{
+    "id": "gorium",
+    "name": "Gorium Network",
+    "website": "https://gorium.net/",
+    "store": "https://store.gorium.net/",    
+    "addresses": [
+        "gorium.net"
+    ],
+    "primaryAddress": "gorium.net",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryColor": "#d93e18",
+    "secondaryColor": "#636261",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {    
+        "discord": "https://discord.com/invite/GeQuBB9M2E",
+        "youtube": "https://www.youtube.com/channel/UCJH3zxoGpZBmut0quxE244g",
+        "twitter": "https://twitter.com/goriumnetwork"
+    }
+}    
+>>>>>>> ec28e6670b39baca790b3a849bef52237c75f743
