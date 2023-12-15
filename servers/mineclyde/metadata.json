@@ -1,0 +1,44 @@
+{
+    "id": "mineclyde",
+    "name": "Mineclyde",
+    "website": "https://mineclyde.com/",
+    "store": "https://store.mineclyde.com/",
+    "addresses": [
+        "mineclyde.com",
+        "play.mineclyde.com",
+        "mineclyde.com"
+        "mc.mineclyde.com"
+    ],
+    "primaryAddress": "play.mineclyde.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#00AAAA",
+    "gameTypes": [
+        "Factions",
+        "Kitmap",
+        "Prison"
+        "Teamfight"
+        "HCF"
+        "Skyblock"
+        "Practice"
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "PlayMineclyde",
+        "discord": "https://discord.com/invite/mineclyde"
+    },
+    "compliance": {
+        "privacyPolicy": "https://store.mineclyde.com/privacy",
+        "termsOfService": "https://store.mineclyde.com/terms",
+        "rules": "https://mineclyde.com/rules/"
+    }
+}
