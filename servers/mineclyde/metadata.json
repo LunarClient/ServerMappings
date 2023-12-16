@@ -5,9 +5,7 @@
     "store": "https://store.mineclyde.com/",
     "addresses": [
         "mineclyde.com",
-        "play.mineclyde.com",
-        "mineclyde.com",
-        "mc.mineclyde.com"
+        "play.mineclyde.com"
     ],
     "primaryAddress": "play.mineclyde.com",
     "minecraftVersions": [
@@ -23,7 +21,6 @@
     "secondaryColor": "#00AAAA",
     "gameTypes": [
         "Factions",
-        "Prison",
         "HCF",
         "Skyblock",
         "PvP"
