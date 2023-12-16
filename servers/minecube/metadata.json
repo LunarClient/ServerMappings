@@ -27,7 +27,6 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Adventure",
         "Survival"
     ],
     "website": "https://minecube.pl",
