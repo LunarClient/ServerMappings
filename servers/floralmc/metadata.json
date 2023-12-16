@@ -1,0 +1,25 @@
+{
+    "id": "floralmc",
+    "name": "FloralMC",
+    "store": "http://store.floralmc.xyz/",
+    "addresses": [
+        "play.floralmc.xyz"
+    ],
+    "primaryAddress": "play.floralmc.xyz",
+    "primaryColor": "#8ba2d2",
+    "secondaryColor": "#6A83B6",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Gens"
+    ],
+    "socials": {
+        "discord": "http://discord.gg/ncTcaYAGCs"
+    }
+}
