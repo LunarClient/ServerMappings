@@ -22,8 +22,7 @@
     "gameTypes": [
         "Factions",
         "HCF",
-        "Skyblock",
-        "PvP"
+        "Skyblock"
     ],
     "socials": {
         "twitter": "PlayMineclyde",
