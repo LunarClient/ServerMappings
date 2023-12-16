@@ -1,9 +1,9 @@
 {
     "id": "floralmc",
     "name": "FloralMC",
-    "store": "http://store.floralmc.xyz/",
+    "store": "http://floralmc.tebex.io",
     "addresses": [
-        "play.floralmc.xyz"
+        "floralmc.xyz"
     ],
     "primaryAddress": "play.floralmc.xyz",
     "primaryColor": "#8ba2d2",
@@ -17,7 +17,7 @@
         "NA"
     ],
     "gameTypes": [
-        "Gens"
+        "Prison"
     ],
     "socials": {
         "discord": "http://discord.gg/ncTcaYAGCs"
