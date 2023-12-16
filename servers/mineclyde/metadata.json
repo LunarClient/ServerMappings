@@ -6,7 +6,7 @@
     "addresses": [
         "mineclyde.com",
         "play.mineclyde.com",
-        "mineclyde.com"
+        "mineclyde.com",
         "mc.mineclyde.com"
     ],
     "primaryAddress": "play.mineclyde.com",
@@ -16,20 +16,16 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#55FFFF",
     "secondaryColor": "#00AAAA",
     "gameTypes": [
         "Factions",
-        "Kitmap",
-        "Prison"
-        "Teamfight"
-        "HCF"
-        "Skyblock"
-        "Practice"
+        "Prison",
+        "HCF",
+        "Skyblock",
         "PvP"
     ],
     "socials": {
