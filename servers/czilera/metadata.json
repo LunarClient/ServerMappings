@@ -3,7 +3,9 @@
     "name": "czilera.pl",
     "website": "https://czilera.pl/",
     "store": "https://czilera.pl/",
-    "addresses": "czilera.pl",
+    "addresses": [
+        "czilera.pl"
+    ],
     "primaryAddress": "czilera.pl",
     "primaryColor": "#ff9e00",
     "secondaryColor": "#ffcd00",
