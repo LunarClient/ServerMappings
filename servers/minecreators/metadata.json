@@ -2,11 +2,11 @@
     "id": "minecreators",
     "name": "MineCreators",
     "addresses": [
-        "mc.minecreators.xyz"
+        "minecreators.xyz"
     ],
     "primaryAddress": "mc.minecreators.xyz",
     "minecraftVersions": [
-        "1.8.*",
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#0000FF",
