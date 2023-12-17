@@ -4,8 +4,7 @@
     "website": "https://mineclyde.com/",
     "store": "https://store.mineclyde.com/",
     "addresses": [
-        "mineclyde.com",
-        "play.mineclyde.com"
+        "mineclyde.com"
     ],
     "primaryAddress": "play.mineclyde.com",
     "minecraftVersions": [
