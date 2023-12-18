@@ -1,0 +1,31 @@
+{
+    "id": "minecreators",
+    "name": "MineCreators",
+    "addresses": [
+        "minecreators.xyz"
+    ],
+    "primaryAddress": "mc.minecreators.xyz",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#F0F8FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.minecreators.xyz",
+    "socials": {
+        "discord": "https://discord.gg/U3rkc9AxrU"
+    },
+    "crossplay": false
+}
