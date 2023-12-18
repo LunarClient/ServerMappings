@@ -1,10 +1,10 @@
 {
     "id": "watermc",
     "name": "WaterMC",
-    "website": "https://www.watermc.gg/",
-    "store": "https://watermcnet.tebex.io/",
+    "website": "https://watermc.eu/",
+    "store": "https://watermc.eu/sklep",
     "addresses": [
-        "watermc.gg"
+        "watermc.eu"
     ],
     "primaryColor": "#1679c9",
     "secondaryColor": "#d5d8da",
@@ -15,6 +15,7 @@
     "socials": {
         "twitter": "watermcnetwork",
         "discord": "https://discord.com/invite/8SPk8uUJjb",
-        "instagram": "watermc_network"
+        "instagram": "watermc_network",
+        "facebook": "watermc.eu"
     }
 }
