@@ -2,9 +2,10 @@
     "id": "healed",
     "name": "Healed Network",
     "store": "https://store.healed.lol/",
+    "description": "The best old pvp server",
     "addresses": [
         "healed.lol",
-	"veraxpvp.live",
+        "veraxpvp.live",
         "verzmc.lat"
     ],
     "primaryAddress": "healed.lol",
