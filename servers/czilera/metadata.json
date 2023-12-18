@@ -1,0 +1,37 @@
+{
+    "id": "czilera",
+    "name": "czilera.pl",
+    "website": "https://czilera.pl/",
+    "store": "https://www.czilera.pl/sklep/boxpvp_s1",
+    "addresses": [
+        "czilera.pl"
+    ],
+    "primaryAddress": "czilera.pl",
+    "primaryColor": "#ff9e00",
+    "secondaryColor": "#ffcd00",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XTsjZDqnSh",
+        "tiktok": "czilera.pl"
+    }
+}
