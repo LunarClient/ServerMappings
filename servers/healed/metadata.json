@@ -1,0 +1,33 @@
+{
+    "id": "healed",
+    "name": "Healed Network",
+    "website": "https://www.healed.lol/",
+    "store": "https://store.healed.lol/",
+    "description": "The Server Old pvp are comeback",
+    "addresses": [
+        "healed.lol",
+		"veraxpvp.live",
+		"verzmc.lat",
+    ],
+    "primaryAddress": "healed.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.*",
+    "primaryColor": "#4DFF00",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+		"SA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "@HealedFeed",
+        "discord": "https://discord.gg/a3mz2t8Vv6"
+    }
+}
