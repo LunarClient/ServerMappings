@@ -2,7 +2,7 @@
     "id": "czilera",
     "name": "czilera.pl",
     "website": "https://czilera.pl/",
-    "store": "https://czilera.pl/",
+    "store": "https://www.czilera.pl/sklep/boxpvp_s1",
     "addresses": [
         "czilera.pl"
     ],
@@ -22,6 +22,9 @@
         "EU"
     ],
     "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
     "gameTypes": [
         "Survival",
         "Factions",
@@ -29,6 +32,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/XTsjZDqnSh",
-        "tiktok": "https://www.tiktok.com/@czilera.pl"
+        "tiktok": "czilera.pl"
     }
 }
