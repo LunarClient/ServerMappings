@@ -1,0 +1,48 @@
+{
+  "id": "spookyrealms",
+  "name": "SpookyRealms",
+  "description": "SpookyRealms è tra i server migliori per gli amanti della competizione!",
+  "store": "https://store.spookyrealms.it",
+  "website": "https://spookyrealms.it",
+  
+  "primaryAddress": "mc.spookyrealms.it",
+  "addresses": ["spookyrealms.it","saturnscp.it","nupped.it"],
+  
+  "primaryColor": "#8f13d1",
+  "secondaryColor": "#474a49",
+  
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Roleplay"
+  ],
+  
+  "minecraftVersions": [
+    "1.20.*",
+    "1.19.*",
+    "1.18.*",
+    "1.17.*",
+    "1.16.*",
+    "1.12.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryLanguage": "it",
+  
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+
+  "socials": {
+    "discord": "https://discord.gg/HeZrvckR",
+    "instagram": "spookyrealms.it",
+    "telegram": "SpookyRealms",
+    "tiktok": "spookyrealms.it"
+  }
+}
