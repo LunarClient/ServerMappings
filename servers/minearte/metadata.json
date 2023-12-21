@@ -8,6 +8,7 @@
     ],
     "primaryAddress": "mc.minearte.net",
     "minecraftVersions": [
+        "1.20.*",
         "1.19.*",
         "1.12.*",
         "1.16.*",
@@ -15,7 +16,7 @@
         "1.17.*",
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#bd6800",
     "secondaryColor": "#fcbe2b",
     "primaryLanguage": "es-EN",
@@ -35,5 +36,6 @@
         "twitter": "MinearteNet",
         "discord": "https://discord.com/invite/cehWysWBJx",
         "tiktok": "mineartenet"
-    }
+    },
+    "crossplay": true
 }

@@ -1,0 +1,40 @@
+{
+    "id": "peternetwork",
+    "name": "PeterNetwork",
+    "website": "https://www.tvpeter.it/",
+    "store": "https://store.tvpeter.it/",
+    "description": "PeterNetwork is a Server known for its VanillaPlus. Join Now!",
+    "addresses": [
+        "peternetwork.it",
+        "mc.tvpeter.it"
+    ],
+    "primaryAddress": "peternetwork.it",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryColor": "#f21d24",
+    "secondaryColor": "#a51318",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/GnCqFqCsjj",
+        "instagram": "peternetwork",
+        "telegram": "peternetwork",
+        "tiktok": "tvpeter"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "chromaahnetwork",
+    "name": "Chromaah Network",
+    "description": "Custom Gamemodes, constantly being updated!",
+    "addresses": [
+        "chromaah.club"
+    ],
+    "primaryAddress": "play.chromaah.club",
+    "minecraftVersions": [
+        "1.8.*"
+
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#006BFF",
+    "secondaryColor": "#FF9900",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"   
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://store.chromaah.club",
+    "socials": {
+        "discord": "https://discord.gg/rDMFxYF3j8"
+    }
+}

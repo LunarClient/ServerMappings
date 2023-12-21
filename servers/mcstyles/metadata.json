@@ -1,0 +1,30 @@
+{
+    "id": "mcstyles",
+    "name": "mcstyles",
+    "website": "https://mcstyles.pl/",
+    "store": "https://mcstyles.pl/servers",
+    "addresses": [
+        "mcstyles.pl"
+    ],
+    "primaryAddress": "mcstyles.pl",
+    "primaryColor": "#206de0",
+    "secondaryColor": "#b55b48",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/c39mKSTw8A",
+        "tiktok": "cotam102"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "silveradomc",
+    "name": "SilveradoMC",
+    "website": "https://www.silveradomc.com/",
+    "store": "https://www.silveradomc.com/store",
+    "description": "SilveradoMC is the best roleplay server in italy that wants the minim.",
+    "addresses": [
+        "silveradomc.com"
+    ],
+    "primaryAddress": "mc.silveradomc.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryColor": "#d4af37",
+    "secondaryColor": "#c0c0c0",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/invite/nVf5kJXJwy",
+        "telegram": "SilveradoMC"
+    }
+}

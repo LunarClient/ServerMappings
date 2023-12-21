@@ -1,0 +1,34 @@
+{
+    "id": "mcteams",
+    "name": "MCTeams",
+    "website": "https://www.mcteams.com/",
+    "store": "https://store.mcteams.com/",
+    "description": "The true experience of SoupPVP.",
+    "addresses": [
+        "mcteams.com"
+    ],
+    "primaryAddress": "mcteams.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffdf36",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "MCTeams_",
+        "discord": "https://discord.gg/KVpcCJhSXq",
+        "telegram": "mcteamsnews"
+    }
+}

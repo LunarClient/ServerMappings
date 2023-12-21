@@ -1,0 +1,39 @@
+{
+    "id": "verart",
+    "name": "Verart",
+    "description": "Verart specializes in crafting unique and captivating Minecraft experiences.",
+    "addresses": [
+        "verart.org"
+    ],
+    "primaryAddress": "verart.org",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#00ABF5",
+    "secondaryColor": "#001122",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+	"AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "website": "https://verart.org",
+    "socials": {
+        "discord": "https://discord.com/invite/GsWQsTMPjq",
+	"twitter": "verartteam",
+	"youtube": "verartteam",
+	"instagram": "verartteam",
+	"tiktok": "verartteam"
+    },
+    "crossplay": false
+}

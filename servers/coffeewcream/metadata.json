@@ -1,0 +1,29 @@
+{
+    "id": "coffeewcream",
+    "name": "CoffeewCream SMP",
+    "store": "http://shop.coffeewcream.com/",
+    "addresses": [
+        "coffeewcream.com"
+    ],
+    "primaryAddress": "coffeewcream.com",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "coffeewcream_",
+        "discord": "https://discord.com/invite/coffeewcream",
+        "youtube": "coffeewcreamsmp",
+        "instagram": "coffeewcreamsmp",
+        "tiktok": "coffeewithcreamsmp"
+    }
+}

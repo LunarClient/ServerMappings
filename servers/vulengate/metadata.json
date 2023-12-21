@@ -1,0 +1,35 @@
+{
+    "id": "vulengate",
+    "name": "Vulengate",
+    "website": "https://www.vulengate.com/",
+    "store": "https://store.vulengate.com/",
+    "addresses": [
+        "play.vulengate.com",
+        "vulengate.com"
+    ],
+    "primaryAddress": "play.vulengate.com",
+    "primaryColor": "#fedd94",
+    "secondaryColor": "#c4753b",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "vulengate",
+        "discord": "https://discord.com/invite/vulengate",
+        "instagram": "vulengate"
+    }
+}

@@ -9,11 +9,18 @@
     "primaryAddress": "play.muffinized.net",
     "primaryColor": "#2317c5",
     "secondaryColor": "#030303",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP"
     ],
     "socials": {
         "twitter": "muffinized_",
+        "youtube": "UCrQWvNyjZY8FmL9gG3QGamQ",
         "discord": "https://discord.com/invite/XpsCQjbEst"
     }
 }
