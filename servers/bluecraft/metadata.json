@@ -1,6 +1,7 @@
 {
     "id": "bluecraft",
     "name": "Bluecraft",
+    "description": "Serveur minecraft Skyblock est survie",
     "addresses": [
         "bluecraft.online"
     ],
