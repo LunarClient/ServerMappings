@@ -10,7 +10,7 @@
     "secondaryColor": "#AA00FF",
     "minecraftVersions": [
         "1.19.*",
-        "1.20.2"
+        "1.20.2",
     ],
     "primaryMinecraftVersion": "1.19",
     "primaryRegion": "EU",
@@ -24,6 +24,6 @@
         "twitter": "bluecraftoff",
         "discord": "https://discord.gg/Vqkmf4JMhw",
         "youtube": "bleucraftofficiel",
-        "tiktok": "bluecraftofficiel"
+        "tiktok": "bluecraftofficiel",
     }
 }
