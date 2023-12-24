@@ -5,9 +5,9 @@
   "store": "https://boutique.hypenetwork.fr/",
   "description": "Serveur Skyblock, Prison et Survie avec TexturePack customisé!",
   "addresses": [
-    "play.HypeNetwork.fr"
+    "play.hypenetwork.fr"
   ],
-  "primaryAddress": "play.HypeNetwork.fr",
+  "primaryAddress": "play.hypenetwork.fr",
   "minecraftVersions": [
     "1.16.*",
     "1.17.*",
