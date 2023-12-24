@@ -12,7 +12,6 @@
     "secondaryColor": "#2aaad1",
     "minecraftVersions": [
         "1.8.*",
-        "1.10.2",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
