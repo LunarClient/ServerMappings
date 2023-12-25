@@ -1,0 +1,33 @@
+{
+    "id": "trappedmc",
+    "name": "TrappedMC",
+    "website": "https://shop.trappedmc.com/",
+    "store": "https://shop.trappedmc.com/",
+    "addresses": [
+        "mc.trappedmc.com"
+    ],
+    "primaryAddress": "trappedmc.com",
+    "primaryColor": "#ffe55d",
+    "secondaryColor": "#f19935",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "crossplay": true,
+    "primaryRegion": "US",
+    "regions": [
+        "US",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/trappedmc",
+        "tiktok": "trappedmc"
+    }
+}
