@@ -4,6 +4,11 @@
     "description": "Minecraft's best and last classic prison server",
     "website": "https://shop.trappedmc.com/",
     "store": "https://shop.trappedmc.com/",
+    "compliance": {
+        "privacyPolicy": "https://shop.trappedmc.com/legal/privacy",
+        "termsOfService": "https://shop.trappedmc.com/legal/terms",
+        "rules": "https://shop.trappedmc.com/legal/terms"
+    },
     "addresses": [
         "mc.trappedmc.com"
     ],
