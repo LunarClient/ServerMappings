@@ -1,6 +1,7 @@
 {
     "id": "trappedmc",
     "name": "TrappedMC",
+    "description": "Minecraft's best and last classic prison server",
     "website": "https://shop.trappedmc.com/",
     "store": "https://shop.trappedmc.com/",
     "addresses": [
@@ -16,8 +17,11 @@
     "crossplay": true,
     "primaryRegion": "US",
     "regions": [
-        "US",
-        "EU"
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
     "primaryLanguage": "en",
     "languages": [
