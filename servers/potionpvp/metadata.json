@@ -1,16 +1,39 @@
 {
     "id": "potionpvp",
     "name": "PotionPvP Network",
-    "website": "https://potionpvp.net/",
-    "store": "https://store.potionpvp.net/",
     "addresses": [
         "play.potionpvp.net"
     ],
+    "primaryAddress": "play.potionpvp.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
     "primaryColor": "#990a00",
     "secondaryColor": "#cccccc",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "PvP",
+    ],
     "socials": {
         "twitter": "potionpvpnet",
-        "namemc": "https://namemc.com/server/play.potionpvp.net"
         "discord": "https://discord.com/invite/BURYeDzgvb"
     }
 }
