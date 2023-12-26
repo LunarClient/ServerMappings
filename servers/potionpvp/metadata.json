@@ -1,0 +1,16 @@
+{
+    "id": "potionpvp",
+    "name": "PotionPvP Network",
+    "website": "https://potionpvp.net/",
+    "store": "https://store.potionpvp.net/",
+    "addresses": [
+        "play.potionpvp.net"
+    ],
+    "primaryColor": "#990a00",
+    "secondaryColor": "#cccccc",
+    "socials": {
+        "twitter": "potionpvpnet",
+        "namemc": "https://namemc.com/server/play.potionpvp.net"
+        "discord": "https://discord.com/invite/BURYeDzgvb"
+    }
+}
