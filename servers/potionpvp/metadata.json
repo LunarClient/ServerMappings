@@ -3,7 +3,7 @@
     "name": "PotionPvP Network",
     "description": "Competitive Minecraft Kitmap and Practice Network!",
     "addresses": [
-      "play.potionpvp.net"
+      "potionpvp.net"
     ],
     "primaryAddress": "play.potionpvp.net",
     "minecraftVersions": [
