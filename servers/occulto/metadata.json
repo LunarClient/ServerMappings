@@ -1,7 +1,7 @@
 {
     "id": "occulto",
     "name": "Occulto",
-    "store": "https://store.occulto.quest",
+    "website": "https://occulto.quest",
     "description": "An Open-World MMORPG featuring Java and Bedrock crossplay",
     "addresses": [
         "occulto.quest"
