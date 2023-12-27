@@ -1,0 +1,32 @@
+{
+    "id": "occulto",
+    "name": "Occulto",
+    "website": "https://occulto.quest",
+    "description": "An Open-World MMORPG featuring Java and Bedrock crossplay",
+    "addresses": [
+        "occulto.quest"
+    ],
+    "primaryAddress": "play.occulto.quest",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#206B9C",
+    "secondaryColor": "#14B2FA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Open World"
+    ],
+    "socials": {
+        "twitter": "OccultoRPG",
+        "discord": "https://discord.gg/3Tst7gka4w"
+    },
+    "crossplay": true
+}
