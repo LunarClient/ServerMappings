@@ -1,0 +1,32 @@
+{
+    "id": "jade",
+    "name": "Jade Network",
+    "website": "https://www.jademc.net",
+    "store": "https://www.jademc.net/store",
+    "primaryAddress": "jademc.net",
+    "addresses": [
+        "beta.jademc.net"
+    ],
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.7.10"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "primaryLanguage": "EN",
+    "languages": [
+        "ES"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/amQdzutAGN"
+    },
+    "crossplay": false
+}
