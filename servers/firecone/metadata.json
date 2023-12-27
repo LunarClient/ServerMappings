@@ -7,13 +7,15 @@
     ],
     "primaryAddress": "mc.firecone.eu",
     "minecraftVersions": [
-        "1.8.9",
-        "1.16.5",
-        "1.18.2",
-        "1.19.2",
-        "1.19.3"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#ff6c05",
     "secondaryColor": "#1E82DA",
     "primaryLanguage": "en",
@@ -36,6 +38,6 @@
     "website": "https://www.firecone.eu",
     "store": "https://store.firecone.eu",
     "socials": {
-        "discord": "https://discord.gg/kWms8GfNyV"
+        "discord": "https://discord.gg/pXQfMwXJzT"
     }
 }
