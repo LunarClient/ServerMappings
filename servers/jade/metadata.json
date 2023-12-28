@@ -5,16 +5,18 @@
     "store": "https://www.jademc.net/store",
     "primaryAddress": "jademc.net",
     "addresses": [
-        "beta.jademc.net"
+        "jademc.net"
     ],
     "primaryColor": "#FFAA00",
     "secondaryColor": "#FFFF55",
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
-        "1.7.10"
+        "1.7.*",
+        "1.8.*"
     ],
     "primaryRegion": "NA",
     "regions": [
+        "NA",
         "SA"
     ],
     "gameTypes": [
