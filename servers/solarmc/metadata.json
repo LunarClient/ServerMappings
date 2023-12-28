@@ -1,0 +1,30 @@
+{
+    "id": "solarmc",
+    "name": "SolarMC",
+    "description": "Minecraft Survival Server",
+    "store": "https://store.solarmc.live",
+    "addresses": [
+        "solarmc.live"
+    ],
+    "primaryAddress": "mc.solarmc.live",
+    "minecraftVersions": [
+        "1.20.2"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryColor": "#ffb401",
+    "secondaryColor": "#141b23",
+    "primaryLanguage": "es",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "http://discord.solarmc.live/"
+    }
+}   
