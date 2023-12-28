@@ -1,0 +1,40 @@
+{
+    "id": "gionnycraft",
+    "name": "GionnyCraft",
+    "website": "https://www.gionnycraft.it/",
+    "store": "https://gionnycraft.tebex.io/",
+    "description": "GionnyCraft is a simple and quality server! Enjoy!",
+    "addresses": [
+        "play.gionnycraft.it"
+    ],
+    "primaryAddress": "play.gionnycraft.it",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#c603fc",
+    "secondaryColor": "#c26fd9",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://dsc.gg/GionnyCraft",
+        "instagram": "@gionnycraft",
+        "telegram": "@GionnyCraft",
+        "tiktok": "@gionnycraft"
+    }
+}
