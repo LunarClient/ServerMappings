@@ -4,7 +4,7 @@
     "website": "https://klash.dev",
     "description": "A network of minigames and gamemodes to adventure!",
     "addresses": [
-        klash.dev"
+        "klash.dev"
     ],
     "primaryAddress": "network.klash.dev",
     "minecraftVersions": [
