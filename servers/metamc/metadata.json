@@ -5,7 +5,8 @@
     "store": "https://store.metamc.it/",
     "addresses": [
         "metamc.it",
-        "flexdojo.it"
+        "mc.flexdojo.it",
+        "mc.nexuscraft.it"
     ],
     "primaryAddress": "metamc.it",
     "primaryColor": "#f28536",
@@ -27,7 +28,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/metamc",
+        "discord": "https://discord.gg/metamc",
         "telegram": "MetaMCNews",
         "youtube": "UCz6N14vFLjAweuZjkvlg1kA",
         "tiktok": "metamc.it"
