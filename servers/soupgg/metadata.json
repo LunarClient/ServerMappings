@@ -1,0 +1,27 @@
+{
+    "id": "soupgg",
+    "name": "SoupGG",
+    "description": "Soup Practice, Kit, and more",
+    "addresses": [
+        "soup.gg"
+    ],
+    "primaryAddress": "soup.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffce4b",
+    "secondaryColor": "#664400",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.soup.gg",
+    "socials": {
+        "discord": "https://www.soup.gg/discord"
+    }
+}

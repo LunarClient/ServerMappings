@@ -1,0 +1,34 @@
+{
+    "id": "nauticmc",
+    "name": "NauticMC",
+    "website": "https://www.nauticmc.net/",
+    "store": "https://store.nauticmc.net/",
+    "addresses": [
+        "nauticmc.net"
+    ],
+    "primaryAddress": "nauticmc.net",
+    "primaryColor": "#1aa4fa",
+    "secondaryColor": "#a6a6a6",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "NauticMCNet",
+        "discord": "https://discord.com/invite/sdKV4rzwuh"
+    }
+}

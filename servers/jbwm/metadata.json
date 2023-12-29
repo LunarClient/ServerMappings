@@ -1,0 +1,34 @@
+{
+    "id": "jbwm",
+    "name": "Jbwm",
+    "website": "https://jbwm.pl/",
+    "store": "https://sklep.jbwm.pl/",
+    "addresses": [
+        "jbwm.pl"
+    ],
+    "primaryAddress": "jbwm.pl",
+    "primaryColor": "#f4f6f6",
+    "secondaryColor": "#232522",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/NRDwwyk",
+        "instagram": "jbwm.pl",
+        "facebook": "Jbwmpl"
+    }
+}

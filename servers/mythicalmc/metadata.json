@@ -1,0 +1,12 @@
+{
+    "id": "mythicalmc",
+    "name": "MythicalMC Network",
+    "addresses": [
+        "mythicalmc.org"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryColor": "#4d391e",
+    "secondaryColor": "#efd8ae"
+}

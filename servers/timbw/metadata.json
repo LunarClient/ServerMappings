@@ -1,0 +1,11 @@
+{
+    "id": "timbw",
+    "name": "TimBW Network",
+    "store": "https://store.timbw.xyz/",
+    "addresses": [
+        "timbw.xyz"
+    ],
+    "primaryAddress": "mc.timbw.xyz",
+    "primaryColor": "#db2914",
+    "secondaryColor": "#db2914"
+}

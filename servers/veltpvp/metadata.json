@@ -1,0 +1,33 @@
+{
+    "id": "veltpvp",
+    "name": "VeltPvP",
+    "addresses": [
+        "veltpvp.com"
+    ],
+    "primaryAddress": "veltpvp.com",
+    "primaryColor": "#343f9f",
+    "secondaryColor": "#8c2121",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "VeltPvP",
+        "discord": "https://discord.com/invite/Velt",
+        "telegram": "VeltUpdates",
+        "youtube": "@veltpvp6083"
+    }
+}

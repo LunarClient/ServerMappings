@@ -1,0 +1,32 @@
+{
+    "id": "herodia",
+    "name": "herodia",
+    "website": "https://herodia.fr/",
+    "store": "https://herodia.fr/shop",
+    "addresses": [
+        "herodia.fr"
+    ],
+    "primaryAddress": "play.herodia.fr",
+    "primaryColor": "#ff9d2e",
+    "secondaryColor": "#87231a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Frkjr3fDPg"
+    }
+}

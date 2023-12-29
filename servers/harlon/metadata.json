@@ -1,0 +1,28 @@
+{
+    "id": "harlon",
+    "name": "Harlon City Server",
+    "website": "http://harlonserver.net/",
+    "addresses": [
+        "harlonserver.net"
+    ],
+    "primaryAddress": "play.harlonserver.net",
+    "primaryColor": "#06b10e",
+    "secondaryColor": "#06b10e",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "gameTypes": [
+        "Open World"
+    ],
+    "socials": {
+        "twitter": "HarlonServer",
+        "discord": "https://discord.com/invite/qMmk8MuEBz",
+        "youtube": "UCUsBniuYo4fKNWy-PcAoDNg",
+        "instagram": "harlonserver",
+        "tiktok": "harlonserver"
+    }
+}

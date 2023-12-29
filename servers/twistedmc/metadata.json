@@ -1,0 +1,36 @@
+{
+    "id": "twistedmc",
+    "name": "TwistedMC",
+    "website": "https://twistedmc.net/",
+    "addresses": [
+        "twistedmc.net"
+    ],
+    "primaryAddress": "play.twistedmc.net",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#3498db",
+    "secondaryColor": "#1185d2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "TwistedMC1",
+        "discord": "https://discord.com/invite/twistedmc",
+        "tiktok": "playtwistedmc",
+        "instagram": "twistedmc",
+        "youtube": "twistedmcstudios",
+        "twitch": "twistedmcofficial"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "poudlardrp",
+    "name": "PoudlardRP",
+    "website": "https://poudlardrp.fr/",
+    "addresses": [
+        "poudlardrp.fr"
+    ],
+    "primaryAddress": "play.poudlardrp.fr",
+    "primaryColor": "#960001",
+    "secondaryColor": "#d4a82d",
+    "minecraftVersions": [
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "PoudlardRP",
+        "discord": "https://discord.com/invite/poudlardrp",
+        "youtube": "PoudlardRP",
+        "instagram": "poudlardrp_minecraft",
+        "tiktok": "poudlardrp_minecraft"
+    }
+}

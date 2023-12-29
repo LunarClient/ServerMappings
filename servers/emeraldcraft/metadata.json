@@ -1,0 +1,41 @@
+{
+    "id": "emeraldcraft",
+    "name": "EmeraldCraft Network",
+    "description": "El mejor server de Argentina",
+    "addresses": [
+        "emeraldcraft.com.ar"
+    ],
+    "primaryAddress": "mc.emeraldcraft.com.ar",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#00ff11",
+    "secondaryColor": "#16731c",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Prison"
+    ],
+    "website": "https://emeraldcraftarg.buycraft.net/",
+    "store": "https://emeraldcraftarg.buycraft.net/",
+    "socials": {
+        "twitter": "EmeraldCraftAR",
+        "discord": "invite.gg/emeraldcraft"
+    }
+}

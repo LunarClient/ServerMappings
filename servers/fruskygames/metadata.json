@@ -1,0 +1,27 @@
+{
+    "id": "fruskygames",
+    "name": "FruskyGames",
+    "store": "https://store.fruskygames.net/",
+    "addresses": [
+        "fruskygames.net",
+        "fruskygames.nl"
+    ],
+    "primaryAddress": "play.fruskygames.net",
+    "primaryColor": "#ef2d2d",
+    "secondaryColor": "#060303",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "realfruskygames",
+        "discord": "https://discord.com/invite/HsxPnAF",
+        "youtube": "FruskyGames",
+        "tiktok": "fruskygames"
+    }
+}

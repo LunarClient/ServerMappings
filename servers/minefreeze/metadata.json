@@ -1,0 +1,27 @@
+{
+    "id": "minefreeze",
+    "name": "Mine Freeze",
+    "store": "https://store.minefreeze.net/",
+    "addresses": [
+        "minefreeze.net"
+    ],
+    "primaryAddress": "play.minefreeze.net",
+    "primaryColor": "#7bd7f7",
+    "secondaryColor": "#043b65",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kkxDG7gxcT"
+    }
+}

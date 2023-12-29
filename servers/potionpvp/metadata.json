@@ -1,0 +1,40 @@
+{
+    "id": "potionpvp",
+    "name": "PotionPvP Network",
+    "description": "Competitive Minecraft Kitmap and Practice Network!",
+    "addresses": [
+      "potionpvp.net"
+    ],
+    "primaryAddress": "play.potionpvp.net",
+    "minecraftVersions": [
+      "1.7.*",
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#990a00",
+    "secondaryColor": "#cccccc",
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
+    "gameTypes": [
+      "PvP",
+      "HCF"
+    ],
+    "website": "https://www.potionpvp.net",
+    "store": "https://store.potionpvp.net",
+    "socials": {
+      "twitter": "PotionPvPNet",
+      "discord": "https://discord.com/invite/BURYeDzgvb"
+    }
+}

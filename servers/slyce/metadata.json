@@ -1,0 +1,20 @@
+{
+    "id": "slyce",
+    "name": "Slyce",
+    "website": "https://www.slyce.fr/",
+    "addresses": [
+        "slycemc.eu",
+        "slycemc.com",
+        "slyce.fr"
+    ],
+    "primaryAddress": "play.slycemc.eu",
+    "primaryColor": "#f29001",
+    "secondaryColor": "#6d617d",
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "slycemc",
+        "discord": "https://discord.com/invite/kFg2DtpFpd"
+    }
+}

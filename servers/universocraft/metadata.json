@@ -1,0 +1,44 @@
+{
+    "id": "universocraft",
+    "name": "UniversoCraft",
+    "website": "https://www.universocraft.com/",
+    "store": "https://tienda.universocraft.com/",
+    "addresses": [
+        "universocraft.com",
+        "mc.universocraft.net",
+        "mc.universocraft.es"
+    ],
+    "primaryAddress": "mc.universocraft.com",
+    "primaryColor": "#08a4f8",
+    "secondaryColor": "#aade1d",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "MCUniversoCraft",
+        "discord": "https://discord.com/invite/universocraft",
+        "youtube": "UniversocraftOficial",
+        "instagram": "universocraftoficial",
+        "twitch": "universocraft",
+        "reddit": "UniversoCraft",
+        "facebook": "UniversoCraftOficial"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.universocraft.com/help/privacy-policy/",
+        "termsOfService": "https://www.universocraft.com/help/terms/",
+        "rules": "https://www.universocraft.com/threads/normas-oficiales-del-servidor-universocraft.14/"
+    },
+    "presentationVideo": "5xuz3DKT0sM"
+}

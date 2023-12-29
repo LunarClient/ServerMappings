@@ -1,0 +1,36 @@
+{
+    "id": "mcgalaxycraft",
+    "name": "GalaxyCraft Network",
+    "website": "https://www.mcgalaxycraft.com/",
+    "store": "https://tienda.mcgalaxycraft.com/",
+    "addresses": [
+        "mcgalaxycraft.com"
+    ],
+    "primaryAddress": "mcgalaxycraft.com",
+    "primaryColor": "#f6dd2b",
+    "secondaryColor": "#a1b9ba",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Z5H5Gd22xK",
+        "youtube": "mcgalaxycraftcom",
+        "tiktok": "mcgalaxycraft.com"
+    }
+}

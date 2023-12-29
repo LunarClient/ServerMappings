@@ -1,0 +1,11 @@
+{
+    "id": "treepark",
+    "name": "TreeparkMC",
+    "website": "https://treepark.games/",
+    "store": "https://store.treepark.games/",
+    "addresses": [
+        "treepark.games"
+    ],
+    "primaryColor": "#f49964",
+    "secondaryColor": "#2a6c2c"
+}
