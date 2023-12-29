@@ -5,7 +5,7 @@
     "store": "https://gionnycraft.tebex.io/",
     "description": "GionnyCraft is a simple and quality server! Enjoy!",
     "addresses": [
-        "play.gionnycraft.it"
+        "gionnycraft.it"
     ],
     "primaryAddress": "play.gionnycraft.it",
     "minecraftVersions": [
@@ -32,7 +32,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://dsc.gg/GionnyCraft",
+        "discord": "https://discord.com/invite/ePhbDGhEKn",
         "instagram": "@gionnycraft",
         "telegram": "@GionnyCraft",
         "tiktok": "@gionnycraft"
