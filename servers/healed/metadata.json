@@ -1,0 +1,41 @@
+{
+    "id": "healed",
+    "name": "Healed Network",
+    "store": "https://store.healed.lol/",
+    "description": "The best old pvp server",
+    "addresses": [
+        "healed.lol",
+        "veraxpvp.live",
+        "verzmc.lat"
+    ],
+    "primaryAddress": "healed.lol",
+    "primaryColor": "#4DFF00",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/a3mz2t8Vv6"
+    }
+}

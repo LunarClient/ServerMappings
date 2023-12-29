@@ -1,10 +1,11 @@
 {
     "id": "imaginefun",
     "name": "ImagineFun",
-    "website": "https://imagineeringfun.net/",
+    "website": "https://imaginefun.net/",
     "store": "https://buy.imaginefun.net/",
     "addresses": [
-        "imaginefun.net"
+        "imaginefun.net",
+        "imagineeringfun.net"
     ],
     "primaryAddress": "mc.imaginefun.net",
     "primaryColor": "#e1cc31",
@@ -22,7 +23,7 @@
     ],
     "socials": {
         "twitter": "imagine_fun",
-        "discord": "https://discord.com/invite/disneyland",
+        "discord": "https://discord.gg/disneyland",
         "youtube": "imaginefun",
         "instagram": "imaginefun",
         "twitch": "ImagineFunLive",

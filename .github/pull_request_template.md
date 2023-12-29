@@ -25,6 +25,7 @@
     -   [ ] `regions`: a list of regions where you have servers located that service your players _(ex. `["NA", "EU", "AS"]`)_
     -   [ ] `gameTypes`: a list of games that describe the content on your server, must be a max of 3 listed _(ez. `["PVP", "UHC", "HCF"]`)_
     -   [ ] `crossplay`: whether the server has support for Bedrock Edition players (through proxies such as [GeyserMC](https://geysermc.org/))
+    -   [ ] (optional) `presentationVideo`: YouTube video ID (in slug) to server trailer / introduction _(ex. `7EV4cPuJvXE`)_
     -   [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) _(ex. `https://www.your-server.com`)_
     -   [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) _(ex. `https://store.your-server.com`)_
 
@@ -39,6 +40,11 @@
 -   [ ] (optional) `reddit`: slug of subdreddit wtih 'r/' _(ex. MyServer)_
 -   [ ] (optional) `tiktok`: username of tiktok account _(ex. MyServer)_
 -   [ ] (optional) `facebook`: slug of facebook page _(ex. MyServer)_
+
+### Compliance
+-   [ ] (optional) `privacyPolicy`: url to your Privacy Policy _(ex. https://www.lunar.gg/privacy)_
+-   [ ] (optional) `termsOfService`: url to your Terms of Service _(ex. https://www.lunar.gg/terms)_
+-   [ ] (optional) `rules`: url to your Rules _(ex. https://www.lunar.gg/rules)_
 
 ### Media:
 

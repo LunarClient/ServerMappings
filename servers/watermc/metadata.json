@@ -1,13 +1,22 @@
 {
     "id": "watermc",
     "name": "WaterMC",
-    "website": "https://www.watermc.gg/",
-    "store": "https://watermcnet.tebex.io/",
+    "website": "https://watermc.eu/",
+    "store": "https://watermc.eu/sklep",
     "addresses": [
-        "watermc.gg"
+        "watermc.eu"
     ],
+    "primaryAddress": "watermc.eu",
     "primaryColor": "#1679c9",
     "secondaryColor": "#d5d8da",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
     "gameTypes": [
         "HCF",
         "PvP"
@@ -15,6 +24,8 @@
     "socials": {
         "twitter": "watermcnetwork",
         "discord": "https://discord.com/invite/8SPk8uUJjb",
-        "instagram": "watermc_network"
+        "instagram": "watermc_network",
+        "facebook": "watermc.eu",
+        "tiktok": "watermc.eu"
     }
 }

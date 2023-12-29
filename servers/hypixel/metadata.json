@@ -43,5 +43,11 @@
         "reddit": "hypixel",
         "tiktok": "hypixel",
         "facebook": "Hypixel"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://hypixel.net/privacy",
+        "termsOfService": "https://hypixel.net/terms",
+        "rules": "https://hypixel.net/rules"
+    },
+    "presentationVideo": "bkWHyz1MmaQ"
 }
