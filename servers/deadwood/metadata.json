@@ -3,8 +3,7 @@
     "name": "Deadwood",
     "description": "The only role-playing game in the wild far west",
     "addresses": [
-        "mc.deadwood2.it",
-        "mc.deadwood2.com"
+        "mc.deadwood2.it"
     ],
     "primaryAddress": "mc.deadwood2.it",
     "minecraftVersions": [
@@ -25,10 +24,10 @@
         "EU"
     ],
     "gameTypes": [
-        "Roleplay",
+        "Roleplay"
     ],
     "socials": {
-        "telegram": "DeadwoodRP",
+        "telegram": "DeadwoodRP"
     },
     "crossplay": false
 }
