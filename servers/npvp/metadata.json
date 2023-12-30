@@ -1,0 +1,34 @@
+{
+    "id": "npvp",
+    "name": "Nigga PvP",
+    "website": "https://pvpnig.gay/",
+    "store": "https://store.pvpnig.gay/",
+    "description": "Where real niggas play.",
+    "addresses": [
+        "pvpnig.gay"
+    ],
+    "primaryAddress": "zyro.gg",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.pvpnig.gay/",
+        "twitter": "https://twitter.com/PvPNiggay"
+    }
+}
