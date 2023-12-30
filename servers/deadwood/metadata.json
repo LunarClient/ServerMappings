@@ -3,7 +3,7 @@
     "name": "Deadwood",
     "description": "The only role-playing game in the wild far west",
     "addresses": [
-        "mc.deadwood2.it"
+        "deadwood2.it"
     ],
     "primaryAddress": "mc.deadwood2.it",
     "minecraftVersions": [
