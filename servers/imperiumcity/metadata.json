@@ -1,11 +1,10 @@
 {
   "id": "imperiumcity",
   "name": "ImperiumCity.it",
-  "description": "ImperiumCity, The Imperium.",
+  "description": "Minecraft Italian Server, defeat the other players and climb the leaderboards in the pvp!",
   "store": "https://store.imperiumcity.it/",
   "addresses": [
-    "mc.imperiumcity.it",
-    "play.imperiumcity.it"
+    "imperiumcity.it"
   ],
   "primaryAddress": "mc.imperiumcity.it",
   "primaryColor": "#BB0606",
@@ -31,7 +30,7 @@
     "Minigames"
   ],
   "socials": {
-    "discord": "https://discord.imperiumcity.it",
+    "discord": "https://discord.gg/yKSt2JSa3W",
     "telegram": "ImperiumCity"
   },
   "crossplay": false
