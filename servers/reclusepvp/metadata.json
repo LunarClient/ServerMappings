@@ -4,8 +4,7 @@
     "store": "https://store.reclusepvp.com/",
     "addresses": [
         "reclusepvp.com",
-        "play.reclusepvp.com",
-        "play.minesplice.com"
+        "minesplice.com"
     ],
     "primaryAddress": "play.reclusepvp.com",
     "minecraftVersions": [
