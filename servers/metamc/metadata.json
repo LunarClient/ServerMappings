@@ -5,8 +5,8 @@
     "store": "https://store.metamc.it/",
     "addresses": [
         "metamc.it",
-        "mc.flexdojo.it",
-        "mc.nexuscraft.it"
+        "flexdojo.it",
+        "nexuscraft.it"
     ],
     "primaryAddress": "metamc.it",
     "primaryColor": "#f28536",
