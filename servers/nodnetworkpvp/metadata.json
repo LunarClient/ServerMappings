@@ -8,34 +8,20 @@
     "primaryAddress": "nodpvp.eu",
     "minecraftVersions": [
         "1.18.2",
-        "1.19.*"
+        "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
     "primaryColor": "#FF55FF",
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
-    "regions": [
-        "EU",
-    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "",
-    "store": "",
-    "compliance": {
-        "privacyPolicy": "",
-        "termsOfService": "",
-        "rules": ""
-    },
-    "presentationVideo": "",
+    "store": "http://store.nodpvp.eu",
+    "presentationVideo": "https://www.youtube.com/watch?v=2ibrP-K5nCY",
     "socials": {
-        "twitter": "",
-        "telegram": "",
         "discord": "https://dsc.gg/nodpvp"
     }
 }
