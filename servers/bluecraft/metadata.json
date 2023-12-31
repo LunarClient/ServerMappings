@@ -1,11 +1,11 @@
 {
     "id": "bluecraft",
     "name": "Bluecraft",
-    "store": "https://boutique.bluecraft.online/",
+    "store": "https://boutique.bleucraft.fr/",
     "addresses": [
-        "bluecraft.online"
+        "bleucraft.fr"
     ],
-    "primaryAddress": "join.bluecraft.online",
+    "primaryAddress": "join.bleucraft.fr",
     "primaryColor": "#930031",
     "secondaryColor": "#facc48",
     "minecraftVersions": [
