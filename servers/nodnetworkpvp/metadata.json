@@ -15,13 +15,19 @@
     "primaryColor": "#FF55FF",
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "PvP"
     ],
     "store": "http://store.nodpvp.eu",
-    "presentationVideo": "https://www.youtube.com/watch?v=2ibrP-K5nCY",
+    "presentationVideo": "2ibrP-K5nCY",
     "socials": {
-        "discord": "https://dsc.gg/nodpvp"
+        "discord": "https://discord.com/invite/C4n5vwsj5d"
     }
 }
