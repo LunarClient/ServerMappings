@@ -6,7 +6,7 @@ on:
       - master
   pull_request_target:
     branches:
-      - '*'
+      - "*"
 
 jobs:
   changes:
@@ -124,7 +124,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: us-east-1
         run: |
-          aws s3 sync .out s3://servermappings-lunarclientcdn-com --content-type "image/webp" --endpoint-url $R2_ENDPOINT
+          aws s3 sync .out s3://servermappings-lunarclientcdn-com --endpoint-url $R2_ENDPOINT
           aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
           aws s3 cp .out/servers.csv s3://servermappings-lunarclientcdn-com/servers.csv --content-type "text/csv" --endpoint-url $R2_ENDPOINT
 
