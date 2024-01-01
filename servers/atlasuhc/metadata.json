@@ -1,7 +1,7 @@
 {
     "id": "atlasuhc",
     "name": "AtlasUHC",
-    "description": "Serveur UHC.",
+    "description": "Serveur UHC français.",
     "addresses": [
         "atlasmc.fr"
     ],
