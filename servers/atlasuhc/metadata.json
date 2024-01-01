@@ -9,11 +9,12 @@
     "primaryColor": "#ffd700",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
-    "1.8.9"
+        "1.8.9"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryLanguage": "fr",
     "languages": [
-    "fr"
+        "fr"
     ],
     "primaryRegion": "EU",
     "regions": [
