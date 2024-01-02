@@ -1,0 +1,37 @@
+{
+    "id": "micpixel",
+    "name": "MicPixel",
+    "website": "http://micpixel.com/",
+    "addresses": [
+        "micpixel.com"
+    ],
+    "primaryAddress": "play.micpixel.com",
+    "primaryColor": "#fc9c14",
+    "secondaryColor": "#cc10b6",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KBDUpFWqJe",
+        "twitter": "MicPixel"
+    },
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "PvP"
+    ]
+}

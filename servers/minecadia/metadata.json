@@ -29,5 +29,11 @@
     "socials": {
         "twitter": "PlayMinecadia",
         "discord": "https://discord.com/invite/minecadia"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://store.minecadia.com/privacy",
+        "termsOfService": "https://store.minecadia.com/terms",
+        "rules": "https://minecadia.com/rules/"
+    },
+    "presentationVideo": "YT92xHJMoOw"
 }

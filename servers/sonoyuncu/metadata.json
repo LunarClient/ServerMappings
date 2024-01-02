@@ -1,0 +1,38 @@
+{
+    "id": "sonoyuncu",
+    "name": "SonOyuncu Network",
+    "website": "https://sonoyuncu.com.tr/",
+    "store": "https://sonoyuncu.com.tr/market",
+    "addresses": [
+        "sonoyuncu.network"
+    ],
+    "primaryAddress": "eu.sonoyuncu.network",
+    "primaryColor": "#efa44c",
+    "secondaryColor": "#060605",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/evy5EJD",
+        "youtube": "sonoyuncunw",
+        "instagram": "sonoyuncuofficial",
+        "facebook": "SonOyuncuNW"
+    }
+}

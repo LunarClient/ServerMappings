@@ -29,5 +29,9 @@
     "socials": {
         "twitter": "holypvpnet",
         "discord": "https://discord.gg/paQgGtzHbT"
-    }
+    },
+    "compliance": {
+        "rules": "https://www.holypvp.net/rules"
+    },
+    "presentationVideo": "MqV297quUBk"
 }

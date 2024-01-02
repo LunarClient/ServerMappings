@@ -42,5 +42,10 @@
         "instagram": "minehutmc",
         "tiktok": "minehut",
         "facebook": "MinehutServers"
+    },
+    "compliance": {
+        "privacyPolicy": "https://app.minehut.com/privacy-policy",
+        "termsOfService": "https://app.minehut.com/terms-of-service",
+        "rules": "https://forums.minehut.com/rules/"
     }
 }

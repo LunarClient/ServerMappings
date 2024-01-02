@@ -12,10 +12,13 @@ Lunar Client exposes a static dump of this data on our CDN in JSON form which yo
 
 This CDN includes the following files:
 
-- `servers.json` - A list of all servers which are in Server Mappings. This also includes two additional fields: `enriched` (given to servers we feel provide all the necessary information) and `inactive` (given to servers we have deemed inactive).
-- `logos/<id>.png` - The logo for the provided server ID.
-- `backgrounds/<id>.png` - The background for the provided server ID.
-- `banners/<id>.png` - The banner sprite for the provided server ID.
-- `banners/<id>.json` - The banner frame animation timings for the provided server ID.
+-   `servers.json` - A list of all servers which are in Server Mappings. This also includes some additional fields:
+        - `enriched`, given to servers we feel provide all the necessary information
+        - `inactive`, given to servers we have deemed inactive
+        - `discord_logo_uploaded`, given to servers who have had their logos uploaded to our Discord Rich Presence app. This is done on a case-by-case basis.
+-   `logos/<id>.png` - The logo for the provided server ID.
+-   `backgrounds/<id>.png` - The background for the provided server ID.
+-   `banners/<id>.png` - The banner sprite for the provided server ID.
+-   `banners/<id>.json` - The banner frame animation timings for the provided server ID.
 
 > Each of the images can also be accessed through the CDN in their WEBP format. You can do so by simply switching the `.png` extension for `.webp`.
