@@ -1,0 +1,36 @@
+{
+    "id": "suncraft",
+    "name": "SunCraft Network",
+    "store": "https://tienda.suncraft.lol/",
+    "addresses": [
+        "suncraft.lol"
+    ],
+    "primaryAddress": "suncraft.lol",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#5cc5a3",
+    "secondaryColor": "#4f4f3a",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.suncraft.lol/",
+        "tiktok": "suncraftmc"
+    }
+}
