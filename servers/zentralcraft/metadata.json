@@ -6,8 +6,8 @@
         "zentralcraft.com"
     ],
     "primaryAddress": "mc.zentralcraft.com",
-    "primaryColor": "#SE8AD6",
-    "secondaryColor": "#D85BFD",
+    "primaryColor": "#f8ecfd",
+    "secondaryColor": "#083467",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
@@ -21,10 +21,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
-        "Adventure",
-        "Parkour",
-        "Minigames"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.zentralcraft.com",
