@@ -1,0 +1,34 @@
+{
+    "id": "bluecraft",
+    "name": "Bluecraft",
+    "store": "https://boutique.bleucraft.fr",
+    "addresses": [
+        "bleucraft.fr"
+    ],
+    "primaryAddress": "join.bleucraft.fr",
+    "primaryColor": "#00E4FF",
+    "secondaryColor": "#003EFF",
+    "minecraftVersions": [
+        "1.19.*"
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Vqkmf4JMhw",
+        "instagram": "bleucraftofficiel",
+        "tiktok": "bluecraftofficiel"
+    }
+}
