@@ -1,11 +1,11 @@
 {
-    "id": "stargamess",
-    "name": "Star-Gamess",
-    "store": "https://star-gamess14.buycraft.net/",
+    "id": "mcgames",
+    "name": "MC-GAMES",
+    "store": "https://mc-games14.buycraft.net",
     "addresses": [
-        "star-gamess.com"
+        "mc-games.club"
     ],
-    "primaryAddress": "play.star-gamess.com",
+    "primaryAddress": "play.mc-games.club",
     "primaryColor": "#0BE0F5",
     "secondaryColor": "#0BA0F5",
     "minecraftVersions": [
@@ -23,6 +23,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/star-gamess"
+        "discord": "https://discord.com/invite/mc-games"
     }
 }
