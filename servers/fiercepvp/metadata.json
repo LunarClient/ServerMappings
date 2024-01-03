@@ -29,7 +29,8 @@
         "NA"
     ],
     "gameTypes": [
-	"KitMap",
+	"PvP",
+	"HCF",
         "Prison"
     ],
     "socials": {
