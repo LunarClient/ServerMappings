@@ -4,8 +4,7 @@
     "website": "https://prismamc.net",
     "store": "https://tienda.prismamc.net/",
     "addresses": [
-        "prismamc.net",
-        "play.prismamc.net"
+        "prismamc.net"
     ],
     "primaryAddress": "prismamc.net",
     "primaryColor": "#c9f5f7",
