@@ -112,7 +112,7 @@ jobs:
           --inactive_file inactive.json \
           --json_output .out/servers.json \
           --csv_output .out/servers.csv \
-          --include_inactive
+          --no-include_inactive
 
       - name: Upload to Cloudflare
         env:
