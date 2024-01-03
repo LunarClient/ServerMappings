@@ -1,0 +1,32 @@
+{
+    "id": "badhub",
+    "name": "BadHub.cz",
+    "website": "https://www.badhub.cz",
+    "store": "https://store.badhub.cz",
+    "addresses": [
+        "badhub.cz"
+    ],
+    "primaryAddress": "mc.badhub.cz",
+    "primaryColor": "#009013",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.badhub.cz",
+        "tiktok": "mc.badhub.cz",
+        "instagram": "badhub.cz"
+    }
+}
