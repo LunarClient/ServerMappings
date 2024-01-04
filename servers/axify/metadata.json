@@ -4,17 +4,7 @@
     "website": "https://www.axifynetwork.xyz/",
     "store": "https://store.axifynetwork.xyz/",
     "addresses": [
-        "godly.axifynetwork.xyz",
-        "axifynetwork.xyz",
-        "ulti.axifynetwork.xyz",
-        "eu.axifynetwork.xyz",
-        "happy.axifynetwork.xyz",
-        "jaytex.axifynetwork.xyz",
-        "us.axifynetwork.xyz",
-        "pvp.axifynetwork.xyz",
-        "factions.axifynetwork.xyz",
-        "prisons.axifynetwork.xyz",
-        "dev.axifynetwork.xyz"
+        "axifynetwork.xyz"
     ],
     "primaryAddress": "play.axifynetwork.xyz",
     "primaryColor": "#5555FF",
