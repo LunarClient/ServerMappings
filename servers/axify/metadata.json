@@ -36,7 +36,7 @@
     "gameTypes": [
         "Prison",
         "Factions",
-        "AxePvP"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/axify"
