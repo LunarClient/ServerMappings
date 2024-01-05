@@ -1,0 +1,23 @@
+{
+    "id": "sorux",
+    "EUme": "sorux",
+    "store": "https://sorux.net/store",
+    "addresses": [
+        "sorux.net",
+        "mc.sorux.net"
+    ],
+    "primaryAddress": "sorux.net",
+    "primaryColor": "#D53434",
+    "secondaryColor": "#FFFFFFBF",
+    "minecraftVersions": [
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions"
+    ]
+}
