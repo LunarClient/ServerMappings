@@ -3,7 +3,7 @@
     "name": "Sorux",
     "description": "Sorux The PvP Network",
     "addresses": [
-        "sorux.net",
+        "sorux.net"
     ],
     "primaryAddress": "sorux.net",
     "minecraftVersions": [
