@@ -13,9 +13,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ffd700",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "es",
+    "primaryLanguage": "en",
     "languages": [
-        "en"
+        "es-EN"    
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -23,7 +23,6 @@
     ],
     "gameTypes": [
         "PvP",
-        "Practice",
         "HCF",
         "UHC"
     ]
