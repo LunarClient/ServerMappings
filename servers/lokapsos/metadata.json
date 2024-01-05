@@ -2,7 +2,7 @@
     "id": "lokapsos",
     "name": "LOKAPSOS",
     "description": "LOKAPSOS | ¡Tu comunidad más única!"
-	"store": "https://store.lokapsos.es"
+    "store": "https://store.lokapsos.es"
     "addresses": [
         "lokapsos.es"
     ],
@@ -16,14 +16,14 @@
     "secondaryColor": "	#55FF55",
     "gameTypes": [
         "PvP",
-		"PvE",
+	"PvE",
         "Survival",
-		"Factions",
-		"Prison"
+	"Factions",
+	"Prison"
     ],
     "store": "https://store.lokapsos.es",
     "socials": {
         "discord": "https://discord.gg/lokapsos-network-discord-oficial-472153211613216778"
-		"twitter": "https://twitter.com/mclokapsos"
+	"twitter": "https://twitter.com/mclokapsos"
     }
 }
