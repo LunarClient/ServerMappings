@@ -4,7 +4,6 @@
     "description": "Sorux The PvP Network",
     "addresses": [
         "sorux.net",
-        "mc.sorux.net"
     ],
     "primaryAddress": "sorux.net",
     "minecraftVersions": [
