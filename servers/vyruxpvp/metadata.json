@@ -15,7 +15,8 @@
     "secondaryColor": "#ffffff",
     "primaryLanguage": "en",
     "languages": [
-        "es-EN"    
+        "es-EN",
+        "en"
     ],
     "primaryRegion": "NA",
     "regions": [
