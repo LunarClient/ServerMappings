@@ -3,7 +3,9 @@
     "name": "LOKAPSOS",
     "description": "LOKAPSOS | ¡Tu comunidad más única!",
     "store": "https://store.lokapsos.es",
-    "addresses": "lokapsos.es",
+    "addresses": [
+        "lokapsos.es"
+    ],
     "primaryAddress": "mc.lokapsos.es",
     "minecraftVersions": [
         "1.8.*",
@@ -11,8 +13,6 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
-        "PvP",
-        "PvE",
         "Survival",
         "Prison",
         "Factions"
