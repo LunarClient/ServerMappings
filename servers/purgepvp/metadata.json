@@ -1,6 +1,7 @@
 {
     "id": "purgepvp",
     "name": "PurgePvP Network",
+    "store": "store.purgepvp.es",
     "description": "The best new HCF Network in the world",
     "addresses": [
         "purgepvp.es"
