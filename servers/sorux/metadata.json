@@ -1,24 +1,27 @@
 {
     "id": "sorux",
     "name": "Sorux",
-    "website": "https://sorux.net/",
-    "store": "https://sorux.net/store/",
+    "description": "Sorux The PvP Network",
     "addresses": [
         "sorux.net",
         "mc.sorux.net"
     ],
     "primaryAddress": "sorux.net",
-    "primaryColor": "#D53434",
-    "secondaryColor": "#1A1A1A",
     "minecraftVersions": [
-        "1.8.*",
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryRegion": "EU",
+    "primaryColor": "#D53434",
+    "secondaryColor": "#1A1A1A",
     "regions": [
         "EU"
     ],
+    "primaryRegion": "EU",
     "gameTypes": [
         "Factions"
-    ]
+    ],
+    "store": "https://sorux.net/store",
+    "socials": {
+        "discord": "https://discord.gg/ZNTWUPK4ff"
+    }
 }
