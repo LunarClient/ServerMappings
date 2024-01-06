@@ -11,8 +11,8 @@
     "Minigames",
     "Parkour"
   ],
-  "primaryColor": "",
-  "secondaryColor": "",
+  "primaryColor": "#7414D7",
+  "secondaryColor": "#4307AB",
   "minecraftVersions": [
     "1.8.*",
     "1.12.*",
