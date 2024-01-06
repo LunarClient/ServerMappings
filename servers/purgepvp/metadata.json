@@ -6,7 +6,7 @@
     "addresses": [
         "purgepvp.es"
     ],
-    "primaryAddress": "play.purgepvp.es",
+    "primaryAddress": "mc.purgepvp.es",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
