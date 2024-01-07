@@ -3,10 +3,9 @@
     "name": "UnitedCraft",
     "description": "Twój ulubiony serwer Minecraft!",
     "addresses": [
-        "unitedcraft.pl",
-        "mc.unitedcraft.pl"
+        "unitedcraft.pl"
     ],
-    "primaryAddress": "unitedcraft.pl",
+    "primaryAddress": "mc.unitedcraft.pl",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
