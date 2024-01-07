@@ -1,8 +1,8 @@
 {
     "id": "floralmc",
     "name": "FloralMC",
-    "store": "https://floralmc.tebex.io",
     "website": "https://floralmc.xyz",
+    "store": "https://floralmc.tebex.io",
     "addresses": [
         "floralmc.xyz"
     ],
