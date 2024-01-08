@@ -3,7 +3,8 @@
     "name": "MineCave",
     "store": "https://store.minecave.org",
     "addresses": [
-        "minecave.org"
+        "minecave.org",
+        "minecave.in"
     ],
     "primaryAddress": "play.minecave.org",
     "primaryColor": "#b87d00",
