@@ -1,0 +1,32 @@
+{
+    "id": "aussieglory",
+    "name": "Aussie Glory",
+    "description": "",
+    "addresses": [
+        "aussieglory.net"
+    ],
+    "primaryAddress": "aussieglory.net",
+    "minecraftVersions": [
+        "1.8.*"
+
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "",
+    "secondaryColor": "",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AU",
+    "regions": [
+        "AU"   
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "",
+    "socials": {
+        "discord": "https://dsc.gg/aussieglory"
+    }
+}
