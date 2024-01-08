@@ -36,9 +36,9 @@
     },
     "socials": {
         "discord": "https://discord.com/invite/htBSdp6ER5",
-        "instagram": "https://www.instagram.com/unitedcraftpl",
-        "tiktok": "https://www.tiktok.com/@unitedcraftpl",
-        "facebook": "https://www.facebook.com/unitedcraftpolska"
+        "instagram": "unitedcraftpl",
+        "tiktok": "@unitedcraftpl",
+        "facebook": "unitedcraftpolska"
     },
     "crossplay": false
 }
