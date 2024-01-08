@@ -1,8 +1,8 @@
 {
     "id": "minehut",
     "name": "Minehut Server",
-    "website": "https://minehut.com/",
-    "store": "https://minehut.com/shop/credits/",
+    "website": "https://app.minehut.com/",
+    "store": "https://app.minehut.com/shop/credits/",
     "description": "The largest Minecraft network connecting millions of servers.",
     "addresses": [
         "minehut.com",
@@ -16,9 +16,10 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.20",
     "primaryColor": "#19F4B9",
     "secondaryColor": "#00081A",
     "primaryLanguage": "en",
@@ -47,5 +48,6 @@
         "privacyPolicy": "https://app.minehut.com/privacy-policy",
         "termsOfService": "https://app.minehut.com/terms-of-service",
         "rules": "https://forums.minehut.com/rules/"
-    }
+    },
+    "presentationVideo": "jzOIURoz1v4"
 }
