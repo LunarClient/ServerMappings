@@ -270,9 +270,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                         path,
                         {
                             "incorrect": [],
-                            "enum": "".join(
-                                [f"   - {s}\n" for s in error.validator_value]
-                            ),
+                            "enum": enum,
                         },
                     )
                     incorrect_values["incorrect"].append(error.instance)
