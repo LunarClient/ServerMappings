@@ -255,6 +255,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
 
             # Get all the errors that are in the json and add to messages
             errors = jsonschema.Draft7Validator(metadata_schema).iter_errors(server)
+            enumn_errors = {}
             for error in errors:
                 # Clean path
                 path = error.json_path
@@ -265,9 +266,17 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
 
                 if error.validator == "enum":
                     enum = "".join([f"   - {s}\n" for s in error.validator_value])
-                    messages[server_id].append(
-                        f'"{error.instance}" is not an acceptable input for `{path}`:\n{enum}'
+                    incorrect_values = enumn_errors.get(
+                        path,
+                        {
+                            "incorrect": [],
+                            "enum": "".join(
+                                [f"   - {s}\n" for s in error.validator_value]
+                            ),
+                        },
                     )
+                    incorrect_values["incorrect"].append(error.instance)
+                    enumn_errors[path] = incorrect_values
                 elif error.validator == "pattern":
                     messages[server_id].append(
                         f'"{error.instance}" does not match the regex pattern "{error.validator_value}" in '
@@ -288,6 +297,14 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                     )
                 else:  # If the error isn't defined above show the message.
                     messages[server_id].append(error.message)
+
+            for key, value in enumn_errors.items():
+                enum = value["enum"]
+                incorrect = value["incorrect"]
+
+                messages[server_id].append(
+                    f'{", ".join([f"`{s}`" for s in incorrect])} is not an acceptable input for `{key}`:\n{enum}'
+                )
 
     return messages
 
