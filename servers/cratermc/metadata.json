@@ -17,7 +17,15 @@
     "primaryMinecraftVersion": "1.20",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+	"primaryRegion": "EU",
+    "regions": [
+        "EU",
+		"NA"
+    ],
     "gameTypes": [
         "PvP",
 		"SkyBlock"
@@ -25,7 +33,7 @@
     "website": "https://www.cratermc.com",
     "store": "https://tienda.cratermc.com",
     "socials": {
-        "discord": "https://tienda.cratermc.com"
+        "discord": "https://discord.gg/cratermc"
     },
     "crossplay": true
 }
