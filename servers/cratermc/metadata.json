@@ -1,0 +1,31 @@
+{
+    "id": "cratermc",
+    "name": "CraterMC Network",
+    "description": "Server competitive with boxpvp",
+    "addresses": [
+        "cratermc.com",
+        "bedrock.cratermc.com"
+    ],
+    "primaryAddress": "cratermc.com",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es",
+    "gameTypes": [
+        "PvP",
+		"SkyBlock"
+    ],
+    "website": "https://www.cratermc.com",
+    "store": "https://tienda.cratermc.com",
+    "socials": {
+        "discord": "https://tienda.cratermc.com"
+    },
+    "crossplay": true
+}
