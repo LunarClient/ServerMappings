@@ -17,9 +17,7 @@
     "gameTypes": [
         "Minigames",
         "PvP",
-        "Survival",
-        "PvE",
-        "Adventure"
+        "Survival"
     ],
     "socials": {
         "twitter": "playviolets",
