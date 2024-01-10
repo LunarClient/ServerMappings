@@ -4,8 +4,7 @@
     "website": "https://www.cratermc.com/",
     "store": "https://tienda.cratermc.com/",
     "addresses": [
-        "cratermc.com",
-	"bedrock.cratermc.com"
+        "cratermc.com"
     ],
     "primaryAddress": "cratermc.com",
     "primaryColor": "#FFAA00",
