@@ -12,7 +12,7 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#33B2FF",
-    "secondaryColor": "A7DDFE",
+    "secondaryColor": "#A7DDFE",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
@@ -24,7 +24,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "MiniGames"
+        "HCF",
+        "Minigames"
     ],
     "socials": {
         "twitter": "GelicNetwork",
