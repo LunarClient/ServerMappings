@@ -32,8 +32,7 @@
     "gameTypes": [
         "Prison",
         "Survival",
-        "Skyblock",
-        "Parkour"
+        "Skyblock"
     ],
     "socials": {
         "discord": "https://discord.com/invite/archer",
