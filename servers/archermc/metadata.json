@@ -4,12 +4,12 @@
     "website": "https://archermc.net/",
     "store": "https://buy.archermc.net/",
     "addresses": [
-        "play.archermc.net",
+        "archermc.net",
         "archermc.org",
         "archerpvp.us",
         "fireprison.co"
     ],
-    "primaryAddress": "play.archermc.net",
+    "primaryAddress": "archermc.net",
     "primaryColor": "#b91a17",
     "secondaryColor": "#e96a2f",
     "minecraftVersions": [
@@ -32,8 +32,7 @@
         "Prison",
         "Survival",
         "Skyblock",
-        "Oneblock",
-        "Gens"
+        "Parkour"
     ],
     "socials": {
         "discord": "https://discord.com/invite/archer",
