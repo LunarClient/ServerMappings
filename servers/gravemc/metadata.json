@@ -1,6 +1,8 @@
 {
     "id": "gravemc",
     "name": "GraveMC",
+    "description": "The graveyard you wish to say in",
+    "website": "https://www.gravemc.net/",
     "store": "https://store.gravemc.net/",
     "addresses": [
         "gravemc.net"
@@ -33,9 +35,8 @@
     ],
     "gameTypes": [
         "PVP",
-        "PVE",
-        "Minigames",
-        "Prison"
+        "Prison",
+        "Minigames"
     ]
     "socials": {
         "twitter": "GraveMC_Network",
