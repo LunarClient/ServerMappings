@@ -4,9 +4,12 @@
     "website": "https://archermc.net/",
     "store": "https://buy.archermc.net/",
     "addresses": [
-        "play.archermc.net"
+        "archermc.net",
+        "archermc.org",
+        "archerpvp.us",
+        "fireprison.co"
     ],
-    "primaryAddress": "play.archermc.net",
+    "primaryAddress": "archermc.net",
     "primaryColor": "#b91a17",
     "secondaryColor": "#e96a2f",
     "minecraftVersions": [
@@ -16,19 +19,25 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.20.4",
     "crossplay": true,
+    "presentationVideo": "79iSDvBBOpI",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "Prison"
+        "Prison",
+        "Survival",
+        "Skyblock"
     ],
     "socials": {
         "discord": "https://discord.com/invite/archer",
-        "youtube": "Archernetwork"
+        "youtube": "Archernetwork",
+        "tiktok": "archernetwork"
+
     }
 }
