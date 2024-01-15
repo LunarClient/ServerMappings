@@ -9,17 +9,27 @@
     ],
     "primaryAddress": "mc.minelibre.es",
     "minecraftVersions": [
-        "1.17.",
-        "1.18.",
-        "1.19.",
-        "1.20."
+        "1.17.1",
+        "1.17.2",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.1",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20.",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4"
     ],
     "primaryMinecraftVersion": "1.19.2",
     "primaryColor": "#3aba3d",
     "secondaryColor": "#d9452e",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "primaryRegion": "NA",
@@ -32,7 +42,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "BoxPvP",
+        "Adventure",
         "Parkour"
     ],
     "website": "https://minelibre.es",
