@@ -1,0 +1,33 @@
+{
+    "id": "findmc",
+    "name": "FindMC",
+    "website": "https://findmc.pl",
+    "store": "https://findmc.pl/modes",
+    "addresses": [
+        "findmc.pl"
+    ],
+    "primaryAddress": "findmc.pl",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#1e56ff",
+    "secondaryColor": "#1f8ae2",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/n5jmWwa7",
+        "tiktok": "findmc_pl"
+    }
+}
