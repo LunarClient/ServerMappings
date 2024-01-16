@@ -6,7 +6,7 @@
     "addresses": [
         "strafe.world"
     ],
-    "primaryAddress": "strafe.world",
+    "primaryAddress": "play.strafe.world",
     "primaryColor": "#55FF55",
     "secondaryColor": "#00AA00",
     "minecraftVersions": [
