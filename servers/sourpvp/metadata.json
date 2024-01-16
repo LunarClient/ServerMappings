@@ -21,8 +21,7 @@
     "primaryMinecraftVersion": "1.20",
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "sr"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -30,8 +29,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
-        "Lifesteal"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/sourpvp"
