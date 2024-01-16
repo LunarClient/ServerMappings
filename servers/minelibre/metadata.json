@@ -3,9 +3,9 @@
     "name": "Minelibre Games",
     "description": "Servidor latino especializado en Survival.",
     "addresses": [
-        "mc.minelibre.es",
-        "mc.minelibregames.es",
-        "mc.minelibre.net"
+        "minelibre.es",
+        "minelibregames.es",
+        "minelibre.net"
     ],
     "primaryAddress": "mc.minelibre.es",
     "minecraftVersions": [
