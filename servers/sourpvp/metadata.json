@@ -47,6 +47,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/sourpvp"
-    }
+        "discord": "https://discord.com/invite/sourpvp"
+    },
+    "crossplay": false
 }
