@@ -2,6 +2,7 @@
     "id": "practicepvpnetwork",
     "name": "PracticePvP",
     "description": "Practice français competitif",
+    "store": "https://store.practicepvp.fr",
     "addresses": [
         "practicepvp.fr"
     ],
@@ -30,12 +31,6 @@
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://store.practicepvp.fr",
-    "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
-    },
     "socials": {
         "discord": "https://discord.gg/C4n5vwsj5d"
     },
