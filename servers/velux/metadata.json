@@ -1,0 +1,30 @@
+{
+    "id": "velux",
+    "name": "VeluxPvP Network",
+    "description": "VeluxPvP: Thrilling Minecraft server with intense PvP battles and unique arenas.",
+    "addresses": [
+        "eu.veluxpvp.net",
+        "na.veluxpvp.net"
+    ],
+    "primaryAddress": "veluxpvp.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D53434",
+    "secondaryColor": "#1A1A1A",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "Practice",
+        "Skyblock",
+        "Prison"
+    ],
+    "store": "https://store.veluxpvp.net",
+    "socials": {
+        "discord": "https://discord.gg/6M5zxHubY4"
+    }
+}
