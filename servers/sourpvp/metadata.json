@@ -1,6 +1,7 @@
 {
     "id": "sourpvp",
     "name": "SourPvP",
+    "description": "The best enchanced minecraft experience",
     "store": "https://store.sourpvp.net/",
     "addresses": [
         "sourpvp.net"
