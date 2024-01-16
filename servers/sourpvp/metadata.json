@@ -4,7 +4,7 @@
     "description": "The best enchanced minecraft experience",
     "store": "https://store.sourpvp.net/",
     "addresses": [
-        "sourpvp.net"
+        "play.sourpvp.net"
     ],
     "primaryAddress": "play.sourpvp.net",
     "primaryColor": "#ffcc00",
@@ -16,28 +16,9 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*",
-        "1.8.9",
-        "1.12.2",
-        "1.16.5",
-        "1.17.1",
-        "1.18.1",
-        "1.18.2",
-        "1.19",
-        "1.19.2",
-        "1.19.3",
-        "1.19.4",
-        "1.20",
-        "1.20.1",
-        "1.20.2",
-        "1.20.3",
-        "1.20.4"
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -48,6 +29,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/sourpvp"
-    },
-    "crossplay": false
+    }
 }
