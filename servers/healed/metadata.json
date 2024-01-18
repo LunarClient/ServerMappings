@@ -1,14 +1,12 @@
 {
     "id": "healed",
     "name": "Healed Network",
-    "store": "https://store.healed.lol/",
-    "description": "The best old pvp server",
+    "store": "https://store.healed.es/",
+    "description": "The best adventure and creative server.",
     "addresses": [
-        "healed.lol",
-        "veraxpvp.live",
-        "verzmc.lat"
+        "healed.es"
     ],
-    "primaryAddress": "healed.lol",
+    "primaryAddress": "healed.es",
     "primaryColor": "#4DFF00",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
@@ -32,10 +30,11 @@
         "en"
     ],
     "gameTypes": [
-        "HCF",
+        "Adventure",
+        "Survival",
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/a3mz2t8Vv6"
+        "discord": "https://discord.gg/Vqz98tfNCq"
     }
 }
