@@ -27,7 +27,6 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Creative",
         "Skyblock"
     ],
     "store": "https://tienda.zestian.co",
