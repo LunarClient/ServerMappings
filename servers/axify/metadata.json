@@ -4,7 +4,8 @@
     "website": "https://www.axifynetwork.xyz/",
     "store": "https://store.axifynetwork.xyz/",
     "addresses": [
-        "axifynetwork.xyz"
+        "axifynetwork.xyz",
+        "axifynetwork.com"
     ],
     "primaryAddress": "play.axifynetwork.xyz",
     "primaryColor": "#5555FF",
