@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "mc.over-shot.eu",
     "primaryColor": "#7fff00",
-    "secondaryColor": "eeff01",
+    "secondaryColor": "#eeff01",
     "minecraftVersions": [
         "1.8.*",
         "1.20.*"
@@ -18,7 +18,7 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival, PVP Minigames"
+        "Survival, Minigames"
     ],
     "socials": {
         "discord": "https://discord.com/invite/nehqTEAuzz"
