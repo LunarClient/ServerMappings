@@ -1,0 +1,66 @@
+{
+    "id": "skycraftbr",
+    "name": "SkyCraft Network",
+    "description": "O melhor servidor brasileiro de Minigames e SkyBlock!",
+    "addresses": [
+        "skycraft.com.br",
+        "skycraft.network",
+        "skycraft.games"
+    ],
+    "primaryAddress": "original.skycraft.com.br",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e09500",
+    "secondaryColor": "#168891",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Skyblock",
+        "Creative"
+    ],
+    "website": "https://skycraft.com.br",
+    "store": "https://loja.skycraft.com.br",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://skycraft.com.br/regras"
+    },
+    "presentationVideo": "WhITZG25Go8",
+    "socials": {
+        "twitter": "NetworkSkycraft",
+        "discord": "https://discord.gg/skycraft",
+        "youtube": "https://www.youtube.com/@SkyCraftOficial",
+        "instagram": "networkskycraft",
+        "twitch": "https://www.twitch.tv/networkskycraft",
+        "tiktok": "networkskycraft",
+        "facebook": "https://www.facebook.com/NetworkSkycraft/"
+    },
+    "crossplay": false
+}
