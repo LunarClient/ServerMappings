@@ -47,11 +47,11 @@
     "socials": {
         "twitter": "NetworkSkycraft",
         "discord": "https://discord.gg/skycraft",
-        "youtube": "https://www.youtube.com/@SkyCraftOficial",
+        "youtube": "@SkyCraftOficial",
         "instagram": "networkskycraft",
-        "twitch": "https://www.twitch.tv/networkskycraft",
+        "twitch": "networkskycraft",
         "tiktok": "networkskycraft",
-        "facebook": "https://www.facebook.com/NetworkSkycraft/"
+        "facebook": "NetworkSkycraft"
     },
     "crossplay": false
 }
