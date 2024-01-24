@@ -3,8 +3,7 @@
     "name": "Ultrix Club",
     "description": "La mejor experiencia en Prison y PvP en español.",
     "addresses": [
-        "ultrix.club",
-        "tcpshield.ultrix.club"
+        "ultrix.club"
     ],
     "primaryAddress": "ultrix.club",
     "minecraftVersions": [
@@ -34,7 +33,7 @@
     ],
     "store": "https://store.ultrix.club",
     "socials": {
-        "discord": "https://discord.ultrix.club"
+        "discord": "https://discord.com/invite/GjdSUwBGvJ"
     },
     "crossplay": false
 }
