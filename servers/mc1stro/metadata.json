@@ -1,0 +1,37 @@
+{
+    "id": "1stnetwork",
+    "name": "1st Network",
+    "description": "A minecraft romanian server",
+    "addresses": [
+        "mc-1st.ro"
+    ],
+    "primaryAddress": "mc-1st.ro",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF0000",
+    "primaryLanguage": "ro",
+    "languages": [
+        "ro"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://mc-1st.ro",
+    "store": "https://store.mc-1st.ro",
+    "presentationVideo": "N/A",
+    "socials": {
+        "tiktok": "https://www.tiktok.com/@1st.ro",
+        "discord": "https://discord.mc-1st.ro/"
+    },
+    "crossplay": false
+}
