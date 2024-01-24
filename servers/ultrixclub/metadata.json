@@ -10,13 +10,7 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
@@ -25,10 +19,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ffe600",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
-        "en"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -36,9 +29,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "FullPvP",
         "Prison",
-        "Practice",
         "Survival"
     ],
     "store": "https://store.ultrix.club",
