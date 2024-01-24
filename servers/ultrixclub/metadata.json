@@ -1,0 +1,49 @@
+{
+    "id": "ultrixclub",
+    "name": "Ultrix Club",
+    "description": "La mejor experiencia en Prison y PvP en español.",
+    "addresses": [
+        "ultrix.club",
+        "tcpshield.ultrix.club"
+    ],
+    "primaryAddress": "ultrix.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffe600",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "FullPvP",
+        "Prison",
+        "Practice",
+        "Survival"
+    ],
+    "store": "https://store.ultrix.club",
+    "socials": {
+        "discord": "https://discord.ultrix.club"
+    },
+    "crossplay": false
+}
