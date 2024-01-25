@@ -16,6 +16,10 @@
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "pt-PT",
+    "languages": [
+        "pt-PT"
+    ],
     "gameTypes": [
         "Prison"
     ],

@@ -10,6 +10,13 @@
     "primaryAddress": "mc.freakyville.net",
     "primaryColor": "#fdc713",
     "secondaryColor": "#aa5c16",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Prison",
         "Skyblock",

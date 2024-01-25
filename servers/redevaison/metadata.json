@@ -17,6 +17,10 @@
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
     "gameTypes": [
         "Factions"
     ],

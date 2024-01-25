@@ -32,9 +32,16 @@
     ],
     "website": "https://www.lunar.gg",
     "store": "https://store.lunar.gg",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
+    },
+    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
         "twitter": "LunarNetwork",
         "telegram": "lunarnetwork",
         "discord": "https://www.lunar.gg/discord"
-    }
+    },
+    "crossplay": false
 }

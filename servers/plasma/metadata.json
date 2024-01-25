@@ -1,0 +1,35 @@
+{
+    "id": "plasma",
+    "name": "Plasma",
+    "website": "https://plasmamc.cc/",
+    "store": "https://store.plasmamc.cc/",
+    "addresses": [
+        "plasmamc.cc",
+        "bagells.xyz",
+        "bagells.minehut.gg"
+    ],
+    "primaryAddress": "plasmamc.cc",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FF5555",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "plasmamc",
+        "discord": "https://discord.gg/plasmamc"
+    }
+}

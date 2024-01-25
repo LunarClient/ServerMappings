@@ -1,0 +1,32 @@
+{
+    "id": "terraemc",
+    "name": "TerraeMC",
+    "website": "https://terraemc.net/",
+    "store": "https://store.terraemc.net/",
+    "addresses": [
+        "terraemc.net"
+    ],
+    "primaryAddress": "play.terraemc.net",
+    "primaryColor": "#fbd83b",
+    "secondaryColor": "#1fa6cf",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "terraemc",
+        "discord": "https://discord.com/invite/CQ2DYwH",
+        "tiktok": "terraemc"
+    }
+}

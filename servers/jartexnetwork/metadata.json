@@ -9,18 +9,20 @@
         "jartex.fun",
         "jartexnetwork.net"
     ],
+    "primaryAddress": "jartexnetwork.com",
+    "primaryColor": "#f7d331",
+    "secondaryColor": "#d78207",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20"
     ],
-    "primaryAddress": "jartexnetwork.com",
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#f7d331",
-    "secondaryColor": "#d78207",
+    "crossplay": true,
     "gameTypes": [
         "Minigames",
         "Factions",
