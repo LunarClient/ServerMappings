@@ -12,8 +12,8 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#BF79FD",
+    "secondaryColor": "#FB1DEB",
     "primaryLanguage": "en",
     "languages": [
         "en"
