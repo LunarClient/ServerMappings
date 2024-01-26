@@ -26,7 +26,6 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "PvP",
         "Prison"
     ],
     "socials": {
