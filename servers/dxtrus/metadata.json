@@ -1,7 +1,7 @@
 {
     "id": "dxtrus",
     "name": "DXTRUS",
-    "description": "DXTRUS Network",
+    "description": "DXTRUS Network, Just a Stateless Minecraft Server",
     "store": "https://store.dxtrus.net/",
     "addresses": [
         "dxtrus.net"
@@ -26,7 +26,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "PVP",
+        "PvP",
         "Prison"
     ],
     "socials": {
