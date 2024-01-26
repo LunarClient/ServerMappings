@@ -1,0 +1,37 @@
+{
+    "id": "balkanland",
+    "name": "BalkanLand Network",
+    "addresses": [
+        "play.balkanland.xyz",
+        "play.mcbalkanland.xyz"
+    ],
+    "primaryAddress": "play.balkanland.xyz",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#8F41DC",
+    "secondaryColor": "#52257D",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Towny"
+    ],
+    "website": "https://play.balkanland.xyz",
+    "store": "https://store.balkanland.xyz",
+    "socials": {
+        "tiktok": "@balkanland8",
+        "discord": "https://discord.gg/balkanland-1079043253124477040"
+    },
+    "crossplay": false
+}
