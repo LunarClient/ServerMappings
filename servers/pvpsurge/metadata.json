@@ -7,8 +7,8 @@
         "pvpsurge.net"
     ],
     "primaryAddress": "play.pvpsurge.net",
-    "primaryColor": "#3ddff8",
-    "secondaryColor": "#6a7274",
+    "primaryColor": "#1d87f1",
+    "secondaryColor": "#3ab3da",
     "minecraftVersions": [
         "1.8.*",
         "1.19.*",
