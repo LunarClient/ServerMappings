@@ -7,8 +7,8 @@
         "yaymc.com"
     ],
     "primaryAddress": "play.yaymc.com",
-    "primaryColor": "#e74b3c",
-    "secondaryColor": "#9c382f",
+    "primaryColor": "#ffa500",
+    "secondaryColor": "#ffa500",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
