@@ -2,8 +2,8 @@
     "id": "balkanland",
     "name": "BalkanLand Network",
     "addresses": [
-        "play.balkanland.xyz",
-        "play.mcbalkanland.xyz"
+        "balkanland.xyz",
+        "mcbalkanland.xyz"
     ],
     "primaryAddress": "play.balkanland.xyz",
     "minecraftVersions": [
