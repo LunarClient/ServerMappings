@@ -1,0 +1,36 @@
+{
+    "id": "hesovodoupe",
+    "name": "HesovoDoupe",
+    "website": "https://hesovodoupe.cz/",
+    "description": "Czech minecraft server with SlimeFun, RolePlay and more!",
+    "addresses": [
+        "hesovodoupe.cz"
+    ],
+    "primaryAddress": "mc.hesovodoupe.cz",
+    "primaryColor": "#ffbf00",
+    "secondaryColor": "#ffea00",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/invite/GFkcnGpjK2",
+        "instagram": "hesovodoupe.cz",
+        "tiktok": "hesovodoupe.cz",
+        "facebook": "hesovodoupe.cz"
+    }
+}
