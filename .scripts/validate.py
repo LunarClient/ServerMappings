@@ -45,7 +45,6 @@ def main():
     parser.add_argument("--metadata_schema", required=use_args, type=str)
     parser.add_argument("--inactive_file", required=use_args, type=str)
     parser.add_argument("--inactive_schema", required=use_args, type=str)
-    parser.add_argument("--discord_logo_uploaded_file", required=use_args, type=str)
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
 
@@ -57,7 +56,6 @@ def main():
         )
         arguments.inactive_schema = local + "/inactive.schema.json"
         arguments.inactive_file = local + "/inactive.json"
-        arguments.discord_logo_uploaded_file = local + "/discord-logo-uploaded.json"
         arguments.metadata_schema = local + "/metadata.schema.json"
         arguments.servers_dir = local + "/servers"
         arguments.validate_inactive = False
@@ -257,6 +255,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
 
             # Get all the errors that are in the json and add to messages
             errors = jsonschema.Draft7Validator(metadata_schema).iter_errors(server)
+            enumn_errors = {}
             for error in errors:
                 # Clean path
                 path = error.json_path
@@ -267,9 +266,15 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
 
                 if error.validator == "enum":
                     enum = "".join([f"   - {s}\n" for s in error.validator_value])
-                    messages[server_id].append(
-                        f'"{error.instance}" is not an acceptable input for `{path}`:\n{enum}'
+                    incorrect_values = enumn_errors.get(
+                        path,
+                        {
+                            "incorrect": [],
+                            "enum": enum,
+                        },
                     )
+                    incorrect_values["incorrect"].append(error.instance)
+                    enumn_errors[path] = incorrect_values
                 elif error.validator == "pattern":
                     messages[server_id].append(
                         f'"{error.instance}" does not match the regex pattern "{error.validator_value}" in '
@@ -290,6 +295,14 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                     )
                 else:  # If the error isn't defined above show the message.
                     messages[server_id].append(error.message)
+
+            for key, value in enumn_errors.items():
+                enum = value["enum"]
+                incorrect = value["incorrect"]
+
+                messages[server_id].append(
+                    f'{", ".join([f"`{s}`" for s in incorrect])} is not an acceptable input for `{key}`:\n{enum}'
+                )
 
     return messages
 
@@ -312,7 +325,6 @@ def check_media(
     servers = get_all_servers(
         args.servers_dir,
         args.inactive_file,
-        args.discord_logo_uploaded_file,
         args.validate_inactive,
     )
 

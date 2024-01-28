@@ -17,7 +17,6 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--servers_dir", required=True, type=str)
     parser.add_argument("--inactive_file", required=True, type=str)
-    parser.add_argument("--discord_logo_uploaded_file", required=True, type=str)
     parser.add_argument("--json_output", required=True, type=str)
     parser.add_argument("--csv_output", required=True, type=str)
     parser.add_argument("--include_inactive", action=argparse.BooleanOptionalAction)
@@ -27,7 +26,6 @@ def main():
     servers = get_all_servers(
         args.servers_dir,
         args.inactive_file,
-        args.discord_logo_uploaded_file,
         args.include_inactive,
     )
 

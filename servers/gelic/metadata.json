@@ -1,0 +1,34 @@
+{
+    "id": "gelic",
+    "name": "Gelic",
+    "store": "https://store.gelic.us/",
+    "addresses": [
+        "gelic.us"
+    ],
+    "primaryAddress": "gelic.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#33B2FF",
+    "secondaryColor": "#A7DDFE",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "GelicNetwork",
+        "discord": "https://discord.com/invite/rpbmaHCC3C"
+    }
+}
