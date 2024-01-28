@@ -19,8 +19,6 @@
     ],
     "gameTypes": [
         "PvP",
-        "Factions",
-        "Skyblock",
         "PvE"
     ],
     "socials": {
