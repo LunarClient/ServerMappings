@@ -1,8 +1,6 @@
 {
     "id": "octane",
     "name": "OctanePvP",
-    "website": "https://octanepvp.com",
-    "store": "https://octanepvp.com",
     "description": "A new type of gamemode combining Factions and Skyblock!",
     "addresses": [
         "octanepvp.com"
@@ -18,14 +16,6 @@
     "primaryLanguage": "en",
     "languages": [
         "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
     ],
     "gameTypes": [
         "PvP",
