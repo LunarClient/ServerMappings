@@ -17,5 +17,8 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9cPM8XKZ5D"
+    }
 }
