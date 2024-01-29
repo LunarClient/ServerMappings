@@ -5,9 +5,21 @@
     "addresses": [
         "nightlymc.com"
     ],
+    "primaryAddress": "nightlymc.com",
+    "primaryColor": "#c08413",
+    "secondaryColor": "#102160",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
     "gameTypes": [
         "PvP"
     ],
-    "primaryColor": "#c08413",
-    "secondaryColor": "#102160"
+    "socials": {
+        "discord": "https://discord.com/invite/nightlymc"
+    }
 }

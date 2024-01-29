@@ -1,0 +1,27 @@
+{
+    "id": "ocebedwars",
+    "name": "OCE Bedwars",
+    "website": "https://www.ocebedwars.com/",
+    "store": "https://ocebedwars.tebex.io/",
+    "addresses": [
+        "ocebedwars.com"
+    ],
+    "primaryAddress": "ocebedwars.com",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#55FFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "OCEBedwars",
+        "discord": "https://discord.gg/a7unSQs5pG"
+    }
+}

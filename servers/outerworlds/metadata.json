@@ -1,0 +1,24 @@
+{
+    "id": "outerworlds",
+    "name": "OuterWorlds",
+    "website": "https://outerworlds.us/",
+    "store": "https://store.outerworlds.us/",
+    "addresses": [
+        "outerworlds.us"
+    ],
+    "primaryAddress": "outerworlds.us",
+    "primaryColor": "#FFC0CB",
+    "secondaryColor": "#800080",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+		"1.8.*",
+		"1.7.10"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+		"Survival",
+		"Skyblock"
+    ]
+}

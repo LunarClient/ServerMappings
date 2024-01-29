@@ -9,8 +9,10 @@
     ],
     "primaryAddress": "cobra.gg",
     "minecraftVersions": [
-        "1.8.9"
+        "1.7.*",
+        "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#0b2749",
     "secondaryColor": "#fcfcfe",
     "primaryLanguage": "en",

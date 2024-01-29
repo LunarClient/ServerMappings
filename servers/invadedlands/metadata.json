@@ -11,8 +11,8 @@
         "nitro.rip"
     ],
     "primaryAddress": "invadedlands.net",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#f5bc04",
+    "secondaryColor": "#2c2829",
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.7.*",
@@ -40,5 +40,10 @@
         "twitter": "invadedlands",
         "discord": "https://discord.com/invite/WrrPtqJ",
         "reddit": "InvadedLands"
+    },
+    "compliance": {
+        "privacyPolicy": "https://invadedlands.net/help/privacy-policy/",
+        "termsOfService": "https://invadedlands.net/help/terms/",
+        "rules": "https://invadedlands.net/threads/network-rules.48/"
     }
 }
