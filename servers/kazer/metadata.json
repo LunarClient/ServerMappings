@@ -2,12 +2,13 @@
     "id": "kazer",
     "name": "Kazer",
     "description": "Home of Competitive Minecraft Games",
+    "store": "https://store.kazer.gg",
     "addresses": [
         "kazer.cc",
         "kazer.gg",
         "hk.kazer.cc"
     ],
-    "primaryAddress": "kazer.cc",
+    "primaryAddress": "hk.kazer.cc",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -21,5 +22,14 @@
     ],
     "socials": {
         "discord": "https://discord.gg/9cPM8XKZ5D"
-    }
+    },
+    "languages": {
+        "zh-CN",
+        "en"
+    },
+    "primaryLanguage": "zh-CN",
+    "regions": {
+        "AS"
+    },
+    "primaryRegion": "AS"
 }
