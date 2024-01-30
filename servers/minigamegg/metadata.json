@@ -20,9 +20,7 @@
     "gameTypes": [
         "Skyblock",
         "PvP",
-        "Prison",
-        "SMP",
-        "Adventure"
+        "Prison"
     ],
     "socials": {
         "discord": "https://discord.gg/minigame"
