@@ -1,0 +1,31 @@
+{
+    "id": "angelsky",
+    "name": "AngelSky",
+    "description": "Découvrez le Skyblock, autrement",
+    "store": "https://store.angelsky.fr/",
+    "addresses": [
+        "angelsky.fr"
+    ],
+    "primaryAddress": "play.angelsky.fr",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#0dcaf0",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mwvc7cT56z"
+    }
+}

@@ -8,6 +8,7 @@
         "librecraft.com",
         "librecraft.juegos"
     ],
+    "primaryAddress": "mc.librecraft.com",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",

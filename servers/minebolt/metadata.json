@@ -1,0 +1,31 @@
+{
+    "id": "minebolt",
+    "name": "MineBolt Network",
+    "store": "https://tienda.minebolt.es/",
+    "addresses": [
+        "minebolt.es",
+        "minebolt.net"
+    ],
+    "primaryAddress": "minebolt.es",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#6CF70C",
+    "secondaryColor": "#0CF7F0",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "mineboltnt",
+        "discord": "https://discord.gg/minebolt",
+        "tiktok": "minebolt"
+    }
+}

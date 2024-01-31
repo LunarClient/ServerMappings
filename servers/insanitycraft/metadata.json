@@ -35,5 +35,10 @@
         "instagram": "insanitycraftmc",
         "reddit": "InsanityCraftMC",
         "tiktok": "insanitycraft"
+    },
+    "compliance": {
+        "privacyPolicy": "https://insanitycraft.net/privacy/",
+        "termsOfService": "https://insanitycraft.net/terms/",
+        "rules": "https://insanitycraft.net/rules/"
     }
 }

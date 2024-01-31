@@ -1,0 +1,31 @@
+{
+    "id": "summoncraft",
+    "name": "SummonCraft Network",
+    "store": "https://store.summoncraft.xyz",
+    "addresses": [
+      "summoncraft.xyz"
+    ],
+    "primaryAddress": "summoncraft.xyz",
+    "primaryColor": "#D200FF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/summoncraft"
+    },
+    "crossplay": true
+  }

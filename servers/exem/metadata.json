@@ -1,0 +1,38 @@
+{
+    "id": "exem",
+    "name": "Exem Network",
+    "store": "https://store.exempvp.es/",
+    "addresses": [
+        "exempvp.es"
+    ],
+    "primaryAddress": "exempvp.es",
+    "primaryColor": "#CD0404",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ZaJdTqe7TF"
+    }
+}

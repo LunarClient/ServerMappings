@@ -9,6 +9,11 @@
     "primaryAddress": "play.sydaria.fr",
     "primaryColor": "#f1c911",
     "secondaryColor": "#79641f",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Factions"
     ],

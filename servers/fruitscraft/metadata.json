@@ -5,7 +5,7 @@
     "store": "https://store.fruitscraft.com/",
     "description": "A modern server that aims to enhance vanilla gameplay in fun and exciting ways.",
     "addresses": [
-        "play.fruitscraft.com"
+        "fruitscraft.com"
     ],
     "primaryAddress": "play.fruitscraft.com",
     "primaryColor": "#ff4949",

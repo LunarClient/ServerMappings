@@ -1,0 +1,38 @@
+{
+    "id": "zyro",
+    "name": "Zyro Network",
+    "website": "https://zyro.gg/",
+    "store": "https://store.zyro.gg/",
+    "description": "Minecraft PvP Network, striving to provide a truly competitive experience.",
+    "addresses": [
+        "zyro.gg",
+		"eu.zyro.gg",
+        "na.zyro.gg"
+    ],
+    "primaryAddress": "zyro.gg",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "ZyroNetwork",
+        "discord": "https://discord.com/invite/YcuhpgmNF6",
+        "telegram": "ZyroGG"		
+    }
+}

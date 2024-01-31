@@ -1,0 +1,32 @@
+{
+    "id": "pieselcraft",
+    "name": "PieselCraft",
+    "description": "One of the best Polish Survivals.",
+    "addresses": [
+        "pieselcraft.pl"
+    ],
+    "primaryAddress": "pieselcraft.pl",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#ffce42",
+    "secondaryColor": "#ffce42",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://pieselcraft.pl",
+    "store": "https://sklep.pieselcraft.pl",
+    "socials": {
+        "discord": "https://dc.pieselcraft.pl"
+    },
+    "crossplay": false
+}

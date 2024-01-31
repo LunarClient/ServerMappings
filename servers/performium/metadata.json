@@ -5,6 +5,7 @@
     "store": "https://store.performium.net/",
     "addresses": [
         "performium.net",
+        "fluxpvp.net",
         "skyblocknetwork.com"
     ],
     "primaryAddress": "mc.performium.net",
@@ -17,7 +18,7 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "NA",

@@ -31,5 +31,8 @@
         "discord": "https://discord.com/invite/V7MEnGJdWM",
         "tiktok": "minestar.pl",
         "facebook": "minestarpl"
+    },
+    "compliance": {
+        "rules": "https://minestar.pl/rules"
     }
 }
