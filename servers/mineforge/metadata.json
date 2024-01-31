@@ -22,10 +22,7 @@
     "secondaryColor": "#ffffff",
     "gameTypes": [
         "Survival",
-        "SkyBlock",
-        "OneBlock",
-        "GensTycoon",
-        "LumberTycoon"
+        "SkyBlock"
     ],
     "socials": {
         "discord": "https://discord.com/invite/mineforge",
