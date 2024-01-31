@@ -13,8 +13,8 @@
       "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FF60AF",
-    "secondaryColor": "#FFFFF",
+    "primaryColor": "#ff60af",
+    "secondaryColor": "#fffff",
     "primaryLanguage": "zh-CN",
     "languages": [
       "en",
