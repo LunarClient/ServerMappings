@@ -1,9 +1,10 @@
 {
     "id": "mexacraft",
     "name": "Mexacraft Network",
+    "store": "https://tienda.mexacraft.net",
     "description": "¡Entra con Taquito a jugar!",
     "addresses": [
-        "mc.mexacraft.net"
+        "mexacraft.net"
     ],
     "primaryAddress": "mc.mexacraft.net",
     "minecraftVersions": [
@@ -29,7 +30,6 @@
         "Open World",
         "Adventure"
     ],
-    "store": "https://tienda.mexacraft.net",
     "socials": {
         "discord": "https://discord.gg/GDe3hT3K6u"
     },
