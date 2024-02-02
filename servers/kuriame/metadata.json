@@ -7,8 +7,8 @@
         "kuriame.lt"
     ],
     "primaryAddress": "mc.kuriame.lt",
-    "primaryColor": "#53d93a",
-    "secondaryColor": "#e8c546",
+    "primaryColor": "#ff4d01",
+    "secondaryColor": "#808080",
     "minecraftVersions": [
         "1.20.*"
     ],
