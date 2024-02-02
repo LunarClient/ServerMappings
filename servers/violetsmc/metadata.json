@@ -17,9 +17,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "PvE",
-        "Adventure",
-        "Open World"
+        "PvE"
     ],
     "socials": {
         "twitter": "playviolets",
