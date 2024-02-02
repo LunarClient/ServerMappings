@@ -28,7 +28,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "Lifesteal",
+        "PvP",
         "Factions"
     ],
     "socials": {
