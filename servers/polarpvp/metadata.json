@@ -27,9 +27,7 @@
     ],
     "store": "https://store.polarpvp.live",
     "socials": {
-        "twitter": "LunarNetwork",
-        "telegram": "lunarnetwork",
-        "discord": "https://www.lunar.gg/discord"
+        "discord": "https://discord.polarpvp.live"
     },
     "crossplay": false
 }
