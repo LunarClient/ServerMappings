@@ -21,7 +21,9 @@
         "NA"
     ],
     "gameTypes": [
-        "PotPvP"
+        "PotPvP", 
+        "HCF",
+        "KitMap"
     ],
     "store": "https://store.polarpvp.live",
     "socials": {
