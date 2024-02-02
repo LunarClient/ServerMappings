@@ -28,10 +28,7 @@
     ],
     "gameTypes": [
         "Adventure",
-        "Creative",
-        "Open World",
         "Parkour",
-        "PvP",
         "Survival"
     ],
     "socials": {
