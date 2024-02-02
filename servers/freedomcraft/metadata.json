@@ -1,0 +1,41 @@
+{
+    "id": "freedomcraft",
+    "name": "FreedomCraft Network",
+    "website": "https://freedomcraftmc.com/",
+    "store": "https://www.freedomcraft.shop/",
+    "addresses": [
+        "freedomcraftmc.com",
+        "freedomcraft.shop",
+        "freedomcraft.wiki",
+        "freedomcraft.network"
+    ],
+    "primaryAddress": "mc.freedomcraft.network",
+    "primaryColor": "#0A52C7",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Creative",
+        "Open World",
+        "Parkour",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "FreedomCraftMC",
+        "discord": "https://discord.com/invite/freedomcraft"
+    }
+}
