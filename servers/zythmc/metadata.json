@@ -1,8 +1,8 @@
 {
-    "id": "zyth",
+    "id": "zythmc",
     "name": "ZythMC",
     "description": "ZythMC is a Minecraft server dedicated to quality. We have Bedwars, with factions coming very soon.",
-    "store": "https://store.zyth.me/",
+    "store": "https://zyth.me/store",
     "addresses": [
         "zyth.me"
     ],
