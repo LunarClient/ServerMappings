@@ -12,18 +12,16 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#4dd2fa",
     "secondaryColor": "#d1e5eb",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "PotPvP", 
-        "HCF",
-        "KitMap"
+        "PotPvP"
     ],
     "store": "https://store.polarpvp.live",
     "socials": {
