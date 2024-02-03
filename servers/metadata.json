@@ -1,0 +1,32 @@
+{
+    "id": "vealmc",
+    "name": "VealMC Network",
+    "website": "https://vealmc.cc/",
+    "store": "https://store.vealmc.cc/",    
+    "addresses": [
+        "vealmc.cc"
+    ],
+    "primaryAddress": "vealmc.cc",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#186A3B",
+    "secondaryColor": "#FDFEFE",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {    
+        "discord": "https://discord.gg/cDUkV89bnE"
+    }
+}    
