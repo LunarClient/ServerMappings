@@ -8,7 +8,7 @@
     "primaryAddress": "kizuki.cc",
     "minecraftVersions": [
       "1.8.*",
-      "1.20.1"
+      "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ff60af",
@@ -31,5 +31,4 @@
     "socials": {
       "discord": "https://discord.gg/jBa9gmX6wS"
     }
-}
 }
