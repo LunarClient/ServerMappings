@@ -3,7 +3,7 @@
     "name": "WetMC.PL",
     "store": "https://wetmc.pl",
     "addresses": [
-        "wetmc.pl",
+        "wetmc.pl"
     ],
     "primaryAddress": "wetmc.pl",
     "minecraftVersions": [
