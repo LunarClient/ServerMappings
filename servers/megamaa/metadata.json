@@ -1,0 +1,38 @@
+{
+    "id": "megamaa",
+    "name": "MegaMaa",
+    "description": "MegaMahtavia kokemuksia koet MegaMaassa!",
+    "addresses": [
+        "mc.megamaa.com"
+    ],
+    "primaryAddress": "mc.megamaa.com",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#35FF58",
+    "secondaryColor": "#F6FF35",
+    "primaryLanguage": "fi",
+    "languages": [
+        "en",
+        "fi"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Gens",
+        "Survival",
+        "Prison"
+    ],
+    "website": "https://megamaa.com",
+    "socials": {
+        "youtube": "MegaMaaMC",
+        "discord": "https://megamaa.com/dc",
+        "twitter": "MegaMaa",
+        "tiktok": "@megamaamc"
+    },
+    "crossplay": false
+}
