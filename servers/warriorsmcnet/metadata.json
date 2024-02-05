@@ -1,10 +1,8 @@
 {
     "id": "warriorsmcnet",
     "name": "WarriorsMC Network",
-    "website": "https://discord.warriorsmc.net/",
-    "store": "https://discord.warriorsmc.net/",
     "addresses": [
-        "mc.warriorsmc.net"
+        "warriorsmc.net"
     ],
     "primaryAddress": "mc.warriorsmc.net",
     "primaryColor": "#14cc00",
@@ -22,13 +20,8 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.warriorsmc.net",
+        "discord": "https://discord.com/invite/zrcsfQeRb9",
         "instagram": "WarriorsMC.net_"
-    },
-    "compliance": {
-        "privacyPolicy": "https://reglamento.warriorsmc.net/",
-        "termsOfService": "https://reglamento.warriorsmc.net/",
-        "rules": "https://reglamento.warriorsmc.net/"
     },
     "crossplay": false
 }
