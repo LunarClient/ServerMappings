@@ -3,7 +3,7 @@
     "name": "VicNix Network",
     "store": "https://tienda.vicnix.net",
     "addresses": [
-        "mc.vicnix.net"
+        "vicnix.net"
     ],
     "primaryAddress": "mc.vicnix.net",
     "primaryColor": "#20D210",
