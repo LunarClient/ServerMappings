@@ -3,8 +3,7 @@
     "name": "VicNix Network",
     "store": "https://tienda.vicnix.net",
     "addresses": [
-        "mc.vicnix.net",
-        "51.161.86.223:25565"
+        "mc.vicnix.net"
     ],
     "primaryAddress": "mc.vicnix.net",
     "primaryColor": "#20D210",
