@@ -21,8 +21,12 @@
         "Skyblock",
         "PvP"
     ],
+    "website": "https://kuriame.lt",
+    "store": "https://kuriame.lt/paslaugos",
     "socials": {
-        "discord": "https://discord.gg/3cU4KNA8u6",
-        "youtube": "@kuriameserveris"
-    }
+        "facebook": "Kuriamelt",
+        "instagram": "https://www.instagram.com/kuriamelt/?next=%2F",
+        "youtube": "https://youtube.com/@kuriameserveris?si=e0hdddCJD1mippVi",
+        "discord": "https://kuriame.lt/discord"
+    },
 }
