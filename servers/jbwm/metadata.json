@@ -1,20 +1,21 @@
 {
     "id": "jbwm",
-    "name": "Jbwm",
+    "name": "Jbwm.pl",
+    "description": "Najszybciej rozwijającą się siec serwerów minecraft w Polsce!",
     "website": "https://jbwm.pl/",
     "store": "https://sklep.jbwm.pl/",
     "addresses": [
         "jbwm.pl"
     ],
     "primaryAddress": "jbwm.pl",
-    "primaryColor": "#f4f6f6",
-    "secondaryColor": "#232522",
+    "primaryColor": "#e4ed40",
+    "secondaryColor": "#f55870",
     "minecraftVersions": [
-        "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "EU",
