@@ -1,6 +1,7 @@
 {
     "id": "kuriame",
     "name": "kuriame.lt",
+    "description": "KURIAME.LT - Kuriame kartu!",
     "website": "https://kuriame.lt/",
     "store": "https://kuriame.lt/paslaugos",
     "addresses": [
@@ -21,12 +22,10 @@
         "Skyblock",
         "PvP"
     ],
-    "website": "https://kuriame.lt",
-    "store": "https://kuriame.lt/paslaugos",
     "socials": {
         "facebook": "Kuriamelt",
         "instagram": "https://www.instagram.com/kuriamelt/?next=%2F",
         "youtube": "https://youtube.com/@kuriameserveris?si=e0hdddCJD1mippVi",
         "discord": "https://kuriame.lt/discord"
-    },
+    }
 }
