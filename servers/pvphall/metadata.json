@@ -1,6 +1,6 @@
 {
-    "id": "pvphall",
-    "name": "PvPHall",
+    "id": "pvphallnetwork",
+    "name": "PvPHall Network",
 	"description": "Servidor de PvP (Pirata & Original)",
     "store": "https://discord.com/invite/mvKchxZPrx",
     "addresses": [
