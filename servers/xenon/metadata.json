@@ -13,6 +13,7 @@
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
+    "primaryAddress": "xenon.club",
     "primaryColor": "#ff19be",
     "secondaryColor": "#ffffff",
     "gameTypes": [
