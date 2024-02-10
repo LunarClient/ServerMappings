@@ -32,10 +32,9 @@
         "rules": "https://kuriame.lt/taisykles"
     },
     "socials": {
-        "facebook": "https://www.facebook.com/people/Kuriamelt/100084078310656/",
-        "instagram": "https://www.instagram.com/kuriamelt/?next=%2F",
-        "youtube": "https://youtube.com/@kuriameserveris?si=e0hdddCJD1mippVi",
-        "discord": "https://kuriame.lt/discord"
+        "instagram": "kuriamelt",
+        "youtube": "@kuriameserveris",
+        "discord": "https://discord.com/invite/sKTwwGSgEc"
     },
     "crossplay": false
 }
