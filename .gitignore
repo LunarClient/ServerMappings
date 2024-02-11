@@ -1,0 +1,7 @@
+.out
+.venv
+.DS_Store
+
+# JetBrains configuration files
+.idea/*
+__pycache__

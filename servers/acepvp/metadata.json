@@ -1,0 +1,26 @@
+{
+	"id": "acepvp",
+	"name": "AcePVP",
+	"store": "https://store.acepvp.fun/",
+	"addresses": [
+		"acepvp.fun"
+	],
+	"primaryAddress": "mc.acepvp.fun",
+	"primaryColor": "#5adfee",
+	"secondaryColor": "#dbe3e7",
+	"minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+	"primaryRegion": "AS",
+	"regions": [
+        "AS"
+    ],
+	"gameTypes": [
+		"PvP"
+	],
+	"socials": {
+		"discord": "discord.gg/acepvpmc"
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "id": "mineraze",
+    "name": "Mineraze",
+    "website": "https://www.mineraze.net/",
+    "store": "https://store.mineraze.net/",
+    "addresses": [
+        "mineraze.net"
+    ],
+    "primaryAddress": "play.mineraze.net",
+    "primaryColor": "#36b7f7",
+    "secondaryColor": "#542c0b",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hyrDW4bvHu"
+    }
+}

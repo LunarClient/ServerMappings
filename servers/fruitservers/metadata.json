@@ -1,0 +1,26 @@
+{
+    "id": "fruitservers",
+    "name": "FruitServers",
+    "website": "http://fruitservers.net/",
+    "store": "https://store.fruitservers.net/",
+    "addresses": [
+        "fruitservers.net"
+    ],
+    "primaryAddress": "mc.fruitservers.net",
+    "primaryColor": "#271e13",
+    "secondaryColor": "#c3ac2d",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "FruitServers",
+        "discord": "https://discord.com/invite/fruitservers",
+        "instagram": "fruit_servers",
+        "facebook": "fruitservers"
+    }
+}

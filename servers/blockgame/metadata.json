@@ -1,0 +1,33 @@
+{
+    "id": "blockgame",
+    "name": "BlockGame",
+    "website": "https://blockgame.us/",
+    "store": "https://store.blockgame.us/",
+    "addresses": [
+        "stolenco.de",
+        "blockgame.us"
+    ],
+    "primaryAddress": "blockgame.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#458BEF",
+    "secondaryColor": "#164072",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "blockgameus",
+        "discord": "https://discord.com/invite/JJNknRGJGB"
+    }
+}

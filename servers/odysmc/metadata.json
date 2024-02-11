@@ -1,0 +1,34 @@
+{
+    "id": "odysmc",
+    "name": "OdysMC",
+    "website": "https://odysmc.com/",
+    "store": "https://tienda.odysmc.com/",
+    "description": "Servidor ambientado en una tematica medieval que ofrece modos de juego clasicos!",
+    "addresses": [
+        "odysmc.com"
+    ],
+    "primaryAddress": "play.odysmc.com",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "socials": {
+        "twitter": "OdysMC",
+        "discord": "https://discord.com/invite/odysmc"
+    }
+}

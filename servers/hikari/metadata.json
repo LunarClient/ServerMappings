@@ -1,0 +1,11 @@
+{
+    "id": "hikari",
+    "name": "Hikari",
+    "addresses": [
+        "hikarimc.com",
+        "hikarimc.net",
+        "funsmp.com"
+    ],
+    "primaryColor": "#f5c6c1",
+    "secondaryColor": "#441c1e"
+}

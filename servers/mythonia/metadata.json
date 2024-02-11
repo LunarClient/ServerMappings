@@ -1,0 +1,39 @@
+{
+  "id": "mythonia",
+  "name": "Mythonia",
+  "description": "Where the adventure begins...",
+  "addresses": [
+    "mythonia.net"
+  ],
+  "primaryAddress": "lunar.mythonia.net",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#175DBC",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Open World",
+    "Survival"
+  ],
+  "store": "https://store.mythonia.net",
+  "socials": {
+    "twitter": "MythoniaNetwork",
+    "tiktok": "mythonia",
+    "discord": "https://discord.gg/mythonia"
+  }
+}

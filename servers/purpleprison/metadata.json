@@ -1,0 +1,40 @@
+{
+    "id": "purpleprison",
+    "name": "purpleprison",
+    "website": "https://www.purpleprison.co/",
+    "store": "https://buy.purpleprison.net/",
+    "addresses": [
+        "purpleprison.com",
+        "purple.wtf",
+        "purpleprison.net",
+        "purpleprison.org",
+        "purpleore.net",
+        "purpleprison.co",
+        "prisonfun.co"
+    ],
+    "primaryAddress": "purpleprison.net",
+    "primaryColor": "#d09bd9",
+    "secondaryColor": "#2b1e4f",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "twitter": "PurplePrison",
+        "discord": "https://discord.com/invite/PP",
+        "youtube": "UC12gU3J4gMWRw3ZAxBlRQGg",
+        "tiktok": "purpleprisonofficial"
+    }
+}

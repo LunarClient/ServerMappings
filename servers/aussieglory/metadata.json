@@ -1,0 +1,31 @@
+{
+    "id": "aussieglory",
+    "name": "Aussie Glory",
+    "description": "The ultimate destination for all Minecraft PvP enthusiasts in the OCE region!",
+    "addresses": [
+        "aussieglory.net"
+    ],
+    "primaryAddress": "aussieglory.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFAA00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/6RCxW337Z3"
+    },
+    "crossplay": false
+}

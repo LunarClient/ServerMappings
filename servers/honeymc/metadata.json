@@ -1,0 +1,35 @@
+{
+    "id": "honeymc",
+    "name": "HoneyMC",
+    "website": "https://honeymc.net/",
+    "store": "https://honeymc.net/shop",
+    "addresses": [
+        "honeymc.net"
+    ],
+    "primaryAddress": "play.honeymc.net",
+    "primaryColor": "#DA6D01",
+    "secondaryColor": "#E0D40D",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "joinHoneyMC",
+        "discord": "https://discord.com/invite/kKHzYHWxrq"
+    }
+}

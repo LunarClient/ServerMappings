@@ -1,0 +1,39 @@
+{
+  "id": "brave",
+  "name": "Brave",
+  "description": "The best Soup PvP Minecraft Server from Brazil",
+  "addresses": [
+    "bravemc.com.br"
+  ],
+  "primaryAddress": "bravemc.com.br",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#DD00D0",
+  "secondaryColor": "#FF0052",
+  "primaryLanguage": "pt-BR",
+  "languages": [
+    "pt-BR",
+    "en"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+      "PvP",
+      "Hardcore",
+      "Open World"
+  ],
+  "website": "https://www.bravemc.com.br/",
+  "store": "https://loja.bravemc.com.br/",
+  "socials": {
+    "twitter": "_bravemc",
+    "discord": "https://discord.gg/bravemc",
+    "youtube": "bravemc",
+    "twitch": "bravemc_",
+    "tiktok": "bravemc_"
+  }
+}

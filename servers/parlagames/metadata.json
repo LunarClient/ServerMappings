@@ -1,0 +1,32 @@
+{
+    "id": "parlagames",
+    "name": "ParlaGames",
+    "store": "https://shop.parlagames.co.il/",
+    "addresses": [
+        "parlagames.co.il"
+    ],
+    "primaryAddress": "parlagames.co.il",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "Parlamentum",
+        "discord": "https://discord.com/invite/QhHd34c",
+        "youtube": "parlamentum",
+        "instagram": "Parlamentum",
+        "tiktok": "parlamentum"
+    }
+}

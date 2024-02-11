@@ -1,0 +1,37 @@
+{
+    "id": "holyhcf",
+    "name": "Holy Network",
+    "website": "https://www.holypvp.net/",
+    "store": "https://store.holypvp.net/",
+    "description": "The #1 Spanish-speaking Minecraft PvP server for more than 6 years",
+    "addresses": [
+        "eaglehcf.com",
+        "holyh.cf",
+        "holypvp.net",
+        "watermc.gg"
+    ],
+    "primaryAddress": "holypvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "holypvpnet",
+        "discord": "https://discord.gg/paQgGtzHbT"
+    },
+    "compliance": {
+        "rules": "https://www.holypvp.net/rules"
+    },
+    "presentationVideo": "MqV297quUBk"
+}

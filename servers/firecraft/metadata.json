@@ -1,0 +1,34 @@
+{
+    "id": "firecraft",
+    "name": "Firecraft",
+    "website": "https://www.firecraft.dk/",
+    "store": "https://www.firecraft.dk/butik",
+    "addresses": [
+        "firecraft.dk"
+    ],
+    "primaryAddress": "firecraft.dk",
+    "primaryColor": "#fedd2c",
+    "secondaryColor": "#6d9d1c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/firecraft",
+        "youtube": "JudexGaming"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "ladpvp",
+    "name": "LAD Network",
+    "website": "https://ladpvp.net/",
+    "store": "https://store.ladpvp.net/",
+    "addresses": [
+        "ladpvp.net"
+    ],
+    "primaryAddress": "ladpvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff1c3e",
+    "secondaryColor": "#ba064b",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "LADServer",
+        "discord": "https://discord.com/invite/BfgEFAfP6Q"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "advancius",
+    "name": "Advancius",
+    "website": "https://www.advancius.net/",
+    "store": "https://store.advancius.net/",
+    "addresses": [
+        "mc.advancius.net"
+    ],
+    "primaryAddress": "mc.advancius.net",
+    "primaryColor": "#000000",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Prison",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "AdvanciusMC",
+        "discord": "https://discord.com/invite/yNh63ZX",
+        "twitch": "advanciusmc",
+        "youtube": "advanciusmc",
+        "instagram": "advanciusmc",
+        "reddit": "AdvanciusNetwork",
+        "tiktok": "advanciusmc"
+    }
+}

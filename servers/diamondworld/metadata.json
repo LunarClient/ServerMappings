@@ -1,0 +1,31 @@
+{
+    "id": "diamondworld",
+    "name": "Diamondworld",
+    "website": "https://diamondworld.pro/",
+    "addresses": [
+        "diamondworld.pro"
+    ],
+    "primaryAddress": "mc.diamondworld.pro",
+    "primaryColor": "#ff8b00",
+    "secondaryColor": "#009ad5",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Minigames",
+        "Skyblock"
+    ],
+    "socials": {
+        "telegram": "dw_main",
+        "discord": "https://discord.com/invite/MwGxVRJKns"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "calabriacity",
+    "name": "Viper Academy",
+    "website": "https://store.calabriacity.it/forum/",
+    "addresses": [
+        "calabriacity.it"
+    ],
+    "primaryAddress": "mc.calabriacity.it",
+    "primaryColor": "#f261eb",
+    "secondaryColor": "#e99f16",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "PvP",
+        "Parkour"
+    ],
+    "socials": {
+        "twitter": "InfuseSMP",
+        "telegram": "https://t.me/viperacademymc",
+        "discord": "https://discord.gg/H6hdkgYETh"
+    }
+}

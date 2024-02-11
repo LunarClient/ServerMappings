@@ -1,0 +1,31 @@
+{
+    "id": "eternitymc",
+    "name": "EternityMC ",
+    "store": "http://store.eternitymc.it/",
+    "addresses": [
+        "eternitymc.it"
+    ],
+    "primaryAddress": "play.eternitymc.it",
+    "primaryColor": "#e0101f",
+    "secondaryColor": "#49ebfe",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/t6CrmVGv",
+        "telegram": "eternitymc"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": "rinaorc",
+    "name": "Rinaorc",
+    "website": "https://rinaorc.com/",
+    "store": "https://store.rinaorc.com/",
+    "addresses": [
+        "rinaorc.com"
+    ],
+    "primaryAddress": "play.rinaorc.com",
+    "primaryColor": "#e9bb12",
+    "secondaryColor": "#8c4b24",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "rinaorc",
+        "discord": "https://discord.com/invite/vXYXrGk",
+        "youtube": "UCKC-StNGaVW9qJF_it-C0kg",
+        "tiktok": "serveur.rinaorc",
+        "facebook": "rinaorc.mc"
+    }
+}

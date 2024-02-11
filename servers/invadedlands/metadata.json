@@ -1,0 +1,49 @@
+{
+    "id": "invadedlands",
+    "name": "InvadedLands",
+    "website": "https://invadedlands.net/",
+    "store": "https://store.invadedlands.net/",
+    "description": "We're a Minecraft Network consisting of KitPvP, Skyblock and Survival.",
+    "addresses": [
+        "invadedlands.net",
+        "skeppylovesflipflops.xyz",
+        "pvplands.net",
+        "nitro.rip"
+    ],
+    "primaryAddress": "invadedlands.net",
+    "primaryColor": "#f5bc04",
+    "secondaryColor": "#2c2829",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "invadedlands",
+        "discord": "https://discord.com/invite/WrrPtqJ",
+        "reddit": "InvadedLands"
+    },
+    "compliance": {
+        "privacyPolicy": "https://invadedlands.net/help/privacy-policy/",
+        "termsOfService": "https://invadedlands.net/help/terms/",
+        "rules": "https://invadedlands.net/threads/network-rules.48/"
+    }
+}

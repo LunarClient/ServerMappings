@@ -1,0 +1,37 @@
+{
+    "id": "cobra",
+    "name": "Cobra Network",
+    "website": "https://www.cobra.gg/",
+    "store": "https://www.cobra.gg/store",
+    "description": "Home to Cobra Custom Teams, Vorex's most advanced Minecraft Java 1.8.9 gamemode.",
+    "addresses": [
+        "cobra.gg"
+    ],
+    "primaryAddress": "cobra.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0b2749",
+    "secondaryColor": "#fcfcfe",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "PlayCobraGG",
+        "discord": "https://discord.com/invite/cobra",
+        "youtube": "UCG7twdejAK05CBV_Q4_JwXQ",
+        "instagram": "cobradotgg",
+        "telegram": "playcobragg",
+        "tiktok": "playcobragg"
+    }
+}

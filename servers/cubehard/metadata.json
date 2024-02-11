@@ -1,0 +1,34 @@
+{
+    "id": "cubehard",
+    "name": "Cubehard",
+    "website": "https://cubehard.pl/",
+    "store": "https://cubehard.pl/shop",
+    "addresses": [
+        "cubehard.net",
+        "cubehard.pl"
+    ],
+    "primaryAddress": "cubehard.pl",
+    "primaryColor": "#207f20",
+    "secondaryColor": "#7f7f7f",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/4MfcHEHMBY",
+        "youtube": "CubeHardOfficial",
+        "tiktok": "cubehard",
+        "facebook": "CUBEHARD"
+    }
+}
