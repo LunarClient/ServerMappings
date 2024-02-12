@@ -29,8 +29,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Faction",
-        "Farm"
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.gg/westramc"
