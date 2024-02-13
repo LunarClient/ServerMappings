@@ -1,0 +1,39 @@
+{
+    "id": "acapsmp",
+    "name": "AcapSMP",
+    "website": "https://acapsmp.net/",
+    "store": "https://store.acapsmp.net/comingsoon",
+    "description": "AcapSMP Монгол Сэрвэр",
+    "addresses": [
+        "acapsmp.net",
+        "acapsmp.fun"
+    ],
+    "primaryAddress": "play.acapsmp.net",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryColor": "#82FA58",
+    "secondaryColor": "#81F7F3",
+    "primaryLanguage": "mn",
+    "languages": [
+        "mn",
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "KitBox",
+        "ChunkDefense"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/acapsmp"
+    }
+}
