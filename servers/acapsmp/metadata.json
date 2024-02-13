@@ -19,9 +19,8 @@
     "primaryMinecraftVersion": "1.20.2",
     "primaryColor": "#82FA58",
     "secondaryColor": "#81F7F3",
-    "primaryLanguage": "mn",
+    "primaryLanguage": "en",
     "languages": [
-        "mn",
         "en"
     ],
     "primaryRegion": "AS",
@@ -30,8 +29,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "KitBox",
-        "ChunkDefense"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/acapsmp"
