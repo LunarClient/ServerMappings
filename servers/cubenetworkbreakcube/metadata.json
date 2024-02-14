@@ -1,0 +1,28 @@
+{
+	"id": "cubenetworkbreakcube",
+	"name": "Breakcube (Cube Network)",
+	"description": "The official Breakcube server on the Cube Network.",
+	"addresses": [
+		"breakcube.minehut.gg",
+	],
+	"primaryAddress": "breakcube.minehut.gg",
+	"minecraftVersions": [
+		"1.20.*"
+	],
+	"primaryMinecraftVersion": "1.20.4",
+	"primaryColor": "#F6BE00",
+	"secondaryColor": "#FDFD96",
+	"primaryLanguage": "en",
+	"languages": [
+		"en"
+	],
+	"primaryRegion": "NA",
+	"regions": [
+		"NA"
+	],
+	"gameTypes": [
+        "Box"
+	],
+	"website": "https://mycube.tebex.io"
+	
+}
