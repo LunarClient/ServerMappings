@@ -3,7 +3,7 @@
     "name": "Minefores Network",
     "description": "Una experiencia premium totalmente gratis",
     "addresses": [
-        "mc.minefores.net"
+        "minefores.net"
     ],
     "primaryAddress": "mc.minefores.net",
     "primaryMinecraftVersion": "1.20.1",
@@ -19,6 +19,9 @@
         "es-EN"
     ],
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
@@ -29,7 +32,7 @@
     "secondaryColor": "#ffffff",
     "socials": {
         "twitter": "Minefores",
-        "discord": "https://discord.minefores.net",
+        "discord": "https://discord.com/invite/uMKM9Hwj3g",
         "youtube": "mineforesnetwork"
     }
 }
