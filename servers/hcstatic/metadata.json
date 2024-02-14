@@ -3,7 +3,7 @@
 	"name": "HCStatic Network",
 	"description": "A potion and soup based pvp network",
 	"addresses": [
-		"play.hcstatic.us"
+		"hcstatic.us"
 	],
 	"primaryAddress": "play.hcstatic.us",
 	"minecraftVersions": [

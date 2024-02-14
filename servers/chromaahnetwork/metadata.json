@@ -3,9 +3,9 @@
     "name": "Chromaah Network",
     "description": "Custom Gamemodes, constantly being updated!",
     "addresses": [
-        "chromaah.net"
+        "chromaah.club"
     ],
-    "primaryAddress": "mc.chromaah.net",
+    "primaryAddress": "play.chromaah.club",
     "minecraftVersions": [
         "1.8.*"
 
@@ -25,7 +25,7 @@
         "PvP",
         "Minigames"
     ],
-    "store": "https://store.chromaah.net",
+    "store": "https://store.chromaah.club",
     "socials": {
         "discord": "https://discord.gg/rDMFxYF3j8"
     }

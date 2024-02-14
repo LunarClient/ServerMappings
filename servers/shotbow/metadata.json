@@ -34,5 +34,11 @@
         "reddit": "ShotBow",
         "tiktok": "shotbownetwork",
         "facebook": "ShotbowOfficial"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://shotbow.net/forum/p/privacy_policy/",
+        "termsOfService": "https://shotbow.net/forum/help/terms",
+        "rules": "https://shotbow.net/forum/p/rules/"
+    },
+    "presentationVideo": "gJjAIhx-y_A"
 }

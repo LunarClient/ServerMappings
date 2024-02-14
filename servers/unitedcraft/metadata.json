@@ -1,0 +1,44 @@
+{
+    "id": "unitedcraft",
+    "name": "UnitedCraft",
+    "description": "Twój ulubiony serwer Minecraft!",
+    "addresses": [
+        "unitedcraft.pl"
+    ],
+    "primaryAddress": "mc.unitedcraft.pl",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#e9a228",
+    "secondaryColor": "#8b340f",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Parkour"
+    ],
+    "website": "https://unitedcraft.pl/",
+    "store": "https://sklep.unitedcraft.pl/",
+    "compliance": {
+        "rules": "https://regulaminy.unitedcraft.pl/minecraft.html"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/htBSdp6ER5",
+        "instagram": "unitedcraftpl",
+        "tiktok": "@unitedcraftpl",
+        "facebook": "unitedcraftpolska"
+    },
+    "crossplay": false
+}

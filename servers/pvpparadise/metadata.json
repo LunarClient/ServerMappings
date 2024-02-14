@@ -1,0 +1,40 @@
+{
+    "id": "pvpparadise",
+    "name": "PvP Paradise",
+    "description": "Unleash your 1.9+ PvP skills and destroy the oppositions!",
+    "addresses": [
+        "pvpparadise.net",
+        "pvpparadise.modded.fun"
+    ],
+    "primaryAddress": "pvpparadise.net",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#15e802",
+    "secondaryColor": "#55f7b9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/pvpparadise"
+    },
+    "crossplay": false
+}
