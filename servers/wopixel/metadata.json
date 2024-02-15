@@ -3,8 +3,7 @@
     "name": "WoPixel Network",
     "website": "https://wopixel.mn/",
     "addresses": [
-        "wopixel.mn",
-        "wopixel.xyz"
+        "wopixel.mn"
     ],
     "primaryAddress": "mc.wopixel.mn",
     "minecraftVersions": [
@@ -31,8 +30,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/wopixel"
-    }
-}gEa"
+        "discord": "https://discord.gg/wopixelmn"
     }
 }
