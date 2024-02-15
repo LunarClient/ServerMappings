@@ -16,13 +16,16 @@
     "languages": [
         "fr"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
         "PvP"
     ],
+    "socials": {
+        "discord": "https://discord.gg/kEdN2dDMYT"
+    },
     "website": "https://clic-gauche.fr/",
     "crossplay": false
 }
