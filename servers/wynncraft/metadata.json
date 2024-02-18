@@ -29,5 +29,10 @@
         "youtube": "UC-ZXrUQOrtYcqAGx9F9IEeQ",
         "reddit": "WynnCraft",
         "facebook": "wynncraft"
+    },
+    "modpack": {
+        "id": "cqIwxyhH",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }
