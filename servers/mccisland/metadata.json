@@ -3,7 +3,7 @@
     "name": "MCC Island",
     "website": "https://mccisland.net/",
     "store": "https://store.mccisland.net/",
-    "description": "A Minecraft Java Edition server for modern versions created by The Noxcrew.",
+    "description": "Play unique mini-games from Noxcrew's popular MC Championship event for FREE!",
     "addresses": [
         "mccisland.net",
         "mccisland.com",
@@ -32,5 +32,11 @@
         "instagram": "mccisland",
         "reddit": "mccisland",
         "tiktok": "mcchampionship_"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://noxcrew.com/privacy-notice",
+        "termsOfService": "https://noxcrew.com/terms-of-service",
+        "rules": "https://mcchampionship.com/help/rules/"
+    },
+    "presentationVideo": "7c1zWQoitig"
 }

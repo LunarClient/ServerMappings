@@ -34,5 +34,11 @@
         "twitch": "universocraft",
         "reddit": "UniversoCraft",
         "facebook": "UniversoCraftOficial"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.universocraft.com/help/privacy-policy/",
+        "termsOfService": "https://www.universocraft.com/help/terms/",
+        "rules": "https://www.universocraft.com/threads/normas-oficiales-del-servidor-universocraft.14/"
+    },
+    "presentationVideo": "5xuz3DKT0sM"
 }

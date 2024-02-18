@@ -1,7 +1,8 @@
 {
     "id": "pokefind",
     "name": "PokeFind",
-    "store": "https://play.pokefind.co/",
+    "website": "https://www.pokefind.co/",
+    "store": "https://store.pokefind.co/",
     "addresses": [
         "pokefind.co"
     ],
