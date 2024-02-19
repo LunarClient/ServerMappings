@@ -21,9 +21,7 @@
     "gameTypes": [
         "Adventure",
         "PvE",
-        "Roleplay",
-        "Open World",
-        "PvP"
+        "Open World"
     ],
     "socials": {
         "twitter": "Wynncraft",
