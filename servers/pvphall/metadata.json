@@ -1,0 +1,29 @@
+{
+    "id": "pvphall",
+    "name": "PvPHall",
+    "description": "Servidor de PvP (Pirata & Original)",
+    "addresses": [
+        "pvphall.com.br",
+        "pvphall.club"
+    ],
+    "primaryAddress": "pvphall.com.br",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryColor": "#ec0909",
+    "secondaryColor": "#ffd65c",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "pvphall",
+        "discord": "https://discord.com/invite/mvKchxZPrx"
+    }
+}

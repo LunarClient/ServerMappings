@@ -3,21 +3,21 @@
     "name": "Wynncraft",
     "website": "https://wynncraft.com/",
     "store": "https://store.wynncraft.com/",
+    "description": "A Minecraft MMORPG with an expansive world, rich lore, and quests!",
     "addresses": [
         "wynncraft.com"
     ],
     "primaryAddress": "play.wynncraft.com",
     "minecraftVersions": [
-        "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.12.2",
-    "primaryColor": "#b0b46c",
-    "secondaryColor": "#463d2b",
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryColor": "#64a030",
+    "secondaryColor": "#2b3d1f",
     "gameTypes": [
         "Roleplay",
         "PvP",
@@ -29,5 +29,10 @@
         "youtube": "UC-ZXrUQOrtYcqAGx9F9IEeQ",
         "reddit": "WynnCraft",
         "facebook": "wynncraft"
+    },
+    "modpack": {
+        "id": "cqIwxyhH",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }
