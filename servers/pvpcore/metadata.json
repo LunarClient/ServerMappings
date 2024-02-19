@@ -1,10 +1,11 @@
 {
     "id": "pvpcore",
     "name": "PvPCore",
+    "store": "https://store.pvpcore.club",
     "description": "Where the best players play",
     "addresses": [
         "pvpcore.club",
-        "potpvp.ru",
+        "potpvp.ru"
     ],
     "primaryAddress": "pvpcore.club",
     "minecraftVersions": [
@@ -20,10 +21,9 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "PvP"
-    ],
-    "store": "https://store.pvpcore.club"
+    ]
 }
