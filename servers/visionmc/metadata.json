@@ -4,8 +4,7 @@
     "store": "https://store.visionmc.rip",
     "description": "A server that will change the ages...",
     "addresses": [
-        "visionmc.rip",
-
+        "visionmc.rip"
     ],
     "primaryAddress": "visionmc.rip",
     "primaryColor": "#ff9933",
@@ -18,13 +17,13 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-        
+    ],
     "socials": {
         "twitter": "VisionMC_RIP",
         "discord": "https://discord.gg/dErXwWyJsr"
-    }
+    },
     "gameTypes": [
         "PvP",
-		"MiniGames"
+        "MiniGames"
     ]
 }
