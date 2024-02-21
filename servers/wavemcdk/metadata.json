@@ -1,0 +1,37 @@
+{
+    "id": "wavemcdk",
+    "name": "WaveMC",
+    "website": "https://wavemc.dk/",
+    "store": "https://butik.wavemc.dk/",
+    "addresses": [
+        "wavemc.dk"
+    ],
+    "primaryAddress": "wavemc.dk",
+    "primaryColor": "#97e657",
+    "secondaryColor": "#4a494d",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/unicmc-net-756917719357587558"
+    },
+    "compliance": {
+        "rules": "https://wavemc.dk/regler.html"
+    }
+}
