@@ -1,0 +1,30 @@
+{
+    "id": "foxping",
+    "name": "FoxPing",
+    "description": "FoxPing est un serveur minecraft mini-jeux.",
+    "addresses": [
+        "foxping.fr"
+    ],
+    "primaryAddress": "foxping.nodarium.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mQuxhDR83d"
+    },
+    "crossplay": false
+}
