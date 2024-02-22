@@ -26,7 +26,7 @@
     "gameTypes": [
         "PVP"
         "Survival"
-		"Roleplay"
+	"Roleplay"
     ],
     "website": "https://www.eladornetwork.nl",
     "store": "https://store.eladornetwork.nl",
@@ -37,6 +37,5 @@
 		"tiktok": "https://www.tiktok.com/@eladornetwork"
         "twitter": "https://twitter.com/eladornetwork",
         "discord": "https://discord.gg/3mjN3P97z4"
-    },
-    "crossplay": false
+    }
 }
