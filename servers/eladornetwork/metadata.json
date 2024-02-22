@@ -26,16 +26,16 @@
     "gameTypes": [
         "PVP"
         "Survival"
-	"Roleplay"
+	"Roleplay",
     ],
     "website": "https://www.eladornetwork.nl",
     "store": "https://store.eladornetwork.nl",
     },
     "socials": {
-		"instagram": "https://www.instagram.com/eladornetwork"
-		"youtube": "https://www.youtube.com/@EladorNetwork"
-		"tiktok": "https://www.tiktok.com/@eladornetwork"
-        "twitter": "https://twitter.com/eladornetwork",
-        "discord": "https://discord.gg/3mjN3P97z4"
+	"instagram": "https://www.instagram.com/eladornetwork"
+	"youtube": "https://www.youtube.com/@EladorNetwork"
+	"tiktok": "https://www.tiktok.com/@eladornetwork"
+        "twitter": "https://twitter.com/eladornetwork"
+        "discord": "https://discord.gg/3mjN3P97z4",
     }
 }
