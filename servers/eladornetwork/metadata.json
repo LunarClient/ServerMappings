@@ -3,7 +3,7 @@
     "name": "Elador Network",
     "description": "A minecraft network for everyone with Kingdom, WarSimulation, SMP and much more!",
     "addresses": [
-        "eladornetwork.nl",
+        "eladornetwork.nl"
     ],
     "primaryAddress": "eladornetwork.nl",
     "minecraftVersions": [
@@ -21,20 +21,19 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "PVP",
         "Survival",
-	"Roleplay"
+        "Roleplay"
     ],
     "website": "https://www.eladornetwork.nl",
-    "store": "https://store.eladornetwork.nl"
-    },
+    "store": "https://store.eladornetwork.nl",
     "socials": {
-	"instagram": "https://www.instagram.com/eladornetwork",
-	"youtube": "https://www.youtube.com/@EladorNetwork",
-	"tiktok": "https://www.tiktok.com/@eladornetwork",
+        "instagram": "https://www.instagram.com/eladornetwork",
+        "youtube": "https://www.youtube.com/@EladorNetwork",
+        "tiktok": "https://www.tiktok.com/@eladornetwork",
         "twitter": "https://twitter.com/eladornetwork",
         "discord": "https://discord.gg/3mjN3P97z4"
     }
