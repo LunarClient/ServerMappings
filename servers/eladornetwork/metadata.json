@@ -7,9 +7,9 @@
     ],
     "primaryAddress": "eladornetwork.nl",
     "minecraftVersions": [
-        "1.12.2.*",
-        "1.18.2.*",
-        "1.20.1.*"
+        "1.12.2",
+        "1.18.2",
+        "1.20.1"
     ],
     "primaryMinecraftVersion": "1.18.2",
     "primaryColor": "#27de64",
