@@ -21,19 +21,12 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "NA",
         "EU",
-        "OC",
-        "AS",
-        "SA"
     ],
     "gameTypes": [
-        "Kingdom"
-        "WarSimulation"
-		"SMP"
-		"Racing"
-		"Zombie Apocalypse"
-		"Crystal Wars"
+        "PVP"
+        "Roleplay"
+        "Minigames"
     ],
     "website": "https://www.eladornetwork.nl",
     "store": "https://store.eladornetwork.nl",
@@ -42,13 +35,7 @@
         "termsOfService": "https://store.eladornetwork.nl/terms/checkout",
         "rules": "https://www.eladornetwork.nl/rules"
     },
-    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-		"instagram": "https://www.instagram.com/eladornetwork"
-		"youtube": "https://www.youtube.com/@EladorNetwork"
-		"tiktok": "https://www.tiktok.com/@eladornetwork"
-        "twitter": "https://twitter.com/eladornetwork",
-        "discord": "https://discord.gg/3mjN3P97z4"
-    },
-    "crossplay": false
+	"discord": "https://discord.gg/3mjN3P97z4"
+    }
 }
