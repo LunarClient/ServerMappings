@@ -12,11 +12,15 @@
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*"
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
     "gameTypes": [
-        "Factions",
-        "PvP"
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.com/invite/kryxmc"
