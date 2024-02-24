@@ -9,8 +9,8 @@
         "play.santix.lol"
     ],
     "primaryAddress": "santix.lol",
-    "primaryColor": "AB00D1",
-    "secondaryColor": "FFFFFF",
+    "primaryColor": "#AB00D1",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
@@ -23,8 +23,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "MiniGames",
-        "New PvP"
+        "Minigames",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.santix.lol",
