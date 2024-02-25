@@ -1,0 +1,30 @@
+{
+    "id": "policreators",
+    "name": "PoliCreators",
+    "addresses": [
+        "mc.policreators.xyz"
+    ],
+    "primaryAddress": "mc.minecreators.xyz",
+    "minecraftVersions": [
+        "1.8.*",
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#F0F8FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.policreators.xyz",
+    "socials": {
+        "discord": "https://discord.gg/bQBJ94uQgy"
+    },
+    "crossplay": false
+}
