@@ -4,9 +4,7 @@
     "website": "https://santix.lol/",
     "store": "https://store.santix.lol/",
     "addresses": [
-        "santix.lol",
-        "mc.santix.lol",
-        "play.santix.lol"
+        "santix.lol"
     ],
     "primaryAddress": "santix.lol",
     "primaryColor": "#AB00D1",
@@ -27,7 +25,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.santix.lol",
+        "discord": "https://discord.com/invite/HW2By5aSey",
         "instagram": "santix.lol",
         "tiktok": "santix.lol"
     }
