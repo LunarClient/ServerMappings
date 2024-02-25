@@ -1,0 +1,34 @@
+{
+    "id": "selectmc",
+    "name": "Select MC",
+    "description": "The place to enjoy.",
+    "addresses": [
+        "selectrblx.com",
+        "play.selectrblx.com"
+    ],
+    "primaryAddress": "play.selectrblx.com",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#89cff0",
+    "secondaryColor": "#0f52ba",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "website": "https://mc.selectrblx.com",
+    "crossplay": true
+}
