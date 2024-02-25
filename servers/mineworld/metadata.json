@@ -6,7 +6,7 @@
     "addresses": [
         "play.mineworld.lat"
     ],
-    "primaryAddress": "mineworld.lat",
+    "primaryAddress": "play.mineworld.lat",
     "primaryColor": "#1e83bd",
     "secondaryColor": "#0c3859",
     "minecraftVersions": [
@@ -27,9 +27,9 @@
     "gameTypes": [
         "Prison"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "socials": {
