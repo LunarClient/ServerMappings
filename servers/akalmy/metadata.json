@@ -1,0 +1,31 @@
+{
+    "id": "akalmy",
+    "name": "Akalmy",
+    "description": "Serveur minecraft Mini-Jeux 1.8",
+    "addresses": [
+        "akalmy.fr"
+    ],
+    "primaryAddress": "play.akalmy.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/A2tGHmsfyG"
+    },
+    "website": "https://akalmy.fr/",
+    "crossplay": false
+}
