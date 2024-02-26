@@ -3,10 +3,7 @@
     "name": "Select MC",
     "description": "The place to enjoy.",
     "addresses": [
-        "selectrblx.com",
-        "play.selectrblx.com",
-        "alpha.embotic.xyz:1049"
-        "alpha.embotic.xyz:1902"
+        "selectrblx.com"
     ],
     "primaryAddress": "play.selectrblx.com",
     "minecraftVersions": [
