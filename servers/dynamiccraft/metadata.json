@@ -22,11 +22,11 @@
     "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
-        "BD"
+        "AS"
     ],
     "gameTypes": [
-        "Bedwars",
-        "Hubpvp",
+        "PvP",
+        "Minigames",
 	    "Survival"
     ],
     "socials": {
