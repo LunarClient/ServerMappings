@@ -24,8 +24,7 @@
     "primaryRegion": "NA",
     "regions": [
         "NA",
-        "EU",
-        "AU"
+        "EU"
     ],
     "gameTypes": [
         "Prison",
