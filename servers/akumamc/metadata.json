@@ -5,7 +5,6 @@
     "website": "https://akumamc.net/",
     "store": "https://store.akumamc.net/",
     "addresses": [
-        "lunar.akumamc.net",
         "akumamc.net"
     ],
     "primaryAddress": "akumamc.net",
