@@ -1,13 +1,35 @@
 {
     "id": "revenge",
-    "name": "Revenge Network",
+    "name": "Revenge",
+    "description": "The PvP House.",
     "addresses": [
         "revenge.cc"
     ],
-    "gameTypes": [
-        "HCF",
-        "PvP"
+    "primaryAddress": "revenge.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.16.*"
     ],
-    "primaryColor": "#487c5e",
-    "secondaryColor": "#c7d2d4"
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c63c17",
+    "secondaryColor": "#e5e500",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC",
+        "Survival",
+        "Prison"
+    ],
+    "store": "https://store.revenge.cc",
+    "socials": {
+        "twitter": "revengeccnet",
+        "discord": "https://discord.gg/2hnDCwHRWC",
+        "telegram": "revengenet"
+        
+    }
 }

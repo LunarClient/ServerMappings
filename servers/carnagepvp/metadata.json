@@ -3,10 +3,10 @@
     "name": "CarnagePvP",
     "store": "https://store.carnagepvp.me/",
     "addresses": [
-        "carnagepvp.me",
-        "carnagepvp.net"
+        "carnagepvp.net",
+        "carnagepvp.me"
     ],
-    "primaryAddress": "play.carnagepvp.me",
+    "primaryAddress": "play.carnagepvp.net",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
