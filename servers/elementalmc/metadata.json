@@ -1,6 +1,7 @@
 {
     "id": "elementalmc",
     "name": "ElementalMC",
+    "store": "https://korraelementalmc.tebex.io/",
     "description": "Home of the 4 Elements on Minecraft",
     "addresses": [
         "elementalmc.live",
@@ -30,8 +31,6 @@
 	"Factions",
 	"Survival",
     ],
-    "store": "https://korraelementalmc.tebex.io/",
-    },
     "socials": {
         "youtube": "UCQjChA7LvVVfd3Mf7132UKw",
         "tiktok": "@korraemc",
