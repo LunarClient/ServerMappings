@@ -1,6 +1,7 @@
 {
     "id": "elementalmc",
     "name": "ElementalMC",
+    "store": "https://korraelementalmc.tebex.io/"
     "description": "A 4 Elements Minecraft Server for every player!",
     "addresses": [
         "elementalmc.live"
@@ -14,8 +15,8 @@
     "secondaryColor": "#7a0fe8",
     "primaryLanguage": "en",
     "languages": [
-        "en"
-	"de"
+        "en",
+	"de",
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -24,15 +25,13 @@
     ],
     "gameTypes": [
         "PvP"
-	"Survival"
-	"Adventure"
-	"Open World"
-	"PvE"
-	"factions"
-	"roleplay"
+	"Survival",
+	"Adventure",
+	"Open World",
+	"PvE",
+	"Factions",
+	"Roleplay",
     ],
-    "store": "https://korraelementalmc.tebex.io/",
-
     "socials": {
         "tiktok": "https://www.tiktok.com/@korraemc",
 	"youtube": "https://www.youtube.com/channel/UCQjChA7LvVVfd3Mf7132UKw"
