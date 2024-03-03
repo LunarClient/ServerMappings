@@ -6,8 +6,8 @@
         "elementalmc.live"
     ],
     "primaryAddress": "play.elementalmc.live",
-    "primaryColor": "#3b66c9",
-    "secondaryColor": "#68a73c",
+    "primaryColor": "#7a0fe8",
+    "secondaryColor": "#900000",
     "minecraftVersions": [
         "1.20.*"
     ],
