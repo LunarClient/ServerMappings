@@ -3,11 +3,11 @@
     "name": "ElementalMC",
     "description": "Home of the 4 Elements on Minecraft",
     "addresses": [
-        "elementalmc.live",
+        "elementalmc.live"
     ],
     "primaryAddress": "play.elementalmc.live",
     "minecraftVersions": [
-        "1.20.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
     "primaryColor": "#900000",
@@ -28,9 +28,9 @@
     "gameTypes": [
         "PvP",
 	"Factions",
-	"Survival",
+	"Survival"
     ],
-    "store": "https://korraelementalmc.tebex.io/",
+    "store": "https://korraelementalmc.tebex.io/"
     },
     "socials": {
         "youtube": "UCQjChA7LvVVfd3Mf7132UKw",
