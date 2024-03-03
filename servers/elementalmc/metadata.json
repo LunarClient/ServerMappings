@@ -1,6 +1,5 @@
 {
     "id": "elementalmc",
-    "store": korraelementalmc.tebex.io
     "name": "ElementalMC",
     "description": "A 4 Elements Minecraft Server for every player!",
     "addresses": [
@@ -31,7 +30,10 @@
 	"PvE"
 	"factions"
 	"roleplay"
-    ],    "socials": {
+    ],
+    "store": "https://korraelementalmc.tebex.io/",
+
+    "socials": {
         "tiktok": "https://www.tiktok.com/@korraemc",
 	"youtube": "https://www.youtube.com/channel/UCQjChA7LvVVfd3Mf7132UKw"
         "twitch": "https://www.twitch.tv/demxn13",
