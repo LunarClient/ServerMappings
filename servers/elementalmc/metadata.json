@@ -2,42 +2,30 @@
     "id": "elementalmc",
     "name": "ElementalMC",
     "store": "https://korraelementalmc.tebex.io/",
-    "description": "A 4 Elements Minecraft Server for every player!",
     "addresses": [
         "elementalmc.live"
     ],
     "primaryAddress": "play.elementalmc.live",
+    "primaryColor": "#3b66c9",
+    "secondaryColor": "#68a73c",
     "minecraftVersions": [
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
-    "primaryColor": "#900000",
-    "secondaryColor": "#7a0fe8",
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-	"de"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
-        "EU"
+	"EU"
     ],
     "gameTypes": [
-        "PvP"
-	"Survival",
-	"Adventure",
-	"Open World",
-	"PvE",
+        "Survival",
 	"Factions",
-	"Roleplay"
+	"PvP"
     ],
     "socials": {
-        "tiktok": "https://www.tiktok.com/@korraemc",
-	"youtube": "https://www.youtube.com/channel/UCQjChA7LvVVfd3Mf7132UKw"
-        "twitch": "https://www.twitch.tv/demxn13",
-        "discord": "https://discord.gg/JCsxnuBYNF"
-	"reddit": "https://www.reddit.com/r/ElementalMC/"
-    },
-    "crossplay": true
+        "tiktok": "korraemc",
+        "discord": "https://discord.gg/pNqvyeZT7e",
+        "youtube": "KorraElementalMC",
+        "reddit": "ElementalMC"
+    }
 }
