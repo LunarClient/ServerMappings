@@ -23,8 +23,7 @@
     "gameTypes": [
         "PvP",
         "Parkour",
-        "Survival",
-        "Prison"
+        "Survival"
     ],
     "website": "https://megamaa.com",
     "socials": {
