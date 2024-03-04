@@ -31,9 +31,7 @@
         "PvP",
         "PvE",
         "Minigames",
-        "Parkour",
         "Survival",
-        "Open World",
         "Creative"
     ],
     "socials": {
@@ -41,5 +39,6 @@
         "discord": "https://discord.com/invite/edvQWPp",
         "youtube": "zenithsmp",
         "tiktok": "playzenithsmp"
-    }
+    },
+    "crossplay": true
 }
