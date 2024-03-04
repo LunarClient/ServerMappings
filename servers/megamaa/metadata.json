@@ -1,9 +1,10 @@
 {
     "id": "megamaa",
     "name": "MegaMaa",
+    "website": "https://megamaa.com",
     "description": "MegaMahtavia kokemuksia koet MegaMaassa!",
     "addresses": [
-        "mc.megamaa.com"
+        "megamaa.com"
     ],
     "primaryAddress": "mc.megamaa.com",
     "minecraftVersions": [
@@ -14,7 +15,7 @@
     "secondaryColor": "#F6FF35",
     "primaryLanguage": "en",
     "languages": [
-    "en"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -25,10 +26,9 @@
         "Parkour",
         "Survival"
     ],
-    "website": "https://megamaa.com",
     "socials": {
         "youtube": "MegaMaaMC",
-        "discord": "https://megamaa.com/dc",
+        "discord": "https://discord.com/invite/mp6XzgmMwg",
         "twitter": "MegaMaa",
         "tiktok": "@megamaamc"
     },
