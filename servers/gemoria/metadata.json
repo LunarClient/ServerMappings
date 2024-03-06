@@ -3,7 +3,7 @@
     "name": "Gemoria",
     "description": "Il punto di riferimento per il PvP 1.20",
     "addresses": [
-        "gemoria.net",
+        "gemoria.net"
     ],
     "primaryAddress": "gemoria.net",
     "minecraftVersions": [
