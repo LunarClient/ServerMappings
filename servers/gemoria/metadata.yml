@@ -28,9 +28,8 @@
     "website": "https://www.gemoria.net",
     "store": "https://store.gemoria.net",
     "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
+        "privacyPolicy": "https://www.gemoria.net/privacy",
+        "rules": "https://www.gemoria.net/regolamento"
     },
     "socials": {
         "telegram": "gemoria_official",
