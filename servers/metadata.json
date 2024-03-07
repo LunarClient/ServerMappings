@@ -1,0 +1,50 @@
+{
+    "id": "tkcraft",
+    "name": "Toster Craft",
+    "description": "Bulgarian Minecraft Community",
+    "addresses": [
+        "toster.tk",
+        "mc.toster.tk",
+    ],
+    "primaryAddress": "toster.tk",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+		"Survival"
+    ],
+    "presentationVideo": "",
+    "socials": {
+        "twitter": "",
+        "telegram": "",
+        "discord": "https://discord.gg/4j4Gttbgce"
+    },
+    "crossplay": false
+}
