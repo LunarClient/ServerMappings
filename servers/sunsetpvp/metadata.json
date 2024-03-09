@@ -5,9 +5,7 @@
     "store": "https://store.sunsetpvp.it/",
     "description": "SunsetPvP is the best KitPvP-OP in italy.",
     "addresses": [
-        "sunsetpvp.it",
-	"mc.sunsetpvp.it",
-	"premium.sunsetpvp.it"
+        "sunsetpvp.it"
     ],
     "primaryAddress": "play.sunsetpvp.it",
     "minecraftVersions": [
