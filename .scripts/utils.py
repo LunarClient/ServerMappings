@@ -231,8 +231,8 @@ def validate_background(path, server_name) -> list[str]:
         )
 
     # Check image dimensions are a 16:9 ratio
-    rounded_ratio = round(background_image.width / background_image.height, 2)
-    if rounded_ratio != 1.78:
+    aspect_ratio = round(background_image.width / background_image.height, 2)
+    if aspect_ratio != 1.78:
         errors.append(
             f"{server_name}'s server background does not have a 16:9 aspect ratio..."
         )
@@ -250,7 +250,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     """
     Validate that server banner meets the following requirements:
       * is a PNG or GIF
-      * has a 16:9 aspect ratio
+      * has a 35:5 aspect ratio
       * is greater than 340 pixels in width and 45 pixels in height
       * we can convert it to a sprite image without it erroring.
 
@@ -339,7 +339,7 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
     """
 
     if not os.path.isfile(path):
-        print(f"No banner found for {server_name}... skipping.")
+        print(f"No wordmark found for {server_name}... skipping.")
         return []
     
     wordmark_image = image.open(path)
@@ -361,7 +361,7 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
 
     aspect_ratio = round(wordmark_image.width / wordmark_image.height, 3)
     # Incorrect aspect ratio
-    if aspect_ratio != 7.8:
+    if aspect_ratio != 1.78:
         errors.append(
             f"{server_name}'s server wordmark does not have a 16:9 aspect ratio..."
         )
