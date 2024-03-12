@@ -12,7 +12,7 @@ import sys
 
 import jsonschema
 import requests
-from utils import get_all_servers, validate_background, validate_banner, validate_logo
+from utils import get_all_servers, validate_background, validate_banner, validate_logo, validate_wordmark
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -337,6 +337,7 @@ def check_media(
         # Paths
         logo_path = f"{args.servers_dir}/{server_id}/logo.png"
         background_path = f"{args.servers_dir}/{server_id}/background.png"
+        wordmark_path = f"{args.servers_dir}/{server_id}/wordmark.png"
 
         # Check if a server has a banner
         banner_path = None
@@ -348,16 +349,18 @@ def check_media(
         # Validate!
         logo_errors = validate_logo(logo_path, server_name)
         background_errors = validate_background(background_path, server_name)
+        wordmark_errors = validate_wordmark(wordmark_path, server_name)
         banner_errors = (
             validate_banner(banner_path, server_name) if banner_path is not None else []
         )
+
 
         print(f"Validated {server_name}'s media.")
 
         # if there are no errors for all of the above skip
         if all(
             len(errors) == 0
-            for errors in [logo_errors, background_errors, banner_errors]
+            for errors in [logo_errors, background_errors, banner_errors, wordmark_errors]
         ):
             continue
 
@@ -367,6 +370,7 @@ def check_media(
         current_errors[server_id] += background_errors
         current_errors[server_id] += logo_errors
         current_errors[server_id] += banner_errors
+        current_errors[server_id] += wordmark_errors
 
     print(f"Sucessfully validated {len(servers)} server logos/backgrounds.")
     print(current_errors)
