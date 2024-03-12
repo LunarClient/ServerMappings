@@ -359,7 +359,7 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
         )
     
 
-    aspect_ratio = round(wordmark_image.width / wordmark_image.height, 3)
+    aspect_ratio = round(wordmark_image.width / wordmark_image.height, 2)
     # Incorrect aspect ratio
     if aspect_ratio != 1.78:
         errors.append(
