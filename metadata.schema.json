@@ -173,6 +173,15 @@
         },
         "crossplay": {
             "type": "boolean"
+        },
+        "tebexStore": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "background": {
+                    "$ref": "#/definitions/TebexStoreBackground"
+                }
+            }
         }
     },
     "definitions": {
@@ -291,6 +300,18 @@
                 "Roleplay",
                 "Adventure"
             ]
+        },
+        "TebexStoreBackground": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "lowerColor": {
+                    "$ref": "#/definitions/RGBColor"
+                },
+                "upperColor": {
+                    "$ref": "#/definitions/RGBColor"
+                }
+            }
         }
     }
 }

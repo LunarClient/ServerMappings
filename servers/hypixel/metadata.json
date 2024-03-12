@@ -49,5 +49,11 @@
         "termsOfService": "https://hypixel.net/terms",
         "rules": "https://hypixel.net/rules"
     },
-    "presentationVideo": "bkWHyz1MmaQ"
+    "presentationVideo": "bkWHyz1MmaQ",
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#16120C",
+            "upperColor": "#282320"
+        }
+    }
 }
