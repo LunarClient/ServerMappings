@@ -1,0 +1,33 @@
+{
+    "id": "deadwood",
+    "name": "Deadwood",
+    "description": "The only role-playing game in the wild far west",
+    "addresses": [
+        "deadwood2.it"
+    ],
+    "primaryAddress": "mc.deadwood2.it",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"        
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#f08c00",
+    "secondaryColor": "#ffc400",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "telegram": "DeadwoodRP"
+    },
+    "crossplay": false
+}
