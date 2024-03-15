@@ -1,13 +1,13 @@
 {
-    "id": "lunarnetwork",
-    "name": "Lunar Network",
-    "description": "Home of Competitive Minecraft PvP",
+    "id": "lands",
+    "name": "LandsMC",
+    "description": "O melhor servidor de minecraft!",
     "addresses": [
-        "lunar.gg",
-        "lunargg.dev",
-        "mcteams.com"
+        "stydismc.com",
+        "landsmc.com"
+    
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "landsmc.com",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -15,33 +15,25 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
+    "primaryLanguage": "pt-br",
     "languages": [
-        "en"
+        "pt-br"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "SA",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
+    
         "SA"
     ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.lunar.gg",
-    "store": "https://store.lunar.gg",
-    "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
-    },
+    "website": "https://landsmc.com",
+    "store": "https://landsmc.com",
+
     "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-        "twitter": "LunarNetwork",
-        "telegram": "lunarnetwork",
-        "discord": "https://www.lunar.gg/discord"
+        "youtube": "https://www.youtube.com/@LandsMCOFICIAL",
+        "discord": "https://discord.gg/sWCB7T6gbQ",
     },
     "crossplay": false
 }
