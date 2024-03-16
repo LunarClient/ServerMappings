@@ -3,7 +3,7 @@
     "name": "Pixworld",
     "description": "Serveur minecraft survie et skyblock",
     "addresses": [
-        "play.pixworld.fr"
+        "pixworld.fr"
     ],
     "primaryAddress": "play.pixworld.fr",
     "minecraftVersions": [
@@ -16,7 +16,7 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#ba2323",
-    "secondaryColor": "#fff",
+    "secondaryColor": "#ffffff",
     "primaryLanguage": "fr",
     "languages": [
         "fr"
@@ -37,8 +37,8 @@
     },
     "presentationVideo": "DzqebfitZ6M",
     "socials": {
-        "discord": "https://discord.gg/Z6aDjUW",
-        "youtube": "https://www.youtube.com/@pixworldserveur1721"
+        "discord": "https://discord.com/invite/Z6aDjUW",
+        "youtube": "@pixworldserveur1721"
     },
     "crossplay": true
 }
