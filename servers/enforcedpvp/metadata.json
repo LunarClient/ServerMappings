@@ -1,0 +1,35 @@
+{
+    "id": "enforcedpvp",
+    "name": "EnforcedPvP",
+    "store": "https://buy.enforcedpvp.org/",
+    "addresses": [
+        "enforcedpvp.org",
+        "enforcedpvp.net"
+    ],
+    "primaryAddress": "play.enforcedpvp.org",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#357A03",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Zs3FvFjgEa"
+    }
+}
