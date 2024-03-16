@@ -32,5 +32,11 @@
         "instagram": "mccisland",
         "reddit": "mccisland",
         "tiktok": "mcchampionship_"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://noxcrew.com/privacy-notice",
+        "termsOfService": "https://noxcrew.com/terms-of-service",
+        "rules": "https://mcchampionship.com/help/rules/"
+    },
+    "presentationVideo": "7c1zWQoitig"
 }

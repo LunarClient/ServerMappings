@@ -1,0 +1,39 @@
+{
+    "id": "faderealms",
+    "name": "FadeRealms",
+    "website": "https://faderealms.net/",
+    "store": "https://store.faderealms.net/",
+    "addresses": [
+        "faderealms.net",
+        "faderealms.com",
+        "fadesmp.net",
+        "fadesmp.com"
+    ],
+    "primaryAddress": "faderealms.net",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#f5cc00",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "FadeRealms",
+        "discord": "https://discord.com/invite/faderealms"
+    }
+}

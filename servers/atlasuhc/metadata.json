@@ -1,0 +1,26 @@
+{
+    "id": "atlasuhc",
+    "name": "AtlasUHC",
+    "description": "Serveur UHC français.",
+    "addresses": [
+        "atlasmc.fr"
+    ],
+    "primaryAddress": "atlasmc.fr",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC"
+    ]
+}

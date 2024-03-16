@@ -4,17 +4,36 @@
     "website": "https://battle.rip/",
     "store": "https://store.battle.rip/",
     "addresses": [
-        "battle.rip"
+        "battle.rip",
+        "battlemc.rip"
     ],
     "primaryAddress": "battle.rip",
     "primaryColor": "#e2b13f",
     "secondaryColor": "#bd2527",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN",
+        "fr",
+        "de",
+        "pl"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
-        "1.12.*"
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.7.10",
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
         "UHC",
@@ -22,6 +41,6 @@
     ],
     "socials": {
         "twitter": "BattleRIPNet",
-        "discord": "https://discord.com/invite/MPpUPxq3RV"
+        "discord": "https://discord.gg/SWGVzs2DMb"
     }
 }

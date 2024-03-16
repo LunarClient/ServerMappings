@@ -3,9 +3,7 @@
     "name": "Valent Network",
     "description": "We are a Practice server based in Europe that helps you improve your PvP skills",
     "addresses": [
-        "valent.gg",
-        "eu.valent.gg",
-        "na.valent.gg"
+        "valent.gg"
     ],
     "primaryAddress": "valent.gg",
     "minecraftVersions": [

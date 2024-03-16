@@ -1,13 +1,34 @@
 {
     "id": "revenge",
     "name": "Revenge Network",
+    "description": "The Home of PotPvP",
     "addresses": [
         "revenge.cc"
     ],
+    "primaryAddress": "revenge.cc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e22424",
+    "secondaryColor": "#ffb641",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
-        "HCF",
         "PvP"
     ],
-    "primaryColor": "#487c5e",
-    "secondaryColor": "#c7d2d4"
+    "website": "https://www.revenge.cc",
+    "store": "https://store.revenge.cc",
+    "socials": {
+        "twitter": "RevengeCCNet",
+        "telegram": "revengenet",
+        "discord": "https://discord.gg/2hnDCwHRWC"
+    }
 }
