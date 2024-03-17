@@ -8,7 +8,7 @@
     "primaryAddress": "fluoritemc.com",
     "minecraftVersions": [
         "1.19.4",
-        "1.20.X"
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#c4fffe",
