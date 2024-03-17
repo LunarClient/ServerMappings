@@ -1,0 +1,42 @@
+{
+    "id": "zenithmc",
+    "name": "ZenithMC Network",
+    "description": "Competitive Minecraft PvP",
+    "addresses": [
+        "zenithmc.me"
+    ],
+    "primaryAddress": "zenithmc.me",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#961b12",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "es",
+    "languages": [
+        "en",
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.zenithmc.me",
+    "store": "https://store.zenihtmc.me",
+    "compliance": {
+        "privacyPolicy": "https://discord.zenithmc.me",
+        "termsOfService": "https://discord.zenithmc.me",
+        "rules": "https://discord.zenithmc.me"
+    },
+    "socials": {
+        "twitter": "ZenithMC_me",
+        "discord": "https://discord.zenithmc.me"
+    },
+    "crossplay": false
+}
