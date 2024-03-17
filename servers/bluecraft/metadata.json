@@ -9,10 +9,10 @@
     "primaryColor": "#930031",
     "secondaryColor": "#facc48",
     "minecraftVersions": [
-        "1.19.*",
-        "1.20.2"
+        "1.19.4",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
