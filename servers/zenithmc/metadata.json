@@ -28,14 +28,9 @@
     ],
     "website": "https://www.zenithmc.me",
     "store": "https://store.zenihtmc.me",
-    "compliance": {
-        "privacyPolicy": "https://discord.zenithmc.me",
-        "termsOfService": "https://discord.zenithmc.me",
-        "rules": "https://discord.zenithmc.me"
-    },
     "socials": {
         "twitter": "ZenithMC_me",
-        "discord": "https://discord.zenithmc.me"
+        "discord": "https://discord.com/invite/Uz8btWKYzu"
     },
     "crossplay": false
 }
