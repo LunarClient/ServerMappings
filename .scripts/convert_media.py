@@ -60,6 +60,7 @@ def main():
 
         args.servers_logos_output = local + "/.out/servers_logos_output"
         args.servers_backgrounds_output = local + "/.out/backgrounds"
+        args.servers_wordmarks_output = local + "/.out/wordmarks"
         args.servers_banners_output = local + "/.out/banners"
         args.lossless = False
 
@@ -91,6 +92,7 @@ def main():
     # Create server media output directories
     os.makedirs(args.servers_logos_output, exist_ok=True)
     os.makedirs(args.servers_backgrounds_output, exist_ok=True)
+    os.makedirs(args.servers_wordmarks_output, exist_ok=True)
     os.makedirs(args.servers_banners_output, exist_ok=True)
 
     for server in servers:
