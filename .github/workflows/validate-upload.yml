@@ -102,6 +102,7 @@ jobs:
           --servers_backgrounds_output .out/backgrounds \
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
+          --servers_wordmarks_output .out/wordmarks \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
