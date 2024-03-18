@@ -60,6 +60,7 @@ def main():
                     "gameTypes",
                     "website",
                     "wiki",
+                    "merch",
                     "store",
                     "socials",
                     "crossplay",
