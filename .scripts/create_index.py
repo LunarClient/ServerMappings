@@ -59,6 +59,8 @@ def main():
                     "regions",
                     "gameTypes",
                     "website",
+                    "wiki",
+                    "merch",
                     "store",
                     "socials",
                     "crossplay",
@@ -68,6 +70,7 @@ def main():
                     "compliance",
                     "presentationVideo",
                     "modpack",
+                    "tebexStore"
                 ],
             )
             writer.writeheader()
