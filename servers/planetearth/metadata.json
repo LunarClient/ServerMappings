@@ -3,8 +3,7 @@
     "name": "PlanetEarth",
     "description": "Minecraft Korean Earth Geopolitcal Towny Server",
     "addresses": [
-        "planetearth.kr",
-        "play.planetearth.kr"
+        "planetearth.kr"
     ],
     "primaryAddress": "planetearth.kr",
     "minecraftVersions": [
