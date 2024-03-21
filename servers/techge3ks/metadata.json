@@ -42,7 +42,6 @@
     },
         "compliance": {
         "privacyPolicy": "https://shop.techge3ks.com/terms/privacy",
-        "termsOfService": "https://shop.techge3ks.com/terms/checkout",
-        "rules": "https://shop.techge3ks.com/terms/checkout"
+        "termsOfService": "https://shop.techge3ks.com/terms/checkout"
     }
 }
