@@ -1,6 +1,7 @@
 {
     "id": "bte",
     "name": "Build The Earth",
+    "website": "https://buildtheearth.net",
     "description": "Recreating The Whole Earth In Minecraft",
     "addresses": [
         "buildtheearth.net",
@@ -62,16 +63,17 @@
         "OC",
         "SA"
     ],
-    "gameTypes": ["Creative"],
-    "website": "https://buildtheearth.net",
+    "gameTypes": [
+        "Creative"
+    ],
     "presentationVideo": "yge606ivgls",
     "socials": {
-        "twitter": "https://twitter.com/buildtheearth_",
-        "discord": "https://buildtheearth.net/discord",
-        "instagram": "https://www.instagram.com/buildtheearth_",
-        "twitch": "https://www.twitch.tv/buildtheearth",
-        "tiktok": "https://www.tiktok.com/@buildtheearth",
-        "facebook": "https://www.facebook.com/BuildTheEarth"
+        "twitter": "buildtheearth_",
+        "discord": "https://discord.com/invite/buildtheearth-net-690908396404080650",
+        "instagram": "buildtheearth_",
+        "twitch": "buildtheearth",
+        "tiktok": "@buildtheearth",
+        "facebook": "BuildTheEarth"
     },
     "crossplay": false
 }
