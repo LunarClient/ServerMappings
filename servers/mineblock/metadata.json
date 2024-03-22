@@ -1,0 +1,30 @@
+{
+    "id": "mineblock",
+    "name": "MineBlock",
+    "website": "https://mineblock.gg",
+    "addresses": [
+        "mineblock.gg"
+    ],
+    "primaryAddress": "mineblock.gg",
+    "primaryColor": "#EE7EFF",
+    "secondaryColor": "#FFDA5E",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "languages": [
+        "en"
+    ],
+    "primaryLanguage": "en",
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}
