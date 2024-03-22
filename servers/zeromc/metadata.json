@@ -1,6 +1,8 @@
 {
     "id": "zeromc",
     "name": "ZeroMC",
+    "website": "https://www.zeromc.it",
+    "store": "https://store.zeromc.it",
     "description": "Join our Network and enjoy all our modes!",
     "addresses": [
         "zeromc.it"
@@ -30,8 +32,6 @@
         "PvP",
         "Skyblock"
     ],
-    "website": "https://www.zeromc.it",
-    "store": "https://store.zeromc.it",
     "compliance": {
         "privacyPolicy": "https://www.zeromc.it/privacy/",
         "termsOfService": "https://www.zeromc.it/terms/",
