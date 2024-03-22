@@ -21,8 +21,7 @@
     ],
     "primaryMinecraftVersion": "1.19.4",
     "gameTypes": [
-        "PvP",
-        "Duels"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/invite/nAyZvAJqxC"
