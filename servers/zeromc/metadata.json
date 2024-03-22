@@ -1,9 +1,9 @@
 {
     "id": "zeromc",
     "name": "ZeroMC",
-    "website": "https://www.zeromc.it",
-    "store": "https://store.zeromc.it",
-    "description": "Join our Network and enjoy all our modes!",
+    "website": "https://www.zeromc.it/",
+    "store": "https://store.zeromc.it/",
+    "description": "ZeroMC. Join our Network and enjoy all our modes!",
     "addresses": [
         "zeromc.it"
     ],
@@ -17,7 +17,7 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.17.1",
+    "primaryMinecraftVersion": "1.17.2",
     "primaryColor": "#8b15ff",
     "secondaryColor": "#ffffff",
     "primaryLanguage": "it",
@@ -32,15 +32,9 @@
         "PvP",
         "Skyblock"
     ],
-    "compliance": {
-        "privacyPolicy": "https://www.zeromc.it/privacy/",
-        "termsOfService": "https://www.zeromc.it/terms/",
-        "rules": "https://www.zeromc.it/rules/"
-    },
     "socials": {
         "discord": "https://discord.com/invite/EbxjeRka22"
         "tiktok": "zeromc.it"
         "instagram": "play.zeromc.it"
-    },
-    "crossplay": false
+    }
 }
