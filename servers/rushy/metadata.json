@@ -1,0 +1,32 @@
+{
+    "id": "rushy",
+    "name": "rushy",
+    "description": "Rushy est un serveur minecraft basé sur le mini-jeux !",
+    "addresses": [
+        "rushy.fr"
+    ],
+    "primaryAddress": "mc.rushy.fr",
+    "minecraftVersions": [
+        "1.8.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#fc9147",
+    "secondaryColor": "#fcb447",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Training",
+        "PvP",
+        "Mini-Games",
+        "Mini-Jeux"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/kEYzQmyvhF"
+    }
+}
