@@ -36,5 +36,11 @@
         "discord": "https://discord.com/invite/PP",
         "youtube": "UC12gU3J4gMWRw3ZAxBlRQGg",
         "tiktok": "purpleprisonofficial"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#110B18",
+            "upperColor": "#24182E"
+        }
     }
 }

@@ -1,0 +1,24 @@
+{
+    "id": "voxelmines",
+    "name": "VoxelMines",
+    "website": "https://voxelmines.com/",
+    "store": "https://voxelmines.com/",
+    "addresses": [
+        "voxelmines.com"
+    ],
+    "primaryAddress": "play.voxelmines.com",
+    "primaryColor": "#ecb845",
+    "secondaryColor": "#522e23",
+    "minecraftVersions": [
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "gameTypes": [
+        "Minigames",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "VoxelMines_",
+        "discord": "https://discord.gg/voxelmines"
+    }
+}

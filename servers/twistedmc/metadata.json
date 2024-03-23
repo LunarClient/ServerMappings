@@ -3,9 +3,7 @@
     "name": "TwistedMC",
     "website": "https://twistedmc.net/",
     "addresses": [
-        "twistedmc.net",
-        "play.twistedmc.net",
-        "sync.twistedmc.net"
+        "twistedmc.net"
     ],
     "primaryAddress": "play.twistedmc.net",
     "minecraftVersions": [

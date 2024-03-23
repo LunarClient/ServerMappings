@@ -1,0 +1,28 @@
+{
+    "id": "octane",
+    "name": "OctanePvP",
+    "description": "A new type of gamemode combining Factions and Skyblock!",
+    "addresses": [
+        "octanepvp.com"
+    ],
+    "primaryAddress": "play.octanepvp.com",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#f9e931",
+    "secondaryColor": "#cb4a36",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/nxs96RmeBs"
+    },
+    "crossplay": false
+}
