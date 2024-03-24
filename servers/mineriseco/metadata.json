@@ -1,12 +1,12 @@
 {
-    "id": "mineriseco",
-    "name": "MINERISECO",
-    "website": "https://mineriseco.net/",
-    "store": "https://mineriseco.net/store",
+    "id": "minerise",
+    "name": "MINERISE",
+    "website": "https://minerise.net/",
+    "store": "https://minerise.net/store",
     "addresses": [
-        "mineriseco.net"
+        "minerise.net"
     ],
-    "primaryAddress": "play.mineriseco.net",
+    "primaryAddress": "play.minerise.net",
     "primaryColor": "#fe3e29",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
@@ -34,6 +34,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/mineriseco"
+        "discord": "https://discord.gg/minerise"
     }
 }
