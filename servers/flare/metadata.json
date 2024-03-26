@@ -5,9 +5,7 @@
     "store": "https://store.flarepvp.xyz/",
     "addresses": [
         "flarepvp.xyz",
-        "in.xyris.fun",
-        "sg.xyris.fun",
-        "ffa.xyris.fun"
+        "xyris.fun"
     ],
     "primaryAddress": "flarepvp.xyz",
     "primaryColor": "#ff6a00",
