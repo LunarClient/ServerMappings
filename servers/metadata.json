@@ -1,0 +1,26 @@
+{
+    "id": "winterlegends",
+    "name": "WinterLegends",
+    "website": "https://winterlegends.xyz/"
+    "addresses": [
+        "winterlegends.club"
+    ],
+    "primaryAddress": "winterlegends.club",
+    "primaryColor": "#0DC2E6",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.winterlegends.xyz",
+    }
+}
