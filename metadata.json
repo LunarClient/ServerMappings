@@ -1,0 +1,39 @@
+{
+    "id": "kingsmc",
+    "name": "KingsMC",
+    "website": "https://kingsmc.net/",
+    "store": "https://store.kingsmc.net/",
+    "addresses": [
+        "kingsmc.net",
+    ],
+    "primaryAddress": "play.kingsmc.net",
+    "primaryColor": "#ffc400",
+    "secondaryColor": "#361f1c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20."
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Country"
+        "Factions"
+        "Survival" 
+    ],
+    "socials": {
+        "discord": "https://discord.gg/kingsmc"
+    }
+}
