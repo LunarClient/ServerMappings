@@ -5,7 +5,6 @@
     "store": "https://store.pakmc.xyz/",
     "addresses": [
         "pakmc.xyz",
-        "beta.pakmc.xyz"
     ],
     "primaryAddress": "pakmc.xyz",
     "primaryColor": "#5CFF57",
