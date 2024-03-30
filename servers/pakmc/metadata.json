@@ -5,7 +5,7 @@
     "addresses": [
         "pakmc.xyz",
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "pakmc.xyz",
     "minecraftVersions": [
         "1.20.*",
         "1.19.*",
