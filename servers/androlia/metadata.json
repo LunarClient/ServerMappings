@@ -1,0 +1,23 @@
+{
+    "id": "androlia",
+    "name": "Androlia",
+    "store": "https://androlia.fr/shop",
+    "addresses": [
+        "androlia.fr"
+    ],
+    "primaryAddress": "mc.androlia.fr",
+    "primaryColor": "#3b7fff",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "RPG"
+        "MINIGAME"
+    ]
+}
