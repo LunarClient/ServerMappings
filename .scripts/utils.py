@@ -182,19 +182,19 @@ def validate_logo(path, server_name) -> list[str]:
     # Check image format is a PNG
     if logo_image.format not in ["PNG"]:
         errors.append(
-            f"{server_name}'s server logo is not a PNG (currently {logo_image.format})... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server logo is not a PNG (currently {logo_image.format})..."
         )
 
     # Check image dimensions are a 1:1 ratio
     if logo_image.width != logo_image.height:
         errors.append(
-            f"{server_name}'s server logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server logo does not have a 1:1 aspect ratio..."
         )
 
     # Check image dimensions are at least 512px
     if logo_image.width < 512:
         errors.append(
-            f"{server_name}'s server logo width/height is less than 512px... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server logo width/height is less than 512px..."
         )
 
     return errors
@@ -227,20 +227,20 @@ def validate_background(path, server_name) -> list[str]:
     # Check image format is a PNG
     if background_image.format not in ["PNG"]:
         errors.append(
-            f"{server_name}'s server background is not a PNG (currently {background_image.format})... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server background is not a PNG (currently {background_image.format})..."
         )
 
     # Check image dimensions are a 16:9 ratio
-    rounded_ratio = round(background_image.width / background_image.height, 2)
-    if rounded_ratio != 1.78:
+    aspect_ratio = round(background_image.width / background_image.height, 2)
+    if aspect_ratio != 1.78:
         errors.append(
-            f"{server_name}'s server background does not have a 16:9 aspect ratio... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server background does not have a 16:9 aspect ratio..."
         )
 
     # Check image dimensions are at least 512px
     if background_image.width < 1920:
         errors.append(
-            f"{server_name}'s server background resolution is less than 1920x1080... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server background resolution is less than 1920x1080..."
         )
 
     return errors
@@ -250,7 +250,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     """
     Validate that server banner meets the following requirements:
       * is a PNG or GIF
-      * has a 39:5 aspect ratio
+      * has a 35:5 aspect ratio
       * is greater than 340 pixels in width and 45 pixels in height
       * we can convert it to a sprite image without it erroring.
 
@@ -273,7 +273,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     # Incorrect input format
     if banner_image.format not in {"PNG", "GIF"}:
         errors.append(
-            f"{server_name}'s server banner is not a PNG or GIF (currently {banner_image.format})... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server banner is not a PNG or GIF (currently {banner_image.format})..."
         )
 
     # Process GIF properties
@@ -289,13 +289,13 @@ def validate_banner(path: str, server_name: str) -> list[str]:
         # GIF too long
         if total_duration > 15_000:
             errors.append(
-                f"{server_name}'s server banner is more than 15 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding."
+                f"{server_name}'s server banner is more than 15 seconds long (currently {total_duration / 1000})..."
             )
 
         # No duration found
         if total_duration == 0:
             errors.append(
-                f"{server_name}'s server gif server banner seems to not have any duration associated with it... Please ensure the image meets the requirements before proceeding."
+                f"{server_name}'s server gif server banner seems to not have any duration associated with it..."
             )
 
     aspect_ratio = round(banner_image.width / banner_image.height, 3)
@@ -305,19 +305,66 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     # Too big
     if sprite.height > 16383 or sprite.width > 16383:
         errors.append(
-            f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later..."
         )
 
     # Incorrect aspect ratio
     if aspect_ratio != 7.8:
         errors.append(
-            f"{server_name}'s server banner does not have a 39:5 aspect ratio... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server banner does not have a 16:9 aspect ratio..."
         )
 
     # Width too small
     if banner_image.width < 351:
         errors.append(
-            f"{server_name}'s server banner is less than 351x45... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server banner is less than 351x45..."
         )
 
+    return errors
+
+def validate_wordmark(path: str, server_name: str) -> list[str]:
+    """
+    Validate that server wordmark meets the following requirements:
+      * is a PNG
+      * has a 16:9 aspect ratio
+      * is greater than 854 pixels in width and 480 pixels in height
+
+    Parameters:
+        path (str): The path to the server wordmark.
+        server_name (str): The name of the server.
+
+    Returns:
+        list: A list of error messages if the wordmark does not meet the requirements. If the
+              banner meets all the requirements, an empty list is returned.
+    """
+
+    if not os.path.isfile(path):
+        print(f"No wordmark found for {server_name}... skipping.")
+        return []
+    
+    wordmark_image = image.open(path)
+    errors = []
+
+    # Check image format is a PNG
+    if wordmark_image.format not in ["PNG"]:
+        errors.append(
+            f"{server_name}'s server wordmark is not a PNG (currently {wordmark_image.format})..."
+        )
+    
+
+    # Width or height too small
+    if wordmark_image.width < 854 or wordmark_image.height < 480:
+        errors.append(
+            f"{server_name}'s server wordmark is less than 854x480..."
+        )
+    
+
+    aspect_ratio = round(wordmark_image.width / wordmark_image.height, 2)
+    # Incorrect aspect ratio
+    if aspect_ratio != 1.78:
+        errors.append(
+            f"{server_name}'s server wordmark does not have a 16:9 aspect ratio..."
+        )
+
+    
     return errors
