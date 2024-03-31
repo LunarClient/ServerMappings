@@ -1,10 +1,10 @@
 {
-    "id": "onlygoats",
-    "name": "OnlyGoats",
+    "id": "hopemc",
+    "name": "HopeMC",
     "addresses": [
-        "ogoats.club"
+        "hopemc.us"
     ],
-    "primaryAddress": "ogoats.club",
+    "primaryAddress": "hopemc.us",
     "primaryColor": "#a6050d",
     "secondaryColor": "#2007e3",
     "minecraftVersions": [
@@ -25,6 +25,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/wUEDnWdGjk"
+        "discord": "https://discord.gg/cjcdUGP2p3"
     }
 }
