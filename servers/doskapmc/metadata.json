@@ -1,0 +1,45 @@
+{
+    "id": "doskapmc",
+    "name": "DoSkapMC",
+    "website": "https://www.doskapmc.web.id/",
+    "store": "https://www.doskapmc.web.id/donate",
+    "description": "Bring fun and stay connected with your friends!",
+    "addresses": [
+        "doskapmc.net",
+        "doskapmc.com",
+        "doskapmc.my.id"
+    ],
+    "primaryAddress": "doskapmc.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/doskapmc",
+        "tiktok": "doscaffgm",
+        "instagram": "doscaff.gm",
+        "youtube": "doskapmc"
+    },
+    "crossplay": true
+}

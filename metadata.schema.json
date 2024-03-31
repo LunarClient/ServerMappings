@@ -82,7 +82,13 @@
         "website": {
             "$ref": "#/definitions/WebAddress"
         },
+        "wiki": {
+            "$ref": "#/definitions/WebAddress"
+        },
         "store": {
+            "$ref": "#/definitions/WebAddress"
+        },
+        "merch": {
             "$ref": "#/definitions/WebAddress"
         },
         "compliance": {
@@ -96,6 +102,9 @@
                     "$ref": "#/definitions/WebAddress"
                 },
                 "rules": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "support": {
                     "$ref": "#/definitions/WebAddress"
                 }
             }
@@ -173,6 +182,15 @@
         },
         "crossplay": {
             "type": "boolean"
+        },
+        "tebexStore": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "background": {
+                    "$ref": "#/definitions/TebexStoreBackground"
+                }
+            }
         }
     },
     "definitions": {
@@ -291,6 +309,18 @@
                 "Roleplay",
                 "Adventure"
             ]
+        },
+        "TebexStoreBackground": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "lowerColor": {
+                    "$ref": "#/definitions/RGBColor"
+                },
+                "upperColor": {
+                    "$ref": "#/definitions/RGBColor"
+                }
+            }
         }
     }
 }
