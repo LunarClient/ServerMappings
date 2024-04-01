@@ -1,7 +1,7 @@
 {
     "id": "redmc",
     "name": "RedMC Network",
-    "store": "http://tienda.red-mc.net/",
+    "store": "https://tienda.red-mc.net/",
     "addresses": [
       "play.red-mc.net"
     ],
