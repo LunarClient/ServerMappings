@@ -3,9 +3,7 @@
     "name": "Ryon",
     "store": "https://store.ryon.live/",
     "addresses": [
-        "ryon.live",
-        "na.ryon.live",
-        "mc.ryon.live"
+        "ryon.live"
     ],
     "primaryAddress": "ryon.live",
     "primaryColor": "#00ffff",
@@ -21,6 +19,6 @@
     ],
     "socials": {
         "twitter": "ryonlive",
-        "discord": "https://discord.ryon.live/"
+        "discord": "https://discord.com/invite/gCWzPVtN85"
     }
 }
