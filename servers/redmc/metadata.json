@@ -1,9 +1,9 @@
 {
     "id": "redmc",
     "name": "RedMC Network",
-    "store": "https://tienda.red-mc.net/",
+    "store": "https://store.summoncraft.xyz",
     "addresses": [
-      "play.red-mc.net",
+      "play.red-mc.net"
     ],
     "primaryAddress": "play.red-mc.net",
     "primaryColor": "#ff0000",
