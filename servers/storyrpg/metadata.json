@@ -1,7 +1,6 @@
 {
     "id": "storyrpg",
     "name": "StoryRPG",
-    "website": "https://vota.storyrpg.it",
     "store": "https://store.storyrpg.it/",
     "description": "Storyrpg è la lifesteal più originale in italia",
     "addresses": [
@@ -29,7 +28,6 @@
         "EU"
     ],
     "gameTypes": [
-        "lifesteal",
 	"Survival",
         "Minigames"
     ],
