@@ -3,9 +3,9 @@
     "name": "RedMC Network",
     "store": "https://tienda.red-mc.net/",
     "addresses": [
-      "play.red-mc.net"
+      "red-mc.net"
     ],
-    "primaryAddress": "play.red-mc.net",
+    "primaryAddress": "red-mc.net",
     "primaryColor": "#ff0000",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
