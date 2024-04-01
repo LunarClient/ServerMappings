@@ -4,7 +4,6 @@
     "website": "https://www.crowned.ro/",
     "store": "https://store.crowned.ro/",
     "addresses": [
-        "mc.crowned.ro",
         "crowned.ro"
     ],
     "primaryAddress": "mc.crowned.ro",
@@ -31,7 +30,7 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.crowned.ro/",
+        "discord": "https://discord.com/invite/FHbuJ8rWP2",
         "youtube": "CrownedRomania",
         "tiktok": "crowned.ro"
     }
