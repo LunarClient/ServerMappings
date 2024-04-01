@@ -1,44 +1,47 @@
 {
-    "id": "quttornetwork",
-    "name": "Quttor Network",
-    "website": "https://www.quttor.net",
-    "store": "https://store.quttor.net/",
-    "description": "Australia's Greatest Network For Free!",
+    "id": "lunarnetwork",
+    "name": "Lunar Network",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "quttor.net"
+        "lunar.gg",
+        "lunargg.dev",
+        "mcteams.com"
     ],
-    "primaryAddress": "mc.quttor.net",
-    "primaryColor": "#131b4c",
-    "secondaryColor": "#6ac3e7",
+    "primaryAddress": "lunar.gg",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.7.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
-    "crossplay": true,
-    "primaryRegion": "OC",
-    "regions": [
-        "NA",
-        "OC"
-    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "gameTypes": [
-        "Minigames",
-        "Survival",
-        "Skyblock"
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
-    "socials": {
-        "discord": "https://discord.com/invite/ZGqY9RHawp",
-        "youtube": "MCquttor",
-
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.lunar.gg",
+    "store": "https://store.lunar.gg",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
     },
-     
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "twitter": "LunarNetwork",
+        "telegram": "lunarnetwork",
+        "discord": "https://www.lunar.gg/discord"
+    },
+    "crossplay": false
 }
