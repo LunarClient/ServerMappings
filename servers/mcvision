@@ -1,0 +1,32 @@
+{
+    "id": "mcvision",
+    "name": "mcvision",
+    "website": "https://mcvision.pl/",
+    "store": "https://mcvision.pl/servers",
+    "addresses": [
+        "mcvision.pl"
+    ],
+    "primaryAddress": "mcvision.pl",
+    "primaryColor": "#4f3eb8",
+    "secondaryColor": "#150b54",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "youtube":"mcvisionpl"
+        "discord": "https://discord.com/invite/9rfrB9YGVS",
+        "tiktok": "cotam102"
+    }
+}
