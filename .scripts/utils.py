@@ -72,6 +72,17 @@ def get_all_servers(
         if not include_inactive and server["inactive"]:
             continue
 
+        # Generate image URLS
+        server["images"] = {}
+        if os.path.isfile(f"{servers_dir}/{server_id}/logo.png"):
+            server["images"]["logo"] = f"https://servermappings.lunarclientcdn.com/logos/{server_id}.png"
+        if os.path.isfile(f"{servers_dir}/{server_id}/background.png"):
+            server["images"]["background"] = f"https://servermappings.lunarclientcdn.com/backgrounds/{server_id}.png"
+        if os.path.isfile(f"{servers_dir}/{server_id}/banner.png"):
+            server["images"]["banner"] = f"https://servermappings.lunarclientcdn.com/banners/{server_id}.png"
+        if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
+            server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
+
         # Add to list
         servers.append(server)
 
