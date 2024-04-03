@@ -1,9 +1,9 @@
 {
   "id": "orientalnetwork",
   "name": "Oriental",
-  "description": "UHC, Practice, FFA",
+  "description": "Want to compete against other players or just have a good time? Join us and play UHC, FFA and many more!",
   "addresses": [
-    "na.orientalpvp.net"
+    "orientalpvp.net"
   ],
   "primaryAddress": "na.orientalpvp.net",
   "minecraftVersions": [
@@ -24,6 +24,6 @@
   "store": "https://store.orientalpvp.net",
   "socials": {
     "twitter": "orientalpvp",
-    "discord": "https://dc.orientalpvp.net"
+    "discord": "https://discord.gg/XNwsmsBb3B"
   }
 }
