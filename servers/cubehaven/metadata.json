@@ -30,8 +30,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Prison",
-        "PvP"
+        "Prison"
     ],
     "socials": {
         "discord": "https://cubehaven.net/discord"
