@@ -3,7 +3,7 @@
     "name": "CubeHaven",
     "description": "A fun, unique and competitive Minecraft Network!",
     "addresses": [
-        "mc.cubehaven.net"
+        "cubehaven.net"
     ],
     "primaryAddress": "mc.cubehaven.net",
     "primaryColor": "#F37335",
@@ -33,7 +33,7 @@
         "Prison"
     ],
     "socials": {
-        "discord": "https://cubehaven.net/discord"
+        "discord": "https://discord.com/invite/p4yREXrwbD"
     },
     "crossplay": true,
     "store": "https://store.cubehaven.net",
