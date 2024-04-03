@@ -8,12 +8,11 @@
     ],
     "primaryAddress": "cyre.lol",
     "primaryColor": "#5555FF",
-    "secondaryColor": "#55FFFF",
+    "secondaryColor": "#ffc955",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
-        "1.16.*",
-        "1.20.*"
+        "1.16.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
