@@ -1,8 +1,7 @@
 {
     "id": "cubehaven",
     "name": "CubeHaven",
-    "store": "https://store.cubehaven.net",
-    "description": "A fun, unique and competitive Minecraft Network!"
+    "description": "A fun, unique and competitive Minecraft Network!",
     "addresses": [
         "mc.cubehaven.net"
     ],
@@ -31,10 +30,14 @@
     "gameTypes": [
         "Survival",
         "SkyBlock",
-        "Prison"
+        "Prison",
+        "PvP"
     ],
     "socials": {
         "discord": "https://cubehaven.net/discord"
     },
-    "crossplay": true
+    "crossplay": true,
+    "store": "https://store.cubehaven.net",
+    "website": "https://cubehaven.net",
+    "wiki": "https://wiki.cubehaven.net"
 }
