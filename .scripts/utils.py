@@ -145,6 +145,37 @@ def is_enriched(server: dict, server_id: str, servers_dir: str) -> bool:
     return True
 
 
+def get_edited_servers():
+    """
+    This gets all the edited servers in this pull request
+
+    Returns:
+        set[str]: A set of server IDs that have been edited in this pull request.
+    """
+    pull_id = os.getenv("PR_ID")
+    edited_serverIds = set() # 4 files in a server can be edited
+
+    if not pull_id:
+        print("No pull request id found. Unable to get edited servers")
+        return edited_serverIds
+
+    res = requests.get(
+            f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
+            headers={
+                "accept": "application/vnd.github+json",
+                "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
+            }
+        )
+    
+    for file in res.json():
+        file_name: str = file['filename']
+        if not file_name.startswith("servers/"):
+            continue
+        split_path = file_name.split("/")
+        edited_serverIds.add(split_path[1])
+    return edited_serverIds
+
+
 def gif_to_sprite_sheet(path):
     """
     This function converts a gif image to a sprite sheet.

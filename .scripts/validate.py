@@ -12,7 +12,7 @@ import sys
 
 import jsonschema
 import requests
-from utils import get_all_servers, validate_background, validate_banner, validate_logo, validate_wordmark
+from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -34,28 +34,6 @@ FILE_WHITELIST = [
     "docs",
 ]
 
-def get_edited_servers():
-    pull_id = os.getenv("PR_ID")
-    edited_serverIds = set() # 4 files in a server can be edited
-
-    if not pull_id:
-        return edited_serverIds
-
-    res = requests.get(
-            f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
-            headers={
-                "accept": "application/vnd.github+json",
-                "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
-            }
-        )
-    
-    for file in res.json():
-        file_name: str = file['filename']
-        if not file_name.startswith("servers/"):
-            continue
-        split_path = file_name.split("/")
-        edited_serverIds.add(split_path[1])
-    return edited_serverIds
 
 
 
