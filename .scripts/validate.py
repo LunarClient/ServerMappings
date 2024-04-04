@@ -36,7 +36,7 @@ FILE_WHITELIST = [
 
 def test():
     pull_id = os.getenv("PR_ID")
-    res = requests.get(f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/files")
+    res = requests.get(f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files")
     print(res.json())
 
 
