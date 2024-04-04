@@ -34,6 +34,11 @@ FILE_WHITELIST = [
     "docs",
 ]
 
+def test():
+    pull_id = os.getenv("PR_ID")
+    res = requests.get(f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/files")
+    print(res.json())
+
 
 def main():
     """
@@ -47,6 +52,9 @@ def main():
     parser.add_argument("--inactive_schema", required=use_args, type=str)
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
+
+    test()
+    exit(1)
 
     # If we don't find the env variable for use args assume we're running this locally
     if not use_args:
