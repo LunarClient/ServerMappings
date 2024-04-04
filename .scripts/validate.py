@@ -34,10 +34,10 @@ FILE_WHITELIST = [
     "docs",
 ]
 
-def test():
+def get_edited_servers():
     pull_id = os.getenv("PR_ID")
     res = requests.get(f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files")
-    print(res.json())
+    
     edited_serverIds = set() # 4 files in a server can be edited
     for file in res.json():
         file_name: str = file['filename']
@@ -45,7 +45,7 @@ def test():
             continue
         split_path = file_name.split("/")
         edited_serverIds.add(split_path[1])
-    print(edited_serverIds)
+    return edited_serverIds
 
 
 
@@ -62,8 +62,6 @@ def main():
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
 
-    test()
-    exit(1)
 
     # If we don't find the env variable for use args assume we're running this locally
     if not use_args:
@@ -223,6 +221,12 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
         messages["Overall"].append(
             "Unable to open the metadata schema file. Please don't mess with this!"
         )
+
+    # Check if any servers being edited are inactive
+    for server_id in get_edited_servers():
+        if server_id in inactive_file:
+            messages[server_id] = []
+            messages[server_id].append(f"{server_id} is being edited but is in the inactive file!")
 
     # Looping over each server folder
     for root, _, _ in os.walk(args.servers_dir):
