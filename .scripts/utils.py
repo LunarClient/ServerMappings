@@ -4,6 +4,7 @@ validating images, and converting gif images to sprite sheets.
 """
 
 import json
+import requests
 import os
 
 from PIL import Image as image
