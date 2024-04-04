@@ -154,11 +154,11 @@ def get_edited_servers():
         set[str]: A set of server IDs that have been edited in this pull request.
     """
     pull_id = os.getenv("PR_ID")
-    edited_serverIds = set() # 4 files in a server can be edited
+    edited_server_ids = set() # 4 files in a server can be edited
 
     if not pull_id:
         print("No pull request id found. Unable to get edited servers")
-        return edited_serverIds
+        return edited_server_ids
 
     res = requests.get(
             f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
@@ -173,8 +173,8 @@ def get_edited_servers():
         if not file_name.startswith("servers/"):
             continue
         split_path = file_name.split("/")
-        edited_serverIds.add(split_path[1])
-    return edited_serverIds
+        edited_server_ids.add(split_path[1])
+    return edited_server_ids
 
 
 def gif_to_sprite_sheet(path):
