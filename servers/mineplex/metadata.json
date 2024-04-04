@@ -4,8 +4,7 @@
     "website": "http://mineplex.com/",
     "store": "https://www.mineplex.com/shop",
     "addresses": [
-        "mineplex.com",
-        "test.com"
+        "mineplex.com"
     ],
     "primaryAddress": "mineplex.com",
     "primaryColor": "#ee9f0b",
