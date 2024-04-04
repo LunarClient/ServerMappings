@@ -38,6 +38,15 @@ def test():
     pull_id = os.getenv("PR_ID")
     res = requests.get(f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files")
     print(res.json())
+    edited_serverIds = set() # 4 files in a server can be edited
+    for file in res.json():
+        file_name: str = file['filename']
+        if not file_name.startswith("servers/"):
+            continue
+        split_path = file_name.split("/")
+        edited_serverIds.add(split_path[1])
+    print(edited_serverIds)
+
 
 
 def main():
