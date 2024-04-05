@@ -3,12 +3,12 @@
     "id": "atlascraft",
     "name": "AtlasCraft",
     "website": "https://atlascraft.ma//",
-    "store": "https://atlascraft.ma/store",
+    "store": "https://store.atlascraft.ma",
     "addresses": [
         "beta.atlascraft.ma",
         "mc.atlascraft.ma"
     ],
-    "primaryAddress": "beta.atlascraft.ma",
+    "primaryAddress": "mc.atlascraft.ma",
     "primaryColor": "#33e9ff",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
