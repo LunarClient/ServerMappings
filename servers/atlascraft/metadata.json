@@ -6,7 +6,8 @@
     "store": "https://store.atlascraft.ma",
     "addresses": [
         "beta.atlascraft.ma",
-        "mc.atlascraft.ma"
+        "mc.atlascraft.ma",
+        "play.atlascraft.ma"
     ],
     "primaryAddress": "mc.atlascraft.ma",
     "primaryColor": "#33e9ff",
