@@ -1,13 +1,10 @@
-
 {
     "id": "atlascraft",
     "name": "AtlasCraft",
     "website": "https://atlascraft.ma//",
     "store": "https://store.atlascraft.ma",
     "addresses": [
-        "beta.atlascraft.ma",
-        "mc.atlascraft.ma",
-        "play.atlascraft.ma"
+        "atlascraft.ma"
     ],
     "primaryAddress": "mc.atlascraft.ma",
     "primaryColor": "#33e9ff",
