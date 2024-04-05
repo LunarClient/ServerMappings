@@ -1,0 +1,35 @@
+
+{
+    "id": "atlascraft",
+    "name": "AtlasCraft",
+    "website": "https://atlascraft.ma//",
+    "store": "https://atlascraft.ma/store",
+    "addresses": [
+        "beta.atlascraft.ma",
+        "mc.atlascraft.ma"
+    ],
+    "primaryAddress": "beta.atlascraft.ma",
+    "primaryColor": "#33e9ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/invite/E4v485RGM6"
+    }
+}
