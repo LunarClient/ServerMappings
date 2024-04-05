@@ -1,0 +1,31 @@
+{
+    "id": "extinctionmc",
+    "name": "ExtinctionMC",
+    "description": "A Minecraft Factions Server.",
+    "store": "https://extinctionmc.tebex.io/",
+    "addresses": [
+        "extinctionmc.com"
+    ],
+    "primaryAddress": "extinctionmc.com",
+    "primaryColor": "#006600",
+    "secondaryColor": "#00ff00",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,    
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",  
+    "languages": [
+        "es-EN"
+    ],      
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/extinction"
+    }
+}
