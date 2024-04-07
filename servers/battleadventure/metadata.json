@@ -6,7 +6,8 @@
     "store": "https://www.battle-adventure.eu/store/4/pvpfaction",
     "wiki": "https://www.battle-adventure.eu/wiki/",
     "addresses": [
-        "battle-adventure.eu"
+        "battle-adventure.eu",
+        "eliacube.eu"
     ],
     "primaryAddress": "play.battle-adventure.eu",
     "minecraftVersions": [
