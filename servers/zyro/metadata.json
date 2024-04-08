@@ -5,9 +5,7 @@
     "store": "https://store.zyro.gg/",
     "description": "Minecraft PvP Network, striving to provide a truly competitive experience.",
     "addresses": [
-        "zyro.gg",
-		"eu.zyro.gg",
-        "na.zyro.gg"
+        "zyro.gg"
     ],
     "primaryAddress": "zyro.gg",
     "primaryColor": "#AA00AA",
