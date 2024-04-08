@@ -1,7 +1,6 @@
 {
     "id": "northeim",
     "name": "Northeim",
-    "website": "https://northeim.tebex.io/",
     "store": "https://northeim.tebex.io/",
     "description": "Northeim is een Minecraft Roleplay server voor Java & Bedrock.",
     "addresses": [
@@ -32,5 +31,6 @@
         "youtube": "Dxnnislan",
         "tiktok": "northeimmc",
         "instagram": "northeimmc"
-    }
+    },
+    "crossplay": true
 }
