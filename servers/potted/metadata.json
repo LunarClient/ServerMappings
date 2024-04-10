@@ -1,0 +1,32 @@
+{
+    "id": "potted",
+    "name": "Potted",
+    "description": "A ranked server integrating Practice and HCFW",
+    "addresses": [
+        "potted.gg",
+        "pvptemple.it"
+    ],
+    "primaryAddress": "potted.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#ad0099",
+    "secondaryColor": "#fcfafc",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Hm2pzksKwj"
+    }
+}

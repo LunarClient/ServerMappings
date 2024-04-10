@@ -1,0 +1,30 @@
+{
+  "id": "silexnetwork",
+  "name": "Silex",
+  "description": "Minecraft UHC, Practice, HCF & KitMap",
+  "addresses": [
+    "silexpvp.com"
+  ],
+  "primaryAddress": "silexpvp.com",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#fdef01",
+  "secondaryColor": "#050300",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "UHC"
+  ],
+  "store": "https://store.silexpvp.com",
+  "socials": {
+    "twitter": "silexnet",
+    "discord": "https://discord.gg/silex"
+  }
+}
