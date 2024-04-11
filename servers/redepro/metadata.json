@@ -1,0 +1,14 @@
+{
+    "id": "redepro",
+    "name": "RedePro",
+    "website": "https://loja.redepro.xyz/",
+    "addresses": [
+        "jogar.redepro.xyz",
+        "redepro.xyz"
+    ],
+    "primaryColor": "#140BFC",
+    "secondaryColor": "#FBFAFA",
+    "socials": {
+        "discord": "https://dc.redepro.xyz/"
+    }
+}
