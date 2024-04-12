@@ -1,11 +1,9 @@
 {
     "id": "hexaland",
     "name": "Hexaland",
-    "website": "https://store.hexaland.xyz/",
     "store": "https://store.hexaland.xyz/",
     "addresses": [
-        "eu.hexaland.xyz",
-        "na.hexaland.xyz"
+        "hexaland.xyz"
     ],
     "primaryAddress": "hexaland.xyz",
     "primaryColor": "#e80404",
@@ -20,6 +18,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/NMH9ubASzb",
-        "youtube": "https://www.youtube.com/@hexaland",
+        "youtube": "@hexaland"
     }
 }
