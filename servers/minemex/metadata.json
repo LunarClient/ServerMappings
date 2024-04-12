@@ -1,7 +1,7 @@
 {
     "id": "minemex",
     "name": "MineMex Network",
-    "description": "The Home of PotPvP",
+    "description": "Competitive UHC Server",
     "addresses": [
         "minemex.net",
         "ghoulpvp.net"
@@ -17,7 +17,7 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
