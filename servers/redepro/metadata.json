@@ -3,7 +3,6 @@
     "name": "RedePro",
     "website": "https://loja.redepro.xyz/",
     "addresses": [
-        "jogar.redepro.xyz",
         "redepro.xyz"
     ],
     "primaryAddress": "jogar.redepro.xyz",
@@ -29,6 +28,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://dc.redepro.xyz/"
+        "discord": "https://discord.com/invite/HcK24BHYEx"
     }
 }
