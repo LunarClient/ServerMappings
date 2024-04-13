@@ -23,10 +23,9 @@
         "es-EN"
     ],
     "gameTypes": [
-        "Gens",
         "Minigames",
-        "Survival",
-        "Survival Earth"
+        "Adventure",
+        "Survival"
     ],
     "socials": {
         "twitter": "RevengeNTW",
