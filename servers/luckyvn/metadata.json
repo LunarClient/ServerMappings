@@ -4,7 +4,7 @@
     "website": "https://luckyvn.com",
     "store": "https://luckyvn.com/nap-the",
     "addresses": [
-        "luckyvn,com",
+        "luckyvn.com",
         "mc.luckyvn.com",
         "pe.luckyvn.com"
     ],
@@ -27,8 +27,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "Bedwars",
-        "SkyBlock"
+        "Minigames",
+        "PvP"
     ],
     "socials": {
         "discord": "luckyvn.com/discord",
