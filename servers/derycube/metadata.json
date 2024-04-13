@@ -1,0 +1,32 @@
+{
+    "id": "derycube",
+    "name": "Derycube",
+    "store": "https://derycube.fr/shop",
+    "addresses": [
+        "play.derycube.fr"
+    ],
+    "primaryAddress": "derycube.fr",
+    "primaryColor": "#ffc100",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.9.4",
+    "primaryRegion": "FR",
+    "regions": [
+        "FR"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ]
+}
