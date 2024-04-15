@@ -1,5 +1,5 @@
 {
-    "id": "Leash",
+    "id": "leash",
     "name": "Leash Network",
     "website": "https://leashpvp.net/",
     "store": "https://store.leashpvp.net/",
@@ -7,7 +7,7 @@
         "leashpvp.net",
     ],
     "primaryAddress": "leashpvp.net",
-    "primaryColor": "00F0FF",
+    "primaryColor": "#00F0FF",
     "secondaryColor": "#09D3C3",
     "primaryLanguage": "en",
     "languages": [
@@ -35,11 +35,10 @@
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
-        "PRACTICE",
         "PvP"
     ],
     "socials": {
-        "twitter": "Leashpvp",
+        "twitter": "https://twitter.com/Leashpvp",
         "discord": "https://discord.gg/tuBVjPtjAB"
     }
 }
