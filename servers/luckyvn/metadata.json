@@ -4,9 +4,7 @@
     "website": "https://luckyvn.com",
     "store": "https://luckyvn.com/nap-the",
     "addresses": [
-        "luckyvn.com",
-        "mc.luckyvn.com",
-        "pe.luckyvn.com"
+        "luckyvn.com"
     ],
     "primaryAddress": "mc.luckyvn.com",
     "primaryColor": "#d7f7a1",
@@ -31,7 +29,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "luckyvn.com/discord",
+        "discord": "https://discord.com/invite/luckyvn",
         "facebook": "MCLuckyVN"
     }
 }
