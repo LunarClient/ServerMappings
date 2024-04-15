@@ -1,9 +1,9 @@
 {
-    "id": "LeashPvP",
+    "id": "leashpvp",
     "name": "Leash Network",
     "description": "Competitive HCF Server",
     "addresses": [
-        "leashpvp.net",
+        "leashpvp.net"
     ],
     "primaryAddress": "leashpvp.net",
     "minecraftVersions": [
@@ -26,8 +26,8 @@
         "HCF",
         "PvP"
     ],
-    "website": "https://leashpvp.net/",
-    "store": "https://store.leashpvp.net/",
+    "website": "https://www.leashpvp.net",
+    "store": "https://store.leashpvp.net",
     "socials": {
         "twitter": "LeashPvP",
         "discord": "https://discord.gg/tuBVjPtjAB"
