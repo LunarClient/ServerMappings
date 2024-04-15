@@ -3,9 +3,7 @@
     "name": "Majin",
     "store": "https://store.majin.fr",
     "addresses": [
-        "majin.fr",
-        "beta.majin.fr",
-        "host.majin.fr"
+        "majin.fr"
     ],
     "primaryAddress": "majin.fr",
     "primaryColor": "#F65CBF",
