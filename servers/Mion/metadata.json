@@ -1,8 +1,8 @@
 {
-    "id": "Mion",
+    "id": "mion",
     "name": "Mion Network",
     "description": "Practice and more.",
-    "store": "mc.yueky.com/store",
+    "store": "https://mc.yueky.com/store",
     "addresses": [
         "yueky.com"
     ],
@@ -23,9 +23,9 @@
         "es-EN"
     ],      
     "gameTypes": [
-        "PotPVP"
+        "PVP"
     ],
     "socials": {
-        "discord": "mc.yueky.com/discord"
+        "discord": "https://mc.yueky.com/discord"
     }
 }
