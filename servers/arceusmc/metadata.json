@@ -24,10 +24,9 @@
         "EU"
     ],
     "gameTypes": [
-        "KitPVP",
-        "SkyBlock",
-        "Roleplay",
-        "LifeSteal"
+        "PvP",
+        "Skyblock",
+        "Roleplay"
     ],
     "website": "https://www.newarceusmc.it",
     "store": "https://store.newarceusmc.it",
