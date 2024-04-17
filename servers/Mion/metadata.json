@@ -1,0 +1,31 @@
+{
+    "id": "Mion",
+    "name": "Mion Network",
+    "description": "Practice and more.",
+    "store": "mc.yueky.com/store",
+    "addresses": [
+        "yueky.com"
+    ],
+    "primaryAddress": "yueky.com",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#F5F5DC",
+    "minecraftVersions": [
+        "1.7.10", "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,    
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "es-EN",  
+    "languages": [
+        "es-EN"
+    ],      
+    "gameTypes": [
+        "PotPVP"
+    ],
+    "socials": {
+        "discord": "mc.yueky.com/discord"
+    }
+}
