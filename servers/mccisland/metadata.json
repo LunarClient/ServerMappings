@@ -3,6 +3,7 @@
     "name": "MCC Island",
     "website": "https://mccisland.net/",
     "store": "https://store.mccisland.net/",
+    "merch": "https://mcc.store/",
     "description": "Play unique mini-games from Noxcrew's popular MC Championship event for FREE!",
     "addresses": [
         "mccisland.net",
@@ -36,7 +37,14 @@
     "compliance": {
         "privacyPolicy": "https://noxcrew.com/privacy-notice",
         "termsOfService": "https://noxcrew.com/terms-of-service",
-        "rules": "https://mcchampionship.com/help/rules/"
+        "rules": "https://mcchampionship.com/help/rules/",
+        "support": "https://support.mccisland.net"
     },
-    "presentationVideo": "7c1zWQoitig"
+    "presentationVideo": "7c1zWQoitig",
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#0E1525",
+            "upperColor": "#1C2844"
+        }
+    }
 }
