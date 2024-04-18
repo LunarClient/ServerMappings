@@ -1,0 +1,34 @@
+{
+    "id": "Ticocraft",
+    "name": "Ticocraft",
+    "store": "https://ticocraft.com/tienda/",
+    "addresses": [
+        "ticocraft.com"
+    ],
+    "primaryAddress": "ticocraft.com",
+    "primaryColor": "#4A00E0",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8*",
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "Facebook": "https://www.facebook.com/Ticocraft",
+        "discord": "discord.gg/TicoCraft",
+        
+    }
+}
