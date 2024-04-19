@@ -21,7 +21,7 @@
     "gameTypes": [
         "Survival"
     ],
-    "socials": [
+    "socials": {
         "discord": "https://discord.gg/loser"
-    ]
+    }
 }
