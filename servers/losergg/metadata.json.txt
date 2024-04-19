@@ -1,0 +1,22 @@
+{
+    "id": "losergg",
+    "name": "losergg",
+    "store": "https://loser.gg",
+    "addresses": [
+        "mc.loser.gg"
+    ],
+    "primaryAddress": "mc.loser.gg",
+    "primaryColor": "#d7e3ef",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
