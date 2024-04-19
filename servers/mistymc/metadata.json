@@ -1,10 +1,10 @@
 {
     "id": "mistymc",
     "name": "MistyMC Network",
-    "website": "https://atlascraft.ma//",
+    "website": "https://mistymc.xyz//",
     "store": "https://store.mistymc.xyz/",
     "addresses": [
-        "atlascraft.ma"
+        "mistymc.xyz"
     ],
     "primaryAddress": "play.mistymc.xyz",
     "primaryColor": "#33e9ff",
