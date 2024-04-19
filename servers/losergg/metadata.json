@@ -1,11 +1,13 @@
 {
     "id": "losergg",
-    "name": "losergg",
-    "store": "https://loser.gg",
+    "name": "losercraft",
+    "description" : "A public Survival SMP server for the Loser community",
+    "website": "https://loser.gg/",
+    "store": "https://store.loser.gg/",
     "addresses": [
-        "mc.loser.gg"
+        "loser.ggg"
     ],
-    "primaryAddress": "mc.loser.gg",
+    "primaryAddress": "loser.gg",
     "primaryColor": "#d7e3ef",
     "secondaryColor": "#000000",
     "minecraftVersions": [
@@ -18,5 +20,7 @@
     ],
     "gameTypes": [
         "Survival"
-    ]
-}
+    ],
+    "socials": {
+        "discord": "https://discord.gg/loser"
+    }
