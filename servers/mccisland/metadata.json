@@ -41,6 +41,11 @@
         "support": "https://support.mccisland.net"
     },
     "presentationVideo": "7c1zWQoitig",
+    "modpack": {
+        "id": "PITslCIA",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
+    },
     "tebexStore": {
         "background": {
             "lowerColor": "#0E1525",
