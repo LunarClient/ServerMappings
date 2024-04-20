@@ -1,0 +1,34 @@
+{
+    "id": "zyklonmc",
+    "name": "ZyklonMC",
+    "website": "https://zyklonmc.it/",
+    "store": "https://store.zyklonmc.it/",
+    "description": "ZyklonMC - Join now and play with your friends!",
+    "addresses": [
+        "zyklonmc.it"
+    ],
+    "primaryAddress": "play.zyklonmc.it",
+    "minecraftVersions": [
+        "1.19.2",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Adventure",
+	"Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/NG87RXDvtK"
+    }
+}
