@@ -1,13 +1,13 @@
 {
-    "id": "sourpvp",
-    "name": "SourPvP",
-    "store": "https://store.sourpvp.net/",
+    "id": "sourmc",
+    "name": "SourMC",
+    "store": "https://store.sourmc.net/",
     "addresses": [
-        "sourpvp.net"
+        "sourmc.net"
     ],
-    "primaryAddress": "play.sourpvp.net",
-    "primaryColor": "#ffcc00",
-    "secondaryColor": "#fee103",
+    "primaryAddress": "play.sourmc.net",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -31,6 +31,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/sourpvp"
+        "discord": "https://discord.gg/sourmc"
     }
 }
