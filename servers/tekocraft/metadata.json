@@ -6,6 +6,9 @@
         "tekocraft.com"
     ],
     "primaryAddress": "mc.tekocraft.com",
+    "languages": [
+        "es-EN"
+    ],
     "primaryLanguage": "es-EN",
     "primaryColor": "#6f11c2",
     "secondaryColor": "#ffffff",
@@ -29,5 +32,6 @@
     "socials": {
         "discord": "https://discord.gg/qdVmHmeAen",
         "tiktok": "tekocraftnetwork"
-    }
+    },
+    "crossplay": true
 }
