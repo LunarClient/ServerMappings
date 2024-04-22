@@ -8,7 +8,7 @@
 		"sharkcraft.pro"
     ],
     "primaryAddress": "mc.sharkcraft.us",
-    "primaryColor": "#07B1BF0",
+    "primaryColor": "#07B1BF",
     "secondaryColor": "#FCFCFC",
     "minecraftVersions": [
         "1.8.*",
@@ -19,18 +19,17 @@
 		"1.19.*",
 		"1.20.*"
     ],
+	"primaryRegion": "SA",
+	"crossplay": true,
     "primaryMinecraftVersion": "1.8.9",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
-		"Protec The Core",
-		"Survival",
-		"RandomKits",
-		"BoxPvP"
+		"Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/Gvedqu7Pvy"
