@@ -1,0 +1,37 @@
+{
+    "id": "tekocraft",
+    "name": "TekoCraft",
+    "store": "https://tienda.tekocraft.com/",
+    "addresses": [
+        "tekocraft.com"
+    ],
+    "primaryAddress": "mc.tekocraft.com",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryLanguage": "es-EN",
+    "primaryColor": "#6f11c2",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/qdVmHmeAen",
+        "tiktok": "tekocraftnetwork"
+    },
+    "crossplay": true
+}
