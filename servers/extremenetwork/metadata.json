@@ -27,8 +27,7 @@
     "gameTypes": [
         "Factions",
 	"UHC",
-        "Survival",
-        "Skyblock"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/extremenetwork"
