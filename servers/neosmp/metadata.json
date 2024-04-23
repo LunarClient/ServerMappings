@@ -1,0 +1,15 @@
+{
+    "id": "neosmp",
+    "name": "NeoSMP",
+    "description": "A SMP with various fun features.",
+    "addresses": [
+        "play.neosmp.net"
+    ],
+    "primaryAddress": "play.neosmp.net",
+    "primaryColor": "#5a97fa",
+    "secondaryColor": "#447585",
+    "primaryMinecraftVersion": "1.12.4",
+    "gameTypes": [
+        "Survival"
+    ]
+}
