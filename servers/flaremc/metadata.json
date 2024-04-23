@@ -3,9 +3,8 @@
     "name": "FlareMC",
     "store": "https://store.flaremc.org/",
     "addresses": [
-        "play.flaremc.org",
         "flaremc.org",
-        "java.vflnetwork.com"
+        "vflnetwork.com"
     ],
     "primaryAddress": "play.flaremc.org",
     "primaryColor": "#f8cd0a",
@@ -22,7 +21,6 @@
     ],
     "gameTypes": [
         "Minigames",
-        "Parkour",
         "Survival",
         "PvP"
     ],
