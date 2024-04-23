@@ -1,35 +1,37 @@
 {
     "id": "sharkcraft",
     "name": "SharkCraft",
-    "website": "https://sharkcraft-tienda.tebex.io",
     "store": "https://sharkcraft-tienda.tebex.io",
     "addresses": [
         "sharkcraft.us",
-		"sharkcraft.pro"
+	"sharkcraft.pro"
     ],
     "primaryAddress": "mc.sharkcraft.us",
     "primaryColor": "#07B1BF",
     "secondaryColor": "#FCFCFC",
     "minecraftVersions": [
         "1.8.*",
-		"1.12.*",
-		"1.16.*",
-		"1.17.*",
-		"1.18.*",
-		"1.19.*",
-		"1.20.*"
+	"1.12.*",
+	"1.16.*",
+	"1.17.*",
+	"1.18.*",
+	"1.19.*",
+	"1.20.*"
     ],
-	"primaryRegion": "SA",
-	"crossplay": true,
     "primaryMinecraftVersion": "1.8.9",
-    "primaryLanguage": "es-EN",
+    "primaryRegion": "SA",
+    "regions": [
+	"SA"
+    ],
+    "crossplay": true,
     "languages": [
         "es-EN"
     ],
+    "primaryLanguage": "es-EN",
     "gameTypes": [
         "PvP",
         "Minigames",
-		"Survival"
+	"Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/Gvedqu7Pvy"
