@@ -8,6 +8,9 @@
     "primaryAddress": "play.neosmp.net",
     "primaryColor": "#5a97fa",
     "secondaryColor": "#447585",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
     "primaryMinecraftVersion": "1.20.4",
     "gameTypes": [
         "Survival"
