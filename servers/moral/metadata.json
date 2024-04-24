@@ -1,5 +1,5 @@
 {
-    "id": "MoralNetwork",
+    "id": "moral",
     "name": "Moral Network",
     "description": "Minecraft PvP and Mini-Games server",
     "addresses": [
@@ -19,8 +19,7 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU"
+        "NA"
     ],
     "gameTypes": [
         "PvP",
