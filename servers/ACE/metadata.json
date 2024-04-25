@@ -1,0 +1,23 @@
+{
+    "id": "acepvp",
+    "name": "ACE Network",
+    "store": "https://store.acepvp.cc/",
+    "addresses": [
+        "acepvp.cc"
+    ],
+    "primaryAddress": "acepvp.cc",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "AceNetworkTK",
+        "discord": "https://discord.gg/g2cCx66j5t"
+    }
+}
