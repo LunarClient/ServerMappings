@@ -15,7 +15,7 @@
     "primaryColor": "#00AAAA",
     "secondaryColor": "#FFFFFF",
     "gameTypes": [
-        "Practice"
+        "PvP"
     ],
     "socials": {
         "discord": "https://skript.club/discord"
