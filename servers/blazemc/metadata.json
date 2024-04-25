@@ -21,7 +21,7 @@
     "primaryLanguage": "en",
     "languages": [
         "it",
-        "en"       
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -29,10 +29,10 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival"       
+        "Survival"
     ],
     "socials": {
-        "discord": "https://discord.blazemc.eu",
+        "discord": "https://discord.com/invite/XHZvs32a7k",
         "telegram": "BlazeMC_tg"
     }
 }
