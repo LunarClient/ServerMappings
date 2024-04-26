@@ -2,8 +2,8 @@
     "id": "extremenetwork",
     "name": "Extreme Network",
     "addresses": [
-        "mc.extreme-network.eu",
-        "play.exmc.club"
+        "extreme-network.eu",
+        "exmc.club"
     ],
     "primaryAddress": "mc.extreme-network.eu",
     "primaryColor": "#ff0500",
