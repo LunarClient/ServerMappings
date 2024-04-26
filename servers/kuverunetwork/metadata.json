@@ -9,7 +9,6 @@
     "primaryAddress": "kuveru.com",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
@@ -36,9 +35,7 @@
     "gameTypes": [
         "PvP",
         "Skyblock",
-        "Adventure",
-        "Factions",
-        "Open World"
+        "Factions"
     ],
     "store": "https://tienda.kuveru.com",
     "socials": {
