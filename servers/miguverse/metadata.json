@@ -1,7 +1,7 @@
 {
     "id": "miguverse",
     "name": "MiguVerse",
-    "WebAddress": "https://tienda.miguvt.com/",
+    "website": "https://tienda.miguvt.com/",
     "store": "https://tienda.miguvt.com/",
     "addresses": [
         "miguvt.com"
