@@ -6,10 +6,6 @@
     "addresses": [
         "vanillamc.me",
         "vanillamc.tech",
-        "vanillacraftsmp.us.to",
-        "vanillacraftsmp.uk.to",
-        "vanillacraftsmp.404.mn",
-        "vanillacraftsmp.minecraft.pe"
     ],
     "primaryAddress": "vanillamc.me",
     "minecraftVersions": [
@@ -26,9 +22,10 @@
     "secondaryColor": "#FFFF55",
     "gameTypes": [
         "Survival",
-        "Factions"
+        "Factions",
+        "Practice"
     ],
     "socials": {
-        "discord": "https://discord.gg/ZTfYRYtkzy"
+        "discord": "https://discord.gg/vanillamc"
     }
 }
