@@ -1,0 +1,40 @@
+{
+    "id": "miguverse",
+    "name": "MiguVerse",
+    "website": "https://tienda.miguvt.com/",
+    "store": "https://tienda.miguvt.com/",
+    "addresses": [
+        "miguvt.com"
+    ],
+    "primaryAddress": "play.miguvt.com",
+    "primaryColor": "#f4f3f5",
+    "secondaryColor": "#e71736",
+    "minecraftVersions": [
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.0",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": [
+        "https://twitter.com/MiguVerse",
+        "https://discord.gg/SefwtychhD"
+    ]
+}
