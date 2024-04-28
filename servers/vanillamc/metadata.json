@@ -23,7 +23,7 @@
     "gameTypes": [
         "Survival",
         "Factions",
-        "Practice"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/vanillamc"
