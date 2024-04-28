@@ -7,8 +7,8 @@
         "miguvt.com"
     ],
     "primaryAddress": "play.miguvt.com",
-    "primaryColor": "#f4f3f5",
-    "secondaryColor": "#e71736",
+    "primaryColor": "#bd34eb",
+    "secondaryColor": "#ab34eb",
     "minecraftVersions": [
         "1.13.*",
         "1.14.*",
