@@ -1,0 +1,41 @@
+{
+    "id": "minegold",
+    "name": "MineGold Network",
+    "description": "¿Por que no entras? - El mejor servidor.",
+    "addresses": [
+        "minegold.us",
+        "elysium.lat"
+    ],
+    "primaryAddress": "minegold.us",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#FFDF66",
+    "secondaryColor": "#FFBE41",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "PvE"
+    ],
+    "website": "https://minegold.us/",
+    "store": "https://tienda.minegold.us",
+    "socials": {
+        "discord": "https://discord.com/invite/MSWg6SXWV9",
+        "tiktok": "minegold.network",
+        "youtube": "minegoldnetwork"
+    },
+    "crossplay": true
+}
