@@ -1,7 +1,6 @@
 {
     "id": "miguverse",
     "name": "MiguVerse",
-    "website": "https://tienda.miguvt.com/",
     "store": "https://tienda.miguvt.com/",
     "addresses": [
         "miguvt.com"
@@ -27,9 +26,10 @@
         "Skyblock"
     ],
     "socials": {
-        "twitter": "https://twitter.com/MiguVerse",
-        "discord": "https://discord.miguvt.com/"
+        "twitter": "MiguVerse",
+        "discord": "https://discord.com/invite/GQrKehchqz"
     },
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
     ]
