@@ -34,5 +34,10 @@
         "discord": "https://discord.com/invite/OCTC",
         "youtube": "OvercastNetwork",
         "twitch": "OCNLive"
+    },
+    "compliance": {
+        "privacyPolicy": "https://oc.tc/docs/privacy",
+        "termsOfService": "https://oc.tc/docs/tos",
+        "rules": "https://oc.tc/rules"
     }
 }

@@ -1,28 +1,35 @@
 {
     "id": "kazer",
-    "name": "Kazer Network",
+    "name": "Kazer",
+    "store": "https://store.kazer.gg",
     "description": "Home of Competitive Minecraft Games",
     "addresses": [
-        "kazer.cc"
+        "kazer.cc",
+        "kazer.gg",
+        "hk.kazer.cc"
     ],
-    "primaryAddress": "kazer.cc",
+    "primaryAddress": "hk.kazer.cc",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
-    "gameTypes": [
-        "PvP"
+    "primaryLanguage": "zh-CN",
+    "languages": [
+        "zh-CN",
+        "en"
     ],
-    "store": "https://store.kazer.cc"
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9cPM8XKZ5D"
+    }
 }

@@ -1,0 +1,42 @@
+{
+    "id": "obsmc",
+    "name": "ObsMC Network",
+    "website": "https://obsmc.it/",
+    "store": "https://store.obsmc.it/",
+    "description": "ObsMC is best Italy Minecraft Server.",
+    "addresses": [
+        "obsmc.it",
+        "magicrealm.it"
+    ],
+    "primaryAddress": "play.obsmc.it",
+    "primaryColor": "#52065c",
+    "secondaryColor": "#fafafa",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/obsmc", 
+        "telegram": "obsmcnetwork"
+    }
+}

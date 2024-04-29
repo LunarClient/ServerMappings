@@ -3,6 +3,7 @@
     "name": "Hypixel",
     "website": "https://hypixel.net/",
     "store": "https://store.hypixel.net/",
+    "wiki": "https://wiki.hypixel.net/",
     "description": "Play the best Minecraft minigames for free!",
     "addresses": [
         "hypixel.net",
@@ -43,5 +44,18 @@
         "reddit": "hypixel",
         "tiktok": "hypixel",
         "facebook": "Hypixel"
+    },
+    "compliance": {
+        "privacyPolicy": "https://hypixel.net/privacy",
+        "termsOfService": "https://hypixel.net/terms",
+        "rules": "https://hypixel.net/rules",
+        "support": "https://support.hypixel.net"
+    },
+    "presentationVideo": "bkWHyz1MmaQ",
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#16120C",
+            "upperColor": "#282320"
+        }
     }
 }
