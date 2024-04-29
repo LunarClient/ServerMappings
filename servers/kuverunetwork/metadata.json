@@ -3,8 +3,7 @@
     "name": "Kuveru Network",
     "description": "Ven y haz amigos!",
     "addresses": [
-        "kuveru.com",
-        "mc.kuveru.com"
+        "kuveru.com"
     ],
     "primaryAddress": "kuveru.com",
     "minecraftVersions": [
@@ -41,7 +40,7 @@
     "socials": {
         "twitter": "kuverunetwork",
         "tiktok": "kuverunetwork",
-        "discord": "https://discord.kuveru.com"
+        "discord": "https://discord.com/invite/gHFPuVZg3A"
     },
     "crossplay": true
 }
