@@ -24,9 +24,9 @@
     ],
     "primaryRegion": "EU",
     "gameTypes": [
-		"Vanilla",
+		"Survival",
 		"PVP",
-	    	"SMP"
+	    	"Skyblock"
     ],
     "socials": {
         "tiktok": "@imperomc1",
