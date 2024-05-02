@@ -3,7 +3,7 @@
     "name": "Ezalys UHC",
     "description": "GraceField UHC - Earth UHC - Inazuma Eleven Battle - Fort Fort Lointain UHC",
     "addresses": [
-        "mc.ezalys.fr"
+        "ezalys.fr"
     ],
     "primaryAddress": "mc.ezalys.fr",
     "minecraftVersions": [
@@ -30,11 +30,10 @@
         "PvP",
         "UHC"
     ],
-    "website": "https://discord.ezalys.fr",
     "store": "https://boutique.ezalys.fr",
     "wiki": "https://docs.ezalys.fr",
     "socials": {
-        "discord": "https://discord.ezalys.fr"
+        "discord": "https://discord.com/invite/hQk6eHUKw3"
     },
     "crossplay": false
 }
