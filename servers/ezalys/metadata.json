@@ -1,0 +1,46 @@
+{
+    "id": "ezalys",
+    "name": "Ezalys UHC",
+    "description": "GraceField UHC - Earth UHC - Inazuma Eleven Battle - Fort Fort Lointain UHC",
+    "addresses": [
+        "mc.ezalys.fr"
+    ],
+    "primaryAddress": "mc.ezalys.fr",
+    "minecraftVersions": [
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#241d3e",
+    "secondaryColor": "#ee648e",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "website": "https://discord.ezalys.fr",
+    "store": "https://boutique.ezalys.fr",
+    "wiki": "https://docs.ezalys.fr",
+    "socials": {
+        "discord": "https://discord.ezalys.fr"
+    },
+    "crossplay": false
+}
