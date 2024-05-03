@@ -3,8 +3,12 @@
     "name": "SuperCraft",
     "website": "https://www.supercraft.com.es/",
     "store": "https://tienda.supercraft.es/",
+    "compliance": {
+        "rules": "https://www.supercraft.com.es/reglas/"
+    },
     "addresses": [
-        "supercraft.es"
+        "supercraft.es",
+        "supercraft.fun"
     ],
     "primaryAddress": "mc.supercraft.es",
     "primaryColor": "#6fda70",
@@ -29,7 +33,7 @@
         "es-EN"
     ],
     "gameTypes": [
-        "Factions",
+        "Survival",
         "Prison",
         "Skyblock"
     ],

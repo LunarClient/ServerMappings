@@ -1,0 +1,38 @@
+{
+    "id": "hylurcraft",
+    "name": "HylurCraft Network",
+    "store": "https://tienda.hylurcraft.xyz/",
+    "addresses": [
+        "hylurcraft.xyz"
+    ],
+    "primaryAddress": "hylurcraft.xyz",
+    "primaryColor": "#51FF00",
+    "secondaryColor": "#337C10",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/snN6rdx6Bv"
+    }
+}
