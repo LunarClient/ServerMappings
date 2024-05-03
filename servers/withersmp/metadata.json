@@ -31,15 +31,8 @@
     ],
     "website": "https://dsc.gg/witherlifesteal",
     "store": "https://store.withermc.org",
-    "compliance": {
-        "privacyPolicy": "",
-        "termsOfService": "",
-        "rules": ""
-    },
     "presentationVideo": "",
     "socials": {
-        "twitter": "",
-        "telegram": "",
         "discord": "https://dsc.gg/witherlifesteal"
     },
     "crossplay": true
