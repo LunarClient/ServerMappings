@@ -1,0 +1,38 @@
+{
+    "id": "trainingpvp",
+    "name": "TrainingPvP Network",
+    "description": "The best competitive 1.8 server.",
+    "store": "https://trainingpvp.tebex.io/",
+    "addresses": [
+        "sa.trainingpvp.club",
+        "trainingpvp.club",
+        "na.trainingpvp.club",
+        "au.trainingpvp.club"
+    ],
+    "primaryAddress": "trainingpvp.club",
+    "primaryColor": "#990000",
+    "secondaryColor": "#e60000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,    
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",  
+    "languages": [
+        "es-EN"
+    ],      
+    "gameTypes": [
+        "Practice",
+        "ComboFFA",
+        "FFA"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mKPZxJXE"
+    }
+}
