@@ -1,0 +1,39 @@
+{
+    "id": "withersmp",
+    "name": "Wither SMP",
+    "description": "Grind all day, pvp away.",
+    "addresses": [
+        "play.withermc.org"
+    ],
+    "primaryAddress": "play.withermc.org",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#6495ED",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://dsc.gg/witherlifesteal",
+    "store": "https://store.withermc.org",
+    "presentationVideo": "",
+    "socials": {
+        "discord": "https://dsc.gg/witherlifesteal"
+    },
+    "crossplay": true
+}
