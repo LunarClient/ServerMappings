@@ -15,7 +15,7 @@
     "secondaryColor": "#403d3d",
     "gameTypes": [
         "Prison",
-        "Private Mines"
+        "PvP"
     ],
     "store": "https://buy.evamc.us",
     "socials": {
