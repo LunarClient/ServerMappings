@@ -5,6 +5,7 @@
     "description": "A new diverse prison experience",
     "addresses": [
         "evamc.us"
+        "play.evamc.us"
     ],
     "primaryAddress": "evamc.us",
     "minecraftVersions": [
