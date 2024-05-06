@@ -1,32 +1,25 @@
 {
     "id": "evamc",
-    "name": "EvaMC",
-    "store": "https://buy.evamc.us/",
-    "description": "A new diverse prison experience",
+    "name": "EVAMC",
+    "description": "The most awesome Prison Experience!",
     "addresses": [
         "evamc.us"
-        "play.evamc.us"
     ],
-    "primaryAddress": "evamc.us",
+    "primaryAddress": "play.evamc.us",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*"
+        "1.20.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#c20025",
     "secondaryColor": "#403d3d",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
     "gameTypes": [
-        "Prison"
+        "Prison",
+        "Private Mines"
     ],
+    "store": "https://buy.evamc.us",
     "socials": {
-        "twitter": "EvaMCNetwork",
         "discord": "https://discord.gg/gq2TTMr66b"
-    }
+    },
+    "crossplay": false
 }
