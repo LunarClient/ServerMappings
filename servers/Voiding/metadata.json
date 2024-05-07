@@ -1,6 +1,6 @@
 {
-    "id": "Voiding",
-    "name": "Voiding",
+    "id": "voiding",
+    "name": "voiding",
     "description" : "A Java and Bedrock compatible server with OP Gens",
     "store": "https://store.voiding.org/",
     "addresses": [
@@ -23,7 +23,7 @@
         "NA"
     ],
     "gameTypes": [
-        "Generators"
+        "Skyblock"
     ],
     "socials": {
         "twitter": "VoidingMC",
