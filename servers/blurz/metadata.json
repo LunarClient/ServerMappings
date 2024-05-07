@@ -1,24 +1,24 @@
 {
-  "id": "arspot",
-  "name": "Arspot Network",
-  "description": "Cool PvP Server.",
+  "id": "blurz",
+  "name": "Blurz Network",
+  "description": "Competitive Network.",
   "addresses": [
-    "arspot.club"
+    "blurz.club"
   ],
-  "primaryAddress": "arspot.club",
+  "primaryAddress": "blurz.club",
   "minecraftVersions": [
     "1.8.9"
   ],
   "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#FF9999",
+  "primaryColor": "#00FFFF",
   "secondaryColor": "#FFFFFF",
   "primaryLanguage": "es-EN",
   "languages": [
     "es-EN"
   ],
-  "primaryRegion": "NA",
+  "primaryRegion": "SA",
   "regions": [
-    "SA"
+    "NA"
   ],
   "gameTypes": [
     "PvP"
