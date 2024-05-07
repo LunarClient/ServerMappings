@@ -7,9 +7,9 @@
   ],
   "primaryAddress": "ghostmc.pl",
   "minecraftVersions": [
-    "1.19"
+    "1.19.*"
   ],
-  "primaryMinecraftVersion": "1.19",
+  "primaryMinecraftVersion": "1.19.2",
   "primaryColor": "#ff6f00",
   "secondaryColor": "#ffbf00",
   "primaryLanguage": "pl",
@@ -21,7 +21,7 @@
     "EU"
   ],
   "gameTypes": [
-    "Survival"
+      "Survival"
   ],
   "website": "https://ghostmc.pl",
   "store": "https://ghostmc.pl"

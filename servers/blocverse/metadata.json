@@ -1,0 +1,30 @@
+{
+    "id": "blocverse",
+    "name": "BlocVerse",
+    "description": "Serveur minecraft Mini-Jeux dans le theme de l'univers !",
+    "addresses": [
+        "blocverse.fr"
+    ],
+    "primaryAddress": "play.blocverse.fr",
+    "minecraftVersions": [
+        "1.8.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00c3ff",
+    "secondaryColor": "#3381ff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9BNQVRjjrB"
+    }
+}

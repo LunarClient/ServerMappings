@@ -1,0 +1,29 @@
+{
+    "id": "sunblock",
+    "name": "Sunblock",
+    "store": "https://store.sunblock.gg/",
+    "addresses": [
+        "sunblock.gg"
+    ],
+    "primaryAddress": "play.sunblock.gg",
+    "primaryColor": "#ffe742",
+    "secondaryColor": "#56ddf6",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/sunblock",
+        "tiktok": "playsunblock"
+    }
+}

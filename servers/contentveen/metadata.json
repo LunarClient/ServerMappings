@@ -1,0 +1,26 @@
+{
+    "id": "contentveen",
+    "name": "Contentveen",
+    "store": "https://store.contentveen.nl/",
+    "addresses": [
+        "contentveen.nl"
+    ],
+    "primaryAddress": "play.contentveen.nl",
+    "primaryColor": "#ffda0c",
+    "secondaryColor": "#02ebe8",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/cfenZKmVXD"
+    }
+}

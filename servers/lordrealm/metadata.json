@@ -9,6 +9,10 @@
     ],
     "primaryColor": "#ffd320",
     "secondaryColor": "#fcaf24",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "LordRealmMC"
     }

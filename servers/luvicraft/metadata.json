@@ -1,0 +1,32 @@
+{
+    "id": "luvicraft",
+    "name": "LuviCraft",
+    "store": "https://store.luvicraft.net/",
+    "addresses": [
+        "luvicraft.net"
+    ],
+    "primaryAddress": "luvicraft.net",
+    "primaryColor": "#02dee6",
+    "secondaryColor": "#ffdd14",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/wqFVhqYeqN",
+        "instagram": "luvicraft_network"
+    }
+}

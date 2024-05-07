@@ -1,0 +1,30 @@
+{
+    "id": "cheekymc",
+    "name": "CheekyMC",
+    "store": "https://store.cheekymc.net/",
+    "addresses": [
+        "cheekymc.net"
+    ],
+    "primaryAddress": "play.cheekymc.net",
+    "primaryColor": "#ebbf34",
+    "secondaryColor": "#78a324",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/cheekymc"
+    }
+}

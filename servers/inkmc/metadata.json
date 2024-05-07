@@ -1,0 +1,33 @@
+{
+    "id": "inkmc",
+    "name": "InkMC",
+    "website": "https://inkmc.pl/servers",
+    "store": "https://inkmc.pl/servers",
+    "addresses": [
+        "inkmc.pl"
+    ],
+    "primaryAddress": "inkmc.pl",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryColor": "#ff3232",
+    "secondaryColor": "#650000",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/ZVpF9jks4X",
+        "tiktok": "inkmcpl"
+
+    }
+}

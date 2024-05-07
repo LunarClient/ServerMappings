@@ -1,0 +1,34 @@
+{
+    "id": "gamestarted",
+    "name": "GameStarted",
+    "store": "https://gamestarted.tebex.io/",
+    "addresses": [
+        "game-started.it"
+    ],
+    "primaryAddress": "mc.game-started.it",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#297b91",
+    "secondaryColor": "#066078",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gamestarted",
+        "telegram": "gamestartedinfo"
+    }
+}

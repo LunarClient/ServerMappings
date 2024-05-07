@@ -1,0 +1,28 @@
+{
+    "id": "mooneu",
+    "name": "MoonEU",
+    "website": "https://mooneu.pl/",
+    "store": "https://vishop.pl/shop/3850",
+    "addresses": [
+        "mooneu.pl"
+    ],
+    "primaryAddress": "mooneu.pl",
+    "primaryColor": "#001fff",
+    "secondaryColor": "#a3e362",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/VesrDfEDtm"
+    }
+}

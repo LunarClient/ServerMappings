@@ -1,0 +1,30 @@
+{
+    "id": "wildwoodsmp",
+    "name": "WildWood SMP",
+    "store": "https://store.wildwoodsmp.com/",
+    "addresses": [
+        "wildwoodsmp.com"
+    ],
+    "primaryAddress": "wildwoodsmp.com",
+    "primaryColor": "#97ce46",
+    "secondaryColor": "#bdcbd4",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/wildwoodsmp"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "stealfun",
+    "name": "StealFun",
+    "website": "https://stealfun.net/",
+    "store": "https://store.stealfun.net/",
+    "addresses": [
+        "play.stealfun.net"
+    ],
+    "primaryAddress": "play.stealfun.net",
+    "primaryColor": "#e25230",
+    "secondaryColor": "#f9d242",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "PlayStealFun",
+        "discord": "https://discord.com/invite/stealfun"
+    }
+}

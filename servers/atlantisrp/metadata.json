@@ -1,0 +1,38 @@
+{
+    "id": "atlantisrp",
+    "name": "AtlantisRP",
+    "website": "https://www.atlantisrp.it",
+    "store": "https://store.atlantisrp.it",
+    "description": "The most immersive Minecraft Roleplay server in Italy",
+    "addresses": [
+        "atlantisrp.it"
+    ],
+    "primaryAddress": "play.atlantisrp.it",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+	"1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#fec600",
+    "secondaryColor": "#195d74",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "telegram": "AtlantisRP",
+        "discord": "https://discord.com/invite/Qc7yHhCfpX",
+        "instagram": "atlantis_roleplay_official",
+        "tiktok": "atlantisrp_official"
+    },
+    "crossplay": false
+}

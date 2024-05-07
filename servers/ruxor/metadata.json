@@ -1,0 +1,35 @@
+{
+  "id": "ruxor",
+  "name": "Ruxor",
+  "description": "A server where you can play with your friends, or make new friends.",
+  "addresses": [
+    "ruxor.net"
+  ],
+  "primaryAddress": "ruxor.net",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.19.2",
+  "primaryColor": "#CC0000",
+  "secondaryColor": "#000000",
+  "primaryLanguage": "de",
+  "languages": [
+    "de"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "website": "https://www.ruxor.net",
+  "store": "https://store.ruxor.net"
+}
