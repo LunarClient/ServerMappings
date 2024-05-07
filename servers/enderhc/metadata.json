@@ -1,9 +1,9 @@
 {
-	"id": "enderhc",
-	"name": "EnderHC",
+    "id": "enderhc",
+    "name": "EnderHC",
 	"description": "Serwer w Polsce skupiający się na trybach PVP.",
 	"addresses": [
-		"enderhc.pl",
+        "enderhc.pl",
 		"mc.enderhc.pl"
 	],
 	"primaryAddress": "enderhc.pl",
@@ -27,13 +27,13 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
+        "Survival"
     ],
     "website": "https://enderhc.pl/",
     "store": "https://enderhc.pl/",
     "socials": {
         "discord": "https://discord.gg/enderhc/",
-        "tiktok": "enderhc_pl",
+        "tiktok": "enderhc_pl"
     },
     "crossplay": true
 }
