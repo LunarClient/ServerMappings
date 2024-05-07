@@ -1,8 +1,7 @@
 {
-    "id": "voiding",
+    "id": "Voiding",
     "name": "Voiding",
     "description" : "A Java and Bedrock compatible server with OP Gens",
-    "website": "https://store.voiding.org/",
     "store": "https://store.voiding.org/",
     "addresses": [
         "voiding.org"
