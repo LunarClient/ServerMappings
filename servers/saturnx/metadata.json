@@ -1,0 +1,28 @@
+{
+    "id": "saturnx",
+    "name": "Saturn-X - Space Server",
+    "website": "https://saturn-x.space/",
+    "addresses": [
+        "saturn-x.space"
+    ],
+    "primaryAddress": "play.saturn-x.space",
+    "primaryColor": "#ff7d0d",
+    "secondaryColor": "#0b1b1f",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/gWn8h4gr2B"
+    }
+}

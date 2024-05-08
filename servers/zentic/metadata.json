@@ -1,0 +1,40 @@
+{
+    "id": "zentic",
+    "name": "Zentic Network",
+    "description": "An action-packed PVP experience, featuring practice, SkyWars, and KitPVP.",
+    "addresses": [
+        "zentic.cc",
+        "zentic.org",
+        "cobaltcraft.net"
+    ],
+    "primaryAddress": "zentic.cc",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff00ff",
+    "secondaryColor": "#00ffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.zentic.cc/",
+    "store": "https://store.zentic.cc/",
+    "socials": {
+        "twitter": "ZenticCC",
+        "youtube": "ZenticNetwork",
+        "discord": "https://www.discord.zentic.cc/"
+    }
+}

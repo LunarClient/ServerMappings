@@ -1,0 +1,31 @@
+{
+    "id": "synasia",
+    "name": "Synasia",
+    "website": "https://synasia.fr/",
+    "store": "https://boutique.synasia.fr/",
+    "addresses": [
+        "synasia.fr"
+    ],
+    "primaryAddress": "play.synasia.fr",
+    "primaryColor": "#e7c061",
+    "secondaryColor": "#759e6c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "synasiafr",
+        "discord": "https://discord.com/invite/synasia",
+        "youtube": "SnokSiirPvPAndMore"
+    }
+}

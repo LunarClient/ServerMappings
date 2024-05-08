@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#fca800",
     "secondaryColor": "#732700",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "InTroubleDE",
         "discord": "https://discord.com/invite/introuble",

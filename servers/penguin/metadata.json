@@ -1,0 +1,33 @@
+{
+    "id": "penguin",
+    "name": "Penguin",
+    "store": "https://store.penguin.gg/",
+    "addresses": [
+        "play.penguin.gg",
+        "penguin.gg"
+    ],
+    "primaryAddress": "play.penguin.gg",
+    "primaryColor": "#ffab02",
+    "secondaryColor": "#1f1f1f",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/PMhBuPbRav"
+    }
+}

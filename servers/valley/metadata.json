@@ -4,6 +4,9 @@
     "addresses": [
         "valleypvp.us"
     ],
+    "gameTypes": [
+        "Factions"
+    ],
     "primaryColor": "#fa69b8",
     "secondaryColor": "#00ca01"
 }

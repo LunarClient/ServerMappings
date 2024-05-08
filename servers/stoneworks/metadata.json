@@ -1,0 +1,30 @@
+{
+    "id": "stoneworks",
+    "name": "Stoneworks",
+    "website": "https://stoneworks.gg/forums/",
+    "store": "https://stoneworks-mc.tebex.io/",
+    "addresses": [
+        "play.stoneworks.gg"
+    ],
+    "primaryAddress": "play.stoneworks.gg",
+    "primaryColor": "#f7f7f7",
+    "secondaryColor": "#656068",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "stoneworksmc",
+        "discord": "https://discord.com/invite/stoneworks",
+        "youtube": "Stoneworks"
+    }
+}

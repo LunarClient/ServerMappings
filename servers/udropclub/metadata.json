@@ -8,6 +8,10 @@
     ],
     "primaryColor": "#ffa314",
     "secondaryColor": "#dededd",
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
     "socials": {
         "twitter": "udropnetwork",
         "discord": "https://discord.com/invite/Cg2nhUVS7C"

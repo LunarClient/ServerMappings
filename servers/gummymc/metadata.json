@@ -6,13 +6,13 @@
     ],
     "primaryAddress": "play.gummymc.net",
     "minecraftVersions": [
-        "1.8",
-        "1.12",
-        "1.16",
-        "1.17",
-        "1.18"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#b00078",
     "secondaryColor": "#ffffff",
     "primaryLanguage": "it",

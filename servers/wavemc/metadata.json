@@ -1,0 +1,32 @@
+{
+    "id": "wavemc",
+    "name": "WaveMC",
+    "description": "O melhor servidor de Practice BR",
+    "addresses": [
+        "wavemc.com.br"
+    ],
+    "primaryAddress": "jogar.wavemc.com.br",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2a87c2",
+    "secondaryColor": "#ffc70f",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://loja.wavemc.com.br/store",
+    "socials": {
+        "discord": "https://discord.com/invite/vQ7UTJFgSu"
+    },
+    "crossplay": false
+}

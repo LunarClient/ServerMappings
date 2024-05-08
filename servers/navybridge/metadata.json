@@ -1,0 +1,25 @@
+{
+    "id": "navybridge",
+    "name": "NavyBridge",
+    "description": "Practice your bridging, meet active staff, duel other players, and more!",
+    "addresses": [
+        "navy.mcpro.io"
+    ],
+    "primaryAddress": "navy.mcpro.io",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFB000",
+    "secondaryColor": "#2d576c",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "youtube": "youtube.com/@iiNavy"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "blazemc",
+    "name": "BlazeMC",
+    "addresses": [
+        "blazemc.eu"
+    ],
+    "primaryAddress": "play.blazemc.eu",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XHZvs32a7k",
+        "telegram": "BlazeMC_tg"
+    }
+}

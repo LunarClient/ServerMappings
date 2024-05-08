@@ -1,0 +1,32 @@
+{
+    "id": "velnoxclub",
+    "name": "Velnox Network",
+    "store": "https://store.velnox.club/",
+    "addresses": [
+        "velnox.club"
+    ],
+    "primaryAddress": "velnox.club",
+    "primaryColor": "#610B0B",
+    "secondaryColor": "#8A0808",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/BGtxZVpyR9",
+        "facebook": "velnoxclub"
+    }
+}

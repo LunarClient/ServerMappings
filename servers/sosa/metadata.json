@@ -1,0 +1,34 @@
+{
+    "id": "sosa",
+    "name": "Sosa",
+    "description": "Competitive Practice and Kitmap",
+    "addresses": [
+        "sosamc.net"
+    ],
+    "primaryAddress": "sosamc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#47cfcf",
+    "secondaryColor": "#0da39b",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.sosamc.net",
+    "store": "https://store.sosamc.net",
+    "socials": {
+        "twitter": "SosaNetwork",
+        "discord": "https://discord.gg/sosamc"
+    }
+}

@@ -4,7 +4,13 @@
     "required": [
         "id",
         "name",
-        "addresses"
+        "addresses",
+        "primaryAddress",
+        "minecraftVersions",
+        "primaryMinecraftVersion",
+        "gameTypes",
+        "primaryColor",
+        "secondaryColor"
     ],
     "properties": {
         "id": {
@@ -37,7 +43,7 @@
             }
         },
         "primaryMinecraftVersion": {
-            "$ref": "#/definitions/MinecraftVersion"
+            "$ref": "#/definitions/MinecraftSubversion"
         },
         "primaryColor": {
             "$ref": "#/definitions/RGBColor"
@@ -76,11 +82,74 @@
         "website": {
             "$ref": "#/definitions/WebAddress"
         },
+        "wiki": {
+            "$ref": "#/definitions/WebAddress"
+        },
         "store": {
             "$ref": "#/definitions/WebAddress"
         },
+        "merch": {
+            "$ref": "#/definitions/WebAddress"
+        },
+        "compliance": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "privacyPolicy": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "termsOfService": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "rules": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "support": {
+                    "$ref": "#/definitions/WebAddress"
+                }
+            }
+        },
+        "presentationVideo": {
+            "type": "string"
+        },
+        "modpack": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "description": "The Modrinth Modpack ID."
+                },
+                "recommendedVersion": {
+                    "type": "string",
+                    "description": "The recommended Modrinth Modpack version. If blank, will use latest version."
+                },
+                "recommendedReleaseChannel": {
+                    "type": "string",
+                    "description": "If blank, will use 'Release' release channel."
+                },
+                "recommendedLoader": {
+                    "type": "string",
+                    "description": "If blank, will use 'Fabric' loader or the next available loader if Fabric is not available."
+                },
+                "promptBeforeGameJoin": {
+                    "type": "boolean",
+                    "default": true,
+                    "description": "If true, the user will be prompted to install the recommended mods/modpack before joining the server in-game."
+                },
+                "promptBeforeLauncherJoin": {
+                    "type": "boolean",
+                    "default": true,
+                    "description": "If true, the user will be prompted to install the recommended mods/modpack before joining the server from the Launcher."
+                }
+            },
+            "required": [
+                "id"
+            ]
+        },
         "socials": {
             "type": "object",
+            "additionalProperties": false,
             "properties": {
                 "twitter": {
                     "type": "string"
@@ -110,6 +179,18 @@
                     "type": "string"
                 }
             }
+        },
+        "crossplay": {
+            "type": "boolean"
+        },
+        "tebexStore": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "background": {
+                    "$ref": "#/definitions/TebexStoreBackground"
+                }
+            }
         }
     },
     "definitions": {
@@ -124,13 +205,52 @@
         "MinecraftVersion": {
             "type": "string",
             "enum": [
-                "1.7",
-                "1.8",
-                "1.12",
-                "1.16",
-                "1.17",
-                "1.18",
-                "1.19"
+                "1.7.*",
+                "1.8.*",
+                "1.12.*",
+                "1.16.*",
+                "1.17.*",
+                "1.18.*",
+                "1.19.*",
+                "1.20.*",
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3",
+                "1.19.4",
+                "1.20",
+                "1.20.1",
+                "1.20.2",
+                "1.20.3",
+                "1.20.4",
+                "1.20.5"
+            ]
+        },
+        "MinecraftSubversion": {
+            "type": "string",
+            "enum": [
+                "1.7.10",
+                "1.8.9",
+                "1.12.2",
+                "1.16.5",
+                "1.17.1",
+                "1.18.1",
+                "1.18.2",
+                "1.19",
+                "1.19.2",
+                "1.19.3",
+                "1.19.4",
+                "1.20",
+                "1.20.1",
+                "1.20.2",
+                "1.20.3",
+                "1.20.4"
             ]
         },
         "Region": {
@@ -190,6 +310,18 @@
                 "Roleplay",
                 "Adventure"
             ]
+        },
+        "TebexStoreBackground": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "lowerColor": {
+                    "$ref": "#/definitions/RGBColor"
+                },
+                "upperColor": {
+                    "$ref": "#/definitions/RGBColor"
+                }
+            }
         }
     }
 }

@@ -9,15 +9,15 @@
     ],
     "primaryAddress": "floramc.club",
     "minecraftVersions": [
-        "1.19",
-        "1.18",
-        "1.17",
-        "1.16",
-        "1.12",
-        "1.8",
-        "1.7"
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*",
+        "1.8.*",
+        "1.7.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#00FF00",
     "secondaryColor": "#00FFFF",
     "primaryLanguage": "en",
@@ -26,7 +26,7 @@
     ],
     "primaryRegion": "AS",
     "regions": [
-        "AS"     
+        "AS"
     ],
     "gameTypes": [
         "PvP",

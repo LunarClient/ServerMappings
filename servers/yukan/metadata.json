@@ -1,0 +1,34 @@
+{
+    "id": "yukan",
+    "name": "Yukan",
+    "website": "https://yukanmc.fr/",
+    "store": "https://boutique.yukanmc.fr/",
+    "addresses": [
+        "yukanmc.fr"
+    ],
+    "primaryAddress": "play.yukanmc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#73849a",
+    "secondaryColor": "#51f06f",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "YukanMc",
+        "discord": "https://discord.com/invite/yukanmc",
+        "tiktok": "yukanmc",
+        "youtube": "yukan9747"
+    }
+}

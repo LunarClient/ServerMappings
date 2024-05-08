@@ -1,0 +1,42 @@
+{
+	"id": "bloodsymphony",
+	"name": "BloodSymphony",
+	"website": "https://bloodsymphony.com",
+	"addresses": [
+		"bloodsymphony.fr",
+		"bloodsymphony.com",
+		"sunaria.fr",
+		"funcloud.fr",
+		"smilecraft.fr",
+		"bloodsymphony.eu"
+	],
+	"primaryAddress": "play.bloodsymphony.com",
+	"primaryColor": "#e55657",
+	"secondaryColor": "#fff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+	"primaryRegion": "EU",
+	"regions": [
+        	"EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+	"gameTypes": [
+		"PvP",
+		"Skyblock",
+		"Factions"
+	],
+	"socials": {
+		"discord": "https://discord.com/invite/a2F5Rjz"
+	}
+}
