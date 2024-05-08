@@ -1,12 +1,11 @@
 {
     "id": "enderhc",
     "name": "EnderHC",
-	"description": "Serwer w Polsce skupiający się na trybach PVP.",
-	"addresses": [
-        "enderhc.pl",
-		"mc.enderhc.pl"
-	],
-	"primaryAddress": "enderhc.pl",
+    "description": "Serwer w Polsce skupiający się na trybach PVP.",
+    "addresses": [
+        "enderhc.pl"
+    ],
+    "primaryAddress": "enderhc.pl",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -30,7 +29,6 @@
         "Survival"
     ],
     "website": "https://enderhc.pl/",
-    "store": "https://enderhc.pl/",
     "socials": {
         "discord": "https://discord.gg/enderhc/",
         "tiktok": "enderhc_pl"
