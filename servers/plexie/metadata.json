@@ -1,15 +1,13 @@
 {
   "id": "plexie",
   "name": "Plexie Studios",
-  "website": "",
-  "store": "",
   "addresses": [
     "tojointheserverjustputthisipintoyourlittleaddressbox.lol",
     "clans.tojointheserverjustputthisipintoyourlittleaddressbox.lol"
   ],
   "primaryAddress": "tojointheserverjustputthisipintoyourlittleaddressbox.lol",
   "minecraftVersions": [
-    "1.8*"
+    "1.8.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#D4A017",
