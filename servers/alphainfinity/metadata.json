@@ -10,9 +10,9 @@
     "primaryColor": "#13527b",
     "secondaryColor": "#291f37",
     "minecraftVersions": [
-		"1.17.*",
-		"1.18.*",
-        "1.19.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "crossplay": false,
