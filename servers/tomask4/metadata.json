@@ -7,8 +7,8 @@
         "tomask4.nl"
     ],
     "primaryAddress": "play.tomask4.nl",
-    "primaryColor": "#ecb94f",
-    "secondaryColor": "#372826",
+    "primaryColor": "#FF8A00",
+    "secondaryColor": "#1BD200",
     "minecraftVersions": [
         "1.20.4"
     ],
