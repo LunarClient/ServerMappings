@@ -4,13 +4,13 @@
     "website": "https://alpha-infinity.fr/",
     "description": "Alpha Infinity, serveur depuis 2013, vise grade Alpha parmi 12 avec quêtes, mondes uniques et support Discord.",
     "addresses": [
-        "alpha-infinity.fr",
+        "alpha-infinity.fr"
     ],
     "primaryAddress": "mc.alpha-infinity.fr",
     "primaryColor": "#13527b",
     "secondaryColor": "#291f37",
     "minecraftVersions": [
-		"1.9.*",
+        "1.9.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
@@ -30,11 +30,11 @@
     ],
     "gameTypes": [
         "PvP",
-		"Minigames",
-		"Parkour",
-		"Survival",
-		"Skyblock",
-		"Creative"
+        "Minigames",
+        "Parkour",
+        "Survival",
+        "Skyblock",
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.com/invite/v7RYMbt"
