@@ -14,9 +14,9 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "crossplay": true,
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "primaryLanguage": "nl",
     "languages": [
