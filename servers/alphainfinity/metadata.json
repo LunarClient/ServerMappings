@@ -2,7 +2,7 @@
     "id": "alphainfinity",
     "name": "Alpha Infinity",
     "website": "https://alpha-infinity.fr/",
-    "description": "Alpha Infinity, serveur depuis 2013, vise grade Alpha parmi 12 avec quêtes, mondes uniques et support Discord.",
+    "description": "Alpha Infinity, vise le grade Alpha, avec quêtes, mondes unique.",
     "addresses": [
         "alpha-infinity.fr"
     ],
@@ -25,7 +25,6 @@
         "fr"
     ],
     "gameTypes": [
-        "Minigames",
         "Parkour",
         "Survival",
         "Creative"
