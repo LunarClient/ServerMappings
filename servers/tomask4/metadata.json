@@ -1,1 +1,33 @@
-test
+{
+    "id": "tomask4",
+    "name": "Tomask4 server",
+    "website": "https://www.tomask4.nl/",
+    "description": "Speel Minecraft games op Tomask4 server!",
+    "addresses": [
+        "tomask4.nl"
+    ],
+    "primaryAddress": "play.tomask4.nl",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Parcour"
+    ],
+    "socials": {
+        "discord": "https://www.tomask4.nl/discord/",
+        "youtube": "Tomask4"
+    },
+}
