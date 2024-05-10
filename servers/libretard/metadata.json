@@ -27,6 +27,10 @@
         "PvP",
         "Survival"
     ],
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
     "primaryColor": "##AF2C2C",
     "secondaryColor": "##828383",
     "socials": {
