@@ -1,0 +1,31 @@
+{
+    "id": "minewold",
+    "name": "MineWold Network",
+    "store": "https://tienda.minewold.us/",
+    "addresses": [
+        "minewold.us"
+        "woldcraft.xyz"
+    ],
+    "primaryAddress": "minewold.us",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#6CF70C",
+    "secondaryColor": "#0CF7F0",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "minewoldnet",
+        "discord": "https://discord.gg/minewold",
+        "tiktok": "minewoldnet"
+    }
+}
