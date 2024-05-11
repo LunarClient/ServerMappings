@@ -1,0 +1,34 @@
+{
+    "id": "rajcepro",
+    "name": "Rajče.pro",
+    "addresses": [
+        "rajce.pro",
+        "trospik.pro",
+        "okurka.pro"
+    ],
+    "description": "Enjoy the unconventional game modes Survival, OneBlock and Anarchy.",
+    "primaryAddress": "mc.rajce.pro",
+    "primaryColor": "#F2142B",
+    "secondaryColor": "#e44e4e",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "website": "https://rajce.pro/",
+    "store": "https://store.rajce.pro/",
+    "socials": {
+        "discord": "https://discord.gg/rajce-pro-discord-957377424981626911",
+        "youtube": "rajcepro",
+        "tiktok": "rajce.pro",
+        "instagram": "rajce.pro"
+    }
+}

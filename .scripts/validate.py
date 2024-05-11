@@ -12,7 +12,7 @@ import sys
 
 import jsonschema
 import requests
-from utils import get_all_servers, validate_background, validate_banner, validate_logo, validate_wordmark
+from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -35,6 +35,8 @@ FILE_WHITELIST = [
 ]
 
 
+
+
 def main():
     """
     Main function to parse arguments and validate servers.
@@ -47,6 +49,7 @@ def main():
     parser.add_argument("--inactive_schema", required=use_args, type=str)
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
+
 
     # If we don't find the env variable for use args assume we're running this locally
     if not use_args:
@@ -206,6 +209,12 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
         messages["Overall"].append(
             "Unable to open the metadata schema file. Please don't mess with this!"
         )
+
+    # Check if any servers being edited are inactive
+    for server_id in get_edited_servers():
+        if server_id in inactive_file:
+            messages[server_id] = []
+            messages[server_id].append(f"{server_id} is being edited but is in the inactive file!")
 
     # Looping over each server folder
     for root, _, _ in os.walk(args.servers_dir):

@@ -70,7 +70,8 @@ def main():
                     "compliance",
                     "presentationVideo",
                     "modpack",
-                    "tebexStore"
+                    "tebexStore",
+                    "images"
                 ],
             )
             writer.writeheader()
