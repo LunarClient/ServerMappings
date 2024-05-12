@@ -36,10 +36,7 @@
         "termsOfService": "https://www.time-quest.net/terms",
         "rules": "https://www.time-quest.net/rules"
     },
-    "presentationVideo": "",
     "socials": {
-        "twitter": "TimeQuestNetwork",
-        "telegram": "timequestnetwork",
         "discord": "https://www.time-quest.net/discord"
     },
     "crossplay": false
