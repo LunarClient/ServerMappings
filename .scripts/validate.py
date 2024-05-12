@@ -413,7 +413,7 @@ def validate_root(directory: str = "."):
             post_comment(
                 {
                     "Overall": [
-                        f"The file '{file}' is not a directory in the /servers/ folder. Please make sure you're following the [docs](https://lunarclient.dev/server-mappings/adding-servers/overview)."
+                        f"The file '{file}' is not a directory in the /servers/ folder. Please make sure you're following the [relevant documentation](https://lunarclient.dev/server-mappings/adding-servers/overview)."
                     ]
                 }
             )
