@@ -5,8 +5,7 @@
     "store": "https://store.heryon.net/",
     "description": "Heryon Network is an international Minecraft Network",
     "addresses": [
-        "heryon.net",
-	"play.heryon.net"
+        "heryon.net"
     ],
     "primaryAddress": "play.heryon.net",
     "minecraftVersions": [
@@ -29,7 +28,7 @@
     "primaryRegion": "EU",
     "regions": [
         "EU",
-		"AS"
+	"AS"
     ],
     "gameTypes": [
         "PvP",
