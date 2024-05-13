@@ -5,7 +5,8 @@
     "store": "https://store.heryon.net/",
     "description": "Heryon Network is an international Minecraft Network",
     "addresses": [
-        "heryon.net"
+        "heryon.net",
+	"play.heryon.net"
     ],
     "primaryAddress": "play.heryon.net",
     "minecraftVersions": [
