@@ -1,5 +1,5 @@
 {
-    "id": "SchoolDays",
+    "id": "schooldays",
     "name": "SchoolDays",
     "website": "https://voice.schooldays.club/",
     "store": "https://tienda.schooldays.club/",
@@ -15,7 +15,7 @@
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#fb8ee5",
     "secondaryColor": "#7cd9fd",
-    "primaryLanguage": "ES",
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
     ],
