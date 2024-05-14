@@ -5,11 +5,11 @@
     "addresses": [
         "noskillworld.fr"
     ],
-    "primaryAddress": "noskillworld.fr",
+    "primaryAddress": "play.noskillworld.fr",
     "minecraftVersions": [
-        "1.20.1"
+        "1.20.4"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#2C70BA",
     "secondaryColor": "#1a1a1a",
     "primaryLanguage": "fr",
@@ -26,6 +26,7 @@
     ],
     "website": "https://play.noskillworld.fr",
     "store": "https://shop.noskillworld.fr",
+    "wiki": "https://play.noskillworld.fr/wiki",
     "socials": {
         "twitter": "noskillworld",
         "instagram": "noskillworld",

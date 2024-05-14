@@ -1,0 +1,36 @@
+{
+    "id": "alphainfinity",
+    "name": "Alpha Infinity",
+    "website": "https://alpha-infinity.fr/",
+    "description": "Alpha Infinity, vise le grade Alpha, avec quêtes, mondes unique.",
+    "addresses": [
+        "alpha-infinity.fr"
+    ],
+    "primaryAddress": "mc.alpha-infinity.fr",
+    "primaryColor": "#13527b",
+    "secondaryColor": "#291f37",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "Survival",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/v7RYMbt"
+    },
+    "presentationVideo": "lefZCHsjomg"
+}

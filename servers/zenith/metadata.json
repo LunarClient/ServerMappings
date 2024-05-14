@@ -1,0 +1,42 @@
+{
+    "id": "zenith",
+    "name": "Zenith",
+    "description": "Survival Multiplayer server with custom enchants, terrain and more!",
+    "website": "https://www.zenithsmp.com/",
+    "store": "https://store.zenithsmp.com/",
+    "addresses": [
+        "zenithsmp.com"
+    ],
+    "primaryAddress": "mc.zenithsmp.com",
+    "primaryColor": "#4FD3FF",
+    "secondaryColor": "#FF8A2A",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "AF",
+        "AS",
+        "OC",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "zenithsmp",
+        "discord": "https://discord.com/invite/edvQWPp",
+        "youtube": "zenithsmp",
+        "tiktok": "playzenithsmp"
+    },
+    "crossplay": true
+}
