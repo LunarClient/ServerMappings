@@ -9,10 +9,12 @@
     "primaryColor": "#ff0080",
     "secondaryColor": "#80BFFF",
     "minecraftVersions": [
-        "1.19*",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.2",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -23,7 +25,7 @@
         "es-EN"
     ],
     "gameTypes": [
-        "RolPlay"
+        "Roleplay"
     ],
     "socials": {
         "instagram": "https://www.instagram.com/schooldaysrp/",
