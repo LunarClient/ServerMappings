@@ -1,0 +1,49 @@
+{
+    "id": "trainyland",
+    "name": "TrainyLand",
+    "description": "One of the funniest Minigames Server",
+    "addresses": [
+        "*.trainyland.fr",
+        "trainyland.fr"
+    ],
+    "primaryAddress": "play.trainyland.fr",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FF2525",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en",
+        "es",
+        "ru",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Parkour",
+        "Training"
+    ],
+    "website": "https://trainyland.fr",
+    "store": "https://trainyland.fr/shop",
+    "socials": {
+        "twitter": "TrainyLand",
+        "youtube": "TrainyLand",
+        "instagram": "TrainyLand",
+        "tiktok": "TrainyLand",
+        "discord": "https://dsc.gg/trainyland"
+    }
+}
