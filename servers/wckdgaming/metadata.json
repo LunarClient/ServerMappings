@@ -31,8 +31,7 @@
     "gameTypes": [
         "PvP",
         "PvE",
-        "Skyblock",
-        "Survival"
+        "Skyblock"
     ],
     "website": "https://www.wckd-gaming.com",
     "store": "https://store.wckd-gaming.com",
