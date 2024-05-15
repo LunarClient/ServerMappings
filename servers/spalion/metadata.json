@@ -5,11 +5,7 @@
     "website": "https://spalion.net/",
     "addresses": [
         "spalion.net",
-        "mc.spalion.net",
-        "play.spalion.net",
-        "spalion.fr",
-        "mc.spalion.fr",
-        "play.spalion.fr",
+        "spalion.fr"
     ],
     "primaryAddress": "mc.spalion.net",
     "minecraftVersions": [
