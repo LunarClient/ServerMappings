@@ -3,10 +3,9 @@
     "name": "TrainyLand",
     "description": "One of the funniest Minigames Server",
     "addresses": [
-        "play.trainyland.fr",
         "trainyland.fr"
     ],
-    "primaryAddress": "play.trainyland.fr",
+    "primaryAddress": "trainyland.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -41,6 +40,6 @@
         "youtube": "TrainyLand",
         "instagram": "TrainyLand",
         "tiktok": "TrainyLand",
-        "discord": "https://dsc.gg/trainyland"
+        "discord": "https://discord.gg/DSgrmzbAQw"
     }
 }
