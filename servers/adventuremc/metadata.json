@@ -1,0 +1,41 @@
+{
+    "id": "adventuremc",
+    "name": "AdventureMC",
+    "website": "https://www.adventuremc.it/",
+    "store": "https://store.adventuremc.it/",
+    "description": "AdventureMC have a favolous Survival to play with friends!",
+    "addresses": [
+        "adventuremc.it"
+    ],
+    "primaryAddress": "play.adventuremc.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#55ffff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+ 	"Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/DNmNkRTYFf",
+        "instagram": "adventuremc.it"
+    }
+}

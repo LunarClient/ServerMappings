@@ -12,7 +12,7 @@ import sys
 
 import jsonschema
 import requests
-from utils import get_all_servers, validate_background, validate_banner, validate_logo
+from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -35,6 +35,8 @@ FILE_WHITELIST = [
 ]
 
 
+
+
 def main():
     """
     Main function to parse arguments and validate servers.
@@ -45,9 +47,9 @@ def main():
     parser.add_argument("--metadata_schema", required=use_args, type=str)
     parser.add_argument("--inactive_file", required=use_args, type=str)
     parser.add_argument("--inactive_schema", required=use_args, type=str)
-    parser.add_argument("--discord_logo_uploaded_file", required=use_args, type=str)
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
+
 
     # If we don't find the env variable for use args assume we're running this locally
     if not use_args:
@@ -57,7 +59,6 @@ def main():
         )
         arguments.inactive_schema = local + "/inactive.schema.json"
         arguments.inactive_file = local + "/inactive.json"
-        arguments.discord_logo_uploaded_file = local + "/discord-logo-uploaded.json"
         arguments.metadata_schema = local + "/metadata.schema.json"
         arguments.servers_dir = local + "/servers"
         arguments.validate_inactive = False
@@ -209,6 +210,11 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
             "Unable to open the metadata schema file. Please don't mess with this!"
         )
 
+    # Check if any servers being edited are inactive
+    for server_id in get_edited_servers():
+        if server_id in inactive_file:
+            messages[server_id] = [f"{server_id} is being edited but is in the inactive file!"]
+
     # Looping over each server folder
     for root, _, _ in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
@@ -257,6 +263,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
 
             # Get all the errors that are in the json and add to messages
             errors = jsonschema.Draft7Validator(metadata_schema).iter_errors(server)
+            enumn_errors = {}
             for error in errors:
                 # Clean path
                 path = error.json_path
@@ -267,9 +274,15 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
 
                 if error.validator == "enum":
                     enum = "".join([f"   - {s}\n" for s in error.validator_value])
-                    messages[server_id].append(
-                        f'"{error.instance}" is not an acceptable input for `{path}`:\n{enum}'
+                    incorrect_values = enumn_errors.get(
+                        path,
+                        {
+                            "incorrect": [],
+                            "enum": enum,
+                        },
                     )
+                    incorrect_values["incorrect"].append(error.instance)
+                    enumn_errors[path] = incorrect_values
                 elif error.validator == "pattern":
                     messages[server_id].append(
                         f'"{error.instance}" does not match the regex pattern "{error.validator_value}" in '
@@ -290,6 +303,14 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                     )
                 else:  # If the error isn't defined above show the message.
                     messages[server_id].append(error.message)
+
+            for key, value in enumn_errors.items():
+                enum = value["enum"]
+                incorrect = value["incorrect"]
+
+                messages[server_id].append(
+                    f'{", ".join([f"`{s}`" for s in incorrect])} is not an acceptable input for `{key}`:\n{enum}'
+                )
 
     return messages
 
@@ -312,7 +333,6 @@ def check_media(
     servers = get_all_servers(
         args.servers_dir,
         args.inactive_file,
-        args.discord_logo_uploaded_file,
         args.validate_inactive,
     )
 
@@ -325,6 +345,7 @@ def check_media(
         # Paths
         logo_path = f"{args.servers_dir}/{server_id}/logo.png"
         background_path = f"{args.servers_dir}/{server_id}/background.png"
+        wordmark_path = f"{args.servers_dir}/{server_id}/wordmark.png"
 
         # Check if a server has a banner
         banner_path = None
@@ -336,16 +357,18 @@ def check_media(
         # Validate!
         logo_errors = validate_logo(logo_path, server_name)
         background_errors = validate_background(background_path, server_name)
+        wordmark_errors = validate_wordmark(wordmark_path, server_name)
         banner_errors = (
             validate_banner(banner_path, server_name) if banner_path is not None else []
         )
+
 
         print(f"Validated {server_name}'s media.")
 
         # if there are no errors for all of the above skip
         if all(
             len(errors) == 0
-            for errors in [logo_errors, background_errors, banner_errors]
+            for errors in [logo_errors, background_errors, banner_errors, wordmark_errors]
         ):
             continue
 
@@ -355,6 +378,7 @@ def check_media(
         current_errors[server_id] += background_errors
         current_errors[server_id] += logo_errors
         current_errors[server_id] += banner_errors
+        current_errors[server_id] += wordmark_errors
 
     print(f"Sucessfully validated {len(servers)} server logos/backgrounds.")
     print(current_errors)
@@ -363,13 +387,14 @@ def check_media(
 
 def validate_root(directory: str = "."):
     """
-    This function validates the root directory of the repository doesn't have
-    any unwanted files (people will sometimes put their server in the root
+    This function validates the root/servers directory of the repository doesn't
+    have any unwanted files (people will sometimes put their server in the root
     on accident!)
 
     Args:
         directory (str): The directory to validate. Defaults to ".".
     """
+    server_dir = directory + "/servers/"
     for file in os.listdir(directory):
         if file not in FILE_WHITELIST:
             post_comment(
@@ -381,6 +406,19 @@ def validate_root(directory: str = "."):
             )
             print(
                 f"The file '{file}' is in the main directory but not in file whitelist"
+            )
+            sys.exit(1)
+    for file in os.listdir(server_dir):
+        if os.path.isfile(server_dir + file):
+            post_comment(
+                {
+                    "Overall": [
+                        f"The file '{file}' is not a directory in the /servers/ folder. Please make sure you're following the [relevant documentation](https://lunarclient.dev/server-mappings/adding-servers/overview)."
+                    ]
+                }
+            )
+            print(
+                f"The file '{file}' is not a directory in the /servers/ folder."
             )
             sys.exit(1)
 

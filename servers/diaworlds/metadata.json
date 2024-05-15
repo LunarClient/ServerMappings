@@ -1,0 +1,27 @@
+{
+    "id": "diaworlds",
+    "name": "DiaWorlds",
+    "description": "CZSK Survival server.",
+    "store": "https://store.diaworlds.xyz/",
+    "addresses": [
+        "diaworlds.xyz"
+    ],
+    "primaryAddress": "mc.diaworlds.xyz",
+    "primaryColor": "#0DC2FB",
+    "secondaryColor": "#00FBFB",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/G3g6hpUJSF"
+    }
+}
