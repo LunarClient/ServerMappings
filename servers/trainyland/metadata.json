@@ -22,10 +22,7 @@
     "primaryLanguage": "fr",
     "languages": [
         "fr",
-        "en",
-        "es",
-        "ru",
-        "it"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -34,8 +31,8 @@
     ],
     "gameTypes": [
         "Minigames",
-        "Parkour",
-        "Training"
+        "PvP",
+        "Parkour"
     ],
     "website": "https://trainyland.fr",
     "store": "https://trainyland.fr/shop",
