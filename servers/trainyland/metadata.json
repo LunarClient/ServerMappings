@@ -3,7 +3,7 @@
     "name": "TrainyLand",
     "description": "One of the funniest Minigames Server",
     "addresses": [
-        "*.trainyland.fr",
+        "play.trainyland.fr",
         "trainyland.fr"
     ],
     "primaryAddress": "play.trainyland.fr",
