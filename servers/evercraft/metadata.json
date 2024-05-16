@@ -34,13 +34,7 @@
     "store": "https://buy.evercraft.it/",
     "website": "https://evercraft.it/",
     "socials": {
-        "discord": "https://discord.evercraft.it/"
-    },
-    "tebexStore": {
-        "background": {
-            "lowerColor": "#fafafa",
-            "upperColor": "#ffffff"
-        }
+        "discord": "https://discord.com/invite/3Yp6kt6C7X"
     },
     "crossplay": true
 }
