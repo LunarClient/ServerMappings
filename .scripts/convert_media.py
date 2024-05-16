@@ -26,7 +26,6 @@ def main():
     # General Args
     parser.add_argument("--servers_dir", required=use_args, type=str)
     parser.add_argument("--inactive_file", required=use_args, type=str)
-    parser.add_argument("--discord_logo_uploaded_file", required=use_args, type=str)
     parser.add_argument("--lossless", default=False, action="store_true")
     parser.add_argument("--changed_files", required=False, type=str)
     parser.add_argument("--dry_upload", default="false", type=str)
@@ -41,6 +40,9 @@ def main():
         "--servers_backgrounds_sizes", nargs="+", type=str, default=["1920x1080"]
     )
 
+    # Wordmark Args
+    parser.add_argument("--servers_wordmarks_output", required=use_args, type=str)
+
     # Banner args
     parser.add_argument("--servers_banners_output", required=use_args, type=str)
 
@@ -54,17 +56,17 @@ def main():
         )
 
         args.inactive_file = local + "/inactive.json"
-        args.discord_logo_uploaded_file = local + "/discord-logo-uploaded.json"
         args.servers_dir = local + "/servers"
 
         args.servers_logos_output = local + "/.out/servers_logos_output"
         args.servers_backgrounds_output = local + "/.out/backgrounds"
+        args.servers_wordmarks_output = local + "/.out/wordmarks"
         args.servers_banners_output = local + "/.out/banners"
         args.lossless = False
 
     # Load server mappings JSON
     servers = get_all_servers(
-        args.servers_dir, args.inactive_file, args.discord_logo_uploaded_file, False
+        args.servers_dir, args.inactive_file, False
     )
 
     if args.dry_upload:
@@ -84,11 +86,13 @@ def main():
         servers = [server for server in servers if server["id"] in changed_servers]
 
     background_amount = 0
+    wordmark_amount = 0
     banner_amount = 0
 
     # Create server media output directories
     os.makedirs(args.servers_logos_output, exist_ok=True)
     os.makedirs(args.servers_backgrounds_output, exist_ok=True)
+    os.makedirs(args.servers_wordmarks_output, exist_ok=True)
     os.makedirs(args.servers_banners_output, exist_ok=True)
 
     for server in servers:
@@ -98,6 +102,7 @@ def main():
         # Paths
         logo_path = f"{args.servers_dir}/{server_id}/logo.png"
         background_path = f"{args.servers_dir}/{server_id}/background.png"
+        wordmark_path = f"{args.servers_dir}/{server_id}/wordmark.png"
         static_banner_path = f"{args.servers_dir}/{server_id}/banner.png"
         animated_banner_path = f"{args.servers_dir}/{server_id}/banner.gif"
 
@@ -109,6 +114,7 @@ def main():
             args.servers_logos_sizes,
             args.lossless,
         )
+
         if convert_background(
             background_path,
             args.servers_backgrounds_output,
@@ -118,6 +124,15 @@ def main():
             args.lossless,
         ):
             background_amount += 1
+        
+        if convert_wordmark(
+            wordmark_path,
+            args.servers_wordmarks_output,
+            server_id,
+            server_name,
+            args.lossless,
+        ):
+            wordmark_amount += 1
 
         # convert only the first banner that exists, because either can exist.
         for banner_path in [static_banner_path, animated_banner_path]:
@@ -137,9 +152,55 @@ def main():
         f"({len(servers) - background_amount} servers did not provide a background)."
     )
     print(
+        f"Successfully converted {wordmark_amount} server wordmarks - "
+        f"({len(servers) - wordmark_amount} servers did not provide a wordmark)."
+    )
+    print(
         f"Successfully converted {banner_amount} server banners - "
         f"({len(servers) - banner_amount} servers did not provide a banner)."
     )
+
+
+def convert_wordmark(
+    path: str,
+    output: str,
+    server_id: str,
+    server_name: str,
+    lossless: bool = False,
+) -> bool:
+    """
+    Convert the wordmark image to different sizes and formats.
+
+    The original PNG file is kept for environments that do not support WEBP.
+
+    Args:
+        path (str): The path to the source image file.
+        output (str): The path where the converted image will be saved.
+        server_id (str): The ID of the server.
+        server_name (str): The name of the server.
+        lossless (bool, optional): If set to True, the image will be converted
+                                   without any loss in quality. Default is False.
+
+    Returns:
+        bool: True if the wordmark image was successfully converted, False otherwise.
+    """
+
+    # Silently skip if not present as it is optional
+    if not os.path.isfile(path):
+        return False
+
+    # Raw no transformations (PNG)
+    shutil.copyfile(path, f"{output}/{server_id}.png")
+
+    # Base 1920x1080 Size (WebP)
+    convert_and_resize(
+        path,
+        f"{output}/{server_id}.webp",
+        lossless=lossless,
+    )
+
+    print(f"Successfully converted {server_name}'s wordmark.")
+    return True
 
 
 def convert_background(

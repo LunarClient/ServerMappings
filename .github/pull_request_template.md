@@ -28,6 +28,8 @@
     -   [ ] (optional) `presentationVideo`: YouTube video ID (in slug) to server trailer / introduction _(ex. `7EV4cPuJvXE`)_
     -   [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) _(ex. `https://www.your-server.com`)_
     -   [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) _(ex. `https://store.your-server.com`)_
+    -   [ ] (optional) `wiki`: url of server wiki, must include URL schema (http:// or https://) _(ex. `https://wiki.your-server.com`)_
+    -   [ ] (optional) `merch`: url of server merchanise site (if seperate from store), must include URL schema (http:// or https://) _(ex. `https://merch.your-server.com`)_
 
 ### Socials
 
@@ -42,9 +44,11 @@
 -   [ ] (optional) `facebook`: slug of facebook page _(ex. MyServer)_
 
 ### Compliance
+
 -   [ ] (optional) `privacyPolicy`: url to your Privacy Policy _(ex. https://www.lunar.gg/privacy)_
 -   [ ] (optional) `termsOfService`: url to your Terms of Service _(ex. https://www.lunar.gg/terms)_
 -   [ ] (optional) `rules`: url to your Rules _(ex. https://www.lunar.gg/rules)_
+-   [ ] (optional) `support`: url to your Support Site _(ex. https://www.lunar.gg/support)_
 
 ### Media:
 
