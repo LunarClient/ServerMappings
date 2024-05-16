@@ -7,7 +7,7 @@
     "addresses": [
         "schooldays.club"
     ],
-    "primaryAddress": "play.adventuremc.it",
+    "primaryAddress": "schooldays.club",
     "minecraftVersions": [
         "1.19.4",
         "1.20.*"
