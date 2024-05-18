@@ -1,0 +1,32 @@
+{
+    "id": "warfine",
+    "name": "Warfine Network",
+    "website": "https://warfine.org/",
+    "store": "https://store.warfine.org/",    
+    "addresses": [
+        "warfine.org"
+    ],
+    "primaryAddress": "warfine.org",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff8700",
+    "secondaryColor": "#fc8c03",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {    
+        "discord": "https://discord.gg/warfineorg"
+    }
+}    
