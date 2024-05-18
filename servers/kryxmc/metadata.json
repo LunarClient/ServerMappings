@@ -1,0 +1,28 @@
+{
+    "id": "kryxmc",
+    "name": "KryxMc",
+    "website": "https://kryxmc.fr/",
+    "store": "https://boutique.kryxmc.fr",
+    "addresses": [
+        "kryxmc.fr"
+    ],
+    "primaryAddress": "play.kryxmc.fr",
+    "primaryColor": "#FF9700",
+    "secondaryColor": "#FCE11B",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kryxmc"
+    }
+}
