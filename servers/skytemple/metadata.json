@@ -27,10 +27,10 @@
         "EU"
     ],
     "gameTypes": [
-	"Practice",
+        "Practice",
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/skytempleit",
+        "discord": "https://discord.gg/skytempleit"
     }
 }
