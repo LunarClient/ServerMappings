@@ -1,37 +1,36 @@
 {
-    "id": "hyspace",
-    "name": "HySpace",
-    "addresses": [
-        "hyspace.it",
-        "hyspace.e-splat.net"
-    ],
-    "gameTypes": [
-        "PvP"
-    ],    
-    "primaryColor": "#ae2ef2",
-    "secondaryColor": "#7b2cb0"
-    "primaryAddress": "mcvision.pl",
-    "primaryColor": "#4f3eb8",
-    "secondaryColor": "#150b54",
-    "minecraftVersions": [
-    "1.8.",
-    "1.9.",
-    "1.10.",
-    "1.11.",
-    "1.12.",
-    "1.13.",
-    "1.14.",
-    "1.15.",
-    "1.16.",
-    "1.17.",
-    "1.18.",
-    "1.19.",
-    "1.20."    
-    ],
-    "primaryMinecraftVersion": "1.8.8",
-    "primaryRegion": "EU",
-    "regions": [
-    "EU"
-    ],
-    
+"id": "hyspace",
+"name": "HySpace",
+"website": "https://hyspace.it/",
+"store": "https://store.hyspace.it",
+"addresses": [
+"hyspace.it",
+"hyspace.e-splat.net"      
+],
+"primaryAddress": "play.hyspace.it",
+"primaryColor": "#8940bd",
+"secondaryColor": "#3a0d63",
+"minecraftVersions": [
+"1.8.",
+"1.9.",
+"1.10.",
+"1.11.",    
+"1.12.",
+"1.13.",
+"1.14.",    
+"1.15.",    
+"1.16.",
+"1.17.",
+"1.18.",
+"1.19.",
+"1.20.*"
+],
+"primaryMinecraftVersion": "1.8.8",
+"primaryRegion": "EU",
+"regions": [
+"EU"
+],
+"gameTypes": [
+"PvP"
+]
 }
