@@ -1,0 +1,14 @@
+{
+    "id": "hyspace",
+    "name": "HySpace",
+    "addresses": [
+        "hyspace.it",
+        "hyspace.e-splat.net"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],    
+    "primaryColor": "#ae2ef2",
+    "secondaryColor": "#7b2cb0"
+    
+}
