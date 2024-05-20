@@ -32,12 +32,7 @@
     ],
     "website": "https://eternalanarchy.xyz",
     "store": "https://eternalanarchy.craftingstore.net/",
-    "compliance": {
-        "privacyPolicy": "https://eternalanarchy.craftingstore.net/legal/privacy",
-        "termsOfService": "https://eternalanarchy.craftingstore.net/legal/terms",
-        "rules": "https://eternalanarchy.xyz"
-    },
-    "presentationVideo": "",
+    "compliance": {},
     "socials": {
         "discord": "https://discord.gg/Uxpv8yP3b3"
     },
