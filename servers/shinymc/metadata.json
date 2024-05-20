@@ -29,8 +29,7 @@
     "gameTypes": [
         "Survival",
         "Factions",
-        "Minigames",
-        "Open World"
+        "Minigames"
     ],
     "website": "https://www.shiny-mc.org",
     "store": "https://shiny-mc.org/store",
