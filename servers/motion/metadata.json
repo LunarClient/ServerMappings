@@ -1,11 +1,11 @@
 {
-    "id": "motion",
+    "id": "motionmc",
     "name": "Motion Network",
     "store": "https://store.motionmc.xyz/",
     "addresses": [
         "play.motionmc.xyz"
     ],
-    "primaryAddress": "minewold.us",
+    "primaryAddress": "pla.motionmc.xyz",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
