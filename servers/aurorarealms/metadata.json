@@ -12,11 +12,11 @@
         "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#dedede",
-    "secondaryColor": "#e6b511",
-    "primaryRegion": "NA",
+    "primaryColor": "#FF75DF",
+    "secondaryColor": "#B9A8F4",
+    "primaryRegion": "SA",
     "regions": [
-        "NA"
+        "SA"
     ],
     "gameTypes": [
         "SURVIVAL"
