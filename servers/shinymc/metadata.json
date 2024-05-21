@@ -4,8 +4,7 @@
     "description": "By and for Europeans",
     "addresses": [
         "shiny-mc.eu",
-        "play.shiny-mc.org",
-        "mc.shiny-mc.org"
+        "shiny-mc.org"
     ],
     "primaryAddress": "shiny-mc.eu",
     "minecraftVersions": [
