@@ -1,0 +1,32 @@
+{
+    "id": "aurorarealms",
+    "name": "AuroraRealms",
+    "website": "https://discord.gg/NRzyqCGAGv",
+    "store": "https://aurorarealms.buycraft.net",
+    "description": "AuroraRealms es un survival de Survival totalmente custom sin mods.",
+    "addresses": [
+        "aurorarealms.holy.gg"
+    ],
+    "primaryAddress": "aurorarealms.holy.gg",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SURVIVAL"
+    ],
+    "socials": {
+        "twitter": "aurorarealms",
+        "discord": "https://discord.gg/NRzyqCGAGv"
+    },
+    "compliance": {
+        "rules": "https://www.holypvp.net/rules"
+    },
+    "presentationVideo": "MqV297quUBk"
+}
