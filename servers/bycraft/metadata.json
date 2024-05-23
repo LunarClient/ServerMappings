@@ -5,9 +5,9 @@
     "addresses": [
         "spookmc.net"
     ],
-    "primaryAddress": "spookmc.net",
+    "primaryAddress": "mc.bycraft.net",
     "primaryColor": "#ffffff",
-    "secondaryColor": "#8f8f93",
+    "secondaryColor": "#18FFEA",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
