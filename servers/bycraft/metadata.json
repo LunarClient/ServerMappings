@@ -3,7 +3,7 @@
     "name": "ByCraft Network",
     "store": "https://tienda.bycraft.net/",
     "addresses": [
-        "spookmc.net"
+        "mc.bycraft.net"
     ],
     "primaryAddress": "mc.bycraft.net",
     "primaryColor": "#ffffff",
