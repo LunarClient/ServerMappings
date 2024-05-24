@@ -1,0 +1,32 @@
+{
+    "id": "spalion",
+    "name": "Spalion",
+    "description": "French Ranked Game Like BedWars",
+    "website": "https://spalion.net/",
+    "addresses": [
+        "spalion.net",
+        "spalion.fr"
+    ],
+    "primaryAddress": "spalion.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e69138",
+    "secondaryColor": "#d82a27",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/spalion",
+        "youtube": "spalion"
+    }
+}
