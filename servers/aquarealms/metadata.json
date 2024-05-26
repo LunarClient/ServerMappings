@@ -4,8 +4,7 @@
     "website": "https://www.aqua-realms.eu",
     "store": "https://www.aqua-realms.eu/obchod",
     "addresses": [
-        "play.aqua-realms.eu",
-        "mc.aqua-realms.eu"
+        "aqua-realms.eu"
     ],
     "primaryAddress": "play.aqua-realms.eu",
     "primaryColor": "#4bcaf8",
