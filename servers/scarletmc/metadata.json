@@ -43,11 +43,11 @@
     ],
     "socials": {
         "discord": "https://ds.scarletmc.it/",
-        "telegram": "https://t.me/scarletmcit",
-        "youtube": "https://www.youtube.com/@ScarletMCIT",
-        "instagram": "https://www.instagram.com/scarletmc.it/",
-        "tiktok": "https://www.tiktok.com/@scarletmc.it",
-        "twitter": "https://x.com/ScarletMCIT",
-        "github": "https://github.com/ScarletMC"
+        "telegram": "scarletmcit",
+        "youtube": "ScarletMCIT",
+        "instagram": "scarletmc.it",
+        "tiktok": "scarletmc.it",
+        "twitter": "ScarletMCIT",
+        "twitch": "scarletmcit"
     }
 }
