@@ -1,0 +1,34 @@
+{
+    "id": "klash",
+    "name": "Klash Network",
+    "website": "https://klash.dev",
+    "description": "A network of minigames and gamemodes to adventure!",
+    "addresses": [
+        "klash.dev"
+    ],
+    "primaryAddress": "network.klash.dev",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#ff6f00",
+    "secondaryColor": "#6B2F35",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "klashdevelopment",
+        "discord": "https://discord.gg/fBSuJ2AqPa"
+    },
+    "crossplay": true
+}

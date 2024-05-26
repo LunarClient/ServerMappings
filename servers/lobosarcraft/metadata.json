@@ -1,0 +1,41 @@
+{
+    "id": "lobosarcraft",
+    "name": "LobosarCraft Network",
+    "addresses": [
+        "lobosarcraft.net"
+    ],
+    "primaryAddress": "play.lobosarcraft.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU",
+        "OC",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://www.lobosarcraft.net",
+    "store": "https://tienda.lobosarcraft.net",
+    "socials": {
+        "twitter": "LobosarCraftNT",
+        "discord": "https://discord.com/invite/yEVvvz8wWr",
+        "tiktok": "lobosarcraftnetwork"
+    },
+    "crossplay": true
+}
