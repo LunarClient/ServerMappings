@@ -1,0 +1,31 @@
+{
+    "id": "hyzelmc",
+    "name": "hyzelmc",
+    "description": "HyzelMC | Server!",
+    "addresses": [
+        "hyzelmc.live"
+    ],
+    "primaryAddress": "hyzelmc.live",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#98f5f9",
+    "secondaryColor": "#060270",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF"
+    ],
+    "store": "https://store.hyzelmc.live/",
+    "socials": {
+        "discord": "https://discord.com/invite/hyzelmc"
+    },
+    "crossplay": false
+}
