@@ -1,0 +1,33 @@
+{
+    "id": "zeenmc",
+    "name": "ZeenMC Network",
+    "description": "Una experiencia premium totalmente gratuita",
+    "addresses": [
+        "play.zeenmc.es"
+    ],
+    "primaryAddress": "play.zeenmc.es",
+    "primaryMinecraftVersion": "1.20",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "BoxPvP",
+        "PvP"
+    ],
+    "website": "https://zeenmc.es/",
+    "store": "https://tienda.zeenmc.es/",
+    "primaryColor": "#ff8833",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "zeenmc_es",
+        "discord": "https://discord.com/invite/bDX4exWh5T"
+    }
+}
