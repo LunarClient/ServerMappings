@@ -1,0 +1,24 @@
+{
+    "id": "galaxycraft",
+    "name": "GalaxyCraft",
+    "store": "https://tienda.galaxycraft.lat/",
+    "addresses": [
+        "galaxycraft.lat"
+    ],
+    "primaryAddress": "universocraft.lat",
+    "primaryColor": "#FB04DB",
+    "secondaryColor": "#500F47",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jTUarhNXuS",
+        "instagram": "galaxycraft.lat"
+    }
+}
