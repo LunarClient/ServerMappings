@@ -2,6 +2,7 @@
     "id": "kira",
     "name": "Kira Network",
     "store": "https://store.kiramc.com",
+    "description": "Competitive PvP network striving to be the best",
     "addresses": [
         "kiramc.com"
     ],
