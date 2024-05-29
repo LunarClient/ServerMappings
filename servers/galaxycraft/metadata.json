@@ -1,11 +1,10 @@
 {
     "id": "galaxycraft",
     "name": "GalaxyCraft",
-    "store": "https://tienda.galaxycraft.lat/",
     "addresses": [
         "galaxycraft.lat"
     ],
-    "primaryAddress": "universocraft.lat",
+    "primaryAddress": "galaxycraft.lat",
     "primaryColor": "#FB04DB",
     "secondaryColor": "#500F47",
     "minecraftVersions": [
