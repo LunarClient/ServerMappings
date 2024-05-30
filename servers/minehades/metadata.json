@@ -1,11 +1,14 @@
 {
-    "id": "naufragio",
-    "name": "Naufragio",
+    "id": "minehades",
+    "name": "MineHades",
     "description": "¿Por que no entras? - El mejor servidor.",
     "addresses": [
-        "naufragio.es"
+        "minehades.net",
+        "play.minehades.net",
+        "mc.minehades.net",
+        "jugar.minehades.net"
     ],
-    "primaryAddress": "naufragio.es",
+    "primaryAddress": "play.minehades.net",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,8 +17,8 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#4cd5ff",
-    "secondaryColor": "#3297b6",
+    "primaryColor": "#ffa04c",
+    "secondaryColor": "#ffc966",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
@@ -29,11 +32,11 @@
         "Survival",
         "PvE"
     ],
-    "website": "https://naufragio.es/",
-    "store": "https://tienda.naufragio.es",
+    "website": "https://minehades.net/",
+    "store": "https://tienda.minehades.net",
     "socials": {
-        "twitter": "NaufragioNET",
-        "discord": "https://discord.com/invite/qHQUmCgbnH"
+        "twitter": "MineHadesNET",
+        "discord": "https://discord.gg/HfRAPgJa3z"
     },
     "crossplay": true
 }
