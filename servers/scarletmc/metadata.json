@@ -1,0 +1,47 @@
+{
+    "id": "scarletmc",
+    "name": "ScarletMC",
+    "website": "https://www.scarletmc.it",
+    "store": "https://store.scarletmc.it",
+    "description": "Server Minecraft italiano dal 2021.",
+    "addresses": [
+        "giacomov07.it",
+        "giacomc.it",
+        "scarletmc.it"
+    ],
+    "primaryAddress": "play.scarletmc.it",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#FF2400",
+    "secondaryColor": "#ff2200",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/EcY9BmB2rk",
+        "telegram": "scarletmcit",
+        "youtube": "ScarletMCIT",
+        "instagram": "scarletmc.it",
+        "tiktok": "scarletmc.it",
+        "twitter": "ScarletMCIT",
+        "twitch": "scarletmcit"
+    }
+}
