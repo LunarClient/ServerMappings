@@ -28,7 +28,8 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Practice"
+        "PvP",
+        "Adventure"
     ],
     "socials": {
         "discord": "https://discord.gg/T7C4Aksbyc",
