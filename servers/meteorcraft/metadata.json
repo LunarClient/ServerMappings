@@ -28,7 +28,6 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "PvP",
         "Adventure"
     ],
     "socials": {
