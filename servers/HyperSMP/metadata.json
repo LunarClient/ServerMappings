@@ -1,0 +1,25 @@
+{
+    "id": "hypersmp",
+    "name": "HyperSMP",
+    "description": "The most unique Lifesteal Experience!",
+    "addresses": [
+        "hypersmp.fun"
+    ],
+    "primaryAddress": "play.hypersmp.fun",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#faf64f",
+    "secondaryColor": "#f2453d",
+    "gameTypes": [
+        "Lifesteal",
+        "Open World"
+    ],
+    "store": "https://store.hypersmp.fun",
+    "socials": {
+        "discord": "https://discord.gg/hypersmp"
+    },
+    "crossplay": true
+}
