@@ -27,7 +27,6 @@
         "PvP",
         "Prison"
     ],
-    "website": "https://store.udrop.club/",
     "store": "https://store.udrop.club/",
     "compliance": {
         "privacyPolicy": "https://store.udrop.club/terms/privacy",
@@ -37,7 +36,7 @@
     "socials": {
         "twitter": "uDropClub",
         "youtube": "uDropNetwork",
-        "discord": "https://invite.gg/udrop"
+        "discord": "https://discord.com/invite/uc3RuuZ"
     },
     "crossplay": false
 }
