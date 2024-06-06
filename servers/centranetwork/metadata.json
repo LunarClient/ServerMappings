@@ -2,9 +2,9 @@
     "id": "centranetwork",
     "name": "Centra Network",
     "addresses": [
-        "centranetwork.net"
+        "centranet.work"
     ],
-    "primaryAddress": "mc.centranetwork.net",
+    "primaryAddress": "centranet.work",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -12,7 +12,7 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.20.2",
     "primaryColor": "#FFAA00",
     "secondaryColor": "#FF6200",
     "primaryLanguage": "en",
@@ -28,9 +28,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/UNU8QvR",
-        "youtube": "@centranetwork",
-        "instagram": "centranetwork",
-        "facebook": "centranetwork"
+        "discord": "https://discord.com/invite/D6ezBC2HVW",
+        "tiktok": "@centranetwork"
     }
 }
