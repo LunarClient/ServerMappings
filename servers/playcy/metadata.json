@@ -15,9 +15,16 @@
     "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "US",
     "regions": [
-        "US",
+        "NA",
         "EU",
-        "SG"
+        "AS"
+    ],
+    "languages": [
+        "en",
+        "es-EN",
+        "zh-CN",
+        "ja",
+        "ko"
     ],
     "gameTypes": [
         "BellRush",
