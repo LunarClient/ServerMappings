@@ -1,0 +1,40 @@
+{
+    "id": "playcy",
+    "name": "PlayCY",
+    "website": "https://playcy.net/",
+    "addresses": [
+        "playcy.net"
+    ],
+    "primaryAddress": "playcy.net",
+    "primaryColor": "#e561ff",
+    "secondaryColor": "#a6fb09",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "US",
+    "regions": [
+        "US",
+        "EU",
+        "SG"
+    ],
+    "gameTypes": [
+        "BellRush",
+        "Nukes",
+        "Duels",
+        "Manhunt",
+        "BattleArena",
+        "Zones",
+        "FloorIsLava",
+        "BlockShuffle",
+        "TheRift",
+        "Practice"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/P7JRgeXtcp",
+        "instagram": "playcyserver",
+        "youtube": "https://youtube.com/@ChuanMC"
+    }
+}
