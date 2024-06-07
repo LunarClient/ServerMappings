@@ -1,0 +1,35 @@
+{
+    "id": "bycraft",
+    "name": "ByCraft Network",
+    "store": "https://tienda.bycraft.net/",
+    "addresses": [
+        "bycraft.net"
+    ],
+    "primaryAddress": "mc.bycraft.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#18FFEA",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bycraft-network-866746377651748865",
+        "youtube": "bycraftnetwork",
+        "tiktok": "bycraft_network"
+    }
+}
