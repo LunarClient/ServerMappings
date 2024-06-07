@@ -28,10 +28,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
         "Minigames",
-        "Survival",
-        "Open World"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/P7JRgeXtcp",
