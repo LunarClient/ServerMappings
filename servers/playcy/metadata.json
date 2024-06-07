@@ -26,18 +26,6 @@
         "ja",
         "ko"
     ],
-    "gameTypes": [
-        "BellRush",
-        "Nukes",
-        "Duels",
-        "Manhunt",
-        "BattleArena",
-        "Zones",
-        "FloorIsLava",
-        "BlockShuffle",
-        "TheRift",
-        "Practice"
-    ],
     "socials": {
         "discord": "https://discord.gg/P7JRgeXtcp",
         "instagram": "playcyserver",
