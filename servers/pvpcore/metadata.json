@@ -4,8 +4,7 @@
     "store": "https://store.pvpcore.club",
     "description": "Where the best players play",
     "addresses": [
-        "pvpcore.club",
-        "potpvp.ru"
+        "pvpcore.club"
     ],
     "primaryAddress": "pvpcore.club",
     "minecraftVersions": [

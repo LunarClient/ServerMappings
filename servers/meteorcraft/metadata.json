@@ -1,0 +1,38 @@
+{
+    "id": "meteorcraft",
+    "name": "Meteorcraft",
+    "description": "Play Survival, Skyblock, and upcoming gamemodes for endless fun!",
+    "website": "https://meteorcraft.net/",
+    "store": "https://store.meteorcraft.net/",
+    "addresses": [
+        "meteorcraft.net"
+    ],
+    "primaryAddress": "play.meteorcraft.net",
+    "primaryColor": "#EF423A",
+    "secondaryColor": "#E0352E",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/T7C4Aksbyc",
+        "tiktok": "play.meteorcraft.net",
+        "twitter": "meteorcraftt"
+    }
+}
