@@ -23,7 +23,7 @@
         "twitter": "https://twitter.com/mintprisondk",
         "youtube": "https://www.youtube.com/@mintprison"
     },
-    "gametypes": [
+    "gameTypes": [
         "PvP",
         "Prison"
     ],
