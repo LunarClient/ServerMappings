@@ -2,6 +2,9 @@
     "id": "minemexuhc",
     "name": "MineMex Network",
     "description": "Competitive UHC Server",
+    "addresses": [
+        "minemex.es"
+    ],	
     "primaryAddress": "minemex.es",
     "minecraftVersions": [
         "1.7.*",
