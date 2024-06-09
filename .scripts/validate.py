@@ -213,8 +213,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
     # Check if any servers being edited are inactive
     for server_id in get_edited_servers():
         if server_id in inactive_file:
-            messages[server_id] = []
-            messages[server_id].append(f"{server_id} is being edited but is in the inactive file!")
+            messages[server_id] = [f"{server_id} is being edited but is in the inactive file!"]
 
     # Looping over each server folder
     for root, _, _ in os.walk(args.servers_dir):
@@ -388,13 +387,14 @@ def check_media(
 
 def validate_root(directory: str = "."):
     """
-    This function validates the root directory of the repository doesn't have
-    any unwanted files (people will sometimes put their server in the root
+    This function validates the root/servers directory of the repository doesn't
+    have any unwanted files (people will sometimes put their server in the root
     on accident!)
 
     Args:
         directory (str): The directory to validate. Defaults to ".".
     """
+    server_dir = directory + "/servers/"
     for file in os.listdir(directory):
         if file not in FILE_WHITELIST:
             post_comment(
@@ -406,6 +406,19 @@ def validate_root(directory: str = "."):
             )
             print(
                 f"The file '{file}' is in the main directory but not in file whitelist"
+            )
+            sys.exit(1)
+    for file in os.listdir(server_dir):
+        if os.path.isfile(server_dir + file):
+            post_comment(
+                {
+                    "Overall": [
+                        f"The file '{file}' is not a directory in the /servers/ folder. Please make sure you're following the [relevant documentation](https://lunarclient.dev/server-mappings/adding-servers/overview)."
+                    ]
+                }
+            )
+            print(
+                f"The file '{file}' is not a directory in the /servers/ folder."
             )
             sys.exit(1)
 
