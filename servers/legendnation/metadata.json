@@ -1,0 +1,32 @@
+{
+    "id": "legendnation",
+    "name": "LegendNation",
+    "store": "https://store.legendnation.net/",
+    "website": "https://legendnation.net/",
+    "discord": "https://discord.gg/legendnation",
+    "description": "LegendNation is a Minecraft server that offers a unique and experience!",
+    "addresses": [
+        "legendnation.net"
+    ],
+    "primaryAddress": "legendnation.net",
+    "primaryColor": "#FFE259b",
+    "secondaryColor": "#000000",
+    "gameTypes": [
+        "Survival",
+        "Lifesteal",
+        "OneBlock",
+        "EarthSMP",
+        "Factions",
+        "Elements",
+        "TV-Shows",
+        "Minigames",
+        "Bedwars",
+        "GetDown",
+        "Citybuild",
+        "RPlace",
+        "Roleplay",
+        "Parkour",
+        "Practise",
+        "PvP"
+    ]
+}
