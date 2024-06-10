@@ -1,13 +1,13 @@
 {
     "id": "trykit",
     "name": "Trykit",
-    "store": "https://trykit.net",
+    "website": "https://trykit.net",
     "addresses": [
         "trykit.net"
     ],
     "primaryAddress": "trykit.net",
-    "primaryColor": "#fc651e",
-    "secondaryColor": "#000000",
+    "primaryColor": "#F4B966",
+    "secondaryColor": "#FACE79",
     "minecraftVersions": [
         "1.8.9",
         "1.20.6"
