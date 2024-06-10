@@ -32,10 +32,7 @@
     "primaryColor": "#FFE259",
     "secondaryColor": "#000000",
     "gameTypes": [
-        "Minigames",
-        "PvP",
-        "Roleplay",
-        "Adventure"
+        "Minigames"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -45,5 +42,6 @@
         "AS",
         "AF",
         "OC"
-    ]
+    ],
+    "crossplay": true
 }
