@@ -21,7 +21,8 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "EU"
     ],
     "primaryColor": "#333",
     "secondaryColor": "#ffffff",
