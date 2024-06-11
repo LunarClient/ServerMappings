@@ -1,5 +1,5 @@
 {
-    "id": "FFA",
+    "id": "ffa",
     "name": "FFA",
     "description": "A free for all Minecraft server!",
     "addresses": [
@@ -28,4 +28,4 @@
     "socials": {
       "discord": "https://discord.ffa.gg"
     }
-  }
+}
