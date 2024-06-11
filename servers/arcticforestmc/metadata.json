@@ -21,10 +21,7 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU",
-        "AS",
-        "OC"
+        "NA"
     ],
     "primaryColor": "#333",
     "secondaryColor": "#ffffff",
@@ -35,7 +32,7 @@
         "instagram": "@arcticforestmc_net"
     },
     "gameTypes": [
-        "Survival"
+        "Survival",
     ],
     "crossplay": false,
     "presentationVideo": "A3Y4F2yi7oo",
