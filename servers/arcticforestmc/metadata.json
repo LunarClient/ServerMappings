@@ -35,10 +35,7 @@
         "instagram": "@arcticforestmc_net"
     },
     "gameTypes": [
-        "Survival",
-        "PvP",
-        "PvE",
-        "UHC"
+        "Survival"
     ],
     "crossplay": false,
     "presentationVideo": "A3Y4F2yi7oo",
