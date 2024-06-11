@@ -4,8 +4,7 @@
     "description": "An PrisonOP competitive server.",
     "store": "https://shop.agatsucraft.com",
     "addresses": [
-        "agatsucraft.com",
-        "play.agatsucraft.com"
+        "agatsucraft.com"
     ],
     "primaryAddress": "agatsucraft.com",
     "primaryColor": "#640001",
