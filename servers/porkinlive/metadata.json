@@ -15,6 +15,10 @@
     "regions": [
         "SA"
     ],
+	"gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
     "socials": {
         "discord": "https://discord.gg/porkinbr"
     }
