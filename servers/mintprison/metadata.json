@@ -1,11 +1,13 @@
 {
     "id": "mintprison",
     "name": "MintPrison",
+    "website": "https://mintprison.com",
+    "store": "https://mintprison.com/#butik",
     "description": "Danmarks fedeste prison-server.",
-    "primaryAddress": "mintprison.com",
     "addresses": [
         "mintprison.dk"
     ],
+    "primaryAddress": "mintprison.com",
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*"
@@ -16,20 +18,18 @@
     ],
     "primaryColor": "#55FFFF",
     "secondaryColor": "#FFFFFF",
-    "store": "https://mintprison.com/#butik",
     "socials": {
         "discord": "https://discord.gg/mintprison",
-        "tiktok": "https://www.tiktok.com/@mintprison",
-        "twitter": "https://twitter.com/mintprisondk",
-        "youtube": "https://www.youtube.com/@mintprison"
+        "tiktok": "@mintprison",
+        "twitter": "mintprisondk",
+        "youtube": "@mintprison"
     },
     "gameTypes": [
         "PvP",
         "Prison"
     ],
     "crossplay": false,
-    "presentationVideo": "https://www.youtube.com/watch?v=BCZVcf1atfU",
-    "website": "https://mintprison.com",
+    "presentationVideo": "BCZVcf1atfU",
     "compliance": {
         "termsOfService": "https://mintprison.com/terms-of-service",
         "rules": "https://mintprison.com/rules"
