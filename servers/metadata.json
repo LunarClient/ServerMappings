@@ -1,14 +1,14 @@
 {
-    "id": "neptalia",
-    "name": "Neptalia",
-    "website": "https://neptalia.fr/",
-    "store": "https://boutique.neptalia.fr",
+    "id": "shandera",
+    "name": "Shandera",
+    "website": "https://shandera.fr/",
+    "store": "https://boutique.shandera.fr",
     "addresses": [
-        "neptalia.fr"
+        "shandera.fr"
     ],
     "primaryAddress": "play.neptalia.fr",
-    "primaryColor": "#FF9700",
-    "secondaryColor": "#130B76",
+    "primaryColor": "#FF7903",
+    "secondaryColor": "#FFDD03",
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*"
@@ -18,6 +18,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/neptalia"
+        "discord": "https://discord.com/invite/shandera"
     }
 }
