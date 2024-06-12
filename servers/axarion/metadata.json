@@ -1,0 +1,27 @@
+{
+    "id": "axarion",
+    "name": "Axarion.eu",
+    "website": "https://www.axarion.eu",
+    "addresses": [
+        "axarion.eu"
+    ],
+    "primaryAddress": "play.axarion.eu",
+    "primaryColor": "#00e1ff",
+    "secondaryColor": "#00e1ff",
+    "primaryMinecraftVersion": "1.20.1",
+    "minecraftVersions": [
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
