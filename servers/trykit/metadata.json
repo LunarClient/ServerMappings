@@ -19,8 +19,7 @@
     ],
     "gameTypes": [
         "Survival",
-	"PvP",
-	"Factions"
+	"PvP"
     ],
     "socials": {
 	"discord": "https://discord.gg/E74brwUCwK",
