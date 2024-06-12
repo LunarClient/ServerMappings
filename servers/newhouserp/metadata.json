@@ -3,7 +3,9 @@
     "name": "NewHouse",
     "website": "https://www.newhouserp.it",
     "description": "NewHouse, the different Roleplay.", 
-    "primaryAddress": "play.newhouserp.it",
+    "addresses:" [
+        "play.newhouserp.it"
+    ], 
     "minecraftVersions": [
         "1.19.4",
         "1.20.*"
