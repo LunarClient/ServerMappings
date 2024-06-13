@@ -1,0 +1,36 @@
+{
+    "id": "TheMineMC",
+    "name": "TheMineMC",
+    "description" : "The Upcoming Biggest Minehut Tycoon/Skyblock Server",
+    "website": "discord.gg/WFkxB6aXQR",
+    "store": "https://store.theminemc.net/",
+    "addresses": [
+        "theminemc.net",
+        "theminemcsmp.minehut.gg"
+    ],
+    "primaryAddress": "theminemc.net",
+    "primaryColor": "#38B3FF",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Skyblock",
+        "Open World",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "TheMineMC",
+        "discord": "https://discord.gg/WFkxB6aXQR",
+        "youtube": "theminemc"
+    },
+    "crossplay": true
+}
