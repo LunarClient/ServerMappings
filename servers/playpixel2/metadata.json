@@ -1,0 +1,28 @@
+{
+    "id": "playpixel2",
+    "name": "Play-Pixel",
+    "store": "http://playpixel.a0001.net/ranks.html",
+    "addresses": [
+        "play-pixel.pro"
+    ],
+    "primaryAddress": "play-pixel.pro",
+    "primaryColor": "#fbff03",
+    "secondaryColor": "#fbff03",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SkyMine",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/playpixel2"
+    }
+}
