@@ -1,0 +1,31 @@
+{
+    "id": "lunatixmc",
+    "name": "LunatixMC",
+    "store": "https://tienda.lunatixmc.xyz/",
+    "addresses": [
+        "play.lunatixmc.xyz"
+    ],
+    "primaryAddress": "play.lunatixmc.xyz",
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryColor": "#9D00D3",
+    "secondaryColor": "#D300B6",
+    "primaryLanguage": "es-ES",
+    "languages": [
+        "es-ES",
+        "es-AR",
+        "es",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/d5jde6vaxr"
+    }
+}
