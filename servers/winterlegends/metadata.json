@@ -1,0 +1,30 @@
+{
+    "id": "winterlegends",
+    "name": "WinterLegends Network",
+    "description": "The best (not actually) server for practicing MC Combat.",
+    "addresses": [
+        "winterlegends.club",
+        "winterlegends.xyz",
+        "baconmc.com"
+    ],
+    "primaryAddress": "winterlegends.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#91b8ff",
+    "secondaryColor": "#f6fafd",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "crossplay": false
+}
