@@ -1,0 +1,36 @@
+{
+    "id": "skytemple",
+    "name": "SkyTemple",
+    "description": "SkyTemple ha il primo practice custom in italia",
+    "addresses": [
+        "skytemple.it"
+    ],
+    "primaryAddress": "play.skytemple.it",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FBE108",
+    "secondaryColor": "#FF9F0A",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/skytempleit"
+    }
+}
