@@ -24,10 +24,8 @@
     ],      
     "gameTypes": [
         "PvP",
-        "PvE",
         "Survival",
         "Open World",
-        "Adventure",
         "Prison"
     ],
     "socials": {
