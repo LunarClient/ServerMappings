@@ -1,7 +1,7 @@
 {
     "id": "crescentkingdom",
     "name": "CrescentKingdom",
-    "description": "A Brand New Network",
+    "description": "A Fantasy Themed Network",
     "store": "https://store.crescentkingdom.com",
     "addresses": [
         "crescentkingdom.com"
@@ -30,5 +30,8 @@
     ],
     "socials": {
         "discord": "https://discord.gg/crescentkingdom"
+        "instagram": "https://instagram.com/crescentkingd0m"
+        "tiktok": "https://www.tiktok.com/@crescentkingdom"
+        "youtube": "https://youtube.com/@crescent_kingdom"
     }
 }
