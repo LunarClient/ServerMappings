@@ -23,10 +23,12 @@
         "es-EN"
     ],      
     "gameTypes": [
-        "KitPvP",
+        "PvP",
+        "PvE",
         "Survival",
-        "MMORPG",
-        "Prisons"
+        "Open World",
+        "Adventure",
+        "Prison"
     ],
     "socials": {
         "discord": "https://discord.gg/crescentkingdom",
