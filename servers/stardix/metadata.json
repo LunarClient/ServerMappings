@@ -7,6 +7,7 @@
         "stardix.com"
     ],
     "primaryAddress": "jogar.stardix.com",
+    "crossplay": true,
     "primaryColor": "#2196F3",
     "secondaryColor": "#546E7A",
     "minecraftVersions": [
