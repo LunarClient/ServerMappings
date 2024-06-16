@@ -1,7 +1,7 @@
 {
     "id": "crescentkingdom",
     "name": "CrescentKingdom",
-    "description": "A Fantasy Themed Network",
+    "description": "A Fantasy Themed Minecraft Network",
     "store": "https://store.crescentkingdom.com",
     "addresses": [
         "crescentkingdom.com"
@@ -29,9 +29,9 @@
         "Prisons"
     ],
     "socials": {
-        "discord": "https://discord.gg/crescentkingdom"
-        "instagram": "https://instagram.com/crescentkingd0m"
-        "tiktok": "https://www.tiktok.com/@crescentkingdom"
-        "youtube": "https://youtube.com/@crescent_kingdom"
+        "discord": "https://discord.gg/crescentkingdom",
+        "instagram": "crescentkingd0m",
+        "tiktok": "crescentkingdom",
+        "youtube": "crescent_kingdom"
     }
 }
