@@ -1,0 +1,50 @@
+{
+  "id": "minelimit",
+  "name" : "MineLimit",
+  "description": "The leading 1.16+ Minecraft server offering Gens, Skyblock, Prison & Lifesteal.",
+  "addresses": [
+    "minelimit.net"
+  ],
+  "primaryAddress": "play.minelimit.net",
+  "minecraftVersions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.*",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FFFF55",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Prison",
+    "Survival"
+  ],
+  "store": "https://store.minelimit.net",
+  "socials": {
+    "youtube": "https://www.youtube.com/@MineLimit",
+    "twitter": "https://x.com/MINELIMITMC",
+    "discord": "https://www.discord.gg/minelimit"
+  },
+  "crossplay": true
+}
