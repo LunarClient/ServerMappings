@@ -4,9 +4,7 @@
     "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
     "store": "https://store.tidal.rip/",
     "addresses": [
-        "tidal.rip",
-        "tidal.rip",
-        "eu.tidal.rip"
+        "tidal.rip"
     ],
     "primaryAddress": "tidal.rip",
     "primaryColor": "#55ffff",
