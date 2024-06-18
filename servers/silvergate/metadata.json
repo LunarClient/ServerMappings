@@ -4,9 +4,9 @@
     "website": "",
     "store": "",
     "addresses": [
-        "185.228.81.184:25568"
+        "silvergate-mc.eu"
     ],
-    "primaryAddress": "185.228.81.184:25568",
+    "primaryAddress": "play.silvergate-mc.eu",
     "primaryColor": "#eb9b34",
     "secondaryColor": "#c7a21e",
     "minecraftVersions": [
