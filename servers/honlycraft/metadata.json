@@ -4,10 +4,10 @@
     "website": "https://www.honlycraft.com",
     "store": "https://tienda.honlycraft.com/",    
     "addresses": [
-        "mc.honlycraft.com",
-        "play.honlycraft.com"
+        "honlycraft.com",
+        "honlycraft.us"
     ],
-    "primaryAddress": "mc.honlycraft.us",
+    "primaryAddress": "play.honlycraft.com",
     "minecraftVersions": [
         "1.20.*",
         "1.8.*"
