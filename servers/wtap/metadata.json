@@ -1,0 +1,32 @@
+{
+    "id": "wtap",
+    "name": "WTap Network",
+    "website": "https://www.wtap.gg",
+    "store": "https://wtap.tebex.io/",
+    "addresses": [
+        "wtap.gg",
+        "eu.wtap.gg"
+    ],
+    "primaryAddress": "wtap.gg",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffd100",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+    ],
+    "socials": {
+        "discord":"https://discord.gg/D3CW2pWYag"
+    }
+}
