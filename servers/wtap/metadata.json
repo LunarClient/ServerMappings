@@ -24,8 +24,8 @@
     ],
     "primaryLanguage": "es-EN",
     "languages": [
-        "en-EN",
-        "es-ES"
+        "en",
+        "es-EN"
     ],
     "gameTypes": [
         "PvP"
