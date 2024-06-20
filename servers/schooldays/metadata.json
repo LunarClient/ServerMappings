@@ -1,0 +1,33 @@
+{
+    "id": "schooldays",
+    "name": "SchoolDays",
+    "website": "https://voice.schooldays.club/",
+    "store": "https://tienda.schooldays.club/",
+    "description": "The best Roleplay server!",
+    "addresses": [
+        "schooldays.club"
+    ],
+    "primaryAddress": "schooldays.club",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#fb8ee5",
+    "secondaryColor": "#7cd9fd",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/n7Fg8PdEMG",
+        "instagram": "schooldaysrp"
+    }
+}
