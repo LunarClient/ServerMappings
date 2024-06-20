@@ -8,7 +8,7 @@
     "primaryAddress": "play.welnox.club",
     "minecraftVersions": [
         "1.16.*",
-        "1.18.*"
+        "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
@@ -17,15 +17,14 @@
     "secondaryColor": "##ADD8E6",
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
         "Skyblock"
     ],
     "website": "https://welnox.club",
     "store": "https://store.welnox.club",
-    },
     "socials": {
         "tiktok": "welnox.club",
         "discord": "https://dc.welnox.club"
