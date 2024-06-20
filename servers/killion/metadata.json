@@ -24,8 +24,6 @@
   ],
   "gameTypes": [
     "Prison",
-    "PvP",
-    "PvE",
     "Hardcore",
     "Open World"
   ],
