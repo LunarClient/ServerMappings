@@ -2,14 +2,14 @@
     "id": "wtap",
     "name": "WTap Network",
     "description": "A enhanced PvP server made by players for players.",
-    "store": "https://trainingpvp.tebex.io/",
+    "store": "https://wtap.tebex.io/",
     "addresses": [
         "wtap.gg",
         "na.wtap.gg",
         "eu.wtap.gg",
     ],
     "primaryAddress": "wtap.gg",
-    "primaryColor": "#ffd100",
+    "primaryColor": "#ffff00",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.",
@@ -31,5 +31,4 @@
     ],
     "socials": {
         "discord": "https://discord.gg/D3CW2pWYag"
-    }
 }
