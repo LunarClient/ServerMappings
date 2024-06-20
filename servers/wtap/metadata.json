@@ -1,37 +1,32 @@
 {
     "id": "wtap",
     "name": "WTap Network",
-    "description": "A enhanced PvP server made by players for players",
+    "website": "https://www.wtap.gg",
+    "store": "https://wtap.tebex.io/",
     "addresses": [
         "wtap.gg",
-        "na.wtap.gg",
         "eu.wtap.gg"
     ],
     "primaryAddress": "wtap.gg",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.8.*",
+        "1.7.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ffd100",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "en"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU"
+        "NA"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
     ],
-    "website": "https://www.wtap.gg",
-    "store": "https://wtap.tebex.io",
-    },
     "socials": {
-        "discord": "https://discord.gg/D3CW2pWYag""
-    },
-    "crossplay": false
+        "discord":"https://discord.gg/D3CW2pWYag"
+    }
 }
