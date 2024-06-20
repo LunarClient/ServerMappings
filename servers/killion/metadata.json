@@ -31,6 +31,7 @@
   ],
   "primaryColor": "#FFBA08",
   "secondaryColor": "#201E1F",
+  "crossplay": false,
   "socials": {
     "discord": "https://discord.gg/kdc-relaunch",
     "twitter": "https://x.com/killionrevival/",
