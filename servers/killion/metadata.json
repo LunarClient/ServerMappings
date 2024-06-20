@@ -1,0 +1,40 @@
+{
+  "id": "killion",
+  "name": "Killion Detention Center Revival",
+  "description": "A revival of the original Killion Detention Center, a hardcore/OG prison server.",
+  "store": "https://https://buy.killionrevival.co/",
+  "addresses": [
+    "killionrevival.co"
+  ],
+  "primaryAddress": "mc.killionrevival.co",
+  "minecraftVersions": [
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "PvP",
+    "PvE",
+    "Hardcore",
+    "Open World"
+  ],
+  "primaryColor": "#FFBA08",
+  "secondaryColor": "#201E1F",
+  "socials": {
+    "discord": "https://discord.gg/kdc-relaunch",
+    "twitter": "https://x.com/killionrevival/",
+    "instagram": "https://www.instagram.com/killionrevival/",
+    "tiktok": "https://www.tiktok.com/@killionrevival",
+    "youtube": "https://www.youtube.com/@KillionDetentionCenter-jc6jo"
+  }
+}
