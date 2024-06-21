@@ -13,8 +13,7 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.3",
     "primaryRegion": "EU",
@@ -25,9 +24,7 @@
         "Survival",
         "Factions",
         "Prison",
-        "Roleplay",
-        "PvP",
-        "OneBlock"
+        "PvP"
     ],
     "socials": {
         "discord": "https://www.serb-craft.com/discord",
