@@ -23,8 +23,7 @@
     "gameTypes": [
         "Survival",
         "Factions",
-        "Prison",
-        "PvP"
+        "Prison"
     ],
     "socials": {
         "discord": "https://www.serb-craft.com/discord",
