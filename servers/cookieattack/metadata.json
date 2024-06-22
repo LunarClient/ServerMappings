@@ -1,0 +1,30 @@
+{
+    "id": "cookieattack",
+    "name": "CookieAttack",
+    "description": "Server mit den meisten Cookies!",
+    "addresses": [
+        "cookieattack.me"
+    ],
+    "primaryAddress": "play.cookieattack.me",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.5",
+    "primaryColor": "#ffa500",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/cbsPGsGbdN"
+    },
+    "crossplay": true
+}
