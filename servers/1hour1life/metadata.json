@@ -22,5 +22,9 @@
     "socials": {
       "discord": "https://discord.gg/m98Fj6uWeD"
     },
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "crossplay": true
 }
