@@ -1,6 +1,7 @@
 {
     "id": "axes",
     "name": "Axes Network",
+    "description": "Minigame and pvp network owned by VibrantSkies and GoCryin"
     "addresses": [
         "axes.lol"
     ],
