@@ -35,7 +35,7 @@
     ],
     "website": "https://axes.lol",
     "store": "https://store.axes.lol",
-    "compliance": {
+    "compliance": [
         "privacyPolicy": "none",
         "termsOfService": "none",
         "rules": "in discord"
@@ -45,7 +45,5 @@
         "twitter": "NONE",
         "telegram": "NONE",
         "discord": "http://discord.axes.lol/"
-    ],
-    "crossplay": true
-   ]
+    ]
 }
