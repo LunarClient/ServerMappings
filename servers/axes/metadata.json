@@ -24,7 +24,7 @@
     "regions": [
         "EU"
     ],
-    "gameTypes": [
+    "gameTypes": {
         "PvP"
-    ]
+    }
 }
