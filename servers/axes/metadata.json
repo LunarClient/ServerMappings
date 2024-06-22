@@ -41,11 +41,11 @@
         "rules": "in discord"
     ],
     "presentationVideo": "7EV4cPuJvXE",
-    "socials": {
+    "socials": [
         "twitter": "NONE",
         "telegram": "NONE",
         "discord": "http://discord.axes.lol/"
     ],
-    "crossplay": false
+    "crossplay": true
    ]
 }
