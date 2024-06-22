@@ -1,7 +1,7 @@
 {
-    "id": "axes",
+    "id": "axesnetwork",
     "name": "Axes Network",
-    "description": "Multi gamemode network consisting of bedwars, practice, bots, survival with more to come",
+    "description": "Minigame network consisting of many gamemodes",
     "addresses": [
         "axes.lol"
     ],
@@ -10,40 +10,41 @@
         "1.7.*",
         "1.8.*",
         "1.12.*",
-        "1.16.*", 
+        "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*",      
+        "1.20.*",
+        "1.21.*",
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#A020F0",
-    "secondaryColor": "#FFFFFF",
+    "secondaryColor": "#808080",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "PRACTICE",
-        "BOT PRACTICE",
-        "BEDWARS",
-        "SURVIVAL"
+        "Survival",
+        "PvP",
+        "Minigames"
     ],
-    "website": "https://axes.lol",
-    "store": "https://store.axes.lol",
-    "compliance": [
+    "website": "https://www.axes.lol",
+    "store": "none",
+    "compliance": {
         "privacyPolicy": "none",
         "termsOfService": "none",
-        "rules": "in discord"
-    ],
-    "presentationVideo": "7EV4cPuJvXE",
-    "socials": [
-        "twitter": "NONE",
-        "telegram": "NONE",
-        "discord": "http://discord.axes.lol/"
-    ]
+        "rules": "discord.axes.lol"
+    },
+    "presentationVideo": "none",
+    "socials": {
+        "twitter": "none",
+        "telegram": "none",
+        "discord": "discord.axes.lol"
+    },
+    "crossplay": true
 }
