@@ -1,12 +1,10 @@
 {
     "id": "wtap",
     "name": "WTap Network",
-    "description": "A enhanced PvP server made by players for players.",
+    "description": "An enhanced PvP server made by players for players.",
     "store": "https://wtap.tebex.io/",
     "addresses": [
-        "wtap.gg",
-        "na.wtap.gg",
-        "eu.wtap.gg"
+        "wtap.gg"
     ],
     "primaryAddress": "wtap.gg",
     "primaryColor": "#ffd100",
