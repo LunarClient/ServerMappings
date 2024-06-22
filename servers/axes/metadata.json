@@ -32,19 +32,5 @@
         "Survival",
         "PvP",
         "Minigames"
-    ],
-    "website": "https://www.axes.lol",
-    "store": "none",
-    "compliance": {
-        "privacyPolicy": "none",
-        "termsOfService": "none",
-        "rules": "discord.axes.lol"
-    },
-    "presentationVideo": "none",
-    "socials": {
-        "twitter": "none",
-        "telegram": "none",
-        "discord": "discord.axes.lol"
-    },
-    "crossplay": true
+    ]
 }
