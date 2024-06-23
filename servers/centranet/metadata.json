@@ -1,6 +1,7 @@
 {
     "id": "centranet",
     "name": "Centra Network",
+    "store": "https://store.centranet.work",
     "addresses": [
         "centranet.work"
     ],
