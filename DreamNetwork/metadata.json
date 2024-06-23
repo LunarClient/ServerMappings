@@ -1,0 +1,28 @@
+{
+    "id": "DreamNetwork",
+    "name": "DreamNetwork",
+    "store": "http://store.dreamnetwork.it/",
+    "addresses": [
+        "dreamnetwork.it"
+    ],
+    "primaryAddress": "play.dreamnetwork.it",
+    "primaryColor": "#d8bd6f",
+    "secondaryColor": "#fff8e7",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",  
+        "1.10.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/dream-network"
+    }
+}
