@@ -1,0 +1,40 @@
+{
+    "id": "ezar",
+    "name": "Ezar Network",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "ezar.it"
+    ],
+    "primaryAddress": "ezar.it",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#d200b0",
+    "secondaryColor": "#9f1d8a",
+    "primaryLanguage": "it",
+    "languages": [
+        "en",
+	"it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.ezar.it",
+    "store": "https://store.ezar.it",
+    "compliance": {
+        "privacyPolicy": "https://www.ezar.it/privacy",
+        "termsOfService": "https://www.ezar.it/terms",
+        "rules": "https://www.ezar.it/rules"
+    },
+    "socials": {
+        "telegram": "ezarmc",
+        "discord": "https://www.lunar.gg/discord"
+    },
+    "crossplay": false
+}
