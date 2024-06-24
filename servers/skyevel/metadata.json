@@ -25,10 +25,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Skyblock",
-        "Survival",
-        "Open World",
-        "Adventure"
+        "Skyblock"
     ],
     "socials": {
         "discord": "https://discord.com/invite/skyevel"
