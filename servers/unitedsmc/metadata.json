@@ -3,7 +3,7 @@
     "name": "UnitedsMC",
     "description": "SMP server with PVP",
     "addresses": [
-      "play.unitedsmc.xyz"
+      "unitedsmc.xyz"
     ],
     "primaryAddress": "play.unitedsmc.xyz",
     "gameTypes": [
