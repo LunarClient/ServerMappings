@@ -13,6 +13,9 @@
     "primaryColor": "#FFFFFF",
     "secondaryColor": "#D93E3E",
     "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
       "Roleplay",
       "Survival",
