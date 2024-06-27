@@ -3,7 +3,7 @@
     "name": "LotusMC",
     "store": "https://store.lotusmc.net/",
     "addresses": [
-        "play.lotusmc.net"
+        "lotusmc.net"
     ],
     "primaryAddress": "play.lotusmc.net",
     "minecraftVersions": [
