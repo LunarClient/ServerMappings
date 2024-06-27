@@ -25,10 +25,7 @@
         "SA"
     ],
     "gameTypes": [
-        "PvP",
-        "PvE",
-        "Survival",
-        "Skyblock"
+        "Survival"
     ],
     "store": "https://tienda.razercraft.me",
     "socials": {
