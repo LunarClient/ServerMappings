@@ -2,6 +2,7 @@
     "id": "oceanias",
     "name": "Oceanias",
     "store": "https://store.oceanias.net/",
+    "crossplay": false,
     "primaryAddress": "play.oceanias.net",
     "addresses": [
         "oceanias.net"
