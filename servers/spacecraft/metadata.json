@@ -5,8 +5,7 @@
     "store": "https://store.spacecraftnetwork.it/",
     "description": "SpaceCraft is a innovative italian roleplay server",
     "addresses": [
-        "spacecraftnetwork.it",
-        "mc.spacecraftnetwork.it"
+        "spacecraftnetwork.it"
     ],
     "primaryAddress": "play.spacecraftnetwork.it",
     "minecraftVersions": [
