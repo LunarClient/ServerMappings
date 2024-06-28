@@ -1,0 +1,38 @@
+{
+    "id": "demonspvp",
+    "name": "DemonsPvP Network",
+    "website": "https://www.demonspvp.us/",
+    "store": "https://store.demonspvp.us/",
+    "description": "Where the real PvP takes place",
+    "addresses": [
+        "eu.demonspvp.us",
+        "demonspvp.us",
+        "uhc.demonspvp.us"
+    ],
+    "primaryAddress": "eu.demonspvp.us",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+		"UHC",
+		"HCF"
+    ],
+    "socials": {
+        "twitter": "DemonsNetworkUS",
+        "discord": "https://discord.com/invite/jtG4HBk9u3",
+    }
+}
