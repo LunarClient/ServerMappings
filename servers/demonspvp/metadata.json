@@ -5,14 +5,12 @@
     "store": "https://store.demonspvp.us/",
     "description": "Where the real PvP takes place",
     "addresses": [
-        "eu.demonspvp.us",
-        "demonspvp.us",
-        "uhc.demonspvp.us"
+        "demonspvp.us"
     ],
     "primaryAddress": "eu.demonspvp.us",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.7.10",
+        "1.8.9"
     ],
     "primaryMinecraftVersion": "1.7.10",
     "primaryColor": "#FF5555",
@@ -21,15 +19,15 @@
     "languages": [
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU"
     ],
     "gameTypes": [
         "PvP",
-		"UHC",
-		"HCF"
+	"UHC",
+	"HCF"
     ],
     "socials": {
         "twitter": "DemonsNetworkUS",
