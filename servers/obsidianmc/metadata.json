@@ -1,0 +1,27 @@
+{
+    "id": "obsidianmc",
+    "name": "ObsidianMC",
+    "store": "https://store.obsidianmc.eu/",
+    "description": "ObsidianMC brings new features and quality towards the server.",
+    "addresses": [
+        "obsidianmc.eu"
+    ],
+    "primaryAddress": "obsidianmc.eu",
+    "primaryColor": "#e358ff",
+    "secondaryColor": "#b732ff",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/obbymc"
+    }
+}
