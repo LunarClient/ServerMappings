@@ -8,6 +8,7 @@
     ],
     "primaryColor": "#9933FF",
     "secondaryColor": "#b266FF",
+    "website": "https://alice-magic.com",
     "primaryMinecraftVersion": "1.20.4",
     "minecraftVersions": [
         "1.20.*"
