@@ -40,7 +40,6 @@
         "discord": "https://discord.gg/dupe"
     },
     "compliance": {
-        "rules": "https://rules.minecrush.gg",
-        "support": "mailto:support@minecrush.gg"
+        "rules": "https://rules.minecrush.gg"
     }
 }
