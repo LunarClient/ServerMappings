@@ -33,7 +33,6 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
         "Hardcore",
         "Factions"
     ],
