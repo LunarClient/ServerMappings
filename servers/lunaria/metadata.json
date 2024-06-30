@@ -1,0 +1,38 @@
+{
+    "id": "lunaria",
+    "name": "Lunaria",
+    "description": "Lunaria est un serveur mini-jeux disponible de la 1.8 à la 1.13.",
+    "addresses": [
+        "lunaria-mc.net"
+    ],
+    "primaryAddress": "play.lunaria-mc.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#4777BE",
+    "secondaryColor": "#80B2D7",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://lunaria-mc.net",
+    "store": "https://lunaria-mc.net/shop/",
+    "socials": {
+        "twitter": "Lunaria_Net",
+        "discord": "https://discord.com/invite/aJN26z3JQM"
+    }
+}
