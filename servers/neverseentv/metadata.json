@@ -1,0 +1,33 @@
+{
+    "id": "neverseentv",
+    "name": "NeverseenTV",
+    "website": "https://neverseentv.de",
+    "description": "Spiele jetzt mit unserer Community!",
+    "addresses": [
+        "neverseentv.de",
+        "play.neverseentv.de",
+        "mc.neverseentv.de"
+    ],
+    "primaryAddress": "neverseentv.de",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.20.4<*" //1.20.4 and up
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/neverseen",
+        "youtube": "@neverseen_tv"
+    }
+}
