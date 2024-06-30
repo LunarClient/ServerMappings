@@ -32,9 +32,11 @@
         "en"
     ],
     "gameTypes": [
-        "Lifesteal",
         "PvP",
-        "Survival"
+        "Survival",
+        "Hardcore",
+        "Factions",
+        "Open World"
     ],
     "socials": {
         "discord": "https://discord.gg/dupe"
