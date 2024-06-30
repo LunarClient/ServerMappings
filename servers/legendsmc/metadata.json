@@ -18,8 +18,8 @@
     ],
     "primaryMinecraftVersion": "1.16.5",
     "gameTypes": [
-        "BoxPvP",
-        "Gens"
+        "Survival",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://legendsmc.es/discord"
