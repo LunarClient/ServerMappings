@@ -1,0 +1,32 @@
+{
+	"id": "familymichy",
+	"name": "Familymichy",
+	"description": "Follow Us on twitch.tv/lornychi",
+	"addresses": [
+		"familymichy.playwn.co"
+	],
+	"primaryAddress": "familymichy.playwn.co",
+	"minecraftVersions": [
+		"1.20.4"
+	],
+	"primaryMinecraftVersion": "1.20.4",
+	"primaryColor": "#FFFFFF",
+	"secondaryColor": "#D93E3E",
+	"primaryLanguage": "en",
+	"languages": [
+		"en"
+	],
+	"gameTypes": [
+		"Roleplay",
+		"Survival",
+		"Open World"
+	],
+	"socials": {
+		"discord": "https://discord.com/invite/SzvxhWCkST"
+	},
+	"primaryRegion": "EU",
+	"regions": [
+		"EU"
+	],
+	"crossplay": true
+}
