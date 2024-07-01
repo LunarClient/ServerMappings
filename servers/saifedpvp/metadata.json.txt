@@ -1,0 +1,49 @@
+{
+    "id": "saifedpvp",
+    "name": "SaifedPvP",
+    "website": "https://saifedpvp.club",
+    "store": "https://saifedpvp.tebex.io",
+    "description": "The #1 Spanish-speaking Minecraft server for more than 3 years ",
+    "addresses": [
+        "saifedpvp.club"
+    ],
+    "primaryAddress": "saifedpvp.club",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "gameTypes": [
+        "Skywars",
+        "Survival",
+        "Practice",
+        "BoxPvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Jrtg7TdxQN"
+        "youtube": "https://www.youtube.com/@SaifedPvPNetwork"
+    }
+}
