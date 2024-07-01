@@ -1,0 +1,34 @@
+{
+	"id": "familymichy",
+	"name": "Familymichy",
+	"description": "twitch/lornychi",
+	"addresses": [
+		"Familymichy.playwn.co"
+	],
+	"primaryAddress": "Familymichy.playwn.co",
+	"primaryColor": "#5adfee",
+	"secondaryColor": "#dbe3e7",
+	"minecraftVersions": [
+        "1.20.4.*"
+
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+	"primaryRegion": "es-EN",
+    "primaryColor": "#98f5f9",
+    "secondaryColor": "#060270",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+	],
+		"primaryRegion": "NA",
+		"regions": [
+			"NA"
+
+    ],
+	"gameTypes": [
+		"Survival"
+	],
+	"socials": {
+		"discord": "discord.gg/familymichy"
+	}
+}
