@@ -9,26 +9,16 @@
 	"primaryColor": "#5adfee",
 	"secondaryColor": "#dbe3e7",
 	"minecraftVersions": [
-        "1.20.4.*"
-
+        "1.20.4.*",
+		"1.20.5.*",
+		"1.20.6.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
-	"primaryRegion": "es-EN",
-    "primaryColor": "#98f5f9",
-    "secondaryColor": "#060270",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-	],
-		"primaryRegion": "NA",
-		"regions": [
-			"NA"
-
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
     ],
-	"gameTypes": [
-		"Survival"
-	],
-	"socials": {
-		"discord": "discord.gg/familymichy"
-	}
+    "gameTypes": [
+        "Survival"
+    ]
 }
