@@ -1,7 +1,7 @@
 {
     "id": "saifedpvp",
     "name": "saifedpvp",
-    "website": "discord.saifedpvp.club",
+    "website": "https://discord.saifedpvp.club",
     "store": "https://saifedpvp.tebex.io",
     "description": "The #1 Spanish-speaking Minecraft server for more than 3 years ",
     "addresses": [
@@ -39,10 +39,6 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Adventure",
-        "Minigames",
-        "Open World",
-        "Practice"
     ],
     "socials": {
         "discord": "https://discord.com/invite/Jrtg7TdxQN",
