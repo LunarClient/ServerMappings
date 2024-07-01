@@ -1,7 +1,7 @@
 {
     "id": "saifedpvp",
     "name": "saifedpvp",
-    "website": "https://saifedpvp.club",
+    "website": "discord.saifedpvp.club",
     "store": "https://saifedpvp.tebex.io",
     "description": "The #1 Spanish-speaking Minecraft server for more than 3 years ",
     "addresses": [
@@ -32,18 +32,20 @@
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "en",
     "languages": [
-        "es"
+        "en"
     ],
     "gameTypes": [
-        "Skywars",
+        "PvP",
         "Survival",
-        "Practice",
-        "BoxPvP"
+        "Adventure",
+        "Minigames",
+        "Open World",
+        "Practice"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/Jrtg7TdxQN"
+        "discord": "https://discord.com/invite/Jrtg7TdxQN",
         "youtube": "https://www.youtube.com/@SaifedPvPNetwork"
     }
 }
