@@ -1,19 +1,17 @@
 {
-	"id": "familymichy",
-	"name": "Familymichy",
-	"description": "twitch/lornychi",
-	"addresses": [
-		"Familymichy.playwn.co"
-	],
-	"primaryAddress": "Familymichy.playwn.co",
-	"primaryColor": "#5adfee",
-	"secondaryColor": "#dbe3e7",
-	"minecraftVersions": [
-        "1.20.4.*",
-		"1.20.5.*",
-		"1.20.6.*"
+    "id": "familymichy",
+    "name": "Familymichy",
+    "description": "Familymichy | Community",
+    "addresses": [
+        "familymichy.playwn.co"
     ],
-    "primaryMinecraftVersion": "1.12.2",
+    "primaryAddress": "familymichy.playwn.co",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "minecraftVersions": [
+        "1.20.*",
+    ],
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
