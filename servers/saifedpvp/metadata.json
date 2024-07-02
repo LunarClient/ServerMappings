@@ -1,7 +1,6 @@
 {
     "id": "saifedpvp",
     "name": "SaifedPvP Network",
-    "website": "https://discord.saifedpvp.club",
     "store": "https://saifedpvp.tebex.io",
     "description": "The #1 Spanish-speaking Minecraft server for more than 3 years ",
     "addresses": [
@@ -11,24 +10,14 @@
     "primaryColor": "#FFFF55",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
-        "1.8.9",
-        "1.12.2",
-        "1.16.5",
-        "1.17.1",
-        "1.18.1",
-        "1.18.2",
-        "1.19",
-        "1.19.2",
-        "1.19.3",
-        "1.19.4",
-        "1.20",
-        "1.20.1",
-        "1.20.2",
-        "1.20.3",
-        "1.20.4",
-        "1.20.5",
-        "1.20.6",
-        "1.21"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
@@ -46,6 +35,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/Jrtg7TdxQN",
-        "youtube": "https://www.youtube.com/@SaifedPvPNetwork"
+        "youtube": "@SaifedPvPNetwork"
     }
 }
