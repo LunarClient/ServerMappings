@@ -11,6 +11,9 @@
         "1.20.*"
     ],
     "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "Survival"
     ],
