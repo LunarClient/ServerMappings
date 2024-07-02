@@ -1,0 +1,41 @@
+{
+    "id": "reality",
+    "name": "Reality Roleplay",
+    "description": "Join Reality for the best Roleplay experience in Italy!",
+    "addresses": [
+        "realityrp.it"
+    ],
+    "primaryAddress": "realityrp.it",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#FD4BFF",
+    "secondaryColor": "#BE44F1",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "website": "https://www.realityrp.it",
+    "store": "https://store.realityrp.it",
+    "compliance": {
+        "privacyPolicy": "https://www.realityrp.it/privacy",
+        "termsOfService": "https://www.realityrp.it/terms",
+        "rules": "https://www.realityrp.it/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/8z5wvPTC",
+        "telegram": "RealityRoleplays",
+        "tiktok": "realityrp.it"
+    },
+    "crossplay": false
+}
