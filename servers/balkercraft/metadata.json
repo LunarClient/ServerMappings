@@ -12,7 +12,6 @@
     "secondaryColor": "#fed526",
     "minecraftVersions": [
         "1.8.*",
-        "1.16.4",
         "1.16.5",
         "1.17.*",
         "1.18.*",
@@ -28,11 +27,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
-        "Skyblock",
         "Minigames",
-        "Survival",
-        "Creative"
+        "Survival"
     ],
     "socials": {
         "tiktok": "balkercraft",
