@@ -1,0 +1,38 @@
+{
+    "id": "revengenetwork",
+    "name": "Revenge Network",
+    "description": "¡Comunidad Hispanohablante de Minecraft!",
+    "store": "https://tienda.revengenetwork.es/",
+    "addresses": [
+        "revengenetwork.es"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryAddress": "revengenetwork.es",
+    "primaryColor": "#e55729",
+    "secondaryColor": "#f4a82b",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Adventure",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "RevengeNTW",
+        "discord": "https://discord.gg/MGD8Ej9n9M",
+        "youtube": "@RevengeNTW",
+        "instagram": "revengentw",
+        "facebook": "RevengeNetwork",
+        "tiktok": "revengentw"
+    }
+}

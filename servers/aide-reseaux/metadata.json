@@ -1,0 +1,36 @@
+{
+  "id": "aide-reseaux",
+  "name": "Aide Réseaux",
+  "description": "Serveur Minecraft d'animations d'Aide Réseaux.",
+  "addresses": [
+    "aidereseaux.fr"
+  ],
+  "primaryAddress": "aidereseaux.fr",
+  "minecraftVersions": [
+    "1.20.4"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "primaryColor": "#01a8f4",
+  "secondaryColor": "#57f287",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "presentationVideo": "LzfZGMZkIlI",
+  "socials": {
+    "twitter": "AideReseaux",
+    "discord": "https://discord.gg/reseaux",
+    "youtube": "@AideReseaux",
+    "instagram": "aidereseaux",
+    "twitch": "aidereseaux",
+    "tiktok": "aidereseaux"
+  },
+  "crossplay": false
+}

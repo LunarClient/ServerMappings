@@ -6,7 +6,8 @@
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "lunar.gg",
-        "lunargg.dev"
+        "lunargg.dev",
+        "apollo.lunarclient.com"
     ],
     "primaryAddress": "lunar.gg",
     "minecraftVersions": [

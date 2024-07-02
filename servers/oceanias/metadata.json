@@ -1,0 +1,35 @@
+{
+    "id": "oceanias",
+    "name": "Oceanias",
+    "store": "https://store.oceanias.net/",
+    "crossplay": false,
+    "primaryAddress": "play.oceanias.net",
+    "addresses": [
+        "oceanias.net"
+    ],
+    "primaryColor": "#9D00FF",
+    "secondaryColor": "#4FEFFF",
+    "primaryMinecraftVersion": "1.20.4",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/oceanias/",
+        "youtube": "@webceanias"
+    }
+}
