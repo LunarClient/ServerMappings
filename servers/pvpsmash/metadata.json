@@ -1,33 +1,21 @@
 {
-    "id": "pvpsmash",
+    "id": "PvPSmash",
     "name": "PvPSmash",
-    "description": "Best PvP server in arena",
     "addresses": [
         "pvpsmash.mine.gg"
     ],
     "primaryAddress": "pvpsmash.mine.gg",
-    "minecraftVersions": [
-        "1.8.9*"
-    ],
+    "primaryColor": "#FF9700",
+    "secondaryColor": "#130B76",
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#929292",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr",
-        "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU",
+    "minecraftVersions": [
+        "1.8.*"
     ],
     "gameTypes": [
-        "Minigames",
-        "PvP",
-        "Arena"
+        "Factions",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/vhs4ZZKJXP"
+        "discord": "https://discord.com/invite/vhs4ZZKJXP"
     }
 }
-
