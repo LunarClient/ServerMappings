@@ -1,0 +1,25 @@
+{
+    "id": "evamc",
+    "name": "EVAMC",
+    "description": "The most awesome Prison Experience!",
+    "addresses": [
+        "evamc.us"
+    ],
+    "primaryAddress": "play.evamc.us",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#c20025",
+    "secondaryColor": "#403d3d",
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "store": "https://buy.evamc.us",
+    "socials": {
+        "discord": "https://discord.gg/gq2TTMr66b"
+    },
+    "crossplay": false
+}

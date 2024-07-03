@@ -18,8 +18,10 @@ jobs:
       dry: ${{ steps.filter.outputs.dry }}
     steps:
       - name: Checkout from Github
-        uses: actions/checkout@v3
-      - uses: dorny/paths-filter@v2
+        uses: actions/checkout@v4
+
+      - name: Determine Changes
+        uses: dorny/paths-filter@v3
         id: filter
         with:
           list-files: json
@@ -39,13 +41,13 @@ jobs:
 
     steps:
       - name: Checkout from GitHub
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -77,10 +79,10 @@ jobs:
 
     steps:
       - name: Checkout from GitHub
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -100,6 +102,7 @@ jobs:
           --servers_backgrounds_output .out/backgrounds \
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
+          --servers_wordmarks_output .out/wordmarks \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
