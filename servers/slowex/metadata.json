@@ -4,8 +4,7 @@
     "website": "https://www.slowex.live",
     "store": "https://tienda.slowex.live/",    
     "addresses": [
-        "slowex.live",
-        "play.slowex.live"
+        "slowex.live"
     ],
     "primaryAddress": "slowex.live",
     "minecraftVersions": [
@@ -28,6 +27,6 @@
         "Survival"
     ],
     "socials": {    
-        "discord":"https://discord.gg/JUQTfNzbeF"
+        "discord": "https://discord.gg/JUQTfNzbeF"
     }
 }  
