@@ -10,7 +10,7 @@
     "primaryColor": "#ecb94f",
     "secondaryColor": "#372826",
     "minecraftVersions": [
-        "1.20.4<*" //1.20.4 and up
+        "1.20.4<*"
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryLanguage": "de",
