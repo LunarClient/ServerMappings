@@ -1,0 +1,33 @@
+{
+    "id": "slowex",
+    "name": "slowex Network",
+    "website": "https://www.slowex.live",
+    "store": "https://tienda.slowex.live/",    
+    "addresses": [
+        "slowex.live",
+        "play.slowex.live"
+    ],
+    "primaryAddress": "Slowex.live",
+    "minecraftVersions": [
+        "1.20.1.*",
+        "1.8.9*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#37F1F7",
+    "secondaryColor": "#BAE7F5",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {    
+        "discord":"https://discord.gg/JUQTfNzbeF"
+    }
+}  
