@@ -2,9 +2,9 @@
     "id": "pvpsmash",
     "name": "PvPSmash",
     "addresses": [
-        "pvpsmash.mine.gg"
+        "play.pvpsmash..xyz"
     ],
-    "primaryAddress": "pvpsmash.mine.gg",
+    "primaryAddress": "play.pvpsmash..xyz",
     "primaryColor": "#FF9700",
     "secondaryColor": "#130B76",
     "primaryMinecraftVersion": "1.8.9",
