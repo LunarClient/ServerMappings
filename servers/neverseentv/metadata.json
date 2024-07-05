@@ -4,9 +4,7 @@
     "website": "https://neverseentv.de",
     "description": "Spiele jetzt mit unserer Community!",
     "addresses": [
-        "neverseentv.de",
-        "play.neverseentv.de",
-        "mc.neverseentv.de"
+        "neverseentv.de"
     ],
     "primaryAddress": "neverseentv.de",
     "primaryColor": "#ecb94f",
