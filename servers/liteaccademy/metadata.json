@@ -32,8 +32,7 @@
     "store": "https://www.liteaccademy.net/store/",
     "compliance": {
         "privacyPolicy": "https://www.liteaccademy.net/privacy/",
-        "termsOfService": "https://www.liteaccademy.net/terms/",
-        "rules": "https://www.liteaccademy.net/forum/"
+        "termsOfService": "https://www.liteaccademy.net/terms/"
     },
     "socials": {
         "discord": "https://discord.gg/BJbcTsbRuj",
