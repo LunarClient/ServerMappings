@@ -12,7 +12,7 @@
     ],
     "primaryMinecraftVersion": "1.20.1",
     "gameTypes": [
-        "PVP",
+        "PvP",
         "Prison",
         "Minigames"
     ],
