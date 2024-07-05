@@ -1,0 +1,21 @@
+{
+    "id": "liroyo",
+    "name": "Liroyo Network",
+    "website": "https://liroyo.online/",
+    "store": "https://store.liroyo.online/",
+    "addresses": [
+        "liroyo.online"
+    ],
+    "primaryAddress": "liroyo.online",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "SkyMines",
+        "GunGame",
+        "Minigames"
+    ],
+    "primaryColor": "#6b6968",
+    "secondaryColor": "#1a130e"
+}
