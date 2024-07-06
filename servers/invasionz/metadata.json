@@ -20,10 +20,7 @@
     "gameTypes": [
         "PvP",
         "PvE",
-        "Survival",
-        "Open World",
-        "Adventure",
-        "Minigames"
+        "Survival"
     ],
     "website": "https://invasionz.net/",
     "store": "https://shop.invasionz.net/",
