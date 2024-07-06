@@ -1,0 +1,35 @@
+{
+    "id": "aquatic",
+    "name": "Aquatic Network",
+    "website": "https://www.aquaticnet.xyz",
+    "store": "https://aquatic.tebex.io/",    
+    "addresses": [
+        "mc.aquaticnet.xyz",
+        "play.aquaticnet.xyz",
+        "aquaticnet.xyz"
+    ],
+    "primaryAddress": "mc.aquaticnet.xyz",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#015DF2",
+    "secondaryColor": "#01F2A5",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {    
+        "discord": "https://discord.gg/fqW6mUVJpw"
+    }
+}  
