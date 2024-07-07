@@ -3,7 +3,8 @@
     "name": "PoisonBox",
     "store": "https://store.poisonbox.eu",
     "addresses": [
-        "poisonbox.eu"
+        "poisonbox.eu",
+        "bsbox.org"
     ],
     "primaryAddress": "play.poisonbox.eu",
     "primaryColor": "#0DCCF6",
@@ -15,7 +16,7 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.18.2",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -24,6 +25,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "http://discord.gg/poisonbox"
+        "discord": "https://discord.gg/poisonbox"
     }
 }

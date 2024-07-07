@@ -1,0 +1,49 @@
+{
+  "id": "starcrunch",
+  "name": "StarCrunch",
+
+  "website": "https://starcrunch.net",
+  "store": "https://store.starcrunch.net",
+
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+
+  "primaryColor": "#9603CB",
+  "secondaryColor": "#C467C6",
+
+  "addresses": [
+    "starcrunch.net"
+  ],
+  "primaryAddress": "starcrunch.net",
+
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "primaryRegion": "NA",
+
+  "socials": {
+    "discord": "https://discord.gg/9WJSyS3xwn",
+    "tiktok": "starcrunchmc"
+  },
+
+  "crossplay": true
+}
