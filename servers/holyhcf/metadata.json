@@ -28,8 +28,6 @@
     "gameTypes": [
         "HCF",
         "UHC",
-        "Annihilation",
-        "Practice",
         "PvP"
     ],
     "socials": {
