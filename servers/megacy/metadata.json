@@ -24,8 +24,6 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Roleplay",
-        "HCF",
-        "Open World"
+        "Roleplay"
     ]
 }
