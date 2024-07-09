@@ -1,47 +1,45 @@
 {
     "id": "farlands",
     "name": "FarLands",
+    "website": "https://docs.farlands.net.br",
+    "store": "https://loja.farlands.net.br",
     "description": "Servidor Towny Brasileiro",
     "addresses": [
-        "farlands.net.br",
-        "mc.farlands.net.br"
+        "farlands.net.br"
     ],
     "primaryAddress": "farlands.net.br",
+    "primaryColor": "#00b200",
+    "secondaryColor": "#4c4cff",
     "minecraftVersions": [
         "1.20.*",
         "1.21"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#00b200",
-    "secondaryColor": "#4c4cff",
-    "primaryLanguage": "pt-BR",
-    "languages": [
-        "en",
-        "es-EN",
-        "pt-BR"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "en",
+        "es-EN",
+        "pt-BR"
+    ],
     "gameTypes": [
         "PvP",
         "Roleplay",
         "Survival"
     ],
-    "website": "https://docs.farlands.net.br",
-    "store": "https://loja.farlands.net.br",
     "compliance": {
-        "privacyPolicy": "https://loja.farlands.net.br/termos",
         "termsOfService": "https://loja.farlands.net.br/termos",
         "rules": "https://docs.farlands.net.br/towny"
     },
-    "presentationVideo": "1pgfZjdPZfE",
     "socials": {
         "tiktok": "farlandsservidor",
-        "discord": "https://farlands.net.br/discord"
+        "discord": "https://discord.com/invite/UPNhAeEK4k"
     },
-    "crossplay": true
+    "presentationVideo": "1pgfZjdPZfE"
 }
