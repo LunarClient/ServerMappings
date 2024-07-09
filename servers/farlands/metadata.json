@@ -29,8 +29,7 @@
     "gameTypes": [
         "PvP",
         "Roleplay",
-        "Survival",
-        "Open World"
+        "Survival"
     ],
     "website": "https://docs.farlands.net.br",
     "store": "https://loja.farlands.net.br",
