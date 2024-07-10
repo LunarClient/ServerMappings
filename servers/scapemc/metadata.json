@@ -1,0 +1,31 @@
+{
+    "id": "scapemc",
+    "name": "ScapeMC",
+    "website": "https://comingsoon",
+    "store": "https://scapemc.store/",
+    "addresses": [
+        "scapemc.net"
+    ],
+    "primaryAddress": "scapemc.net",
+    "primaryColor": "#fb8a09",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "scape_network",
+        "discord": "https://discord.com/invite/eeU32wxxHM/",
+        "instagram": "scape_network"
+    }
+}
