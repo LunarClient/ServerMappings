@@ -15,9 +15,7 @@
     "primaryMinecraftVersion": "1.21",
     "gameTypes": [
         "Survival",
-        "PvP",
-        "Adventure",
-        "Factions"
+        "PvP"
     ],
     "socials": {
         "twitter": "scape_network",
