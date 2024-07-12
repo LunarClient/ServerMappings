@@ -2,6 +2,7 @@
     "id": "minesurvive",
     "name": "MineSurvive",
     "store": "https://store.minesurvive.com/",
+    "description": "",
     "addresses": [
         "play.minesurvive.com"
     ],
@@ -21,9 +22,9 @@
         "Survival"
     ],
     "socials": {
-        "tiktok": "https://tiktok.com/@minesurvive.com",
-        "youtube": "https://youtube.com/@PlayMineSurvive",
-        "twitter": "https://x.com/MineSurvive",
+        "tiktok": "minesurvive.com",
+        "youtube": "PlayMineSurvive",
+        "twitter": "MineSurvive",
         "discord": "https://discord.gg/minesurvive"
     },
     "crossplay": true
