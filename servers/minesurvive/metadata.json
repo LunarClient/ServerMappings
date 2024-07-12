@@ -25,5 +25,6 @@
         "youtube": "https://youtube.com/@PlayMineSurvive",
         "twitter": "https://x.com/MineSurvive",
         "discord": "https://discord.gg/minesurvive"
-    }
+    },
+    "crossplay": true
 }
