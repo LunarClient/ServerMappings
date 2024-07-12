@@ -1,12 +1,12 @@
 {
     "id": "healpvp",
-    "name": "HealPvP Network",
-    "website": "https://healpvp.com/",
-    "store": "https://store.healpvp.com/",
+    "name": "Healthys Network",
+    "website": "https://healthys.cc/",
+    "store": "https://tienda.healthys.cc/",
     "addresses": [
-        "healpvp.com"
+        "healthys.cc"
     ],
-    "primaryAddress": "healpvp.com",
+    "primaryAddress": "healthys.cc",
     "primaryColor": "#db213a",
     "secondaryColor": "#3f3e4c",
     "minecraftVersions": [
@@ -21,9 +21,9 @@
         "Adventure"
     ],
     "socials": {
-        "twitter": "HealPvP",
-        "discord": "https://discord.com/invite/healpvp",
-        "telegram": "healpvpcom",
-        "tiktok": "https://www.tiktok.com/@healpvp"
+        "twitter": "Healthys",
+        "discord": "https://discord.com/invite/healthys",
+        "telegram": "healthysnetwork",
+        "tiktok": "https://www.tiktok.com/@healthys"
     }
 }
