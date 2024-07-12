@@ -1,0 +1,34 @@
+{
+    "id": "hcteams",
+    "name": "HCTeams",
+    "website": "https://hcteams.org/",
+    "store": "https://store.hcteams.org/",
+    "addresses": [
+        "hcteams.org"
+    ],
+    "primaryAddress": "play.hcteams.org",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FF5555",
+    "gameTypes": [
+        "Factions",
+        "HCF",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hcteams"
+    },
+    "compliance": {
+        "privacyPolicy": "https://piratestudios.org/privacy",
+        "termsOfService": "https://piratestudios.org/terms",
+        "rules": "https://hcteams.org/rules/"
+    }
+}
