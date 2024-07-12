@@ -1,6 +1,6 @@
 {
     "id": "kodikanetwork",
-    "name": "KodikaNetwork",
+    "name": "Kodika Network",
     "store": "https://tienda.kodika.live/",
     "description": "Jugabilidad premium garantizada",
     "addresses": [
@@ -30,8 +30,8 @@
         "Minigames"
     ],
     "socials": {
-        "twitter": "KodikaNetwork",
+        "twitter": "https://x.com/KodikaNetwork",
         "discord": "https://discord.gg/ATCk2a3D3V",
-        "tiktok": "kodikanetwork"
+        "tiktok": "https://www.tiktok.com/@kodikanetwork"
     }
 }
