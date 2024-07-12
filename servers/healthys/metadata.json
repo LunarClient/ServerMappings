@@ -1,0 +1,22 @@
+{
+    "id": "healthys",
+    "name": "Healthys Network",
+    "website": "https://healthys.cc/",
+    "store": "https://store.healthys.cc/",
+    "addresses": [
+        "healthys.cc"
+    ],
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "Healthys",
+        "discord": "https://discord.com/invite/healthys",
+        "telegram": "healthysnetwork",
+        "tiktok": "https://www.tiktok.com/@healthys"
+    }
+}
