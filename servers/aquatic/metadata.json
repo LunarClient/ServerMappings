@@ -4,8 +4,6 @@
     "website": "https://www.aquaticnet.xyz",
     "store": "https://aquatic.tebex.io/",    
     "addresses": [
-        "mc.aquaticnet.xyz",
-        "play.aquaticnet.xyz",
         "aquaticnet.xyz"
     ],
     "primaryAddress": "mc.aquaticnet.xyz",
