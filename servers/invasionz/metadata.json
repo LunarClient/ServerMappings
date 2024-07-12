@@ -1,0 +1,40 @@
+{
+    "id": "invasionz",
+    "name": "InvasionZ",
+    "description": "Serveur DayZ PvP Mine Francais",
+    "addresses": [
+        "invasionz.net",
+        "lunamc.fr"
+    ],
+    "primaryAddress": "play.invasionz.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c22629",
+    "secondaryColor": "#3b8a36",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ],
+    "website": "https://invasionz.net/",
+    "store": "https://shop.invasionz.net/",
+    "compliance": {
+        "privacyPolicy": "https://invasionz.net/help/privacy-policy/",
+        "termsOfService": "https://invasionz.net/help/terms/",
+        "rules": "https://invasionz.net/reglement/"
+    },
+    "presentationVideo": "RGeExrUvPso",
+    "socials": {
+        "tiktok": "invasionz_off",
+        "youtube": "InvasionZ_Official",
+        "discord": "https://discord.gg/invasionz"
+
+    },
+    "crossplay": false
+}
