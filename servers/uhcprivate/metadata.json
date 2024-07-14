@@ -5,9 +5,8 @@
     "addresses": [
         "luuc.fr",
         "uhc.luuc.fr",
-        "baie-qua.luuc.fr"
     ],
-    "primaryAddress": "uhc.luuc.fr",
+    "primaryAddress": "luuc.fr",
     "minecraftVersions": [
         "1.8.*"
     ],
