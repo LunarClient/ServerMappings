@@ -1,0 +1,34 @@
+{
+    "id": "omletmc",
+    "name": "OmletMC",
+    "addresses": [
+        "omletmc.net"
+    ],
+    "primaryAddress": "omletmc.net",
+    "primaryColor": "#fb6b43",
+    "secondaryColor": "#f4cc25",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/omletmc",
+        "tiktok": "omletmc"
+    }
+}

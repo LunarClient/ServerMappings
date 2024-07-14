@@ -1,0 +1,21 @@
+{
+    "id": "pvpsmash",
+    "name": "PvPSmash",
+    "addresses": [
+        "pvpsmash.xyz"
+    ],
+    "primaryAddress": "pvpsmash.xyz",
+    "primaryColor": "#FF9700",
+    "secondaryColor": "#130B76",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/vhs4ZZKJXP"
+    }
+}

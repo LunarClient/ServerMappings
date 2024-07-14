@@ -6,7 +6,7 @@
         "hyfelia.com",
         "hyfelia.it"
     ],
-    "primaryAddress": "mc.hyfelia.it",
+    "primaryAddress": "play.hyfelia.it",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,9 +14,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.17.1",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#914ad9",
     "secondaryColor": "#ffffff",
     "primaryLanguage": "it",

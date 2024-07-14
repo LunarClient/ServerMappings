@@ -1,0 +1,27 @@
+{
+    "id": "border",
+    "name": "BorderIL",
+    "description": "BorderIL Network",
+    "addresses": [
+        "borderil.com"
+    ],
+    "primaryAddress": "borderil.com",
+    "primaryMinecraftVersion": "1.20.1",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://borderil.com",
+    "store": "https://borderil.com/store",
+    "primaryColor": "#ff3344",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "discord": "https://discord.gg/UQ9K5WrPPm"
+    }
+}
