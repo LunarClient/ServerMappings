@@ -8,7 +8,7 @@
         "1.8.*"
     ],
     "primaryAddress": "mc.polarismc.fun",
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#9D00D3",
     "secondaryColor": "#D300B6",
     "primaryLanguage": "es-ES",
