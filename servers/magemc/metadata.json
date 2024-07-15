@@ -3,7 +3,7 @@
   "name": "MageMC",
   "website": "https://magemc.nl",
   "store": "https://store.magemc.nl/",
-  "description": "MageMCMageMC is an international Minecraft server suitable for both Java and Bedrock players!",
+  "description": "MageMC is an international Minecraft server for both Java and Bedrock players!",
   "addresses": ["magemc.nl"],
   "primaryAddress": "play.magemc.nl",
   "minecraftVersions": ["1.20.*", "1.21"],
