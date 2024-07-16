@@ -2,12 +2,12 @@
     "id": "polarismc",
     "name": "PolarisMC",
     "addresses": [
-        "mc.polarismc.fun"
+        "polarismc.fun"
     ],
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryAddress": "mc.polarismc.fun",
+    "primaryAddress": "polarismc.fun",
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#9D00D3",
     "secondaryColor": "#D300B6",
