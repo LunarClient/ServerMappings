@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "xcold.net",
     "primaryColor": "#F12121  ",
-    "secondaryColor": "#F12121 ",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.20.*"
     ],
