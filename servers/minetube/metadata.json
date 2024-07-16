@@ -1,6 +1,7 @@
 {
     "id": "minetube",
     "name": "MineTube Network",
+    "description": "",
     "website": "https://minetube.cc/",
     "store": "https://minetube.cc/store",
     "addresses": [
@@ -30,6 +31,7 @@
         "Factions",
         "Prison"
     ],
+    "crossplay": false,
     "socials": {
         "discord": "https://minetube.cc/discord",
         "twitter": "https://x.com/MineTubeNetwork"
