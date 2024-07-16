@@ -4,7 +4,7 @@
     "website": "https://realmi.fi/",
     "store": "https://kauppa.realmi.fi/",
     "description": "Suomen Suosituin Minecraft -peliyhteisö. Liitythän mukaan!",
-    "crossplay": true
+    "crossplay": true,
     "addresses": [
         "realmi.fi"
     ],
