@@ -4,6 +4,7 @@
     "website": "https://realmi.fi/",
     "store": "https://kauppa.realmi.fi/",
     "description": "Suomen Suosituin Minecraft -peliyhteisö. Liitythän mukaan!",
+    "crossplay": true
     "addresses": [
         "realmi.fi"
     ],
@@ -32,9 +33,8 @@
         "instagram": "officialrealmi",
         "youtube": "realmi",
         "tiktok": "realmi.fi"
-    }
+    },
     "compliance": {
         "rules": "https://realmi.fi/saannot/"
-    },
-    "crossplay": true
+    }
 }
