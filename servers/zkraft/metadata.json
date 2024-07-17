@@ -1,0 +1,41 @@
+{
+    "id": "zkraft",
+    "name": "zKraft",
+    "website": "https://zkraft.net",
+    "store": "https://store.zkraft.net",
+    "description": "zKraft is a server that brings together java and bedrock players in some unique modes!",
+    "addresses": [
+        "mc.zkraft.net",
+        "mcb.zkraft.net"
+    ],
+    "primaryAddress": "mc.zkraft.net",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+	"crossplay": true,
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#f3b600",
+    "secondaryColor": "#262d37",
+	"primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+		"Minigames",
+		"Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.zkraft.net",
+        "instagram": "https://www.instagram.com/zkraft_gaming",
+        "telegram": "https://t.me/zkraft",
+        "tiktok": "https://www.tiktok.com/@zkraftmc"
+    }
+}
