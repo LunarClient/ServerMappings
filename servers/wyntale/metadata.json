@@ -1,0 +1,30 @@
+{
+    "id": "wyntale",
+    "name": "Wyntale",
+    "store": "https://shop.wyntale.fr/",
+    "addresses": [
+        "wyntale.fr"
+    ],
+    "primaryAddress": "play.wyntale.fr",
+    "primaryColor": "#930031",
+    "secondaryColor": "#facc48",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "wyntale",
+        "discord": "https://discord.com/invite/wyntale",
+        "youtube": "wyntale9563",
+        "tiktok": "wyntalemc"
+    }
+}

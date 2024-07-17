@@ -1,6 +1,7 @@
 {
     "id": "awitamc",
     "name": "AwitaMC Network",
+    "website": "https://www.awitamc.net/",
     "addresses": [
         "awitamc.net"
     ],
@@ -14,9 +15,17 @@
         "1.18.*",
         "1.19.*"
     ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Survival",
         "Creative"
     ],
-    "primaryMinecraftVersion": "1.17.1"
+    "socials": {
+        "twitter": "AwitaMC_",
+        "discord": "https://discord.com/invite/2UgyCDZkq9"
+    }
 }

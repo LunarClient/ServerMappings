@@ -6,9 +6,24 @@
     "addresses": [
         "bridger.land"
     ],
+    "primaryAddress": "mc.bridger.land",
     "primaryColor": "#f7b204",
     "secondaryColor": "#9c451f",
-    "primaryAddress": "bridger.land",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames"

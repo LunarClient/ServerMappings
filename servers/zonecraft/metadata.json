@@ -7,12 +7,7 @@
         "zonecn.es",
         "hypixel.es",
         "amamarla.com",
-        "banananetwork.es",
-        "darktimes.es",
-        "bedwars.es",
-        "zonehosting.net",
-        "skywars.es",
-        "pickaxe.es"
+        "zonehosting.net"
     ],
     "primaryAddress": "play.zonecraft.es",
     "primaryMinecraftVersion": "1.8.9",
@@ -22,7 +17,8 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20"
     ],
     "primaryLanguage": "es-EN",
     "languages": [

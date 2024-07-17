@@ -1,0 +1,40 @@
+{
+    "id": "eladornetwork",
+    "name": "Elador Network",
+    "description": "A minecraft network for everyone with Kingdom, WarSimulation, SMP and much more!",
+    "addresses": [
+        "eladornetwork.nl"
+    ],
+    "primaryAddress": "eladornetwork.nl",
+    "minecraftVersions": [
+        "1.12.2",
+        "1.18.2",
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#27de64",
+    "secondaryColor": "#08782f",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Roleplay"
+    ],
+    "website": "https://www.eladornetwork.nl",
+    "store": "https://store.eladornetwork.nl",
+    "socials": {
+        "instagram": "eladornetwork",
+        "youtube": "@EladorNetwork",
+        "tiktok": "@eladornetwork",
+        "twitter": "eladornetwork",
+        "discord": "https://discord.gg/3mjN3P97z4"
+    }
+}

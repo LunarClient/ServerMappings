@@ -6,8 +6,22 @@
     "addresses": [
         "blocksmc.com"
     ],
+    "primaryAddress": "play.blocksmc.com",
     "primaryColor": "#048acb",
     "secondaryColor": "#394047",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Minigames",
         "PvP"

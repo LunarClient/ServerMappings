@@ -1,0 +1,34 @@
+{
+    "id": "lifestealsmp",
+    "name": "LifeStealSMP",
+    "store": "https://store.lifestealsmp.com/",
+    "addresses": [
+        "mc.lifestealsmp.com",
+        "lifestealsmp.com",
+        "play.lifesteal.rip"
+    ],
+    "primaryAddress": "mc.lifestealsmp.com",
+    "primaryColor": "#ff0b0b",
+    "secondaryColor": "#600101",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/lifestealsmp"
+    }
+}

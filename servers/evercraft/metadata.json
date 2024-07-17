@@ -1,0 +1,40 @@
+{
+    "id": "evercraft",
+    "name": "EverCraft",
+    "description": "Network italiano sviluppato da un team sempre alla ricerca di gameplay unico!",
+    "addresses": [
+        "evercraft.it"
+    ],
+    "primaryAddress": "mc.evercraft.it",
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Factions"
+    ],
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#336699",
+    "primaryMinecraftVersion": "1.20.6",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "languages": [
+        "it"
+    ],
+    "primaryLanguage": "it",
+    "regions": [
+        "EU"
+    ],
+    "primaryRegion": "EU",
+    "store": "https://buy.evercraft.it/",
+    "website": "https://evercraft.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/3Yp6kt6C7X"
+    },
+    "crossplay": true
+}

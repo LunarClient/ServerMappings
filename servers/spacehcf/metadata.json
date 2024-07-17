@@ -1,0 +1,33 @@
+{
+    "id": "spacehcf",
+    "name": "SpaceHCF",
+    "store": "https://store.spacehcf.us/",
+    "addresses": [
+        "spacehcf.us"
+    ],
+    "primaryAddress": "spacehcf.us",
+    "primaryColor": "#e8282a",
+    "secondaryColor": "#fb7104",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/pd3ScyHEg7"
+    }
+}

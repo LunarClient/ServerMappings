@@ -10,6 +10,19 @@
     "primaryAddress": "play.coldnetwork.net",
     "primaryColor": "#0da1de",
     "secondaryColor": "#081723",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames"

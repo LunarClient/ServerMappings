@@ -1,0 +1,36 @@
+{
+    "id": "centrumpvp",
+    "name": "CentrumPvP",
+    "website": "https://centrumpvp.pl/",
+    "store": "https://centrumpvp.pl/sklep",
+    "addresses": [
+        "centrumpvp.pl",
+        "cpvp.pl"
+    ],
+    "primaryAddress": "centrumpvp.pl",
+    "primaryColor": "#f7c102",
+    "secondaryColor": "#0d0702",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/tcesyNyaCf",
+        "tiktok": "centrumpvp",
+        "facebook": "centrumpvppl"
+    }
+}

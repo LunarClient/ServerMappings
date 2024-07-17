@@ -2,6 +2,7 @@
     "id": "tubnet",
     "name": "TubNet",
     "website": "https://tubnet.gg/",
+    "description": "TubNet is a next-generation Minecraft server founded by Tubbo.",
     "addresses": [
         "tubnet.gg"
     ],
@@ -23,5 +24,6 @@
         "youtube": "UCYd_qJ7idcWMWmPQJqmwahQ",
         "twitch": "tubnet",
         "tiktok": "tubnetgg"
-    }
+    },
+    "presentationVideo": "5lKhhxS-KR0"
 }

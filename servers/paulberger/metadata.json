@@ -1,0 +1,29 @@
+{
+    "id": "paulberger",
+    "name": "Paulberger",
+    "store": "https://shopmc.paulberger.gg/",
+    "addresses": [
+        "paulberger.gg"
+    ],
+    "primaryAddress": "mc.paulberger.gg",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#0e99c9",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/paulberger"
+    }
+}

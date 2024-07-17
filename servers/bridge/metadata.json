@@ -1,0 +1,18 @@
+{
+    "id": "bridge",
+    "name": "Bridge Network",
+    "website": "https://bridge.rip/",
+    "store": "https://store.bridge.rip/",
+    "addresses": [
+        "bridge.rip"
+    ],
+    "primaryColor": "#f7b204",
+    "secondaryColor": "#ffffff",
+    "primaryAddress": "bridge.rip",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FDtUhWhdSh"
+    }
+}

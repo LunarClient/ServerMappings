@@ -1,0 +1,39 @@
+{
+    "id": "minepiece",
+    "name": "MinePiece",
+    "website": "https://minepiece.net/",
+    "store": "https://store.minepiece.net/",
+    "addresses": [
+        "minepiece.net"
+    ],
+    "primaryAddress": "play.minepiece.net",
+    "primaryColor": "#fdd035",
+    "secondaryColor": "#9e2f14",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/567B8MDVFS",
+        "youtube": "@PlayMinePiece",
+        "tiktok": "@playminepiece"
+    },
+    "compliance": {
+        "termsOfService": "https://minepiece.net/terms",
+        "rules": "https://minepiece.net/rules"
+    },
+    "presentationVideo": "v5zShJHf1hQ"
+}

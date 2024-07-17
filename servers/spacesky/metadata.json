@@ -1,0 +1,30 @@
+{
+    "id": "spacesky",
+    "name": "SpaceSky",
+    "website": "https://spacesky.fr/",
+    "store": "https://spacesky.fr/shop",
+    "addresses": [
+        "spacesky.fr"
+    ],
+    "primaryAddress": "play.spacesky.fr",
+    "primaryColor": "#ffa7f8",
+    "secondaryColor": "#5f2ea6",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "SpaceSky_MC",
+        "discord": "https://discord.com/invite/spacesky",
+        "youtube": "R3myMC",
+        "tiktok": "R3my_3"
+    }
+}

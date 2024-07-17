@@ -1,12 +1,38 @@
 {
     "id": "akumamc",
     "name": "AkumaMC",
+    "description" : "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
+    "website": "https://akumamc.net/",
+    "store": "https://store.akumamc.net/",
     "addresses": [
         "akumamc.net"
     ],
-    "gameTypes": [
-        "Prison"
+    "primaryAddress": "akumamc.net",
+    "primaryColor": "#ffbc28",
+    "secondaryColor": "#80573c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryColor": "#e97324",
-    "secondaryColor": "#ad9e8f"
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "AkumaMCNet",
+        "discord": "https://discord.gg/akumamc",
+        "youtube": "akumamc"
+    },
+    "crossplay": true
 }

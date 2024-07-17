@@ -9,6 +9,14 @@
     "primaryAddress": "play.tearfulmc.com",
     "primaryColor": "#8af9f5",
     "secondaryColor": "#10b610",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
     "gameTypes": [
         "Skyblock"
     ],
