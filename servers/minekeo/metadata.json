@@ -4,6 +4,7 @@
     "addresses": [
         "minekeo.com"
     ],
+    "primaryAddress": "sv.minekeo.com",
     "primaryColor": "#f2c6de",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
