@@ -5,8 +5,7 @@
     "store": "https://store.zkraft.net",
     "description": "zKraft is a server uniting Java and Bedrock players with unique game modes!",
     "addresses": [
-        "mc.zkraft.net",
-        "mcb.zkraft.net"
+        "zkraft.net"
     ],
     "primaryAddress": "mc.zkraft.net",
     "minecraftVersions": [
