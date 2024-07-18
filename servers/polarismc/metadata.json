@@ -2,7 +2,7 @@
     "id": "polarismc",
     "name": "PolarisMC",
     "addresses": [
-        "mc.polarismc.fun"
+        "polarismc.fun"
     ],
     "minecraftVersions": [
         "1.8.9"
