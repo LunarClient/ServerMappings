@@ -21,12 +21,12 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "es"
+        "es-EN"
     ],
     "gameTypes": [
-      "PrisonOP",
+      "Prison",
       "Survival",
-      "BoxPVP"
+      "PvP"
     ],
     "website": "https://tienda.iceclub.live/",
     "socials": {
