@@ -2,10 +2,9 @@
     "id": "mysticdominions",
     "name": "Mystic Dominions",
     "description": "Friendly Neighborhood Minecraft Network!",
-    "website": "https://store.mysticdominions.com",
     "store": "https://store.mysticdominions.com",
     "addresses": [
-        "play.mysticdominions.com"
+        "mysticdominions.com"
     ],
     "primaryAddress": "play.mysticdominions.com",
     "primaryColor": "#fb0000",
