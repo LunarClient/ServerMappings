@@ -30,7 +30,8 @@
     "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
+        "NA"
     ],
     "gameTypes": [
         "Survival",
