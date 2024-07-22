@@ -12,13 +12,13 @@
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "UHC"

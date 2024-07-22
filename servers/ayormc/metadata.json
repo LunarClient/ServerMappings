@@ -20,16 +20,16 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryLanguage": "en",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "AS",
     "regions": [
         "AS",
         "EU"
     ],
+    "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
         "Prison",

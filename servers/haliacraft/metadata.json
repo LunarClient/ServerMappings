@@ -5,7 +5,7 @@
     "store": "https://tienda.haliacraft.com/",
     "description": "Proporcionamos experiencias de juego PVE de alta calidad.",
     "addresses": [
-        "mc.haliacraft.com"
+        "haliacraft.com"
     ],
     "primaryAddress": "mc.haliacraft.com",
     "primaryColor": "#ecb94f",
@@ -22,7 +22,8 @@
     "crossplay": false,
     "primaryRegion": "SA",
     "regions": [
-        "NA", "SA"
+        "NA",
+        "SA"
     ],
     "primaryLanguage": "es-EN",
     "languages": [

@@ -8,6 +8,8 @@
         "fiercepvp.net"
     ],
     "primaryAddress": "fiercepvp.net",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -15,27 +17,25 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-	"1.20.*"
+	    "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFAA00",
-    "secondaryColor": "#FFFF55",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
-	"PvP",
-	"HCF",
+	    "PvP",
+	    "HCF",
         "Prison"
     ],
     "socials": {
         "twitter": "FiercePvP_NET",
         "discord": "https://discord.com/invite/K7ADJS6JnK"
-    },
-    "crossplay": false
+    }
 }

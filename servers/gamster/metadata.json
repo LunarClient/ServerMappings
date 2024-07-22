@@ -4,7 +4,6 @@
     "website": "https://www.gamster.org/",
     "store": "https://web.gamster.org/",
     "addresses": [
-        "mc.gamster.org",
         "gamster.org"
     ],
     "primaryAddress": "mc.gamster.org",
