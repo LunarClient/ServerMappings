@@ -1,0 +1,38 @@
+{
+    "id": "newexpirence",
+    "name": "NewExpirence",
+    "website": "https://newexpirence.it/",
+    "store": "https://newexpirence.it/shop",
+    "description": "PeterNetwork is a Server known for its SMP+. Join Now!",
+    "addresses": [
+        "newexpirence.it"
+    ],
+    "primaryAddress": "newexpirence.it",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#FF8000",
+    "secondaryColor": "#ff0000",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/newexp",
+        "instagram": "newexpirence",
+        "telegram": "newexpirence",
+        "tiktok": "newexpirence"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "id": "eytril",
+    "name": "Eytril",
+    "website": "https://eytril.org/",
+    "addresses": [
+        "eytril.org"
+    ],
+    "primaryAddress": "eytril.org",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#AA00AA",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/rbNJ7sKyEP",
+        "twitter": "EytrilMC"
+    }
+}

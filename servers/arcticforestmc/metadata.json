@@ -1,0 +1,42 @@
+{
+    "id": "arcticforestmc",
+    "name": "ArcticForestMC",
+    "website": "http://arcticforestmc.net",
+    "store": "http://store.arcticforestmc.net/",
+    "description": "ArcticForest - Wilderness Survival | Created in 2014.",
+    "addresses": [
+        "arcticforestmc.net",
+        "arcticforest.net",
+        "af-mc.net"
+    ],
+    "primaryAddress": "arcticforestmc.net",
+    "primaryMinecraftVersion": "1.12.2",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryColor": "#333333",
+    "secondaryColor": "#333333",
+    "socials": {
+        "discord": "https://discord.gg/EAEM9Td6Xh",
+        "twitter": "ArcticForestMC",
+        "youtube": "@ArcticForestMC",
+        "instagram": "@arcticforestmc_net"
+    },
+    "gameTypes": [
+        "Survival"
+    ],
+    "crossplay": false,
+    "presentationVideo": "A3Y4F2yi7oo",
+    "compliance": {
+        "rules": "http://arcticforestmc.net/rules"
+    }
+}
