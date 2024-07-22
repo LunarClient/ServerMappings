@@ -28,9 +28,7 @@
     "gameTypes": [
         "Skyblock",
         "Prison",
-        "Survival",
-        "PvP",
-        "PvE"
+        "Survival"
     ],
     "socials": {
         "twitter": "VortexPvP",
