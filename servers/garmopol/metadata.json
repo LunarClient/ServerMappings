@@ -1,0 +1,37 @@
+{
+    "id": "garmopol",
+    "name": "Garmopol",
+    "website": "https://www.garmopol.de",
+    "store": "https://shop.garmopol.de",
+    "description": "Garmopol: Ein deutschsprachiger Server mit vielen Modi wie Citybuild seit 2022!",
+    "addresses": [
+        "garmopol.de"
+    ],
+    "primaryAddress": "mc.garmopol.de",
+    "primaryColor": "#4537e1",
+    "secondaryColor": "#2111d4",
+    "minecraftVersions": [
+        "1.20.6",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Open World",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KQ2MnZQvVG",
+        "youtube": "garmopol",
+        "tiktok": "garmopol",
+        "instagram": "garmopol"
+    }
+}
