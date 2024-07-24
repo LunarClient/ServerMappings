@@ -6,6 +6,8 @@
       "arkamc.fr"
   ],
   "primaryAddress": "play.arkamc.fr",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FFFF55",
   "minecraftVersions": [
       "1.8.*",
       "1.12.*",
