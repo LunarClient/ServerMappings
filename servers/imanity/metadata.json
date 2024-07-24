@@ -1,0 +1,51 @@
+{
+    "id": "imanity",
+    "name": "Imanity Network",
+    "description": "The Home of PvP, By Players, for Players",
+    "store": "https://imanityclub.tebex.io/",
+    "addresses": [
+        "imanity.club"
+        "strafing.xyz"
+    ],
+    "primaryAddress": "imanity.club",
+    "minecraftVersions": [
+      "1.20.6",
+      "1.21",
+      "1.7.*",
+      "1.8.*",
+      "1.20.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.*",
+    "primaryColor": "#00ddff",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "es",
+    "languages": [
+        "en"
+        "es"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Survival",
+      "Practice",
+      "SkyWars",
+      "Gens",
+      "BoxPVP",
+      "Minigames",
+      "ArenaPvP"
+    ],
+    "website": "https://imanityclub.tebex.io",
+    "socials": {
+      "twitter": "imanityclub",
+      "discord": "https://dsc.gg/imanity"
+    },
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "crossplay": true
+}
