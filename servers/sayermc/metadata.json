@@ -1,0 +1,48 @@
+{
+    "id": "sayermc",
+    "name": "Sayer Network",
+    "description": "Servidores con una experiencia de juego friendly - KatzeLLC.",
+    "addresses": [
+        "sayer.live"
+    ],
+    "primaryAddress": "sayer.live",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Custom"
+    ],
+    "website": "https://www.sayer.live",
+    "store": "https://store.sayer.live",
+    "compliance": {
+        "privacyPolicy": "https://www.sayer.live/privacy",
+        "termsOfService": "https://www.sayer.live/terms",
+        "rules": "https://www.sayer.live/rules"
+    },
+    "presentationVideo": "",
+    "socials": {
+        "twitter": "SayerNetwork",
+        "telegram": "SayerNetwork",
+        "discord": "https://discord.sayer.live"
+    },
+    "crossplay": true
+}
