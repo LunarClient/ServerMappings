@@ -16,9 +16,9 @@
     "primaryMinecraftVersion": "1.20",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "primaryRegion": "NA",
@@ -29,7 +29,6 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Custom"
     ],
     "website": "https://www.sayer.live",
     "store": "https://store.sayer.live",
