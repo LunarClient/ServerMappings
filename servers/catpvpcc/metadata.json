@@ -18,8 +18,7 @@
         "NA"
     ],
     "gameTypes": [
-        "HCFactions",
-		"Kitmap",
-		"Practice"
+        "HCF",
+	    "PvP"
     ]
 }
