@@ -9,12 +9,12 @@
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#f2c600",
     "secondaryColor": "#f29100",
-    "primaryLanguage": "hu",
+    "primaryLanguage": "en",
     "languages": [
-        "hu"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
