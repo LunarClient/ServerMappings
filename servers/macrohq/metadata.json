@@ -1,0 +1,29 @@
+{
+    "id": "macrohq",
+    "name": "MacroHQ",
+    "description": "The center of MacroPvP.",
+    "addresses": [
+        "macrohq.hu"
+    ],
+    "primaryAddress": "macrohq.hu",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryColor": "#f2c600",
+    "secondaryColor": "#f29100",
+    "primaryLanguage": "hu",
+    "languages": [
+        "hu"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zejpax35fh"
+    }
+}
