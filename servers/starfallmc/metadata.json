@@ -12,7 +12,7 @@
     ],
     "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#5C2E91",
-    "secondaryColor": "	#0000FF",
+    "secondaryColor": "#0000FF",
     "primaryLanguage": "it",
     "languages": [
         "it"
@@ -35,7 +35,7 @@
     "socials": {
         "twitter": "StarFallMC",
         "telegram": "@starfallmc",
-        "discord": "https://discord.starfallmc.it"
+        "discord": "https://discord.com/invite/cfpSGJbr9N"
     },
     "crossplay": false
 }
