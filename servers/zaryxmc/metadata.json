@@ -34,11 +34,9 @@
     ],
     "gameTypes": [
         "PvP",
-        "HCF",
         "Skyblock",
         "Survival",
         "Prison",
-        "Factions"
     ],
     "store": "https://store.zaryxmc.us",
     "socials": {
