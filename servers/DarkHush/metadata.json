@@ -1,26 +1,35 @@
 {
-    "id": "DarkHush",
+    "id": "darkhush",
     "name": "DarkHush",
-    "store": "https://store.darkhush.com",
+    "store": "https://store.darkhush.com/",
     "addresses": [
         "darkhush.com"
-        "darkhush.lol"
-        "darkhush.es"
     ],
     "primaryAddress": "darkhush.com",
     "primaryColor": "#DAF7A6",
-    "secondaryColor": "#000000",
+    "secondaryColor": "#00a3a5",
     "minecraftVersions": [
-        "1.8.9.",
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "KitPvP"
-        "HCF"
-        "UHC"
-    ]
+        "HCF",
+        "Survival",
+        "KitMap",
+        "Practice"
+    ],
+    "socials": {
+        "twitter": "DarkHush",
+        "discord": "https://discord.darkhush.com/"
+    }
 }
