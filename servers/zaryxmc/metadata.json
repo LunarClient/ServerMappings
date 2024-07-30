@@ -1,0 +1,52 @@
+{
+    "id": "zaryxmc",
+    "name": "ZaryxMC Network",
+    "description": "The place where the friends play.",
+    "addresses": [
+        "zaryxmc.us"
+    ],
+    "primaryAddress": "play.zaryxmc.us",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9600FF",
+    "secondaryColor": "#FF00FF",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "HCF",
+        "Skyblock",
+        "Survival",
+        "BoxPvP",
+        "Prison",
+        "Minigames",
+        "Factions"
+    ],
+    "store": "https://store.zaryxmc.us",
+    "socials": {
+        "twitter": "ZaryxMCNW",
+        "discord": "http://discord.zaryxmc.us"
+    },
+    "crossplay": false
+}
