@@ -1,0 +1,26 @@
+{
+    "id": "DarkHush",
+    "name": "DarkHush",
+    "store": "https://store.darkhush.com",
+    "addresses": [
+        "darkhush.com"
+        "darkhush.lol"
+        "darkhush.es"
+    ],
+    "primaryAddress": "darkhush.com",
+    "primaryColor": "#DAF7A6",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.8.9.",
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "KitPvP"
+        "HCF"
+        "UHC"
+    ]
+}
