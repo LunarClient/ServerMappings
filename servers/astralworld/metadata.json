@@ -1,0 +1,31 @@
+{
+    "id": "astralworld",
+    "name": "AstralWorld",
+    "description": "Egy Világ ahová menekülhetsz.",
+    "website": "https://astralworld.hu/",
+    "store": "https://shop.astralworld.hu/",
+    "addresses": [
+        "astralworld.hu"
+    ],
+    "primaryAddress": "play.astralworld.hu",
+    "primaryColor": "#09689F",
+    "secondaryColor": "#00FF1C",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://dc.astralworld.hu"
+    }
+}
