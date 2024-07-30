@@ -19,9 +19,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#9600FF",
     "secondaryColor": "#FF00FF",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "primaryRegion": "NA",
@@ -34,13 +34,10 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
         "HCF",
         "Skyblock",
         "Survival",
-        "BoxPvP",
         "Prison",
-        "Minigames",
         "Factions"
     ],
     "store": "https://store.zaryxmc.us",
