@@ -1,51 +1,42 @@
 {
-    "id": "imanity",
+    "id": "Imanity",
     "name": "Imanity Network",
-    "description": "The Home of PvP, By Players, for Players",
-    "store": "https://imanityclub.tebex.io/",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "imanity.club"
+        "imanity.club",
         "strafing.xyz"
     ],
     "primaryAddress": "imanity.club",
     "minecraftVersions": [
-      "1.20.6",
-      "1.21",
-      "1.7.*",
-      "1.8.*",
-      "1.20.*",
-      "1.12.*",
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*"
+        "1.7.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8.*",
-    "primaryColor": "#00ddff",
-    "secondaryColor": "#FFFFFF",
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "primaryLanguage": "es",
     "languages": [
         "en"
-        "es"
+        "es"        
     ],
-    "gameTypes": [
-      "PvP",
-      "Survival",
-      "Practice",
-      "SkyWars",
-      "Gens",
-      "BoxPVP",
-      "Minigames",
-      "ArenaPvP"
-    ],
-    "website": "https://imanityclub.tebex.io",
-    "socials": {
-      "twitter": "imanityclub",
-      "discord": "https://dsc.gg/imanity"
-    },
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
     ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.imanity.club",
+    "store": "https://imanityclub.tebex.io",
+    "compliance": {
+        "privacyPolicy": "https://dsc.gg/imanity",
+        "termsOfService": "https://dsc.gg/imanity",
+        "rules": "https://dsc.gg/imanity"
+    },
+    "presentationVideo": "tA0tOnHA5I",
+    "socials": {
+        "twitter": "ImanityClub",
+        "discord": "https://dsc.gg/imanity"
+    },
     "crossplay": true
 }
