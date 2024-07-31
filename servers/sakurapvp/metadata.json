@@ -1,11 +1,11 @@
 {
-    "id": "sakurapvp",
-    "name": "SakuraPvP Network",
+    "id": "voidmc",
+    "name": "VoidMC Network",
     "addresses": [
-        "sakurapvp.club",
-        "dragonblock.es"
+        "voidmc.club",
+        "jugar.voidmc.club"
     ],
-    "primaryAddress": "sakurapvp.club",
+    "primaryAddress": "voidmc.club",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -14,11 +14,12 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff00fb",
-    "secondaryColor": "#b200ff",
+    "primaryColor": "#7917C6",
+    "secondaryColor": "#FEFEFE",
     "primaryLanguage": "es-EN",
     "languages": [
         "en",
@@ -32,12 +33,12 @@
     ],
     "gameTypes": [
         "Survival",
-        "Minigames",
+        "Prison",
         "PvP"
     ],
-    "store": "https://store.sakurapvp.club",
+    "store": "https://tienda.voidmc.club",
     "socials": {
-        "discord": "https://discord.gg/V5EdJwJQ3z"
+        "discord": "https://discord.gg/VQVDwQnbZ2"
     },
     "crossplay": true
 }
