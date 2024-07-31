@@ -1,0 +1,22 @@
+{ 
+    "id": "xcold",
+    "name": "XCOLD",
+    "store": "https://store.xcold.net",
+    "addresses": [
+        "xcold.net"
+    ],
+    "primaryAddress": "xcold.net",
+    "primaryColor": "#0000AA",
+    "secondaryColor": "#5555FF",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}

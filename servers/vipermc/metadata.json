@@ -31,5 +31,11 @@
         "twitter": "ViperMC",
         "discord": "https://discord.com/invite/viper",
         "tiktok": "vipermc"
-    }
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.vipermc.net/policy",
+        "termsOfService": "https://www.vipermc.net/tos",
+        "rules": "https://www.vipermc.net/rules"
+    },
+    "presentationVideo": "ZTUm5WUAcVY"
 }

@@ -1,0 +1,28 @@
+{
+    "id": "fereanetwork",
+    "name": "Ferea Network",
+    "addresses": [
+        "ferea.net"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryAddress": "play.ferea.net",
+    "primaryColor": "#b55a41",
+    "secondaryColor": "#ebcc5b",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "FereaNetwork",
+        "discord": "https://discord.gg/ferea",
+        "instagram": "fereanetwork",
+        "tiktok": "fereanetwork"
+    }
+}

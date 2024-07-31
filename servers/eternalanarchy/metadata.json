@@ -1,0 +1,39 @@
+{
+    "id": "eternalanarchy",
+    "name": "Eternal Anarchy",
+    "description": "Vanilla combat practice server!",
+    "addresses": [
+        "eternalanarchy.xyz"
+    ],
+    "primaryAddress": "eternalanarchy.xyz",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#ff0033",
+    "secondaryColor": "#ff0033",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://eternalanarchy.xyz",
+    "store": "https://eternalanarchy.craftingstore.net/",
+    "socials": {
+        "discord": "https://discord.gg/Uxpv8yP3b3"
+    },
+    "crossplay": false
+}
