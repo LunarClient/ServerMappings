@@ -1,7 +1,7 @@
 {
     "id": "zaryxmc",
     "name": "ZaryxMC Network",
-    "store": "https://tienda.zayrxmc.us/",
+    "store": "https://tienda.zaryxmc.us/",
     "description": "Servidor hispanohablante de PvP y PvE",
     "addresses": [
         "zaryxmc.us"
@@ -37,5 +37,5 @@
     "socials": {
         "twitter": "zaryxmcnw",
         "discord": "http://discord.zaryxmc.us/"
-    },
+    }
 }
