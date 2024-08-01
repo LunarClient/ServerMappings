@@ -28,10 +28,9 @@
         "SA"
     ],
     "gameTypes": [
-        "HCF",
+        "Survival",
         "PvP",
         "Skyblock",
-        "Survival",
         "Prison"
     ],
     "socials": {
