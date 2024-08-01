@@ -1,0 +1,36 @@
+{
+    "id": "vertex-pvp",
+    "name": "Vertex Network",
+    "addresses": [
+        "vertex-pvp.com",
+        "play.vertex-pvp.com"
+    ],
+    "primaryAddress": "vertex-pvp.com",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#001C91",
+    "secondaryColor": "#004BF3",
+    "primaryLanguage": "EN",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Factions",
+        "PvP",
+        "KitPvP"
+    ],
+    "store": "https://vertexgaming.tebex.io/",
+    "socials": {
+        "discord": "https://discord.gg/D86qCsUgcN"
+    },
+    "crossplay": true
+}
