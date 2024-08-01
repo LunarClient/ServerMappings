@@ -1,0 +1,36 @@
+{
+    "id": "warzonerip",
+    "name": "WarzoneRIP",
+    "website": "https://warzone.rip/",
+    "store": "https://store.warzone.rip/",
+    "addresses": [
+        "play.warzone.rip",
+        "warzone.piratestudios.org",
+    ],
+    "primaryAddress": "warzone.rip",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FF5555",
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/warzonerip",
+        "twitter": "https://twitter.com/warzonerip"
+    },
+    "compliance": {
+        "privacyPolicy": "https://piratestudios.org/privacy",
+        "termsOfService": "https://piratestudios.org/terms",
+        "rules": "https://warzone.rip/rules/"
+    }
+}
