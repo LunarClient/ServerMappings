@@ -7,15 +7,15 @@
     ],
     "primaryAddress": "mireland.es",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.16*",
+        "1.20*"
     ],
     "primaryMinecraftVersion": "1.20",
     "primaryColor": "#f5c533",
     "secondaryColor": "#e69138",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -26,7 +26,7 @@
         "SA"
     ],
     "gameTypes": [
-        "Survival"
+        "PvP"
     ],
     "website": "https://discord.mireland.es",
     "store": "https://tienda.mireland.es",
