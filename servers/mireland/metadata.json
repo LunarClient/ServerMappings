@@ -1,0 +1,44 @@
+{
+    "id": "mirelandnetwork",
+    "name": "MireLand Network",
+    "description": "Apertura del servidor, únete ya!",
+    "addresses": [
+        "mireland.es"
+    ],
+    "primaryAddress": "mireland.es",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#f5c533",
+    "secondaryColor": "#e69138",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://discord.mireland.es",
+    "store": "https://tienda.mireland.es",
+    "compliance": {
+        "privacyPolicy": "https://tienda.mireland.es/reembolsos",
+        "termsOfService": "https://tienda.mireland.es/reembolsos",
+        "rules": "https://discord.mireland.es"
+    },
+    "socials": {
+        "twitter": "mirelandnet",
+        "telegram": "mirelandnet",
+        "discord": "https://discord.mireland.es"
+    },
+    "crossplay": true
+}
