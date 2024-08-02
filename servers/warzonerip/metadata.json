@@ -4,8 +4,7 @@
     "website": "https://warzone.rip/",
     "store": "https://store.warzone.rip/",
     "addresses": [
-        "play.warzone.rip",
-        "warzone.piratestudios.org"
+        "play.warzone.rip"
     ],
     "primaryAddress": "warzone.rip",
     "minecraftVersions": [
@@ -26,7 +25,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/warzonerip",
-        "twitter": "https://twitter.com/warzonerip"
+        "twitter": "warzonerip"
     },
     "compliance": {
         "privacyPolicy": "https://piratestudios.org/privacy",
