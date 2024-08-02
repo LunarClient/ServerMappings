@@ -3,7 +3,8 @@
     "name": "West PvP",
     "description": "The best NA West FFA server!",
     "addresses": [
-        "westpvp.gay"
+        "westpvp.gay",
+        "westpvp.mcserver.us"
     ],
     "primaryAddress": "westpvp.mcserver.us",
     "minecraftVersions": [
@@ -24,7 +25,7 @@
         "PvP"
     ],
 
-    "presentationVideo": "https://www.youtube.com/watch?v=5LLOnCjQ2PM&t=56s",
+    "presentationVideo": "5LLOnCjQ2PM",
     "socials": {
         "discord": "https://discord.gg/d4JA3G359k"
     },
