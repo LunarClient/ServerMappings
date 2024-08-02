@@ -1,8 +1,7 @@
 {
-    "id": "vertex-pvp",
+    "id": "vertexpvp",
     "name": "Vertex Network",
     "addresses": [
-        "vertex-pvp.com",
         "play.vertex-pvp.com"
     ],
     "primaryAddress": "vertex-pvp.com",
