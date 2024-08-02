@@ -3,7 +3,7 @@
     "name": "IrisMC",
     "store": "https://irismc.tebex.io/",
     "addresses": [
-        "play.irismc.it"
+        "irismc.it"
     ],
     "primaryAddress": "play.irismc.it",
     "primaryColor": "#f2fa60",
@@ -27,6 +27,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://ds.irismc.it/"
+        "discord": "https://discord.com/invite/UxDbcQHpqe"
     }
 }
