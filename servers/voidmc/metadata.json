@@ -2,8 +2,7 @@
     "id": "voidmc",
     "name": "VoidMC Network",
     "addresses": [
-        "voidmc.club",
-        "jugar.voidmc.club"
+        "voidmc.club"
     ],
     "primaryAddress": "voidmc.club",
     "minecraftVersions": [
