@@ -4,9 +4,9 @@
     "website": "https://warzone.rip/",
     "store": "https://store.warzone.rip/",
     "addresses": [
-        "play.warzone.rip"
+        "warzone.rip"
     ],
-    "primaryAddress": "warzone.rip",
+    "primaryAddress": "play.warzone.rip",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
