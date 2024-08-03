@@ -29,17 +29,11 @@
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://discord.mireland.es",
     "store": "https://tienda.mireland.es",
-    "compliance": {
-        "privacyPolicy": "https://tienda.mireland.es/reembolsos",
-        "termsOfService": "https://tienda.mireland.es/reembolsos",
-        "rules": "https://discord.mireland.es"
-    },
     "socials": {
         "twitter": "mirelandnet",
         "telegram": "mirelandnet",
-        "discord": "https://discord.mireland.es"
+        "discord": "https://discord.com/invite/unKFuaRVmx"
     },
     "crossplay": true
 }
