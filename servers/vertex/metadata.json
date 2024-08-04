@@ -2,9 +2,9 @@
     "id": "vertex",
     "name": "Vertex",
     "addresses": [
-        "play.vertex-pvp.com"
+        "vertex-pvp.com"
     ],
-    "primaryAddress": "vertex-pvp.com",
+    "primaryAddress": "play.vertex-pvp.com",
     "minecraftVersions": [
         "1.20.*"
     ],
