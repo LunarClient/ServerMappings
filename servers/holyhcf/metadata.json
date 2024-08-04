@@ -5,14 +5,18 @@
     "store": "https://store.holypvp.net/",
     "description": "The #1 Spanish-speaking Minecraft PvP server for more than 6 years",
     "addresses": [
-        "eaglehcf.com",
         "holyh.cf",
         "holypvp.net"
     ],
     "primaryAddress": "holypvp.net",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#dedede",
@@ -23,11 +27,14 @@
     ],
     "gameTypes": [
         "HCF",
+        "UHC",
         "PvP"
     ],
     "socials": {
         "twitter": "holypvpnet",
-        "discord": "https://discord.gg/paQgGtzHbT"
+        "discord": "https://discord.gg/holypvp",
+        "tiktok": "holypvpnet",
+	    "instagram": "holypvpnet"
     },
     "compliance": {
         "rules": "https://www.holypvp.net/rules"

@@ -1,0 +1,38 @@
+{
+    "id": "amperiamc",
+    "name": "AmperiaMC",
+    "description": "PVPBox Ranked ! Bon PvP, système de TeamFight de Clan !",
+    "addresses": [
+        "amperiamc.fr"
+    ],
+    "primaryAddress": "play.amperiamc.fr",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffc900",
+    "secondaryColor": "#ffea00",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "amperia_mc",
+        "youtube": "amperia-mc",
+        "tiktok": "amperiamc",
+        "discord": "https://discord.gg/amperiamc"
+    }
+}

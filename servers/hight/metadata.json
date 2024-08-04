@@ -1,0 +1,29 @@
+{
+    "id": "hight",
+    "name": "Hight",
+    "addresses": [
+        "hight.me"
+    ],
+    "primaryAddress": "hight.me",
+    "primaryColor": "#f99e00",
+    "secondaryColor": "#d1ab24",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/qSDZ5YR4eM",
+        "youtube": "HightMC"
+    }
+}

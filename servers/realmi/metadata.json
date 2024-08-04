@@ -3,7 +3,8 @@
     "name": "Realmi",
     "website": "https://realmi.fi/",
     "store": "https://kauppa.realmi.fi/",
-    "description": "Suomalainen Peliyhteisö. Liity mukaan jatkuvasti kasvavaan yhteisöömme!",
+    "description": "Suomen Suosituin Minecraft -peliyhteisö. Liitythän mukaan!",
+    "crossplay": true,
     "addresses": [
         "realmi.fi"
     ],
@@ -11,15 +12,10 @@
     "primaryColor": "#fb6900",
     "secondaryColor": "#ffa800",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.21",
     "primaryLanguage": "en",
     "primaryRegion": "EU",
     "regions": [
@@ -31,8 +27,12 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/realmi",
+        "discord": "https://discord.gg/realmi",
         "instagram": "officialrealmi",
+        "youtube": "realmi",
         "tiktok": "realmi.fi"
+    },
+    "compliance": {
+        "rules": "https://realmi.fi/saannot/"
     }
 }

@@ -1,0 +1,42 @@
+{
+    "id": "liteaccademy",
+    "name": "Liteaccademy Network",
+    "description": "Liteaccademy is a server founded in 2022/2023, Owner of @TropeaRoleplay",
+    "addresses": [
+        "liteaccademy.net"
+    ],
+    "primaryAddress": "play.liteaccademy.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#383838",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "website": "https://www.liteaccademy.net",
+    "store": "https://www.liteaccademy.net/store/",
+    "compliance": {
+        "privacyPolicy": "https://www.liteaccademy.net/privacy/",
+        "termsOfService": "https://www.liteaccademy.net/terms/"
+    },
+    "socials": {
+        "discord": "https://discord.gg/BJbcTsbRuj",
+        "telegram": "liteaccademy"
+    },
+    "crossplay": false
+}

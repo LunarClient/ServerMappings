@@ -1,0 +1,42 @@
+{
+    "id": "politicamc",
+    "name": "PoliticaMC",
+    "website": "https://www.politicamc.com.br",
+    "description": "O verdadeiro Towny geopolítico.",
+    "addresses": [
+        "politicamc.com.br"
+    ],
+    "primaryAddress": "politicamc.com.br",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/yqDkRMfADS"
+    },
+        "compliance": {
+        "privacyPolicy": "https://www.politicamc.com.br/privacy",
+        "termsOfService": "https://www.politicamc.com.br/terms",
+        "rules": "https://www.politicamc.com.br/rules"
+    },
+    "presentationVideo": "7EV4cPuJvXE"
+}

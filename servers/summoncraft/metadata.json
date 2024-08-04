@@ -4,9 +4,10 @@
     "store": "https://store.summoncraft.xyz",
     "addresses": [
       "summoncraft.xyz",
-      "summoncraft.us"
+      "summoncraft.us",
+      "summoncraft.es"
     ],
-    "primaryAddress": "summoncraft.us",
+    "primaryAddress": "summoncraft.es",
     "primaryColor": "#D200FF",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
