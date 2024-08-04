@@ -2,8 +2,7 @@
     "id": "hight",
     "name": "Hight",
     "addresses": [
-        "hight.me",
-        "original.hight.me"
+        "hight.me"
     ],
     "primaryAddress": "hight.me",
     "primaryColor": "#f99e00",
