@@ -3,9 +3,10 @@
     "name": "ZenticMC",
     "description": "Rede de minigames. Inovando as nossas origens.",
     "addresses": [
-        "zenticmc.com"
+        "zenticmc.com",
+        "zentic.com.br"
     ],
-    "primaryAddress": "zenticmc.com.br",
+    "primaryAddress": "zentic.com.br",
     "primaryColor": "#ffaa00",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
