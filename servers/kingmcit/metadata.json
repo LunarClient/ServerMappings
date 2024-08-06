@@ -1,0 +1,38 @@
+{
+    "id": "kingmcit",
+    "name": "KingMC",
+    "description": "Diventa il più forte su: KingMC - Dove tutto è possibile",
+    "store": "https://www.kingmc.it/",
+    "addresses": [
+        "kingmc.it"
+    ],
+    "primaryAddress": "play.kingmc.it",
+    "primaryColor": "#ceb19e",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/PmEZUZCQq9",
+        "tiktok": "kingmc_it",
+        "instagram": "kingmc_it"
+    }
+
+}

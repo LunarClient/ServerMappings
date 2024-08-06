@@ -1,0 +1,33 @@
+{
+    "id": "westpvp",
+    "name": "West PvP",
+    "description": "The best NA West FFA server!",
+    "addresses": [
+        "westpvp.gay",
+        "westpvp.mcserver.us"
+    ],
+    "primaryAddress": "westpvp.mcserver.us",
+    "minecraftVersions": [
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#b200ed",
+    "secondaryColor": "#6f2da8",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+
+    "presentationVideo": "5LLOnCjQ2PM",
+    "socials": {
+        "discord": "https://discord.gg/d4JA3G359k"
+    },
+    "crossplay": false
+}
