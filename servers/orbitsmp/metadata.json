@@ -1,0 +1,35 @@
+{
+    "id": "orbitsmp",
+    "name": "OrbitMC",
+    "description": "Space-Themed SMP Survival!",
+    "addresses": [
+        "orbitmc.org"
+    ],
+    "primaryAddress": "play.orbitmc.org",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryColor": "#E43A96",
+    "secondaryColor": "#9863E7",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.orbitmc.org/",
+    "socials": {
+        "discord": "https://discord.com/invite/KEYrRwbCZ7"
+    },
+    "crossplay": false
+}

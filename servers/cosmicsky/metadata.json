@@ -1,32 +1,32 @@
 {
     "id": "cosmicsky",
     "name": "Cosmic Sky",
-    "website": "https://minecraft.cosmic.games/",
     "addresses": [
         "cosmicsky.net"
     ],
     "primaryAddress": "cosmicsky.net",
-    "primaryColor": "#ea6a13",
-    "secondaryColor": "#78a4e5",
-    "minecraftVersions": [
-        "1.20.*",
+    "minecraftVersions":[
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "crossplay": false,
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "gameTypes": [
+    "regions": [
+        "NA"
+    ],
+    "gameTypes":[
         "Skyblock"
     ],
-    "socials": {
-        "twitter": "cosmicskyblock",
-        "discord": "https://discord.com/invite/cosmicsky"
-    }
+    "store": "https://www.buy.cosmicsky.net",
+    "socials":{
+        "discord": "https://discord.gg/cosmicsky"
+    },
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFF55",
+    "crossplay": false
 }

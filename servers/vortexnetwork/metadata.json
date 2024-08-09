@@ -16,9 +16,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20",
+    "primaryMinecraftVersion": "1.21",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -26,11 +27,12 @@
     ],
     "gameTypes": [
         "Skyblock",
-        "Prison"
+        "Prison",
+        "Survival"
     ],
     "socials": {
         "twitter": "VortexPvP",
-        "discord": "https://discord.com/invite/mc",
+        "discord": "https://discord.gg/mc",
         "tiktok": "thevortexnetwork"
     }
 }
