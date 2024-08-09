@@ -1,11 +1,14 @@
 {
     "id": "cubicmc",
     "name": "CubicMc.pl",
+    "store": "https://sklep.cubicmc.pl",
     "description": "Najlepszy serwer earthsmp!",
     "addresses": [
         "cubicmc.pl"
     ],
     "primaryAddress": "cubicmc.pl",
+    "primaryColor": "#fc03ad",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -13,22 +16,19 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.3",
-    "primaryColor": "#fc03ad",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://sklep.cubicmc.pl",
     "socials": {
         "discord": "https://discord.com/invite/jBD6VhGz5t"
-    },
-    "crossplay": false
+    }
 }

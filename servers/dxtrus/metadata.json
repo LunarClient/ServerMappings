@@ -7,21 +7,21 @@
         "dxtrus.net"
     ],
     "primaryAddress": "play.dxtrus.net",
+    "primaryColor": "#BF79FD",
+    "secondaryColor": "#FB1DEB",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#BF79FD",
-    "secondaryColor": "#FB1DEB",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",
