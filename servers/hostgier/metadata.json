@@ -3,7 +3,7 @@
     "name": "HostGier.pl Build Battle",
     "store": "https://hostgier.pl",
     "addresses": [
-        "konkurs.hostgier.pl"
+        "hostgier.pl"
     ],
     "primaryAddress": "konkurs.hostgier.pl",
     "primaryColor": "#2B35A0",
