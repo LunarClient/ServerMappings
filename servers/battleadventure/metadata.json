@@ -1,15 +1,17 @@
 {
     "id": "battleadventure",
     "name": "Battle Adventure",
-    "description": "Serveur Minecraft PvP Faction Farm2Win sur le thème de Wakfu !",
     "website": "https://www.battle-adventure.eu/",
     "store": "https://www.battle-adventure.eu/store/4/pvpfaction",
     "wiki": "https://www.battle-adventure.eu/wiki/",
+    "description": "Serveur Minecraft PvP Faction Farm2Win sur le thème de Wakfu !",
     "addresses": [
         "battle-adventure.eu",
         "eliacube.eu"
     ],
     "primaryAddress": "play.battle-adventure.eu",
+    "primaryColor": "#028acc",
+    "secondaryColor": "#449d44",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -20,15 +22,13 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.12.2",
-    "primaryColor": "#028acc",
-    "secondaryColor": "#449d44",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",

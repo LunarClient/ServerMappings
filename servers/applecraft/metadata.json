@@ -5,8 +5,7 @@
     "store": "https://shop.applecraft.org/",
     "description": "A modern server that aims to enhance vanilla gameplay in fun and exciting ways.",
     "addresses": [
-        "gg.applecraft.org",
-        "join.applecraft.org"
+        "applecraft.org"
     ],
     "primaryAddress": "gg.applecraft.org",
     "primaryColor": "#ffd95f",
