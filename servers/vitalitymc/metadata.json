@@ -2,7 +2,7 @@
     "id": "vitalitymc",
     "name": "VitalityMC Network",
     "website": "https://vitalitymc.eu",
-    "description": "CoralMC is the best server in Italy for those who enjoy healthy competition.",
+    "description": "Join VitalityMC Network to discorver a majestic adventure with unqiue features and gamemodes!",
     "addresses": [
         "vitalitymc.eu",
         "vitalitymc.it"
@@ -12,8 +12,8 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#1387ca",
-    "secondaryColor": "#262d37",
+    "primaryColor": "#791fff",
+    "secondaryColor": "#FFFFFF",
     "primaryLanguage": "en",
     "languages": [
         "en"
