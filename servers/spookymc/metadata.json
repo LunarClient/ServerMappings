@@ -1,30 +1,33 @@
 {
     "id": "spookymc",
     "name": "SpookyMC",
-    "website": "https://SpookyMC.cc/",
     "store": "https://spookymc.tebex.io/",
     "addresses": [
-        "SpookyMC.cc"
+        "spookymc.cc"
     ],
-    "primaryAddress": "SpookyMC.cc",
-    "primaryColor": "#00e6e1",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "primaryAddress": "spookymc.cc",
+    "primaryColor": "#ff5af0",
+    "secondaryColor": "#060627",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*"
+        "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
-        "Minigames"
+        "UHC"
     ],
     "socials": {
         "twitter": "SpookyNetworkCC",
-        "discord": "https://discord.gg/6qGKXfph9X",
-        "telegram": "https://t.me/spookymc"
+        "discord": "http://discord.gg/6qGKXfph9X"
     }
 }
