@@ -1,0 +1,26 @@
+{
+    "id": "spookymc",
+    "name": "SpookyMC",
+    "website": "https://SpookyMC.cc/",
+    "store": "https://spookymc.tebex.io/",
+    "description" : "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
+    "addresses": [
+        "SpookyMC.cc"
+    ],
+    "primaryAddress": "SpookyMC.cc",
+    "primaryColor": "#00e6e1",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "SpookyNetworkCC",
+        "discord": "https://discord.gg/6qGKXfph9X",
+        "telegram": "https://t.me/spookymc"
+    }
+}
