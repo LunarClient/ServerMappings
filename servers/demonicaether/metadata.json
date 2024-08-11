@@ -1,11 +1,15 @@
 {
     "id": "demonicaether",
     "name": "DemonicAether",
+    "website": "https://demonicaether.com",
+    "store": "https://store.demonicaether.com",
     "description": "Classic Prison with an MMORPG Twist",
     "addresses": [
         "demonicaether.com"
     ],
     "primaryAddress": "demonicaether.com",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#700000",
     "minecraftVersions": [
         "1.19.2",
         "1.19.3",
@@ -13,27 +17,23 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#700000",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Prison",
         "PvP",
         "PvE"
     ],
-    "website": "https://demonicaether.com",
-    "store": "https://store.demonicaether.com",
     "socials": {
         "twitter": "DemonicAetherMC",
         "youtube": "DemonicAether",
-        "discord": "https://demonicaether.com/discord"
-    },
-    "crossplay": false
+        "discord": "https://discord.com/invite/wabhJNZWMe"
+    }
 }

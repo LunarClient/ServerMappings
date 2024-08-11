@@ -22,6 +22,13 @@
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "it",
+        "fr",
+        "de"
+    ],
     "gameTypes": [
         "Minigames",
         "PvP",
@@ -31,12 +38,5 @@
         "twitter": "Cytooxien",
         "discord": "https://discord.gg/cytooxien",
         "youtube": "Cytooxien"
-    },
-    "languages": [
-        "en",
-        "it",
-        "fr",
-        "de"
-    ],
-    "primaryLanguage": "de"
+    }
 }

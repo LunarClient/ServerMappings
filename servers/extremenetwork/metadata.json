@@ -26,11 +26,10 @@
     ],
     "gameTypes": [
         "Factions",
-	"UHC",
+	    "UHC",
         "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/extremenetwork"
-
     }
 }
