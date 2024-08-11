@@ -2,7 +2,13 @@
     "id": "alinium",
     "name": "Alinium",
     "description": "Le meilleur serveur survie, élu par nous même.",
+    "addresses": [
+        "alinium.fr"
+    ],
     "primaryAddress": "alinium.fr",
+    "minecraftVersions": [
+        "1.21"
+    ],
     "primaryMinecraftVersion": "1.21",
     "primaryColor": "#2F0046",
     "secondaryColor": "#8A05C7",
