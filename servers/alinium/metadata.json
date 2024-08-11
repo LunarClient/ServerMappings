@@ -1,0 +1,20 @@
+{
+    "id": "alinium",
+    "name": "Alinium",
+    "description": "Le meilleur serveur survie, élu par nous même.",
+    "primaryAddress": "alinium.fr",
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#2F0046",
+    "secondaryColor": "#8A05C7",
+    "primaryLanguage": "fr",
+    "primaryRegion": "EU",
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Adventure"
+    ],
+    "website": "https://www.alinium.fr",
+    "socials": {
+        "discord": "https://www.alinium.fr/discord"
+    }
+}
