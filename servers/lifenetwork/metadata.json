@@ -1,13 +1,15 @@
 {
     "id": "lifenetwork",
     "name": "LifeNetwork",
-    "description": "LifeNetwork is a great server with lots of fun games such as: Lifesteal, Bedwars, Gens, and Random Kits.",
     "website": "https://lifenetworkmc.com/",
     "store": "https://store.lifenetworkmc.com/",
+    "description": "LifeNetwork is a great server with lots of fun games such as Lifesteal, Bedwars, Gens, and Random Kits.",
     "addresses": [
-        "play.lifenetworkmc.com",
+        "play.lifenetworkmc.com"
     ],
     "primaryAddress": "play.lifenetworkmc.com",
+    "primaryColor": "#ff3131",
+    "secondaryColor": "#ff914d",
     "minecraftVersions": [
         "1.15.*",
         "1.16.*",
@@ -17,6 +19,11 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.6",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -27,10 +34,8 @@
         "Gens",
         "RandomKits"
     ],
-    "primaryColor": "#ff3131",
-    "secondaryColor": "#ff914d",
     "socials": {
         "discord": "https://discord.gg/f3FRqzgzq4",
-        "youtube": "https://www.youtube.com/@LifeNetworkServer",
+        "youtube": "https://www.youtube.com/@LifeNetworkServer"
     }
 }
