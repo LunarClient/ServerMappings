@@ -5,7 +5,7 @@
     "store": "https://store.lifenetworkmc.com/",
     "description": "A fun server with Lifesteal, Bedwars, and more!",
     "addresses": [
-        "play.lifenetworkmc.com"
+        "lifenetworkmc.com"
     ],
     "primaryAddress": "play.lifenetworkmc.com",
     "primaryColor": "#ff3131",
@@ -34,6 +34,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/f3FRqzgzq4",
-        "youtube": "https://www.youtube.com/@LifeNetworkServer"
+        "youtube": "@LifeNetworkServer"
     }
 }
