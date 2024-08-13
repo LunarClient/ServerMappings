@@ -1,8 +1,8 @@
 {
     "id": "esta",
-    "name": "Esta Network",
-    "website": "https://esta.land/",
-    "store": "https://practice.tebex.io/",
+    "name": "Solara",
+    "website": "https://solara.gg/",
+    "store": "https://store.solara.gg/",
     "addresses": [
         "esta.land"
     ],
@@ -18,7 +18,7 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "esta_network",
-        "discord": "https://discord.com/invite/avWYwSXxzJ"
+        "twitter": "playsolara",
+        "discord": "https://discord.gg/playsolara"
     }
 }
