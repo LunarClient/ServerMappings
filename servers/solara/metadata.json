@@ -3,7 +3,8 @@
   "name": "Solara",
   "store": "https://store.solara.gg/",
   "addresses": [
-      "solara.gg"
+      "solara.gg",
+      "esta.land"
   ],
   "primaryAddress": "solara.gg",
   "primaryColor": "#14d9ed",
@@ -15,7 +16,8 @@
   "primaryMinecraftVersion": "1.8.9",
   "primaryRegion": "NA",
   "regions": [
-      "NA"
+      "NA",
+      "EU"
   ],
   "gameTypes": [
       "PvP"
