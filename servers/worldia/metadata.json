@@ -1,0 +1,34 @@
+{
+    "id": "worldia",
+    "name": "Worldia",
+    "website": "https://worldia.fun/",
+    "store": "https://boutique.worldia.fun/",
+    "addresses": [
+        "mc.worldia.fun"
+    ],
+    "primaryAddress": "mc.worldia.fun",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#930031",
+    "secondaryColor": "#facc48",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survie",
+        "PVE"
+    ],
+    "socials": {
+        "twitter": "worldiamc",
+        "discord": "https://discord.com/invite/68puvUrtqM",
+        "tiktok": "worldiafun",
+        "youtube": "worldiafun"
+    }
+}
