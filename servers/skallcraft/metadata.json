@@ -30,10 +30,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
         "Minigames",
-        "Prison",
-        "Adventure"
+        "Prison"
     ],
     "store": "https://tienda.skallcraft.net/",
     "socials": {
