@@ -1,0 +1,28 @@
+{
+    "id": "cavern",
+    "name": "Cavern",
+    "store": "https://store.cavern.gg",
+    "addresses": [
+        "cavern.gg"
+    ],
+    "primaryAddress": "play.cavern.gg",
+    "gameTypes": [
+        "BoxPVP",
+        "Duels",
+        "Lifesteal",
+        "Earth"
+    ],
+    "languages": [
+        "en"
+    ],
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "primaryRegion": "AS",
+    "primaryLanguage": "en",
+    "socials": {
+        "discord": "https://discord.com/invite/cavern",
+        "tiktok": "https://www.tiktok.com/@caverngg"
+    }
+}
