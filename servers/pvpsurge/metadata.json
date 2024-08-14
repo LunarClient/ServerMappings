@@ -25,7 +25,6 @@
     "gameTypes": [
         "PvP",
         "HCF",
-        "KitMap",
         "UHC"
     ],
     "socials": {
