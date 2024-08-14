@@ -36,5 +36,6 @@
     "socials": {
         "discord": "https://discord.nexit.lol",
         "youtube": "https://www.youtube.com/@nexitserver"
-    }
+    },
+    "crossplay": false
 }
