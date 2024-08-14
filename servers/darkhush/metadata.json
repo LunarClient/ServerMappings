@@ -1,23 +1,37 @@
 {
     "id": "darkhush",
-    "name": "darkhush",
-    "store": "https://store.darkhush.com",
+    "name": "DarkHush Network",
+    "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "darkhush.com"
     ],
     "primaryAddress": "darkhush.com",
-    "primaryColor": "#ceb19e",
-    "secondaryColor": "#000000",
     "minecraftVersions": [
-        - 1.8.9\n
-
+        "1.7.*",
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
     "gameTypes": [
-        "Survival"
-    ]
+        "PvP"
+    ],
+    "store": "https://store.darkhush.com",
+    "socials": {
+        "twitter": "DarkHushNW",
+        "discord": "https://www.discord.darkhush.com"
+    },
+    "crossplay": false
 }
