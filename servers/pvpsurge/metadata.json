@@ -11,7 +11,7 @@
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#028A97",
+    "primaryColor": "#b87e12",
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "es-EN",
     "languages": [
@@ -24,10 +24,12 @@
     ],
     "gameTypes": [
         "PvP",
+        "HCF",
+        "KitMap",
         "UHC"
     ],
     "socials": {
         "twitter": "PvPSurgeCOM",
-        "discord": "https://discord.gg/VDGbwMxk8f"
+        "discord": "https://discord.gg/aX4XCGzjzq"
     }
 }
