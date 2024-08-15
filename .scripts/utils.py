@@ -355,7 +355,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     # Incorrect aspect ratio
     if aspect_ratio != 7.8:
         errors.append(
-            f"{server_name}'s server banner does not have a 16:9 aspect ratio..."
+            f"{server_name}'s server banner does not have a 35:5 aspect ratio..."
         )
 
     # Width too small

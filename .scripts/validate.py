@@ -12,6 +12,7 @@ import sys
 
 import jsonschema
 import requests
+from tld.utils import get_tld, update_tld_names
 from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark
 
 FILE_WHITELIST = [
@@ -234,16 +235,40 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                 try:
                     server = json.load(server_file)
                     if server["id"] != server_id:
-                        messages[server_id] = [
-                            f"The ID field in the metadata.json does not match the file name of {server_id}.json (got {server['id']})"
-                        ]
-                        continue
+                        if server_id not in messages:
+                            messages[server_id] = []
+                        messages[server_id].append(f"The ID field in the metadata.json does not match the folder name of {server_id} (got {server['id']})")
+                    
+                    for address in server["addresses"]:
+                        if address == "apollo.lunarclient.com": # Skip this check for the Apollo server 
+                            continue
+
+                        domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
+                        if domain is not None and domain.subdomain:
+                            if server_id not in messages:
+                                messages[server_id] = []
+
+                            messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                    
+                    if primary_region := server.get("primaryRegion", None):
+                        if not (regions := server.get("regions", None)) or primary_region not in regions:
+                            if server_id not in messages:
+                                messages[server_id] = []
+                            messages[server_id].append(f"The primary region ({primary_region}) does not exist in the regions key (or the regions key does not exist).")
+
+                    if primary_lang := server.get("primaryLanguage", None):
+                        if not (languages := server.get("languages")) or primary_lang not in languages:
+                            if server_id not in messages:
+                                messages[server_id] = []
+                            messages[server_id].append(f"The primary language ({primary_lang}) does not exist in the languages key (or the languages key does not exist).")
+                    
                 except json.decoder.JSONDecodeError:
                     messages[server_id] = [
                         "metadata.json is malformed, please ensure it is valid json."
                     ]
                     continue  # Don't attempt to verify broken json files.
-        except Exception:
+        except Exception as e:
+            raise e
             messages["Overall"].append(
                 f"Unable to open metadata.json for {server_id} - Did you name the server id correctly?"
             )

@@ -155,7 +155,7 @@
                     "type": "string"
                 },
                 "discord": {
-                    "type": "string"
+                    "$ref": "#/definitions/DiscordLink"
                 },
                 "youtube": {
                     "type": "string"
@@ -201,6 +201,10 @@
         "ServerAddress": {
             "type": "string",
             "pattern": "^[a-z0-9_.-]+$"
+        },
+        "DiscordLink": {
+            "type": "string",
+            "pattern": "(?i)^https?://(?:discord\\.gg/|discord\\.com/invite/)[a-z0-9-]+$"
         },
         "MinecraftVersion": {
             "type": "string",
