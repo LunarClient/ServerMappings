@@ -267,8 +267,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                         "metadata.json is malformed, please ensure it is valid json."
                     ]
                     continue  # Don't attempt to verify broken json files.
-        except Exception as e:
-            raise e
+        except Exception:
             messages["Overall"].append(
                 f"Unable to open metadata.json for {server_id} - Did you name the server id correctly?"
             )
