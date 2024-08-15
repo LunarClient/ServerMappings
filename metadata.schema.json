@@ -204,7 +204,7 @@
         },
         "DiscordLink": {
             "type": "string",
-            "pattern": "(?i)^https?://(?:www\\.)?(?:discord\\.gg(?:/invite/)?|discord\\.com/invite/)[a-zA-Z0-9-]+/?$"
+            "pattern": "(?i)^https?://(?:www\\.)?(?:discord\\.gg(?:/invite)?/[a-zA-Z0-9-]+|discord\\.com/invite/[a-zA-Z0-9-]+)/?$"
         },
         "MinecraftVersion": {
             "type": "string",
