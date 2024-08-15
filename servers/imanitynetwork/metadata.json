@@ -28,10 +28,10 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Practice",
-        "Boxpvp",
-        "skywars"
+        "Survival"
+
+
+
     ],
     "socials": {
         "discord": "https://discord.gg/KxGtMBcbwM",
