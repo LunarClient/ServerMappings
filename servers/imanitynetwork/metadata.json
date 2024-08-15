@@ -1,5 +1,5 @@
 {
-    "id": "Imanity Network",
+    "id": "imanitynetwork",
     "name": "Imanity Network",
     "website": "https://guns.lol/imanity",
     "store": "https://imanityclub.tebex.io",
@@ -29,9 +29,6 @@
     "gameTypes": [
         "PvP",
         "Survival"
-
-
-
     ],
     "socials": {
         "discord": "https://discord.gg/KxGtMBcbwM",
