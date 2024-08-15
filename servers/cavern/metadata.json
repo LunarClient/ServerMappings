@@ -6,12 +6,6 @@
         "cavern.gg"
     ],
     "primaryAddress": "play.cavern.gg",
-    "gameTypes": [
-        "PvP",
-        "Survival",
-        "Open World"
-   
-    ],
     "primaryColor": "#f8e32d",
     "secondaryColor": "#87e237",
     "minecraftVersions": [
@@ -21,17 +15,22 @@
         "1.21"
     ],
     "primaryMinecraftVersion": "1.20",
+    "primaryLanguage": "en",
     "languages": [
         "en"
     ],
+    "primaryRegion": "AS",
     "regions": [
         "AS",
         "EU"
     ],
-    "primaryRegion": "AS",
-    "primaryLanguage": "en",
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Open World"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/cavern",
-        "tiktok": "https://www.tiktok.com/@caverngg"
+        "tiktok": "@caverngg"
     }
 }
