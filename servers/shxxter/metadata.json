@@ -9,7 +9,10 @@
     "primaryColor": "#780606",
     "secondaryColor": "#F9F6EE",
     "minecraftVersions": [
-        "1.20.*"
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.1",
     "primaryLanguage": "en",
@@ -21,9 +24,7 @@
         "AS"
     ],
     "gameTypes": [
-        "Survival",
-        "PvP",
-        "Hardcore"
+        "Survival"
     ],
     "compliance": {
         "privacyPolicy": "https://www.lunar.gg/privacy",
