@@ -3,8 +3,7 @@
     "name": "SkallCraft",
     "description": "Competitive and friendly server.",
     "addresses": [
-        "play.skallcraft.net",
-        "bedrock.skallcraft.net"
+        "play.skallcraft.net"
     ],
     "primaryAddress": "play.skallcraft.net",
     "minecraftVersions": [
@@ -35,7 +34,7 @@
     ],
     "store": "https://tienda.skallcraft.net/",
     "socials": {
-        "discord": "https://discord.skallcraft.net/"
+        "discord": "https://discord.gg/8wB7jHDJZs"
     },
     "crossplay": true
 }
