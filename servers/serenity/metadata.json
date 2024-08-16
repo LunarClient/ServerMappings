@@ -3,7 +3,7 @@
     "name": "Serenity",
     "description": "A Kitpvp and Skyblock Server",
     "addresses": [
-        "play.serenitypvp.net"
+        "serenitypvp.net"
     ],
     "primaryAddress": "play.serenitypvp.net",
     "minecraftVersions": [
@@ -30,7 +30,6 @@
         "Skyblock"
     ],
     "website": "https://serenitypvp.net",
-    "store": "https://serenitypvp.net",
     "presentationVideo": "ISI3pYAdM_w",
     "socials": {
         "discord": "https://discord.com/invite/mNW6f4NMkZ"
