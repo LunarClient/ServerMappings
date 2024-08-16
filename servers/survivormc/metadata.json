@@ -3,7 +3,7 @@
     "name": "Survivor MC",
     "description": "An immersive MMO RPG experience in a magical world",
     "addresses": [
-        "play.survivormc.net"
+        "survivormc.net"
     ],
     "primaryAddress": "play.survivormc.net",
     "minecraftVersions": [
