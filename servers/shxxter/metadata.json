@@ -26,11 +26,6 @@
     "gameTypes": [
         "Survival"
     ],
-    "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
-    },
     "socials": {
         "discord": "https://discord.gg/JjdcRfvWPH"
     },
