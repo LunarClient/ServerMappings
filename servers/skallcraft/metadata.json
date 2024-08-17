@@ -3,7 +3,7 @@
     "name": "SkallCraft",
     "description": "Competitive and friendly server.",
     "addresses": [
-        "play.skallcraft.net"
+        "skallcraft.net"
     ],
     "primaryAddress": "play.skallcraft.net",
     "minecraftVersions": [
