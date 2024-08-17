@@ -238,6 +238,13 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                         if server_id not in messages:
                             messages[server_id] = []
                         messages[server_id].append(f"The ID field in the metadata.json does not match the folder name of {server_id} (got {server['id']})")
+
+                    primary_domain = get_tld(server.get("primaryAddress", ""), as_object=True, fail_silently=True, fix_protocol=True)
+                    if primary_domain is not None and primary_domain.fld not in server["addresses"]:
+                        if server_id not in messages:
+                            messages[server_id] = []
+                        messages[server_id].append(f"The primary address' domain ({primary_domain.fld}) is not in the addresses list. Or the primary address is not a valid domain.")
+
                     
                     for address in server["addresses"]:
                         if address == "apollo.lunarclient.com": # Skip this check for the Apollo server 
