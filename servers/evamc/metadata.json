@@ -1,11 +1,11 @@
 {
-    "id": "evamc",
-    "name": "EVAMC",
+    "id": "evaprisons",
+    "name": "EVAPRISONS",
     "description": "The most awesome Prison Experience!",
     "addresses": [
-        "evamc.us"
+        "evaprisons.com"
     ],
-    "primaryAddress": "play.evamc.us",
+    "primaryAddress": "play.evaprisons.com",
     "minecraftVersions": [
         "1.20.*",
         "1.19.*"
@@ -17,9 +17,9 @@
         "Prison",
         "PvP"
     ],
-    "store": "https://buy.evamc.us",
+    "store": "https://buy.evaprisons.com",
     "socials": {
-        "discord": "https://discord.gg/gq2TTMr66b"
+        "discord": "https://discord.gg/evaprisons"
     },
     "crossplay": false
 }
