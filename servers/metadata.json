@@ -1,0 +1,45 @@
+{
+    "id": "pixelmc",
+    "name": "PixelMC",
+    "description": "Um dos maiores servidores de minigames do Brasil!",
+    "website": "https://pixelmc.com.br/",
+	"store": "https://loja.pixelmc.com.br/",
+    "primaryAddress": "pixelmc.com.br",
+    "gameTypes": [
+        "Skyblock",
+		"Prision",
+		"Creative",
+		"PvP",
+		"Minigames"
+    ],
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "addresses": [
+        "pixelmc.com.br"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-PT",
+        "pt-BR"
+    ],
+    "primaryColor": "#1e647d",
+    "secondaryColor": "#e7cd2b",
+    "socials": {
+        "twitter": "ServidorPixel_",
+        "discord": "https://discord.gg/NuThGeQNwP",
+        "tiktok": "servidorpixel",
+        "instagram": "servidorpixel",
+        "youtube": "servidorpixel"
+    }
+	    "compliance": {
+        "termsOfService": "https://loja.pixelmc.com.br/termos",
+        "rules": "https://pixelmc.com.br/regras"
+    },
+}
