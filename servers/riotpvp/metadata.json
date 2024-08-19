@@ -4,8 +4,7 @@
     "website": "https://riotpvp.xyz/",
     "store": "https://store.riotpvp.xyz/",
     "addresses": [
-        "as.riotpvp.xyz",
-        "eu.riotpvp.xyz"
+        "riotpvp.xyz"
     ],
     "primaryAddress": "as.riotpvp.xyz",
     "primaryColor": "#9208fb",
