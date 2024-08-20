@@ -6,7 +6,7 @@
         "play.globesmp.org",
         "globesmp.org"
     ],
-    "primaryAddress": "soltix.rip",
+    "primaryAddress": "globesmp.org",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*"
