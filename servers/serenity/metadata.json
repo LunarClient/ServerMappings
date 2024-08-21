@@ -1,0 +1,38 @@
+{
+    "id": "serenity",
+    "name": "Serenity",
+    "description": "A Kitpvp and Skyblock Server",
+    "addresses": [
+        "serenitypvp.net"
+    ],
+    "primaryAddress": "play.serenitypvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#580a80",
+    "secondaryColor": "#230333",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock"
+    ],
+    "website": "https://serenitypvp.net",
+    "presentationVideo": "ISI3pYAdM_w",
+    "socials": {
+        "discord": "https://discord.com/invite/mNW6f4NMkZ"
+    },
+    "crossplay": false
+}

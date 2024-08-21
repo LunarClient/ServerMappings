@@ -1,6 +1,8 @@
 {
     "id": "dupemc",
     "name": "DupeMC",
+    "website": "https://dupemc.net/",
+    "store": "https://store.dupemc.net/",
     "addresses": [
         "dupemc.net"
     ],
@@ -24,8 +26,6 @@
     "gameTypes": [
         "Factions"
     ],
-    "website": "https://dupemc.net/",
-    "store": "https://store.dupemc.net/",
     "socials": {
         "discord": "https://discord.com/invite/Xvn7Ab3c48"
     }

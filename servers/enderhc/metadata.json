@@ -1,11 +1,14 @@
 {
     "id": "enderhc",
     "name": "EnderHC",
+    "website": "https://enderhc.pl/",
     "description": "Serwer w Polsce skupiający się na trybach PVP.",
     "addresses": [
         "enderhc.pl"
     ],
     "primaryAddress": "enderhc.pl",
+    "primaryColor": "#9937c0",
+    "secondaryColor": "#4d275a",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,24 +17,21 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.16.5",
-    "primaryColor": "#9937c0",
-    "secondaryColor": "#4d275a",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "website": "https://enderhc.pl/",
     "socials": {
         "discord": "https://discord.gg/enderhc/",
         "tiktok": "enderhc_pl"
-    },
-    "crossplay": true
+    }
 }
