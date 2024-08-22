@@ -4,7 +4,7 @@
     "website": "https://risemc.fun/",
     "store": "https://store.risemc.fun/",
     "addresses": [
-        "risemc.fun",
+        "risemc.fun"
     ],
     "primaryAddress": "risemc.fun",
     "primaryColor": "#FFD700",
@@ -23,6 +23,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/22dfVVW5u4 "
+        "discord": "https://discord.gg/22dfVVW5u4"
     }
 }
