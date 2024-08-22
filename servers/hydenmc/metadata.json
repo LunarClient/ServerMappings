@@ -1,16 +1,15 @@
 {
     "id": "hydenmc",
     "name": "HydenMC",
-    "website": "", 
-    "description": "Esplora il mondo di HydenMC e vivi l'esperienza unica della nostra modalità custom piene di novità",
+    "website": "https://hydenmc.it/", 
+    "description": "Esplora il mondo di HydenMC e vivi l'esperienza unica della nostre modalità",
     "addresses": [
         "hydenmc.it"
     ],
     "primaryAddress": "play.hydenmc.it",
-    "primaryColor": "#",
-    "secondaryColor": "#",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
@@ -36,6 +35,6 @@
         
     ],
     "socials": {
-        "discord": "http://discord.hydenmc.it/"
+        "discord": "https://discord.hydenmc.it/"
     }
 }   
