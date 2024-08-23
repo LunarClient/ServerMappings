@@ -1,0 +1,34 @@
+{
+    "id": "zubito",
+    "name": "Zubito",
+    "website": "https://zubito.world/",
+    "store": "https://tienda.zubito.world/",
+    "addresses": [
+        "zubito.world"
+    ],
+    "primaryAddress": "zubito.world",
+    "primaryColor": "#24F117",
+    "secondaryColor": "#A4D42D",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zubito"
+    }
+}

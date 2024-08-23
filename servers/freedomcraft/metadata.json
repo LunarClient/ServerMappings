@@ -1,9 +1,9 @@
 {
     "id": "freedomcraft",
     "name": "FreedomCraft Network",
-    "description": "Face a world of challenging dungeons with class abilities and powerful gear!",
     "website": "https://freedomcraftmc.com/",
     "store": "https://www.freedomcraft.shop/",
+    "description": "Face a world of challenging dungeons with class abilities and powerful gear!",
     "addresses": [
         "freedomcraftmc.com",
         "freedomcraft.shop",
@@ -19,6 +19,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -40,6 +41,5 @@
     "socials": {
         "twitter": "FreedomCraftMC",
         "discord": "https://discord.com/invite/freedomcraft"
-    },
-    "crossplay": true
+    }
 }

@@ -1,0 +1,37 @@
+{
+    "id": "kodikanetwork",
+    "name": "Kodika Network",
+    "store": "https://tienda.kodika.live/",
+    "description": "Jugabilidad premium garantizada",
+    "addresses": [
+        "kodika.live"
+
+    ],
+    "primaryAddress": "play.kodika.live",
+    "primaryColor": "#04DAE4",
+    "secondaryColor": "#04A0E4",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+        
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "KodikaNetwork",
+        "discord": "https://discord.gg/ATCk2a3D3V",
+        "tiktok": "kodikanetwork"
+    }
+}

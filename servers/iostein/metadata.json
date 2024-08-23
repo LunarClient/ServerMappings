@@ -12,9 +12,10 @@
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21"
     ],
-    "primaryMinecraftVersion": "1.18.2",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -31,7 +32,7 @@
     ],
     "socials": {
         "twitter": "iostein",
-        "discord": "https://iostein.net/discord",
+        "discord": "https://discord.com/invite/ZtaybmZqwG",
         "youtube": "iostein",
         "instagram": "iosteinde",
         "tiktok": "iostein"

@@ -1,0 +1,39 @@
+{
+    "id": "playcy",
+    "name": "PlayCY",
+    "website": "https://playcy.net/",
+    "addresses": [
+        "playcy.net"
+    ],
+    "primaryAddress": "playcy.net",
+    "primaryColor": "#e561ff",
+    "secondaryColor": "#a6fb09",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "languages": [
+        "en",
+        "es-EN",
+        "zh-CN",
+        "ja",
+        "ko"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/P7JRgeXtcp",
+        "instagram": "playcyserver",
+        "youtube": "@ChuanMC"
+    }
+}

@@ -15,12 +15,12 @@
     "primaryRegion": "EU",
     "regions": [
         "NA",
-	"EU"
+	    "EU"
     ],
     "gameTypes": [
         "Survival",
-	"Factions",
-	"PvP"
+	    "Factions",
+	    "PvP"
     ],
     "socials": {
         "tiktok": "korraemc",

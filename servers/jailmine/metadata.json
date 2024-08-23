@@ -5,9 +5,7 @@
     "store": "https://store.jailmine.org/",
     "description": "Multi-Gamemode Network featuring casual gamemodes and minigames.",
     "addresses": [
-        "jailmine.org",
-	"mc.jailmine.org",
-        "play.jailmine.org"
+        "jailmine.org"
     ],
     "primaryAddress": "play.jailmine.org",
     "primaryColor": "#AA0000",
