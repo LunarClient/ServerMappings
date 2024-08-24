@@ -15,7 +15,7 @@
 "primaryMinecraftVersion": "1.8.9",
   "gameTypes": [
     "Minigames",
-    "PVP",
+    "PvP",
     "Survival"
   ],
   "primaryColor": "#15f00e",
