@@ -1,0 +1,17 @@
+{
+  "id": "lnrn01",
+  "name": "LNRN Network",
+  "description": "A premium Minecraft experience offering PvP, Minigames, and more.",
+  "addresses": [
+    "play.lnrn.lol"
+  ],
+  "primaryAddress": "play.lnrn.lol",
+  "gameTypes": [
+    "Bedwars",
+    "MiniGames",
+    "KitPVP",
+    "Survival"
+  ],
+  "primaryColor": "#15f00e",
+  "secondaryColor": "#090b1a"
+}
