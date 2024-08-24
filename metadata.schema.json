@@ -82,7 +82,13 @@
         "website": {
             "$ref": "#/definitions/WebAddress"
         },
+        "wiki": {
+            "$ref": "#/definitions/WebAddress"
+        },
         "store": {
+            "$ref": "#/definitions/WebAddress"
+        },
+        "merch": {
             "$ref": "#/definitions/WebAddress"
         },
         "compliance": {
@@ -96,6 +102,9 @@
                     "$ref": "#/definitions/WebAddress"
                 },
                 "rules": {
+                    "$ref": "#/definitions/WebAddress"
+                },
+                "support": {
                     "$ref": "#/definitions/WebAddress"
                 }
             }
@@ -146,7 +155,7 @@
                     "type": "string"
                 },
                 "discord": {
-                    "type": "string"
+                    "$ref": "#/definitions/DiscordLink"
                 },
                 "youtube": {
                     "type": "string"
@@ -173,6 +182,15 @@
         },
         "crossplay": {
             "type": "boolean"
+        },
+        "tebexStore": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "background": {
+                    "$ref": "#/definitions/TebexStoreBackground"
+                }
+            }
         }
     },
     "definitions": {
@@ -183,6 +201,10 @@
         "ServerAddress": {
             "type": "string",
             "pattern": "^[a-z0-9_.-]+$"
+        },
+        "DiscordLink": {
+            "type": "string",
+            "pattern": "(?i)^https?://(?:www\\.)?(?:discord\\.gg(?:/invite)?/[a-zA-Z0-9-]+|discord\\.com/invite/[a-zA-Z0-9-]+)/?$"
         },
         "MinecraftVersion": {
             "type": "string",
@@ -195,6 +217,7 @@
                 "1.18.*",
                 "1.19.*",
                 "1.20.*",
+                "1.21.*",
                 "1.7.10",
                 "1.8.9",
                 "1.12.2",
@@ -210,7 +233,11 @@
                 "1.20.1",
                 "1.20.2",
                 "1.20.3",
-                "1.20.4"
+                "1.20.4",
+                "1.20.5",
+                "1.20.6",
+                "1.21",
+                "1.21.1"
             ]
         },
         "MinecraftSubversion": {
@@ -231,7 +258,10 @@
                 "1.20.1",
                 "1.20.2",
                 "1.20.3",
-                "1.20.4"
+                "1.20.4",
+                "1.20.5",
+                "1.20.6",
+                "1.21"
             ]
         },
         "Region": {
@@ -291,6 +321,18 @@
                 "Roleplay",
                 "Adventure"
             ]
+        },
+        "TebexStoreBackground": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "lowerColor": {
+                    "$ref": "#/definitions/RGBColor"
+                },
+                "upperColor": {
+                    "$ref": "#/definitions/RGBColor"
+                }
+            }
         }
     }
 }

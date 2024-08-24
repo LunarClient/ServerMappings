@@ -3,18 +3,17 @@
     "name": "Zerus",
     "website": "https://zerus.kr",
     "addresses": [
-        "zerus.kr",
-        "zerus.mcv.kr",
-        "zerus.kro.kr"
+        "zerus.kr"
     ],
     "primaryAddress": "zerus.kr",
     "primaryColor": "#00DC79",
     "secondaryColor": "#00C2F6",
     "minecraftVersions": [
         "1.19.4",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21",
     "primaryRegion": "AS",
     "regions": [
         "AS"

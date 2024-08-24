@@ -6,6 +6,7 @@
     "addresses": [
         "cavepvp.org"
     ],
+    "primaryAddress": "cavepvp.org",
     "primaryColor": "#db213a",
     "secondaryColor": "#3f3e4c",
     "gameTypes": [

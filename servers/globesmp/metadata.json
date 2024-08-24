@@ -1,0 +1,40 @@
+{
+    "id": "globesmp",
+    "name": "GlobeSMP",
+    "description": "An EarthSMP server",
+    "addresses": [
+        "globesmp.org"
+    ],
+    "primaryAddress": "play.globesmp.org",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#2ced2e",
+    "secondaryColor": "#00cc74",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World"
+    ],
+    "website": "https://globesmp.org",
+    "store": "https://globesmp.org/shop",
+    "compliance": {
+        "privacyPolicy": "https://globesmp.org/privacy/",
+        "termsOfService": "https://globesmp.org/terms/",
+        "rules": "https://globesmp.org/rules"
+    },
+    "socials": {
+        "twitter": "globesmporg",
+        "discord": "https://discord.gg/M5R5daXH"
+    },
+    "crossplay": false
+}

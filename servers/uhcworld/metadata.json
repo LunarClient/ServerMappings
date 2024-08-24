@@ -1,13 +1,13 @@
 {
     "id": "uhcworld",
     "name": "UHC World",
-    "website": "https://uhcworld.odoo.com/",
+    "website": "https://uhcworld.fr/",
     "addresses": [
         "uhcworld.fr"
     ],
     "primaryAddress": "play.uhcworld.fr",
-    "primaryColor": "#ccea6a",
-    "secondaryColor": "#41b1e1",
+    "primaryColor": "#103844",
+    "secondaryColor": "#4ea8c7",
     "gameTypes": [
         "UHC"
     ],
@@ -23,6 +23,6 @@
     "primaryMinecraftVersion": "1.8.9",
     "socials": {
         "twitter": "UHCWorld",
-        "discord": "https://discord.com/uhcworld"
+        "discord": "https://discord.com/invite/uhcworld"
     }
 }

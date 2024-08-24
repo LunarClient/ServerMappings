@@ -3,8 +3,7 @@
     "name": "PvP Paradise",
     "description": "Unleash your 1.9+ PvP skills and destroy the oppositions!",
     "addresses": [
-        "pvpparadise.net",
-        "pvpparadise.modded.fun"
+        "pvpparadise.net"
     ],
     "primaryAddress": "pvpparadise.net",
     "minecraftVersions": [

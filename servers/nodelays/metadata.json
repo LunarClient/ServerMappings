@@ -1,0 +1,25 @@
+{
+    "id": "nodelays",
+    "name": "NoDelays",
+    "website": "https://nodelays.fr/",
+    "description": "Serveur Mini-Jeux complet et amusant",
+    "addresses": [
+        "nodelays.fr"
+    ],
+    "primaryAddress": "play.nodelays.fr",
+    "primaryColor": "#17ad17",
+    "secondaryColor": "#f06b0c",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Parkour"
+    ],
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "socials": {
+        "twitter": "nodelaysfr",
+        "discord": "https://discord.com/invite/J9R6VBQ"
+    }
+}

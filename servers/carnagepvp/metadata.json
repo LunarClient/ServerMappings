@@ -3,9 +3,12 @@
     "name": "CarnagePvP",
     "store": "https://store.carnagepvp.me/",
     "addresses": [
+        "carnagepvp.net",
         "carnagepvp.me"
     ],
-    "primaryAddress": "play.carnagepvp.me",
+    "primaryAddress": "play.carnagepvp.net",
+    "primaryColor": "#5f1913",
+    "secondaryColor": "#ed9b01",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -15,15 +18,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#5f1913",
-    "secondaryColor": "#ed9b01",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Factions"

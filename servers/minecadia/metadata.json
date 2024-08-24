@@ -6,7 +6,6 @@
     "description": "We are one of the largest cross platform compatible Networks!",
     "addresses": [
         "minecadia.com",
-        "play.minecadia.net",
         "minecadia.net"
     ],
     "primaryAddress": "play.minecadia.com",
@@ -16,7 +15,8 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#fcad05",

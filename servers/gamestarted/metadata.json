@@ -6,6 +6,8 @@
         "game-started.it"
     ],
     "primaryAddress": "mc.game-started.it",
+    "primaryColor": "#297b91",
+    "secondaryColor": "#066078",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,15 +15,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#297b91",
-    "secondaryColor": "#066078",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
