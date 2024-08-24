@@ -1,0 +1,40 @@
+{
+    "id": "townymc",
+    "name": "TownyMC",
+    "description": "",
+    "addresses": [
+        "TownyMC.de",
+        "dc.townymc.de"
+    ],
+    "primaryAddress": "TownyMC.de",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "",
+    "store": "",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
+    },
+    "socials": {
+        "twitter": "LunarNetwork",
+        "telegram": "lunarnetwork",
+        "discord": "https://www.lunar.gg/discord"
+    },
+    "crossplay": false
+}
