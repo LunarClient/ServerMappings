@@ -1,9 +1,8 @@
 {
-    "id": "Nexuscraft_Arena",
-    "name": "Nexuscraft  Arena",
+    "id": "Nexuscraft_NetWork",
+    "name": "Nexuscraft  Network",
     "addresses": [
-        "nexuscraftmg.fun",
-        "163.5.159.144:2513"
+        "play.nexuscraftmg.fun"
     ],
     "primaryAddress": "nexuscraftmg.fun",
     "minecraftVersions": [
@@ -35,6 +34,6 @@
     "website": "https://nexuscraftmg.fun",
     "store": "https://shop.nexuscraftmg.fun",
     "socials": {
-        "discord": "https://discord.gg/xPDptsEsQq"
+        "discord": "https://discord.gg/rbC7ASaRh3"
     }
 }
