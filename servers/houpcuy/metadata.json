@@ -4,7 +4,7 @@
     "description": "The Next Best PvP Server",
     "addresses": [
       "houpcuy.cc",
-      "neverminds.cc",
+      "neverminds.cc"
     ],
     "primaryAddress": "neverminds.cc",
     "minecraftVersions": [
@@ -28,7 +28,7 @@
       "Minigames"
     ],
     "website": "https://www.houpcuy.com",
-    "store": "https://houpcuy.com",
+    "store": "https://store.houpcuy.com",
     "socials": {
       "discord": "https://discord.gg/NPje2kPgrp"
     }
