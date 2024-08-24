@@ -5,9 +5,10 @@
     "addresses": [
       "potionmc.com",
       "potpvp.cc",
+      "potpvp.cn",
       "potpvp.lol"
     ],
-    "primaryAddress": "mc.potionmc.com",
+    "primaryAddress": "mc.potpvp.cc",
     "minecraftVersions": [
       "1.7.*",
       "1.8.*"
@@ -28,8 +29,8 @@
       "PvP",
       "Minigames"
     ],
-    "website": "https://www.potionmc.com",
-    "store": "https://store.potionmc.com",
+    "website": "https://www.potpvp.cc",
+    "store": "https://store.potpvp.cc",
     "socials": {
       "discord": "https://discord.gg/jBa9gmX6wS"
     }
