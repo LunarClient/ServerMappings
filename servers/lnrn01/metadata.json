@@ -3,10 +3,9 @@
   "name": "LNRN Network",
   "description": "A premium Minecraft experience offering PvP, Minigames, and more.",
   "addresses": [
-    "lnrn.lol",
-    "play.lnrn.lol"
+    "lnrn.lol"
   ],
-  "primaryAddress": "play.lnrn.lol",
+  "primaryAddress": "lnrn.lol",
   "minecraftVersions": [
     "1.7.*",
     "1.8.*",
@@ -15,7 +14,6 @@
   ],
 "primaryMinecraftVersion": "1.8.9",
   "gameTypes": [
-    "Bedwars",
     "MiniGames",
     "PVP",
     "Survival"
