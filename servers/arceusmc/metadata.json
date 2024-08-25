@@ -1,11 +1,15 @@
 {
     "id": "arceusmc",
     "name": "ArceusMC",
+    "website": "https://www.newarceusmc.it",
+    "store": "https://store.newarceusmc.it",
     "description": "Un server adatto per tutte le età!",
     "addresses": [
         "newarceusmc.it"
     ],
     "primaryAddress": "play.newarceusmc.it",
+    "primaryColor": "#ff7700",
+    "secondaryColor": "#7b00ff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -13,25 +17,21 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#ff7700",
-    "secondaryColor": "#7b00ff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
         "Skyblock",
         "Roleplay"
     ],
-    "website": "https://www.newarceusmc.it",
-    "store": "https://store.newarceusmc.it",
     "socials": {
-        "telegram": "arceusmc",
-        "discord": "https://discord.com/invite/hjBQVb7AvM"
+        "discord": "https://discord.com/invite/hjBQVb7AvM",
+        "telegram": "arceusmc"
     }
 }

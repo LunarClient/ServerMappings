@@ -3,10 +3,13 @@
     "name": "KIG Network",
     "website": "https://playkig.com/",
     "store": "https://store.playkig.com/",
+    "description": "Play Trouble in Mineville, Cowboys and Indians, Block Party, Gravity, and more!",
     "addresses": [
         "playkig.com",
         "hive.rip",
-        "cai.rip"
+        "cai.rip",
+        "timv.rip",
+        "timv.ing"
     ],
     "primaryAddress": "mc.playkig.com",
     "primaryColor": "#0b173d",
@@ -18,12 +21,18 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "Roleplay"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
     ],
     "socials": {
         "twitter": "kignetwork",

@@ -4,9 +4,7 @@
     "website": "http://mcpvp.club/",
     "store": "http://mcpvp.club/store",
     "addresses": [
-        "mcpvp.club",
-        "eu.mcpvp.club",
-        "east.mcpvp.club"
+        "mcpvp.club"
     ],
     "primaryAddress": "mcpvp.club",
     "primaryColor": "#ee092f",

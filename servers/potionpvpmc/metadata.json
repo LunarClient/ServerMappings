@@ -1,0 +1,41 @@
+{
+    "id": "potionpvpmc",
+    "name": "PotionPvP Network",
+    "description": "Competitive Minecraft Practice, Kits, UHC, Soup & Meetup!",
+    "addresses": [
+      "potionpvp.us"
+    ],
+    "primaryAddress": "play.potionpvp.us",
+    "minecraftVersions": [
+      "1.7.*",
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#990a00",
+    "secondaryColor": "#cccccc",
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
+    "gameTypes": [
+      "PvP",
+      "HCF",
+      "UHC"
+    ],
+    "website": "https://www.potionpvp.us",
+    "store": "https://www.potionpvp.us/store",
+    "socials": {
+      "twitter": "PlayPotionPvP",
+      "discord": "https://discord.com/invite/MKfjjdzUCe"
+    }
+}

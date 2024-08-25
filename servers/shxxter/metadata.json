@@ -1,0 +1,33 @@
+{
+    "id": "shxxter",
+    "name": "Shxxter Network",
+    "description": "Team up for unforgettable victories.",
+    "addresses": [
+        "shxxter.top"
+    ],
+    "primaryAddress": "shxxter.top",
+    "primaryColor": "#780606",
+    "secondaryColor": "#F9F6EE",
+    "minecraftVersions": [
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/JjdcRfvWPH"
+    },
+    "crossplay": false
+}

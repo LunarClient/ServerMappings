@@ -3,9 +3,12 @@
     "name": "SpaceHCF",
     "store": "https://store.spacehcf.us/",
     "addresses": [
-        "spacehcf.us"
+        "spacehcf.us",
+        "cristalix.es"
     ],
     "primaryAddress": "spacehcf.us",
+    "primaryColor": "#8900c1",
+    "secondaryColor": "#e300df",
     "primaryColor": "#e8282a",
     "secondaryColor": "#fb7104",
     "minecraftVersions": [
@@ -28,6 +31,7 @@
         "PvP"
     ],
     "socials": {
+        "twitter": "SpaceHCFUS",
         "discord": "https://discord.com/invite/pd3ScyHEg7"
     }
 }
