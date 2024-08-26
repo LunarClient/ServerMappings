@@ -2,9 +2,10 @@
     "id": "orbemc",
     "name": "OrbeMC",
     "addresses": [
-        "orbemc.cc"
+        "orbemc.es",
+        "orbemc.online"
     ],
-    "primaryAddress": "orbemc.cc",
+    "primaryAddress": "orbemc.es",
     "primaryColor": "#ff5af0",
     "secondaryColor": "#060627",
     "minecraftVersions": [
@@ -23,10 +24,11 @@
     ],
     "gameTypes": [
         "PvP",
-        "UHC"
+        "UHC",
+        "HCF"
     ],
     "socials": {
-        "twitter": "OrbeMC",
+        "twitter": "OrbeMC_",
         "discord": "http://discord.gg/orbemc"
     }
 }
