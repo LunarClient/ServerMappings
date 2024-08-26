@@ -27,10 +27,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Skyblock",
-        "Parkour",
-        "Roleplay",
-        "Creative"
+        "Roleplay"
     ],
     "socials": {
         "discord": "https://discord.gg/hfDwaVkPkH",
