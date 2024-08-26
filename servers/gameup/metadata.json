@@ -3,8 +3,8 @@
     "name": "GameUP",
     "website": "https://mc.gameup.ir/",
     "addresses": [
-        "mc.gameup.ir",
-        "play.voidpixel.ir"
+        "gameup.ir",
+        "voidpixel.ir"
     ],
     "primaryAddress": "mc.gameup.ir",
     "primaryColor": "#e0152d",
@@ -12,9 +12,6 @@
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
