@@ -3,7 +3,7 @@
     "name": "MineDeath Network",
     "description": "MineDeath Network",
     "addresses": [
-        "minedeath.es"
+        "minedeath.es" 
     ],
     "primaryAddress": "play.minedeath.es",
     "minecraftVersions": [
