@@ -31,9 +31,7 @@
     "website": "https://mcvision.pl/",
     "store": "https://mcvision.pl/servers",
     "compliance": {
-        "privacyPolicy": "https://mcvision.pl/regulamin",
-        "termsOfService": "https://mcvision.pl/regulamin",
-        "rules": "https://mcvision.pl/regulamin"
+        "termsOfService": "https://mcvision.pl/regulamin"
     },
     "socials": {
         "discord": "https://discord.com/invite/9rfrB9YGVS"
