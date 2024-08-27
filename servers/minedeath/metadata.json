@@ -1,7 +1,7 @@
 {
     "id": "minedeath",
     "name": "MineDeath Network",
-    "description": "MineDeath Network Server Español",
+    "description": "MineDeath Network",
     "addresses": [
         "play.minedeath.es"
     ],
@@ -15,7 +15,7 @@
     "secondaryColor": "#a854de",
     "primaryLanguage": "es",
     "languages": [
-        "es-EN"
+        "en"
     ],
     "primaryRegion": "NA",
     "regions": [
