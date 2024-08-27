@@ -2,10 +2,11 @@
     "id": "orbemc",
     "name": "OrbeMC",
     "addresses": [
+        "orbemc.net",
         "orbemc.es",
         "orbemc.online"
     ],
-    "primaryAddress": "orbemc.es",
+    "primaryAddress": "orbemc.net",
     "primaryColor": "#ff5af0",
     "secondaryColor": "#060627",
     "minecraftVersions": [
