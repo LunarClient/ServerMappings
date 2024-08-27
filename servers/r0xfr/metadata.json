@@ -24,7 +24,6 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
         "Survival",
         "Roleplay"
     ],
