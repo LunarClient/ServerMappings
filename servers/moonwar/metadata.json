@@ -1,0 +1,27 @@
+{
+    "id": "moonwar",
+    "name": "MoonWar",
+    "website": "https://www.moonwar.eu",
+    "description": "Minecraft ma sulla luna!",
+    "addresses": [
+        "mc.moonwar.eu"
+    ],
+    "primaryAddress": "play.moonwar.eu",
+    "minecraftVersions": [
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryColor": "#fee076",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "moonwar",
+        "discord": "https://discord.moonwar.eu"
+    }
+}
