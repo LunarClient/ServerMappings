@@ -17,7 +17,9 @@
     ],
     "primaryColor": "#fee076",
     "secondaryColor": "#ffffff",
-    "languages": "it",
+    "languages": [
+        "it"
+    ],
     "primaryLanguage": "it",
     "gameTypes": [
         "Survival"
