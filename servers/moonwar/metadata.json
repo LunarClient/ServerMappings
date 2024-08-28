@@ -17,14 +17,13 @@
     ],
     "primaryColor": "#fee076",
     "secondaryColor": "#ffffff",
-    "language": "it",
+    "languages": "it",
     "primaryLanguage": "it",
     "gameTypes": [
         "Survival"
     ],
     "socials": {
         "tiktok": "moonwar",
-        "website": "https://www.moonwar.eu",
         "discord": "https://discord.gg/invite/moonwar"
     }
 }
