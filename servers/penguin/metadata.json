@@ -3,7 +3,6 @@
     "name": "Penguin",
     "store": "https://store.penguin.gg/",
     "addresses": [
-        "play.penguin.gg",
         "penguin.gg"
     ],
     "primaryAddress": "play.penguin.gg",

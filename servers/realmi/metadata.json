@@ -17,6 +17,9 @@
     ],
     "primaryMinecraftVersion": "1.21",
     "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"

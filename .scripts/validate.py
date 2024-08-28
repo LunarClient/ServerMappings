@@ -12,6 +12,8 @@ import sys
 
 import jsonschema
 import requests
+from tld.utils import get_tld
+from collections import defaultdict
 from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark
 
 FILE_WHITELIST = [
@@ -143,7 +145,7 @@ def post_comment(messages: dict[str, list[str]]):
     )
 
 
-def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
+def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
     """
     This function checks all of the json files and validates them with their appropriate schemas.
 
@@ -153,7 +155,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
     Returns:
         dict[str, list[str]]: A dictionary mapping server IDs to lists of validation error messages.
     """
-    messages = {"Overall": []}
+    messages = defaultdict(list)
 
     # Validate Inactive File
     inactive_schema = {}
@@ -234,10 +236,30 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                 try:
                     server = json.load(server_file)
                     if server["id"] != server_id:
-                        messages[server_id] = [
-                            f"The ID field in the metadata.json does not match the file name of {server_id}.json (got {server['id']})"
-                        ]
-                        continue
+                        messages[server_id].append(f"The ID field in the metadata.json does not match the folder name of {server_id} (got {server['id']})")
+
+                    primary_domain = get_tld(server.get("primaryAddress", ""), as_object=True, fail_silently=True, fix_protocol=True)
+                    if primary_domain is not None and primary_domain.fld not in server["addresses"]:
+                        messages[server_id].append(f"The primary address' domain ({primary_domain.fld}) is not in the addresses list. Or the primary address is not a valid domain.")
+
+                    
+                    for address in server["addresses"]:
+                        if address == "apollo.lunarclient.com": # Skip this check for the Apollo server 
+                            continue
+
+                        domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
+                        if domain is not None and domain.subdomain:
+
+                            messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                    
+                    if primary_region := server.get("primaryRegion"):
+                        if not (regions := server.get("regions")) or primary_region not in regions:
+                            messages[server_id].append(f"The primary region ({primary_region}) does not exist in the regions key (or the regions key does not exist).")
+
+                    if primary_lang := server.get("primaryLanguage"):
+                        if not (languages := server.get("languages")) or primary_lang not in languages:
+                            messages[server_id].append(f"The primary language ({primary_lang}) does not exist in the languages key (or the languages key does not exist).")
+                    
                 except json.decoder.JSONDecodeError:
                     messages[server_id] = [
                         "metadata.json is malformed, please ensure it is valid json."

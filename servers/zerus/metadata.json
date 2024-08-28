@@ -3,9 +3,7 @@
     "name": "Zerus",
     "website": "https://zerus.kr",
     "addresses": [
-        "zerus.kr",
-        "zerus.mcv.kr",
-        "zerus.kro.kr"
+        "zerus.kr"
     ],
     "primaryAddress": "zerus.kr",
     "primaryColor": "#00DC79",

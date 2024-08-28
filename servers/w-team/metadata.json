@@ -4,10 +4,9 @@
     "store": "https://wteam.es",
     "description": "Un survival para jugar con amigos",
     "addresses": [
-        "wteam.holy.gg",
         "wteam.es"
     ],
-    "primaryAddress": "wteam.holy.gg",
+    "primaryAddress": "wteam.es",
     "minecraftVersions": [
         "1.21"
     ],

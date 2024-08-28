@@ -155,7 +155,7 @@
                     "type": "string"
                 },
                 "discord": {
-                    "type": "string"
+                    "$ref": "#/definitions/DiscordLink"
                 },
                 "youtube": {
                     "type": "string"
@@ -202,6 +202,10 @@
             "type": "string",
             "pattern": "^[a-z0-9_.-]+$"
         },
+        "DiscordLink": {
+            "type": "string",
+            "pattern": "(?i)^https?://(?:www\\.)?(?:discord\\.gg(?:/invite)?/[a-zA-Z0-9-]+|discord\\.com/invite/[a-zA-Z0-9-]+)/?$"
+        },
         "MinecraftVersion": {
             "type": "string",
             "enum": [
@@ -232,7 +236,8 @@
                 "1.20.4",
                 "1.20.5",
                 "1.20.6",
-                "1.21"
+                "1.21",
+                "1.21.1"
             ]
         },
         "MinecraftSubversion": {
