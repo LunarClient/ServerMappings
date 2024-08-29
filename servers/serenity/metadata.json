@@ -1,33 +1,36 @@
 {
-    "id": "serenity",
+    "id": "serenitynetwork",
     "name": "Serenity Network",
-    "website": "http://serenity.rip",
     "description": "A simple yet fun, Duels, BedWars and bridging practice server!",
     "addresses": [
       "serenity.rip"
     ],
     "primaryAddress": "serenity.rip",
-    "primaryColor": "#FFFFFF",
-    "secondaryColor": "#FFB3FD",
     "minecraftVersions": [
-      "1.7.*",
-      "1.8.*"
+        "1.7.*",
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": true,
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#FFB3FD",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "gameTypes": [
-      "PvP",
-      "Parkour"
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
     ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://serenity.rip",
+    "store": "https://store.serenity.rip",
     "socials": {
-      "discord": "https://discord.gg/2JJbT9eAtb"
-    }
+        "discord": "https://discord.gg/2JJbT9eAtb"
+    },
 }
