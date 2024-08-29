@@ -1,0 +1,34 @@
+{
+    "id": "serenity",
+    "name": "Serenity Network",
+    "website": "http://serenity.rip",
+    "description": "Spawn as a baby to a random player!",
+    "addresses": [
+      "play.serenity.rip"
+      "serenity.rip"
+    ],
+    "primaryAddress": "serenity.rip",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+      "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "BedWars",
+      "Duels",
+      "Fast Bridger"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/2JJbT9eAtb"
+    }
+}
