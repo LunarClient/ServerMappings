@@ -4,7 +4,6 @@
     "website": "http://serenity.rip",
     "description": "A simple yet fun, Duels, BedWars and bridging practice server!",
     "addresses": [
-      "play.serenity.rip"
       "serenity.rip"
     ],
     "primaryAddress": "serenity.rip",
@@ -24,9 +23,8 @@
         "en"
     ],
     "gameTypes": [
-      "BedWars",
-      "Duels",
-      "Fast Bridger"
+      "PvP",
+      "Parkour"
     ],
     "socials": {
       "discord": "https://discord.gg/2JJbT9eAtb"
