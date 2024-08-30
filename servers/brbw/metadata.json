@@ -1,0 +1,22 @@
+{
+    "id": "brbw",
+    "name": "brbw",
+    "addresses": [
+        "eu.brbw.fun",
+        "brbw.fun"
+    ],
+    "primaryAddress": "brbw.fun",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.9*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ]
+}
