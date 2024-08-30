@@ -1,8 +1,8 @@
 {
     "id": "brbw",
     "name": "brbw",
+    "description": "ranked bedwars server with automation that works with discord bot",
     "addresses": [
-        "eu.brbw.fun",
         "brbw.fun"
     ],
     "primaryAddress": "brbw.fun",
