@@ -5,7 +5,7 @@
     "store": "https://store.vorusmc.net/",
     "addresses": [
         "vorusmc.net",
-	"vorusmc.club"
+        "vorusmc.club"
     ],
     "primaryAddress": "vorusmc.net",
     "primaryColor": "#00eaff",
@@ -17,7 +17,7 @@
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
-        "PvP",
+        "PvP"
     ],
     "socials": {
         "twitter": "VorusMCNet",
