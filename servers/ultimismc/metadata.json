@@ -30,7 +30,9 @@
         "Minigames",
         "PvP",
         "Survival",
-        "Parkour"
+        "Parkour",
+        "PvE",
+        "Adventure"
     ],
     "socials": {
         "twitter": "ultimismc",
