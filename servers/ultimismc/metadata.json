@@ -29,7 +29,8 @@
     "gameTypes": [
         "Minigames",
         "PvP",
-        "Survival"
+        "Survival",
+        "Parkour"
     ],
     "socials": {
         "twitter": "ultimismc",
