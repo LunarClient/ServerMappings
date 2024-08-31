@@ -1,0 +1,44 @@
+{
+    "id": "rayzrealms",
+    "name": "Rayz Realms",
+    "description": "Best Survival RPG",
+    "addresses": [
+        "play.rayzrealms.xyz"
+    ],
+    "primaryAddress": "play.rayzrealms.xyz",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#f79328",
+    "secondaryColor": "#ff6105",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "website": "https://rayzrealms.xyz",
+    "store": "https://rayzrealms.tebex.io",
+    "compliance": {
+        "privacyPolicy": "https://rayzrealms.xyz",
+        "termsOfService": "https://rayzrealms.xyz",
+        "rules": "https://rayzrealms.xyz"
+    },
+    "socials": {
+        "instagram": "RayzRealms",
+        "youtube": "Rayzrealms",
+        "discord": "https://discord.gg/7d6vqpCdN5"
+    },
+    "crossplay": false
+}
