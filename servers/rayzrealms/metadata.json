@@ -6,7 +6,7 @@
         "play.rayzrealms.xyz",
         "rayzrealms.xyz"
     ],
-    "primaryAddress": "play.rayzrealms.xyz",
+    "primaryAddress": "rayzrealms.xyz",
     "minecraftVersions": [
         "1.8.*",
         "1.20.*"
