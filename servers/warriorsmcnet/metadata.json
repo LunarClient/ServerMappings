@@ -2,9 +2,9 @@
     "id": "warriorsmcnet",
     "name": "WarriorsMC Network",
     "addresses": [
-        "warriorsmc.net"
+        "warriorsmc.club"
     ],
-    "primaryAddress": "mc.warriorsmc.net",
+    "primaryAddress": "warriorsmc.club",
     "primaryColor": "#14cc00",
     "secondaryColor": "#1dde87",
     "minecraftVersions": [
@@ -20,7 +20,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/zrcsfQeRb9",
+        "discord": "https://discord.com/invite/K3vCnEQzgz",
         "instagram": "WarriorsMC.net_"
     },
     "crossplay": false
