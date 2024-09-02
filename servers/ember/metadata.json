@@ -1,0 +1,32 @@
+{
+    "id": "Ember",
+    "name": "Ember",
+    "website": "https://emberpvp.club/",
+    "store": "https://emberpvp.club/",
+    "addresses": [
+        "emberpvp.es"
+        "emberpvp.club"
+        "pvpsurge.com"
+    ],
+    "primaryAddress": "emberpvp.club",
+    "primaryColor": "#a84632",
+    "secondaryColor": "#611401",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "emberpvpnetwork",
+        "discord": "https://discord.gg/hcfactions"
+    }
+}
