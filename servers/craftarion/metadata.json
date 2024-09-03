@@ -23,9 +23,9 @@
         "EU"
     ],
     "gameTypes": [
-        "Towny",
-        "BoxPvP",
-        "KitPvP"
+        "Minigames",
+        "Survival",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/craftarion",
