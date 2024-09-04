@@ -1,0 +1,32 @@
+{
+    "id": "white",
+    "name": "WhitePvP",
+    "store": "https://store.whitepvp.es/",
+    "addresses": [
+        "whitepvp.es"
+    ],
+    "primaryAddress": "whitepvp.es",
+    "primaryColor": "#cc0000",
+    "secondaryColor": "#444444",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/YEaynzZsmd"
+    }
+}
