@@ -1,0 +1,40 @@
+{
+    "id": "nesiummc",
+    "name": "Nesium MC",
+    "description": "A thrilling SMP experience set in a unique 1m x 1m world, offering custom biomes, intense PvP, KOTH battles, and a variety of events.",
+    "addresses": [
+        "play.nesiummc.com",
+        "play.hyskies.net"
+    ],
+    "primaryAddress": "play.nesiummc.com",
+    "minecraftVersions": [
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "store": "https://store.nesiummc.com",
+    "socials": {
+        "tiktok": "nesiummc",
+        "discord": "https://discord.gg/p7yhqjemEa"
+    },
+    "crossplay": true
+}
