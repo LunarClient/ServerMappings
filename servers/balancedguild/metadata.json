@@ -3,10 +3,10 @@
   "name": "BalancedGuild",
   "store": "https://store.balancedguild.com",
   "website": "https://balancedguild.com/",
+  "description": "The original definitive South Asian PvP server.",
   "addresses": [
     "balancedguild.com"
   ],
-  "description": "The original definitive South Asian PvP server.",
   "primaryAddress": "balancedguild.com",
   "primaryColor": "#1af1e6",
   "secondaryColor": "#e5dc18",
@@ -31,6 +31,6 @@
   ],
   "socials": {
     "discord": "https://discord.gg/balanced-guild-1000313416436691027",
-    "youtube": "https://youtube.com/@balancedguild"
+    "youtube": "@balancedguild"
   }
 }
