@@ -71,7 +71,8 @@ def main():
                     "presentationVideo",
                     "modpack",
                     "tebexStore",
-                    "images"
+                    "images",
+                    "votingLinks",
                 ],
             )
             writer.writeheader()

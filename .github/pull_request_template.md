@@ -26,6 +26,7 @@
     -   [ ] `gameTypes`: a list of games that describe the content on your server, must be a max of 3 listed _(ez. `["PVP", "UHC", "HCF"]`)_
     -   [ ] `crossplay`: whether the server has support for Bedrock Edition players (through proxies such as [GeyserMC](https://geysermc.org/))
     -   [ ] (optional) `presentationVideo`: YouTube video ID (in slug) to server trailer / introduction _(ex. `7EV4cPuJvXE`)_
+    -   [ ] (optional) `votingLinks`: an array of urls to your server's listing on voting websites _(ex. `["https://minecraft-mp.com/server-s179012"]`)_
     -   [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) _(ex. `https://www.your-server.com`)_
     -   [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) _(ex. `https://store.your-server.com`)_
     -   [ ] (optional) `wiki`: url of server wiki, must include URL schema (http:// or https://) _(ex. `https://wiki.your-server.com`)_
