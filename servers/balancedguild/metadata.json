@@ -4,12 +4,12 @@
   "store": "https://store.balancedguild.com",
   "website": "https://balancedguild.com/",
   "addresses": [
-    "balancedguild.com",
-    "play.balancedguild.com"
+    "balancedguild.com"
   ],
+  "description": "The original definitive South Asian PvP server.",
   "primaryAddress": "balancedguild.com",
   "primaryColor": "#1af1e6",
-  "secondaryColor": "e5dc18",
+  "secondaryColor": "#e5dc18",
   "minecraftVersions": [
     "1.16.*",
     "1.17.*",
