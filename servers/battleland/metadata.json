@@ -1,0 +1,44 @@
+{
+    "id": "battleland",
+    "name": "Battle Land",
+    "description": "A experiencia do pvp do BattleBits em 2024...",
+    "addresses": [
+        "battle.land",
+        "battle-hg.com",
+        "weavenmc.com.br",
+        "lostmc.com.br",
+        "pateta.online"
+    ],
+    "primaryAddress": "battle.land",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "br",
+    "languages": [
+        "br"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.battle.land",
+    "store": "https://loja.battle.land",
+    "compliance": {
+        "privacyPolicy": "https://www.battle.land/privacidade",
+        "termsOfService": "https://www.battle.land/regras",
+        "rules": "https://www.battle.land/regras"
+    },
+    "socials": {
+        "twitter": "BattleLandMC",
+        "telegram": "battlelandmc",
+        "discord": "https://discord.gg/battleland"
+    },
+    "crossplay": false
+}
