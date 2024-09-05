@@ -1,7 +1,8 @@
 {
     "id": "nesiummc",
-    "name": "Nesium MC",
+    "name": "NesiumMC",
     "description": "A new thrilling SMP.",
+    "store": "https://store.nesiummc.com",    
     "addresses": [
         "nesiummc.com"
     ],
@@ -27,7 +28,7 @@
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://store.nesiummc.com",
+
     "socials": {
         "tiktok": "nesiummc",
         "discord": "https://discord.gg/p7yhqjemEa"
