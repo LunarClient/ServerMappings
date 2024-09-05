@@ -1,16 +1,12 @@
 {
     "id": "nesiummc",
     "name": "Nesium MC",
-    "description": "A thrilling SMP experience set in a unique 1m x 1m world, offering custom biomes, intense PvP, KOTH battles, and a variety of events.",
+    "description": "A new thrilling SMP.",
     "addresses": [
-        "play.nesiummc.com",
-        "play.hyskies.net"
+        "nesiummc.com",
     ],
     "primaryAddress": "play.nesiummc.com",
     "minecraftVersions": [
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.18.*",
         "1.19.*",
@@ -29,7 +25,7 @@
         "NA"
     ],
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "store": "https://store.nesiummc.com",
     "socials": {
