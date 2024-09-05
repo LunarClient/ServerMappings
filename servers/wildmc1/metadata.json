@@ -1,11 +1,11 @@
 {
     "id": "wildmc",
     "name": "WildMC",
-    "description": "Kitpv,Boxpvp e molto altro",
+    "description": "Kitpvp,Boxpvp e molto altro",
     "addresses": [
-        "play.wildmc.it"
+        "wildmc.it"
     ],
-    "primaryAddress": "play.wildmc.it",
+    "primaryAddress": "wildmc.it",
     "minecraftVersions": [
         "1.7.*",
         "1.21.*"
