@@ -1,0 +1,39 @@
+{
+    "id": "odysseynetwork",
+    "name": "Odyssey Network",
+    "website": "https://odysseynetwork.xyz",
+    "store": "https://odyssey-network.tebex.io/",
+    "description": "PvP Network for players, by players.",
+    "addresses": [
+        "odysseynetwork.xyz"
+    ],
+    "primaryAddress": "mc.odysseynetwork.xyz",
+    "primaryColor": "#00f3ff",
+    "secondaryColor": "#002bff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/NsX5QUnX",
+        "youtube": "OdysseyNetwork.oficial",
+        "tiktok": "odysseynetwork.mc",
+        "instagram": "odyssey.network.mc"
+    }
+}
