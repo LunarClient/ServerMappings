@@ -1,11 +1,11 @@
 {
     "id": "white",
     "name": "WhitePvP",
-    "store": "https://store.whitepvp.es/",
+    "store": "https://store.whitepvp.net/",
     "addresses": [
-        "whitepvp.es"
+        "whitepvp.net"
     ],
-    "primaryAddress": "whitepvp.es",
+    "primaryAddress": "whitepvp.net",
     "primaryColor": "#cc0000",
     "secondaryColor": "#444444",
     "minecraftVersions": [
