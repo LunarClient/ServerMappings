@@ -1,0 +1,38 @@
+{
+    "id": "ravehc",
+    "name": "RaveHC.pl",
+    "description": "Najlepszy serwer EasyHC",
+    "addresses": [
+        "ravehc.pl"
+    ],
+    "primaryAddress": "ravehc.pl",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryColor": "#006400",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "website": "https://ravehc.pl",
+    "store": "https://ravehc.pl/servers/easyhc",
+    "compliance": {
+        "privacyPolicy": "https://ravehc.pl/rules",
+        "termsOfService": "https://ravehc.pl/rules",
+        "rules": "https://ravehc.pl/rules"
+    },
+    "presentationVideo": "",
+    "socials": {
+        "discord": "https://dc.ravehc.pl"
+    },
+    "crossplay": false
+}
