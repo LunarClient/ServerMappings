@@ -9,7 +9,7 @@
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#006400",
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "pl",
@@ -32,7 +32,7 @@
     },
     "presentationVideo": "",
     "socials": {
-        "discord": "https://dc.ravehc.pl"
+        "discord": "https://discord.com/invite/TZER9tV2Ph"
     },
     "crossplay": false
 }
