@@ -1,0 +1,45 @@
+{
+    "id": "bulerman",
+    "name": "Bulerman.lol",
+    "description": "Bulerman.lol - Serwer bulermana!",
+    "addresses": [
+        "bulerman.lol"
+    ],
+    "primaryAddress": "bulerman.lol",
+    "minecraftVersions": [
+        "1.8.*",
+		"1.9.*",
+		"1.10.*",
+		"1.11.*",
+		"1.12.*",
+		"1.13.*",
+		"1.14.*",
+		"1.15.*",
+		"1.16.*",
+		"1.17.*",
+		"1.18.*",
+		"1.19.*",
+		"1.20.*",
+		"1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryColor": "#fca800",
+    "secondaryColor": "#00a800",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.bulerman.lol",
+    "socials": {
+		"tiktok": "adambulerman2",
+        "discord": "https://discord.gg/bulerman"
+    },
+    "crossplay": false
+}
