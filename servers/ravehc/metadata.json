@@ -26,11 +26,8 @@
     "website": "https://ravehc.pl",
     "store": "https://ravehc.pl/servers/easyhc",
     "compliance": {
-        "privacyPolicy": "https://ravehc.pl/rules",
-        "termsOfService": "https://ravehc.pl/rules",
         "rules": "https://ravehc.pl/rules"
     },
-    "presentationVideo": "",
     "socials": {
         "discord": "https://discord.com/invite/TZER9tV2Ph"
     },
