@@ -1,0 +1,42 @@
+{
+    "id": "florusnetwork",
+    "name": "Florus Network",
+    "website": "https://www.florus.cc",
+    "store": "https://store.florus.cc",
+    "rules": "https://ww.florus.cc/rules",
+    "description": "Best Server for Top Players",
+    "addresses": [
+      "florus.cc"
+    ],
+    "primaryAddress": "mc.florus.cc",
+    "primaryColor": "#5DE2E7",
+    "secondaryColor": "#F83F41",
+    "minecraftVersions": [
+      "1.21.*",
+      "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.*",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "HCF",
+      "Annihilation",
+      "Bunkers",
+      "Kitmap",
+      "Survival 1.21",
+      "FullPvP"
+    ],
+    "socials": {
+      "discordhcf": "https://discord.gg/fJyPs6Z6Pp",
+      "general-discord": "https://discord.gg/MEkBqvbxuH",
+      "twitter": "https://x.com/FlorusNetwork",
+      "twitch": "https://twitch.tv/FlorusNetwork"
+    }
+}
