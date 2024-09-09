@@ -3,7 +3,6 @@
     "name": "Florus Network",
     "website": "https://www.florus.cc",
     "store": "https://store.florus.cc",
-    "rules": "https://ww.florus.cc/rules",
     "description": "Best Server for Top Players",
     "addresses": [
       "florus.cc"
@@ -33,7 +32,7 @@
       "PvP"
     ],
     "socials": {
-      "dioscord": "https://discord.gg/MEkBqvbxuH",
+      "discord": "https://discord.gg/MEkBqvbxuH",
       "twitter": "https://x.com/FlorusNetwork",
       "twitch": "https://twitch.tv/FlorusNetwork"
     }
