@@ -3,7 +3,7 @@
   "name": "Florus Network",
   "description": "Cool minigames & pvp server.",
   "addresses": [
-    "mc.florus.cc"
+    "florus.cc"
   ],
   "primaryAddress": "mc.florus.cc",
   "minecraftVersions": [
