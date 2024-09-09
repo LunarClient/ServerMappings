@@ -5,7 +5,7 @@
   "addresses": [
     "florus.cc"
   ],
-  "primaryAddress": "mc.florus.cc",
+  "primaryAddress": "florus.cc",
   "minecraftVersions": [
     "1.7.10",
     "1.8.9",
