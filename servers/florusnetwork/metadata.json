@@ -25,15 +25,15 @@
         "en"
     ],
     "gameTypes": [
-      "HCF",
-      "Minigames",
-      "Survival",
-      "UHC",
-      "PvP"
+    "PvP",
+    "Minigames"
     ],
+    "compilance": {
+      "rules": "https://www.florus.cc/rules"
+    },
     "socials": {
       "discord": "https://discord.gg/MEkBqvbxuH",
-      "twitter": "https://x.com/FlorusNetwork",
-      "twitch": "https://twitch.tv/FlorusNetwork"
+      "twitter": "FlorusNetwork",
+      "twitch": "FlorusNetwork"
     }
 }
