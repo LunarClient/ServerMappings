@@ -12,10 +12,10 @@
     "primaryColor": "#5DE2E7",
     "secondaryColor": "#F83F41",
     "minecraftVersions": [
-      "1.21.*",
-      "1.8.*"
+      "1.21",
+      "1.8.9"
     ],
-    "primaryMinecraftVersion": "1.8.*",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -27,15 +27,13 @@
     ],
     "gameTypes": [
       "HCF",
-      "Annihilation",
-      "Bunkers",
-      "Kitmap",
-      "Survival 1.21",
-      "FullPvP"
+      "Minigames",
+      "Survival",
+      "UHC",
+      "PvP"
     ],
     "socials": {
-      "discordhcf": "https://discord.gg/fJyPs6Z6Pp",
-      "general-discord": "https://discord.gg/MEkBqvbxuH",
+      "dioscord": "https://discord.gg/MEkBqvbxuH",
       "twitter": "https://x.com/FlorusNetwork",
       "twitch": "https://twitch.tv/FlorusNetwork"
     }
