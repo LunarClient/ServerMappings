@@ -28,9 +28,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "BoxPvP",
-        "HCF",
-        "Practice"
+        "PvP",
+        "HCF"
     ],
     "socials": {
         "twitter": "SlainMC",
