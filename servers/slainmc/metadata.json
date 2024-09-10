@@ -4,8 +4,7 @@
     "store": "https://store.slainmc.net/",
     "description" : "A Java and Bedrock Network",
     "addresses": [
-        "slainmc.net",
-        "play.slainmc.net"
+        "slainmc.net"
     ],
     "primaryAddress": "slainmc.net",
     "primaryColor": "#FF0000",
