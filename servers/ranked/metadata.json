@@ -24,10 +24,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "UHC",
-	"PotSG",
-	"HCF",
-	"Annihilation"
+        "UHC"
     ],
     "socials": {
         "twitter": "RankedRip",
