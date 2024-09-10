@@ -1,0 +1,33 @@
+{
+    "id": "ranked",
+    "name": "RankedLand",
+    "store": "https://store.ranked.rip/",
+    "addresses": [
+        "ranked.rip"
+    ],
+    "primaryAddress": "ranked.rip",
+    "primaryColor": "##00ffff",
+    "secondaryColor": "#00aeae",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "RankedRip",
+        "discord": "https://discord.gg/GRbEDCe4RN"
+    }
+}
