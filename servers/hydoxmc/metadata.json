@@ -4,7 +4,7 @@
     "store": "https://store.hydoxmc.net/",
     "description": "HydoxMC have a competitive Lifesteal to play with friends!",
     "addresses": [
-        "play.hydoxmc.net"
+        "hydoxmc.net"
     ],
     "primaryAddress": "play.hydoxmc.net",
     "minecraftVersions": [
