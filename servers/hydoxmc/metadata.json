@@ -1,0 +1,33 @@
+{
+    "id": "hydoxmc",
+    "name": "HydoxMC",
+    "store": "https://store.hydoxmc.net/",
+    "description": "HydoxMC have a competitive Lifesteal to play with friends!",
+    "addresses": [
+        "play.hydoxmc.net"
+    ],
+    "primaryAddress": "play.hydoxmc.net",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#f7ff55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+ 	    "Lifesteal",
+        "Duels"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/2XzCa8MyHA",
+    }
+}
