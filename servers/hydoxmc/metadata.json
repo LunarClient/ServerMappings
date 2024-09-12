@@ -24,10 +24,10 @@
     ],
     "gameTypes": [
         "PvP",
- 	    "Lifesteal",
+        "Lifesteal",
         "Duels"
     ],
     "socials": {
-        "discord": "https://discord.gg/2XzCa8MyHA",
+        "discord": "https://discord.gg/2XzCa8MyHA"
     }
 }
