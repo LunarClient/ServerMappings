@@ -24,8 +24,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "Lifesteal",
-        "Duels"
+        "Survival",
+        "PvE"
     ],
     "socials": {
         "discord": "https://discord.gg/2XzCa8MyHA"
