@@ -1,0 +1,32 @@
+{
+    "id": "snowpvp",
+    "name": "SnowPvP Network",
+    "website": "https://snowpvp.com",
+    "store": "http://store.snowpvp.com",
+    "addresses": [
+        "snowpvp.com"
+    ],
+    "primaryAddress": "snowpvp.com",
+    "primaryColor": "#00ffee",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.*",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/snowpvp"
+    }
+}
