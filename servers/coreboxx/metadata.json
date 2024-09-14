@@ -1,0 +1,35 @@
+{
+    "id": "coreboxx",
+    "name": "CoreBoxx",
+    "website": "http://cbstore.thdr.me",
+    "store": "http://cbstore.thdr.me",
+    "description": "Boxmining done right, and much much more to come.",
+    "addresses": [
+      "thdr.me"
+    ],
+    "primaryAddress": "coreboxx.thdr.me",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "PvP",
+      "PvE",
+      "Prison"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/9n2EeWa22N"
+    }
+}
