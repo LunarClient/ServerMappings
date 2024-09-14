@@ -8,8 +8,8 @@
         "thdr.me"
     ],
     "primaryAddress": "coreboxx.thdr.me",
-    "primaryColor": "#FFFFFF",
-    "secondaryColor": "#D93E3E",
+    "primaryColor": "#CF69FF",
+    "secondaryColor": "#C0E6D5",
     "minecraftVersions": [
         "1.21",
         "1.21.1"
