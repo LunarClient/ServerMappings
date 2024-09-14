@@ -1,0 +1,46 @@
+{
+    "id": "idaliamc",
+    "name": "IdaliaMC Games",
+    "description": "Servidor argentino-venezolano dedicado a al entretenimiento y juego limpio.",
+    "addresses": [
+        "idaliamc.lat"
+    ],
+    "primaryAddress": "idaliamc.lat",
+    "primaryColor": "#0ab0b1",
+    "secondaryColor": "#bbbbbb",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+		"1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#1db954",
+    "secondaryColor": "#0e7eef",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "website": "https://idalia.buycraft.net/",
+    "store": "https://idalia.buycraft.net/",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival",
+        "PvE",
+        "Open World",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/vG2v8Dcyfd",
+        "youtube": "https://www.youtube.com/@idaliamc"
+    }
+}
