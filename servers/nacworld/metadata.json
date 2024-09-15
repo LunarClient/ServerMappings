@@ -17,7 +17,6 @@
     "primaryMinecraftVersion": "1.20",
     "primaryColor": "#ff9500",
     "secondaryColor": "#ffd000",
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -27,5 +26,4 @@
         "Minigame"
     ],
       "website": "https://nacworld.8u.cz/"
-    }
 }
