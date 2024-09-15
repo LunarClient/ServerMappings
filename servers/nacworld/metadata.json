@@ -3,9 +3,9 @@
     "name": "Nacworld",
     "description": "Československý mc server s ostrovy,parcely,eggwars,eventy",
     "addresses": [
-        "nacworld.8u.cz"
+        "nacworld.cz"
     ],
-    "primaryAddress": "nacworld.redirectme.net",
+    "primaryAddress": "nacworld.cz",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -17,16 +17,17 @@
     "primaryMinecraftVersion": "1.20",
     "primaryColor": "#ff9500",
     "secondaryColor": "#ffd000",
-    "primaryLanguage": "cz",
+    "primaryLanguage": "en",
     "languages": [
-        "cz"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "Eggwars"
+        "Survival",
+        "Minigame"
     ],
     "socials": {
         "website": "https://nacworld.8u.cz/"
