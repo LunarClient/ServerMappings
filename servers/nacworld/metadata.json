@@ -28,5 +28,6 @@
     "gameTypes": [
         "Survival",
         "Minigame"
+            ]
     }
 }
