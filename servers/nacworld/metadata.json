@@ -28,8 +28,5 @@
     "gameTypes": [
         "Survival",
         "Minigame"
-    ],
-    "socials": {
-        "website": "https://nacworld.8u.cz/"
     }
 }
