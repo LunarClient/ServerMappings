@@ -5,7 +5,7 @@
     "addresses": [
         "idaliamc.lat"
     ],
-    "primaryAddress": "idaliamc.lat",
+    "primaryAddress": "mc.idaliamc.lat",
     "primaryColor": "#0ab0b1",
     "secondaryColor": "#bbbbbb",
     "minecraftVersions": [
@@ -28,9 +28,9 @@
     "regions": [
         "SA"
     ],
-    "website": "https://idalia.buycraft.net/",
     "store": "https://idalia.buycraft.net/",
 	"crossplay": true,
+	"presentationVideo": "dJkq3NYxO3Y",
     "gameTypes": [
         "Minigames",
         "PvE",
