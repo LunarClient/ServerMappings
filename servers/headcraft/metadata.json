@@ -1,0 +1,35 @@
+{
+    "id": "headcraft",
+    "name": "HeadCraft",
+    "store": "https://tienda.headcraft.es/",
+    "addresses": [
+        "headcraft.es"
+    ],
+    "primaryColor": "#b50000",
+    "secondaryColor": "#ffa6a6",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryAddress": "headcraft.es",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hBKyW9tPm5"
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "arkamc",
+  "name": "ArkaMc",
+  "description": "ArkaMc, un serveur PvP/Faction Farm2Win avec un thème inédit !",
+  "addresses": [
+      "arkamc.fr"
+  ],
+  "primaryAddress": "play.arkamc.fr",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FFFF55",
+  "minecraftVersions": [
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryLanguage": "fr",
+  "languages": [
+      "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+      "EU"
+  ],
+  "gameTypes": [
+      "Factions",
+      "PvP"
+  ],
+  "website": "https://arkamc.fr",
+  "socials": {
+      "discord": "https://discord.gg/Kf4gjXCDmh",
+      "tiktok": "arkamc_network"
+  }
+}

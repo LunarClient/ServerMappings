@@ -1,0 +1,45 @@
+{
+    "id": "smeltblock",
+    "name": "SmeltBlock",
+    "description": "Smeltblock, le meilleur skyblock FR en 1.20.4",
+    "addresses": [
+        "smeltblock.com"
+    ],
+    "primaryAddress": "play.smeltblock.com",
+    "minecraftVersions": [
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#89de63",
+    "secondaryColor": "#71ecfb",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "AF",
+        "SA"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "website": "https://skyblock.fr/",
+    "wiki": "https://skyblock.fr/wiki",
+    "store": "https://skyblock.fr/boutique",
+    "compliance": {
+        "rules": "https://skyblock.fr/wiki/reglements/reglement/reglement",
+        "support": "https://skyblock.fr/wiki/autres/le-support"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/uhJgtZpzJv"
+    },
+    "crossplay": false
+}

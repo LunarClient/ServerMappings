@@ -1,0 +1,33 @@
+{
+    "id": "skyevel",
+    "name": "SkyEvel",
+    "description": "Vibrant worlds, endless possibilities.",
+    "website": "https://skyevel.com/",
+    "store": "https://store.skyevel.com/",
+    "addresses": [
+        "minezone.hu",
+        "skyevel.com"
+    ],
+    "primaryAddress": "play.skyevel.com",
+    "primaryColor": "#00C0FF",
+    "secondaryColor": "#F8AC23",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/skyevel"
+    }
+}

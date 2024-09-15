@@ -1,0 +1,21 @@
+{
+    "id": "liroyo",
+    "name": "Liroyo Network",
+    "store": "https://store.liroyo.online/",
+    "addresses": [
+        "topstrix.net",
+        "topstrix.com",
+        "liroyo.online"
+    ],
+    "primaryAddress": "liroyo.online",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "primaryColor": "#6b6968",
+    "secondaryColor": "#1a130e"
+}

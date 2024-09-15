@@ -1,0 +1,24 @@
+{
+  "id": "magemc",
+  "name": "MageMC",
+  "website": "https://magemc.nl",
+  "store": "https://store.magemc.nl/",
+  "wiki": "https://docs.magemc.nl/",
+  "description": "MageMC is an international Minecraft server for both Java and Bedrock players!",
+  "addresses": ["magemc.nl"],
+  "primaryAddress": "play.magemc.nl",
+  "minecraftVersions": ["1.20.*", "1.21"],
+  "primaryMinecraftVersion": "1.20.4",
+  "primaryColor": "#ef2cff",
+  "secondaryColor": "#aa1be0",
+  "crossplay": true,
+  "primaryLanguage": "en",
+  "languages": ["en"],
+  "primaryRegion": "EU",
+  "regions": ["EU", "NA"],
+  "gameTypes": ["Survival"],
+  "socials": {
+    "tiktok": "magemc",
+    "discord": "https://discord.gg/magemc"
+  }
+}

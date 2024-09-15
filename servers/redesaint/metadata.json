@@ -1,0 +1,39 @@
+{
+    "id": "redesaint",
+    "name": "Rede Saint",
+    "description": "A Rede Saint é o melhor Survival com textura e skyblock da comunidade",
+    "addresses": [
+        "redesaint.com"
+    ],
+    "primaryAddress": "redesaint.com",
+    "crossplay": true,
+    "primaryColor": "#ffe60e",
+    "secondaryColor": "#4afeff",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/redesaint",
+        "tiktok": "@redesaintoficial",
+        "youtube": "UCEH_3rFrll6GP7SItzPZ-wg",
+        "instagram": "serversaint",
+        "facebook": "redesaint",
+        "reddit": "RedeSaint",
+        "twitter": "RedeSaint"
+    }
+}

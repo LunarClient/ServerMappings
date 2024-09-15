@@ -19,6 +19,9 @@
         "es-EN"
     ],
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Survival",
         "Adventure",

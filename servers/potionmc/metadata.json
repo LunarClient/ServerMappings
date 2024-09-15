@@ -1,0 +1,37 @@
+{
+    "id": "potionmc",
+    "name": "PotionMC Network",
+    "description": "The Next Generation Competitive PvP Server",
+    "addresses": [
+      "potionmc.com",
+      "potpvp.cc",
+      "potpvp.cn",
+      "potpvp.lol"
+    ],
+    "primaryAddress": "mc.potpvp.cc",
+    "minecraftVersions": [
+      "1.7.*",
+      "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff60af",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "zh-CN",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+      "AS"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Minigames"
+    ],
+    "website": "https://www.potpvp.cc",
+    "store": "https://store.potpvp.cc",
+    "socials": {
+      "discord": "https://discord.gg/jBa9gmX6wS"
+    }
+}

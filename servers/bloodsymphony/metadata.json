@@ -12,7 +12,7 @@
 	],
 	"primaryAddress": "play.bloodsymphony.com",
 	"primaryColor": "#e55657",
-	"secondaryColor": "#fff",
+	"secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -25,7 +25,7 @@
     "primaryMinecraftVersion": "1.8.9",
 	"primaryRegion": "EU",
 	"regions": [
-        	"EU"
+        "EU"
     ],
     "primaryLanguage": "fr",
     "languages": [

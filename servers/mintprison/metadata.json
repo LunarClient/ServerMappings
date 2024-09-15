@@ -1,0 +1,39 @@
+{
+    "id": "mintprison",
+    "name": "MintMC",
+    "website": "https://mintmc.dk",
+    "store": "https://mintmc.dk/#butik",
+    "description": "Danmarks fedeste server.",
+    "addresses": [
+        "mintprison.dk",
+        "mintprison.com",
+        "mintmc.dk"
+    ],
+    "primaryAddress": "mintmc.dk",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
+    "socials": {
+        "discord": "https://discord.gg/mintmc",
+        "tiktok": "@mintprison",
+        "twitter": "mintprisondk",
+        "youtube": "@mintprison"
+    },
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "crossplay": false,
+    "presentationVideo": "BCZVcf1atfU",
+    "compliance": {
+        "termsOfService": "https://mintmc.dk/terms-of-service",
+        "rules": "https://mintmc.dk/rules"
+    }
+}

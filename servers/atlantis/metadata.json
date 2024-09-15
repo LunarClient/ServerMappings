@@ -1,0 +1,26 @@
+{
+	"id": "atlantis",
+	"name": "Atlantis",
+	"description": "Arena PvP with custom items, textures, weapons and more",
+	"store": "https://store.atlantismc.club/",
+	"addresses": [
+		"atlantismc.club"
+	],
+	"primaryAddress": "play.atlantismc.club",
+	"primaryColor": "#00fff1",
+	"secondaryColor": "#ffffff",
+	"minecraftVersions": [
+		"1.20.*"
+	],
+	"primaryMinecraftVersion": "1.20.1",
+	"primaryRegion": "EU",
+	"regions": [
+		"EU"
+	],
+	"gameTypes": [
+		"PvP"
+	],
+	"socials": {
+		"discord": "https://discord.gg/ewa6eg52pM"
+	}
+}
