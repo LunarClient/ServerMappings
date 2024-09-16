@@ -1,39 +1,37 @@
 {
-    id astralic,
-    name Astralic,
-    website httpsastralic.it,
-    store httpsstore.astralic.it,
-    description Astralic is an innovative and multi-language server open to everyone,
-    addresses [
-        play.astralic.it,
-        mc.astralic.it
+    "id": "astralic",
+    "name": "Astralic",
+    "website": "https://www.astralic.it/",
+    "store": "https://store.astralic.it/",
+    "description": "An innovative multi-language European server",
+    "addresses": [
+        "play.astralic.it",
+        "mc.astralic.it"
     ],
-    primaryAddress play.astralic.it,
-    primaryColor #B300FF,
-    secondaryColor #4100FF,
-    minecraftVersions [
-        1.19.,
-        1.20.,
-        1.21.
+    "primaryAddress": "play.astralic.it",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
-    primaryMinecraftVersion 1.19.4,
-    primaryRegion EU,
-    regions [
-        EU
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
     ],
-    primaryLanguage en,
-    languages [
-        it,
-        en,
-        fr,
-        de,
-        es-EN
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
     ],
-    gameTypes [
-        PvP,
-        Survival
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
     ],
-    socials {
-        discord httpsdiscord.astralic.it,
+    "socials": {
+        "discord": "https://discord.astralic.it"
     }
 }
