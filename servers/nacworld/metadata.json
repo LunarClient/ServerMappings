@@ -5,7 +5,7 @@
     "addresses": [
         "nacworld.cz"
     ],
-    "primaryAddress": "nacworld.cz",
+    "primaryAddress": "nacworld.myftp.org",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
