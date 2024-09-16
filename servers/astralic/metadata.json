@@ -1,0 +1,39 @@
+{
+    id astralic,
+    name Astralic,
+    website httpsastralic.it,
+    store httpsstore.astralic.it,
+    description Astralic is an innovative and multi-language server open to everyone,
+    addresses [
+        play.astralic.it,
+        mc.astralic.it
+    ],
+    primaryAddress play.astralic.it,
+    primaryColor #B300FF,
+    secondaryColor #4100FF,
+    minecraftVersions [
+        1.19.,
+        1.20.,
+        1.21.
+    ],
+    primaryMinecraftVersion 1.19.4,
+    primaryRegion EU,
+    regions [
+        EU
+    ],
+    primaryLanguage en,
+    languages [
+        it,
+        en,
+        fr,
+        de,
+        es-EN
+    ],
+    gameTypes [
+        PvP,
+        Survival
+    ],
+    socials {
+        discord httpsdiscord.astralic.it,
+    }
+}
