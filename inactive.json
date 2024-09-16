@@ -121,6 +121,7 @@
     "mythicgg",
     "mythonia",
     "ncea",
+    "neonetwork",
     "neptuniummc",
     "nightmc",
     "oceanmc",
@@ -130,7 +131,6 @@
     "ravenhub",
     "reberionnetwork",
     "renshu",
-    "rosenetwork",
     "savanapvp",
     "siege",
     "silveradomc",
@@ -260,5 +260,6 @@
     "zyro",
     "nekopvp",
     "shikamc",
-    "plasma"
+    "plasma",
+    "evamc"
 ]
