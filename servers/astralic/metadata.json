@@ -5,8 +5,7 @@
     "store": "https://store.astralic.it/",
     "description": "An innovative multi-language European server",
     "addresses": [
-        "play.astralic.it",
-        "mc.astralic.it"
+        "astralic.it"
     ],
     "primaryAddress": "play.astralic.it",
     "primaryColor": "#1387ca",
