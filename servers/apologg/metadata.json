@@ -1,18 +1,19 @@
 {
     "id": "apologg",
     "name": "Apolo",
+    "store": "https://store.apolo.gg",
     "description": "Minecraft HCF & Other",
     "addresses": [
         "apolo.gg"
     ],
     "primaryAddress": "apolo.gg",
+    "primaryColor": "#04d6f2",
+    "secondaryColor": "#008a99",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#04d6f2",
-    "secondaryColor": "#008a99",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -22,7 +23,6 @@
         "HCF",
         "UHC"
     ],
-    "store": "https://store.apolo.gg",
     "socials": {
         "twitter": "apologgnetwork",
         "discord": "https://discord.gg/hcfaction"

@@ -1,0 +1,33 @@
+{
+    "id": "levelsmp",
+    "name": "Level SMP",
+    "description": "5 Levels = 1 extra Heart",
+    "addresses": [
+      "levelsmp.org"
+    ],
+    "primaryAddress": "levelsmp.org",
+    "minecraftVersions": [
+      "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#6AE565",
+    "secondaryColor": "#D93E3E",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "Survival",
+      "PvP",
+      "Open World"
+    ],
+    "website": "http://shop.levelsmp.org",
+    "socials": {
+      "discord": "https://discord.gg/mb4ApHunU5"
+    },
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "crossplay": true
+}

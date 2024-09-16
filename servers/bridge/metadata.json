@@ -6,9 +6,9 @@
     "addresses": [
         "bridge.rip"
     ],
+    "primaryAddress": "bridge.rip",
     "primaryColor": "#f7b204",
     "secondaryColor": "#ffffff",
-    "primaryAddress": "bridge.rip",
     "gameTypes": [
         "PvP"
     ],

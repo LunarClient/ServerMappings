@@ -1,0 +1,27 @@
+{
+    "id": "vorusmc",
+    "name": "VorusMC",
+    "website": "https://vorusmc.net/",
+    "store": "https://store.vorusmc.net/",
+    "addresses": [
+        "vorusmc.net",
+        "vorusmc.club"
+    ],
+    "primaryAddress": "vorusmc.net",
+    "primaryColor": "#00eaff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "VorusMCNet",
+        "discord": "https://discord.com/invite/vorusmc",
+        "telegram": "vorusmcnet"
+    }
+}

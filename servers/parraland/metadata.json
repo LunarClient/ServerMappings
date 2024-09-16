@@ -1,0 +1,33 @@
+{
+    "id": "parraland",
+    "name": "Parraland Network",
+    "store": "https://tienda.parraland.es",
+    "addresses": [
+      "parraland.es"
+    ],
+    "primaryAddress": "parraland.es",
+    "primaryColor": "#008AFB",
+    "secondaryColor": "#59B4FF",
+    "minecraftVersions": [
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/parralandnet"
+    },
+    "crossplay": true
+  }

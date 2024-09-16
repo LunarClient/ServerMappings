@@ -1,0 +1,51 @@
+{
+    "id": "starnetwork",
+    "name": "StarNetwork",
+    "website": "https://starnetwork.fr/",
+    "store": "https://store.starnetwork.fr/",
+    "wiki": "https://starnetwork.fr/wiki/",
+    "description": "Serveur Minecraft Mini-Jeux Français",
+    "addresses": [
+        "starnetwork.fr"
+    ],
+    "primaryAddress": "mc.starnetwork.fr",
+    "primaryColor": "#FFE000",
+    "secondaryColor": "#FFB40E",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "StarNetworkFR",
+        "discord": "https://discord.com/invite/JUz6hTbPUc",
+        "youtube": "StarNetwork",
+        "instagram": "StarNetworkFR",
+        "tiktok": "starnetworkfr"
+    },
+    "compliance": {
+        "privacyPolicy": "https://starnetwork.fr/privacy",
+        "termsOfService": "https://starnetwork.fr/cgu-cgv",
+        "rules": "https://starnetwork.fr/rules",
+        "support": "https://starnetwork.fr/plainte-reclamation"
+    }
+}
