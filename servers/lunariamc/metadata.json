@@ -1,0 +1,38 @@
+{
+    "id": "lunariamc",
+    "name": "LunariaMC",
+    "website": "www.lunariamc.it",
+    "store": "store.lunariamc.it",
+    "addresses": [
+        "lunariamc.it"
+    ],
+    "primaryAddress": "lunarbox.net",
+    "minecraftVersions": [
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#a953ec",
+    "secondaryColor": "#ab40ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE",
+        "Adventure",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "discord.lunariamc.it"
+    },
+    "crossplay": false
+}
