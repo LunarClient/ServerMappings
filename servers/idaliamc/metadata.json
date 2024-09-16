@@ -29,8 +29,8 @@
         "SA"
     ],
     "store": "https://idalia.buycraft.net/",
-	"crossplay": true,
-	"presentationVideo": "dJkq3NYxO3Y",
+    "crossplay": true,
+    "presentationVideo": "dJkq3NYxO3Y",
     "gameTypes": [
         "Minigames",
         "PvE",
@@ -38,6 +38,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/vG2v8Dcyfd",
-        "youtube": "https://www.youtube.com/@idaliamc"
+        "youtube": "@idaliamc"
     }
 }
