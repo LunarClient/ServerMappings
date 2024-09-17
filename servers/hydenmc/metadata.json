@@ -1,14 +1,15 @@
 {
-    "id": "hydenmc",
-    "name": "HydenMC",
-    "website": "https://www.hydenmc.it/", 
-    "description": "Esplora il mondo di HydenMC e vivi l'esperienza unica della nostre modalità",
+    "id": "vanteymc",
+    "name": "VanteyMC",
+    "website": "https://www.vanteymc.it/", 
+    "description": "Esplora il mondo di VanteyMC e vivi l'esperienza unica della nostre modalità",
     "addresses": [
-        "hydenmc.it"
+        "hydenmc.it",
+        "vanteymc.it"
     ],
-    "primaryAddress": "play.hydenmc.it",
-    "primaryColor": "#1387ca",
-    "secondaryColor": "#262d37",
+    "primaryAddress": "play.vanteymc.it",
+    "primaryColor": "#8932b7",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
