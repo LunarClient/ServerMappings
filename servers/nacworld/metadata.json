@@ -3,7 +3,7 @@
     "name": "Nacworld",
     "description": "Československý mc server s ostrovy,parcely,eggwars,eventy",
     "addresses": [
-        "nacworld.cz"
+        "nacworld.ooj.cz"
     ],
     "primaryAddress": "nacworld.ooj.cz",
     "minecraftVersions": [
