@@ -1,36 +1,32 @@
 {
     "id": "lunariamc",
     "name": "LunariaMC",
-    "website": "https://www.lunariamc.it",
-    "store": "https://store.lunariamc.it",
+    "store": "https://store.lunariamc.it/",
     "addresses": [
-        "lunariamc.it"
+        "lnariamc.it"
     ],
     "primaryAddress": "play.lunariamc.it",
+    "primaryColor": "#8f00ff",
+    "secondaryColor": "#a953ec",
     "minecraftVersions": [
-        "1.20.4",
-        "1.20.5",
-        "1.20.6",
+        "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#a953ec",
-    "secondaryColor": "#ab40ff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
     "gameTypes": [
         "Survival",
-        "PvP",
-        "PvE",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/BPRnTcjAqt"
-    },
-    "crossplay": false
-}
+        "discord": "https://discord.gg/BPRnTcjAqt",
+        "tiktok": "lunariamc"
+    }
