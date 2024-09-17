@@ -1,12 +1,12 @@
 {
     "id": "lunariamc",
     "name": "LunariaMC",
-    "website": "www.lunariamc.it",
-    "store": "store.lunariamc.it",
+    "website": "https://www.lunariamc.it",
+    "store": "https://store.lunariamc.it",
     "addresses": [
         "lunariamc.it"
     ],
-    "primaryAddress": "lunarbox.net",
+    "primaryAddress": "play.lunariamc.it",
     "minecraftVersions": [
         "1.20.4",
         "1.20.5",
