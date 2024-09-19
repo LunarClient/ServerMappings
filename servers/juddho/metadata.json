@@ -1,0 +1,29 @@
+{
+    "id": "juddho",
+    "name": "Juddho",
+    "addresses": [
+        "juddho.fun"
+    ],
+    "primaryAddress": "juddho.fun",
+    "primaryColor": "#a06de8",
+    "secondaryColor": "#6d34bc",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/GmptZQfBRa"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "hyultra",
+    "name": "HyUltra",
+    "description": "Survival server with clans",
+    "addresses": [
+      "hyultra.gg"
+    ],
+    "primaryAddress": "mc.hyultra.gg",
+    "minecraftVersions": [
+      "1.20.*",
+      "1.21"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFA500",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Survival",
+      "Open World"
+    ],
+    "website": "https://hyultra.gg",
+    "store": "https://loja.hyultra.gg",
+    "socials": {
+      "discord": "https://discord.gg/m98Fj6uWeD"
+    },
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "crossplay": true
+}

@@ -1,0 +1,39 @@
+{
+    "id": "dextermc",
+    "name": "DexterMC",
+    "description": "Server lifesteal competitivo",
+    "addresses": [
+        "dextermc.it"
+    ],
+    "primaryAddress": "play.dextermc.it",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.dextermc.it",
+    "store": "https://store.dextermc.it",
+    "compliance": {
+        "privacyPolicy": "https://www.dextermc.it/privacy",
+        "termsOfService": "https://www.dextermc.it/termini",
+        "rules": "https://www.dextermc.it/regole"
+    },
+    "socials": {
+        "twitter": "DexterMC",
+        "telegram": "@dextermc",
+        "discord": "https://discord.gg/dextermc"
+    },
+    "crossplay": false
+}
