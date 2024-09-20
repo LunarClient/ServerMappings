@@ -5,7 +5,7 @@
     "addresses": [
         "wildmc.it"
     ],
-    "primaryAddress": "wildmc.it",
+    "primaryAddress": "play.wildmc.it",
     "minecraftVersions": [
         "1.7.*",
         "1.20.*",
