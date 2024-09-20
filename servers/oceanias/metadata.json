@@ -29,7 +29,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames"
+        "Minigames",
+        "UHC"
     ],
     "socials": {
         "discord": "https://discord.com/invite/oceanias/",
