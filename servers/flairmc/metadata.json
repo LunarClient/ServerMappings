@@ -1,0 +1,32 @@
+{
+    "id": "flairmc",
+    "name": "FlairMC",
+    "website": "https://www.flairmc.it/",
+    "store": "https://store.flairmc.it/",
+    "description": "FlairMC è il #1 Server CPvP Divertente e Competitivo",
+    "addresses": [
+        "flairmc.it"
+    ],
+    "primaryAddress": "play.flairmc.it",
+    "primaryColor": "#FFFF00",
+    "secondaryColor": "#Ffa500",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/4xpyMf77V5",
+        "telegram": "FlairMC"
+    }
+}
