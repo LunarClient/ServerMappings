@@ -1,39 +1,39 @@
 {
     "id": "axelcraft",
     "name": "AxelCraft",
+    "website": "https://axelcraft.pl",
+    "store": "https://axelcraft.pl/sklep",
     "description": "Zapraszamy na nasze serwery: OneBlock, BoxPvP, Survival Działki, LifeSteal SMP",
     "addresses": [
         "axelcraft.pl"
     ],
     "primaryAddress": "axelcraft.pl",
+    "primaryColor": "#b97ffb",
+    "secondaryColor": "#0ec6d6",
     "minecraftVersions": [
         "1.19.3",
         "1.19.4",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#b97ffb",
-    "secondaryColor": "#0ec6d6",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "Skyblock",
         "PvP",
         "Survival"
     ],
-    "website": "https://axelcraft.pl",
-    "store": "https://axelcraft.pl/sklep",
     "socials": {
         "discord": "https://discord.gg/axelcraft",
         "tiktok": "axelcraftpl",
         "youtube": "axelcraftpl",
         "facebook": "AxelCraftPL"
-    },
-    "crossplay": false
+    }
 }

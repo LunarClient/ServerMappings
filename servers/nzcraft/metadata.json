@@ -3,7 +3,7 @@
     "name": "NZCraft Network",
     "store": "https://tienda.nzcraft.net/",
     "addresses": [
-        "play.nzcraft.net"
+        "nzcraft.net"
     ],
     "primaryAddress": "play.nzcraft.net",
     "primaryColor": "#e8abed",

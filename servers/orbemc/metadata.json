@@ -1,0 +1,35 @@
+{
+    "id": "orbemc",
+    "name": "OrbeMC",
+    "addresses": [
+        "orbemc.net",
+        "orbemc.es",
+        "orbemc.online"
+    ],
+    "primaryAddress": "orbemc.net",
+    "primaryColor": "#ff5af0",
+    "secondaryColor": "#060627",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "OrbeMC_",
+        "discord": "http://discord.gg/orbemc"
+    }
+}

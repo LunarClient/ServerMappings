@@ -3,7 +3,8 @@
     "name": "PolarPvP",
     "description": "El servidor más frío de HCF!",
     "addresses": [
-        "polarpvp.cc"
+        "polarpvp.cc",
+        "polarpvp.live"
     ],
     "primaryAddress": "polarpvp.live",
     "minecraftVersions": [
