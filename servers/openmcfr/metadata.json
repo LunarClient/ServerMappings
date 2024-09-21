@@ -3,7 +3,7 @@
     "name": "OpenMC",
     "description": "VOTRE serveur Minecraft",
     "addresses": [
-        "openmc.fr",
+        "openmc.fr"
     ],
     "primaryAddress": "play.openmc.fr",
     "minecraftVersions": [
