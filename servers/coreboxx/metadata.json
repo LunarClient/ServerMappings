@@ -1,7 +1,7 @@
 {
     "id": "coreboxx",
     "name": "CoreBoxx",
-    "store": "http://cbstore.thdr.me",
+    "store": "http://box.coreboxx.store",
     "description": "Boxmining done right, and much much more to come.",
     "addresses": [
         "thdr.me"
