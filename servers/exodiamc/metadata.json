@@ -3,8 +3,7 @@
     "name": "Exodia Network",
     "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
     "addresses": [
-        "mc.gamesmadeinpola.com",
-        "play.exodiamc.net",
+        "gamesmadeinpola.com",
         "exodiamc.net"
     ],
     "primaryAddress": "exodiamc.net",
@@ -12,10 +11,10 @@
         "1.8.*",
         "1.21"
     ],
-    "primaryMinecraftVersion": "1.21.0",
+    "primaryMinecraftVersion": "1.21",
     "primaryColor": "#f59842",
     "secondaryColor": "#ffc363",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
     ],
@@ -25,10 +24,8 @@
         "EU"
     ],
     "gameTypes": [
-        "PvE",
         "PvP",
-        "Survival",
-        "Factions"
+        "Survival"
     ],
     "website": "https://tienda.exodiamc.net/",
     "store": "https://tienda.exodiamc.net/",
@@ -41,7 +38,7 @@
         "twitter": "https://twitter.exodiamc.net",
         "youtube": "https://youtube.exodiamc.net",
         "instagram": "https://instagram.exodiamc.net",
-        "discord": "https://discord.exodiamc.net"
+        "discord": "https://discord.gg/exodiamc"
     },
     "crossplay": false
 }
