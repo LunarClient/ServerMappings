@@ -1,0 +1,54 @@
+{
+    "id": "exodiamc",
+    "name": "Exodia Network",
+    "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
+    "addresses": [
+        "mc.gamesmadeinpola.com",
+        "play.exodiamc.net",
+        "play.exodiamc.net"
+    ],
+    "primaryAddress": "play.exodiamc.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.0",
+    "primaryColor": "#f59842",
+    "secondaryColor": "#ffc363",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Gens",
+        "SkyBlock",
+        "CTW",
+        "Minigames"
+    ],
+    "website": "http://tienda.exodiamc.net/",
+    "store": "http://tienda.exodiamc.net/",
+    "compliance": {
+        "privacyPolicy": "http://tienda.exodiamc.net/privacy",
+        "termsOfService": "http://tienda.exodiamc.net/terms",
+        "rules": "http://rules.exodiamc.net/"
+    },
+    "socials": {
+        "twitter": "http://twitter.exodiamc.net",
+        "youtube": "http://youtube.exodiamc.net",
+        "instagram": "http://instagram.exodiamc.net",
+        "discord": "http://discord.exodiamc.net"
+    },
+    "crossplay": true
+}
