@@ -3,9 +3,9 @@
     "name": "SkallCraft",
     "description": "Competitive and friendly server.",
     "addresses": [
-        "skallcraft.net"
+        "skallcraft.com"
     ],
-    "primaryAddress": "play.skallcraft.net",
+    "primaryAddress": "play.skallcraft.com",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -32,7 +32,7 @@
         "Minigames",
         "Prison"
     ],
-    "store": "https://tienda.skallcraft.net/",
+    "store": "https://store.skallcraft.com/",
     "socials": {
         "discord": "https://discord.gg/8wB7jHDJZs"
     },
