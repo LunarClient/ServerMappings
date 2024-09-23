@@ -5,24 +5,19 @@
     "addresses": [
         "mc.gamesmadeinpola.com",
         "play.exodiamc.net",
-        "play.exodiamc.net"
+        "exodiamc.net"
     ],
-    "primaryAddress": "play.exodiamc.net",
+    "primaryAddress": "exodiamc.net",
     "minecraftVersions": [
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.1"
+        "1.21"
     ],
     "primaryMinecraftVersion": "1.21.0",
     "primaryColor": "#f59842",
     "secondaryColor": "#ffc363",
     "primaryLanguage": "es",
     "languages": [
-        "es",
-        "en"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -30,25 +25,23 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival",
+        "PvE",
         "PvP",
-        "Gens",
-        "SkyBlock",
-        "CTW",
-        "Minigames"
+        "Survival",
+        "Factions"
     ],
-    "website": "http://tienda.exodiamc.net/",
-    "store": "http://tienda.exodiamc.net/",
+    "website": "https://tienda.exodiamc.net/",
+    "store": "https://tienda.exodiamc.net/",
     "compliance": {
-        "privacyPolicy": "http://tienda.exodiamc.net/privacy",
-        "termsOfService": "http://tienda.exodiamc.net/terms",
-        "rules": "http://rules.exodiamc.net/"
+        "privacyPolicy": "https://tienda.exodiamc.net/privacy",
+        "termsOfService": "https://tienda.exodiamc.net/terms",
+        "rules": "https://rules.exodiamc.net/"
     },
     "socials": {
-        "twitter": "http://twitter.exodiamc.net",
-        "youtube": "http://youtube.exodiamc.net",
-        "instagram": "http://instagram.exodiamc.net",
-        "discord": "http://discord.exodiamc.net"
+        "twitter": "https://twitter.exodiamc.net",
+        "youtube": "https://youtube.exodiamc.net",
+        "instagram": "https://instagram.exodiamc.net",
+        "discord": "https://discord.exodiamc.net"
     },
-    "crossplay": true
+    "crossplay": false
 }
