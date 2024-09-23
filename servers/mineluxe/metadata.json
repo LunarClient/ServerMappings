@@ -2,7 +2,7 @@
     "id": "mineluxe",
     "name": "MineLuxe Network",
     "addresses": [
-        "mc.mineluxe.us"
+        "mineluxe.us"
     ],
     "primaryAddress": "mc.mineluxe.us",
     "minecraftVersions": [
@@ -35,7 +35,7 @@
     ],
     "store": "https://tienda.mineluxe.us",
     "socials": {
-        "discord": "https://discord.mineluxe.us/"
+        "discord": "https://discord.gg/EjkaJTtCcD"
     },
     "crossplay": true
 }
