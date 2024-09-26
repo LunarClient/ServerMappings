@@ -18,9 +18,9 @@
     "regions": [
         "SA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "store": "https://tienda.racsu.com",
     "gameTypes": [
