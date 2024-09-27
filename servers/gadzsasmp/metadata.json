@@ -1,0 +1,28 @@
+{
+    "id": "gadzsasmp",
+    "name": "Gadzsa SMP",
+    "addresses": [
+        "chorus.hu"
+    ],
+    "primaryAddress": "play.chorus.hu",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ff1000",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/chorus",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+    }
+}
