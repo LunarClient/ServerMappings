@@ -2,7 +2,7 @@
     "id": "gadzsasmp",
     "name": "Gadzsa SMP",
     "addresses": [
-        "chorus.hu"
+        "chorus.hu:7004"
     ],
     "primaryAddress": "play.chorus.hu",
     "primaryColor": "#ffffff",
