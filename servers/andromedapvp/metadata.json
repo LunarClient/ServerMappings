@@ -15,7 +15,7 @@
     "secondaryColor": "#a854de",
     "primaryLanguage": "PT",
     "languages": [
-        "PT"
+        "PT",
         "EN"
     ],
     "primaryRegion": "EU",
@@ -25,12 +25,11 @@
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://wiki.andromedapvp.xyz/",
     "store": "https://andromedapvp.craftingstore.net/",
     },
     "socials": {
-        "youtube": "andromedapvp"
-        "tiktok": "andromedapvpminecraft"
-        "instragram": "andromedapvp"
+        "youtube": "andromedapvp",
+        "tiktok": "andromedapvpminecraft",
+        "instragram": "andromedapvp",
         "discord": "https://discord.gg/eMGpBSrSEs"
     }
