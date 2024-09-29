@@ -3,7 +3,6 @@
     "name": "AndromedaPVP",
     "store": "https://andromedapvp.craftingstore.net/",
     "addresses": [
-        "andromedapvp.xyz",
         "andromedapvp.xyz"
     ],
     "primaryAddress": "andromedapvp.xyz",
@@ -13,9 +12,9 @@
     "primaryMinecraftVersion": "1.21",
     "primaryColor": "#fbf6e4",
     "secondaryColor": "#8677ad",
-    "primaryLanguage": "pt",
+    "primaryLanguage": "pt-PT",
     "languages": [
-        "pt"
+        "pt-PT"
     ],
     "primaryRegion": "EU",
     "regions": [
