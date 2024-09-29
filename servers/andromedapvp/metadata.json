@@ -1,35 +1,33 @@
 {
     "id": "andromedapvp",
     "name": "AndromedaPVP",
-    "description": "Uma network com Survival e muito mais!",
+    "store": "https://andromedapvp.craftingstore.net/",
     "addresses": [
         "andromedapvp.xyz",
+        "andromedapvp.xyz"
     ],
     "primaryAddress": "andromedapvp.xyz",
     "minecraftVersions": [
-        "1.20*",
-        "1.21.1*"
+        "1.20.*",
+        "1.21.1"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#f2f2f3",
+    "secondaryColor": "#fef334",
     "primaryLanguage": "pt",
     "languages": [
-        "pt",
-        "en"
+        "pt"
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://andromedapvp.craftingstore.net/",
-    },
     "socials": {
-        "youtube": "andromedapvp",
-        "tiktok": "andromedapvpminecraft",
-        "instragram": "andromedapvp",
-        "discord": "https://discord.gg/eMGpBSrSEs"
+        "discord": "https://discord.com/invite/eMGpBSrSEs",
+        "tiktok": "andromedapvp",
+        "youtube": "andromedapvp"
     }
+}
