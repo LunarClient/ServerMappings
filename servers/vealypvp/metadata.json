@@ -3,9 +3,11 @@
     "name": "Vealy Network",
     "store": "https://store.vealy.us/",
     "addresses": [
-        "vealy.us"
+        "vealy.us",
+        "VealyPvP.us"
     ],
     "primaryAddress": "vealy.us",
+    "SecondaryAddres": "vealyPvP.us",
     "primaryColor": "#279cd6",
     "secondaryColor": "#dc7eed",
     "minecraftVersions": [
