@@ -1,0 +1,50 @@
+{
+    "id": "szamancraft",
+    "name": "SzamanCraft",
+    "description": "Rozpocznij swoja przygode juz teraz!",
+    "addresses": [
+        "szamancraft.pl",
+        "szamancraft.ct8.pl"
+    ],
+    "primaryAddress": "szamancraft.pl",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#efff28",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure"
+    ],
+    "website": "https://www.szamancraft.pl",
+    "store": "https://www.szamancraft.pl/store",
+    "compliance": {
+        "privacyPolicy": "https://www.szamancraft.pl/privacy",
+        "termsOfService": "https://www.szamancraft.pl/terms",
+        "rules": "https://www.szamancraft.pl/forum/view/2-zasady-i-tartyfikator-serwera/"
+    },
+    "socials": {
+        "youtube": "https://www.szamancraft.pl/youtube",
+        "tiktok": "https://www.szamancraft.pl/tiktok",
+        "discord": "https://www.szamancraft.pl/discord"
+    },
+    "crossplay": true
+}
