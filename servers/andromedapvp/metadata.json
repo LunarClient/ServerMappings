@@ -1,16 +1,16 @@
 {
     "id": "andromedapvp",
     "name": "AndromedaPVP",
-    "description": "Home of Competitive Minecraft PvP",
+    "description": "Uma network com Survival e muito mais!",
     "addresses": [
         "andromedapvp.xyz",
     ],
     "primaryAddress": "andromedapvp.xyz",
     "minecraftVersions": [
-        "1.20.*",
+        "1.20*",
         "1.21.1*"
     ],
-    "primaryMinecraftVersion": "1.20",
+    "primaryMinecraftVersion": "1.21.1",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
     "primaryLanguage": "PT",
@@ -28,12 +28,9 @@
     "website": "https://wiki.andromedapvp.xyz/",
     "store": "https://andromedapvp.craftingstore.net/",
     },
-    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
         "youtube": "andromedapvp"
         "tiktok": "andromedapvpminecraft"
         "instragram": "andromedapvp"
         "discord": "https://discord.gg/eMGpBSrSEs"
     },
-    "crossplay": false
-}
