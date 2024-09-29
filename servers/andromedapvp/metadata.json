@@ -8,10 +8,9 @@
     ],
     "primaryAddress": "andromedapvp.xyz",
     "minecraftVersions": [
-        "1.20.*",
         "1.21.1"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21",
     "primaryColor": "#fbf6e4",
     "secondaryColor": "#8677ad",
     "primaryLanguage": "pt",
