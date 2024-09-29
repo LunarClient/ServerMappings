@@ -3,8 +3,7 @@
     "name": "SzamanCraft",
     "description": "Rozpocznij swoja przygode juz teraz!",
     "addresses": [
-        "szamancraft.pl",
-        "szamancraft.ct8.pl"
+        "szamancraft.pl"
     ],
     "primaryAddress": "szamancraft.pl",
     "minecraftVersions": [
