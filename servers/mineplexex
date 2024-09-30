@@ -1,0 +1,30 @@
+{
+    "id": "mineplex",
+    "name": "MinePlex Network",
+    "store": "https://tienda.mineplex.es/",
+    "addresses": [
+        "mineplex.es"
+    ],
+    "primaryAddress": "mineplex.es",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryColor": "#6CF70C",
+    "secondaryColor": "#0CF7F0",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "mineplexntb",
+        "discord": "https://discord.mineplex.es",
+        "tiktok": "mineplex.es"
+    }
+}
