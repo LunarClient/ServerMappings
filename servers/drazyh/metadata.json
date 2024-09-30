@@ -1,7 +1,7 @@
 {
     "id": "drazyh",
     "name": "Drazyh",
-    "description": "Drazyh is a Minecraft 1.8.9 server network focused on PvP, offering competitive gameplay and custom events.",
+    "description": "Drazyh is a Minecraft 1.8.9 PvP server network offering competitive gameplay and custom events.",
     "website": "https://loja.drazyh.com",
     "store": "https://loja.drazyh.com",
     "addresses": [
@@ -24,8 +24,8 @@
         "pt-PT"
     ],
     "gameTypes": [
-        "P4Free",
-        "RankUP",
+        "PvP",
+        "Prison",
         "Factions"
     ],
     "socials": {
