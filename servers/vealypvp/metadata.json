@@ -3,7 +3,8 @@
     "name": "Vealy Network",
     "store": "https://store.vealy.us/",
     "addresses": [
-        "vealy.us"
+        "vealy.us",
+        "vealypvp.us"
     ],
     "primaryAddress": "vealy.us",
     "primaryColor": "#279cd6",
