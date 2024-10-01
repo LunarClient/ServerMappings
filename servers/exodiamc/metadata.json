@@ -27,18 +27,16 @@
         "PvP",
         "Survival"
     ],
-    "website": "https://tienda.exodiamc.net/",
-    "store": "https://tienda.exodiamc.net/",
+    "website": "play.exodiamc.net",
+    "store": "tienda.exodiamc.net",
     "compliance": {
         "privacyPolicy": "https://tienda.exodiamc.net/privacy",
         "termsOfService": "https://tienda.exodiamc.net/terms",
         "rules": "https://rules.exodiamc.net/"
     },
     "socials": {
-        "twitter": "https://twitter.exodiamc.net",
-        "youtube": "https://youtube.exodiamc.net",
-        "instagram": "https://instagram.exodiamc.net",
-        "discord": "https://discord.gg/exodiamc"
+        "instagram": "exodia_network",
+        "discord": "https://discord.com/invite/gmip"
     },
     "crossplay": false
 }
