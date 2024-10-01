@@ -27,8 +27,8 @@
         "PvP",
         "Survival"
     ],
-    "website": "play.exodiamc.net",
-    "store": "tienda.exodiamc.net",
+    "website": "https://play.exodiamc.net",
+    "store": "https://tienda.exodiamc.net",
     "compliance": {
         "privacyPolicy": "https://tienda.exodiamc.net/privacy",
         "termsOfService": "https://tienda.exodiamc.net/terms",
