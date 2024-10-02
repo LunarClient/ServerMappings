@@ -8,6 +8,8 @@
         "buzzmc.org"
     ],
     "primaryAddress": "play.buzzmc.org",
+    "primaryColor": "#fabc44",
+    "secondaryColor": "#99c2d4",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -16,15 +18,13 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#fabc44",
-    "secondaryColor": "#99c2d4",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Prison",

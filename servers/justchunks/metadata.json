@@ -1,0 +1,48 @@
+{
+  "id": "justchunks",
+  "name": "JustChunks",
+  "description": "Fight your way through dungeons and rise to the top of the Adventurers Guild!",
+  "addresses": [
+    "justchunks.net"
+  ],
+  "primaryAddress": "mc.justchunks.net",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "primaryColor": "#24be62",
+  "secondaryColor": "#222222",
+  "languages": [
+    "en",
+    "de"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "gameTypes": [
+    "PvE",
+    "Adventure",
+    "PvP"
+  ],
+  "website": "https://justchunks.net",
+  "store": "https://justchunks.net/shop",
+  "compliance": {
+    "privacyPolicy": "https://justchunks.net/legal/privacy",
+    "termsOfService": "https://justchunks.net/legal/terms",
+    "rules": "https://justchunks.net/rules"
+  },
+  "presentationVideo": "bcsxa9oqkas",
+  "socials": {
+    "twitter": "JustChunks",
+    "discord": "https://discord.com/invite/wf94dAA",
+    "youtube": "JustChunks",
+    "instagram": "justchunks",
+    "twitch": "justchunks",
+    "reddit": "JustChunks",
+    "tiktok": "justchunksnet",
+    "facebook": "JustChunks"
+  },
+  "crossplay": false
+}

@@ -1,32 +1,33 @@
 {
     "id": "gemoria",
     "name": "Gemoria",
+    "website": "https://www.gemoria.net",
+    "store": "https://store.gemoria.net",
     "description": "Il punto di riferimento per il PvP 1.20",
     "addresses": [
         "gemoria.net"
     ],
     "primaryAddress": "gemoria.net",
+    "primaryColor": "#822894",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#822894",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "website": "https://www.gemoria.net",
-    "store": "https://store.gemoria.net",
     "compliance": {
         "privacyPolicy": "https://www.gemoria.net/privacy",
         "rules": "https://www.gemoria.net/regolamento"
@@ -34,6 +35,5 @@
     "socials": {
         "telegram": "gemoria_official",
         "discord": "https://discord.com/invite/AZXqPFxZMh"
-    },
-    "crossplay": false
+    }
 }

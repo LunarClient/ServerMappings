@@ -1,0 +1,35 @@
+{
+    "id": "houpcuy",
+    "name": "NeverMinds Network",
+    "description": "The Next Best PvP Server",
+    "addresses": [
+      "houpcuy.cc",
+      "neverminds.cc"
+    ],
+    "primaryAddress": "neverminds.cc",
+    "minecraftVersions": [
+      "1.7.*",
+      "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff60af",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "zh-CN",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+      "AS"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Minigames"
+    ],
+    "website": "https://www.houpcuy.com",
+    "store": "https://store.houpcuy.com",
+    "socials": {
+      "discord": "https://discord.gg/NPje2kPgrp"
+    }
+}

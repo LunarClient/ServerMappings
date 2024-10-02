@@ -9,6 +9,8 @@
         "prolandmc.com"
     ],
     "primaryAddress": "play.echomc.it",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -19,15 +21,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#1387ca",
-    "secondaryColor": "#262d37",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

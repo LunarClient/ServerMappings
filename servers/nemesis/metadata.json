@@ -1,0 +1,29 @@
+{
+    "id": "nemesis",
+    "name": "Nemesis",
+    "addresses": [
+        "nemesismc.fun"
+    ],
+    "primaryAddress": "nemesismc.fun",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#3deaff",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/puhEDnWVFg"
+    }
+}

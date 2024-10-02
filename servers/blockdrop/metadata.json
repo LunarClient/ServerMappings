@@ -4,7 +4,7 @@
     "website": "https://www.blockdrop.org/index.php",
     "store": "https://store.blockdrop.org/",
     "addresses": [
-        "mc.blockdrop.org"
+        "blockdrop.org"
     ],
     "primaryAddress": "mc.blockdrop.org",
     "primaryColor": "#77ef6f",
