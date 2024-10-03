@@ -1,26 +1,33 @@
 {
     "id": "ezpvp",
-    "name": "EzPvP",
-    "description": "A KitPvP Practice Server",
-    "website": "https://ezpvp.lol",
-    "store": "https://ezpvp.lol",
+    "name": "EzPvP Network",
     "addresses": [
-        "ezpvp.lol",
-        "jamals.lol"
+        "ezpvp.lol"
     ],
     "primaryAddress": "ezpvp.lol",
-    "primaryColor": "#cc6ce7",
-    "secondaryColor": "#7dda58",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.7.10",
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#CC6CE7",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
-        "KitPvP Practice",
-        "MiniGames"
+        "PvP",
+        "Parkour",
+        "Practice"
     ],
     "socials": {
-        "discord": "https://discord.jamals.lol/",
+        "discord": "https://discord.gg/yMhVbv4pra",
+        "youtube": "@abhimaanst",
+        "telegram": "EzPvPractice"
     }
 }
