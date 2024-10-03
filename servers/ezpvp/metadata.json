@@ -1,0 +1,26 @@
+{
+    "id": "ezpvp",
+    "name": "EzPvP",
+    "description": "A KitPvP Practice Server",
+    "website": "https://ezpvp.lol",
+    "store": "https://ezpvp.lol",
+    "addresses": [
+        "ezpvp.lol",
+        "jamals.lol"
+    ],
+    "primaryAddress": "ezpvp.lol",
+    "primaryColor": "#cc6ce7",
+    "secondaryColor": "#7dda58",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "gameTypes": [
+        "KitPvP Practice",
+        "MiniGames"
+    ],
+    "socials": {
+        "discord": "https://discord.jamals.lol/",
+    }
+}
