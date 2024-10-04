@@ -4,8 +4,8 @@
     "website": "https://opinsel.net/",
     "store": "https://opinsel.net/shop",
     "addresses": [
-        "mc.opinsel.net",
-        "mc.opinsel.com"
+        "opinsel.net",
+        "opinsel.com"
     ],
     "primaryAddress": "mc.opinsel.net",
     "primaryColor": "#e2eef7",
