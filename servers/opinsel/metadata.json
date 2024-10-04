@@ -7,7 +7,7 @@
         "mc.opinsel.net",
         "mc.opinsel.com"
     ],
-    "primaryAddress": "opinsel.net",
+    "primaryAddress": "mc.opinsel.net",
     "primaryColor": "#e2eef7",
     "secondaryColor": "#17174c",
     "minecraftVersions": [
@@ -26,6 +26,6 @@
     "socials": {
         "discord": "https://discord.gg/YW9CSJC6VB",
         "youtube": "https://www.youtube.com/@opinsel",
-        "tiktok": "opinsel",
+        "tiktok": "opinsel"
     }
 }
