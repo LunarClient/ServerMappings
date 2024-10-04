@@ -1,14 +1,15 @@
 {
     "id": "vorusmc",
-    "name": "VorusMC",
-    "website": "https://vorusmc.net/",
-    "store": "https://store.vorusmc.net/",
+    "name": "Pyron",
+    "website": "https://www.pyron.cc/",
+    "store": "https://store.pyron.cc/",
     "addresses": [
         "vorusmc.net",
-        "vorusmc.club"
+        "vorusmc.club",
+        "pyron.cc"
     ],
-    "primaryAddress": "vorusmc.net",
-    "primaryColor": "#00eaff",
+    "primaryAddress": "pyron.cc",
+    "primaryColor": "#ffaa00",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
@@ -20,8 +21,8 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "VorusMCNet",
-        "discord": "https://discord.com/invite/vorusmc",
-        "telegram": "vorusmcnet"
+        "twitter": "PyronCC",
+        "discord": "https://discord.com/invite/pyron",
+        "telegram": "pyroncc"
     }
 }
