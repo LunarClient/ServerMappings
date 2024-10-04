@@ -1,10 +1,11 @@
 {
     "id": "opinsel",
     "name": "OpInsel",
-    "website": "https://www.opinsel.net/",
-    "store": "https://shop.opinsel.net/",
+    "website": "https://opinsel.net/",
+    "store": "https://opinsel.net/shop",
     "addresses": [
-        "%.opinsel.net"
+        "mc.opinsel.net",
+        "mc.opinsel.com"
     ],
     "primaryAddress": "opinsel.net",
     "primaryColor": "#e2eef7",
@@ -20,9 +21,11 @@
         "EU"
     ],
     "gameTypes": [
-        "TNTRun"
+        "Skyblock"
     ],
     "socials": {
-        "discord": "https://discord.gg/SaBbwpT9hK"
+        "discord": "https://discord.gg/YW9CSJC6VB",
+        "youtube": "https://www.youtube.com/@opinsel",
+        "tiktok": "opinsel",
     }
 }
