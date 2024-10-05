@@ -1,0 +1,40 @@
+{
+  "id": "kingfight",
+  "name": "Kingfight",
+  "website": "https://www.kingfight.fr",
+  "description": "PVP-Faction INEDIT 1.8-1.16",
+  "addresses": [
+    "kingfight.fr"
+  ],
+  "primaryAddress": "2b2t.org",
+  "primaryColor": "#941ade",
+  "secondaryColor": "#fdad8b",
+  "primaryMinecraftVersion": "1.8.9",
+  "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*"
+    ],
+  "primaryLanguage": "fr",
+  "languages": [
+        "fr"
+    ],
+  "primaryRegion": "EU",
+  "regions": [
+        "EU"
+    ],
+  "gameTypes": [
+        "Survival",
+        "Factions"
+    ],
+  "socials": {
+        "discord": "https://discord.gg/9kxuHFz2kF",
+        "youtube": "https://www.youtube.com/@ArtKingYT"
+    }
+}
