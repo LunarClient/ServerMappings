@@ -15,10 +15,12 @@
     "languages": [
         "en"
     ],
-    "minecraftVersions": [
-        "1.8.*"
-    ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames",
