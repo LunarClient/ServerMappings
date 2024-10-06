@@ -11,8 +11,8 @@
         "1.8.*",
         "1.9.*",
         "1.12.*",
-        "1.16.5*",
-        "1.20*"
+        "1.16.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ff6ffb",
@@ -32,15 +32,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "SkyWars",
-        "BedWars",
-        "WoolWars",
-        "TheBridge",
-        "TNTTag",
-        "SpeedBuilders",
-        "BuildBattle",
-        "MurderMystery",
-        "Practice"
+        "Minigames",
+        "Social"
     ],
     "website": "https://",
     "store": "https://",
