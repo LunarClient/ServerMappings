@@ -1,10 +1,9 @@
 {
     "id": "vanteymc",
     "name": "VanteyMC",
-    "website": "https://www.vanteymc.it/", 
+    "website": "", 
     "description": "Esplora il mondo di VanteyMC e vivi l'esperienza unica della nostre modalità",
     "addresses": [
-        "hydenmc.it",
         "vanteymc.it"
     ],
     "primaryAddress": "play.vanteymc.it",
@@ -36,6 +35,6 @@
         
     ],
     "socials": {
-        "discord": "https://discord.gg/G77VAVKTsx"
+        "discord": "https://discord.vanteymc.it/"
     }
 }   
