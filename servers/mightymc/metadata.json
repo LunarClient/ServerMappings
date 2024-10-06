@@ -1,0 +1,59 @@
+{
+    "id": "mightymc",
+    "name": "MightyMC",
+    "description": "Join MightyMC for epic PvP action with Bedwars, Skywars, The Bridge, and more! Fun minigames, unique features, and a welcoming community await!",
+    "addresses": [
+        "mightymc.club"
+    ],
+    "primaryAddress": "mightymc.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.12.*",
+        "1.16.5*",
+        "1.20*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff6ffb",
+    "secondaryColor": "#6f7eff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "SkyWars",
+        "BedWars",
+        "WoolWars",
+        "TheBridge",
+        "TNTTag",
+        "SpeedBuilders",
+        "BuildBattle",
+        "MurderMystery",
+        "Practice",
+    ],
+    "website": "https://",
+    "store": "https://",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
+    },
+    "presentationVideo": "",
+    "socials": {
+        "twitter": "",
+        "telegram": "",
+        "discord": "https://discord.gg/ndPVmDYQvB"
+    },
+    "crossplay": false
+}
