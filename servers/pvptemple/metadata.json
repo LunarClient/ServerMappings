@@ -22,8 +22,8 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Factions",
-        "Practice"
+        "HCF",
+        "UHC"
     ],
     "socials": {
         "twitter": "ThePvPTemple",
