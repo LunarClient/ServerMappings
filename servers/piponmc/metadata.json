@@ -3,8 +3,7 @@
     "name": "PiponMC Network",
     "description": "EL servidor que no te decepcionará.",
     "addresses": [
-        "piponmc.pro",
-        "play.piponmc.pro"
+        "piponmc.pro"
     ],
     "primaryAddress": "piponmc.pro",
     "minecraftVersions": [
