@@ -3,9 +3,10 @@
     "name": "PiponMC Network",
     "description": "EL servidor que no te decepcionará.",
     "addresses": [
-        "piponmc.pro"
+        "piponmc.pro",
+        "play.piponmc.pro"
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "piponmc.pro",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
