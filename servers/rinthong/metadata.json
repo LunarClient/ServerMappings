@@ -13,6 +13,7 @@
     "regions": [
         "AS"
     ],
+    "crossplay": true,
     "primaryLanguage": "en",
     "minecraftVersions": [
         "1.20.4",
