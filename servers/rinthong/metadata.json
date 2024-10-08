@@ -21,7 +21,7 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "gameTypes": [
-        "BedWars",
+        "Minigames",
         "PvP",
         "SMP"
     ],
