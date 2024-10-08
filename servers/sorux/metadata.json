@@ -3,7 +3,8 @@
     "name": "Sorux Network",
     "description": "Sorux The PvP Based Network",
     "addresses": [
-        "sorux.net"
+        "sorux.net",
+        "mc.sorux.net"
     ],
     "primaryAddress": "sorux.net",
     "minecraftVersions": [
@@ -17,10 +18,11 @@
     ],
     "primaryRegion": "EU",
     "gameTypes": [
-        "Factions"
+        "Factions",
+        "Practice"
     ],
     "store": "https://sorux.net/store",
     "socials": {
-        "discord": "https://discord.gg/ZNTWUPK4ff"
+        "discord": "https://discord.gg/mHAbWWNZB6"
     }
 }
