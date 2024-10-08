@@ -10,6 +10,9 @@
     "primaryColor": "#00D9FF",
     "secondaryColor": "#FFF946",
     "primaryRegion": "AS",
+    "languages": [
+        "en"
+    ],
     "regions": [
         "AS"
     ],
