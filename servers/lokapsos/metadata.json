@@ -15,8 +15,7 @@
     "gameTypes": [
         "Survival",
         "Prison",
-        "Creativo",
-        "Gens"
+        "Creative"
     ],
     "primaryColor": "#FF55FF",
     "secondaryColor": "#55FF55",
