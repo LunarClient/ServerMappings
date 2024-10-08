@@ -2,7 +2,8 @@
     "id": "ezpvp",
     "name": "EzPvP Network",
     "addresses": [
-        "ezpvp.lol"
+        "ezpvp.lol",
+        "jamals.lol"
     ],
     "primaryAddress": "ezpvp.lol",
     "minecraftVersions": [
