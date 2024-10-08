@@ -5,7 +5,7 @@
     "store": "https://store.jeracraft.net/",
     "description": "An MMORPG experience featuring builds from Jeracraft!",
     "addresses": [
-        "mc.jeracraft.net"
+        "jeracraft.net"
     ],
     "primaryAddress": "mc.jeracraft.net",
     "minecraftVersions": [
