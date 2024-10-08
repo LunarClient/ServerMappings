@@ -20,12 +20,7 @@
     "primaryMinecraftVersion": "1.20.2",
     "primaryRegion": "NA",
     "regions": [
-        "AF",
-        "AS",
-        "EU",
-        "NA",
-        "OC",
-        "SA"
+        "NA"
     ],
     "primaryColor": "#D88E25",
     "secondaryColor": "#2A2A30",
