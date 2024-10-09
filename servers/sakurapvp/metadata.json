@@ -1,6 +1,6 @@
 {
     "id": "sakurapvp",
-    "name": "SakuraPvP Network",
+    "name": "SakuraPvP",
     "website": "https://sakura-store.tebex.io/",
     "description": "Just a Soup and SkyWars Minecraft Network, 1.7.10 - 1.8.9 version.",
     "addresses": [
@@ -32,6 +32,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/svuFsUR7NV"
+        "discord": "https://discord.gg/sakuramc"
     }
 }
