@@ -16,9 +16,8 @@
     "secondaryColor": "#FFE9b7",
     "gameTypes": [
         "Survival",
-        "Prison",
-        "Minigames",
-        "Skyblock"
+        "Skyblock",
+        "Minigames"
     ],
     "crossplay": false,
     "primaryRegion": "EU",
