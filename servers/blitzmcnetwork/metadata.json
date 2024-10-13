@@ -22,9 +22,10 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#52d7f7",
     "secondaryColor": "#f3f3f3",
-    "primaryLanguage": "es-MX",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es-MX"
+        "es-EN",
+        "en"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -35,8 +36,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival",
-        "Hardcore"
+        "Survival"
     ],
     "website": "https://www.blitzmc.us",
     "store": "https://tienda.blitzmc.us",
@@ -49,7 +49,7 @@
     "socials": {
         "twitter": "BlitzMCNT",
         "telegram": "blitzmcnetwork",
-        "discord": "https://dsc.gg/blitzmc",
+        "discord": "https://discord.gg/eGeDVEF9TA",
         "instagram": "blitzmcnetwork",
         "youtube": "blitzmcnetwork"
     },
