@@ -6,7 +6,7 @@
     "addresses": [
         "storyrpg.it"
     ],
-    "primaryAddress": "play.storyrpg.it.it",
+    "primaryAddress": "play.storyrpg.it",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",

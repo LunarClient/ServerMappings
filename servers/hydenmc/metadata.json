@@ -1,0 +1,40 @@
+{
+    "id": "hydenmc",
+    "name": "HydenMC",
+    "website": "https://www.hydenmc.it/", 
+    "description": "Esplora il mondo di HydenMC e vivi l'esperienza unica della nostre modalità",
+    "addresses": [
+        "hydenmc.it"
+    ],
+    "primaryAddress": "play.hydenmc.it",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Skyblock"
+        
+    ],
+    "socials": {
+        "discord": "https://discord.gg/G77VAVKTsx"
+    }
+}   

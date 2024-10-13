@@ -4,7 +4,6 @@
     "website": "https://www.merakinetwork.eu/",
     "store": "https://store.merakinetwork.eu/",
     "addresses": [
-        "play.merakinetwork.eu",
         "merakinetwork.eu"
     ],
     "primaryAddress": "mc.merakinetwork.eu",

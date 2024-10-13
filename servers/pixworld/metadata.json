@@ -3,7 +3,7 @@
     "name": "Pixworld",
     "description": "Serveur minecraft survie et skyblock",
     "addresses": [
-        "play.pixworld.fr"
+        "pixworld.fr"
     ],
     "primaryAddress": "play.pixworld.fr",
     "minecraftVersions": [

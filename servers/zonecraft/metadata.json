@@ -25,6 +25,9 @@
         "es-EN"
     ],
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames"
@@ -35,7 +38,7 @@
     "secondaryColor": "#ffffff",
     "socials": {
         "twitter": "zonecraftes",
-        "discord": "https://discord.zonecraft.es",
+        "discord": "https://discord.com/invite/mvZkgAM",
         "youtube": "zonecraftnetwork",
         "instagram": "zonecraftes"
     }

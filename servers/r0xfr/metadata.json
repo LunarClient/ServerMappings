@@ -1,0 +1,40 @@
+{
+    "id": "r0xfr",
+    "name": "r0x.fr",
+    "description": "r0x.fr est une communauté Minecraft créée en 2010. Proposant divers gameplays.",
+    "addresses": [
+        "r0x.fr"
+    ],
+    "primaryAddress": "play.r0x.fr",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.6"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#829927",
+    "secondaryColor": "#e5b238",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Roleplay"
+    ],
+    "website": "https://r0x.fr",
+    "wiki": "https://r0x.fr/wiki",
+    "socials": {
+        "twitter": "r0xfr",
+        "discord": "https://discord.com/invite/0ySuPaadNeoZv4m1",
+        "facebook": "r0x.fr",
+        "instagram": "r0xfr",
+        "youtube": "r0xStudio"
+    },
+    "crossplay": true
+}

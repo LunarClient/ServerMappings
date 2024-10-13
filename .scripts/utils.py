@@ -294,8 +294,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     """
     Validate that server banner meets the following requirements:
       * is a PNG or GIF
-      * has a 35:5 aspect ratio
-      * is greater than 340 pixels in width and 45 pixels in height
+      * is 468x60 pixels
       * we can convert it to a sprite image without it erroring.
 
     Parameters:
@@ -342,7 +341,8 @@ def validate_banner(path: str, server_name: str) -> list[str]:
                 f"{server_name}'s server gif server banner seems to not have any duration associated with it..."
             )
 
-    aspect_ratio = round(banner_image.width / banner_image.height, 3)
+    if banner_image.width != 468 or banner_image.height != 60:
+        errors.append(f"{server_name}'s server banner is not 468x60...")
 
     sprite = gif_to_sprite_sheet(path)
 
@@ -352,17 +352,6 @@ def validate_banner(path: str, server_name: str) -> list[str]:
             f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later..."
         )
 
-    # Incorrect aspect ratio
-    if aspect_ratio != 7.8:
-        errors.append(
-            f"{server_name}'s server banner does not have a 16:9 aspect ratio..."
-        )
-
-    # Width too small
-    if banner_image.width < 351:
-        errors.append(
-            f"{server_name}'s server banner is less than 351x45..."
-        )
 
     return errors
 

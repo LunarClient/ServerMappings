@@ -3,8 +3,7 @@
     "name": "UHC Private",
     "description": "Serveur UHC Privé",
     "addresses": [
-        "luuc.fr",
-        "uhc.luuc.fr"
+        "luuc.fr"
     ],
     "primaryAddress": "luuc.fr",
     "minecraftVersions": [
