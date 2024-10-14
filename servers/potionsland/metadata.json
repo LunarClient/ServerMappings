@@ -1,7 +1,6 @@
-
 {
     "id": "potionsland",
-    "name": "PotionPvP Network",
+    "name": "Potions Land",
     "description": "Competitive Minecraft Practice Network!",
     "addresses": [
       "potions.land"
@@ -25,8 +24,8 @@
     "gameTypes": [
       "PvP"
     ],
-    "website": "https://www.potionps.land",
-    "store": "https://store.potionps.land",
+    "website": "https://www.potions.land",
+    "store": "https://store.potions.land",
     "socials": {
       "twitter": "PotionsLand",
       "discord": "https://discord.gg/Potions"
