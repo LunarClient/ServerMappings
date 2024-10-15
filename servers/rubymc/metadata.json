@@ -2,7 +2,7 @@
     "id": "rubymc",
     "name": "RubyMC.net",
     "website": "https://rubymc.net",
-    "description": "A server that actually cares about you as a player. We offer a wide range of different game modes such as PunchOut, BlockWatch, Parkour, Survivor and our take on FFA.",
+    "description": "A server that cares about you, offering PunchOut, BlockWatch, Parkour, Survivor, and FFA.",
     "addresses": [
         "rubymc.net"
     ],
@@ -12,7 +12,7 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21",
+    "primaryMinecraftVersion": "1.21.1",
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
@@ -20,15 +20,14 @@
     ],
     "primaryLanguage": "de",
     "languages": [
+        "de",
         "en"
     ],
     "store": "https://store.rubymc.net",
     "gameTypes": [
         "PvP",
-        "PvE",
         "Minigames",
         "Parkour",
-        "Survival",
         "Adventure"
     ],
     "socials": {
