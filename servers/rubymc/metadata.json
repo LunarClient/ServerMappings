@@ -27,8 +27,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Parkour",
-        "Adventure"
+        "Parkour"
     ],
     "socials": {
         "discord": "https://discord.gg/rubymc",
