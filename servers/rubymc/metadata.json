@@ -2,7 +2,7 @@
     "id": "rubymc",
     "name": "RubyMC.net",
     "website": "https://rubymc.net",
-    "description": "A server that cares about you, offering PunchOut, BlockWatch, Parkour, Survivor, and FFA.",
+    "description": "A server that cares about you, offering PunchOut, BlockWatch, Survivor and more",
     "addresses": [
         "rubymc.net"
     ],
@@ -12,7 +12,7 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21",
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
@@ -33,7 +33,7 @@
     "socials": {
         "discord": "https://discord.gg/rubymc",
         "twitter": "rubymcnet",
-        "youtube": "@RubyMCNetwork",
+        "youtube": "@RubyMCnet",
         "instagram": "rubymcnet",
         "tiktok": "rubymcnet"
     }
