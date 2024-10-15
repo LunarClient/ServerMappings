@@ -18,23 +18,24 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "de-DE",
+    "primaryLanguage": "de",
     "languages": [
-        "en-US"
+        "en"
     ],
     "store": "https://store.rubymc.net",
     "gameTypes": [
-        "Survivor",
-        "PunchOut",
-        "BlockWatch",
+        "PvP",
+        "PvE",
+        "Minigames",
         "Parkour",
-        "ColorFFA",
-        "BlockParty"
+        "Survival",
+        "Adventure"
     ],
     "socials": {
         "discord": "https://discord.gg/rubymc",
         "twitter": "rubymcnet",
         "youtube": "@RubyMCNetwork",
-        "instagram": "rubymcnet"
+        "instagram": "rubymcnet",
+        "tiktok": "rubymcnet"
     }
 }
