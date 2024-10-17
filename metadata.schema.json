@@ -91,6 +91,12 @@
         "merch": {
             "$ref": "#/definitions/WebAddress"
         },
+        "votingLinks": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/WebAddress"
+            }
+        },
         "compliance": {
             "type": "object",
             "additionalProperties": false,

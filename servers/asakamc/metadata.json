@@ -1,25 +1,23 @@
 {
     "id": "asakamc",
     "name": "AsakaMC",
-    "website": "https://asakamc.xyz/",
-    "description": "A Vietnamese 1.8 PvP Practice & Survival Minecraft Server",
+    "website": "https://asakamc.net/",
+    "description": "A Vietnamese mini-game server",
     "addresses": [
-        "asakamc.xyz"
+        "asakamc.net"
     ],
-    "primaryAddress": "asakamc.xyz",
+    "primaryAddress": "asakamc.net",
     "primaryColor": "#caeefa",
     "secondaryColor": "#fcc386",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
+        "1.16.5",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21",
     "primaryRegion": "AS",
     "regions": [
         "AS"
