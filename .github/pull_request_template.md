@@ -13,7 +13,7 @@
 -   You can view our patterns here: [metadata.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/metadata.schema.json), or take a look below and complete the field checklist:
     -   [ ] `id`: a lowercase string, which should match the folder name _(ex. `myserver`)_
     -   [ ] `name`: a string _(ex. `MyServerPvP`)_
-    -   [ ] `description`: hook between 16 and 80 characters _(ex. `Home of Competitive Minecraft PvP`)_
+    -   [ ] `description`: hook between 16 and 80 characters in English _(ex. `Home of Competitive Minecraft PvP`)_
     -   [ ] `addresses`: an array with lowercase strings _(ex. `["my.server", "your-server.com"]`)_
         -   You do not need to specify subdomains, Lunar Client services automatically detect them.
     -   [ ] `primaryAddress`: the primary address that people connect to with (please include the subdomain if required) _(ex. `mc.my.server`)_

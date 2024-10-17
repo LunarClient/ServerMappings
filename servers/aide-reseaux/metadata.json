@@ -1,7 +1,6 @@
 {
     "id": "aide-reseaux",
     "name": "Aide Réseaux",
-    "description": "Serveur Minecraft d'animations d'Aide Réseaux.",
     "addresses": [
         "aidereseaux.fr"
     ],

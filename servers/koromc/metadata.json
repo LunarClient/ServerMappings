@@ -1,7 +1,7 @@
 {
     "id": "koromc",
     "name": "KoroMC",
-    "description": "Serveur minecraft compétitif",
+    "description": "Competitive Minecraft Server",
     "addresses": [
         "koromc.fr"
     ],
