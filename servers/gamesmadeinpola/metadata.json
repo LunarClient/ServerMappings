@@ -1,12 +1,11 @@
 {
-    "id": "exodiamc",
-    "name": "Exodia Network",
+    "id": "gamesmadeinpola",
+    "name": "GamesMadeInPola",
     "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
     "addresses": [
-        "gamesmadeinpola.com",
-        "exodiamc.net"
+        "gamesmadeinpola.com"
     ],
-    "primaryAddress": "exodiamc.net",
+    "primaryAddress": "gamesmadeinpola.com",
     "minecraftVersions": [
         "1.8.*",
         "1.21"
@@ -27,15 +26,15 @@
         "PvP",
         "Survival"
     ],
-    "website": "https://play.exodiamc.net",
-    "store": "https://tienda.exodiamc.net",
+    "website": "https://gamesmadeinpola.com",
+    "store": "https://tienda.gamesmadeinpola.com",
     "compliance": {
-        "privacyPolicy": "https://tienda.exodiamc.net/privacy",
-        "termsOfService": "https://tienda.exodiamc.net/terms",
-        "rules": "https://rules.exodiamc.net/"
+        "privacyPolicy": "https://tienda.gamesmadeinpola.com/privacy",
+        "termsOfService": "https://tienda.gamesmadeinpola.com/terms",
+        "rules": "https://rules.gamesmadeinpola.com/"
     },
     "socials": {
-        "instagram": "exodia_network",
+        "instagram": "gamesmadeinpola.com",
         "discord": "https://discord.com/invite/gmip"
     },
     "crossplay": false
