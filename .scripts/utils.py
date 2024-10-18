@@ -401,3 +401,20 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
 
     
     return errors
+
+
+def collect_translations(servers: list[dict]) -> dict:
+    """
+    Collects the translations from the servers list
+
+    Parameters:
+        servers (list): The list of servers.
+
+    Returns:
+        dict: A dictionary of server IDs and their descriptions.
+    """
+    translations = {}
+    for server in servers:
+        if 'description' in server:
+            translations[server['id']] = { "description": server['description'] }
+    return translations
