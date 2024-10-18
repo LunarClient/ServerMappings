@@ -129,6 +129,7 @@ jobs:
           upload_sources: true
           upload_translations: false
           download_translations: false
+          upload_sources_args: "--preserve-hierarchy"
           source: ServerMappings/locales/en_US.json
           translation: ServerMappings/locales/%locale%.json
         env:
