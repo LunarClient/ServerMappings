@@ -5,7 +5,9 @@
     "store": "https://shop.og-network.net/",
     "addresses": [
         "og-network.net",
-        "og-sg.net"
+        "og-sg.net",
+        "ognetwork.net",
+        "og-factions.net"
     ],
     "primaryAddress": "og-network.net",
     "primaryColor": "#65bf75",
@@ -26,8 +28,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "UHC",
-        "Minigames"
+        "Minigames",
+        "Factions"
     ],
     "socials": {
         "twitter": "playognetwork",
