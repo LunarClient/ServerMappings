@@ -1,0 +1,32 @@
+{
+    "id": "irismc",
+    "name": "IrisMC",
+    "store": "https://irismc.tebex.io/",
+    "addresses": [
+        "irismc.it"
+    ],
+    "primaryAddress": "play.irismc.it",
+    "primaryColor": "#f2fa60",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/UxDbcQHpqe"
+    }
+}

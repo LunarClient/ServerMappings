@@ -13,7 +13,8 @@
     "secondaryColor": "#D300B6",
     "primaryLanguage": "es-EN",
     "languages": [
-        "en"
+        "en",
+        "es-EN"
     ],
     "primaryRegion": "EU",
     "regions": [

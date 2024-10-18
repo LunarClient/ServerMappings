@@ -8,6 +8,8 @@
         "gravitymc.it"
     ],
     "primaryAddress": "play.gravitymc.it",
+    "primaryColor": "#8500ff",
+    "secondaryColor": "#c200ff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -19,16 +21,14 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#8500ff",
-    "secondaryColor": "#c200ff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ], 
     "gameTypes": [
         "PvP"
     ],

@@ -6,20 +6,21 @@
         "dynastymc.it"
     ],
     "primaryAddress": "dynastymc.it",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#2d3033",
     "minecraftVersions": [
         "1.19.4",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#ffaa00",
-    "secondaryColor": "#2d3033",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Prison"
@@ -28,6 +29,5 @@
         "telegram": "DynastyMCOfficial",
         "discord": "https://discord.com/invite/srPJne3Dnn",
         "tiktok": "dynastymc_official"
-    },
-    "crossplay": false
+    }
 }

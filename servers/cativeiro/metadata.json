@@ -1,28 +1,28 @@
 {
-  "id": "cativeiro",
-  "name": "CativeiroDuels",
-  "store": "https://loja.cativeiro.lol",
-  "description": "The best brazilian server",
-  "addresses": [
-    "cativeiro.lol"
-  ],
-  "primaryAddress": "beta.cativeiro.lol",
-  "minecraftVersions": [
-    "1.7.*",
-    "1.8.*"
-  ],
-  "primaryMinecraftVersion": "1.7.10",
-  "primaryColor": "#6c42f5",
-  "secondaryColor": "#2e214a",
-  "regions": [
-    "SA"
-  ],
-  "primaryRegion": "SA",
-  "gameTypes": [
-    "PvP"
-  ],
-  "socials": {
-    "twitter": "CativeiroDuels",
-    "discord": "https://discord.gg/UkvcK5QrcM"
-  }
+    "id": "cativeiro",
+    "name": "CativeiroDuels",
+    "store": "https://loja.cativeiro.lol",
+    "description": "The best brazilian server",
+    "addresses": [
+        "cativeiro.lol"
+    ],
+    "primaryAddress": "beta.cativeiro.lol",
+    "primaryColor": "#6c42f5",
+    "secondaryColor": "#2e214a",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "regions": [
+        "SA"
+    ],
+    "primaryRegion": "SA",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+      "twitter": "CativeiroDuels",
+      "discord": "https://discord.gg/UkvcK5QrcM"
+    }
 }

@@ -2,6 +2,7 @@
     "id": "balkercraft",
     "name": "BalkerCraft",
     "website": "https://balkercraft.eu/",
+    "store": "https://shop.balkercraft.eu",
     "description": "Play fun Gamemodes on a Hungarian Minecraft Server",
     "addresses": [
         "balkercraft.eu",
@@ -34,6 +35,5 @@
         "tiktok": "balkercraft",
         "discord": "https://discord.gg/balkercraft",
         "facebook": "balkercraft"
-    },
-    "store": "https://shop.balkercraft.eu"
+    }
 }

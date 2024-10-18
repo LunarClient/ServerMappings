@@ -4,7 +4,7 @@
 	"description": "Arena PvP with custom items, textures, weapons and more",
 	"store": "https://store.atlantismc.club/",
 	"addresses": [
-	"atlantismc.club"
+		"atlantismc.club"
 	],
 	"primaryAddress": "play.atlantismc.club",
 	"primaryColor": "#00fff1",

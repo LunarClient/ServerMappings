@@ -6,19 +6,20 @@
         "aussieglory.net"
     ],
     "primaryAddress": "aussieglory.net",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFAA00",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#55FFFF",
-    "secondaryColor": "#FFAA00",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "OC",
     "regions": [
         "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
@@ -26,6 +27,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/6RCxW337Z3"
-    },
-    "crossplay": false
+    }
 }

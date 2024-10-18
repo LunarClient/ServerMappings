@@ -2,12 +2,11 @@
     "id": "w-team",
     "name": "w-Team SMP",
     "store": "https://wteam.es",
-    "description": "Un survival para jugar con amigos",
+    "description": "A survival game to play with friends",
     "addresses": [
-        "wteam.holy.gg",
         "wteam.es"
     ],
-    "primaryAddress": "wteam.holy.gg",
+    "primaryAddress": "wteam.es",
     "minecraftVersions": [
         "1.21"
     ],

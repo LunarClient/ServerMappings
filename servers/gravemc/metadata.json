@@ -10,10 +10,6 @@
     "primaryAddress": "gravemc.net",
     "primaryColor": "#48dda3",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "minecraftVersions": [
         "1.8.9",
         "1.16.*",
@@ -26,6 +22,10 @@
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

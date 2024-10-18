@@ -6,25 +6,25 @@
         "cookieattack.me"
     ],
     "primaryAddress": "play.cookieattack.me",
+    "primaryColor": "#ffa500",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.5",
-    "primaryColor": "#ffa500",
-    "secondaryColor": "#000000",
-    "primaryLanguage": "de",
-    "languages": [
-        "de"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
     ],
     "gameTypes": [
         "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/cbsPGsGbdN"
-    },
-    "crossplay": true
+    }
 }

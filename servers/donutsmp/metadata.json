@@ -8,6 +8,8 @@
         "donutsmp.net"
     ],
     "primaryAddress": "donutsmp.net",
+    "primaryColor": "#1d8ff7",
+    "secondaryColor": "#cac5be",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,15 +17,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#1d8ff7",
-    "secondaryColor": "#cac5be",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Hardcore",

@@ -1,0 +1,44 @@
+{
+    "id": "hyradynetwork",
+    "name": "Hyrady Network",
+    "description": "Disfruta de una experiencia unica!",
+    "addresses": [
+        "hyrady.com"
+    ],
+    "primaryAddress": "hyrady.com",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#08fb71",
+    "secondaryColor": "#3bd785",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Factions"
+    ],
+    "store": "https://tienda.hyrady.com",
+    "socials": {
+        "twitter": "hyradynetwork",
+        "tiktok": "hyradynetwork",
+        "discord": "https://discord.gg/8JBzSnqPE5"
+    },
+    "crossplay": true
+}

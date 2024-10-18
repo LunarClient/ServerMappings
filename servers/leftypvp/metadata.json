@@ -1,0 +1,43 @@
+{
+    "id": "leftypvp",
+    "name": "LeftyPvP",
+    "description": "A Non-Premium Minecraft server with Skyblock, KitPvP & Dodgeball",
+    "addresses": [
+        "leftypvp.net"
+    ],
+    "primaryAddress": "leftypvp.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFFF00",
+    "secondaryColor": "#FFA500",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "PvP",
+        "Parkour"
+    ],
+    "store": "https://store.leftypvp.net",
+    "compliance": {
+        "rules": "https://docs.google.com/forms/d/e/1FAIpQLScwAqyg_XF20ewRvbr-vKvMZpJgjESvwe7mc0ff7Egk-ku3-Q/viewform"
+    },
+    "socials": {
+        "discord": "https://discord.gg/leftypvp-tm-559660275184304129"
+    },
+    "crossplay": false
+}
