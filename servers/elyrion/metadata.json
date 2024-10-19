@@ -4,7 +4,8 @@
     "website": "https://elyrion.fr/",
     "description": "Server Minecraft Mini-Games French",
     "addresses": [
-        "elyrion.fr"
+        "elyrion.fr",
+        "*.elyrion.fr"
     ],
     "primaryAddress": "elyrion.fr",
     "primaryColor": "#00981E",
