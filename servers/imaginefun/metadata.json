@@ -12,15 +12,19 @@
     "primaryColor": "#e1cc31",
     "secondaryColor": "#515382",
     "minecraftVersions": [
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "Roleplay"
+        "Minigames",
+        "Roleplay",
+        "Adventure"
     ],
     "socials": {
         "twitter": "imagine_fun",

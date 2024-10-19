@@ -8,19 +8,20 @@
         "bitpixls.org"
     ],
     "primaryAddress": "play.bitpixls.org",
+    "primaryColor": "#f23f32",
+    "secondaryColor": "#fba700",
     "minecraftVersions": [
         "1.20.1"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#f23f32",
-    "secondaryColor": "#fba700",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",
@@ -30,6 +31,5 @@
     "socials": {
         "discord": "https://discord.com/invite/SFPPAJqK2V",
         "youtube": "bitpixls"
-    },
-    "crossplay": true
+    }
 }

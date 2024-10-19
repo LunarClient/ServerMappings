@@ -1,0 +1,37 @@
+{
+    "id": "felescraft",
+    "name": "FelesCraft Network",
+    "store": "https://tienda.felescraft.com/",
+    "addresses": [
+        "felescraft.com"
+    ],
+    "primaryAddress": "felescraft.com",
+    "primaryColor": "#4a5dff",
+    "secondaryColor": "#4ad9ff",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.6",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "felescraft",
+        "discord": "https://discord.gg/NWJSPAYzrU",
+        "instagram": "felescraft",
+        "tiktok": "felescraft"
+    }
+}

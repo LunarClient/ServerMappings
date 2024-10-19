@@ -1,0 +1,38 @@
+{
+  "id": "cyre",
+  "name": "Cyre Network",
+  "description": "Minigames server.",
+  "addresses": [
+    "cyre.lol"
+  ],
+  "primaryAddress": "cyre.lol",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "website": "https://www.cyre.lol",
+  "store": "https://cyre.lol/store",
+  "socials": {
+    "twitter": "CyreNetwork",
+    "discord": "https://discord.gg/FutCtDAhzj"
+  }
+}

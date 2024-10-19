@@ -1,0 +1,36 @@
+{
+    "id": "crescentkingdom",
+    "name": "Crescent Kingdom",
+    "description": "A Fantasy Themed Minecraft Network",
+    "store": "https://store.crescentkingdom.com",
+    "addresses": [
+        "crescentkingdom.com"
+    ],
+    "primaryAddress": "crescentkingdom.com",
+    "primaryColor": "#9441D7",
+    "secondaryColor": "#DB53E5",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,    
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",  
+    "languages": [
+        "es-EN"
+    ],      
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/crescentkingdom",
+        "instagram": "crescentkingd0m",
+        "tiktok": "crescentkingdom",
+        "youtube": "crescent_kingdom"
+    }
+}

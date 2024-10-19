@@ -1,0 +1,31 @@
+{
+    "id": "alicemagic",
+    "name": "Alice Magic",
+    "website": "https://alice-magic.com",
+    "description": "A This server is a SMP server open to everyone to play together",
+    "addresses": [
+        "alice-magic.com"
+    ],
+    "primaryAddress": "play.alice-magic.com",
+    "primaryColor": "#9933FF",
+    "secondaryColor": "#b266FF",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/alice-magic"
+    }
+}

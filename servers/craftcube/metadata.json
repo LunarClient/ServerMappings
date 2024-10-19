@@ -7,6 +7,8 @@
         "craftcube.pl"
     ],
     "primaryAddress": "craftcube.pl",
+    "primaryColor": "#ffd503",
+    "secondaryColor": "#652002",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,15 +18,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ffd503",
-    "secondaryColor": "#652002",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "Survival",

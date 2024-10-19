@@ -7,6 +7,8 @@
         "etercrash.fr"
     ],
     "primaryAddress": "mc.etercube.fr",
+    "primaryColor": "#0090ff",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,18 +16,18 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#0090ff",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",
@@ -36,6 +38,5 @@
         "twitter": "etercube",
         "youtube": "@etercube",        
         "tiktok": "etercube"
-    },
-    "crossplay": true
+    }
 }

@@ -1,6 +1,8 @@
 {
     "id": "ethernix",
     "name": "Ethernix.cz",
+    "website": "https://ethernix.cz/",
+    "store": "https://platby.hostify.cz/47548/",
     "addresses": [
         "ethernix.cz"
     ],
@@ -18,8 +20,6 @@
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://ethernix.cz/",
-    "store": "https://platby.hostify.cz/47548/",
     "socials": {
         "discord": "https://discord.gg/mHYjwhkgNR",
         "tiktok": "ethernixcz",

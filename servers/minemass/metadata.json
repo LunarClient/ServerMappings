@@ -1,0 +1,35 @@
+{
+    "id": "minemass",
+    "name": "MineMass",
+    "description": "PvP, adventure, community, creativity – Craft your legacy with MineMass!",
+    "website": "https://minemass.hu",
+    "store": "https://bolt.minemass.hu",
+    "addresses": [
+        "minemass.hu"
+    ],
+    "primaryAddress": "play.minemass.hu",
+    "primaryColor": "#00BFFB",
+    "secondaryColor": "#FBFBFB",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "tiktok": "minemass",
+        "youtube": "@minemassmc",
+        "discord": "https://discord.com/invite/cvg8evusQZ"
+    }
+}

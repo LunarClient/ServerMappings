@@ -4,8 +4,8 @@
     "website": "https://www.lordofthecraft.net/",
     "store": "https://www.lordofthecraft.net/store/",
     "addresses": [
-        "mc.lotc.co",
-        "mc.lordofthecraft.net"
+        "lotc.co",
+        "lordofthecraft.net"
     ],
     "primaryAddress": "mc.lotc.co",
     "primaryColor": "#c29f4b",

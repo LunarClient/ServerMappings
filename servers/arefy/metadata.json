@@ -27,12 +27,12 @@
     "gameTypes": [
         "Skyblock",
         "Prison",
-	"Survival"
+	    "Survival"
     ],
     "socials": {
         "twitter": "ArefyNetwork",
         "discord": "https://discord.com/invite/arefy",
         "tiktok": "arefynet",
-	"instagram": "arefynet"
+	    "instagram": "arefynet"
     }
 }

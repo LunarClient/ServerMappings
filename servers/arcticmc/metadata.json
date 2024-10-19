@@ -1,6 +1,7 @@
 {
     "id": "arcticmc",
     "name": "ArcticMC",
+    "store": "https://store.arcticmc.net/",
     "description": "UHC Network featuring Hosted UHC, Tourneys, UHC Meetups, Arena and Hub Minigames",
     "addresses": [
         "arcticmc.net"
@@ -18,31 +19,30 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
     ],
     "gameTypes": [
         "UHC",
         "PvP",
         "Minigames"
     ],
-    "store": "https://store.arcticmc.net/",
-    "compliance": {
-        "rules": "https://store.arcticmc.net/rules"
-    },
     "socials": {
-        "discord": "https://discord.com/invite/uTj6Nvy",
         "twitter": "ArcticUHC",
+        "discord": "https://discord.com/invite/uTj6Nvy",
         "youtube": "ArcticUHC",
         "tiktok": "arcticuhc",
         "instagram": "arcticuhc"
     },
-    "crossplay": false
+    "compliance": {
+        "rules": "https://store.arcticmc.net/rules"
+    }
 }

@@ -1,0 +1,39 @@
+{
+    "id": "balkercraft",
+    "name": "BalkerCraft",
+    "website": "https://balkercraft.eu/",
+    "store": "https://shop.balkercraft.eu",
+    "description": "Play fun Gamemodes on a Hungarian Minecraft Server",
+    "addresses": [
+        "balkercraft.eu",
+        "balkercraft.hu"
+    ],
+    "primaryAddress": "play.balkercraft.eu",
+    "primaryColor": "#ff8023",
+    "secondaryColor": "#fed526",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "balkercraft",
+        "discord": "https://discord.gg/balkercraft",
+        "facebook": "balkercraft"
+    }
+}

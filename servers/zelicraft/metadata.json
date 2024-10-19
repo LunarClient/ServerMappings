@@ -1,7 +1,7 @@
 {
     "id": "zelicraft",
     "name": "Zelicraft Network",
-    "description": "Servidor de habla hispana, servidor de PvE y PvP. ¡Únete hoy!",
+    "description": "Spanish speaking server, PvE and PvP server. Join today!",
     "addresses": [
         "zelicraft.com",
         "potyh.es",
@@ -19,6 +19,9 @@
         "es-EN"
     ],
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Survival",
         "Adventure",
