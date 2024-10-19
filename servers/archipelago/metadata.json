@@ -15,11 +15,11 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-		"1.21.*"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
     "primaryColor": "#0BB0FF",
-    "secondaryColor": "##06D6A0",
+    "secondaryColor": "#06D6A0",
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -31,11 +31,11 @@
     "gameTypes": [
         "Survival",
         "Minigames",
-		"PvP"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/archipelago-network",
-        "tiktok": "archipelago_network",
+        "tiktok": "https://tiktok.com/@archipelago_network"
     },
     "crossplay": true
 }
