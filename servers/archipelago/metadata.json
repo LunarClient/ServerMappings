@@ -4,8 +4,7 @@
     "website": "https://www.archipelago.top",
     "store": "https://store.archipelago.top",
     "addresses": [
-        "archipelago.top",
-		"play.archipelago.top"
+        "archipelago.top"
     ],
     "primaryAddress": "archipelago.top",
     "minecraftVersions": [
