@@ -7,6 +7,8 @@ on:
   pull_request_target:
     branches:
       - "*"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   changes:
@@ -70,7 +72,7 @@ jobs:
   upload-servers:
     name: Upload Servers
     needs: [validate-servers, changes]
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
 
     permissions:
@@ -89,8 +91,11 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r .scripts/requirements.txt
 
-      - name: Create output folder
+      - name: Create server output folder
         run: mkdir .out/
+
+      - name: Create Crowdin upload folder
+        run: mkdir -p ServerMappings/locales/
 
       - name: Output Server Media
         run: |
@@ -113,10 +118,25 @@ jobs:
           python .scripts/create_index.py \
           --servers_dir servers \
           --inactive_file inactive.json \
+          --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
           --csv_output .out/servers.csv \
           --no-include_inactive
 
+      - name: Sync to Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: true
+          upload_translations: false
+          download_translations: false
+          upload_sources_args: "--preserve-hierarchy"
+          source: ServerMappings/locales/en_US.json
+          translation: ServerMappings/locales/%locale%.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "424304"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
+      
       - name: Upload to Cloudflare
         env:
           R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}

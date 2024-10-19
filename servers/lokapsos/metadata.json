@@ -1,7 +1,7 @@
 {
     "id": "lokapsos",
     "name": "LOKAPSOS",
-    "description": "LOKAPSOS | ¡Tu comunidad más única!",
+    "description": "LOKAPSOS | Your community!",
     "store": "https://store.lokapsos.es",
     "addresses": [
         "lokapsos.es"
@@ -9,13 +9,13 @@
     "primaryAddress": "mc.lokapsos.es",
     "minecraftVersions": [
         "1.8.*",
-        "1.20.*"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Survival",
         "Prison",
-        "Factions"
+        "Creative"
     ],
     "primaryColor": "#FF55FF",
     "secondaryColor": "#55FF55",

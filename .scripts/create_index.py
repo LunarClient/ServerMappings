@@ -7,7 +7,7 @@ import argparse
 import csv
 import json
 
-from utils import get_all_servers
+from utils import get_all_servers, collect_translations
 
 
 def main():
@@ -18,6 +18,7 @@ def main():
     parser.add_argument("--servers_dir", required=True, type=str)
     parser.add_argument("--inactive_file", required=True, type=str)
     parser.add_argument("--json_output", required=True, type=str)
+    parser.add_argument("--translations_output", required=True, type=str)
     parser.add_argument("--csv_output", required=True, type=str)
     parser.add_argument("--include_inactive", action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
@@ -28,6 +29,18 @@ def main():
         args.inactive_file,
         args.include_inactive,
     )
+
+    # Create a new object for translations
+    translations = collect_translations(servers)
+
+    # Write the new JSON object to a file
+    try:
+        json_object = json.dumps(translations, indent=4)
+        with open(args.translations_output, "w", encoding="utf-8") as outfile:
+            outfile.write(json_object)
+    except Exception as e:
+        print("Error writing to Translations: ", e)
+        raise
 
     # Write to JSON file
     try:
@@ -71,7 +84,8 @@ def main():
                     "presentationVideo",
                     "modpack",
                     "tebexStore",
-                    "images"
+                    "images",
+                    "votingLinks",
                 ],
             )
             writer.writeheader()
