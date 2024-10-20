@@ -1,18 +1,28 @@
 {
     "id": "oceanias",
     "name": "Oceanias",
-    "store": "https://store.oceanias.net/",
+    "store": "https://store.oceanias.net",
     "crossplay": false,
     "primaryAddress": "play.oceanias.net",
     "addresses": [
         "oceanias.net",
-        "nightlymc.com"
+        "nightlymc.com",
+        "abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcbabcdefghijklm.xyz"
     ],
-    "primaryColor": "#9D00FF",
-    "secondaryColor": "#4FEFFF",
-    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#BF00FF",
+    "secondaryColor": "#9400FF",
+    "primaryMinecraftVersion": "1.21.1",
     "minecraftVersions": [
-        "1.16.5",
+        "1.7.10",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
@@ -29,12 +39,18 @@
     ],
     "gameTypes": [
         "PvP",
+        "PvE",
+        "HCF",
         "Minigames",
-        "UHC"
+        "UHC",
+        "Survival",
+        "Open World"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/oceanias/",
+        "twitter": "oceaniasnetwork",
+        "discord": "https://discord.com/invite/YP3qGFP2nf",
         "youtube": "@webceanias",
-        "twitter": "oceaniasnetwork"
+        "reddit": "oceanias",
+        "tiktok": "@oceanias"
     }
 }
