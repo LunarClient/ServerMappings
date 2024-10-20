@@ -10,12 +10,8 @@
     "primaryAddress": "play.oceanias.net",
     "gameTypes": [
         "PvP",
-        "PvE",
-        "HCF",
-        "Minigames",
         "UHC",
-        "Survival",
-        "Open World"
+        "Survival"
     ],
     "primaryColor": "#BF00FF",
     "secondaryColor": "#9400FF",
