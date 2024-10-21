@@ -3,13 +3,19 @@
     "name": "West PvP",
     "description": "The best NA West FFA server!",
     "addresses": [
-        "westpvp.mcserver.us"
+        "173.240.151.160"
     ],
     "primaryAddress": "westpvp.mcserver.us",
     "minecraftVersions": [
-        "1.20"
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*"
+
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.1",
     "primaryColor": "#b200ed",
     "secondaryColor": "#6f2da8",
     "primaryLanguage": "en",
