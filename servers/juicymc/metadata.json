@@ -1,6 +1,7 @@
 {
     "id": "juicymc",
     "name": "JuicyMC",
+    "description": "Welcome to JuicyMC, the ultimate Skyblock x Generator tycoon server!",
     "store": "https://store.juicymc.net/",
     "addresses": [
         "juicymc.net"
@@ -8,8 +9,17 @@
     "primaryAddress": "play.juicymc.net",
     "primaryColor": "#FCA800",
     "secondaryColor": "#FCFC54",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "crossplay": false,
     "minecraftVersions": [
-        "1.21.*"
+        "1.21._"
     ],
     "primaryMinecraftVersion": "1.20.1",
     "gameTypes": [
