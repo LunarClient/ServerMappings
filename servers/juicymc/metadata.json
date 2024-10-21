@@ -1,0 +1,21 @@
+{
+    "id": "juicymc",
+    "name": "JuicyMC",
+    "store": "https://store.juicymc.net/",
+    "addresses": [
+        "juicymc.net"
+    ],
+    "primaryAddress": "play.juicymc.net",
+    "primaryColor": "#FCA800",
+    "secondaryColor": "#FCFC54",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/53FruSEyy4"
+    }
+}
