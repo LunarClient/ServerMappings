@@ -1,0 +1,42 @@
+{
+    "id": "akaimc",
+    "name": "AkaiMC",
+    "primaryAddress": "play.akaimc.it",
+    "addresses": [
+        "akaimc.it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "primaryColor": "#cb84da",
+    "secondaryColor": "#ffffff",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "website": "https://akaimc.it/",
+    "store": "https://store.akaimc.it/",
+    "socials": {
+        "discord": "https://discord.com/invite/aquariusmc-network-797846407070613505",
+        "instagram": "akaimc.it",
+        "telegram": "AkaiMC",
+        "tiktok": "@AkaiMC"
+    }
+}
