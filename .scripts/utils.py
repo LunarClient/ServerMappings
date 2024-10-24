@@ -24,7 +24,7 @@ MAJOR_ALL: dict[str, list[str]] = {
 
 
 def get_all_servers(
-    servers_dir: str, inactive_file: str, include_inactive: bool = True
+    servers_dir: str, inactive_file: str, include_inactive: bool = True, translations: dict[str, dict[str, str]] = {}
 ) -> list:
     """
     This function retrieves all ServerMappings servers within the servers folder
@@ -33,7 +33,7 @@ def get_all_servers(
         servers_dir (str): The directory where the servers are located.
         inactive_file (str): The file containing the inactive servers.
         include_inactive (bool, optional): Whether to include inactive servers. Defaults to True.
-
+        translations (dict[str, dict[str, str]], optional): A dictionary of translations. Defaults to {}.
     Returns:
         list: A list of all servers.
     """
@@ -84,6 +84,19 @@ def get_all_servers(
             server["images"]["banner"] = f"https://servermappings.lunarclientcdn.com/banners/{server_id}.png"
         if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
             server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
+        
+        # Add translations
+        if translations:
+            # Iterate through each locale and add the description if it exists
+            for locale, translation in translations.items():
+                if server["id"] in translation:
+                    # Create key if it doesn't exist
+                    if "localizedDescriptions" not in server:
+                        server["localizedDescriptions"] = {}
+
+                    # Add the translation if doesnt match
+                    if translation[server["id"]]["description"] != server["description"]:
+                        server["localizedDescriptions"][locale] = translation[server["id"]]["description"]
 
         # Add to list
         servers.append(server)
