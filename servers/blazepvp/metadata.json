@@ -1,38 +1,26 @@
 {
     "id": "blazepvp",
     "name": "BlazePvP Network",
-    "description": "BlazePvP Network is the home of competitive Minecraft PvP, specializing in HCF, KitMap, and Practice. Test your skills and become a champion!",
+    "store": "https://store.blazepvp.us/",
+    "description": "Network dedicated to competitive PvP gamemodes!",
     "addresses": [
         "blazepvp.us"
     ],
     "primaryAddress": "blazepvp.us",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.16.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
-    ],
     "gameTypes": [
+        "HCF",
         "PvP"
     ],
-    "store": "https://store.blazepvp.us/",
     "socials": {
         "twitter": "BlazePvPNetw",
         "discord": "https://discord.gg/qudpGPjvVw"
-    },
-    "crossplay": false
+    }
 }
