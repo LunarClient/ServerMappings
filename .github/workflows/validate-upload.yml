@@ -103,7 +103,6 @@ jobs:
           upload_sources: false
           upload_translations: false
           download_translations: true
-          download_translations_args: "--skip-untranslated-strings --skip-untranslated-files"
           source: ServerMappings/locales/en_US.json
           translation: 'ServerMappings/locales/%locale%.json'
           create_pull_request: false
