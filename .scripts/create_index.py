@@ -5,6 +5,7 @@ It takes in a directory of server files, an inactive file, and output file paths
 
 import argparse
 import csv
+import os
 import json
 
 from utils import get_all_servers, collect_translations
@@ -19,18 +20,29 @@ def main():
     parser.add_argument("--inactive_file", required=True, type=str)
     parser.add_argument("--json_output", required=True, type=str)
     parser.add_argument("--translations_output", required=True, type=str)
+    parser.add_argument("--translations_folder", required=False, type=str)
     parser.add_argument("--csv_output", required=True, type=str)
     parser.add_argument("--include_inactive", action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
+
+    # Collect all translation files
+    translations = {}
+    if args.translations_folder:
+        # Scan that folder for all translation files
+        for file in os.listdir(args.translations_folder):
+            if file.endswith(".json"):
+                with open(os.path.join(args.translations_folder, file), "r", encoding="utf-8") as f:
+                    translations[file[:-5]] = json.load(f)
 
     # Collect all servers
     servers = get_all_servers(
         args.servers_dir,
         args.inactive_file,
         args.include_inactive,
+        translations,
     )
 
-    # Create a new object for translations
+    # Create a new object for translations output
     translations = collect_translations(servers)
 
     # Write the new JSON object to a file
@@ -86,6 +98,7 @@ def main():
                     "tebexStore",
                     "images",
                     "votingLinks",
+                    "localizedDescriptions",
                 ],
             )
             writer.writeheader()
