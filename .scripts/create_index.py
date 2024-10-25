@@ -30,7 +30,7 @@ def main():
     if args.translations_folder:
         # Scan that folder for all translation files
         for file in os.listdir(args.translations_folder):
-            if file.endswith(".json"):
+            if file.endswith(".json") and file != "en_US.json":
                 with open(os.path.join(args.translations_folder, file), "r", encoding="utf-8") as f:
                     translations[file[:-5]] = json.load(f)
 
