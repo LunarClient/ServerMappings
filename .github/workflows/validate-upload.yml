@@ -100,14 +100,8 @@ jobs:
       - name: Download translations from Crowdin
         uses: crowdin/github-action@v2
         with:
-          upload_sources: false
-          upload_translations: false
-          download_translations: true
-          source: ServerMappings/locales/en_US.json
-          translation: 'ServerMappings/locales/%locale%.json'
-          create_pull_request: false
-          push_translations: false
-          export_only_approved: true
+          command: "download"
+          command_args: "--source ServerMappings/locales/en_US.json --translation ServerMappings/locales/%locale%.json --export-only-approved"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: "424304"
