@@ -94,8 +94,8 @@ jobs:
       - name: Create server output folder
         run: mkdir .out/
 
-      - name: Create Crowdin upload folder
-        run: mkdir -p ServerMappings/locales/
+      - name: Create Crowdin upload target
+        run: mkdir -p ServerMappings/locales/ && touch ServerMappings/locales/en_US.json
 
       - name: Download translations from Crowdin
         uses: crowdin/github-action@v2
