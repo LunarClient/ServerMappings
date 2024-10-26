@@ -91,6 +91,12 @@
         "merch": {
             "$ref": "#/definitions/WebAddress"
         },
+        "votingLinks": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/WebAddress"
+            }
+        },
         "compliance": {
             "type": "object",
             "additionalProperties": false,
@@ -237,7 +243,9 @@
                 "1.20.5",
                 "1.20.6",
                 "1.21",
-                "1.21.1"
+                "1.21.1",
+                "1.21.2",
+                "1.21.3"
             ]
         },
         "MinecraftSubversion": {
@@ -261,7 +269,10 @@
                 "1.20.4",
                 "1.20.5",
                 "1.20.6",
-                "1.21"
+                "1.21",
+                "1.21.1",
+                "1.21.2",
+                "1.21.3"
             ]
         },
         "Region": {

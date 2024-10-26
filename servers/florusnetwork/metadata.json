@@ -1,0 +1,45 @@
+{
+  "id": "florusnetwork",
+  "name": "Florus Network",
+  "description": "Cool minigames & pvp server.",
+  "addresses": [
+    "florus.cc"
+  ],
+  "primaryAddress": "mc.florus.cc",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#5DE2E7",
+  "secondaryColor": "#E33638",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "website": "https://www.florus.cc",
+  "store": "https://store.florus.cc",
+  "compliance": {
+    "privacyPolicy": "https://www.florus.cc/privacy",
+    "termsOfService": "https://www.florus.cc/terms",
+    "rules": "https://www.florus.cc/rules"
+  },
+  "socials": {
+    "twitter": "FlorusNetwork",
+    "telegram": "FlorusNetwork",
+    "discord": "https://discord.gg/MEkBqvbxuH"
+  }
+}

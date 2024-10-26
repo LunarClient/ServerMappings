@@ -1,0 +1,27 @@
+{
+    "id": "cubefun",
+    "name": "CubeFun",
+    "website": "https://cubefun.org",
+    "store": "https://shop.cubefun.org",
+    "addresses": [
+        "cubefun.org"
+    ],
+    "primaryAddress": "play.cubefun.org",
+    "primaryColor": "#ff2400",
+    "secondaryColor": "#24b8ff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "bloster",
+    "name": "Bloster Network",
+    "description": "Juega con nosotros!",
+    "addresses": [
+        "bloster.net"
+    ],
+    "primaryAddress": "bloster.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF9100",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Parkour",
+        "Factions"
+    ],
+    "store": "https://bloster.tebex.io",
+    "socials": {
+        "twitter": "blosternetwork",
+        "tiktok": "blosternetwork",
+        "discord": "https://discord.com/invite/TcMmjfYvbG"
+    },
+    "crossplay": true
+}
