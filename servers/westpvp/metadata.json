@@ -3,9 +3,9 @@
     "name": "West PvP",
     "description": "The best NA West FFA server!",
     "addresses": [
-        "173.240.151.160"
+        "westpvp.mcserver.us"
     ],
-    "primaryAddress": "173.240.151.160",
+    "primaryAddress": "westpvp.mcserver.us",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
