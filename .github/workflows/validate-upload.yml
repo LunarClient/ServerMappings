@@ -94,8 +94,18 @@ jobs:
       - name: Create server output folder
         run: mkdir .out/
 
-      - name: Create Crowdin upload folder
-        run: mkdir -p ServerMappings/locales/
+      - name: Create Crowdin upload target
+        run: mkdir -p ServerMappings/locales/ && touch ServerMappings/locales/en_US.json
+
+      - name: Download translations from Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          command: "download"
+          command_args: "--source ServerMappings/locales/en_US.json --translation ServerMappings/locales/%locale%.json --export-only-approved"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "424304"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
 
       - name: Output Server Media
         run: |
@@ -118,6 +128,7 @@ jobs:
           python .scripts/create_index.py \
           --servers_dir servers \
           --inactive_file inactive.json \
+          --translations_folder ServerMappings/locales/ \
           --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
           --csv_output .out/servers.csv \
