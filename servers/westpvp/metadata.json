@@ -5,7 +5,7 @@
     "addresses": [
         "173.240.151.160"
     ],
-    "primaryAddress": "westpvp.mcserver.us",
+    "primaryAddress": "173.240.151.160",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
