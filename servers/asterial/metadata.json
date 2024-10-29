@@ -3,7 +3,7 @@
     "name": "Asterial Network",
     "description": "Server open, join now!",
     "addresses": [
-        "mc.asterial.us"
+        "asterial.us"
     ],
     "primaryAddress": "asterial.us",
     "minecraftVersions": [
