@@ -1,7 +1,7 @@
 {
     "id": "uhcprivate",
     "name": "UHC Private",
-    "description": "Serveur UHC Privé",
+    "description": "Private UHC Server",
     "addresses": [
         "luuc.fr"
     ],
