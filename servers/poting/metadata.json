@@ -4,7 +4,7 @@
     "store": "https://store.poting.cc",
     "description": "Minecraft PvP Community",
     "addresses": [
-        "poting.cc",
+        "poting.cc"
     ],
     "primaryAddress": "poting.cc",
     "primaryColor": "#00ffff",
