@@ -1,0 +1,26 @@
+{
+    "id": "blazepvp",
+    "name": "BlazePvP Network",
+    "store": "https://store.blazepvp.us/",
+    "description": "Network dedicated to competitive PvP gamemodes!",
+    "addresses": [
+        "blazepvp.us"
+    ],
+    "primaryAddress": "blazepvp.us",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "BlazePvPNetw",
+        "discord": "https://discord.gg/qudpGPjvVw"
+    }
+}

@@ -7,6 +7,8 @@
     ],
     "primaryAddress": "wildwoodsmp.com",
     "minecraftVersions": [
+        "1.8.*",
+        "1.12.2",
         "1.16.*",
         "1.17.*",
         "1.18.*",
