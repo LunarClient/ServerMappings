@@ -1,28 +1,33 @@
 {
     "id": "poting",
-    "name": "The Poting Community",
+    "name": "Poting",
+    "store": "https://store.poting.cc",
     "description": "Minecraft PvP Community",
     "addresses": [
-        "poting.cc"
+        "poting.cc",
     ],
     "primaryAddress": "poting.cc",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#ffff55",
-    "secondaryColor": "#55ff55",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
-    "gameTypes": [
-        "PvP"
+    "primaryLanguage": "zh-CN",
+    "languages": [
+        "zh-CN",
+        "en"
     ],
-    "store": "https://store.poting.cc"
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "bilibili": "https://space.bilibili.com/7422998"
+    }
 }
