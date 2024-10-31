@@ -19,7 +19,6 @@
     ],
     "crossplay": false,
     "minecraftVersions": [
-        "1.21.*",
         "1.20.*",
         "1.21.*"
     ],
