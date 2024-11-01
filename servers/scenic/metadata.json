@@ -1,0 +1,32 @@
+{
+    "id": "scenic",
+    "name": "Scenic",
+    "description": "Competitive Minecraft 1.20 Network!",
+    "addresses": [
+      "scenic.gg"
+    ],
+    "primaryAddress": "scenic.gg",
+    "minecraftVersions": [
+      "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#990a00",
+    "secondaryColor": "#cccccc",
+    "primaryLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
+    "gameTypes": [
+      "PvP"
+    ],
+    "website": "https://www.scenic.gg",
+    "store": "https://store.scenic.gg",
+    "socials": {
+      "twitter": "ScenicPvP",
+      "discord": "https://discord.gg/ScenicPvP"
+    }
+}
