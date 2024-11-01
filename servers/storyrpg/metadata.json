@@ -2,11 +2,11 @@
     "id": "storyrpg",
     "name": "StoryRPG",
     "store": "https://store.storyrpg.it/",
-    "description": "Storyrpg è la lifesteal più originale in italia",
+    "description": "Storyrpg is the most original lifesteal in Italy",
     "addresses": [
         "storyrpg.it"
     ],
-    "primaryAddress": "play.storyrpg.it.it",
+    "primaryAddress": "play.storyrpg.it",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",

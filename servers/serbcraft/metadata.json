@@ -1,0 +1,41 @@
+{
+    "id": "serbcraft",
+    "name": "SERB-CRAFT",
+    "store": "https://shop.serb-craft.com",
+    "addresses": [
+        "serb-craft.com"
+    ],
+    "primaryAddress": "mc.serb-craft.com",
+    "primaryColor": "#f70202",
+    "secondaryColor": "#0a02f7",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Factions",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/vBBNNHmdDw",
+        "youtube": "serb-craft",
+        "instagram": "serb.craft",
+        "tiktok": "serb.craft",
+        "facebook": "serb-craft"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.serb-craft.com/politika-privatnosti/",
+        "termsOfService": "https://www.serb-craft.com/uslovi-koriscenja/",
+        "rules": "https://www.serb-craft.com/pravila/",
+        "support": "https://forum.serb-craft.com/"
+    }
+}

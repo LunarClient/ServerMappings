@@ -6,19 +6,19 @@
         "blocverse.fr"
     ],
     "primaryAddress": "play.blocverse.fr",
+    "primaryColor": "#00c3ff",
+    "secondaryColor": "#3381ff",
     "minecraftVersions": [
         "1.8.*"
       ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#00c3ff",
-    "secondaryColor": "#3381ff",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",

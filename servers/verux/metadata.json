@@ -3,9 +3,9 @@
     "name": "Verux Network",
     "description": "The home of competitive players",
     "addresses": [
-        "veruxpvp.cc"
+        "veruxhcf.us"
     ],
-    "primaryAddress": "veruxpvp.cc",
+    "primaryAddress": "veruxhcf.us",
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -23,10 +23,10 @@
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.veruxpvp.cc",
-    "store": "https://store.veruxpvp.cc",
+    "website": "https://www.veruxhcf.us",
+    "store": "https://store.veruxhcf.us",
     "socials": {
         "twitter": "VeruxNet",
-        "discord": "https://discord.gg/BnaTgcyb7H"
+        "discord": "https://discord.gg/r7epvY4DVw"
     }
 }

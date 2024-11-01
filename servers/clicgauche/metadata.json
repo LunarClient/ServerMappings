@@ -1,31 +1,31 @@
 {
     "id": "clicgauche",
     "name": "Clic-Gauche",
+    "website": "https://clic-gauche.fr/",
     "description": "Serveur minecraft du gang Clic-Gauche",
     "addresses": [
         "clic-gauche.fr"
     ],
     "primaryAddress": "play.clic-gauche.fr",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#000000",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/kEdN2dDMYT"
-    },
-    "website": "https://clic-gauche.fr/",
-    "crossplay": false
+    }
 }

@@ -1,0 +1,34 @@
+{
+    "id": "castlemc",
+    "name": "CastleMC Network",
+    "store": "https://castlemcnw.tebex.io",
+    "addresses": [
+        "castlemc.net"
+    ],
+    "primaryAddress": "castlemc.net",
+    "primaryColor": "#D6C700",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/RwV2AMH8Nj"
+    },
+    "crossplay": true
+}

@@ -1,9 +1,9 @@
 {
     "id": "akumamc",
     "name": "AkumaMC",
-    "description" : "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
     "website": "https://akumamc.net/",
     "store": "https://store.akumamc.net/",
+    "description" : "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
     "addresses": [
         "akumamc.net"
     ],
@@ -20,6 +20,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -33,6 +34,5 @@
         "twitter": "AkumaMCNet",
         "discord": "https://discord.gg/akumamc",
         "youtube": "akumamc"
-    },
-    "crossplay": true
+    }
 }

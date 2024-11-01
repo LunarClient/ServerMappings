@@ -1,0 +1,33 @@
+{
+    "id": "dynastymc",
+    "name": "DynastyMC",
+    "description": "The Italian prison you are looking for",
+    "addresses": [
+        "dynastymc.it"
+    ],
+    "primaryAddress": "dynastymc.it",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#2d3033",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "telegram": "DynastyMCOfficial",
+        "discord": "https://discord.com/invite/srPJne3Dnn",
+        "tiktok": "dynastymc_official"
+    }
+}

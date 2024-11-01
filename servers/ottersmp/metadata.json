@@ -1,0 +1,47 @@
+{
+    "id": "ottersmp",
+    "name": "OtterSMP",
+    "description": "The pinnacle of SMP content",
+    "addresses": [
+        "ottersmp.com"
+    ],
+    "primaryAddress": "play.ottersmp.com",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#FE9957",
+    "secondaryColor": "#A34837",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Roleplay",
+        "PvE"
+    ],
+    "website": "https://www.ottersmp.com",
+    "store": "https://store.ottersmp.com",
+    "wiki": "https://wiki.ottersmp.com",
+    "compliance": {
+        "privacyPolicy": "https://store.ottersmp.com/tebex-privacy",
+        "termsOfService": "https://store.ottersmp.com/terms",
+        "rules": "https://ottersmp.com/axolotlsmp-rules/"
+    },
+    "socials": {
+        "twitch": "jazmine_mc_06",
+        "youtube": "@jazmine_13",
+        "discord": "https://discord.com/invite/ottersmp"
+    },
+    "crossplay": true
+}

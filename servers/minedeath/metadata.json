@@ -1,0 +1,37 @@
+{
+    "id": "minedeath",
+    "name": "MineDeath Network",
+    "description": "MineDeath Network",
+    "addresses": [
+        "minedeath.es" 
+    ],
+    "primaryAddress": "play.minedeath.es",
+    "minecraftVersions": [
+        "1.20.1",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvE"
+    ],
+    "store": "https://tienda.minedeath.es/",
+    "socials": {
+        "twitter": "MineDeathNW",
+        "discord": "https://discord.gg/XcKamj9f4W"
+    },
+    "crossplay": true
+}

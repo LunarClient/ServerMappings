@@ -1,0 +1,30 @@
+{
+    "id": "silvergate",
+    "name": "Silvergate",
+    "description": "Beyond adventure.",
+    "website": "http://www.silvergate-mc.eu/",
+    "store": "http://www.silvergate-mc.store/",
+    "addresses": [
+        "silvergate-mc.eu"
+    ],
+    "primaryAddress": "play.silvergate-mc.eu",
+    "primaryColor": "#eb9b34",
+    "secondaryColor": "#c7a21e",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Adventure"
+
+    ],
+    "socials": {
+        "discord": "https://discord.gg/tF2nkMa2zj",
+        "youtube": "Silvergatemc",
+        "tiktok": "silvergatemc"
+    }
+}

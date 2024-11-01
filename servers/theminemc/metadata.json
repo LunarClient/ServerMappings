@@ -1,0 +1,31 @@
+{
+    "id": "theminemc",
+    "name": "TheMineMC",
+    "website": "https://theminemc.net",
+    "store": "https://store.theminemc.net",
+    "addresses": [
+        "theminemc.net"
+    ],
+    "primaryAddress": "play.theminemc.net",
+    "primaryColor": "#38B3FF",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/WFkxB6aXQR",
+        "twitter": "theminemc",
+        "youtube": "mrminecodes",
+        "twitch":  "Brooteen"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": "carbon",
+    "name": "Carbon",
+    "description": "Carbon is an EarthSMP Minecraft Server",
+    "website": "https://carbonmc.net/",
+    "store": "https://store.carbonmc.net/",
+    "addresses": [
+        "carbonmc.net"
+    ],
+    "primaryAddress": "carbonmc.net",
+    "primaryColor": "#ff7d00",
+    "secondaryColor": "#ffbe86",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "tiktok": "carbonmc_",
+        "discord": "https://discord.gg/QVT8GzEEEJ",
+        "twitter": "carbonmc_",
+        "youtube": "officialcarbonmc"
+    }
+}

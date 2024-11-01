@@ -6,9 +6,6 @@
         "cofison.es"
     ],
     "primaryAddress": "cofison.es",
-    "gameTypes": [
-        "PvP"
-    ],
     "primaryColor": "#6a0084",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
@@ -24,5 +21,8 @@
     "primaryRegion": "SA",
     "regions": [
         "SA"
+    ],
+    "gameTypes": [
+        "PvP"
     ]
 }

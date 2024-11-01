@@ -1,0 +1,36 @@
+{
+    "id": "luconia",
+    "name": "Luconia SMP",
+    "description": "The official Luconia SMP!",
+    "addresses": [
+        "luconia.net"
+    ],
+    "primaryAddress": "luconia.net",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#6288A9",
+    "secondaryColor": "#8DC5F4",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://luconia.net",
+    "socials": {
+        "discord": "https://discord.gg/luconia"
+    },
+    "crossplay": true
+}

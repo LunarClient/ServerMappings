@@ -1,0 +1,32 @@
+{
+    "id": "openmcfr",
+    "name": "OpenMC",
+    "description": "VOTRE serveur Minecraft",
+    "addresses": [
+        "openmc.fr"
+    ],
+    "primaryAddress": "play.openmc.fr",
+    "minecraftVersions": [
+        "1.21.*"
+      ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#F47796",
+    "secondaryColor": "#5C1A2D",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival", "Open World"
+    ],
+    "website": "https://openmc.fr",
+    "wiki": "https://wiki.openmc.fr",
+    "socials": {
+        "youtube": "aywenvideos",
+        "discord": "https://discord.gg/aywen-communaute-1161296442577653802"
+    }
+}

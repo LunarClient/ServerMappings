@@ -1,33 +1,33 @@
 {
-  "id": "geologycmc",
-  "name": "GeologycMC Network",
-  "website": "https://geologyc.lat/",
-  "store": "https://tienda.geologyc.lat/",
-  "addresses": [
-    "geologyc.lat"
-  ],
-  "primaryAddress": "geologyc.lat",
-  "minecraftVersions": [
-    "1.20.*",
-    "1.8.*",
-    "1.7.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#f0d000",
-  "secondaryColor": "#0dc500",
-  "primaryLanguage": "es-EN",
-  "languages": [
-    "es-EN"
-  ],
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "gameTypes": [
-    "PvP",
-    "Survival"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/9WaP3wTYvw"
-  }
+    "id": "geologycmc",
+    "name": "GeologycMC Network",
+    "website": "https://geologyc.lat/",
+    "store": "https://tienda.geologyc.lat/",
+    "addresses": [
+        "geologyc.lat"
+    ],
+    "primaryAddress": "geologyc.lat",
+    "primaryColor": "#f0d000",
+    "secondaryColor": "#0dc500",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/9WaP3wTYvw"
+    }
 }
