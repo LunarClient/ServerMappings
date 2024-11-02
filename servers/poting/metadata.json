@@ -3,7 +3,7 @@
     "name": "Poting Community",
     "description": "Minecraft Competitive PvP Server",
     "addresses": [
-      "poting.cc",
+      "poting.cc"
     ],
     "primaryAddress": "poting.cc",
     "minecraftVersions": [
