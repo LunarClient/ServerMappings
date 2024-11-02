@@ -1,0 +1,30 @@
+{
+    "id": "ederiamc",
+    "name": "EderiaMC",
+    "description": "Server Minecraft - Mini Games 1.8 +",
+    "addresses": [
+        "ederia.fr"
+    ],
+    "primaryAddress": "play.ederia.fr",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff9f00",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ederiamc"
+    }
+}
