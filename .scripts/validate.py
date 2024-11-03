@@ -14,7 +14,7 @@ import jsonschema
 import requests
 from tld.utils import get_tld
 from collections import defaultdict
-from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark
+from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark, get_all_versions
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -242,6 +242,12 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                     if primary_domain is not None and primary_domain.fld not in server["addresses"]:
                         messages[server_id].append(f"The primary address' domain ({primary_domain.fld}) is not in the addresses list. Or the primary address is not a valid domain.")
 
+
+                    all_versions = get_all_versions(server["minecraftVersions"])
+                    if server["primaryMinecraftVersion"] not in all_versions:
+                        ver = server["primaryMinecraftVersion"].split(".")
+                        messages[server_id].append(f"The primary minecraft version (`{server['primaryMinecraftVersion']}` or `{ver[0]}.{ver[1]}.*`) is not in the minecraftVersions list.")
+
                     
                     for address in server["addresses"]:
                         if address == "apollo.lunarclient.com": # Skip this check for the Apollo server 
@@ -249,7 +255,6 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
 
                         domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
                         if domain is not None and domain.subdomain:
-
                             messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
                     
                     if primary_region := server.get("primaryRegion"):
