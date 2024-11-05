@@ -3,13 +3,13 @@
     "name": "Hyping",
     "website": "https://playhyping.com/",
     "store": "https://playhyping.com/shop/oneblock",
-    "description": "Hyping est LE serveur Minecraft Oneblock & Survie incontournable en France. Il a déjà conquis plus de 500.000 joueurs !",
+    "description": "Hyping est LE serveur Minecraft Oneblock & Survie incontournable en France.",
     "addresses": [
         "hyping.fr"
     ],
     "primaryAddress": "play.hyping.fr",
     "minecraftVersions": [
-        "1.20.*"
+        "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#00D1FF",
