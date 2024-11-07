@@ -11,6 +11,7 @@
     "arcadiamc",
     "arcane",
     "arceus",
+    "arctis",
     "ariacraft",
     "ascendantmc",
     "ateahcf",
@@ -31,7 +32,6 @@
     "calabriacity",
     "catedral",
     "catpixel",
-    "cavepvp",
     "cavrynetwork",
     "centranetwork",
     "chasecraft",
@@ -123,6 +123,7 @@
     "ncea",
     "neonetwork",
     "neptuniummc",
+    "nightly",
     "nightmc",
     "oceanmc",
     "phantomhq",
@@ -153,7 +154,6 @@
     "valent",
     "valley",
     "veal",
-    "vealypvp",
     "vestpvp",
     "vibria",
     "vicnix",
@@ -183,6 +183,7 @@
     "hylers",
     "hypnomc",
     "hyriode",
+    "insaneplay",
     "koldpvp",
     "koolkidzmc",
     "ladpvp",
@@ -261,5 +262,6 @@
     "nekopvp",
     "shikamc",
     "plasma",
-    "evamc"
+    "evamc",
+    "voidmc"
 ]
