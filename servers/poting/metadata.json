@@ -1,0 +1,33 @@
+{
+    "id": "poting",
+    "name": "Poting Community",
+    "description": "Minecraft Competitive PvP Server",
+    "addresses": [
+      "poting.cc"
+    ],
+    "primaryAddress": "poting.cc",
+    "minecraftVersions": [
+      "1.7.*",
+      "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffca18",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "zh-CN",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+      "AS"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Minigames"
+    ],
+    "website": "https://www.poting.cc",
+    "socials": {
+      "discord": "https://discord.gg/3epkSQNNv7"
+    }
+}
