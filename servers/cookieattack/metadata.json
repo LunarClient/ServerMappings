@@ -1,7 +1,7 @@
 {
     "id": "cookieattack",
     "name": "CookieAttack",
-    "description": "Server mit den meisten Cookies!",
+    "description": "Server with the most cookies!",
     "addresses": [
         "cookieattack.me"
     ],
