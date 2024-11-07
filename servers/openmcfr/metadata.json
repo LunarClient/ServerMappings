@@ -1,7 +1,7 @@
 {
     "id": "openmcfr",
     "name": "OpenMC",
-    "description": "VOTRE serveur Minecraft",
+    "description": "YOUR Minecraft server",
     "addresses": [
         "openmc.fr"
     ],
