@@ -1,0 +1,23 @@
+{
+    "id": "platiniummc",
+    "name": "Platinium MC",
+    "addresses": [
+        "akiramc.fr"
+    ],
+    "primaryAddress": "91.197.6.54:26724",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ]
+}
