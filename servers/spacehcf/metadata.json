@@ -3,7 +3,8 @@
     "name": "SpaceHCF",
     "store": "https://store.spacehcf.us/",
     "addresses": [
-        "spacehcf.us"
+        "spacehcf.us",
+        "cristalix.es"
     ],
     "primaryAddress": "spacehcf.us",
     "primaryColor": "#8900c1",

@@ -4,9 +4,7 @@
     "description": "Large French FFA Game server",
     "website": "https://skyly.fr/",
     "addresses": [
-        "skyly.fr",
-        "mc.skyly.fr",
-        "play.skyly.fr"
+        "skyly.fr"
     ],
     "primaryAddress": "skyly.fr",
     "minecraftVersions": [

@@ -4,7 +4,8 @@
     "website": "https://ragepvp.net/",
     "store": "https://ragenetwork.tebex.io/",
     "addresses": [
-        "ragepvp.net"
+        "ragepvp.net",
+        "ragepvp.org"
     ],
     "primaryAddress": "ragepvp.org",
     "primaryColor": "#d41a43",

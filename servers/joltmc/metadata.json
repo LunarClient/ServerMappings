@@ -1,0 +1,37 @@
+{
+  "id": "joltmc",
+  "name": "JoltMC",
+  "addresses": [
+    "joltmc.net"
+  ],
+  "primaryAddress": "joltmc.net",
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "primaryColor": "#ea8022",
+  "secondaryColor": "#ffb03c",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "website": "https://joltmc.net/",
+  "store": "https://store.joltmc.net",
+  "compliance": {
+    "rules": "https://joltmc.net/rules/",
+    "support": "https://joltmc.net/support/"
+  },
+  "socials": {
+    "twitter": "joltmcs",
+    "discord": "https://discord.gg/jotlmc"
+  }
+}
