@@ -1,7 +1,7 @@
 {
     "id": "nexucup",
     "name": "NexuCup",
-    "description": "NexuCup est un serveur Minecraft orienté PvP et Faction.",
+    "description": "NexuCup is a PvP and Faction oriented Minecraft server.",
     "addresses": [
         "nexuria.fr",
         "nexucup.fr"
