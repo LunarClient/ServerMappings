@@ -3,18 +3,15 @@
   "name": "OWL",
   "description": "French 1.8.9 UHC Server",
   "addresses": ["mc.owles.xyz"],
-  "primaryAddress": "mc.owles.xyz",
+  "primaryAddress": "owles.xyz",
   "minecraftVersions": ["1.8.9"],
   "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#15333E",
-  "secondaryColor": "#254A5A",
+  "primaryColor": "#00FFFF",
+  "secondaryColor": "#FF0000",
   "primaryRegion": "EU",
   "regions": ["EU"],
-  "gameTypes": ["UHC", "Minigame"],
-  "discord": "https://dsc.owles.xyz",
-  "media": {
-    "logo": "logo.png",
-    "background": "background.png",
-    "banner": "banner.png"
+  "gameTypes": ["UHC"],
+  "socials": {
+    "discord": "https://dsc.owles.xyz"
   }
 }
