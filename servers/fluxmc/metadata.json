@@ -1,0 +1,33 @@
+{
+    "id": "fluxmc",
+    "name": "FluxMC",
+    "website": "https://fluxmc.fr/",
+    "store": "https://fluxmc.fr/shop/",
+    "description": "Serveur Incroyable Sur Les Dernières Version Du Jeu ! :)",
+    "addresses": [
+        "fluxmc.fr"
+    ],
+    "primaryAddress": "play.fluxmc.fr",
+    "primaryColor": "#099DC2",
+    "secondaryColor": "#16A828",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/xgkqVDv7F3"
+    }
+}
