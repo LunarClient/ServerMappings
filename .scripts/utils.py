@@ -89,7 +89,7 @@ def get_all_servers(
         if translations:
             # Iterate through each locale and add the description if it exists
             for locale, translation in translations.items():
-                if server["id"] in translation:
+                if server["id"] in translation and "description" in server:
                     # Create key if it doesn't exist
                     if "localizedDescriptions" not in server:
                         server["localizedDescriptions"] = {}
