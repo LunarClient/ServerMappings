@@ -3,8 +3,7 @@
     "name": "MineRix",
     "description": "The Ultimate Survival Adventure",
     "addresses": [
-        "minerix.de",
-        "mc.minerix.de"
+        "minerix.de"
     ],
     "primaryAddress": "minerix.de",
     "minecraftVersions": [
@@ -16,7 +15,7 @@
     "regions": [
         "SA"
     ],
-    "primaryRegion": "DE",
+    "primaryRegion": "EU",
     "gameTypes": [
         "Survival"
     ],
