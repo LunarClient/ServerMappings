@@ -5,7 +5,7 @@
     "addresses": [
         "legion.ac"
     ],
-    "primaryAddress": "mc.legion.ac",
+    "primaryAddress": "legion.ac",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
