@@ -1,0 +1,27 @@
+{
+    "id": "minerix",
+    "name": "MineRix",
+    "description": "The Ultimate Survival Adventure",
+    "addresses": [
+        "minerix.de",
+        "mc.minerix.de"
+    ],
+    "primaryAddress": "minerix.de",
+    "minecraftVersions": [
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#387ebe",
+    "secondaryColor": "#387ebe",
+    "regions": [
+        "SA"
+    ],
+    "primaryRegion": "DE",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "minerixde",
+        "discord": "	https://discord.gg/XSsJ6UTTb6"
+    }
+}
