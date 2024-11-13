@@ -3,9 +3,9 @@
     "name": "Legion Network",
     "description": "Juega con nosotros!",
     "addresses": [
-        "mc.legion.ac"
+        "legion.ac"
     ],
-    "primaryAddress": "legion.ac",
+    "primaryAddress": "mc.legion.ac",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
