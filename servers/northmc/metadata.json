@@ -25,7 +25,6 @@
     ],
     "gameTypes": [
         "Prison",
-        "BoxPvP",
         "PvP"
     ],
     "socials": {
