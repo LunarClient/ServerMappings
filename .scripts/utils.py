@@ -85,8 +85,8 @@ def get_all_servers(
         if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
             server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
         
-        # Add translations
-        if translations:
+        # Add translations for descriptions
+        if translations and "description" in server:
             # Iterate through each locale and add the description if it exists
             for locale, translation in translations.items():
                 if server["id"] in translation:
