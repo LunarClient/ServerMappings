@@ -6,7 +6,7 @@
         "northmc.fun"
     ],
     "primaryAddress": "play.northmc.fun",
-    "primaryColor": "##d50d2c",
+    "primaryColor": "#d50d2c",
     "secondaryColor": "#fefefe",
     "minecraftVersions": [
         "1.8.*",
