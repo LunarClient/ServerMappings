@@ -1,20 +1,24 @@
 {
     "id": "shxxter",
     "name": "Shxxter Network",
-    "description": "Team up for unforgettable victories.",
+    "description": "I Love Teamfight.",
     "addresses": [
         "shxxter.top"
     ],
     "primaryAddress": "shxxter.top",
-    "primaryColor": "#780606",
-    "secondaryColor": "#F9F6EE",
+    "primaryColor": "#D0D2DF",
+    "secondaryColor": "#445058",
     "minecraftVersions": [
         "1.20.1",
         "1.20.2",
         "1.20.3",
-        "1.20.4"
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21",
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -24,10 +28,10 @@
         "AS"
     ],
     "gameTypes": [
-        "Survival"
+        "HCF"
     ],
     "socials": {
-        "discord": "https://discord.gg/JjdcRfvWPH"
+        "discord": "https://discord.gg/MwAnFQ8NQ6"
     },
     "crossplay": false
 }
