@@ -1,0 +1,38 @@
+{
+    "id": "voxelianetwork",
+    "name": "Voxelia Network",
+    "description": "This is BoxPVP",
+    "addresses": [
+        "voxelia.lat"
+    ],
+    "primaryAddress": "voxelia.lat",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://voxelianet.tebex.io/"
+    },
+    "socials": {
+        "discord": "https://www.lunar.gg/voxelia"
+    },
+    "crossplay": true
+}
