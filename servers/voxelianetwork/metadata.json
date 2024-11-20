@@ -1,19 +1,19 @@
 {
     "id": "voxelianetwork",
-    "name": "Voxelia Network",
+    "name": Voxelia Network",
     "store": "https://voxelianet.tebex.io/",
     "addresses": [
         "voxelia.lat"
     ],
     "primaryAddress": "voxelia.lat",
-    "primaryColor": "#e344d0",
-    "secondaryColor": "#4aecdb",
+    "primaryColor": "#000000",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
         "1.20.*",
         "1.21.*",
     ],
