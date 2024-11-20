@@ -17,14 +17,12 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
     "gameTypes": [
         "PvP",
-        "Gens",
-        "Minigames",
-        "Lifesteal"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/zenith-mc",
