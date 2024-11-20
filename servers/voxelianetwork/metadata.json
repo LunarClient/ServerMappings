@@ -2,6 +2,8 @@
     "id": "voxelianetwork",
     "name": "Voxelia Network",
     "description": "Home of PVP, this server offers good maps and a good game system",
+    "store": "https://voxelianet.tebex.io/",
+    "crossplay": true,
     "addresses": [
         "voxelia.lat"
     ],
@@ -23,17 +25,13 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "SA"
+        "NA"
     ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://voxelianet.tebex.io/",
-
     },
     "socials": {
         "discord": "https://discord.com/invite/voxelia"
-    },
-    "crossplay": true
+    }
 }
