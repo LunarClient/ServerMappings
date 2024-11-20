@@ -4,7 +4,7 @@
     "website": "https://web.zenithnetwork.xyz/",
     "store": "https://store.zenithnetwork.xyz/",
     "addresses": [
-        "zenithnetwork.xyz",
+        "zenithnetwork.xyz"
     ],
     "primaryAddress": "play.zenithnetwork.xyz",
     "primaryColor": "#800080",
@@ -23,7 +23,7 @@
         "PvP",
         "Gens",
         "Minigames",
-        "Lifesteal",
+        "Lifesteal"
     ],
     "socials": {
         "discord": "https://discord.gg/zenith-mc",
