@@ -3,9 +3,7 @@
     "name": "Zelicraft Network",
     "description": "Spanish speaking server, PvE and PvP server. Join today!",
     "addresses": [
-        "zelicraft.com",
-        "play.zelicraft.com",
-        "mc.zelicraft.com"
+        "zelicraft.com"
     ],
     "primaryAddress": "zelicraft.com",
     "minecraftVersions": [
