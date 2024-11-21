@@ -5,7 +5,7 @@
     "addresses": [
         "zelicraft.com"
     ],
-    "primaryAddress": "play.zonecraft.es",
+    "primaryAddress": "play.zelicraft.com",
     "primaryMinecraftVersion": "1.20",
     "minecraftVersions": [
         "1.16.*",
@@ -19,6 +19,8 @@
         "es-EN"
     ],
     "primaryRegion": "NA",
+    "primaryColor": "#6408FB",
+    "secondaryColor": "#B589FF",
     "regions": [
         "NA"
     ],
