@@ -26,15 +26,13 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
         "Survival",
-        "Open World",
         "Adventure"
     ],
     "store": "https://tienda.aetheriamc.xyz",
     "socials": {
         "tiktok": "aetherianetwork",
-        "discord": "https://discord.aetheriamc.xyz"
+        "discord": "https://discord.com/invite/RmeNCNZXPK"
     },
     "crossplay": true
 }
