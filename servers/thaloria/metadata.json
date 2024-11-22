@@ -12,7 +12,6 @@
     "secondaryColor": "#ff0000",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
         "1.12.*",
         "1.17.*",
         "1.18.*",
@@ -32,10 +31,7 @@
         "en"
     ],
     "gameTypes": [
-        "Skyblock",
-        "Minigames",
-        "Prison",
-        "PvP"
+        "Minigames"
     ],
     "socials": {
       "discord": "https://discord.gg/YZZSdCQstS"
