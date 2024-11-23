@@ -23,15 +23,17 @@
         "EU"
     ],
     "gameTypes": [
-        "Pixelmon",
-        "SMP"
+        "PvP",
+        "Adventure",
+        "Survival",
+        "Open World"
     ],
     "website": "https://www.pokecube.it",
     "store": "https://store.pokecube.it",
     "socials": {
         "youtube": "pokecube.network",
         "tiktok": "PokeCube.Network",
-        "discord": "discord.pokecube.it",
+        "discord": "https://discord.gg/pokecube",
         "twitch": "pokecube_network",
         "instagram": "PokeCube.Network"
     },
