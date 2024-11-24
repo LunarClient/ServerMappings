@@ -17,8 +17,6 @@
     ],
     "gameTypes": [
         "Minigames",
-        "PvP",
-        "Parkour",
         "Survival"
     ],
     "socials": {
