@@ -3,23 +3,23 @@
     "name": "VyrexMC Network",
     "description": "VyrexMC Network es una Network Chilena Multiplataforma compatible con Minecraft Java y Bedrock.",
     "addresses": [
-        "play.vyrexmc.club"
+        "vyrexmc.club"
     ],
     "primaryAddress": "play.vyrexmc.club",
     "primaryColor": "#f22cff",
     "secondaryColor": "#9005c9",
     "minecraftVersions": [
-        "1.20.1*"
+        "1.20.1"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "crossplay": false,
-    "primaryRegion": "CL",
+    "crossplay": true,
+    "primaryRegion": "sa",
     "regions": [
-        "cl"
+        "sa"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "gameTypes": [
         "Skywars",
