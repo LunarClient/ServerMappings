@@ -1,0 +1,34 @@
+{
+    "id": "zurix",
+    "name": "Zurix Network",
+    "store": "https://www.zurix.us/store/",
+    "addresses": [
+        "zurix.us"
+    ],
+    "primaryAddress": "zurix.us",
+    "primaryColor": "#7a00bf",
+    "secondaryColor": "#cd00ff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ZurixUS",
+        "discord": "https://discord.gg/N2UQYvJv83"
+    }
+}

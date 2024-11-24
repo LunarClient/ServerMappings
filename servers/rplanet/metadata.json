@@ -1,0 +1,38 @@
+{
+    "id": "rplanet",
+    "name": "Racsu Planet",
+    "website": "https://www.racsu.com-",
+    "description": "Start your adventure in a unique gamemode!",
+    "addresses": [
+        "racsu.com"
+    ],
+    "primaryAddress": "play.racsu.com",
+    "primaryColor": "#c1b6b4",
+    "secondaryColor": "#71a3fd",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "store": "https://tienda.racsu.com",
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/jxayGTycbz",
+        "twitter": "racsuplanet",
+        "youtube": "@racsuplanetserver",
+        "instagram": "racsuplanet",
+        "tiktok": "@racsuplanet"
+    }
+}
