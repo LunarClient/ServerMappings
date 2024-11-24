@@ -17,7 +17,8 @@
     ],
     "gameTypes": [
         "Minigames",
-        "SkyWars",
+        "PvP",
+        "Parkour",
         "Survival"
     ],
     "socials": {
