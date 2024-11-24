@@ -27,8 +27,9 @@
         "SA"
     ],
     "gameTypes": [
-        "Towny",
-        "Soccer"
+        "PvP",
+        "PvE",
+        "Minigames"
     ],
     "website": "https://f7lab.com/",
     "store": "https://acegamers-network.tebex.io/",
