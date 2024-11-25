@@ -1,7 +1,7 @@
 {
     "id": "acegamersnetwork",
     "name": "AceGamers Network",
-    "description": "Il vero rifugio degli AceGamers",
+    "description": "The real towny in Italy",
     "addresses": [
         "f7lab.com"
     ],
@@ -39,7 +39,6 @@
     "socials": {
         "instagram": "acegamersmc",
         "tiktok": "acegamersmc",
-        "telegram": "https://t.me/acegamersnetwork",
         "discord": "https://discord.gg/njcQtUgDfY"
     },
     "votingLinks": [
