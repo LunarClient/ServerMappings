@@ -1,0 +1,42 @@
+{
+    "id": "hubland",
+    "name": "Hubland",
+    "website": "https://hubland.gg",
+    "store": "https://store.hubland.gg/",
+    "description": "Play the best Minecraft minigames for free!",
+    "addresses": [
+        "hubland.gg"
+    ],
+    "primaryAddress": "mc.hubland.gg",
+    "primaryColor": "#71B280",
+    "secondaryColor": "#134E5E",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "Hubland.gg",
+        "discord": "https://discord.gg/hubland",
+        "youtube": "Hubland",
+        "instagram": "hubland.gg"
+    }
+}
