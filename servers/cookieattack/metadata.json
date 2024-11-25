@@ -1,17 +1,17 @@
 {
     "id": "cookieattack",
     "name": "CookieAttack",
-    "description": "Server with the most cookies!",
+    "description": "Spiele jetzt auf CookieAttack!",
     "addresses": [
-        "cookieattack.me"
+        "cookieattack.de"
     ],
-    "primaryAddress": "play.cookieattack.me",
+    "primaryAddress": "play.cookieattack.de",
     "primaryColor": "#ffa500",
     "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.20.5",
+    "primaryMinecraftVersion": "1.20.1",
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
