@@ -5,10 +5,10 @@
         "galanthusmc.net"
     ],
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.9"
     ],
     "primaryAddress": "galanthusmc.net",
-    "primaryMinecraftVersion": "1.8.*",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#21B521",
     "secondaryColor": "#17A417",
     "primaryLanguage": "es-EN",
@@ -24,6 +24,6 @@
         "Factions"
     ],
     "socials": {
-        "discord": "https://discord.galanthusmc.net/"
+        "discord": "discord.galanthusmc.net"
     }
 }
