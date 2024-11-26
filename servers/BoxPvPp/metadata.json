@@ -1,0 +1,45 @@
+{
+    "id": "BoxPvPp",
+    "name": "BoxPvP",
+    "description": "Minecraft competitive server with unique map and gamemode.",
+    "addresses": [
+        "boxpvpp.whost.es"
+    ],
+    "primaryAddress": "boxpvpp.whost.es",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF7474",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "BoxPvP",
+        "PvP"
+    ],
+    "website": "https://backguardsstudio.github.io/",
+    "store": "https://boxpvpp.tebex.io",
+    "compliance": {
+        "privacyPolicy": "https://backguardsstudio.github.io/tyc.html",
+        "termsOfService": "https://backguardsstudio.github.io/tyc.html",
+        "rules": "https://backguardsstudio.github.io/normativa.html"
+    },
+    "socials": {
+        "twitter": "BackGuards",
+        "telegram": "",
+        "discord": "https://discord.gg/PYZsQCXGYY"
+    },
+    "crossplay": true
+}
