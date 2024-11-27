@@ -1,13 +1,12 @@
 {
     "id": "nacworld",
     "name": "Nacworld",
-    "description": "Československý mc server s ostrovy,parcely,eggwars,eventy",
+    "description": "Československý Mc server s Housing parcely,Ostrovy,Eggwarsy,Eventy",
     "addresses": [
         "nacworld.ooj.cz"
     ],
     "primaryAddress": "nacworld.ooj.cz",
     "minecraftVersions": [
-        "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
