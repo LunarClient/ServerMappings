@@ -25,10 +25,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "Creative",
         "Minigames",
-        "PvP",
-        "Prison"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/realmi",
