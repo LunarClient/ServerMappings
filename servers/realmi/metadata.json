@@ -12,8 +12,7 @@
     "primaryColor": "#fb6900",
     "secondaryColor": "#ffa800",
     "minecraftVersions": [
-        "1.20.*",
-        "1.21"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
     "primaryLanguage": "en",
@@ -27,7 +26,9 @@
     "gameTypes": [
         "Survival",
         "Creative",
-        "Minigames"
+        "Minigames",
+        "PvP",
+        "Prison"
     ],
     "socials": {
         "discord": "https://discord.gg/realmi",
