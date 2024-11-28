@@ -30,14 +30,8 @@
     ],
     "website": "https://backguards.online",
     "store": "https://boxpvpp.tebex.io",
-    "compliance": {
-        "privacyPolicy": "https://tyc.backguards.online",
-        "termsOfService": "https://tyc.backguards.online",
-        "rules": "https://normativa.backguards.online"
-    },
     "socials": {
         "twitter": "BackGuards",
-        "telegram": "",
         "discord": "https://discord.gg/nRq77GRqZP"
     },
     "crossplay": true
