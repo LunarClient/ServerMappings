@@ -1,0 +1,25 @@
+{
+    "id": "valon",
+    "name": "Valon",
+    "addresses": [
+        "valon.rip"
+    ],
+    "primaryAddress": "valon.rip",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.10"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://store.valon.rip",
+    "socials": {
+        "discord": "https://discord.gg/pEzpxWcPuQ"
+    },
+    "crossplay": true
+}
