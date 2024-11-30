@@ -1,0 +1,36 @@
+{
+    "id": "verdox",
+    "name": "VerdoxNET",
+    "description": "Verdox Network is a Minecraft Server made for the community.",
+    "addresses": [
+        "verdox.net"
+    ],
+    "primaryAddress": "verdox.net",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#00ABF5",
+    "secondaryColor": "#001122",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+	"AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://verdox.net",
+    "socials": {
+        "discord": "https://discord.com/2QVV8XxrrE"
+    },
+    "crossplay": false
+}
