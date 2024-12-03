@@ -162,7 +162,7 @@
                     "type": "string"
                 },
                 "discord": {
-                    "$ref": "#/definitions/AntiLink"
+                    "$ref": "#/definitions/DiscordLink"
                 },
                 "youtube": {
                     "$ref": "#/definitions/AntiLink"
