@@ -182,7 +182,7 @@
                 },
                 "tiktok": {
                     "type": "string",
-                    "pattern": "^(?!.*https?:\/\/)@[^@]+$/"
+                    "pattern": "^(?!.*https?:\/\/)@[^@]+$"
                 },
                 "facebook": {
                     "$ref": "#/definitions/AntiLink"
