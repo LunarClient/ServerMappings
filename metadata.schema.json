@@ -24,7 +24,7 @@
             "type": "string",
             "minLength": 16,
             "maxLength": 80,
-            "pattern": "^[\\x20-\\x21\\x23-\\x26\\x28-\\x2B\\x2D-\\x2E\\x30-\\x39\\x41-\\x5A\\x5E-\\x60\\x61-\\x7A\\x7C\\x7E\\x20]+$"
+            "pattern": "^[A-Za-z0-9\\x20\\x21\\x23\\x24\\x25\\x26\\x27\\x28\\x29\\x2A\\x2B\\x2C\\x2D\\x2E\\x2F\\x3A\\x3B\\x3C\\x3D\\x3E\\x3F\\x40\\x5E\\x5F\\x60\\x7B\\x7C\\x7D\\x7E]+$"
         },
         "addresses": {
             "type": "array",
