@@ -23,7 +23,8 @@
         "description": {
             "type": "string",
             "minLength": 16,
-            "maxLength": 80
+            "maxLength": 80,
+            "pattern": "^[\\x20-\\x21\\x23-\\x26\\x28-\\x2B\\x2D-\\x2E\\x30-\\x39\\x41-\\x5A\\x5E-\\x60\\x61-\\x7A\\x7C\\x7E]+$"
         },
         "addresses": {
             "type": "array",
@@ -161,28 +162,28 @@
                     "type": "string"
                 },
                 "discord": {
-                    "$ref": "#/definitions/DiscordLink"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "youtube": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "instagram": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "twitch": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "telegram": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "reddit": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "tiktok": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "facebook": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 }
             }
         },
@@ -212,6 +213,11 @@
             "type": "string",
             "pattern": "(?i)^https?://(?:www\\.)?(?:discord\\.gg(?:/invite)?/[a-zA-Z0-9-]+|discord\\.com/invite/[a-zA-Z0-9-]+)/?$"
         },
+        "AntiLink": {
+            "type": "string",
+            "pattern": "^(?!.*https?://)(?!.*@).+$"
+        },
+
         "MinecraftVersion": {
             "type": "string",
             "enum": [
