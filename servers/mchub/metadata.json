@@ -27,9 +27,15 @@
     "gameTypes": [
         "Prison",
         "Skyblock",
-        "Survival"
+        "Survival",
+        "Pixelmon"
     ],
     "socials": {
         "discord": "https://discord.com/invite/mchub"
+    },
+    "modpack": {
+        "id": "fYyK8OQu",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }
