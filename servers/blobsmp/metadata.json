@@ -1,48 +1,31 @@
 {
     "id": "blobsmp",
     "name": "BlobSMP",
-    "description": "A new era Survival Economy",
+    "store": "https://store.blobsmp.net/",
     "addresses": [
-        "blobsmp.net",
-        "play.blobsmp.net"
+        "blobsmp.net"
     ],
-    "primaryAddress": "blobsmp.net",
+    "primaryAddress": "play.blobsmp.net",
     "minecraftVersions": [
-        "1.20.*",
-        "1.21.*"
+        "1.20.",
+        "1.21."
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#FF06E6",
-    "secondaryColor": "#FD2177",
-    "primaryLanguage": "es-EN",
+    "primaryColor": "#ff06e6",
+    "secondaryColor": "#fd2177",
+    "primaryLanguage": "en",
     "languages": [
-        "es-EN",
         "en"
     ],
     "primaryRegion": "AS",
     "regions": [
-        "NA",
-        "EU",
-        "SA"
         "AS"
     ],
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://blobsmp.net",
-    "store": "https://store.blobsmp.net",
-    "compliance": {
-        "privacyPolicy": "https://www.blobsmp/privacyPolicy",
-        "termsOfService": "https://www.blobsmp/terms",
-        "rules": "https://www.blobsmp/rules"
-    },
-    "presentationVideo": "kVdMru9WWbU",
     "socials": {
-        "twitter": "BlobSMP",
-        "telegram": "blobsmp",
-        "discord": "https://discord.blobsmp.net",
-        "instagram": "blobsmp",
-        "youtube": "blobsmpk"
+        "discord": "https://discord.gg/3kUE3UT7DY"
     },
     "crossplay": true
 }
