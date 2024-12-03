@@ -166,7 +166,7 @@
                 },
                 "youtube": {
                     "type": "string",
-                    "pattern": "^(?!.*https?:\/\/)(?:@[^@]+|[^@]+)$/"
+                    "pattern": "^(?!.*https?:\/\/)@?[^@]+$"
                 },
                 "instagram": {
                     "$ref": "#/definitions/AntiLink"
