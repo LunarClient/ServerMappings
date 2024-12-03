@@ -63,6 +63,9 @@ def get_all_servers(
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
 
+        # Add primary game type
+        server["primaryGameType"] = server["gameTypes"][0]
+
         # Enrich server data
         if "id" not in server:
             print(f"Skipping {server_id} as it's missing 'id'")
