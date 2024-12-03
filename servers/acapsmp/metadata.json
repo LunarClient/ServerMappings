@@ -21,8 +21,7 @@
     "secondaryColor": "#00fbff",
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "mn"
+        "en"
     ],
     "primaryRegion": "AS",
     "regions": [
@@ -32,6 +31,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://dsc.gg/mnvibes"
+        "discord": "https://discord.gg/XKFtYsN7YF"
     }
 }
