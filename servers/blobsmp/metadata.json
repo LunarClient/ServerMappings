@@ -1,57 +1,48 @@
 {
-    "id": "blitzmcnetwork",
-    "name": "BlitzMC Network",
-    "description": "The premium experience, in non-premium! Est. 2017",
+    "id": "blobsmp",
+    "name": "BlobSMP",
+    "description": "A new era Survival Economy",
     "addresses": [
-        "blitzmc.us",
-        "obsterland.net",
-        "lospapus.lol"
+        "blobsmp.net",
+        "play.blobsmp.net"
     ],
-    "primaryAddress": "blitzmc.us",
+    "primaryAddress": "blobsmp.net",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#52d7f7",
-    "secondaryColor": "#f3f3f3",
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#FF06E6",
+    "secondaryColor": "#FD2177",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "AS",
     "regions": [
         "NA",
         "EU",
         "SA"
+        "AS"
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames",
-        "Survival"
+        "Economy"
     ],
-    "website": "https://www.blitzmc.us",
-    "store": "https://tienda.blitzmc.us",
+    "website": "https://blobsmp.net",
+    "store": "https://store.blobsmp.net",
     "compliance": {
-        "privacyPolicy": "https://www.blitzmc.us/privacyPolicy",
-        "termsOfService": "https://www.blitzmc.us/terms",
-        "rules": "https://www.blitzmc.us/rules"
+        "privacyPolicy": "https://www.blobsmp/privacyPolicy",
+        "termsOfService": "https://www.blobsmp/terms",
+        "rules": "https://www.blobsmp/rules"
     },
     "presentationVideo": "kVdMru9WWbU",
     "socials": {
-        "twitter": "BlitzMCNT",
-        "telegram": "blitzmcnetwork",
-        "discord": "https://discord.gg/eGeDVEF9TA",
-        "instagram": "blitzmcnetwork",
-        "youtube": "blitzmcnetwork"
+        "twitter": "BlobSMP",
+        "telegram": "blobsmp",
+        "discord": "https://discord.blobsmp.net",
+        "instagram": "blobsmp",
+        "youtube": "blobsmpk"
     },
     "crossplay": true
 }
