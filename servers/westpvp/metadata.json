@@ -1,0 +1,26 @@
+{
+    "id": "westpvp",
+    "name": "WestPvP",
+    "addresses": [
+        "westpvp.us"
+    ],
+    "primaryAddress": "westpvp.us",
+    "primaryColor": "#880808",
+    "secondaryColor": "#EE4B2B",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/d4JA3G359k"
+    }
+}
