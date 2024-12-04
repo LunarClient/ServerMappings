@@ -3,9 +3,7 @@
     "name": "Bliteria",
     "store": "https://bliteria.fr/shop",
     "addresses": [
-        "bliteria.fr",
-        "play.bliteria.fr",
-        "beta.bliteria.fr"
+        "bliteria.fr"
     ],
     "primaryAddress": "play.bliteria.fr",
     "primaryColor": "#f52525",
