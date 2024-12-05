@@ -43,8 +43,8 @@
     },
     "compliance": {
         "privacyPolicy": "https://alcraft.es/privacy/",
-        "termsOfService": "https://alcraft.es/terms/"
-        "rules": "https://alcraft.es/rules/",
+        "termsOfService": "https://alcraft.es/terms/",
+        "rules": "https://alcraft.es/rules/"
     },
     "tebexStore": {
         "background": {
