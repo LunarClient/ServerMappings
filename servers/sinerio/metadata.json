@@ -3,7 +3,7 @@
     "name": "Sinerio",
     "description": "Sinerio is a exclusive Mini-Games server",
     "addresses": [
-        "mc.sinerio.net"
+        "sinerio.net"
     ],
     "primaryAddress": "mc.sinerio.net",
     "minecraftVersions": [
@@ -28,13 +28,9 @@
     "website": "https://sinerio.net/?ref=lunar",
     "store": "https://sinerio.net/shop?ref=lunar",
     "compliance": {
-        "privacyPolicy": "https://legal.sinerio.net/privacy/?ref=lunar",
-        "termsOfService": "https://legal.sinerio.net/tos/?ref=lunar",
         "rules": "https://sinerio.net/forum/discussions/1/regles-de-sinerio"
     },
-    "presentationVideo": "",
     "socials": {
         "discord": "https://discord.gg/sinerio"
     },
-    "crossplay": false
 }
