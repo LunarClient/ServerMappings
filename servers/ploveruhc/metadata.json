@@ -1,0 +1,39 @@
+{
+  "id": "ploveruhc",
+  "name": "Plover UHC",
+  "store": "https://store.ploveruhc.rip/",
+  "description": "The official home of UHC SA!",
+  "addresses": [
+    "plover.rip"
+  ],
+  "primaryAddress": "plover.rip",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*"
+  ],
+  "primaryMinecraftVersion": "1.7.10",
+  "primaryColor": "#FF8900",
+  "secondaryColor": "#EFFF00",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN",
+    "es-EN"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "UHC",
+    "Hardcore",
+    "PvP"
+  ],
+  "socials": {
+    "twitter": "PloverUHC"
+  }
+}
