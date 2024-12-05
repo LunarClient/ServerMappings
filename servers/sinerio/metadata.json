@@ -1,0 +1,40 @@
+{
+    "id": "sinerio",
+    "name": "Sinerio",
+    "description": "Sinerio is a exclusive Mini-Games server",
+    "addresses": [
+        "mc.sinerio.net"
+    ],
+    "primaryAddress": "mc.sinerio.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#93a9e0",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://sinerio.net/?ref=lunar",
+    "store": "https://sinerio.net/shop?ref=lunar",
+    "compliance": {
+        "privacyPolicy": "https://legal.sinerio.net/privacy/?ref=lunar",
+        "termsOfService": "https://legal.sinerio.net/tos/?ref=lunar",
+        "rules": "https://sinerio.net/forum/discussions/1/regles-de-sinerio"
+    },
+    "presentationVideo": "",
+    "socials": {
+        "discord": "https://discord.gg/sinerio"
+    },
+    "crossplay": false
+}
