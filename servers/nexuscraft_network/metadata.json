@@ -2,7 +2,8 @@
     "id": "nexuscraft_network",
     "name": "Nexuscraft  Network",
     "addresses": [
-        "nexuscraftmg.fun"
+        "nexuscraftmg.fun",
+        "pvp.nexuscraftmg.fun"
     ],
     "primaryAddress": "nexuscraftmg.fun",
     "minecraftVersions": [
@@ -34,6 +35,6 @@
     "website": "https://nexuscraftmg.fun/",
     "store": "https://shop.nexuscraftmg.fun/",
     "socials": {
-        "discord": "https://discord.gg/rbC7ASaRh3"
+        "discord": "https://discord.gg/CWexh36uXB"
     }
 }
