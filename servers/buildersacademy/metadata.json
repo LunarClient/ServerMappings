@@ -1,0 +1,34 @@
+{
+"id": "buildersacademy",
+"name": "Builder's Academy",
+"store": "https://tienda.buildersacademy.net",
+"description": "Builders Academy es un epicentro de builders hispanos, con modalidades enfocadas al building.",
+"addresses": [
+    "buildersacademy.net"
+],
+"primaryAddress": "mc.buildersacademy.net",
+"minecraftVersions": [
+    "1.16.*", 
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.1"
+],
+"primaryMinecraftVersion": "1.20.4",
+"primaryColor": "#9e31f3",
+"secondaryColor": "#673eec",
+"regions": [
+    "NA"
+],
+"primaryRegion": "NA",
+"gameTypes": [
+    "Creative"
+],
+"socials": {
+    "twitter": "https://x.com/BuildersAcMC",
+    "discord": "https://discord.gg/buildersacademy",
+    "youtube": "https://youtube.com/@buildersacmc",
+    "tiktok" : "https://www.tiktok.com/@buildersacmc"
+ }
+}
