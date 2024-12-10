@@ -2,7 +2,7 @@
 "id": "buildersacademy",
 "name": "Builder's Academy",
 "store": "https://tienda.buildersacademy.net",
-"description": "Epicentro de builders hispanos, con modalidades enfocadas al building.",
+"description": "Epicenter of Hispanic builders, with modes focused on building.",
 "addresses": [
     "buildersacademy.net"
 ],
@@ -26,9 +26,9 @@
     "Creative"
 ],
 "socials": {
-    "twitter": "https://x.com/BuildersAcMC",
+    "twitter": "BuildersAcMC",
     "discord": "https://discord.gg/buildersacademy",
-    "youtube": "https://youtube.com/@buildersacmc",
-    "tiktok" : "https://www.tiktok.com/@buildersacmc"
+    "youtube": "buildersacmc",
+    "tiktok" : "buildersacmc"
  }
 }
