@@ -1,11 +1,10 @@
 {
-    "id": "nexuscraft_network",
-    "name": "Nexuscraft  Network",
+    "id": "warblock",
+    "name": "Warblock",
     "addresses": [
-        "nexuscraftmg.fun",
-        "pvp.nexuscraftmg.fun"
+        "warblock.fr"
     ],
-    "primaryAddress": "nexuscraftmg.fun",
+    "primaryAddress": "warblock.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -32,9 +31,9 @@
         "Minigames",
         "UHC"
     ],
-    "website": "https://nexuscraftmg.fun/",
-    "store": "https://shop.nexuscraftmg.fun/",
+    "website": "https://warblock.fr/",
+    "store": "https://warblock.fr/shop/",
     "socials": {
-        "discord": "https://discord.gg/CWexh36uXB"
+        "discord": "https://discord.gg/swBxDWEMqH"
     }
 }
