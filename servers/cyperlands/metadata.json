@@ -22,11 +22,10 @@
     "languages": [
         "es-EN"
     ],
-    "primaryRegion": "SG",
+    "primaryRegion": "AS",
     "regions": [
-        "IN",
-        "EU",
-        "US"
+        "AS",
+        "MA"
     ],
     "gameTypes": [
         "Survival",
