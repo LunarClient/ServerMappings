@@ -1,11 +1,13 @@
 {
-    "id": "wasdmc",
-    "name": "WasdMC",
+    "id": "heephmc",
+    "name": "Heeph Club",
     "description": "The best Practice BR server",
     "addresses": [
-        "wasdmc.com"
+        "heeph.club",
+        "wasdmc.com",
+        "unholymc.com"
     ],
-    "primaryAddress": "wasdmc.com",
+    "primaryAddress": "heeph.club",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -31,9 +33,9 @@
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://loja.wasdmc.com/",
+    "store": "https://loja.heeph.club/",
     "socials": {
-        "discord": "https://discord.gg/wasdmc"
+        "discord": "https://discord.gg/heephmc"
     },
     "crossplay": false
 }
