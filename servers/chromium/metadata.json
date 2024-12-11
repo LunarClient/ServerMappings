@@ -7,7 +7,6 @@
     ],
     "primaryAddress": "chromium.lol",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*",
         "1.19.2",
         "1.19.3",
