@@ -5,26 +5,22 @@
     "addresses": [
         "chromium.lol"
     ],
-    "primaryAddress": "chromium.lol",
-    "primaryColor": "#FFC0CB",
-    "secondaryColor": "#FFFF00",
+    "primaryAddress": "minemen.club",
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.20.6",
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e911e5",
+    "secondaryColor": "#fffeff",
     "gameTypes": [
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/67xfcJKRP2"
+        "discord": "https://discord.com/invite/w9NUQGxJk8",
     }
+}
