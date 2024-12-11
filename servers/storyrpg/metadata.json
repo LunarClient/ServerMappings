@@ -2,7 +2,7 @@
     "id": "storyrpg",
     "name": "StoryRPG",
     "store": "https://store.storyrpg.it/",
-    "description": "Storyrpg è la lifesteal più originale in italia",
+    "description": "Storyrpg is the most original lifesteal in Italy",
     "addresses": [
         "storyrpg.it"
     ],
@@ -34,6 +34,6 @@
     "socials": {
         "discord": "https://discord.gg/storyrpg",
         "telegram": "StoryRPG",
-        "tiktok": "storyrpg_network"
+        "tiktok": "@storyrpg_network"
     }
 }

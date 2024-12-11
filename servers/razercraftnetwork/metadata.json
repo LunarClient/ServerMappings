@@ -1,7 +1,7 @@
 {
     "id": "razercraftnetwork",
     "name": "RazerCraft Network",
-    "description": "Enfocados en la diversión y entretenimiento con modalidades pvp y supervivencia.",
+    "description": "Focused on fun and entertainment with PVP and survival modes.",
     "addresses": [
         "razercraft.me"
     ],
@@ -29,7 +29,7 @@
     ],
     "store": "https://tienda.razercraft.me",
     "socials": {
-        "tiktok": "razercraft1",
+        "tiktok": "@razercraft1",
         "instagram": "razercraft_mc",
         "discord": "https://discord.gg/razercraft"
     },

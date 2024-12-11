@@ -1,7 +1,7 @@
 {
     "id": "mcsg",
     "name": "MCSG",
-    "description": "Jedyny taki serwer minecraft w Polsce!",
+    "description": "The only minecraft server of its kind in Poland!",
     "store": "https://mcsg.pl/",
     "addresses": [
         "mcsg.pl"
@@ -31,7 +31,7 @@
     "socials": {
         "discord": "https://discord.gg/mcsg-pl-1129896160644055186",
         "facebook": "mcsgpl",
-        "tiktok": "mcsgpl"
+        "tiktok": "@mcsgpl"
     },
     "crossplay": false
 }

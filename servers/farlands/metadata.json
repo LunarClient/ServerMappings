@@ -3,7 +3,7 @@
     "name": "FarLands",
     "website": "https://docs.farlands.net.br",
     "store": "https://loja.farlands.net.br",
-    "description": "Servidor Towny Brasileiro",
+    "description": "Brazilian Towny Server",
     "addresses": [
         "farlands.net.br"
     ],
@@ -38,7 +38,7 @@
         "rules": "https://docs.farlands.net.br/towny"
     },
     "socials": {
-        "tiktok": "farlandsservidor",
+        "tiktok": "@farlandsservidor",
         "discord": "https://discord.com/invite/UPNhAeEK4k"
     },
     "presentationVideo": "1pgfZjdPZfE"

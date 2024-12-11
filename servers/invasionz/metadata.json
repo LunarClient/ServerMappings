@@ -1,7 +1,7 @@
 {
     "id": "invasionz",
     "name": "InvasionZ",
-    "description": "Serveur DayZ PvP Mine Francais",
+    "description": "French DayZ, PvP, and Mine Server",
     "addresses": [
         "invasionz.net",
         "lunamc.fr"
@@ -31,7 +31,7 @@
     },
     "presentationVideo": "RGeExrUvPso",
     "socials": {
-        "tiktok": "invasionz_off",
+        "tiktok": "@invasionz_off",
         "youtube": "InvasionZ_Official",
         "discord": "https://discord.gg/invasionz"
 

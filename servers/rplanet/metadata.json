@@ -1,8 +1,8 @@
 {
     "id": "rplanet",
     "name": "Racsu Planet",
-    "website": "http://racsu.com",
-    "description": "¡Empieza tu aventura!",
+    "website": "https://www.racsu.com-",
+    "description": "Start your adventure in a unique gamemode!",
     "addresses": [
         "racsu.com"
     ],
@@ -12,7 +12,7 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21",
+    "primaryMinecraftVersion": "1.21.1",
     "crossplay": false,
     "primaryRegion": "SA",
     "regions": [
@@ -29,9 +29,10 @@
         "Factions"
     ],
     "socials": {
-        "discord": "https://discord.gg/Z5R7zuWhRf",
+        "discord": "https://discord.com/invite/jxayGTycbz",
         "twitter": "racsuplanet",
-        "youtube": "@racsu",
-        "instagram": "racsuline"
+        "youtube": "@racsuplanetserver",
+        "instagram": "racsuplanet",
+        "tiktok": "@racsuplanet"
     }
 }

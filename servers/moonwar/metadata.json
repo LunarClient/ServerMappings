@@ -2,7 +2,7 @@
     "id": "moonwar",
     "name": "MoonWar",
     "website": "https://www.moonwar.eu",
-    "description": "Minecraft ma sulla luna!",
+    "description": "Minecraft but on the moon!",
     "addresses": [
         "moonwar.eu"
     ],
@@ -25,7 +25,7 @@
         "Survival"
     ],
     "socials": {
-        "tiktok": "moonwar",
+        "tiktok": "@moonwar",
         "discord": "https://discord.gg/invite/moonwar"
     }
 }
