@@ -32,9 +32,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Creative",
-        "Prison",
-        "UHC"
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.gg/marsmc",
