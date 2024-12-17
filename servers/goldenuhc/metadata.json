@@ -6,6 +6,7 @@
     "addresses": [
         "goldenuhc.eu"
     ],
+    "primaryAddress": "goldenuhc.eu",
     "primaryColor": "#c72c28",
     "secondaryColor": "#dcaa28",
     "gameTypes": [

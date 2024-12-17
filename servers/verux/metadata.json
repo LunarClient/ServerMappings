@@ -1,0 +1,32 @@
+{
+    "id": "verux",
+    "name": "Verux Network",
+    "description": "The home of competitive players",
+    "addresses": [
+        "veruxhcf.us"
+    ],
+    "primaryAddress": "veruxhcf.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#e22424",
+    "secondaryColor": "#a92929",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.veruxhcf.us",
+    "store": "https://store.veruxhcf.us",
+    "socials": {
+        "twitter": "VeruxNet",
+        "discord": "https://discord.gg/r7epvY4DVw"
+    }
+}

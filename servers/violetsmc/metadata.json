@@ -14,6 +14,9 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "PvP",
         "Survival",
@@ -23,6 +26,6 @@
         "twitter": "playviolets",
         "discord": "https://discord.gg/9ACBxaSd42",
         "instagram": "violetssmp",
-        "tiktok": "play.violetsmc.com"
+        "tiktok": "@play.violetsmc.com"
     }
 }

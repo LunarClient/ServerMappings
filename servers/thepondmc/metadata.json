@@ -3,8 +3,6 @@
     "name": "The PondMC",
     "store": "https://store.thepondmc.com/",
     "addresses": [
-        "play.thepondmc.com",
-        "new.thepondmc.com",
         "thepondmc.com"
     ],
     "primaryAddress": "play.thepondmc.com",

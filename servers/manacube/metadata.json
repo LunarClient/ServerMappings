@@ -4,12 +4,8 @@
     "website": "https://manacube.com/",
     "store": "https://store.manacube.com/",
     "addresses": [
-        "play.manacube.com",
-        "play.manacube.net",
-        "mc.manacube.net",
-        "mc.manacube.com",
-        "manacube.net",
-        "manacube.com"
+        "manacube.com",
+        "manacube.net"
     ],
     "primaryAddress": "play.manacube.com",
     "primaryColor": "#1b96a8",

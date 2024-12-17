@@ -1,12 +1,11 @@
 {
     "id": "minecave",
     "name": "MineCave",
-    "store": "https://store.minecave.org",
+    "store": "https://store.minecave.in",
     "addresses": [
-        "minecave.org",
         "minecave.in"
     ],
-    "primaryAddress": "play.minecave.org",
+    "primaryAddress": "play.minecave.in",
     "primaryColor": "#b87d00",
     "secondaryColor": "#0a0700",
     "minecraftVersions": [

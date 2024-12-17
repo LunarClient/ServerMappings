@@ -5,9 +5,10 @@ It takes in a directory of server files, an inactive file, and output file paths
 
 import argparse
 import csv
+import os
 import json
 
-from utils import get_all_servers
+from utils import get_all_servers, collect_translations
 
 
 def main():
@@ -18,16 +19,40 @@ def main():
     parser.add_argument("--servers_dir", required=True, type=str)
     parser.add_argument("--inactive_file", required=True, type=str)
     parser.add_argument("--json_output", required=True, type=str)
+    parser.add_argument("--translations_output", required=True, type=str)
+    parser.add_argument("--translations_folder", required=False, type=str)
     parser.add_argument("--csv_output", required=True, type=str)
     parser.add_argument("--include_inactive", action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
+
+    # Collect all translation files
+    translations = {}
+    if args.translations_folder:
+        # Scan that folder for all translation files
+        for file in os.listdir(args.translations_folder):
+            if file.endswith(".json") and file != "en_US.json":
+                with open(os.path.join(args.translations_folder, file), "r", encoding="utf-8") as f:
+                    translations[file[:-5]] = json.load(f)
 
     # Collect all servers
     servers = get_all_servers(
         args.servers_dir,
         args.inactive_file,
         args.include_inactive,
+        translations,
     )
+
+    # Create a new object for translations output
+    translations = collect_translations(servers)
+
+    # Write the new JSON object to a file
+    try:
+        json_object = json.dumps(translations, indent=4)
+        with open(args.translations_output, "w", encoding="utf-8") as outfile:
+            outfile.write(json_object)
+    except Exception as e:
+        print("Error writing to Translations: ", e)
+        raise
 
     # Write to JSON file
     try:
@@ -57,8 +82,11 @@ def main():
                     "languages",
                     "primaryRegion",
                     "regions",
+                    "primaryGameType",
                     "gameTypes",
                     "website",
+                    "wiki",
+                    "merch",
                     "store",
                     "socials",
                     "crossplay",
@@ -68,6 +96,10 @@ def main():
                     "compliance",
                     "presentationVideo",
                     "modpack",
+                    "tebexStore",
+                    "images",
+                    "votingLinks",
+                    "localizedDescriptions",
                 ],
             )
             writer.writeheader()

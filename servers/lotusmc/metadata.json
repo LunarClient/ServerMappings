@@ -1,0 +1,34 @@
+{
+    "id": "lotusmc",
+    "name": "LotusMC",
+    "store": "https://store.lotusmc.net/",
+    "addresses": [
+        "lotusmc.net"
+    ],
+    "primaryAddress": "play.lotusmc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff5af0",
+    "secondaryColor": "#060627",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "TheLotusMC",
+        "discord": "https://discord.gg/lotusmc"
+    }
+}

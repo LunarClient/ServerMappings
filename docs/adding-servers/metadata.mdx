@@ -12,17 +12,17 @@ An example can also be found in the root, `metadata.example.json`. This contains
 
 Below is a table of the basic fields that are required for your server's metadata file, and a brief description of what they are.
 
-| Field         | Description                                                                                                                                            |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `id`          | This is the ID for the server, discussed in the [overview](server-mappings/adding-servers/overview), this must match the name of your server's folder. |
-| `name`        | This is the name for your server.                                                                                                                      |
-| `description` | This is the description for your server. It must be **between 16-80 characters**.                                                                      |
+| Field         | Description                                                                                                                                                                                                   |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `id`          | This is the ID for the server, discussed in the [overview](/overview), this must match the name of your server's folder.                                                        |
+| `name`        | This is the name for your server.                                                                                                                                                                             |
+| `description` | This is the description for your server. It must be **between 16-80 characters** and in English. The Lunar Client translation team is responsible for translating this to server other supported languages.   |
 
 ### Addresses
 
 The `addresses` array in each server object is actually an array of IP suffixes. **This should not include the subdomain for the server**.
 
-| ✅ Correct    | ❌ Incorrect       |
+| ✅ Correct    | ❌ Incorrect        |
 | ------------- | ------------------ |
 | `example.com` | `play.example.com` |
 | `hypixel.net` | `play.hypixel.net` |
@@ -84,9 +84,9 @@ You can define both `regions` (a list of all the regions your server supports) a
 | OC          | Oceania       |
 | SA          | South America |
 
-### Website/Store
+### Website/Store/Merch/Wiki
 
-The URLs to your server's website and store. These should be a valid URLs including their protocols (e.g. `https://`).
+The URLs to your server's website, store, wiki, and/or merch. These should be a valid URLs including their protocols (e.g. `https://`).
 
 ### Socials
 
@@ -101,3 +101,15 @@ You can provide any social media links that you would like to be displayed on yo
 -   `reddit`
 -   `tiktok`
 -   `facebook`
+
+### Voting Links
+
+You can provide any voting links that you would like to be displayed on your server's page. These should be under the `votingLinks` key.
+
+> Note: These links should be the actual listing of the server, rather than the voting tab of said listing.
+
+Example:
+
+| ❌ Incorrect                               | ✅ Correct                                   |
+| ------------------------------------------ | -------------------------------------------- |
+| `https://minecraftservers.org/vote/467177` | `https://minecraftservers.org/server/467177` |
