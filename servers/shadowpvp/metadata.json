@@ -1,23 +1,21 @@
 {
     "id": "shadowpvp",
     "name": "ShadowPvP",
-    "website": "https://store.shadowpvp.us/",
-    "discord": "https://discord.shadowpvp.us/",
-    "description" : "Modalidades como Survival OP, Practice, CartoonWars",
+    "store": "https://store.shadowpvp.us/",
     "addresses": [
-        "shadowpvp.us"
+        "spook.live"
     ],
     "primaryAddress": "shadowpvp.us",
-    "primaryColor": "#00b4b7",
-    "secondaryColor": "#00fbff",
+    "primaryColor": "#00FBFF",
+    "secondaryColor": "#00BDC0",
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
@@ -25,12 +23,9 @@
         "NA"
     ],
     "gameTypes": [
-        "SurvivalOP",
-        "CartoonWars",
-        "Practice"
+        "PvP"
     ],
     "socials": {
-        "tiktok": "https://tiktok.shadowpvp.us/",
-        "discord": "https://discord.shadowpvp.us/"
+        "discord": "https://discord.com/invite/gsBpWQBXHR"
     }
 }
