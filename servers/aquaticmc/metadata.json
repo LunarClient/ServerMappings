@@ -18,13 +18,13 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "eng",
+    "primaryLanguage": "en",
     "languages": [
         "nl"
     ],
     "gameTypes": [
       "UHC",
-      "FACTIONS"
+      "Factions"
     ],
     "socials": {
       "discord": "https://discord.gg/488tV8kQUW"
