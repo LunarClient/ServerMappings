@@ -4,7 +4,7 @@
     "website": "http://store.aquaticmc.cc",
     "description": "Fight your enemeys while reaching the top!",
     "addresses": [
-      "play.aquaticmc.cc"
+      "aquaticmc.cc"
     ],
     "primaryAddress": "play.aquaticmc.cc",
     "primaryColor": "#00FBFF",
@@ -18,14 +18,15 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "en",
+    "primaryLanguage": "eng",
     "languages": [
         "nl"
     ],
     "gameTypes": [
-      "UHCF"
+      "UHC",
+      "FACTIONS"
     ],
     "socials": {
-      "discord": "https://discord.aquaticmc.cc/"
+      "discord": "https://discord.gg/488tV8kQUW"
     }
 }
