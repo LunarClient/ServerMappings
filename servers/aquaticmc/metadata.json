@@ -1,0 +1,31 @@
+{
+    "id": "AquaticMC",
+    "name": "AquaticMC Network",
+    "website": "http://store.aquaticmc.cc",
+    "description": "Fight your enemeys while reaching the top!",
+    "addresses": [
+      "play.aquaticmc.cc"
+    ],
+    "primaryAddress": "play.aquaticmc.cc",
+    "primaryColor": "#00FBFF",
+    "secondaryColor": "#0097FF",
+    "minecraftVersions": [
+      "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+      "UHCF"
+    ],
+    "socials": {
+      "discord": "https://discord.aquaticmc.cc/"
+    }
+}
