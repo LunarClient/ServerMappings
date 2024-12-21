@@ -11,6 +11,7 @@
         "1.7.*",
         "1.8.*"
     ],
+    "presentationVideo": "https://www.youtube.com/watch?v=l6e5sSmXjOs",
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#002fa0",
     "secondaryColor": "#ffffff",
@@ -20,6 +21,6 @@
     ],
     "socials": {
         "twitter": "MineralServer",
-        "discord": "https://discord.mineral.gg"
+        "discord": "https://discord.com/invite/pwDVHNzyy8"
     }
 }
