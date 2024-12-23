@@ -1,0 +1,42 @@
+{
+    "id": "seapvp",
+    "name": "SeaPvP Network",
+    "store": "https://store.seapvp.us/",
+    "description": "HCF, KitMap and UHC server",
+    "addresses": [
+        "seapvp.us",
+        "uhcplay.com",
+        "deluxepvp.es "
+    ],
+    "primaryAddress": "seapvp.us",
+    "primaryColor": "#04D0E3",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/CCtntXjrMa"
+    }
+}
