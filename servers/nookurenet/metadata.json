@@ -1,0 +1,40 @@
+{
+    "id": "nookurenet",
+    "name": "Nookure Network",
+    "description": "Your Spanish Minecraft community specialized in survival gamemodes.",
+    "addresses": [
+        "play.nookure.net"
+    ],
+    "primaryAddress": "play.nookure.net",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#9cddf9",
+    "secondaryColor": "#3ab4e8",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://nookure.net",
+    "store": "https://tienda.nookure.net",
+    "compliance": {
+        "rules": "https://wiki.nookure.net/reglas-generales"
+    },
+    "socials": {
+        "twitter": "NookureNet",
+        "discord": "https://discord.nookure.net"
+    },
+    "crossplay": true
+}
