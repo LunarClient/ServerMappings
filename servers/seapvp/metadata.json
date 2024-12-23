@@ -4,9 +4,7 @@
     "store": "https://store.seapvp.us/",
     "description": "HCF, KitMap and UHC server",
     "addresses": [
-        "seapvp.us",
-        "uhcplay.com",
-        "deluxepvp.es "
+        "seapvp.us"
     ],
     "primaryAddress": "seapvp.us",
     "primaryColor": "#04D0E3",
