@@ -1,0 +1,41 @@
+{
+    "id": "tilted",
+    "name": "Tilted",
+    "description": "Servidor de BoxPvP",
+    "addresses": [
+        "tilted.lol"
+    ],
+    "primaryAddress": "play.tilted.lol",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#bd0b0b",
+    "secondaryColor": "#e80202",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "store": "https://tienda.tilted.lol",
+    "socials": {
+        "discord": "https://discord.com/invite/DpvgRzNYRF"
+    },
+    "crossplay": true
+}
