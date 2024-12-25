@@ -3,10 +3,10 @@
     "name": "NatureMC",
     "description": "The real Survival experience.",
     "addresses": [
-        "play.naturemc.net",
-        "mc.naturemc.net"
+        "naturemc.net",
+        "naturemc.es"
     ],
-    "primaryAddress": "naturemc.net",
+    "primaryAddress": "play.naturemc.net",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
