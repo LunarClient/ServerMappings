@@ -1,0 +1,24 @@
+{
+    "id": "pvpcade",
+    "name": "PvPCade",
+    "website": "https://www.pvpcade.cm/",
+    "store": "https://store.pvpcade.com/",
+    "addresses": [
+        "pvpcade.com"
+    ],
+    "primaryAddress": "play.pvpcade.com",
+    "primaryColor": "#418ed0",
+    "secondaryColor": "#dd4052",
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "https://x.com/PvPCadeHQ",
+        "discord": "https://discord.gg/kmjzdcfzxm",
+        "youtube": "https://www.youtube.com/@pvpcade",
+        "instagram": "https://www.instagram.com/pvpcadehq/",
+        "tiktok": "https://www.tiktok.com/@pvpcade"
+    }
+}
