@@ -1,7 +1,7 @@
 {
     "id": "redeblaze",
     "name": "Rede Blaze",
-    "description": "Survival with texture, pvp 1.8. clan league, tournaments, land protection, mcmmo, battle pass and much more!",
+    "description": "Survival with texture, tournaments, land protection, battle pass and much more!",
     "website": "https://redeblaze.com/",
     "store": "https://redeblaze.com/loja/",
     "addresses": [
@@ -30,10 +30,10 @@
         "Survival"
     ],
     "socials": {
-        "discord":"https://discord.gg/redeblaze",
-        "youtube":"https://www.youtube.com/@RedeBlaze",
-        "instagram":"https://www.instagram.com/blazerede",
-        "tiktok":" https://tiktok.com/@blazerede"
+        "discord": "https://discord.gg/redeblaze",
+        "youtube": "@RedeBlaze",
+        "instagram": "blazerede",
+        "tiktok": "@blazerede"
     },
     "votingLinks": [
         "https://minecraft-mp.com/server-s333649",
