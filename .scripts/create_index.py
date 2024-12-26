@@ -82,6 +82,7 @@ def main():
                     "languages",
                     "primaryRegion",
                     "regions",
+                    "primaryGameType",
                     "gameTypes",
                     "website",
                     "wiki",
