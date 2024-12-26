@@ -9,6 +9,10 @@
     "primaryAddress": "play.pvpcade.com",
     "primaryColor": "#418ed0",
     "secondaryColor": "#dd4052",
+    "minecraftVersions": [
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
     "gameTypes": [
         "Survival",
         "PvE",
