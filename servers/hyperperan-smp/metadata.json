@@ -7,7 +7,7 @@
     "addresses": [
         "play.hyperperan.world"
     ],
-    "primaryAddress": "play.hyperperan.world",
+    "primaryAddress": "hyperperan.world",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
