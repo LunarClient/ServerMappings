@@ -1,8 +1,9 @@
 {
     "id": "coolcrafter",
     "name": "CoolCrafter",
-    "website": "https://coolcrafter.club",
-    "store": "https://coolcrafter.club/store",
+    "website": "https://coolcrafter.club/",
+    "store": "https://coolcrafter.club/store/",
+    "description": "Home of Competitive SoupPvP",
     "addresses": [
         "coolcrafter.club"
 
@@ -10,20 +11,10 @@
     "primaryAddress": "coolcrafter.club",
     "primaryColor": "#ffb133",
     "secondaryColor": "#52ec1e",
-    "gameTypes": [
-        "KitPvP",
-        "Bunkers",
-        "MineWatch",
-        "CCTeams"
-    ],
-    "socials": {
-        "twitter": "coolcrafterclub",
-        "discord": "https://coolcrafter.club/discord",
-        "telegram": "coolcrafterclub"
-    },
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
+
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
@@ -33,5 +24,14 @@
     "primaryLanguage": "en",
     "languages": [
         "en"
-    ]
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://coolcrafter.club/discord/",
+        "telegram": "CoolCrafterClub",
+        "tiktok": "@coolcrafterclub"
+    }
 }
