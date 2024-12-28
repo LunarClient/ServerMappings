@@ -1,0 +1,32 @@
+{
+    "id": "coolcrafter",
+    "name": "CoolCrafter",
+    "website": "https://coolcrafter.club/",
+    "store": "https://coolcrafter.club/store/",
+    "addresses": [
+        "coolcrafter.club"
+
+    ],
+    "primaryAddress": "coolcrafter.club",
+    "primaryColor": "#ffb133",
+    "secondaryColor": "#52ec1e",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7*"
+
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "coolcrafterclub",
+        "discord": "https://coolcrafter.club/discord",
+        "youtube": "coolcrafterclub"
+    }
+}
