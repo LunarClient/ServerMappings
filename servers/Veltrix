@@ -1,1 +1,33 @@
-
+{
+    "id": "veltrixmc",
+    "name": "VeltrixMC",
+    "store": "https://store.veltrix.club",
+    "addresses": [
+        "play.veltrix.club"
+    ],
+    "primaryAddress": "veltrix.club",
+    "primaryColor": "#00008B",
+    "secondaryColor": "#66b2b2",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "VeltrixCLUB",
+        "discord": "https://discord.gg/veltrixmc"
+    }
+}
