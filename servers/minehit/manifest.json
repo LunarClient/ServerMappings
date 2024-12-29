@@ -1,0 +1,34 @@
+{
+    "id": "minehit",
+    "name": "MineHit Network",
+    "description": "Tu experiencia Survival de la mejor forma",
+    "addresses": [
+        "minehit.es",
+        "*.minehit.es"
+    ],
+    "primaryAddress": "minehit.es",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#51B8FF",
+    "secondaryColor": "#8CD0FF",
+    "primaryLanguage": "es-ES",
+    "languages": [
+        "es-ES"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://tienda.minehit.es",
+    "socials": {
+        "twitter": "minehit_es",
+        "tiktok": "minehit.es",
+        "discord": "https://discord.gg/TyAKWKUtjg"
+    },
+    "crossplay": true
+}
