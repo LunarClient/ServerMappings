@@ -4,7 +4,10 @@
     "description": "Tu experiencia Survival de la mejor forma",
     "addresses": [
         "minehit.es",
-        "*.minehit.es"
+        "bd.minehit.es",
+        "play.minehit.es",
+        "mc.minehit.es",
+        "bedrock.minehit.es"
     ],
     "primaryAddress": "minehit.es",
     "minecraftVersions": [
@@ -13,9 +16,9 @@
     "primaryMinecraftVersion": "1.21",
     "primaryColor": "#51B8FF",
     "secondaryColor": "#8CD0FF",
-    "primaryLanguage": "es-ES",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es-ES"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -27,7 +30,6 @@
     "store": "https://tienda.minehit.es",
     "socials": {
         "twitter": "minehit_es",
-        "tiktok": "minehit.es",
         "discord": "https://discord.gg/TyAKWKUtjg"
     },
     "crossplay": true
