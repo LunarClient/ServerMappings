@@ -3,11 +3,7 @@
     "name": "MineHit Network",
     "description": "Tu experiencia Survival de la mejor forma",
     "addresses": [
-        "minehit.es",
-        "bd.minehit.es",
-        "play.minehit.es",
-        "mc.minehit.es",
-        "bedrock.minehit.es"
+        "minehit.es"
     ],
     "primaryAddress": "minehit.es",
     "minecraftVersions": [
