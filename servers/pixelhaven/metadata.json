@@ -1,10 +1,11 @@
 {
     "id": "pixelhaven",
-    "name": "PixelHaven.pro",
+    "name": "PixelHaven",
     "website": "https://pixelhaven.pro/",
     "store": "https://pixelhaven.pro/",
+    "description": "Powiększająca się sieć serwerów!",
     "addresses": [
-        "pixelhaven.pl"
+        "pixelhaven.pro"
     ],
     "primaryAddress": "mc.pixelhaven.pro",
     "primaryColor": "#00FF26",
@@ -14,6 +15,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -23,10 +25,7 @@
         "pl"
     ],
     "gameTypes": [
-        "PvP",
-        "Skyblock",
         "Survival",
-        "Open World",
         "Creative"
     ],
     "socials": {
