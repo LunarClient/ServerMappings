@@ -27,11 +27,10 @@
     "gameTypes": [
         "PvP",
         "Skyblock",
-        "Survival",
-        "Adventure"
+        "Survival"
     ],
     "socials": {
-        "discord": "https://rifted.pl/discord",
+        "discord": "https://discord.gg/EsNPwgBRVC",
         "tiktok": "@riftedpl"
     }
 }
