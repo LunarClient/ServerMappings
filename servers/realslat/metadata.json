@@ -2,7 +2,7 @@
   "id": "realslat",
   "name": "Reals Network",
   "store": "https://store.reals.lat/",
-  "description": "¡The official home of HCF!",
+  "description": "The official home of HCF",
   "addresses": [
     "reals.lat"
   ],
@@ -24,12 +24,11 @@
     "NA"
   ],
   "gameTypes": [
-    "HCF",
-    "Hardcore",
-    "PvP"
+    "PvP",
+    "HCF"
   ],
   "socials": {
     "twitter": "RealsLAT",
-    "discord": "https://discord.reals.lat/"
+    "discord": "https://discord.gg/invite/realslat"
   }
 }
