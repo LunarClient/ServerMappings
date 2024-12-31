@@ -1,12 +1,12 @@
 {
     "id": "minecraft-romania",
     "name": "Minecraft-Romania",
-    "website": "https://www.minecraft-romania.ro/",
-    "store": "https://store.minecraft-romania.ro/",
+    "website": "http://minecraft-romania.ro",
+    "description": "",
     "addresses": [
-        "minecraft-romania.ro"
+      "minecraft-romania.ro"
     ],
-    "primaryAddress": "minecraft-romania.ro",
+    "primaryAddress": "play.minecraft-romania.ro",
     "primaryColor": "#007BFF",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
@@ -19,16 +19,22 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
-        "Survival",
-        "Skyblock"
+      "Survival",
+      "SkyBlock",
+      "Open World"
     ],
     "socials": {
-        "discord": "(?i)^https?:\/\/(?:www\.)?(?:discord\.gg(?:\/invite)?\/[a-zA-Z0-9-]+|discord\.com\/invite\/[a-zA-Z0-9-]+|[a-zA-Z0-9.-]+\.ro\/discord)\/?$",
-        "tiktok": "@minecraftromania14"
+      "discord": "(?i)^https?:\/\/(?:www\.)?(?:discord\.gg(?:\/invite)?\/[a-zA-Z0-9-]+|discord\.com\/invite\/[a-zA-Z0-9-]+|[a-zA-Z0-9.-]+\.ro\/discord)\/?$",
+      "tiktok": "@minecraftromania14"
     }
 }
