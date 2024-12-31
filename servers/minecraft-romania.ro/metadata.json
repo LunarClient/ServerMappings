@@ -25,12 +25,10 @@
     ],
     "gameTypes": [
         "Survival",
-        "Skyblock",
-        "Captive",
-        "OneBlock"
+        "Skyblock"
     ],
     "socials": {
-        "discord": "https://minecraft-romania.ro/discord",
+        "discord": "(?i)^https?:\/\/(?:www\.)?(?:discord\.gg(?:\/invite)?\/[a-zA-Z0-9-]+|discord\.com\/invite\/[a-zA-Z0-9-]+|[a-zA-Z0-9.-]+\.ro\/discord)\/?$",
         "tiktok": "@minecraftromania14"
     }
 }
