@@ -7,8 +7,8 @@
         "play.minecraft-romania.ro"
     ],
     "primaryAddress": "play.minecraft-romania.ro",
-    "primaryColor": "#7b4900",
-    "secondaryColor": "#394246",
+    "primaryColor": "#007BFF",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
