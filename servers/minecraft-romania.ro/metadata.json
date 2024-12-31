@@ -1,8 +1,8 @@
 {
-    "id": "minecraft-romania",
+    "id": "minecraft-romania.ro",
     "name": "Minecraft-Romania",
     "website": "http://minecraft-romania.ro",
-    "description": "",
+    "description": "Official Minecraft Romania server with Survival, SkyBlock, and Captive gameplay.",
     "addresses": [
       "minecraft-romania.ro"
     ],
@@ -30,8 +30,7 @@
     ],
     "gameTypes": [
       "Survival",
-      "SkyBlock",
-      "Open World"
+      "Skyblock"
     ],
     "socials": {
       "discord": "https://discord.gg/xDgFTqy9Sa",
