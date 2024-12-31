@@ -4,13 +4,12 @@
     "website": "https://www.minecraft-romania.ro/",
     "store": "https://store.minecraft-romania.ro/",
     "addresses": [
-        "play.minecraft-romania.ro"
+        "minecraft-romania.ro"
     ],
-    "primaryAddress": "play.minecraft-romania.ro",
+    "primaryAddress": "minecraft-romania.ro",
     "primaryColor": "#007BFF",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
-        "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
@@ -31,10 +30,7 @@
         "OneBlock"
     ],
     "socials": {
-        "twitter": "",
         "discord": "https://minecraft-romania.ro/discord",
-        "instagram": "",
-        "facebook": "",
         "tiktok": "@minecraftromania14"
     }
 }
