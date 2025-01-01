@@ -12,18 +12,13 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryColor": "#001414",
     "secondaryColor": "#008cd3",
@@ -38,10 +33,7 @@
     ],
     "gameTypes": [
         "Minigames",
-        "PvP",
-        "Creative",
-        "UHC",
-        "Prison"
+        "PvP"
     ],
      "compliance": {
         "privacyPolicy": "https://blocksmc.com/privacy-policy",
@@ -55,7 +47,7 @@
         "twitter": "BlocksMC",
         "youtube": "blocksmcyoutube",
         "instagram": "BlocksMC",
-        "tiktok": "blocksmctiktok"
+        "tiktok": "@blocksmctiktok"
     },
     "presentationVideo": "KwJt3Rtoagg",
     "crossplay": false
