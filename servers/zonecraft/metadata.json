@@ -36,11 +36,7 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival",
-        "PvE",
-        "Parkour",
-        "UHC"
-
+        "Survival"
     ],
     "socials": {
         "twitter": "zonecraftES",
