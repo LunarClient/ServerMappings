@@ -1,15 +1,15 @@
 {
-    "id": "alinium",
-    "name": "Alinium",
-    "description": "Le meilleur serveur survie, élu par nous même.",
+    "id": "touilleland",
+    "name": "TouilleLand",
     "addresses": [
+        "nat0uille.com",
         "alinium.fr"
     ],
-    "primaryAddress": "alinium.fr",
+    "primaryAddress": "play.nat0uille.com",
     "minecraftVersions": [
-        "1.21"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21",
+    "primaryMinecraftVersion": "1.21.3",
     "crossplay": false,
     "primaryColor": "#2F0046",
     "secondaryColor": "#8A05C7",
@@ -23,11 +23,11 @@
     ],
     "gameTypes": [
         "PvP",
+        "PvE",
         "Survival",
         "Adventure"
     ],
-    "website": "https://www.alinium.fr",
     "socials": {
-        "discord": "https://discord.com/invite/8xbQUMxDeh"
+        "discord": "https://discord.com/invite/t8Wn9a7dVW"
     }
 }
