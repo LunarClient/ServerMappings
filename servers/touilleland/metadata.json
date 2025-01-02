@@ -6,6 +6,7 @@
         "alinium.fr"
     ],
     "primaryAddress": "play.nat0uille.com",
+    "description": "The Nat0uille community server.",
     "minecraftVersions": [
         "1.21.*"
     ],
