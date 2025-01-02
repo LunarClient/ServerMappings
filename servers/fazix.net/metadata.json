@@ -1,10 +1,10 @@
 {
-   "id":"varovision.eu",
-   "name":"VaroVision.EU",
+   "id":"fazix.net",
+   "name":"Fazix.net",
    "addresses":[
-      "varovision.eu"
+      "fazix.net"
    ],
-   "primaryAddress":"varovision.eu",
+   "primaryAddress":"fazix.net",
    "primaryColor":"#ff5555",
    "secondaryColor":"#aa0000",
    "minecraftVersions":[
@@ -19,6 +19,6 @@
       "PvP"
    ],
    "socials":{
-      "discord":"https://discord.gg/Vf98Pe54W4"
+      "discord":"https://discord.gg/d5PmP2PUzm"
    }
 }
