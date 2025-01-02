@@ -11,8 +11,8 @@
     ],
     "primaryMinecraftVersion": "1.21.3",
     "crossplay": false,
-    "primaryColor": "#2F0046",
-    "secondaryColor": "#8A05C7",
+    "primaryColor": "#124e89",
+    "secondaryColor": "#0099db",
     "primaryRegion": "EU",
     "regions": [
         "EU"
