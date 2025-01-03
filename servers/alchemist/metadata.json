@@ -1,0 +1,43 @@
+{
+    "id": "alchemist",
+    "name": "Alchemist Network",
+    "description": "Play exciting and fun minigames such as kitpvp, arcade, bedwars, tnt games, duels, rpg survival and more, with your friends for free on play.alchemistnetwork.org.",
+    "addresses": [
+        "alchemistnetwork.org"
+    ],
+    "primaryAddress": "alchemistnetwork.org",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC",
+        "Adventure"
+    ],
+    "website": "https://www.alchemistnetwork.org",
+    "store": "https://www.alchemistnetwork.org/store",
+    "compliance": {
+        "privacyPolicy": "https://www.alchemistnetwork.org/help/privacy-policy/",
+        "termsOfService": "https://www.alchemistnetwork.org/help/terms/",
+        "rules": "https://www.alchemistnetwork.org/rules"
+    },
+    "socials": {
+        "discord": "https://www.alchemistnetwork.org/discord"
+    },
+    "crossplay": false
+}
