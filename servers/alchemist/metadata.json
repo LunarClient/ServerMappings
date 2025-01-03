@@ -1,7 +1,7 @@
 {
     "id": "alchemist",
     "name": "Alchemist Network",
-    "description": "Play exciting and fun minigames such as kitpvp, arcade, bedwars, tnt games, duels, rpg survival and more, with your friends for free on play.alchemistnetwork.org.",
+    "description": "Play exciting and fun minigames and rpg, with your friends for free on play.alchemistnetwork.org.",
     "addresses": [
         "alchemistnetwork.org"
     ],
@@ -26,7 +26,6 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "UHC",
         "Adventure"
     ],
     "website": "https://www.alchemistnetwork.org",
@@ -37,7 +36,7 @@
         "rules": "https://www.alchemistnetwork.org/rules"
     },
     "socials": {
-        "discord": "https://www.alchemistnetwork.org/discord"
+        "discord": "https://discord.gg/6y5QghB"
     },
     "crossplay": false
 }
