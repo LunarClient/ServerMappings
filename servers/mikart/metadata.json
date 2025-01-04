@@ -6,7 +6,7 @@
     "addresses": [
         "mikart.eu"
     ],
-    "description": "A server which offers modern survival-type play",
+    "description": "A server offering modern survival-type experience",
     "primaryAddress": "play.mikart.eu",
     "primaryColor": "#2cd12c",
     "secondaryColor": "#2cd1a2",
@@ -23,7 +23,6 @@
         "EU"
     ],
     "gameTypes": [
-        "Earth",
         "Survival"
     ],
     "socials": {
