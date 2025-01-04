@@ -6,6 +6,7 @@
     "addresses": [
         "mikart.eu"
     ],
+    "description": "A server which offers modern survival-type play",
     "primaryAddress": "play.mikart.eu",
     "primaryColor": "#2cd12c",
     "secondaryColor": "#2cd1a2",
@@ -22,7 +23,8 @@
         "EU"
     ],
     "gameTypes": [
-        "Earth"
+        "Earth",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/SuXGbq24wA"
