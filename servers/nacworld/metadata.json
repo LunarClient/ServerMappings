@@ -1,13 +1,12 @@
 {
     "id": "nacworld",
     "name": "Nacworld",
-    "description": "Czechoslovak MC server with islands, parcels, eggwars, events",
+    "description": "CzSk Housing parcely, Hardcore Ostrovy, Eggwarsy a Eventy",
     "addresses": [
         "nacworld.cz"
     ],
     "primaryAddress": "nacworld.cz",
     "minecraftVersions": [
-        "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
@@ -22,8 +21,9 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival",
-        "Minigames"
+        "Adventure",
+        "Hardcore",
+        "Creative"
     ],
-      "website": "https://nacworld.8u.cz/"
+      "website": "https://nacworld.cz/"
 }
