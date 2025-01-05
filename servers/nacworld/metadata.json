@@ -1,11 +1,11 @@
 {
     "id": "nacworld",
     "name": "Nacworld",
-    "description": "CzSk Housing parcely, Hardcore Ostrovy, Eggwarsy a Eventy",
+    "description": "CzSk Mc serv with Housing, Islands, Eggwars and Squidgame Events!",
     "addresses": [
         "nacworld.cz"
     ],
-    "primaryAddress": "nacworld.cz",
+    "primaryAddress": "play.nacworld.cz",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -25,5 +25,5 @@
         "Hardcore",
         "Creative"
     ],
-      "website": "https://nacworld.cz/"
+      "website": "http://nacworld.cz/"
 }
