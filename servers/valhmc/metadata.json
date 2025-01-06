@@ -27,13 +27,11 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "PvE",
-        "Adventure",
         "Open World"
     ],
     "socials": {
         "discord": "https://discord.gg/6FChdVVXhQ",
-        "tiktok": "valhmc.it",
+        "tiktok": "tiktok.valhmc.it",
         "instagram": "play.valhmc.it"
     }
 }
