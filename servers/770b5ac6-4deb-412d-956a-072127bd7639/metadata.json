@@ -1,0 +1,50 @@
+{
+    "id": "770b5ac6-4deb-412d-956a-072127bd7639",
+    "name": "MightyMC Server",
+    "description": "",
+    "addresses": [
+        "mightymc.club"
+    ],
+    "primaryAddress": "mightymc.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "SkyWars",
+        "Bedwars",
+        "SpeedBuilders",
+        "TNTTag",
+        "EscapeDragon",
+        "Practice"
+    ],
+    "website": "ComingSoon",
+    "store": "ComingSoon",
+    "compliance": {
+        "privacyPolicy": "ComingSoon",
+        "termsOfService": "ComingSoon",
+        "rules": "ComingSoon"
+    },
+    "socials": {
+        "titkok": "mightymc.club",
+        "instagram": "mightymc.club",
+        "discord": "https://discord.gg/Ur2bZbuHhc"
+    },
+    "crossplay": false
+}
