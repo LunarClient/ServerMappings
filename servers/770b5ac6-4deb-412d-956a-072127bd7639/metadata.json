@@ -27,22 +27,16 @@
     ],
     "gameTypes": [
         "PvP",
-        "SkyWars",
-        "Bedwars",
-        "SpeedBuilders",
-        "TNTTag",
-        "EscapeDragon",
-        "Practice"
+        "Minigames"
     ],
-    "website": "ComingSoon",
-    "store": "ComingSoon",
+    "website": "https://mightymc.club",
+    "store": "https://mightymc.club/store",
     "compliance": {
-        "privacyPolicy": "ComingSoon",
-        "termsOfService": "ComingSoon",
-        "rules": "ComingSoon"
+        "privacyPolicy": "https://mightymc.club/privacypolicy",
+        "termsOfService": "https://mightymc.club/termsofservice",
+        "rules": "https://mightymc.club/rules"
     },
     "socials": {
-        "titkok": "mightymc.club",
         "instagram": "mightymc.club",
         "discord": "https://discord.gg/Ur2bZbuHhc"
     },
