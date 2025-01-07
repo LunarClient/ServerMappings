@@ -6,7 +6,7 @@
     "addresses": [
         "livecube.fr"
     ],
-    "primaryAddress": "play.kingsmc.net",
+    "primaryAddress": "play.livecube.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
