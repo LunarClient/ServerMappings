@@ -1,0 +1,55 @@
+{
+    "id": "alcraft",
+    "name": "Al-Craft",
+    "website": "https://alcraft.es/",
+    "store": "https://alcraft.tebex.io/",
+    "description": "Enjoy a personalized survival experience and the best minigames!",
+    "addresses": [
+        "alcraft.es"
+    ],
+    "primaryAddress": "mine.alcraft.es",
+    "primaryColor": "#1769D2",
+    "secondaryColor": "#28A745",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "facebook": "Al-Craft",
+        "twitter": "AlCraftNetwork",
+        "instagram": "alcraft.network",
+        "youtube": "AlCraftNetwork",
+        "discord": "https://discord.com/invite/SQVquSE"
+    },
+    "compliance": {
+        "privacyPolicy": "https://alcraft.es/privacy/",
+        "termsOfService": "https://alcraft.es/terms/",
+        "rules": "https://alcraft.es/rules/"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#0c0e16",
+            "upperColor": "#202821"
+        }
+    }
+}

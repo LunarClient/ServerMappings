@@ -1,7 +1,7 @@
 {
     "id": "hyradynetwork",
     "name": "Hyrady Network",
-    "description": "Disfruta de una experiencia unica!",
+    "description": "Enjoy a unique experience!",
     "addresses": [
         "hyrady.com"
     ],
@@ -37,7 +37,7 @@
     "store": "https://tienda.hyrady.com",
     "socials": {
         "twitter": "hyradynetwork",
-        "tiktok": "hyradynetwork",
+        "tiktok": "@hyradynetwork",
         "discord": "https://discord.gg/8JBzSnqPE5"
     },
     "crossplay": true

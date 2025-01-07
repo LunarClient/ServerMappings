@@ -1,11 +1,11 @@
 {
     "id": "cofison",
     "name": "Cofison",
-    "description": "El mejor server competitivo de SA",
+    "description": "The best competitive server in SA",
     "addresses": [
-        "cofison.es"
+        "cofison.club"
     ],
-    "primaryAddress": "cofison.es",
+    "primaryAddress": "sa.cofison.club",
     "primaryColor": "#6a0084",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
