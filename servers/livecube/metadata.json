@@ -7,6 +7,7 @@
         "livecube.fr"
     ],
     "primaryAddress": "play.livecube.fr",
+    "crossplay": false,
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
