@@ -15,7 +15,7 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*",
+        "1.19.*"
     ],
     "primaryRegion": "AS",
     "regions": [
@@ -24,7 +24,7 @@
         "EU",
         "SA",
         "OC",
-        "AF",
+        "AF"
     ],
     "primaryColor": "#ffffff",
     "secondaryColor": "#000000",
