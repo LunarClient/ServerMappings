@@ -7,7 +7,6 @@
     ],
     "primaryAddress": "nemtudo.me",
     "minecraftVersions": [
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
@@ -28,9 +27,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Open World",
-        "Roleplay"
+        "Survival"
     ],
     "website": "https://nemtudo.me",
     "store": "https://loja.nemtudo.me",
