@@ -3,9 +3,9 @@
     "name": "EternalSolar Network",
     "description": "VanillaSurvival, Practice and Bedwars minigame server!",
     "addresses": [
-        "play.eternalsolar.xyz"
+        "eternalsolar.xyz"
     ],
-    "primaryAddress": "eternalsolar.xyz",
+    "primaryAddress": "play.eternalsolar.xyz",
     "primaryColor": "#4dff00",
     "secondaryColor": "#4dff00",
     "minecraftVersions": [
