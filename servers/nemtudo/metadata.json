@@ -7,8 +7,6 @@
     ],
     "primaryAddress": "nemtudo.me",
     "minecraftVersions": [
-        "1.13.*",
-        "1.14.*",
         "1.15.*",
         "1.16.*",
         "1.17.*",
@@ -37,7 +35,7 @@
     "website": "https://nemtudo.me",
     "store": "https://loja.nemtudo.me",
     "socials": {
-        "discord": "https://nemtudo.me/discord"
+        "discord": "https://discord.gg/XF7Yd7P3zP"
     },
     "crossplay": false
 }
