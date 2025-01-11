@@ -1,21 +1,16 @@
 {
     "id": "crazylive",
     "name": "CrazyLive",
-    "description": "Wir sind/möchten ein Minecraft Netzwerk /sein",
     "addresses": [
-        "play.crazylive.eu"
+        "crazylive.eu"
     ],
     "primaryAddress": "play.crazylive.eu",
+    "primaryColor": "#03e3f7",
+    "secondaryColor": "#a9f703",
     "minecraftVersions": [
         "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "de"
-    ],
     "primaryRegion": "DE",
     "regions": [
         "DE"
@@ -24,9 +19,7 @@
         "CityBuild",
         "OneBlock"
     ],
-    "website": "https://www.crazylive.eu",
     "socials": {
         "discord": "https://discord.gg/Hrzm2qE7Hq"
-    },
-    "crossplay": true
+    }
 }
