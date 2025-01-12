@@ -1,12 +1,12 @@
 {
-    "id": "Skylords",
+    "id": "skylords",
     "name": "Skylords Network",
     "website": "http://www.skylords.org",
     "description": "Play Skylords for a unique and NON-P2W experience!",
     "addresses": [
-      "1hour1life.net"
+      "skylords.org"
     ],
-    "primaryAddress": "play.skylords.org",
+    "primaryAddress": "skylords.org",
     "primaryColor": "#FFFFFF",
     "secondaryColor": "#2eff00",
     "minecraftVersions": [
