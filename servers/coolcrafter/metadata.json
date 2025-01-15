@@ -21,7 +21,8 @@
         "NA"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
         "twitter": "coolcrafterclub",
