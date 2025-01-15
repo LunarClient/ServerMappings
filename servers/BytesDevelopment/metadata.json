@@ -1,9 +1,9 @@
 {
-    "id": "bytesdevelopment",
+    "id": "BytesDevelopment",
     "name": "BytesDevelopment Network",
     "description": "A minecraft prison server.",
     "addresses": [
-        "mc.bytesdevelopment.xyz"
+        "bytesdevelopment.xyz"
     ],
     "primaryAddress": "mc.bytesdevelopment.xyz",
     "minecraftVersions": [
@@ -13,9 +13,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#2c98b0",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
