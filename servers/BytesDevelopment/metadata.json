@@ -3,7 +3,7 @@
     "name": "BytesDevelopment Network",
     "description": "A minecraft prison server.",
     "addresses": [
-        "mc.bytesdevelopment.xyz",
+        "mc.bytesdevelopment.xyz"
     ],
     "primaryAddress": "mc.bytesdevelopment.xyz",
     "minecraftVersions": [
@@ -19,12 +19,12 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "Prison"
     ],
-    "store": "https://store..bytesdevelopment.xyz",
+    "store": "https://store.bytesdevelopment.xyz",
     "presentationVideo": "7EV4cPuJvXE",
     "socials": {
         "twitter": "iSixyyy",
