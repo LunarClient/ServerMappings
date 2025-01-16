@@ -5,9 +5,9 @@
     "store": "https://store.themploz.com/",
     "description": "Where Minecraft Adventures Begin",
     "addresses": [
-        "play.themploz.com"
+        "themploz.com"
     ],
-    "primaryAddress": "play.themploz.com",
+    "primaryAddress": "themploz.com",
     "primaryColor": "#00AA00",
     "secondaryColor": "#DEDEDE",
     "minecraftVersions": [
