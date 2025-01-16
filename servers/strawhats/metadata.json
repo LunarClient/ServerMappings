@@ -5,9 +5,10 @@
     "store": "https://store.strawhatspvp.us/",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "strawhatspvp.us"
+        "strawhatspvp.net",
+        "strawhatspvp.nus"
     ],
-    "primaryAddress": "strawhatspvp.us",
+    "primaryAddress": "strawhatspvp.net",
     "primaryColor": "#FFAA00",
     "secondaryColor": "#DEDEDE",
     "minecraftVersions": [
