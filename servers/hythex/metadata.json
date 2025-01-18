@@ -1,6 +1,7 @@
 {
     "id": "hythex",
     "name": "Hythex",
+    "description": "Home of Minecraft Prison",
     "website": "https://www.hythex.net/",
     "store": "https://www.hythex.net/store",
     "addresses": [
@@ -27,5 +28,8 @@
     "socials": {
         "twitter": "HythexStudios",
         "discord": "https://discord.gg/hythex"
+    }
+    "regions": {
+        "SA"
     }
 }
