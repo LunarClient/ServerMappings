@@ -3,9 +3,7 @@
     "name": "MineHQ",
     "store": "https://store.minehq.org/",
     "addresses": [
-        "play.minehq.org",
-        "mc.minehq.org",
-        "bedrock.minehq.org"
+        "minehq.org"
     ],
     "primaryAddress": "play.minehq.org",
     "primaryColor": "#ffa500",
