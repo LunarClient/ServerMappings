@@ -22,11 +22,10 @@
         "en"
     ],
     "gameTypes": [
-        "Ranked Bedwars"
+        "PvP"
     ],
         "website": "https://bedfight.club",
     "socials": {
-        "twitter": "PlayMineHQ",
         "discord": "https://discord.gg/bedfight"
     },
     "crossplay": false
