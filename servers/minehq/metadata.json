@@ -38,7 +38,8 @@
         "en"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "HCF"
     ],
         "website": "https://minehq.org",
     "socials": {
