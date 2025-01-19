@@ -6,7 +6,7 @@
         "bedfight.club"
     ],
     "primaryAddress": "bedfight.club",
-    "primaryColor": "00ffcd",
+    "primaryColor": "#00ffcd",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.10", 
@@ -19,7 +19,6 @@
     ],
     "primaryLanguage": "en",
     "languages": [
-        "EN",
         "en"
     ],
     "gameTypes": [
