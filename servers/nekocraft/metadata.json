@@ -10,9 +10,9 @@
     "primaryAddress": "mc.nekocraft.us",
     "primaryColor": "#16d4ee",
     "secondaryColor": "#05132d",
-    "primaryLanguage": "es-ES",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es-ES"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -30,20 +30,13 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
-        "SkyWars",
-        "BedWars",
-        "TNTTag",
-        "TNTRun",
-        "PTC",
-        "SquidGames",
-        "Meetup",
-        "UHC",
-        "Coliseum",
-        "Survival"
+        "Minigames", 
+        "Survival", 
+        "UHC"
     ],
     "socials": {
         "twitter": "NekoCraftNW",
-        "discord": "https://discord.nekocraft.us"
+        "discord": "https://discord.gg/M5Yt49wN2v"
     },
     "crossplay": true
 }
