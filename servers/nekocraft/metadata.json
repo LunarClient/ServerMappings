@@ -1,6 +1,7 @@
 {
     "id": "nekocraft",
     "name": "NekoCraft Network",
+    "description": "Servidor competitivo orientado a los minijuegos.",
     "website": "https://nekocraft.us/",
     "store": "https://store.nekocraft.us/",
     "addresses": [
@@ -43,5 +44,6 @@
     "socials": {
         "twitter": "NekoCraftNW",
         "discord": "https://discord.nekocraft.us"
-    }
+    },
+    "crossplay": true
 }
