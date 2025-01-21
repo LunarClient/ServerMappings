@@ -27,7 +27,8 @@
     "secondaryColor": "#000000",
     "primaryLanguage": "en",
     "languages": [
-        "en"
+        "en",
+        "fa"
     ],
     "gameTypes": [
         "RolePlay"
