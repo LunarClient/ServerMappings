@@ -1,0 +1,21 @@
+{
+    "id": "persiancraftmc",
+    "name": "Persian Craft",
+    "description": "PersianCraft High Quality Version Of Minecraft",
+    "addresses": [
+        "persiancraftmc.ir",
+    ],
+    "primaryAddress": "play.persiancraftmc.ir",
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#FF6600",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "primaryRegion": "AS",
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://www.lunar.gg/discord"
+    },
+    "crossplay": false
+}
