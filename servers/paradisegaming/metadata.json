@@ -15,13 +15,7 @@
     "primaryMinecraftVersion": "1.21.1",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
@@ -42,7 +36,7 @@
         "telegram": "paradisegamingcommunity",
         "discord": "https://discord.com/invite/paradise-gaming-2k-758059663714418698",
         "instagram": "mc.paradisegaming.it",
-        "tiktok": "mc.paradisegaming.it"
+        "tiktok": "@mc.paradisegaming.it"
     },
     "votingLinks": [
         "https://minecraft-italia.net/lista/server/paradisegaming/"
