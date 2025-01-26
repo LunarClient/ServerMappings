@@ -1,9 +1,8 @@
 {
     "id": "dirtopia",
     "name": "Dirtopia.PL MiniGames",
-    "website": "https://dirtopia.pl/",
-    "store": "https://dirtopia.pl/",
-    "description": "Dirtopia.PL - Polski serwer MiniGames",
+    "store": "https://dirtopia.pl/shop/doladowania",
+    "description": "Dirtopia.PL - Polish MiniGames server",
     "addresses": [
         "dirtopia.pl"
     ],
