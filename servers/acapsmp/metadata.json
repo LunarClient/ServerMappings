@@ -1,5 +1,5 @@
 {
-    "id": "mongolvibes",
+    "id": "acapsmp",
     "name": "MongolVibes",
     "description": "MongolVibes is a chill Minecraft server for Mongolian gamers. Join us for fun, custom features, and cool events. Build, explore, and hang out with friends!",
     "addresses": [
@@ -25,9 +25,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "Pvp",
-        "KitPvp",
-        "Minigames"
+        "PvP"
     ],
     "website": "https://www.mnvibes.fun",
     "store": "https://mnvibes.fun/store",
@@ -39,7 +37,7 @@
     "presentationVideo": "M_AQ9zDow8c",
     "socials": {
         "twitter": "mnvibes",
-        "discord": "https://www.mnvibes.fun/discord"
+        "discord": "https://discord.com/invite/XKFtYsN7YF"
     },
     "crossplay": true
 }
