@@ -1,0 +1,42 @@
+{
+    "id": "elopvp",
+    "name": "EloPvP",
+    "description": "Best Training and PvP Server!",
+    "addresses": [
+        "EloPvP.eu"
+        "cracked.EloPvP.eu"
+        "premium.EloPvP.eu" 
+    ],
+    "primaryAddress": "EloPvP.eu",
+    "primaryColor": "#55FF55",
+    "secondaryColor": "#00AA00",
+    "primaryLanguage": "de",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "minecraftVersions": [
+        "1.8.",
+        "1.12.",
+        "1.16.",
+        "1.17.",
+        "1.18.",
+        "1.19.",
+        "1.20.",
+        "1.21."
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FGP2Qsmw",
+        "youtube": "@LucaMC"
+    }
+}
