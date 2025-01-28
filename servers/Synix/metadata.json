@@ -5,9 +5,9 @@
     "store": "https://store.synixmc.nl/",
     "description" : "Een unieke Kingdom ervaring die je nog nooit eerder hebt gezien!",
     "addresses": [
-        "play.synixmc.nl"
+        "synixmc.nl"
     ],
-    "primaryAddress": "synixmc.nl",
+    "primaryAddress": "play.synixmc.nl",
     "primaryColor": "#f40000",
     "secondaryColor": "#561414",
     "minecraftVersions": [
