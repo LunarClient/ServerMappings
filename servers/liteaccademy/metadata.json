@@ -3,9 +3,9 @@
     "name": "Liteaccademy Network",
     "description": "Liteaccademy is a server founded in 2022/2023, Owner of @TropeaRoleplay",
     "addresses": [
-        "liteaccademy.net"
+        "liteaccademy.it"
     ],
-    "primaryAddress": "play.liteaccademy.net",
+    "primaryAddress": "play.liteaccademy.it",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -28,11 +28,11 @@
     "gameTypes": [
         "Roleplay"
     ],
-    "website": "https://www.liteaccademy.net",
-    "store": "https://www.liteaccademy.net/store/",
+    "website": "https://www.liteaccademy.it",
+    "store": "https://www.liteaccademy.it/store/",
     "compliance": {
-        "privacyPolicy": "https://www.liteaccademy.net/privacy/",
-        "termsOfService": "https://www.liteaccademy.net/terms/"
+        "privacyPolicy": "https://www.liteaccademy.it/privacy/",
+        "termsOfService": "https://www.liteaccademy.it/terms/"
     },
     "socials": {
         "discord": "https://discord.gg/BJbcTsbRuj",
