@@ -1,6 +1,6 @@
 {
     "id": "persiancraft",
-    "name": "Persian Craft",
+    "name": "PersianCraft",
     "description": "PersianCraft High Quality Version Of Minecraft",
     "addresses": [
         "persiancraft.top"
@@ -10,9 +10,5 @@
     "primaryColor": "#FF6600",
     "secondaryColor": "#000000",
     "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "fa"
-    ],
     "crossplay": true
 }
