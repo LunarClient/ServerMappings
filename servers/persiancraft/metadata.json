@@ -1,14 +1,28 @@
 {
     "id": "persiancraft",
-    "name": "Persian Craft",
-    "description": "PersianCraft High Quality Version Of Minecraft",
-    "addresses": [
+    "name": "PersianCraft",
+    "addresses": [ 
         "persiancraft.top"
     ],
     "primaryAddress": "mc.persiancraft.top",
+    "primaryColor": "#f96205",
+    "secondaryColor": "#00000",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#FF6600",
-    "secondaryColor": "#000000",
-    "primaryLanguage": "en",
-    "crossplay": true
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FDUJRyeWEN"
+    }
 }
