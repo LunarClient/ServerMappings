@@ -6,7 +6,7 @@
     ],
     "primaryAddress": "mc.persiancraft.top",
     "primaryColor": "#f96205",
-    "secondaryColor": "#00000",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
