@@ -1,0 +1,14 @@
+{
+    "id": "mineheaven",
+    "name": "Mine Heaven",
+    "description": "MineHeaven is a fun and clean server",
+    "addresses": [
+        "mineheaven.ir"
+    ],
+    "primaryAddress": "mc.mineheaven.ir",
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#05A1DC",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "crossplay": false
+}
