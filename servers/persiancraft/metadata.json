@@ -3,9 +3,9 @@
     "name": "Persian Craft",
     "description": "PersianCraft High Quality Version Of Minecraft",
     "addresses": [
-        "persiancraftmc.ir"
+        "persiancraft.top"
     ],
-    "primaryAddress": "play.persiancraftmc.ir",
+    "primaryAddress": "mc.persiancraft.top",
     "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#FF6600",
     "secondaryColor": "#000000",
@@ -14,5 +14,5 @@
         "en",
         "fa"
     ],
-    "crossplay": false
+    "crossplay": true
 }
