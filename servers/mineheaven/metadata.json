@@ -1,14 +1,30 @@
 {
-  "id": "mineheaven",
-  "name": "Mine Heaven",
-  "description": "MineHeaven is a fun and clean server",
-  "addresses": [
-    "mineheaven.ir"
-  ],
-  "primaryAddress": "mc.mineheaven.ir",
-  "primaryMinecraftVersion": "1.20",
-  "primaryColor": "#05A1DC",
-  "secondaryColor": "#000000",
-  "primaryLanguage": "en",
-  "crossplay": false
+    "id": "mineheaven",
+    "name": "Mine Heaven",
+    "addresses": [ 
+        "mineheaven.ir"
+    ],
+    "primaryAddress": "mc.mineheaven.ir",
+    "primaryColor": "#00c9ff",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/6Vahf8U3rx"
+    }
 }
