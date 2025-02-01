@@ -26,7 +26,8 @@
     ],
     "primaryLanguage": "es-EN",
     "languages": [
-        "en"        
+        "en",
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
@@ -34,7 +35,7 @@
     ],
     "socials": {
         "discord": "https://discord.gg/minecub",
-        "tiktok": "https://www.tiktok.com/@minecubtv",
+        "tiktok": "@minecubtv",
         "youtube": "@Minecub",
         "twitter": "@Minecub"
     }
