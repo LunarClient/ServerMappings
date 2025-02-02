@@ -2,24 +2,14 @@
     "id": "hiddencitynetwork",
     "name": "HiddenCity",
     "addresses": [ 
-        "hiiddencity.ir",
-        "mcexe.ir"
+        "hiiddencity.ir"
     ],
     "primaryAddress": "play.hiiddencity.ir",
     "primaryColor": "#f96205",
     "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
-        "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
-        "1.17.*",
-        "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
@@ -29,11 +19,10 @@
         "AS"
     ],
     "gameTypes": [
-        "Minigames",
-        "Roleplay",
         "Survival",
         "Skyblock",
-        "Pvp"
+        "Roleplay",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/p2xxcYWf2p"
