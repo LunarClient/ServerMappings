@@ -1,6 +1,7 @@
 {
     "id": "hiddencitynetwork",
     "name": "HiddenCity",
+    "description": "Best Iranian MineCraft Server Free !",
     "addresses": [ 
         "hiiddencity.ir"
     ],
@@ -9,9 +10,13 @@
     "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.8.*",
+        "1.12.*",
         "1.16.*",
+        "1.17.*",
+        "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "AS",
@@ -19,10 +24,9 @@
         "AS"
     ],
     "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "Roleplay",
-        "PvP"
+        "Minigames",
+        "PvP",
+        "Skyblock"
     ],
     "socials": {
         "discord": "https://discord.gg/p2xxcYWf2p"
