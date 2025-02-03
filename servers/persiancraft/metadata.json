@@ -2,9 +2,13 @@
     "id": "persiancraft",
     "name": "PersianCraft",
     "addresses": [ 
-        "persiancraft.top"
+        "persiancraft.top",
+        "persiancraftmc.ir"
     ],
-    "primaryAddress": "mc.persiancraft.top",
+    "primaryAddress": [
+        "play.persiancraft.top",
+        "play.persiancraftmc.ir"
+    ],
     "primaryColor": "#f96205",
     "secondaryColor": "#000000",
     "minecraftVersions": [
