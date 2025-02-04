@@ -1,0 +1,48 @@
+{
+    "id": "falconcraft",
+    "name": "falconcraft",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "falconcraft.ir"
+    ],
+    "primaryAddress": "play.falconcraft.ir",
+    "minecraftVersions": [
+        "1.17*",
+        "1.16*",
+        "1.8.*",
+        "1.18*",
+        "1.19*"
+    ],
+    "primaryMinecraftVersion": 1.18.2",
+    "primaryColor": "#d3ac00",
+    "secondaryColor": "#e8ece7",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "bedwars"
+        "roleplay"
+        "survival"
+        "skyblock"
+        "lobby"
+        "skymine"
+    ],
+    "store": "https://t.me/falconcraftstore",
+    "compliance": {
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "telegram": "https://t.me/falconcraft",
+        "discord": "https://discord.gg/falconcraft"
+    },
+    "crossplay": false
+}
