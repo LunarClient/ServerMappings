@@ -1,0 +1,42 @@
+{
+    "id": "falconcraft",
+    "name": "falconcraft",
+    "description": "falconcraft the minecraft server",
+    "addresses": [
+        "falconcraft.ir"
+    ],
+    "primaryAddress": "play.falconcraft.ir"
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#c58102",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "compliance": {
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "telegram": "https://t.me/falconcraft",
+        "discord": "https://discord.gg/falconcraft"
+    },
+    "crossplay": false
+}
