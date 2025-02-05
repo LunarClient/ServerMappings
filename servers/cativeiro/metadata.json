@@ -4,9 +4,9 @@
     "store": "https://store.cativeiro.lol",
     "description": "Come be the best",
     "addresses": [
-        "eu.cativeiro.lol"
+        "cativeiro.lol"
     ],
-    "primaryAddress": "cativeiro.lol",
+    "primaryAddress": "eu.cativeiro.lol",
     "primaryColor": "#6c42f5",
     "secondaryColor": "#2e214a",
     "minecraftVersions": [
