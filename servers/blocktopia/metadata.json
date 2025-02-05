@@ -5,8 +5,8 @@
         "blocktopia.es"
     ],
     "primaryAddress": "blocktopia.es",
-    "primaryColor": "#048acb",
-    "secondaryColor": "#394047",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
