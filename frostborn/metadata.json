@@ -1,0 +1,32 @@
+{
+    "id": "frostborn",
+    "name": "Frost Born",
+    "website": "http://play.frostborn.ir",
+    "description": "Minecraft Roleplay server",
+    "addresses": [
+      "play.frostborn.ir"
+    ],
+    "primaryAddress": "frostborn.ir",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+      "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "Roleplay",
+      "Bedwars"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/huvJ2ECjxP"
+    }
+}
