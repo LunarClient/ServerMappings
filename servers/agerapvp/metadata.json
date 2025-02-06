@@ -9,6 +9,7 @@
     ],
     "primaryAddress": "mc.agerapvp.club",
     "primaryColor": "#00c5ff",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
