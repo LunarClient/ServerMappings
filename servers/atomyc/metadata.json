@@ -7,7 +7,7 @@
   ],
   "primaryAddress": "atomyc.pro",
   "minecraftVersions": [
-    "1.8.9",
+    "1.8.9"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "gameTypes": [
@@ -20,7 +20,7 @@
   "regions": ["SA"],
   "primaryRegion": "SA",
   
-  "store": "https://store.atomyc.pro"
+  "store": "https://atomyc.tebex.io/",
   "socials": {
     "discord": "https://discord.gg/SMbZVkmcdW"
   }
