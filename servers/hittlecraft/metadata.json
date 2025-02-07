@@ -17,15 +17,19 @@
   ],
   "primaryColor": "#FF8C00",
   "secondaryColor": "#FFD700",
-  "languages": ["es-EN", "en"],
+  "languages": [
+    "es-EN",
+    "en"
+  ],
   "primaryLanguage": "es-EN",
-  "regions": ["SA"],
+  "regions": [
+    "SA"
+  ],
   "primaryRegion": "SA",
-  
   "store": "https://store.hittlecraft.net",
   "socials": {
     "discord": "https://discord.gg/m8V9pns6dB",
-    "twitter": "https://twitter.com/hittlecraft1"
+    "twitter": "hittlecraft1"
   },
   "votingLinks": [
     "https://minecraftservers.org/server/644961"
