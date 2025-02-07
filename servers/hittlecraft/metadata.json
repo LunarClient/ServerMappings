@@ -1,7 +1,7 @@
 {
   "id": "hittlecraft",
   "name": "HittleCraft",
-  "description": "Servidor Minecraft con modalidades PrisonOP y KitPvP",
+  "description": "Minecraft server featuring PrisonOP and KitPvP gamemodes",
   "addresses": [
     "hittlecraft.net"
   ],
