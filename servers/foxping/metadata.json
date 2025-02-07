@@ -1,1 +1,40 @@
-foxping
+{
+    "id": "foxping",
+    "name": "FoxPing",
+    "addresses": [
+        "foxping.ovh"
+    ],
+    "primaryAddress": "play.foxping.ovh",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00d4ff",
+    "secondaryColor": "#4c77f5",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "SMP"
+    ],
+    "website": "https://foxping.ovh",
+    "store": "https://foxping.ovh/shop",
+    "socials": {
+        "youtube": "foxping",
+        "discord": "https://discord.gg/3jdmKX4xvf"
+    }
+}
