@@ -1,7 +1,7 @@
 {
     "id": "dextermc",
     "name": "DexterMC",
-    "description": "Server lifesteal competitivo",
+    "description": "Competitive Lifesteal server",
     "addresses": [
         "dextermc.it"
     ],
@@ -32,7 +32,7 @@
     },
     "socials": {
         "twitter": "DexterMC",
-        "telegram": "@dextermc",
+        "telegram": "dextermc",
         "discord": "https://discord.gg/dextermc"
     },
     "crossplay": false

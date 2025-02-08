@@ -5,8 +5,7 @@
     "store": "https://auroranetwork.hu/stellar",
     "description": "Experience unique PvP, thrilling survival adventures, and much more!",
     "addresses": [
-        "auroranetwork.hu",
-        "auroramc.gg"
+        "auroranetwork.hu"
     ],
     "primaryAddress": "play.auroranetwork.hu",
     "primaryColor": "#38BFD3",

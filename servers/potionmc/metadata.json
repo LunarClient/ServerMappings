@@ -1,9 +1,9 @@
 {
     "id": "potionmc",
-    "name": "PotionMC Network",
+    "name": "IceLands Network",
     "description": "The Next Generation Competitive PvP Server",
     "addresses": [
-      "potionmc.com",
+      "icelands.cc",
       "potpvp.cc",
       "potpvp.cn",
       "potpvp.lol"
@@ -29,8 +29,8 @@
       "PvP",
       "Minigames"
     ],
-    "website": "https://www.potpvp.cc",
-    "store": "https://store.potpvp.cc",
+    "website": "https://www.icelands.cc",
+    "store": "https://store.icelands.cc",
     "socials": {
       "discord": "https://discord.gg/jBa9gmX6wS"
     }

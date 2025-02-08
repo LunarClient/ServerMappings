@@ -1,7 +1,7 @@
 {
     "id": "amperiamc",
     "name": "AmperiaMC",
-    "description": "PVPBox Ranked ! Bon PvP, système de TeamFight de Clan !",
+    "description": "PVPBox Ranked! Good PvP, Clan TeamFight system!",
     "addresses": [
         "amperiamc.fr"
     ],
@@ -32,7 +32,7 @@
     "socials": {
         "twitter": "amperia_mc",
         "youtube": "amperia-mc",
-        "tiktok": "amperiamc",
+        "tiktok": "@amperiamc",
         "discord": "https://discord.gg/amperiamc"
     }
 }

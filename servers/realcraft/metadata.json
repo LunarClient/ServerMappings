@@ -3,7 +3,7 @@
     "name": "RealCraft",
     "website": "https://realcraftmc.nl",
     "store": "https://shop.realcraftmc.nl",
-    "description": "RealCraft is een server die gefocust is op survival met veel custom elementen!",
+    "description": "RealCraft is a survival focused server with lots of custom elements!",
     "addresses": [
         "realcraftmc.nl"
     ],
@@ -33,7 +33,7 @@
     "socials": {
         "discord": "https://discord.com/invite/PkDWeDX48u",
         "youtube": "real-craft",
-        "tiktok": "play.realcraftmc.nl",
+        "tiktok": "@play.realcraftmc.nl",
         "instagram": "play.realcraftmc.nl"
     },
     "crossplay": false
