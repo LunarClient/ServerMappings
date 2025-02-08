@@ -1,0 +1,39 @@
+{
+    "id": "playground",
+    "name": "Playground",
+    "description": "Recreation of the Hypixel gamemode Housing!",
+    "addresses": [
+        "playground.redstone.llc"
+    ],
+    "primaryAddress": "playground.redstone.llc",
+    "primaryColor": "#00fbff",
+    "secondaryColor": "#0068ff",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "AF",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Minigames",
+        "Open World",
+        "Roleplay",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/2J7FwNaSat"
+    }
+}
