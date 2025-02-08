@@ -2,10 +2,11 @@
     "id": "playground",
     "name": "Playground",
     "description": "Recreation of the Hypixel gamemode Housing!",
+    "primaryAddress": "redstone.llc",
     "addresses": [
+        "redstone.llc",
         "playground.redstone.llc"
     ],
-    "primaryAddress": "redstone.llc",
     "primaryColor": "#00fbff",
     "secondaryColor": "#0068ff",
     "minecraftVersions": [
