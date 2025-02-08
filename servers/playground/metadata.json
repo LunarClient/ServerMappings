@@ -5,7 +5,7 @@
     "addresses": [
         "playground.redstone.llc"
     ],
-    "primaryAddress": "playground.redstone.llc",
+    "primaryAddress": "redstone.llc",
     "primaryColor": "#00fbff",
     "secondaryColor": "#0068ff",
     "minecraftVersions": [
