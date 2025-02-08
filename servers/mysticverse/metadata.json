@@ -1,7 +1,7 @@
 {
     "id": "mysticverse",
     "name": "MysticVerse",
-    "description": "Embark on epic adventures, face legendary creatures, and join a fearless community of kindred spirits like you!",
+    "description": "Embark on epic quests, battle legendary foes, and unite with fearless adventurers!",
     "addresses": [
         "mysticverse.net"
     ],
@@ -34,7 +34,7 @@
         "discord": "https://discord.com/invite/6RSuMVAUxN",
         "instagram": "mysticverse_official",
         "tiktok": "mysticverse_official",
-        "youtube": "https://www.youtube.com/@MysticVerseofficial"
+        "youtube": "MysticVerseofficial"
     },
     "crossplay": false
 }
