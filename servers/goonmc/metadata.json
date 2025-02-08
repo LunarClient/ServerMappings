@@ -1,0 +1,27 @@
+{
+    "id": "goonmc",
+    "name": "Goon MC",
+    "website": "https://goonmc.nl/",
+    "store": "https://shop.goonmc.nl/",
+    "addresses": [
+        "goonmc.nl"
+    ],
+    "primaryAddress": "play.goonmc.nl",
+    "primaryColor": "#be2f29",
+    "secondaryColor": "#2c7722",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hTTD4Yb9Av",
+        "tiktok": "@goonmc"
+    }
+}
