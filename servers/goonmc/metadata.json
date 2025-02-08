@@ -7,18 +7,25 @@
         "goonmc.nl"
     ],
     "primaryAddress": "play.goonmc.nl",
-    "primaryColor": "#be2f29",
-    "secondaryColor": "#2c7722",
+    "primaryColor": "#7FDBFF"
+    "secondaryColor": "#2E8B57"
     "minecraftVersions": [
         "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "gameTypes": [
-        "Survival",
+        "Survival"
+    ],
+    "description": "Goon MC is een survival-gebaseerde server met PvP, Crates & veel meer!",
+    "votingSites": [
+        "https://minecraftkrant.nl/serverlijst/goon-mc/vote",
+        "https://minecraft-mp.com/server/340304/vote/",
+        "https://minecraftservers.org/vote/670701",
+        "https://minecraft-server-list.com/server/509852/vote/"
     ],
     "socials": {
         "discord": "https://discord.gg/hTTD4Yb9Av",
