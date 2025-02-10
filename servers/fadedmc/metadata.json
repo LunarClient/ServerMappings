@@ -37,8 +37,6 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "UHC",
         "PvE"
     ],
     "website": "https://fadedmc.net/",
