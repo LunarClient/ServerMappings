@@ -9,7 +9,7 @@
     "primaryColor": "#d276ff",
     "secondaryColor": "#d276ff",
     "minecraftVersions": [
-        "1.20.4"
+        "1.21.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
     "crossplay": false,
