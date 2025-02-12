@@ -8,7 +8,6 @@
     "primaryAddress": "vanillacompetitive.com",
     "gameTypes": [
         "PvP",
-        "Vanilla PVP",
         "Survival"
     ],
     "primaryColor": "#09d665",
