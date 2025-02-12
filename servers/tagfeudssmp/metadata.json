@@ -1,0 +1,32 @@
+{
+  "id": "tagfeudssmp",
+  "name": "Tag Feuds SMP",
+  "store": "https://store.tagfeuds.com",
+  "description": "Tag Feuds community SMP!",
+  "addresses": [
+    "tagfeuds.com"
+  ],
+  "primaryAddress": "smp.tagfeuds.com",
+  "primaryColor": "#FF55FF",
+  "secondaryColor": "#7F00FF",
+  "minecraftVersions": [
+    "1.21.4"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "crossplay": false,
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Open World",
+    "Survival"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/tagfeuds"
+  }
+}
