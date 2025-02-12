@@ -3,7 +3,8 @@
     "name": "Chorus",
     "website": "https://chorus.hu/",
     "addresses": [
-        "chorus.hu"
+        "chorus.hu",
+        "chorus.wtf"
     ],
     "primaryAddress": "play.chorus.hu",
     "primaryColor": "#d276ff",
