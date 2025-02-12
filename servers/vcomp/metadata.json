@@ -1,7 +1,7 @@
 {
     "id": "vcomp",
     "name": "Vanilla Competitive",
-    "description": "The Best place in Australia to refine your skills in PVP",
+    "description": "The Best server in Australia to refine your skills in PVP",
     "addresses": [
         "vanillacompetitive.com"
     ],
@@ -34,7 +34,6 @@
         "twitter": "vanillacompetitive",
         "discord": "https://discord.gg/5KhEzHpYC6",
         "youtube": "@vanillacompetitive",
-        "reddit": "vanillacompetitive",
         "tiktok": "@vanillacompetitive"
     },
     "votingLinks": [
