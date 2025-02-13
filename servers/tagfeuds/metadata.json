@@ -10,7 +10,13 @@
   "primaryColor": "#FF55FF",
   "secondaryColor": "#7F00FF",
   "minecraftVersions": [
-    "1.8.9"
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "crossplay": false,
@@ -24,7 +30,8 @@
   ],
   "gameTypes": [
     "PvP",
-    "Minigames"
+    "Minigames",
+    "Parkour"
   ],
   "socials": {
     "discord": "https://discord.gg/tagfeuds"
