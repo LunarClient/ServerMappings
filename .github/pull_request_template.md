@@ -60,6 +60,7 @@
 -   [ ] My logo has a transparent background and is square (1:1 aspect ratio).
 -   [ ] My logo is `512` pixels in width and height.
 -   [ ] My logo is my own property and complies with relevant copyright/privacy laws.
+-   [ ] My logo is not upscaled from a smaller low quality image.
 
 #### Background
 
