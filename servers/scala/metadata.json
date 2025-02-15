@@ -36,17 +36,11 @@
   "gameTypes": [
     "PvP",
     "Minigames",
-    "UHC",
-    "HCF"
+    "UHC"
   ],
   "socials": {
     "twitter": "ScalaStudios",
     "discord": "https://discord.gg/potpvp",
     "telegram": "ScalaStudios"
-  },
-  "votingLinks": {
-    "vote1": "https://vote.scala.gg/",
-    "vote2": "https://vote2.scala.gg/",
-    "vote3": "https://vote3.scala.gg/"
   }
 }
