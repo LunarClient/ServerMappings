@@ -1,3 +1,4 @@
+{
     "id": "elementcraft",
     "name": "ElementCraft",
     "description": "Elementcraft – Choose your class, explore, build, and thrive in a balanced economy!",
@@ -26,8 +27,8 @@
         "SA"
     ],
     "gameTypes": [
-        "Survival",
-        "PvP"
+        "PvP",
+        "Survival"
     ],
     "website": "N/A",
     "store": "https://store.elementcraft.net/",
@@ -37,4 +38,5 @@
         "discord": "https://discord.gg/TqpUCjyVFp"
     },
     "crossplay": true
+}
 }
