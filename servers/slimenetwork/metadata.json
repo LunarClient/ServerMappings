@@ -7,8 +7,6 @@
     ],
     "primaryAddress": "slimenetwork.net",
     "minecraftVersions": [
-        "1.20.5",
-        "1.20.6",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.3",
