@@ -1,7 +1,7 @@
 {
     "id": "elementcraft",
     "name": "ElementCraft",
-    "description": "Elementcraft – Choose your class, explore, build, and thrive in a balanced economy!",
+    "description": "Elementcraft – Choose your class, explore, and thrive in a balanced world!",
     "addresses": [
         "elementcraft.net",
         "elementcraft.org"
@@ -30,7 +30,7 @@
         "PvP",
         "Survival"
     ],
-    "website": "N/A",
+    "website": "https://store.elementcraft.net",
     "store": "https://store.elementcraft.net/",
     "socials": {
         "twitter": "N/A",
