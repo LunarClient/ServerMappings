@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "mocraft.minecraft.casa",
     "minecraftVersions": [
-        "1.21.4"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "primaryColor": "#44a1e3",
@@ -27,16 +27,16 @@
     "gameTypes": [
         "Survival"
     ],
-    "website": "",
-    "store": "",
+    "website": "https://mocraft.com",
+    "store": "https://store.mocraft.com",
     "compliance": {
-        "privacyPolicy": "",
-        "termsOfService": "",
-        "rules": ""
+        "privacyPolicy": "https://mocraft.com/privacy",
+        "termsOfService": "https://mocraft.com/terms",
+        "rules": "https://mocraft.com/rules"
     },
     "socials": {
-        "twitter": "",
-        "telegram": "",
+        "twitter": "MoCraftServer",
+        "telegram": "mocraft",
         "discord": "https://discord.gg/pTqhr9vUWh"
     },
     "crossplay": false
