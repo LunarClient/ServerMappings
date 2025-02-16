@@ -1,1 +1,7 @@
-{ "identifier": "mc.enderix.eu", "allowedMods": ["replayMod"], "forceDisableMods": ["xray"], "customCosmetics": false } 
+{
+    "identifier": "mc.enderix.eu",
+    "allowedMods": ["replayMod", "keystrokes"],
+    "forceDisableMods": ["xray"],
+    "customCosmetics": false,
+    "logo": "https://imgur.com/a/oMpzEqc"
+}
