@@ -7,7 +7,7 @@
     "addresses": [
         "mc.enderix.eu"
     ],
-    "primaryAddress": "mc.enderix.eu",
+    "primaryAddress": "enderix.eu",
     "primaryColor": "#b17cff",
     "secondaryColor": "#c59dff",
     "minecraftVersions": [
@@ -21,15 +21,15 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "sk",
+    "primaryLanguage": "en",
     "languages": [
-        "sk"
+        "en"
     ],
     "gameTypes": [
-        "Oneblock",
+        "Minigames",
         "Survival"
     ],
     "socials": {
-      "discord": "https://discord.enderix.eu"
+      "discord": "https://discord.gg/5PeDnfzM9S"
     }
 }
