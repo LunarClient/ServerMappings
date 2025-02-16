@@ -1,0 +1,28 @@
+{
+    "id": "goonmc",
+    "name": "Goon MC",
+    "website": "https://goonmc.nl/",
+    "store": "https://shop.goonmc.nl/",
+    "addresses": [
+        "goonmc.nl"
+    ],
+    "primaryAddress": "play.goonmc.nl",
+    "primaryColor": "#7FDBFF",
+    "secondaryColor": "#2E8B57",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "description": "Goon MC is een survival-gebaseerde server met PvP, Crates & veel meer!",
+    "socials": {
+        "discord": "https://discord.gg/hTTD4Yb9Av",
+        "tiktok": "@goonmc"
+    }
+}
