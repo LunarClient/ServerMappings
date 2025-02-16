@@ -3,9 +3,9 @@
     "name": "Mo Craft",
     "description": "Survival Server from our mod (Melon was here)",
     "addresses": [
-        "mocraft.minecraft.casa"
+        "212.192.29.14:25516"
     ],
-    "primaryAddress": "mocraft.minecraft.casa",
+    "primaryAddress": "212.192.29.14:25516",
     "minecraftVersions": [
         "1.21.*"
     ],
