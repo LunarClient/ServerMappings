@@ -1,0 +1,43 @@
+{
+    "id": "mocraft",
+    "name": "Mo Craft",
+    "description": "Survival Server from our mod (Melon was here)",
+    "addresses": [
+        "mocraft.minecraft.casa"
+    ],
+    "primaryAddress": "mocraft.minecraft.casa",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "",
+    "store": "",
+    "compliance": {
+        "privacyPolicy": "",
+        "termsOfService": "",
+        "rules": ""
+    },
+    "socials": {
+        "twitter": "",
+        "telegram": "",
+        "discord": "https://discord.gg/pTqhr9vUWh"
+    },
+    "crossplay": false
+}
