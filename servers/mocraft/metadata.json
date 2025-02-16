@@ -1,11 +1,11 @@
 {
     "id": "mocraft",
-    "name": "Mo Craft",
+    "name": "MoCraft",
     "description": "Survival Server from our mod (Melon was here)",
     "addresses": [
-        "212.192.29.14:25516"
+        "mocraft.minecraft.casa"
     ],
-    "primaryAddress": "212.192.29.14:25516",
+    "primaryAddress": "mocraft.minecraft.casa",
     "minecraftVersions": [
         "1.21.*"
     ],
