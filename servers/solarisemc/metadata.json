@@ -5,7 +5,7 @@
     "addresses": [
         "solarisemc.com"
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "solarisemc.com",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
