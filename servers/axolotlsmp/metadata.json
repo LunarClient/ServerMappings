@@ -1,0 +1,34 @@
+{
+    "id": "axolotlsmp",
+    "name": "Axolotl SMP",
+    "description": "The place of the Axolotls",
+    "addresses": [
+        "axoltolsmp.online"
+      ],
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "1.19.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryColor": "#DA08FB",
+    "secondaryColor": "#1873FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "Axolotl_SMP1",
+        "discord": "https://discord.gg/cMB2e4NCH3",
+        "youtube": "https://www.youtube.com/@AxolotlySMP"
+    }
+}
