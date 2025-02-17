@@ -5,6 +5,7 @@
     "addresses": [
         "axoltolsmp.online"
       ],
+    "primaryAddress": "lunar.gg",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
@@ -29,6 +30,6 @@
     "socials": {
         "twitter": "Axolotl_SMP1",
         "discord": "https://discord.gg/cMB2e4NCH3",
-        "youtube": "https://www.youtube.com/@AxolotlySMP"
+        "youtube": "AxolotlySMP"
     }
 }
