@@ -1,0 +1,40 @@
+{
+    "id": "solarisemc",
+    "name": "SolariseMC",
+    "description": "Home of Competitive Minecraft Factions",
+    "addresses": [
+        "solarisemc.com"
+    ],
+    "primaryAddress": "lunar.gg",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.13.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9d00ff",
+    "secondaryColor": "#3c0061",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "store": "https://store.solarisemc.com",
+    "socials": {
+        "discord": "https://discord.gg/solarisemc"
+    },
+    "crossplay": false
+}
