@@ -1,13 +1,13 @@
 {
-    "id": "newexpirence",
-    "name": "NewExpirence",
-    "website": "https://newexpirence.it/",
-    "store": "https://newexpirence.it/shop",
-    "description": "PeterNetwork is a Server known for its SMP+. Join Now!",
+    "id": "newexperience",
+    "name": "newexperience",
+    "website": "https://newexp.it/",
+    "store": "https://newexp.it/shop",
+    "description": "newexp is a Server known for its SMP+. Join Now!",
     "addresses": [
         "newexpirence.it"
     ],
-    "primaryAddress": "newexpirence.it",
+    "primaryAddress": "newexp.it",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -31,8 +31,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/newexp",
-        "instagram": "newexpirence",
-        "telegram": "newexpirence",
-        "tiktok": "@newexpirence"
+        "instagram": "newexp",
+        "telegram": "newexp",
+        "tiktok": "@newexp"
     }
 }
