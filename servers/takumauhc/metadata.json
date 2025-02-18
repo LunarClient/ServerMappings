@@ -10,6 +10,9 @@
     "primaryColor": "#55aaff",
     "secondaryColor": "#004991",
     "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -26,7 +29,7 @@
     "website": "https://takumauhc.fr/",
     "socials": {
         "instagram": "takumauhc",
-        "tiktok": "takumauhc",
+        "tiktok": "@takumauhc",
         "twitter": "takumauhcfr",
         "youtube": "takumauhc",
         "discord": "https://discord.gg/twvvpC94aP"
