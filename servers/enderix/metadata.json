@@ -7,7 +7,7 @@
     "addresses": [
         "enderix.eu"
     ],
-    "primaryAddress": "enderix.eu",
+    "primaryAddress": "mc.enderix.eu",
     "primaryColor": "#b17cff",
     "secondaryColor": "#c59dff",
     "minecraftVersions": [
