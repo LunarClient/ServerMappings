@@ -1,6 +1,7 @@
 {
     "id": "takumauhc",
     "name": "TakumaUHC",
+    "description": "TakumaUHC is a PVP minecraft server featuring dozens of mini-games.",
     "store": "https://store.takumauhc.fr/",
     "addresses": [
         "takumauhc.fr"
@@ -24,10 +25,10 @@
     ],
     "website": "https://takumauhc.fr/",
     "socials": {
-        "instagram": "https://www.instagram.com/takumauhc/",
-        "tiktok": "https://www.tiktok.com/@takumauhc",
-        "twitter": "https://x.com/takumauhcfr",
-        "youtube": "https://www.youtube.com/@takumauhc",
+        "instagram": "takumauhc",
+        "tiktok": "takumauhc",
+        "twitter": "takumauhcfr",
+        "youtube": "takumauhc",
         "discord": "https://discord.gg/twvvpC94aP"
     }
 }
