@@ -21,6 +21,6 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Prison",
+        "Prison"
     ]
 }
