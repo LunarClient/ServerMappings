@@ -20,7 +20,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "MiniGames",
+        "Minigames",
         "Survival",
         "Prison",
         "Parkour"
