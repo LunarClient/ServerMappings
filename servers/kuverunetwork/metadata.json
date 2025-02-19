@@ -1,7 +1,7 @@
 {
     "id": "kuverunetwork",
     "name": "Kuveru Network",
-    "description": "Ven y haz amigos!",
+    "description": "Come and make friends!",
     "addresses": [
         "kuveru.com"
     ],
@@ -39,7 +39,7 @@
     "store": "https://tienda.kuveru.com",
     "socials": {
         "twitter": "kuverunetwork",
-        "tiktok": "kuverunetwork",
+        "tiktok": "@kuverunetwork",
         "discord": "https://discord.com/invite/gHFPuVZg3A"
     },
     "crossplay": true

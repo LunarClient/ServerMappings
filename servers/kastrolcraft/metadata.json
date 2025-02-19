@@ -3,7 +3,7 @@
     "name": "KastrolCraft.cz",
     "website": "https://kastrolcraft.cz/home",
     "store": "https://kastrolcraft.cz/obchod",
-    "description": "Kvalitní Survival, unikátní GenBlock, skvělá komunita a mnoho více!",
+    "description": "Quality Survival, unique GenBlock, great community and much more!",
     "addresses": [
         "kastrolcraft.cz"
     ],
@@ -28,7 +28,7 @@
     "socials": {
         "instagram": "kastrolcraft",
         "youtube": "kastrolcraft",
-        "tiktok": "mc.kastrolcraft.cz",
+        "tiktok": "@mc.kastrolcraft.cz",
         "discord": "https://discord.com/invite/RaZhVsKnME"
     },
     "crossplay": true

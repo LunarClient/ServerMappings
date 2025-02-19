@@ -1,7 +1,7 @@
 {
     "id": "revengenetwork",
     "name": "Revenge Network",
-    "description": "¡Comunidad Hispanohablante de Minecraft!",
+    "description": "Spanish-speaking Minecraft community!",
     "store": "https://tienda.revengenetwork.es/",
     "addresses": [
         "revengenetwork.es"
@@ -33,6 +33,6 @@
         "youtube": "@RevengeNTW",
         "instagram": "revengentw",
         "facebook": "RevengeNetwork",
-        "tiktok": "revengentw"
+        "tiktok": "@revengentw"
     }
 }

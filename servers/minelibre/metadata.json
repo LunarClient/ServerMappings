@@ -1,7 +1,7 @@
 {
     "id": "minelibre",
     "name": "Minelibre Games",
-    "description": "Servidor latino especializado en Survival.",
+    "description": "Latin server specialized in Survival.",
     "addresses": [
         "minelibre.es",
         "minelibregames.es",
@@ -43,7 +43,7 @@
     "socials": {
         "twitter": "minelibregames",
         "instagram": "minelibregames",
-        "tiktok": "minelibregames",
+        "tiktok": "@minelibregames",
         "discord": "https://discord.gg/minelibre"
     },
     "crossplay": true

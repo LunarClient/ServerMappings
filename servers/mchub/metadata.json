@@ -2,6 +2,7 @@
     "id": "mchub",
     "name": "MCHub",
     "store": "https://buy.mchub.com/",
+    "description": "The hub for the ultimate SkyBlock, Prison, Survival, and Cobblemon experience.",
     "addresses": [
         "mchub.com"
     ],
@@ -15,9 +16,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -26,9 +28,14 @@
     "gameTypes": [
         "Prison",
         "Skyblock",
-        "Survival"
+        "Pixelmon"
     ],
     "socials": {
         "discord": "https://discord.com/invite/mchub"
+    },
+    "modpack": {
+        "id": "fYyK8OQu",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }

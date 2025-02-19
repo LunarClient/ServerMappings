@@ -2,7 +2,6 @@
     "id": "fenixmcnetwork",
     "name": "Fenix Network",
     "store": "https://tienda.fenixmc.net",
-    "description": "El imperio renace",
     "addresses": [
         "fenixmc.net"
     ],
@@ -41,6 +40,6 @@
     "socials": {
         "twitter": "fenixmcnett",
         "discord": "https://discord.com/invite/REGvVEazT7",
-        "tiktok": "fenixmcnet"
+        "tiktok": "@fenixmcnet"
     }
 }

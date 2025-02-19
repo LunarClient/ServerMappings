@@ -3,7 +3,7 @@
     "name": "iostein",
     "website": "https://iostein.net/",
     "store": "https://store.iostein.net/",
-    "description": "CityBuild Server von Alphastein",
+    "description": "CityBuild Server by Alphastein",
     "addresses": [
         "iostein.net",
         "iostein.de"
@@ -35,6 +35,6 @@
         "discord": "https://discord.com/invite/ZtaybmZqwG",
         "youtube": "iostein",
         "instagram": "iosteinde",
-        "tiktok": "iostein"
+        "tiktok": "@iostein"
     }
 }

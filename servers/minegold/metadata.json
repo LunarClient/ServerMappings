@@ -1,7 +1,7 @@
 {
     "id": "minegold",
     "name": "MineGold Network",
-    "description": "¿Por que no entras? - El mejor servidor.",
+    "description": "Why don't you come in? - The best server.",
     "addresses": [
         "minegold.us",
         "elysium.lat"
@@ -34,7 +34,7 @@
     "store": "https://tienda.minegold.us",
     "socials": {
         "discord": "https://discord.com/invite/MSWg6SXWV9",
-        "tiktok": "minegold.network",
+        "tiktok": "@minegold.network",
         "youtube": "minegoldnetwork"
     },
     "crossplay": true

@@ -10,7 +10,7 @@
         "af-mc.net"
     ],
     "primaryAddress": "arcticforestmc.net",
-    "primaryColor": "#333333",
+    "primaryColor": "#84d3f1",
     "secondaryColor": "#333333",
     "minecraftVersions": [
         "1.12.*",
@@ -30,7 +30,7 @@
         "discord": "https://discord.gg/EAEM9Td6Xh",
         "twitter": "ArcticForestMC",
         "youtube": "@ArcticForestMC",
-        "instagram": "@arcticforestmc_net"
+        "instagram": "arcticforestmc_net"
     },
     "gameTypes": [
         "Survival"

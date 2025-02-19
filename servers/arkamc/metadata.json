@@ -1,7 +1,7 @@
 {
   "id": "arkamc",
-  "name": "ArkaMc",
-  "description": "ArkaMc, un serveur PvP/Faction Farm2Win avec un thème inédit !",
+  "name": "ArkaMC",
+  "description": "ArkaMc, a PvP/Faction Farm2Win server with a new theme!",
   "addresses": [
       "arkamc.fr"
   ],
@@ -33,6 +33,6 @@
   "website": "https://arkamc.fr",
   "socials": {
       "discord": "https://discord.gg/Kf4gjXCDmh",
-      "tiktok": "arkamc_network"
+      "tiktok": "@arkamc_network"
   }
 }
