@@ -19,10 +19,10 @@
         "NA"
     ],
     "gameTypes": [
-        "Lifesteal",
+        "PvP",
+        "MiniGames",
+        "Survival",
         "Prison",
-        "CrystalPvP",
-        "FFA",
-        "RandomKits"
+        "Parkour"
     ]
 }
