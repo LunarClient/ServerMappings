@@ -4,7 +4,8 @@
     "description": "Minecraft's best and largest classic prison server",
     "store": "https://shop.trappedmc.com/",
     "addresses": [
-        "mc.trappedmc.com"
+        "mc.trappedmc.com",
+        "play.trappedmc.com"
     ],
     "primaryAddress": "trappedmc.com",
     "primaryColor": "#fe7105",
