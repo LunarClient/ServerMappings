@@ -10,9 +10,9 @@
     "primaryColor": "#ff9d2e",
     "secondaryColor": "#87231a",
     "minecraftVersions": [
-        "1.8"
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8",
+    "primaryMinecraftVersion": "1.8.*",
     "primaryRegion": "EU",
     "regions": [
         "EU"
