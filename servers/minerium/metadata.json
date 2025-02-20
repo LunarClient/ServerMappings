@@ -12,7 +12,7 @@
     "minecraftVersions": [
         "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8.*",
+    "primaryMinecraftVersion": "1.8",
     "primaryRegion": "EU",
     "regions": [
         "EU"
