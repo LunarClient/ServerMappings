@@ -5,7 +5,7 @@
     "addresses": [
         "axolotlsmp.online"
       ],
-    "primaryAddress": "axolotlsmp.online",
+    "primaryAddress": "public.axolotlsmp.online",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
