@@ -33,9 +33,9 @@
         "support": "https://hollowcube.net/contact"
     },
     "socials": {
-        "twitter": "https://x.com/hollowcubemc",
+        "twitter": "hollowcubemc",
         "discord": "https://discord.com/invite/h9Z9DGGJjJ",
-        "youtube": "https://www.youtube.com/@hollow-cube"
+        "youtube": "@hollow-cube"
     },
     "crossplay": false
 }
