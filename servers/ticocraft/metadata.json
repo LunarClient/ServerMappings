@@ -1,0 +1,26 @@
+{
+    "id": "ticocraft",
+    "name": "Ticocraft",
+    "website": "https://www.ticocraft.com",
+    "description": "Official Protect The Core (PTC) server",
+    "primaryAddress": "mc.ticocraft.com",
+    "primaryColor": "#295FC1",
+    "secondaryColor": "#E31523",
+    "primaryMinecraftVersion": "1.8.8",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "primaryLanguage": "es-EN",
+    "gameTypes": [
+      "Minigames",
+      "Parkour",
+      "PvP",
+      "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/ticocraft",
+      "facebook": "https://www.facebook.com/groups/ticocraft"
+    },
+    "votingLinks": [
+      "https://minecraftservers.org/server/671462"
+    ]
+}
