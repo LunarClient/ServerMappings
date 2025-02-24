@@ -18,11 +18,11 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "regions": [    
+    "regions": [
         "AS"
     ],
     "socials": {
         "discord": "https://discord.gg/zPzVG4yAeh",
-        "youtube": "@lefiy_mc"
+        "youtube": "lefiy_mc"
     }
 }
