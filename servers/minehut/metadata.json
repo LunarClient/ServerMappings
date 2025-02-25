@@ -2,7 +2,7 @@
     "id": "minehut",
     "name": "Minehut Server",
     "website": "https://minehut.com/",
-    "store": "https://minehut.com/",
+    "store": "https://app.minehut.com/shop/credits/",
     "description": "The largest Minecraft network connecting millions of servers.",
     "addresses": [
         "minehut.com",
@@ -33,15 +33,9 @@
     ],
     "gameTypes": [
         "PvP",
-        "PvE",
         "Minigames",
-        "Parkour",
-        "UHC",
-        "Survival",
-        "Prison",
         "Creative",
-        "Roleplay",
-        "Adventure"
+        "Roleplay"
     ],
     "socials": {
         "twitter": "minehut",
