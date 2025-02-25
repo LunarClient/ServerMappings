@@ -34,7 +34,6 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Creative",
         "Roleplay"
     ],
     "socials": {
