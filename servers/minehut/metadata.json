@@ -34,11 +34,8 @@
     "gameTypes": [
         "PvP",
         "PvE",
-        "Factions",
         "Minigames",
-        "Skyblock",
         "Parkour",
-        "Hardcore",
         "UHC",
         "Survival",
         "Prison",
@@ -48,7 +45,7 @@
     ],
     "socials": {
         "twitter": "minehut",
-        "discord": "https://discord.com/minehut",
+        "discord": "https://discord.com/invite/minehut",
         "youtube": "Minehut",
         "instagram": "minehutmc",
         "tiktok": "@minehut",
