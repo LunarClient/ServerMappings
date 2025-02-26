@@ -1,6 +1,6 @@
 {
-    "id": "libretard",
-    "name": "Libretard Network",
+    "id": "libertard",
+    "name": "Libertard Network",
     "website": "https://libretard.net/",
     "store": "https://tienda.libretard.net/",
     "addresses": [
@@ -17,12 +17,14 @@
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "Open World",
-        "Minigames",
-        "Adventure",
-        "PvP"
+        "Adventure"
     ],
     "socials": {
         "discord": "https://discord.gg/Libretard"
