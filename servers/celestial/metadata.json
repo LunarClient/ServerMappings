@@ -3,10 +3,9 @@
     "name": "Celestial Ranked Bedwars",
     "description": "A Competitive Minecraft Ranked Bedwars Server offering different gamemodes.",
     "addresses": [
-        "mc.celestialrbw.it",
         "celestialrbw.it"
     ],
-    "primaryAddress": "celestialrbw.it",
+    "primaryAddress": "mc.celestialrbw.it",
     "primaryColor": "#1387ca",
     "secondaryColor": "#262d37",
     "minecraftVersions": [
