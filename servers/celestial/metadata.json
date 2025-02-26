@@ -1,17 +1,16 @@
 {
-    "id": "celestial",
-    "name": "Celestial Ranked Bedwars",
-    "description": "A Competitive Minecraft Ranked Bedwars Server offering different gamemodes",
-    "addresses": [
-      "celestialrbw.it",
+   "id":"celestial",
+   "name":"Celestial Ranked Bedwars",
+   "description":"A Competitive Minecraft Ranked Bedwars Server offering different gamemodes",
+   "addresses":[
       "mc.celestialrbw.it"
-    ],
-    "primaryAddress": "celestialrbw.it",
-    "minecraftVersions": [
+   ],
+   "primaryAddress":"celestialrbw.it",
+   "minecraftVersions":[
       "1.8.*"
-    ],
-  "primaryMinecraftVersion": "1.8.9",
-    "gameTypes": [
+   ],
+   "primaryMinecraftVersion":"1.8.9",
+   "gameTypes":[
       "RBW",
       "BedWars",
       "BuildFFA",
@@ -21,8 +20,7 @@
       "FastBridger",
       "BedFight",
       "BWSide"
-    ],
-    "primaryColor": "#05B6B2",
-    "secondaryColor": "#ffffff"
-  }
-  
+   ],
+   "primaryColor":"#05B6B2",
+   "secondaryColor":"#ffffff"
+}
