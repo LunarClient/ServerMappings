@@ -3,7 +3,8 @@
     "name": "Celestial Ranked Bedwars",
     "description": "A Competitive Minecraft Ranked Bedwars Server offering different gamemodes.",
     "addresses": [
-        "mc.celestialrbw.it"
+        "mc.celestialrbw.it",
+        "celestialrbw.it"
     ],
     "primaryAddress": "celestialrbw.it",
     "primaryColor": "#1387ca",
@@ -17,15 +18,8 @@
         "AS"
     ],
     "gameTypes": [
-        "RBW",
-        "BedWars",
-        "BuildFFA",
-        "Housing",
-        "BedClutch",
-        "BlockinPractice",
-        "FastBridger",
-        "BedFight",
-        "BWSide"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/edSfVfpmwH"
