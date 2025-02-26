@@ -3,14 +3,16 @@
     "name": "EzPvP Network",
     "addresses": [
         "ezpvp.lol",
-        "jamals.lol"
+        "jamals.lol",
+        "ezpvp.org"
     ],
     "primaryAddress": "ezpvp.lol",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#CC6CE7",
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "it",
@@ -26,8 +28,7 @@
         "Parkour"
     ],
     "socials": {
-        "discord": "https://discord.gg/yMhVbv4pra",
-        "youtube": "@abhimaanst",
-        "telegram": "EzPvPractice"
+        "discord": "https://discord.gg/hkNkNJRSqb",
+        "youtube": "@abhimaanst"
     }
 }
