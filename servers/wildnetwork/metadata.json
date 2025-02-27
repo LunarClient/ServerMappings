@@ -1,8 +1,10 @@
 {
 	"id": "wildnetwork",
 	"name": "WildNetwork",
+    "description": "The Gold Standard for Minecraft OP Prison",
 	"website": "https://www.wildprison.net/",
 	"store": "https://store.wildprison.net/",
+	"rules": "https://rules.wildprison.net/",
 	"addresses": ["wildnetwork.net", "wildprison.net"],
 	"primaryAddress": "play.wildprison.net",
 	"primaryColor": "#f3cb0b",
@@ -21,6 +23,7 @@
 	"primaryRegion": "NA",
 	"regions": ["NA"],
 	"gameTypes": ["Prison", "Survival"],
+	"crossplay": true,
 	"socials": {
 		"twitter": "wild_prison",
 		"discord": "https://discord.com/invite/wildprison"
