@@ -1,7 +1,7 @@
 {
 	"id": "wildnetwork",
 	"name": "Wild Prison",
-    "description": "The Gold Standard for Minecraft OP Prison",
+    	"description": "The Gold Standard for Minecraft OP Prison",
 	"website": "https://www.wildprison.net/",
 	"store": "https://store.wildprison.net/",
 	"addresses": [
@@ -25,7 +25,7 @@
 	"primaryRegion": "NA",
 	"regions": [
         "NA"
-    ],
+    	],
 	"gameTypes": [
 		"Prison", 
 		"Survival"
