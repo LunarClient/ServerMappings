@@ -1,0 +1,11 @@
+{
+    "id": "RBToweDefense",
+    "name": "RB Tower Defense",
+    "description": "Minecraft Tower Defense server",
+    "primaryAddress": "towerdefense.xyz",
+    "gameTypes": [
+      "Minigames"
+    ],
+    "primaryColor": "#90B8FF",
+    "secondaryColor": "#EEBD3B",
+}
