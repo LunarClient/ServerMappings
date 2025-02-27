@@ -1,7 +1,7 @@
 {
     "id": "starfallmc",
     "name": "StarFallMC",
-    "description": "Server che ha come modalità un KitPvP, una Survival e probabilmente un Practice",
+    "description": "Server that has a KitPvP, a Survival and probably a Practice mode",
     "addresses": [
         "starfallmc.it"
     ],
@@ -34,7 +34,7 @@
     },
     "socials": {
         "twitter": "StarFallMC",
-        "telegram": "@starfallmc",
+        "telegram": "starfallmc",
         "discord": "https://discord.com/invite/cfpSGJbr9N"
     },
     "crossplay": false

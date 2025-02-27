@@ -1,7 +1,7 @@
 {
     "id": "kingmcit",
     "name": "KingMC",
-    "description": "Diventa il più forte su: KingMC - Dove tutto è possibile",
+    "description": "Become the strongest on: KingMC - Where anything is possible",
     "store": "https://www.kingmc.it/",
     "addresses": [
         "kingmc.it"
@@ -31,7 +31,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/PmEZUZCQq9",
-        "tiktok": "kingmc_it",
+        "tiktok": "@kingmc_it",
         "instagram": "kingmc_it"
     }
 

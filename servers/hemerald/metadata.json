@@ -5,7 +5,7 @@
     "store": "https://shop.hemerald.net/",
     "description": "Hemerald is a quiet server, suitable for players who want to relax.",
     "addresses": [
-        "play.hemerald.net"
+        "hemerald.net"
     ],
     "primaryAddress": "play.hemerald.net",
     "minecraftVersions": [
@@ -37,6 +37,6 @@
     "socials": {
         "discord": "https://discord.gg/hemerald",
         "telegram": "hemeraldnetwork",
-        "tiktok": "hemeraldnetwork"
+        "tiktok": "@hemeraldnetwork"
     }
 }

@@ -1,7 +1,7 @@
 {
     "id": "hylex",
     "name": "Hylex",
-    "description": "Formado por jogadores apaixonados que se aventuram nos Minigames!",
+    "description": "Formed by passionate players who venture into Minigames!",
     "website": "https://hylex.gg/",
     "store": "https://hylex.gg/itens",
     "addresses": [
@@ -39,7 +39,7 @@
         "discord": "https://discord.com/invite/hylex",
         "youtube": "UCZmIJ5CZXYt-pTVfVwpMjFA",
         "instagram": "hylexmc",
-        "tiktok": "hylexoficial",
+        "tiktok": "@hylexoficial",
         "twitch": "hylexmc"
     },
     "crossplay": false

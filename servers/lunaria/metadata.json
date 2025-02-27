@@ -1,7 +1,7 @@
 {
     "id": "lunaria",
     "name": "Lunaria",
-    "description": "Lunaria est un serveur mini-jeux disponible de la 1.8 à la 1.13.",
+    "description": "Lunaria is a minigame server available from 1.8 to 1.13.",
     "addresses": [
         "lunaria-mc.net"
     ],

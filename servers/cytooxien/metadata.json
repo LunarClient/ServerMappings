@@ -3,7 +3,7 @@
     "name": "Cytooxien",
     "description": "Quality Minecraft gamemodes since 2011!",
     "website": "https://www.cytooxien.de/",
-    "store": "https://shop.cytooxien.de/",
+    "store": "https://cytooxien.shop/",
     "wiki": "https://wiki.cytooxien.de/",
     "addresses": [
         "cytooxien.de",
@@ -14,10 +14,10 @@
     "primaryColor": "#ffdd16",
     "secondaryColor": "#d21d2a",
     "minecraftVersions": [
-        "1.19.4",
-        "1.20.*"
+        "1.21.3",
+        "1.21.4"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU",
     "regions": [
         "EU"

@@ -1,0 +1,38 @@
+{
+    "id": "imanitynetwork",
+    "name": "Imanity Network",
+    "website": "https://guns.lol/imanity",
+    "store": "https://imanityclub.tebex.io",
+    "description": "PvP Network for players, by players.",
+    "addresses": [
+        "imanity.club",
+        "strafing.xyz"
+    ],
+    "primaryAddress": "imanity.club",
+    "primaryColor": "#50EBEC",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KxGtMBcbwM",
+        "twitter": "ImanityClub",
+        "youtube": "ImanityClub"
+    }
+}
