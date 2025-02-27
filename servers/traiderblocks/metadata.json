@@ -30,5 +30,6 @@
         "instagram": "traiderblocks",
 		"youtube": "traiderblocks",
 		"discord": "https://discord.traiderblocks.eu"
-    }
+    },
+    "crossplay": false,
 }
