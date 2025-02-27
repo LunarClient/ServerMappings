@@ -3,7 +3,7 @@
     "name": "Axora Ranked Bedwars",
     "description": "A competitive Ranked Bedwars server designed for AS players",
     "addresses": [
-        "play.rankedbw.com"
+        "rankedbw.com"
     ],
     "primaryAddress": "play.rankedbw.com",
     "minecraftVersions": [
@@ -18,11 +18,11 @@
     ],
     "gameTypes": [
         "PvP",
-        "Competitive"
+        "Minigames"
     ],
     "website": "https://rankedbw.com",
     "socials": {
-        "youtube": "@RankedBedwars",
+        "youtube": "RankedBedwars",
         "discord": "https://discord.gg/arbw"
     },
     "crossplay": false
