@@ -1,15 +1,13 @@
 {
     "id": "olympusmc",
     "name": "OlympusMC",
-    "website": "https://www.tvpeter.it/",
+    "website": "https://www.olympusmc.it/",
     "store": "https://store.tvpeter.it/",
-    "description": "Esplora l'Olimpo, esplora OlympusMC, domina il gameplay e diventa il Campione indiscusso sia da Java che Bedrock Edition.",
+    "description": "Esplora l'Olimpo, esplora OlympusMC, sii il Campione da Java e da Bedrock.",
     "addresses": [
         "peternetwork.it",
-        "mc.tvpeter.it",
-        "play.tvpeter.it",
         "olympusmc.it",
-        "play.olympusmc.it"
+        "tvpeter.it"
     ],
     "primaryAddress": "play.olympusmc.it",
     "minecraftVersions": [
@@ -36,9 +34,9 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://ds.olympusmc.it",
+        "discord": "https://discord.com/invite/GnCqFqCsjj",
         "instagram": "olympusmc_",
         "telegram": "olympusmc_network",
-        "tiktok": "tvpeter"
+        "tiktok": "@tvpeter"
     }
 }
