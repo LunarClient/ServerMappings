@@ -1,0 +1,32 @@
+{
+    "id": "libertard",
+    "name": "Libertard Network",
+    "website": "https://libretard.net/",
+    "store": "https://tienda.libretard.net/",
+    "addresses": [
+        "libretard.net"
+    ],
+    "primaryAddress": "mc.libretard.net",
+    "primaryColor": "#AF2C2C",
+    "secondaryColor": "#787878",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Libretard"
+    }
+}
