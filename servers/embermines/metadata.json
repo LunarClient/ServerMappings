@@ -8,8 +8,8 @@
         "embermines.com"
     ],
     "primaryAddress": "play.embermines.com",
-    "primaryColor": "#ffbc7cff",
-    "secondaryColor": "#ffbc7cff",
+    "primaryColor": "#FFB866",
+    "secondaryColor": "#FFB866",
     "minecraftVersions": [
         "1.20.4",
         "1.21.*"
