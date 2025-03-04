@@ -1,0 +1,36 @@
+{
+    "id": "mineclubnetwork",
+    "name": "MineClub Network",
+    "website": "http://mineclub.it",
+    "description": "Competi in una Survival Competitiva contro gli altri giocatori e crea con i tuoi amici il Club più prestigioso del Server! Partecipa a tutti gli eventi giornalieri e domina le classifiche diventando il giocatore più ricco e pericoloso della ClubSMP",
+    "addresses": [
+      "mineclub.it"
+    ],
+    "primaryAddress": "play.mineclub.it",
+    "primaryColor": "#16CEF2",
+    "secondaryColor": "#1684DE",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+      "Survival"
+    ],
+    "votingLinks": [
+      "https://minecraft-italia.net/lista/server/mineclub",
+      "https://www.minealpha.it/lista-server/mineclub"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/VEdAEsNz4f"
+    }
+}
