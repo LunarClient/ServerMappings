@@ -2,11 +2,11 @@
     "id": "rinthong",
     "name": "Rinthong",
     "description": "A This server is a SMP and PvP server open to everyone to play together",
-    "website": "https://www.aquariumq.studio/",
+    "website": "https://www.rinthong.in.th/",
     "addresses": [
-        "aquariumq.studio"
+        "rinthong.in.th"
     ],
-    "primaryAddress": "play.aquariumq.studio",
+    "primaryAddress": "play.rinthong.in.th",
     "primaryColor": "#00D9FF",
     "secondaryColor": "#FFF946",
     "primaryRegion": "AS",
