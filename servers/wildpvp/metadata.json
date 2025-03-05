@@ -1,5 +1,5 @@
 {
-    "id": "wildpvp",
+    "id": "WildPvP",
     "name": "WilPvP",
     "store": "https://store.wildpvp.cc",
     "addresses": [
@@ -26,7 +26,7 @@
         "HCF"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/7jBgT8cnCd",
+        "discord": "https://discord.com/invite/7jBgT8cnCd"
     },
     "crossplay": false
 }
