@@ -1,0 +1,33 @@
+{
+    "id": "thewinter",
+    "name": "The Winter Proyect",
+    "store": "",
+    "description": "en desarrollo",
+    "addresses": [
+        "103.195.100.31:25583"
+
+    ],
+    "primaryAddress": "Aun no disponible",
+    "primaryColor": "#04DAE4",
+    "secondaryColor": "#04A0E4",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+        
+    ],
+    "gameTypes": [
+        "Evento",
+    ],
+    "socials": {
+        "twitter": "Sapphirehostgg",
+        "discord": "https://discord.gg/8xRRxd33Ys",
+        "tiktok": "Sapphirehost"
+    }
+}
