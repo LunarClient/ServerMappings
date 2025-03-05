@@ -1,0 +1,41 @@
+{
+    "id": "minepaw",
+    "name": "MinePaw",
+    "description": "Full of vibes & fun!",
+    "addresses": [
+        "minepaw.net"
+    ],
+    "primaryAddress": "play.minepaw.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "Creative"
+    ],
+    "website": "https://www.minepaw.net",
+    "store": "https://store.minepaw.net",
+    "socials": {
+        "discord": "https://discord.gg/EKx2bRqaVx"
+    },
+    "crossplay": true
+}

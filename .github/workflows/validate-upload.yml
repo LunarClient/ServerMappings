@@ -83,6 +83,12 @@ jobs:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
+      - name: Configure production AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
+          aws-region: us-east-2
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
@@ -148,16 +154,11 @@ jobs:
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
       
-      - name: Upload to Cloudflare
-        env:
-          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: us-east-1
+      - name: Upload to S3
         run: |
-          aws s3 sync .out s3://servermappings-lunarclientcdn-com --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.csv s3://servermappings-lunarclientcdn-com/servers.csv --content-type "text/csv" --endpoint-url $R2_ENDPOINT
+          aws s3 sync .out s3://lunarclient-servermappings --cache-control "public, max-age=14400"
+          aws s3 cp .out/servers.json s3://lunarclient-servermappings/servers.json --content-type "application/json"
+          aws s3 cp .out/servers.csv s3://lunarclient-servermappings/servers.csv --content-type "text/csv"
 
       - name: Purge Cloudflare cache
         env:
