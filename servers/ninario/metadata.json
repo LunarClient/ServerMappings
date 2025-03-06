@@ -1,0 +1,42 @@
+{
+    "id": "ninario",
+    "name": "Ninario",
+    "description": "Serveur PvP et Mini-jeux français",
+    "addresses": [
+        "ninar.io",
+        "pvp.ninar.io"
+    ],
+    "primaryAddress": "ninar.io",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://ninario.fr",
+    "store": "https://ninario.fr/shop",
+    "compliance": {
+        "privacyPolicy": null,
+        "termsOfService": null,
+        "rules": "https://ninariomc.gitbook.io/ninario"
+    },
+    "presentationVideo": null,
+    "socials": {
+        "twitter": "Ninario_",
+        "tiktok": "ninariomc",
+        "discord": "https://discord.gg/KzPXY7RX35"
+    },
+    "crossplay": false
+}
