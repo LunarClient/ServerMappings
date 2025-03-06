@@ -4,8 +4,7 @@
     "website": "https://pvpmania.eu/",
     "store": "https://pvpmania.eu/store",
     "addresses": [
-        "pvpmania.eu",
-        "play.pvpmania.eu"
+        "pvpmania.eu"
     ],
     "primaryAddress": "mc.pvpmania.eu",
     "primaryColor": "#ff173d",
