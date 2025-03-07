@@ -3,7 +3,7 @@
     "name": "RavenMC Network",
     "store": "https://ravenmc.tebex.io",
     "addresses": [
-        "ravenmc.net",
+        "ravenmc.net"
     ],
     "primaryAddress": "ravenmc.net",
     "primaryColor": "#D6C700",
