@@ -27,14 +27,14 @@
     "website": "https://ninario.fr",
     "store": "https://ninario.fr/shop",
     "compliance": {
-        "privacyPolicy": null,
-        "termsOfService": null,
+        "privacyPolicy": "",
+        "termsOfService": "",
         "rules": "https://ninariomc.gitbook.io/ninario"
     },
-    "presentationVideo": null,
+    "presentationVideo": "",
     "socials": {
         "twitter": "Ninario_",
-        "tiktok": "https://www.tiktok.com/@ninariomc",
+        "tiktok": "@ninariomc",
         "discord": "https://discord.gg/KzPXY7RX35"
     },
     "crossplay": false
