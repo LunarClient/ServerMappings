@@ -1,10 +1,9 @@
 {
     "id": "ninario",
     "name": "Ninario",
-    "description": "Serveur PvP et Mini-jeux français",
+    "description": "Serveur PvP et Mini-jeux Original",
     "addresses": [
-        "ninar.io",
-        "pvp.ninar.io"
+        "ninar.io"
     ],
     "primaryAddress": "ninar.io",
     "minecraftVersions": [
@@ -35,7 +34,7 @@
     "presentationVideo": null,
     "socials": {
         "twitter": "Ninario_",
-        "tiktok": "ninariomc",
+        "tiktok": "https://www.tiktok.com/@ninariomc",
         "discord": "https://discord.gg/KzPXY7RX35"
     },
     "crossplay": false
