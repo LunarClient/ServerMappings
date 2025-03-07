@@ -27,11 +27,11 @@
     "website": "https://ninario.fr",
     "store": "https://ninario.fr/shop",
     "compliance": {
-        "privacyPolicy": "",
-        "termsOfService": "",
+        "privacyPolicy": null,
+        "termsOfService": null,
         "rules": "https://ninariomc.gitbook.io/ninario"
     },
-    "presentationVideo": "",
+    "presentationVideo": null,
     "socials": {
         "twitter": "Ninario_",
         "tiktok": "@ninariomc",
