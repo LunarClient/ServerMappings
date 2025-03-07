@@ -4,8 +4,6 @@
     "store": "https://ravenmc.tebex.io",
     "addresses": [
         "ravenmc.net",
-        "mc.ravenmc.net",
-        "play.ravenmc.net"
     ],
     "primaryAddress": "ravenmc.net",
     "primaryColor": "#D6C700",
