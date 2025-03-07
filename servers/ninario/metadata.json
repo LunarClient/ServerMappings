@@ -14,7 +14,8 @@
     "secondaryColor": "#000000",
     "primaryLanguage": "fr",
     "languages": [
-        "fr"
+        "fr",
+        "en" 
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -27,11 +28,8 @@
     "website": "https://ninario.fr",
     "store": "https://ninario.fr/shop",
     "compliance": {
-        "privacyPolicy": null,
-        "termsOfService": null,
         "rules": "https://ninariomc.gitbook.io/ninario"
-    },
-    "presentationVideo": null,
+    }, 
     "socials": {
         "twitter": "Ninario_",
         "tiktok": "@ninariomc",
