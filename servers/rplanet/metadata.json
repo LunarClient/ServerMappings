@@ -26,8 +26,7 @@
     "gameTypes": [
         "Survival",
         "Adventure",
-        "PvE",
-        "Open World"
+        "PvE"
     ],
     "presentationVideo": "sJfOrCGDVYM",
     "socials": {
