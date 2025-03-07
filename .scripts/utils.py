@@ -19,7 +19,7 @@ MAJOR_ALL: dict[str, list[str]] = {
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
     "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
-    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3"]
+    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4"]
 }
 
 
@@ -62,6 +62,10 @@ def get_all_servers(
         # Modify versions
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
+
+        # Add primary game type
+        game_types = server.get("gameTypes", [])
+        server["primaryGameType"] = game_types[0] if game_types else None
 
         # Enrich server data
         if "id" not in server:
