@@ -1,0 +1,29 @@
+{
+    "id": "Pavilion-SMP",
+    "name": "Pavilion SMP",
+    "store": "N/A",
+    "description": "1.21+ | Customized-Vanilla | SMP, Great Survival Server For You & Your Friends To Conquer & Adventure!",
+    "addresses": [
+        "playpavilion.net",
+        "23797"
+    ],
+    "primaryAddress": "playpavilion.net",
+    "minecraftVersions": [
+        "1.21.*",
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#03c60c",
+    "secondaryColor": "#00e0ff",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "SMP"
+    ],
+    "socials": {
+        "tiktok": "@pavilionmc",
+        "instagram": "@pavilionmc.media",
+        "discord": "https://discord.gg/wxwMgg3bDF"
+    }
+}
