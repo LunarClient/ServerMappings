@@ -1,8 +1,8 @@
 {
     "id": "theminemc",
     "name": "TheMineMC",
-    "website": "https://theminemc.net",
-    "store": "https://store.theminemc.net",
+    "store": "https://theminemc.tebex.io",
+    "description": "A Minecraft Tycoon Server",
     "addresses": [
         "theminemc.net"
     ],
@@ -11,9 +11,10 @@
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -23,9 +24,8 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/WFkxB6aXQR",
+        "discord": "https://discord.gg/4M3EzjwBASR",
         "twitter": "theminemc",
-        "youtube": "mrminecodes",
-        "twitch":  "Brooteen"
+        "youtube": "mrminecodes"
     }
 }
