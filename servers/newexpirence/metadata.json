@@ -5,16 +5,18 @@
     "store": "https://newexpirence.it/shop",
     "description": "PeterNetwork is a Server known for its SMP+. Join Now!",
     "addresses": [
-        "newexpirence.it"
+        "play.newexp.it",
+        "mc.newexp.it"
     ],
-    "primaryAddress": "newexpirence.it",
+    "primaryAddress": "newexp.it",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#FF8000",
     "secondaryColor": "#ff0000",
     "primaryLanguage": "it",
