@@ -18,7 +18,9 @@
     ],
     "primaryRegion": "NA",
     "gameTypes": [
-        "SMP"
+        "Open World",
+        "Survival",
+        "Adventure"
     ],
     "socials": {
         "tiktok": "pavilionmc",
