@@ -3,8 +3,7 @@
     "name": "Pavilion SMP",
     "description": "1.21+ | customized-vanilla | smp, great survival server for you & your friends!",
     "addresses": [
-        "playpavilion.net",
-        "23797"
+        "playpavilion.net"
     ],
     "primaryAddress": "playpavilion.net",
     "minecraftVersions": [
