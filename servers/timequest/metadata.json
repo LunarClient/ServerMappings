@@ -1,0 +1,43 @@
+{
+    "id": "timequest",
+    "name": "TimeQuest",
+    "description": "Competitive and fun KitPvP!",
+    "addresses": [
+        "time-quest.net"
+    ],
+    "primaryAddress": "time-quest.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#00AAAA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.time-quest.net/",
+    "store": "https://www.time-quest.net/store",
+    "compliance": {
+        "privacyPolicy": "https://www.time-quest.net/privacy",
+        "termsOfService": "https://www.time-quest.net/terms",
+        "rules": "https://www.time-quest.net/rules"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/zUD3xdeEqm"
+    },
+    "crossplay": false
+}

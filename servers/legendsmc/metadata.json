@@ -1,0 +1,27 @@
+{
+    "id": "legendsmc",
+    "name": "LegendsMC Network",
+    "store": "https://tienda.legendsmc.es/",
+    "addresses": [
+        "legendsmc.es"
+        
+    ],
+    "primaryAddress": "legendsmc.es",
+    "primaryColor": "#18e7e7",
+    "secondaryColor": "#24a9ce",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Txn7XmRM5t"
+    }
+}

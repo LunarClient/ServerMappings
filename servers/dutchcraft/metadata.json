@@ -3,24 +3,24 @@
     "name": "DutchCraft",
     "website": "https://store.dutchcraft.be/",
     "store": "https://store.dutchcraft.be",
-    "description": "Een Hardcore SMP waarbij je samen kan spelen met bedrock!",
+    "description": "A Hardcore SMP where you can play together with bedrock!",
     "addresses": [
         "dutchcraft.be"
     ],
     "primaryAddress": "play.dutchcraft.be",
+    "primaryColor": "#ff9900",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#ff9900",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "nl",
-    "languages": [
-        "nl"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
     ],
     "gameTypes": [
         "Hardcore",
@@ -30,7 +30,7 @@
     "socials": {
         "discord": "https://discord.com/invite/avnQQGPy84",
         "youtube": "dutchcraftmc",
-        "tiktok": "dutchcraft",
+        "tiktok": "@dutchcraft",
         "instagram": "play.dutchcraft.be"
     }
 }

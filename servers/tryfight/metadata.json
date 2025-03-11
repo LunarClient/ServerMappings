@@ -1,10 +1,10 @@
 {
     "id": "tryfight",
     "name": "TryFight",
-    "description": "Serveur Mini-Jeux Français",
+    "description": "French Mini-Games Server",
     "website": "https://tryfight.fr/",
     "addresses": [
-        "play.tryfight.fr"
+        "tryfight.fr"
     ],
     "primaryAddress": "play.tryfight.fr",
     "minecraftVersions": [

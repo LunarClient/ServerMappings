@@ -1,21 +1,21 @@
 {
-    "id": "elowyr",
-    "name": "Elowyr",
+    "id": "tyranis",
+    "name": "Tyranis",
     "description": "Serveur PvP/Factions 1.8+ Français",
     "addresses": [
-        "elowyr.fr"
+        "tyranis.fr"
     ],
-    "primaryAddress": "play.elowyr.fr",
+    "primaryAddress": "play.tyranis.fr",
     "gameTypes": [
         "Factions",
         "PvP"
     ],
-    "primaryColor": "#F1C40F",
+    "primaryColor": "#eda60c",
     "secondaryColor": "#F5E417",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "website": "https://elowyr.fr",
-    "store": "https://boutique.elowyr.fr"
+    "website": "https://tyranis.fr",
+    "store": "https://boutique.tyranis.fr"
 }

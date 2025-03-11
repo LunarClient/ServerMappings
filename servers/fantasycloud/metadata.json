@@ -3,10 +3,11 @@
     "name": "Fantasy Cloud",
     "store": "https://store.fantasycloud.org/",
     "addresses": [
-        "fantasycloud.org",
-        "play.fantasycloud.org"
+        "fantasycloud.org"
     ],
     "primaryAddress": "play.fantasycloud.org",
+    "primaryColor": "#2cdd1c",
+    "secondaryColor": "#b0d2db",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,15 +15,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.16.5",
-    "primaryColor": "#2cdd1c",
-    "secondaryColor": "#b0d2db",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Factions"

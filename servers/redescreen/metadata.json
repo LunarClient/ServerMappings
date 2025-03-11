@@ -1,7 +1,7 @@
 {
     "id": "redescreen",
     "name": "Screen Network",
-    "description": "Um dos maiores servidores do Brasil!",
+    "description": "One of the biggest servers in Brazil!",
     "website": "https://loja.redescreen.com/",
     "primaryAddress": "redescreen.com",
     "gameTypes": [
@@ -38,7 +38,7 @@
     "socials": {
         "twitter": "ServidorScreen",
         "discord": "https://discord.gg/pbe8jkzD4J",
-        "tiktok": "servidorscreen",
+        "tiktok": "@servidorscreen",
         "instagram": "servidorscreen",
         "youtube": "ScreenNetworkYT"
     }

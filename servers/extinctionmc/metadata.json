@@ -1,8 +1,8 @@
 {
     "id": "extinctionmc",
     "name": "ExtinctionMC",
-    "description": "A Minecraft Factions Server.",
     "store": "https://extinctionmc.tebex.io/",
+    "description": "A Minecraft Factions Server.",
     "addresses": [
         "extinctionmc.com"
     ],
