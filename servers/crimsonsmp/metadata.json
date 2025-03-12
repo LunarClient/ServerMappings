@@ -1,0 +1,21 @@
+{
+    "id": "crimsonsmp",
+    "name": "Crimson SMP",
+    "addresses": [
+        "crimson.lets.game"
+    ],
+    "primaryAdress": "crimson.lets.game",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/awqsjtDYDP"
+    },
+    "primaryColor": "#990000",
+    "secondaryColor": "#99004C"
+}
