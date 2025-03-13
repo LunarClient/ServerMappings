@@ -1,0 +1,34 @@
+{
+    "id": "overpvp",
+    "name": "OverPvP",
+	"website": "https://overpvp.com/",
+	"store": "https://store.overpvp.com/",
+    "addresses": [
+        "overpvp.com"
+    ],
+    "primaryAddress": "play.overpvp.com",
+    "gameTypes": [
+        "Factions",
+        "PvP",
+		"UHC",
+    ],
+    "primaryColor": " #008f39",
+    "secondaryColor": "#89ac76",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+	"primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+	"primaryLanguage": "en",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "socials": {
+        "twitter": "PlayOverPvP",
+        "discord": "http://discord.overpvp.com"
+    }
+}
