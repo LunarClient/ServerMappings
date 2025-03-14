@@ -1,0 +1,41 @@
+{
+    "id": "hollowcube",
+    "name": "Hollow Cube",
+    "description": "Play, create, and share builds and parkour, all on one server!",
+    "addresses": [
+        "hollowcube.net"
+    ],
+    "primaryAddress": "hollowcube.net",
+    "minecraftVersions": [
+        "1.21.3"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryColor": "#5274ff",
+    "secondaryColor": "#415091",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Parkour"
+    ],
+    "website": "https://hollowcube.net",
+    "store": "https://hollowcube.net/store",
+    "compliance": {
+        "privacyPolicy": "https://hollowcube.net/legal/privacy",
+        "termsOfService": "https://hollowcube.net/legal/terms",
+        "rules": "https://hollowcube.net/rules",
+        "support": "https://hollowcube.net/contact"
+    },
+    "socials": {
+        "twitter": "hollowcubemc",
+        "discord": "https://discord.com/invite/h9Z9DGGJjJ",
+        "youtube": "@hollow-cube"
+    },
+    "crossplay": false
+}

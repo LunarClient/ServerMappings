@@ -1,21 +1,21 @@
 {
     "id": "eaglemc",
     "name": "EagleMC",
+    "website": "https://eaglemc.fr",
+    "store": "https://boutique.eaglemc.fr",
     "description": "Serveur PvP/Factions 1.8+ Français",
     "addresses": [
         "eaglemc.fr"
     ],
     "primaryAddress": "play.eaglemc.fr",
-    "gameTypes": [
-        "Factions",
-        "PvP"
-    ],
     "primaryColor": "#F1C40F",
     "secondaryColor": "#F5E417",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "website": "https://eaglemc.fr",
-    "store": "https://boutique.eaglemc.fr"
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ]
 }

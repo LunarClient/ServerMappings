@@ -3,7 +3,6 @@
     "name": "TonePvP",
     "description": "Server for KitPvP, Practice, and 1.16 pvp also!",
     "addresses": [
-        "play.tonepvp.net",
         "tonepvp.net"
     ],
     "primaryAddress": "play.tonepvp.net",
@@ -33,8 +32,7 @@
     "website": "https://www.tonepvp.net",
     "store": "https://store.tonepvp.net",
     "socials": {
-        "twitter": "tonepvp",
-        "discord": "https://discord.tonepvp.net"
+        "twitter": "tonepvp"
     },
     "crossplay": false
 }

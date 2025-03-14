@@ -15,13 +15,13 @@
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#FFAA00",
     "secondaryColor": "#FF6200",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "AS",
     "regions": [
         "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

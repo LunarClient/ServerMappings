@@ -1,0 +1,32 @@
+{
+    "id": "bedfight",
+    "name": "Bedfight Club",
+    "store": "https://store.bedfight.club/",
+    "addresses": [
+        "bedfight.club"
+    ],
+    "primaryAddress": "bedfight.club",
+    "primaryColor": "#00ffcd",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.10", 
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+        "website": "https://bedfight.club",
+    "socials": {
+        "discord": "https://discord.gg/bedfight"
+    },
+    "crossplay": false
+}

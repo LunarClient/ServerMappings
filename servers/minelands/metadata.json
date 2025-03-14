@@ -2,12 +2,11 @@
     "id": "minelands",
     "name": "Minelands",
     "description": "Server Vanilla Java & Bedrock",
-    "website": "https://minelands.it",
-    "store": "https://store.minelands.it",
+    "website": "https://minelands.xyz",
     "addresses": [
-        "minelands.it"
+        "minelands.xyz"
     ],
-    "primaryAddress": "mc.minelands.it",
+    "primaryAddress": "play.minelands.xyz",
     "primaryColor": "#ffda33",
     "secondaryColor": "#2aaad1",
     "minecraftVersions": [
@@ -17,9 +16,10 @@
 	"1.17.*",
 	"1.18.*",
 	"1.19.*",
-        "1.20.*"
+        "1.20.*",
+	"1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.2",
+    "primaryMinecraftVersion": "1.21",
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
@@ -36,6 +36,6 @@
         "discord": "https://discord.com/invite/PEemHmvSpq",
 	"telegram": "minelandsofficial",
         "youtube": "@minelands8",
-        "instagram": "minelands_server_minecraft"
+        "instagram": "minelands.server"
     }
 }

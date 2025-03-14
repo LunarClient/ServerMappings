@@ -1,0 +1,28 @@
+{
+    "id": "milkteamc",
+    "name": "MilkTeaMC Server",
+    "website": "https://www.milkteamc.org/",
+    "wiki": "https://wiki.milkteamc.org/",
+    "addresses": [
+        "milkteamc.org"
+    ],
+    "primaryAddress": "milkteamc.org",
+    "primaryColor": "#8df2f2",
+    "secondaryColor": "#f8f8ff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/22DxRjrXRv",
+        "telegram": "MaoyueServer"
+    }
+}

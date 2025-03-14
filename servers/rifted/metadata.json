@@ -1,0 +1,36 @@
+{
+    "id": "rifted",
+    "name": "Rifted",
+    "website": "https://rifted.pl/",
+    "store": "https://rifted.pl/doladuj-konto",
+    "addresses": [
+        "rifted.pl"
+    ],
+    "primaryAddress": "mc.rifted.pl",
+    "primaryColor": "#e43ce8",
+    "secondaryColor": "#bbbbbb",
+    "primaryMinecraftVersion": "1.21.3",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryLanguage": "pl",
+    "languages": ["pl"],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/EsNPwgBRVC",
+        "tiktok": "@riftedpl"
+    }
+}

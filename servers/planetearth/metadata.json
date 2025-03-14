@@ -1,7 +1,7 @@
 {
     "id": "planetearth",
     "name": "PlanetEarth",
-    "description": "Minecraft Korean Earth Geopolitcal Towny Server",
+    "description": "Korean Earth Geopolitical Towny Server",
     "addresses": [
         "planetearth.kr"
     ],
@@ -25,6 +25,6 @@
     ],
     "website": "https://planetearth.kr",
     "socials": {
-        "discord": "https://planetearth.kr/discord"
+        "discord": "https://discord.com/invite/MNPyU2gy9d"
     }
 }

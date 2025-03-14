@@ -1,24 +1,24 @@
 {
-  "id": "dora",
-  "name": "Dora",
-  "addresses": [
-    "dorasmp.vip"
-  ],
-  "primaryAddress": "dorasmp.vip",
-  "primaryColor": "#66FFFF",
-  "secondaryColor": "#FFFFFF",
-  "minecraftVersions": [
-    "1.20.*"
-  ],
-  "primaryMinecraftVersion": "1.20.4",
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Survival"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/carpyy"
-  }
+    "id": "dora",
+    "name": "Dora",
+    "addresses": [
+        "dorasmp.vip"
+    ],
+    "primaryAddress": "dorasmp.vip",
+    "primaryColor": "#66FFFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/carpyy"
+    }
 }

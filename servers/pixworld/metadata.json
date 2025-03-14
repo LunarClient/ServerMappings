@@ -1,9 +1,9 @@
 {
     "id": "pixworld",
     "name": "Pixworld",
-    "description": "Serveur minecraft survie et skyblock",
+    "description": "Minecraft survival and skyblock server",
     "addresses": [
-        "play.pixworld.fr"
+        "pixworld.fr"
     ],
     "primaryAddress": "play.pixworld.fr",
     "minecraftVersions": [

@@ -1,11 +1,14 @@
 {
     "id": "apolomcnetwork",
     "name": "ApoloMC Network",
+    "store": "https://tienda.apolomc.es/",
     "description": "El mejor survival que jugaras",
     "addresses": [
         "apolomc.es"
     ],
     "primaryAddress": "apolomc.es",
+    "primaryColor": "#fefefe",
+    "secondaryColor": "#fefefe",
     "minecraftVersions": [
         "1.8.*",
         "1.16.5",
@@ -13,12 +16,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#fefefe",
-    "secondaryColor": "#fefefe",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -27,10 +24,13 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://tienda.apolomc.es/",
     "socials": {
         "discord": "https://discord.gg/gN2dfgu6w9"
     }
