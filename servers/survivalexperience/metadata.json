@@ -35,6 +35,8 @@
     ],
     "website": "http://www.survivalexperience.org",
     "compliance": {
+	"privacyPolicy": "http://www.survivalexperience.org",
+        "termsOfService": "http://www.survivalexperience.org",
         "rules": "http://www.survivalexperience.org/minecraft/website/rules.html"
     },
     "socials": {
