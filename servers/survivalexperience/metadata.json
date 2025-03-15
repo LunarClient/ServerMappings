@@ -3,9 +3,9 @@
     "name": "Survival Experience",
     "description": "La tua avventura di finale di Minecraft ti aspetta",
     "addresses": [
-        "mc.survivalexperience.org",
+        "survivalexperience.org",
     ],
-    "primaryAddress": "mc.survivalexperience.org",
+    "primaryAddress": "survivalexperience.org",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
