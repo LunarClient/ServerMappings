@@ -1,13 +1,13 @@
 {
-    "id": "tyranis",
-    "name": "Tyranis",
-    "website": "https://tyranis.fr",
-    "store": "https://boutique.tyranis.fr",
+    "id": "elowyr",
+    "name": "Elowyr",
+    "website": "https://elowyr.fr",
+    "store": "https://boutique.elowyr.fr",
     "description": "Server PvP/Factions 1.8+ French",
     "addresses": [
-        "tyranis.fr"
+        "elowyr.fr"
     ],
-    "primaryAddress": "play.tyranis.fr",
+    "primaryAddress": "play.elowyr.fr",
     "primaryColor": "#F1C40F",
     "secondaryColor": "#F5E417",
     "minecraftVersions": [
