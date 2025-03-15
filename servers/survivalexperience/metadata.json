@@ -17,8 +17,8 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#25FF00",
-    "secondaryColor": "#00FFEE",
+    "primaryColor": "#25ff00",
+    "secondaryColor": "#00ffee",
     "primaryLanguage": "it",
     "languages": [
         "it",
@@ -27,7 +27,7 @@
     "primaryRegion": "EU",
     "regions": [
         "EU",
-        "AS",
+        "AS"
     ],
     "gameTypes": [
         "PvP",
@@ -36,10 +36,10 @@
     ],
     "website": "http://www.survivalexperience.org",
     "compliance": {
-    "rules": "http://www.survivalexperience.org/minecraft/website/rules.html"
+        "rules": "http://www.survivalexperience.org/minecraft/website/rules.html"
     },
     "socials": {
-    "discord": "https://discord.gg/7c9TyAyaNW"
+        "discord": "https://discord.gg/7c9TyAyaNW"
     },
     "crossplay": false
 }
