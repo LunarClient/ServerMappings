@@ -32,7 +32,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Minigames",
+        "Minigames"
     ],
     "website": "http://www.survivalexperience.org",
     "compliance": {
