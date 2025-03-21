@@ -1,0 +1,31 @@
+{
+    "id": "skyward",
+    "name": "Walmart Skyward",
+    "website": "https://playskyward.gg/",
+    "description": "Embark on a cosmic adventure in Walmart Skyward, a story-driven saga!",
+    "addresses": [
+        "playskyward.gg"
+    ],
+    "primaryAddress": "lunar.playskyward.gg",
+    "primaryColor": "#0053e2",
+    "secondaryColor": "#ffc220",
+    "minecraftVersions": [
+        "1.21.3"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/8GuNA6zN4c"
+    }
+}
