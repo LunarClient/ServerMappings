@@ -3,9 +3,9 @@
     "name": "Asian Ranked Bedwars",
     "description": "A competitive Minecraft Bedwars experience offering various PvP modes.",
     "addresses": [
-      "asrbw.com"
+      "asrbw.club"
     ],
-    "primaryAddress": "play.asrbw.com",
+    "primaryAddress": "play.asrbw.club",
     "minecraftVersions": [
       "1.8.*"
     ],
