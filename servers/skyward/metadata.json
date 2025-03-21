@@ -2,6 +2,7 @@
     "id": "skyward",
     "name": "Skyward",
     "website": "https://playskyward.gg/",
+    "store": "https://store.lunarclient.com/category/skyward",
     "description": "Embark on a cosmic adventure in Walmart Skyward, a story-driven saga!",
     "addresses": [
         "playskyward.gg"
@@ -23,6 +24,8 @@
         "en"
     ],
     "gameTypes": [
+        "Adventure",
+        "Roleplay",
         "Minigames"
     ],
     "socials": {
