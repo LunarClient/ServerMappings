@@ -1,0 +1,29 @@
+{
+    "id": "fade",
+    "name": "Fade",
+    "website": "https://fade.lv",
+    "store": "https://fade.lv/store",
+    "addresses": [
+        "fade.lv"
+    ],
+    "primaryAddress": "mc.fade.lv",
+    "primaryColor": "#fdc83b",
+    "secondaryColor": "#44eff8",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/fade"
+    }
+}
