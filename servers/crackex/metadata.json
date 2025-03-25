@@ -1,7 +1,7 @@
 {
     "id": "crackex",
     "name": "Crackex",
-    "description": "A modern Minecraft server featuring Lifesteal, Practice and Survival. Made for players. not profit.",
+    "description": "The best Lifesteal, Practice and Survival. Made for players. not profit.",
     "addresses": [
         "crackex.xyz"
     ],
@@ -24,9 +24,7 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
-        "PvP",
-        "PvE"
+        "EU"
     ],
     "gameTypes": [
         "Survival"
