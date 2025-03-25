@@ -6,7 +6,7 @@
         "watones.xyz",
         "watones.net"
     ],
-    "primaryAddress": "mc.watones.net",
+    "primaryAddress": "mc.watones.xyz",
     "primaryColor": "#f8ecfd",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
@@ -20,9 +20,15 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
     ],
     "gameTypes": [
         "Survival",
