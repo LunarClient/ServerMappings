@@ -11,7 +11,6 @@
     "secondaryColor": "#8c4b24",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
         "1.12.*",
         "1.19.*",
         "1.20.*",
@@ -23,16 +22,13 @@
         "EU"
     ],
     "gameTypes": [
-        "Minigames",
         "PvP",
-        "PvE",
         "Survival",
-        "Prison",
         "Skyblock"
     ],
     "socials": {
         "twitter": "rinaorc",
-        "discord": "https://discord.com/rinaorc",
+        "discord": "https://discord.gg/rinaorc",
         "youtube": "@RinaorcStudios",
         "tiktok": "@rinaorc.studios",
         "facebook": "rinaorc.mc",
