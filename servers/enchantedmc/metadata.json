@@ -3,6 +3,7 @@
     "name": "EnchantedMC",
     "website": "http://www.enchantedmc.net/",
     "store": "https://store.enchantedmc.net/",
+    "description": "Enchanted network with custom textured Skyblock, Prison, and Gens.",
     "addresses": [
         "enchantedmc.net"
     ],
