@@ -1,0 +1,32 @@
+{
+    "id": "veryx",
+    "name": "Veryx Network",
+    "description": "The home of competitive players",
+    "addresses": [
+        "veryx.us"
+    ],
+    "primaryAddress": "veryx.us",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0fff00",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.veryx.us",
+    "store": "https://store.veryx.us",
+    "socials": {
+        "twitter": "VeryxNetwork",
+        "discord": "https://discord.gg/VeryxNetwork"
+    }
+}
