@@ -1,0 +1,37 @@
+{
+    "id": "ranked",
+    "name": "Ranked Games",
+    "website": "https://ranked.rip",
+    "store": "http://store.ranked.rip",
+    "description": "Community oriented PvP server",
+    "addresses": [
+        "ranked.rip"
+    ],
+    "primaryAddress": "ranked.rip",
+    "primaryColor": "#0d9005",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/rankedrip"
+    }
+}

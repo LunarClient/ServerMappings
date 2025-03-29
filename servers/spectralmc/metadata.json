@@ -2,7 +2,7 @@
     "id": "spectralmc",
     "name": "SpectralMC Network",
     "addresses": [
-        "play.spectralmc.it"
+        "spectralmc.it"
     ],
     "primaryAddress": "play.spectralmc.it",
     "minecraftVersions": [

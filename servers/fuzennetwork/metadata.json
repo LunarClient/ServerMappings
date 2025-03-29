@@ -1,0 +1,39 @@
+{
+    "id": "fuzennetwork",
+    "name": "Fuzen Network",
+    "website": "https://fuzen.gg/",
+    "wiki": "https://docs.fuzen.gg/",
+    "description": "Server focused on PvP mini-games and PvP survival modes.",
+    "addresses": [
+        "fuzen.gg",
+        "fuzenmc.com"
+    ],
+    "primaryAddress": "play.fuzen.gg",
+    "primaryColor": "#FCB508",
+    "secondaryColor": "#AD180A",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/fuzen-comunidad-mc-599015976712798249",
+        "twitter": "FuzenNetwork",
+        "facebook": "FuzenNetwork",
+        "instagram": "fuzennetwork/",
+        "tiktok": "@fuzenmc"
+    }
+}

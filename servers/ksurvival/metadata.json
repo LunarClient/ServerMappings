@@ -3,7 +3,7 @@
     "name": "KSurvival",
     "description": "Custom Survival for fun",
     "addresses": [
-        "play.ksurvival.eu"
+        "ksurvival.eu"
     ],
     "primaryAddress": "play.ksurvival.eu",
     "minecraftVersions": [

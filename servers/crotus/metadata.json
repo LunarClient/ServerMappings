@@ -5,6 +5,7 @@
     "addresses": [
         "crotus.cc"
     ],
+    "primaryAddress": "crotus.cc",
     "primaryColor": "#56c56a",
     "secondaryColor": "#121212",
     "socials": {

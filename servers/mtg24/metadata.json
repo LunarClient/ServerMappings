@@ -4,8 +4,7 @@
     "website": "https://www.mtg24.it",
     "store": "https://store.mtg24.it/",
     "addresses": [
-        "eventi.mtg24.it",
-        "event.mtg24.it"
+        "mtg24.it"
     ],
     "primaryAddress": "mtg24.it",
     "primaryColor": "#89fc00",

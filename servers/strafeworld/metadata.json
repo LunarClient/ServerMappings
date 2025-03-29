@@ -1,0 +1,28 @@
+{
+    "id": "strafeworld",
+    "name": "Strafe World",
+    "store": "https://store.strafe.world/",
+    "description": "A new planet of exploration.",
+    "addresses": [
+        "strafe.world"
+    ],
+    "primaryAddress": "play.strafe.world",
+    "primaryColor": "#55FF55",
+    "secondaryColor": "#00AA00",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "StrafeWorld",
+        "discord": "https://discord.gg/GtFhuPGkGN"
+    }
+}

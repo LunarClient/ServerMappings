@@ -4,9 +4,9 @@
     "website": "http://fairy-tales.uk/",
     "store": "https://store.fairy-tales.uk/",
     "addresses": [
-        "mc.fairy-tales.uk"
+        "fairy-tales.uk"
     ],
-    "primaryAddress": "fairy-tales.uk",
+    "primaryAddress": "mc.fairy-tales.uk",
     "primaryColor": "#fbe2be",
     "secondaryColor": "#c87b4f",
     "minecraftVersions": [

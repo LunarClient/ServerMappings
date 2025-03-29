@@ -4,10 +4,7 @@
     "website": "https://mcapi.moonsama.com/",
     "description": "The Minecraft Metaverse.",
     "addresses": [
-        "mc.moonsama.com",
-        "carnage-eu.moonsama.com",
-        "carnage-na.moonsama.com",
-        "carnage-ap.moonsama.com"
+        "moonsama.com"
     ],
     "primaryAddress": "mc.moonsama.com",
     "minecraftVersions": [

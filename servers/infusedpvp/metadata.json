@@ -1,0 +1,27 @@
+{
+    "id": "infusedpvp",
+    "name": "InfusedPvP",
+    "description": "A casual faction server.",
+    "store": "https://store.infusedpvp.org/",
+    "addresses": [
+        "infusedpvp.org"
+    ],
+    "primaryAddress": "play.infusedpvp.org",
+    "primaryColor": "#B827ED",
+    "secondaryColor": "#C17EDA",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,    
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/infusedpvp"
+    }
+}

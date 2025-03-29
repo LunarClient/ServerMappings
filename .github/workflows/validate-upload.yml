@@ -6,25 +6,50 @@ on:
       - master
   pull_request_target:
     branches:
-      - '*'
+      - "*"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
+  changes:
+    runs-on: ubuntu-latest
+    name: Determine Changes
+    outputs:
+      servers: ${{ steps.filter.outputs.servers }}
+      servers_files: ${{ steps.filter.outputs.servers_files }}
+      dry: ${{ steps.filter.outputs.dry }}
+    steps:
+      - name: Checkout from Github
+        uses: actions/checkout@v4
+
+      - name: Determine Changes
+        uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          list-files: json
+          filters: |
+            servers:
+              - added|modified|deleted: 'servers/**'
+            dry:
+              - added|modified|deleted: '.scripts/**'
+              - added|modified|deleted: '.github/**'
+
   validate-servers:
+    name: Validate Servers
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
       issues: write
 
-
     steps:
       - name: Checkout from GitHub
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -32,16 +57,22 @@ jobs:
         run: pip install -r .scripts/requirements.txt
 
       - name: Validate Servers
-        run: python .scripts/validate.py --servers_dir servers --metadata_schema metadata.schema.json --inactive_file inactive.json --inactive_schema inactive.schema.json --no-validate_inactive
+        run: |
+          python .scripts/validate.py \
+          --servers_dir servers \
+          --metadata_schema metadata.schema.json \
+          --inactive_file inactive.json \
+          --inactive_schema inactive.schema.json \
+          --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
           BOT_PAT: ${{ secrets.BOT_PAT }}
           USE_ARGS: "true"
 
   upload-servers:
-    needs: validate-servers
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
-
+    name: Upload Servers
+    needs: [validate-servers, changes]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
 
     permissions:
@@ -50,36 +81,84 @@ jobs:
 
     steps:
       - name: Checkout from GitHub
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Configure production AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
+          aws-region: us-east-2
 
       - name: Setup Python 3.x
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
       - name: Install Python dependencies
         run: pip install -r .scripts/requirements.txt
 
-      - name: Create output folder
+      - name: Create server output folder
         run: mkdir .out/
 
+      - name: Create Crowdin upload target
+        run: mkdir -p ServerMappings/locales/ && touch ServerMappings/locales/en_US.json
+
+      - name: Download translations from Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          command: "download"
+          command_args: "--source ServerMappings/locales/en_US.json --translation ServerMappings/locales/%locale%.json --export-only-approved"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "424304"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
+
       - name: Output Server Media
-        run: python .scripts/convert_media.py --servers_dir servers --inactive_file inactive.json --servers_logos_output .out/logos --servers_logos_sizes 256 128 64 32 --servers_backgrounds_output .out/backgrounds --servers_backgrounds_sizes 1280x720 852x480 --servers_banners_output .out/banners
+        run: |
+          python .scripts/convert_media.py \
+          --servers_dir servers \
+          --inactive_file inactive.json \
+          --servers_logos_output .out/logos \
+          --servers_logos_sizes 256 128 64 32 \
+          --servers_backgrounds_output .out/backgrounds \
+          --servers_backgrounds_sizes 1280x720 852x480 \
+          --servers_banners_output .out/banners \
+          --servers_wordmarks_output .out/wordmarks \
+          --changed_files '${{ needs.changes.outputs.servers_files }}' \
+          --dry_upload ${{ needs.changes.outputs.dry }}
         env:
           USE_ARGS: "true"
 
       - name: Create Index File
-        run: python .scripts/create_index.py --servers_dir servers --inactive_file inactive.json --index_output .out/servers.json --no-include_inactive
-
-      - name: Upload to Cloudflare
-        env:
-          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: us-east-1
         run: |
-          aws s3 sync .out s3://servermappings-lunarclientcdn-com --content-type "image/webp" --delete --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
+          python .scripts/create_index.py \
+          --servers_dir servers \
+          --inactive_file inactive.json \
+          --translations_folder ServerMappings/locales/ \
+          --translations_output ServerMappings/locales/en_US.json \
+          --json_output .out/servers.json \
+          --csv_output .out/servers.csv \
+          --no-include_inactive
+
+      - name: Sync to Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: true
+          upload_translations: false
+          download_translations: false
+          upload_sources_args: "--preserve-hierarchy"
+          source: ServerMappings/locales/en_US.json
+          translation: ServerMappings/locales/%locale%.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "424304"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
+      
+      - name: Upload to S3
+        run: |
+          aws s3 sync .out s3://lunarclient-servermappings --cache-control "public, max-age=14400"
+          aws s3 cp .out/servers.json s3://lunarclient-servermappings/servers.json --content-type "application/json"
+          aws s3 cp .out/servers.csv s3://lunarclient-servermappings/servers.csv --content-type "text/csv"
 
       - name: Purge Cloudflare cache
         env:

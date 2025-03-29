@@ -1,0 +1,44 @@
+{
+    "id": "oraclepvp",
+    "name": "OraclePVP",
+    "description": "Home of the OneChunk Gamemode",
+    "addresses": [
+        "oraclepvp.net"
+    ],
+    "primaryAddress": "oraclepvp.net",
+    "minecraftVersions": [
+        "1.21",
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#5EC4FF",
+    "secondaryColor": "#C4E9FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Skyblock"
+    ],
+    "wiki": "https://store.oraclepvp.net/wiki",
+    "store": "https://store.oraclepvp.net",
+    "compliance": {
+        "privacyPolicy": "https://store.oraclepvp.net/privacy",
+        "termsOfService": "https://store.oraclepvp.net/terms",
+        "rules": "https://store.oraclepvp.net/rules"
+    },
+    "socials": {
+        "twitter": "PlayOraclePvP",
+        "discord": "https://discord.gg/onechunk"
+    },
+    "crossplay": true
+}

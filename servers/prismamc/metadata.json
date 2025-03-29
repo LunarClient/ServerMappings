@@ -1,14 +1,30 @@
 {
     "id": "prismamc",
     "name": "PrismaMC Network",
+    "website": "https://prismamc.net",
     "store": "https://tienda.prismamc.net/",
     "addresses": [
         "prismamc.net"
     ],
+    "primaryAddress": "prismamc.net",
     "primaryColor": "#c9f5f7",
     "secondaryColor": "#f1ac33",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "twitter": "PrismaMCNW",
-        "discord": "https://discord.com/invite/yesGKfpkFa"
+        "discord": "https://discord.gg/prismamc"
     }
 }
