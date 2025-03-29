@@ -1,12 +1,13 @@
 {
     "id": "watones",
     "name": "Watones Network",
+    "description": "Join Watones Network for survival, PvP, and crossplay fun!",
     "store": "https://tienda.watones.net/",
     "addresses": [
         "watones.xyz",
         "watones.net"
     ],
-    "primaryAddress": "mc.watones.xyz",
+    "primaryAddress": "mc.watones.net",
     "primaryColor": "#f8ecfd",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
