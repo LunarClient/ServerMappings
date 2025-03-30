@@ -20,14 +20,14 @@
     "primaryMinecraftVersion": "1.20.4",
     "primaryLanguage": "es", 
     "languages": [
-        "es" 
+        "es-EN" 
     ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "BoxPvP"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/ZU3SZVCx2Q"
