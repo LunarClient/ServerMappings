@@ -3,8 +3,7 @@
     "name": "Sindoria",
     "description": "Factions, PvP, PvE",
     "addresses": [
-        "sindoria.fr",
-        "play.sindoria.fr"
+        "sindoria.fr"
     ],
     "primaryAddress": "play.sindoria.fr",
     "gameTypes": [
