@@ -3,9 +3,10 @@
     "name": "UchilahMC Network",
     "description": "Minigames PartyGames, BedWars, BattleRoyale, Parkour e muito mais no UchilahMC",
     "addresses": [
-        "uchilahmc.com"
+        "uchilahmc.com",
+        "mc.uchilah.com"
     ],
-    "primaryAddress": "uchilahmc.com",
+    "primaryAddress": "mc.uchilah.com",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,7 +14,8 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ff7709",
@@ -23,7 +25,7 @@
         "pt-BR",
         "pt-PT"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU",
