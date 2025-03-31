@@ -25,9 +25,9 @@
         "1.21.*"
     ],
     "primaryLanguage": "fr",
-    "primaryRegion": "UE",
+    "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "socials": {
         "discord": "https://discord.com/invite/sindoria"
