@@ -12,7 +12,7 @@
         "Factions"
     ],
     "primaryColor": "#FCB454",
-    "secondaryColor": "#FDFBEE",
+    "secondaryColor": "#FCB454",
     "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*",
@@ -25,6 +25,9 @@
         "1.21.*"
     ],
     "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
