@@ -1,8 +1,8 @@
 {
     "id": "horu",
-    "name": "Horu Games",
-    "website": "https://horu.us",
-    "store": "http://store.horu.us",
+    "name": "Ranked Games",
+    "website": "https://ranked.rip",
+    "store": "http://store.ranked.rip",
     "description": "Community oriented PvP server",
     "addresses": [
         "horu.us"
@@ -31,6 +31,6 @@
         "UHC"
     ],
     "socials": {
-        "discord": "https://discord.gg/horu"
+        "discord": "https://discord.gg/rankedrip"
     }
 }
