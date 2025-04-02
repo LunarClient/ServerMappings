@@ -1,5 +1,5 @@
 {
-    "id": "Anarchy",
+    "id": "anarchy",
     "name": "Anarchy",
     "website": "https://anarchy.ac/",
     "store": "https://anarchy.tebex.io/",
@@ -26,9 +26,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
-        "Vanilla",
-        "Anarchy"
+        "PvP"
     ],
     "socials": {
         "twitter": "anarchy_ac",
