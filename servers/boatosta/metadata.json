@@ -1,0 +1,41 @@
+{
+    "id": "boatosta",
+    "name": "BoaTosta",
+    "website": "https://boatosta.net/",
+    "store": "https://store.boatosta.net/",
+    "description": "",
+    "addresses": [
+        "boatosta.net"
+    ],
+    "primaryAddress": "play.boatosta.net",
+    "primaryColor": "#5DD420",
+    "secondaryColor": "#FFE259",
+    "minecraftVersions": [
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "http://discord.boatosta.net/",
+        "instagram": "boatostastudios"
+    },
+    "compliance": {
+        "rules": "https://boatosta.net/rules.html",
+        "support": "http://discord.boatosta.net/"
+    }
+}
