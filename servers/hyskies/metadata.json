@@ -1,0 +1,34 @@
+{
+    "id": "hyskies",
+    "name": "Hyskies",
+    "description": "Hyskies is a Minecraft server that offers a unique and immersive experience for players. With a focus on community and creativity, Hyskies provides a variety of game modes and features that cater to all types of players. Whether you're looking to build, explore, or compete, Hyskies has something for everyone.",
+    "store": "https://store.hyskies.net",    
+    "addresses": [
+        "play.hyskies.net"
+    ],
+    "primaryAddress": "play.hyskies.net",
+    "minecraftVersions": [
+        "1.214"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#42c5f5",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+
+    "socials": {
+        "tiktok": "@hyskies",
+        "discord": "discord.hyskies.net",
+        "twitter": "@hyskies"
+    },
+    "crossplay": true
+}
