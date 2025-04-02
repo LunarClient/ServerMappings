@@ -1,14 +1,14 @@
 {
     "id": "hyskies",
     "name": "Hyskies",
-    "description": "Hyskies is a Minecraft server that offers a unique and immersive experience for players. With a focus on community and creativity, Hyskies provides a variety of game modes and features that cater to all types of players. Whether you're looking to build, explore, or compete, Hyskies has something for everyone.",
+    "description": "Hyskies is a Minecraft server that delivers a unique and immersive experience focused on community and creativity. It offers various game modes and features for all player types, whether you want to build, explore, or compete. Hyskies truly has something for everyone!",
     "store": "https://store.hyskies.net",    
     "addresses": [
         "hyskies.net"
     ],
     "primaryAddress": "play.hyskies.net",
     "minecraftVersions": [
-        "1.214"
+        "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "primaryColor": "#42c5f5",
@@ -27,7 +27,7 @@
 
     "socials": {
         "tiktok": "@hyskies",
-        "discord": "discord.hyskies.net",
+        "discord": "https://discord.gg/4SEurzckQw",
         "twitter": "@hyskies"
     },
     "crossplay": true
