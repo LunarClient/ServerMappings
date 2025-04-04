@@ -5,8 +5,6 @@
     "store": "https://store.sulfurmc.eu",
     "description": "SulfurMC is a competitive and co-op minecraft server to create new friends and have fun with survival and custom bosses. We have a lot of custom features and we are always adding new ones to make the game more fun. Join us now and start your adventure!",
     "addresses": [
-        "play.sulfurmc.eu",
-        "mc.sulfurmc.eu",
         "sulfurmc.eu"
     ],
     "primaryAddress": "play.sulfurmc.eu",
