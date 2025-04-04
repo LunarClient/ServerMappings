@@ -30,9 +30,8 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
         "Survival",
-        "PvE",
+        "PvP",
         "Prison"
     ],
     "store": "https://tienda.meetionmc.com/",
