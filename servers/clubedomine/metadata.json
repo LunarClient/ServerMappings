@@ -9,13 +9,7 @@
     "primaryColor": "#ffc400",
     "secondaryColor": "#ff8000",
     "minecraftVersions": [
-        "1.9.*",
-        "1.10.*",   
-        "1.11.*",
         "1.12.*",
-        "1.13.*", 
-        "1.14.*",
-        "1.15.*",
         "1.16.*",    
         "1.17.*",
         "1.18.*",
@@ -40,7 +34,7 @@
         "Roleplay"
     ],
     "socials": {
-        "discord": "https://discord.gg/shybWzX8yK"
+        "discord": "https://discord.gg/83Hq3rtuCy"
     },
     "crossplay": true
 }
