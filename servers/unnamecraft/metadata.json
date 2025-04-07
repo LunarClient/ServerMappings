@@ -15,9 +15,9 @@
     "primaryMinecraftVersion": "1.21.4",
     "primaryColor": "#440A70",
     "secondaryColor": "#EE00FF",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "SA",
     "regions": [
@@ -27,7 +27,7 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "BoxPvP"
+        "PvE"
     ],
     "store": "https://tienda.unnamecraft.com",
     "compliance": {
