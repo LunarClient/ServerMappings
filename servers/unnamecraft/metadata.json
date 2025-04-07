@@ -37,8 +37,18 @@
     "socials": {
         "twitter": "UnnameServer",
         "discord": "https://discord.com/invite/PBbJy3Rv89",
-        "tiktok": "unnamecraft",
-        "votingLinks": "https://www.40servidoresmc.es/unnamecraft-java-bedrock"
+        "tiktok": "@unnamecraft"
     },
+    "votingLinks": [
+        "https://www.40servidoresmc.es/unnamecraft-java-bedrock",
+        "https://servidoresdeminecraft.es/server/status/M1gXs791/mc.unnamecraft.com",
+        "https://minecraftservers.org/vote/650608",
+        "https://www.planetminecraft.com/server/unnamecraft-5942822/",
+        "https://minecraft-mp.com/server/318474/vote/",
+        "https://minecraft-server-list.com/server/496464/vote/",
+        "https://topg.org/es/servidores-de-minecraft/server-664233",
+        "https://polymart.org/server/426/unnamecraft-network",
+        "https://servers-minecraft.net/server-unnamecraft-network.25452"
+    ],
     "crossplay": true
 }
