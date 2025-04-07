@@ -1,0 +1,44 @@
+{
+    "id": "unnamecraft",
+    "name": "UnnameCraft",
+    "description": "UnnameCraft es un servidor de habla hispana con grandes jugadores.",
+    "addresses": [
+        "unnamecraft.com"
+    ],
+    "primaryAddress": "unnamecraft.com",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#440A70",
+    "secondaryColor": "#EE00FF",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "BoxPvP"
+    ],
+    "store": "https://tienda.unnamecraft.com",
+    "compliance": {
+        "termsOfService": "https://reglas.unnamecraft.com/global/faqs/tos",
+        "rules": "https://reglas.unnamecraft.com/"
+    },
+    "socials": {
+        "twitter": "UnnameServer",
+        "discord": "https://discord.com/invite/PBbJy3Rv89",
+        "tiktok": "https://www.tiktok.com/@unnamecraft",
+        "votingLinks" "https://www.40servidoresmc.es/unnamecraft-java-bedrock"
+    },
+    "crossplay": true
+}
