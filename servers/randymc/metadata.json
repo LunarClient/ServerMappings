@@ -4,7 +4,6 @@
     "description": "RandyMC.de is a german LuckyBlock Network",
     "website": "https://www.randymc.de/",
     "store": "https://randymc.de/shop/",
-    "support": "https://support.randymc.de/",
     "addresses": [
         "randymc.de"
     ],
@@ -26,6 +25,13 @@
     "regions": [
         "EU"
     ],
+    "compliance": {
+        "support": "https://support.randymc.de/",
+        "privacyPolicy": "https://www.randymc.de/help/privacy-policy",
+        "termsOfService": "https://www.randymc.de/help/terms/minecraft",
+        "rules": "https://randymc.de/rules/minecraft"
+    },
+    "crossplay": false,
     "gameTypes": [
         "Minigames",
         "PvP",
