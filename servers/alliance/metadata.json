@@ -1,1 +1,34 @@
-
+{
+    "id": "alliancemc",
+    "name": "AllianceMC",
+    "website": "https://shop.alliance-mc.ru",
+    "description": "Best ranked bedwars server in RU region.",
+    "addresses": [
+      "alliance-mc.ru"
+    ],
+    "primaryAddress": "alliance-mc.ru",
+    "primaryColor": "#00FF00",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+      "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "Pvp",
+      "Minigames"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/rbwa",
+      "tiktok": "https://www.tiktok.com/@rbwalliance",
+      "youtube": "https://youtube.com/@rbwalliance"
+    }
+}
