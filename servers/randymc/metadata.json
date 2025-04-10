@@ -26,10 +26,10 @@
     },
     "crossplay": false,
     "gameTypes": [
-        "LuckyRace",
-        "LuckyWars",
-        "LuckyEggWars",
-        "School"
+        "PvP",
+        "PvE",
+        "Minigames",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/ztPyTVWVKX"
