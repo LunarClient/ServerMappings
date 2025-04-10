@@ -23,12 +23,12 @@
         "en"
     ],
     "gameTypes": [
-      "Pvp",
+      "PvP",
       "Minigames"
     ],
     "socials": {
       "discord": "https://discord.gg/rbwa",
-      "tiktok": "https://www.tiktok.com/@rbwalliance",
-      "youtube": "https://youtube.com/@rbwalliance"
+      "tiktok": "@rbwalliance",
+      "youtube": "rbwalliance"
     }
 }
