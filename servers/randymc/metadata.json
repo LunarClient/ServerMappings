@@ -1,0 +1,35 @@
+{
+    "id": "randymc",
+    "name": "RandyMC",
+    "website": "https://www.randymc.de/",
+    "store": "https://randymc.de/shop/",
+    "addresses": [
+        "randymc.de"
+    ],
+    "primaryAddress": "randymc.de",
+    "primaryColor": "#e39b17",
+    "secondaryColor": "#ad9b31",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "LuckyBlocks"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/ztPyTVWVKX"
+    }
+}
