@@ -1,0 +1,36 @@
+{
+    "id": "democraft",
+    "name": "Democraft",
+    "website": "https://democraft.fr/",
+    "store": "https://democraft.fr/shop",
+    "description": "First french & crossplay minigames server.",
+    "addresses": [
+        "play.democraft.fr"
+    ],
+    "primaryAddress": "play.democraft.fr",
+    "primaryColor": "#d7cd9f",
+    "secondaryColor": "#b4b4b3",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hRa2KxVkBs",
+        "bluesky": "democraft.fr",
+        "instagram": "democraftmc",
+        "twitch": "fdreamcloud"
+    }
+}
