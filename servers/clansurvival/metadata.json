@@ -1,0 +1,26 @@
+{
+    "id": "chorus",
+    "name": "ClanSurvival",
+    "website": "https://chorus.hu/",
+    "addresses": [
+        "clansurvival.hu"
+    ],
+    "primaryAddress": "play.clansurvival.hu",
+    "primaryColor": "#d276ff",
+    "secondaryColor": "#d276ff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/e6KPCY7M7w"
+    }
+}
