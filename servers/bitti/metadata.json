@@ -5,8 +5,7 @@
     "store": "https://kauppa.b1tti.fi",
     "description": "Versatile Finnish minigame server.",
     "addresses": [
-        "b1tti.fi",
-        "play.b1tti.fi"
+        "b1tti.fi"
     ],
     "primaryAddress": "b1tti.fi",
     "primaryColor": "#f23f32",
@@ -27,7 +26,6 @@
     "gameTypes": [
         "Survival",
         "Creative",
-        "PvP",
         "Minigames"
     ],
     "socials": {
