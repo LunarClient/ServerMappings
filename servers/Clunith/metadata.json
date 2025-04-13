@@ -1,11 +1,11 @@
 {
     "id": "clunith",
-    "name": "Clunith Network",
-    "store": "https://store.clunith.com/",
+    "name": "Clunith nodes",
+    "store": "https://store.clunith.live/",
     "addresses": [
-        "clunith.com"
+        "clunith.live"
     ],
-    "primaryAddress": "clunith.com",
+    "primaryAddress": "clunith.live",
     "primaryColor": "#43f1f6",
     "secondaryColor": "#dc7eed",
     "minecraftVersions": [
@@ -30,7 +30,7 @@
         "Survival"
     ],
     "socials": {
-        "twitter": "clunithnw",
-        "discord": "https://discord.gg/tavhtP6h7X"
+        "twitter": "clunithNodes",
+        "discord": "https://discord.gg/t2GJgh9GXj"
     }
 }
