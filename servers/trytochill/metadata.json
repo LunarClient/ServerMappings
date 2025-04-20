@@ -1,0 +1,35 @@
+{
+    "id": "trytochill",
+    "name": "TryToChill Network",
+    "store": "https://www.trytochill.net",
+    "addresses": [
+        "trytochill.net"
+    ],
+    "primaryAddress": "play.trytochill.net",
+    "primaryColor": "#ceb19e",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+	"1.7.*",
+	"1.8.*",
+	"1.9.*",
+	"1.10.*",
+	"1.11.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+	"1.20.*",
+	"1.21.*",
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+	"RPG"
+	"Minigames"
+    ]
+}
