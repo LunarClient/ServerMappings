@@ -1,12 +1,12 @@
 {
     "id": "overpvp",
     "name": "OverPvP",
-    "website": "https://overpvp.com",
-    "store": "https://store.overpvp.com/",
+    "website": "https://minehq.org",
+    "store": "https://store.minehq.org/",
     "addresses": [
-        "overpvp.com"
+        "minehq.org"
     ],
-    "primaryAddress": "play.overpvp.com",
+    "primaryAddress": "play.minehq.org",
     "primaryColor": "#008f39",
     "secondaryColor": "#89ac76",
     "minecraftVersions": [
