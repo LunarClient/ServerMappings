@@ -1,11 +1,11 @@
 {
     "id": "fladepvp",
     "name": "Flade Network",
-    "store": "https://store.fladepvp.net",
+    "store": "https://store.fladepvp.cc",
     "addresses": [
-        "fladepvp.net"
+        "fladepvp.cc"
     ],
-    "primaryAddress": "fladepvp.net",
+    "primaryAddress": "fladepvp.cc",
     "primaryColor": "#ffd700",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
