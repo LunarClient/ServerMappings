@@ -23,13 +23,13 @@
     ],
     "gameTypes": [
         "Survival",
-        "Apocalypse",
+        "Adventure",
         "Factions"
     ],
     "socials": {
         "discord": "https://discord.com/invite/SBpeRAXQAx",
         "instagram": "limoncraft_italia",
         "telegram": "LimoncraftItalia",
-        "tiktok": "limoncraft.italia"
+        "tiktok": "@limoncraft.italia"
     }
 }
