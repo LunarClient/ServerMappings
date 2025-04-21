@@ -18,6 +18,10 @@
     "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#4498DB",
     "secondaryColor": "#ADF3FD",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
