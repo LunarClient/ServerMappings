@@ -6,7 +6,7 @@
     "addresses": [
         "oplegends.com"
     ],
-    "primaryAddress": "mc.oplegends.com",
+    "primaryAddress": "play.oplegends.com",
     "primaryColor": "#e3c285",
     "secondaryColor": "#e52b36",
     "minecraftVersions": [
@@ -15,9 +15,10 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.4"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"

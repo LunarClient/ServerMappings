@@ -1,12 +1,12 @@
 {
     "id": "cativeiro",
-    "name": "CativeiroDuels",
-    "store": "https://loja.cativeiro.lol",
-    "description": "The best brazilian server",
+    "name": "Cativeiro",
+    "store": "https://store.cativeiro.lol",
+    "description": "Come be the best",
     "addresses": [
         "cativeiro.lol"
     ],
-    "primaryAddress": "beta.cativeiro.lol",
+    "primaryAddress": "eu.cativeiro.lol",
     "primaryColor": "#6c42f5",
     "secondaryColor": "#2e214a",
     "minecraftVersions": [
@@ -15,9 +15,9 @@
     ],
     "primaryMinecraftVersion": "1.7.10",
     "regions": [
-        "SA"
+        "EU"
     ],
-    "primaryRegion": "SA",
+    "primaryRegion": "EU",
     "gameTypes": [
         "PvP"
     ],

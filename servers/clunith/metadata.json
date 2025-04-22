@@ -1,6 +1,6 @@
 {
     "id": "clunith",
-    "name": "Clunith Network",
+    "name": "Clunith Nodes",
     "store": "https://store.clunith.com/",
     "addresses": [
         "clunith.com"
@@ -30,7 +30,7 @@
         "Survival"
     ],
     "socials": {
-        "twitter": "clunithnw",
-        "discord": "https://discord.gg/tavhtP6h7X"
+        "twitter": "ClunithShop",
+        "discord": "https://discord.gg/PAuR3ASNdq"
     }
 }
