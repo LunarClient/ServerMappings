@@ -7,12 +7,10 @@
     ],
     "primaryAddress": "mc.unitedcraft.pl",
     "minecraftVersions": [
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.3",
     "primaryColor": "#e9a228",
     "secondaryColor": "#8b340f",
     "primaryLanguage": "pl",

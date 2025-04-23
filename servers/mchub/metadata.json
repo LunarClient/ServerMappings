@@ -2,6 +2,7 @@
     "id": "mchub",
     "name": "MCHub",
     "store": "https://buy.mchub.com/",
+    "description": "The hub for the ultimate SkyBlock, Prison, Survival, and Cobblemon experience.",
     "addresses": [
         "mchub.com"
     ],
@@ -27,9 +28,14 @@
     "gameTypes": [
         "Prison",
         "Skyblock",
-        "Survival"
+        "Pixelmon"
     ],
     "socials": {
         "discord": "https://discord.com/invite/mchub"
+    },
+    "modpack": {
+        "id": "fYyK8OQu",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }

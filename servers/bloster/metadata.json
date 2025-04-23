@@ -1,7 +1,6 @@
 {
     "id": "bloster",
     "name": "Bloster Network",
-    "description": "Juega con nosotros!",
     "addresses": [
         "bloster.net"
     ],
@@ -39,7 +38,7 @@
     "store": "https://bloster.tebex.io",
     "socials": {
         "twitter": "blosternetwork",
-        "tiktok": "blosternetwork",
+        "tiktok": "@blosternetwork",
         "discord": "https://discord.com/invite/TcMmjfYvbG"
     },
     "crossplay": true
