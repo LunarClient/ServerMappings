@@ -1,10 +1,11 @@
 {
     "id": "trixinity",
-    "name": "trixinity.cz",
+    "name": "Trixinity.cz",
     "website": "https://trixinity.cz",
-    "description": "A fresh Czech server offering Survival mode with exciting minigames coming soon!",
+    "description": "A fresh Czech server offering Survival mode with exciting minigames!",
     "addresses": [
-        "trixinity.cz"
+        "trixinity.cz",
+        "hypercraft.cz"
     ],
     "primaryAddress": "mc.trixinity.cz",
     "primaryColor": "#FFFF00",
@@ -18,7 +19,7 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.3",
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Survival",
         "PvP"
