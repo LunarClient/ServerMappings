@@ -24,8 +24,9 @@
         "EU"
     ],
     "gameTypes": [
-        "Earth",
-        "Minigames"
+        "Survival",
+        "Minigames",
+        "pvp"
     ],
     "website": "https://www.voidcraftmc.net",
     "store": "https://store.voidcraftmc.net",
