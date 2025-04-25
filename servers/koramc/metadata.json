@@ -1,0 +1,25 @@
+{
+    "id": "koramc",
+    "name": "KoraMC Network",
+    "store": "https://store.koramc.cc/",
+    "description": "Network dedicated to competitive PvP gamemodes!",
+    "addresses": [
+        "koramc.cc"
+    ],
+    "primaryAddress": "koramc.cc",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#8B0000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ZSyPHgxWzY"
+    }
+}
