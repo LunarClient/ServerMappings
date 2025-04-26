@@ -22,8 +22,7 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
-        "PvP",
-        "Training"
+        "PvP"
     ],
     "socials": {
         "twitter": "MuffinizedMC",
