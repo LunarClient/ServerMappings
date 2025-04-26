@@ -5,9 +5,10 @@
     "store": "https://store.healtymc.net",
     "description": "Competitive HCF Server",
     "addresses": [
-        "healtymc.net"
+        "play.healtymc.live",
+        "healtymc.live"
     ],
-    "primaryAddress": "healtymc.net",
+    "primaryAddress": "healtymc.live",
     "primaryColor": "#00F0FF",
     "secondaryColor": "#09D3C3",
     "minecraftVersions": [
@@ -19,10 +20,9 @@
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "en",
+    "primaryLanguage": "es",
     "languages": [
-        "en",
-        "es-EN"
+        "es"
     ],
     "gameTypes": [
         "HCF",
