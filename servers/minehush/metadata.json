@@ -2,8 +2,8 @@
     "id": "minehush",
     "name": "Minehush",
     "description": "A network that provides a variety of game modes, including PvP and Minigames.",
-    "addresses": [ "minehush.hu" ],
-    "primaryAddress": "minehush.hu",
+    "addresses": [ "minehush.hu", "play.minehush.hu" ],
+    "primaryAddress": "play.minehush.hu",
     "minecraftVersions": [
       "1.12.*",
       "1.16.*",
