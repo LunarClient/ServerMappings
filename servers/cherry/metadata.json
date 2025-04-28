@@ -4,13 +4,11 @@
   "store": "https://loja.cherryvanilla.club/",
   "description": "The best Brazilian PvP server.",
   "addresses": [
-    "jogar.cherryvanilla.club",
-    "play.cherryvanilla.club",
     "cherryvanilla.club"
   ],
   "primaryAddress": "jogar.cherryvanilla.club",
   "primaryColor": "#ff7dfb",
-  "secondaryColor": "#E200BCff",
+  "secondaryColor": "#E200BC",
   "minecraftVersions": [
     "1.17.*",
     "1.18.*",
@@ -21,20 +19,20 @@
   "primaryMinecraftVersion": "1.21.4",
   "crossplay": true,
   "primaryRegion": "SA",
-  "primaryLanguage": "pt-br",
+  "regions": ["SA"],
+  "primaryLanguage": "pt-BR",
   "languages": [
     "pt-BR"
   ],
   "gameTypes": [
-    "Semi-Anarquia",
-    "Sandbox",
-    "Crystal PvP",
-    "Sword PvP"
+    "PvP",
+    "Survival",
+    "Open World"
   ],
   "socials": {
-    "tiktok": "@cherryvanilla.club",
+    "tiktok": "cherryvanilla.club",
     "discord": "https://discord.com/invite/mpcx6SCNQt",
-    "instagram": "@cherryvanilla.club",
+    "instagram": "cherryvanilla.club",
     "youtube": "cherryvanilla.club"
   }
 }
