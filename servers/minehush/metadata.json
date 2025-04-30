@@ -1,46 +1,35 @@
 {
     "id": "minehush",
-    "name": "Minehush Network",
-    "description": "Come enjoy with us!",
-    "addresses": [
-        "minehush.net"
-    ],
-    "primaryAddress": "minehush.net",
+    "name": "Minehush",
+    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
+    "addresses": [ "minehush.hu" ],
+    "primaryAddress": "minehush.hu",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
-    ],
-    "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#ffdf14",
-    "secondaryColor": "#b69665",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*"
+  ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#0ED45B",
+    "secondaryColor": "#ffffff",
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "es-EN"
+      "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+      "EU"
     ],
     "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "Factions"
+      "PvP",
+      "Minigames"
     ],
-    "store": "https://store.minehush.net",
+    "website": "https://minehush.hu",
+    "store": "https://bolt.minehush.hu",
     "socials": {
-        "twitter": "minehush",
-        "tiktok": "@minehushnetwork",
-        "discord": "https://discord.gg/x7Xyq63HP6"
-    },
-    "crossplay": true
+      "discord": "https://discord.gg/f4n7msT8sn"
+    }
 }
