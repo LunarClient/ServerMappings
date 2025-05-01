@@ -9,7 +9,6 @@
     },
     "addresses": [
         "redtrap.org",
-        "play.redtrap.org"
     ],
     "primaryAddress": "play.redtrap.org",
     "minecraftVersions": [
@@ -65,7 +64,7 @@
     ],
     "socials": {
         "discord": "https://discord.gg/neX8Kxdsfv",
-        "tiktok": "https://www.tiktok.com/@play.redtrap.org"
+        "tiktok": "@play.redtrap.org"
     },
     "crossplay": true
 }
