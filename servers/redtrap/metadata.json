@@ -4,18 +4,48 @@
     "description": "Redefining the nature of PvP",
     "website": "https://www.redtrap.org/",
     "store": "https://store.redtrap.org/",
+    "compliance": {
+        "rules": "https://www.redtrap.org/rules/"
+    },
     "addresses": [
-        "redtrap.org"
+        "redtrap.org",
+        "play.redtrap.org"
     ],
     "primaryAddress": "play.redtrap.org",
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*",
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#d30000",
@@ -34,8 +64,8 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/sSDuSXbZvZ",
-        "tiktok": "@play.redtrap.org"
+        "discord": "https://discord.gg/neX8Kxdsfv",
+        "tiktok": "https://www.tiktok.com/@play.redtrap.org"
     },
     "crossplay": true
 }
