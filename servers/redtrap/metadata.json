@@ -8,7 +8,7 @@
         "rules": "https://www.redtrap.org/rules/"
     },
     "addresses": [
-        "redtrap.org",
+        "redtrap.org"
     ],
     "primaryAddress": "play.redtrap.org",
     "minecraftVersions": [
