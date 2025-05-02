@@ -1,7 +1,7 @@
 {
     "id": "skymc",
     "name": "SkyMC Network",
-    "description": "BoxPvP, nuevos modos y comunidad activa. ¡Únete al Discord!",
+    "description": "BoxPvP nuevos modos y comunidad activa Unete a Discord",
     "addresses": [
         "skymc.us"
     ],
@@ -31,7 +31,7 @@
     ],
     "store": "https://tienda.skymc.us/",
     "socials": {
-        "discord": "https://discord.skymc.us/",
+        "discord": "https://discord.gg/AfqBEFNzNY",
         "tiktok": "@skymcc_"
     },
     "crossplay": true
