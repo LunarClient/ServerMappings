@@ -2,8 +2,7 @@
     "id": "pvpplay",
     "name": "PvPPlay",
     "addresses": [
-        "pvpplay.pl",
-        "wywrotkamc.pl"
+        "pvpplay.pl"
     ],
     "primaryAddress": "pvpplay.pl",
     "minecraftVersions": [
