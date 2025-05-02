@@ -1,0 +1,33 @@
+{
+  "id": "starrymc",
+  "name": "starrymc",
+  "description": "Intense BoxPvP action with upcoming Random Kits. Join the fight!",
+  "addresses":,
+  "primaryAddress": "StarryMC.us",
+  "minecraftVersions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.6"
+  ],
+  "primaryMinecraftVersion": "1.20.6",
+  "primaryColor": "#FFA500",
+  "secondaryColor": "#FFFFFF",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "primaryLanguage": "es",
+  "regions":,
+  "primaryRegion": "NA",
+  "gameTypes": [
+    "PvP"
+  ],
+  "website": "https://starrymc.tebex.io/",
+  "store": "https://starrymc.tebex.io/",
+  "socials": {
+    "discord": "https://discord.gg/ezxHj9KpEY"
+  },
+  "votingLinks":
+}
