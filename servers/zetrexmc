@@ -1,0 +1,49 @@
+{
+    "id": "zetrexmc",
+    "name": "ZetrexMC",
+    "description": "A Minecraft server offering Survival and Lifesteal modes, expanding soon to support competitive PvP.",
+    "addresses": [
+        "zetrex.net",
+        "play.zetrex.net",
+        "mc.zetrex.net"
+    ],
+    "primaryAddress": "zetrex.net",
+    "minecraftVersions": [
+        "1.21+",
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#32a852",
+    "secondaryColor": "#a3d9a5",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Lifesteal",
+        "PvP"
+    ],
+    "website": "https://zetrex.net",
+    "store": "https://store.zetrex.net",
+    "compliance": {
+        "privacyPolicy": "https://zetrex.net/privacy",
+        "termsOfService": "https://zetrex.net/terms",
+        "rules": "https://zetrex.net/rules"
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "twitter": "ZetrexMC",
+        "telegram": "zetrexmc",
+        "discord": "https://zetrex.net/discord"
+    },
+    "crossplay": false
+}
