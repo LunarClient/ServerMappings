@@ -4,9 +4,7 @@
     "website": "https://zetrex.net/",
     "store": "https://store.zetrex.net/",
     "addresses": [
-        "zetrex.net",
-        "play.zetrex.net",
-        "mc.zetrex.net"
+        "zetrex.net"
     ],
     "primaryAddress": "zetrex.net",
     "primaryColor": "#32a852",
@@ -30,7 +28,6 @@
     ],
     "gameTypes": [
         "Survival",
-        "Lifesteal",
         "PvP"
     ],
     "socials": {
