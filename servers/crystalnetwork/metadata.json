@@ -7,6 +7,8 @@
         "crystaldev.co"
     ],
     "primaryAddress": "play.crystaldev.co",
+    "primaryColor": "#72f17a",
+    "secondaryColor": "#3c88f0",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,15 +18,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#72f17a",
-    "secondaryColor": "#3c88f0",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Creative",

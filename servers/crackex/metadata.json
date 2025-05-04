@@ -1,0 +1,37 @@
+{
+    "id": "crackex",
+    "name": "Crackex",
+    "description": "The best Lifesteal, Practice and Survival. Made for players. not profit.",
+    "addresses": [
+        "crackex.xyz"
+    ],
+    "primaryAddress": "mc.crackex.xyz",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryColor": "#FBF800",
+    "secondaryColor": "#ff2bc0",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+
+    "socials": {
+        "discord": "https://discord.gg/fQcgVkgJpG"
+    },
+    "crossplay": false
+}

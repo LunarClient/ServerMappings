@@ -1,0 +1,29 @@
+{
+    "id": "palmpvp",
+    "name": "PalmPvP",
+    "store": "https://store.palmpvp.com/",
+    "addresses": [
+        "palmpvp.com"
+    ],
+    "primaryAddress": "palmpvp.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFFF00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/palmpvp"
+    }
+}

@@ -1,21 +1,21 @@
 {
     "id": "elowyr",
     "name": "Elowyr",
-    "description": "Serveur PvP/Factions 1.8+ Français",
+    "website": "https://elowyr.fr",
+    "store": "https://boutique.elowyr.fr",
+    "description": "Server PvP/Factions 1.8+ French",
     "addresses": [
         "elowyr.fr"
     ],
     "primaryAddress": "play.elowyr.fr",
-    "gameTypes": [
-        "Factions",
-        "PvP"
-    ],
     "primaryColor": "#F1C40F",
     "secondaryColor": "#F5E417",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "website": "https://elowyr.fr",
-    "store": "https://boutique.elowyr.fr"
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ]
 }

@@ -1,0 +1,30 @@
+{
+  "id": "plexie",
+  "name": "Plexie Studios",
+  "addresses": [
+    "tojointheserverjustputthisipintoyourlittleaddressbox.lol"
+  ],
+  "primaryAddress": "tojointheserverjustputthisipintoyourlittleaddressbox.lol",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#D4A017",
+  "secondaryColor": "#36454F",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Factions"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/XE4dP58Gdx"
+  }
+}

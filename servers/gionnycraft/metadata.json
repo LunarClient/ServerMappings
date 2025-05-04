@@ -8,6 +8,8 @@
         "gionnycraft.it"
     ],
     "primaryAddress": "play.gionnycraft.it",
+    "primaryColor": "#c603fc",
+    "secondaryColor": "#c26fd9",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -18,23 +20,21 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#c603fc",
-    "secondaryColor": "#c26fd9",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/ePhbDGhEKn",
-        "instagram": "@gionnycraft",
-        "telegram": "@GionnyCraft",
+        "instagram": "gionnycraft",
+        "telegram": "GionnyCraft",
         "tiktok": "@gionnycraft"
     }
 }

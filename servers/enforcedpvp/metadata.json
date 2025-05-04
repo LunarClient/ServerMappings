@@ -7,6 +7,8 @@
         "enforcedpvp.net"
     ],
     "primaryAddress": "play.enforcedpvp.org",
+    "primaryColor": "#357A03",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,15 +18,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#357A03",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Factions"

@@ -1,7 +1,7 @@
 {
     "id": "skycraftbr",
     "name": "SkyCraft Network",
-    "description": "O melhor servidor brasileiro de Minigames e SkyBlock!",
+    "description": "The best Brazilian Minigames and SkyBlock server!",
     "addresses": [
         "skycraft.com.br",
         "skycraft.network",
@@ -50,7 +50,7 @@
         "youtube": "@SkyCraftOficial",
         "instagram": "networkskycraft",
         "twitch": "networkskycraft",
-        "tiktok": "networkskycraft",
+        "tiktok": "@networkskycraft",
         "facebook": "NetworkSkycraft"
     },
     "crossplay": false

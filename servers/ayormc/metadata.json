@@ -3,7 +3,7 @@
     "name": "AyorMC",
     "website": "https://ayormc.net/",
     "store": "https://store.ayormc.net/",
-    "description": "AyorMC is an Asian Minecraft server with players from accross the globe.",
+    "description": "AyorMC is an Asian Minecraft server with players from across the globe.",
     "addresses": [
         "ayormc.net",
         "ayormc.xyz"
@@ -20,16 +20,16 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryLanguage": "en",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "AS",
     "regions": [
         "AS",
         "EU"
     ],
+    "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
         "Prison",

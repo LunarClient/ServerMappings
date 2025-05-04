@@ -8,20 +8,20 @@
         "anteiku.net"
     ],
     "primaryAddress": "anteiku.net",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#55FF55",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#FFFF55",
-    "secondaryColor": "#55FF55",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"

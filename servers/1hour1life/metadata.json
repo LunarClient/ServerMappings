@@ -1,0 +1,33 @@
+{
+    "id": "1hour1life",
+    "name": "1Hour 1Life",
+    "website": "http://1hour1life.net",
+    "description": "Spawn as a baby to a random player!",
+    "addresses": [
+      "1hour1life.net"
+    ],
+    "primaryAddress": "play.1hour1life.net",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+      "1.20.6"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+      "Roleplay",
+      "Survival",
+      "Open World"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/m98Fj6uWeD"
+    }
+}

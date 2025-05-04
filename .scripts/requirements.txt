@@ -3,3 +3,4 @@ webptools
 jsonschema
 mcstatus
 requests
+tld

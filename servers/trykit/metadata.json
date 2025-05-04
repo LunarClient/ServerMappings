@@ -1,0 +1,28 @@
+{
+    "id": "trykit",
+    "name": "Trykit",
+    "website": "https://trykit.net",
+    "addresses": [
+        "trykit.net"
+    ],
+    "primaryAddress": "trykit.net",
+    "primaryColor": "#F4B966",
+    "secondaryColor": "#FACE79",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.20.6"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+	"PvP"
+    ],
+    "socials": {
+	"discord": "https://discord.gg/E74brwUCwK",
+	"tiktok": "@trykitmc"
+    }	
+}
