@@ -1,5 +1,5 @@
 {
-    "id": "MineSea",
+    "id": "minesea",
     "name": "MineSea",
     "website": "https://store.minesea.org/",
     "store": "https://store.minesea.org/",
@@ -28,10 +28,10 @@
         "NA"
     ],
     "gameTypes": [
-        "survival"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/frXwRSW4t7",
-        "tiktok": "minesea.org"
+        "tiktok": "@minesea.org"
     }
 }
