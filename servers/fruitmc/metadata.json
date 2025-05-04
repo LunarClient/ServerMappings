@@ -6,7 +6,7 @@
     "addresses": [
         "fruitmc.it",
         "fruitmc.net",
-        "play.fruitmc.net"
+        "fruitmc.net"
     ],
     "primaryAddress": "play.fruitmc.it",
     "primaryColor": "#F45454",
@@ -32,7 +32,7 @@
         "it"
     ],
     "gameTypes": [
-        "Oneblock",
+        "Skyblock",
         "PvP",
         "Survival"
     ],
