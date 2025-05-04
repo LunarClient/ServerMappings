@@ -1,0 +1,22 @@
+{
+    "id": "hostgier",
+    "name": "HostGier.pl Build Battle",
+    "store": "https://hostgier.pl",
+    "addresses": [
+        "hostgier.pl"
+    ],
+    "primaryAddress": "konkurs.hostgier.pl",
+    "primaryColor": "#2B35A0",
+    "secondaryColor": "#35A7EC",
+    "minecraftVersions": [
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Creative"
+    ]
+}

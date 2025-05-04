@@ -1,0 +1,39 @@
+{
+    "id": "lifenetwork",
+    "name": "LifeNetwork",
+    "website": "https://lifenetworkmc.com/",
+    "store": "https://store.lifenetworkmc.com/",
+    "description": "A fun server with Lifesteal, Bedwars, and more!",
+    "addresses": [
+        "lifenetworkmc.com"
+    ],
+    "primaryAddress": "play.lifenetworkmc.com",
+    "primaryColor": "#ff3131",
+    "secondaryColor": "#ff914d",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.6"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/f3FRqzgzq4",
+        "youtube": "@LifeNetworkServer"
+    }
+}

@@ -1,12 +1,16 @@
 {
-    "id": "storyrpg",
-    "name": "StoryRPG",
-    "store": "https://store.storyrpg.it/",
-    "description": "Storyrpg è la lifesteal più originale in italia",
+    "id": "fuitmc",
+    "name": "FruitMC",
+    "store": "https://store.fruitmc.it/",
+    "description": "Gioca alla nostra bellissima skyblock",
     "addresses": [
-        "storyrpg.it"
+        "fruitmc.it",
+        "fruitmc.net",
+        "play.fruitmc.net"
     ],
-    "primaryAddress": "play.storyrpg.it.it",
+    "primaryAddress": "play.fruitmc.it",
+    "primaryColor": "#F45454",
+    "secondaryColor": "#84F454",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,26 +18,31 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FBE108",
-    "secondaryColor": "#FF9F0A",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
     "gameTypes": [
-	"Survival",
-        "Minigames"
+        "Oneblock",
+        "PvP",
+        "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/storyrpg",
-        "telegram": "StoryRPG",
-        "tiktok": "storyrpg_network"
+        "discord": "https://discord.fruitmc.it",
+        "youtube": "FruitMC",
+        "tiktok": "FruitMC"
+    },
+    "compliance": {
+        "termsOfService": "https://store.fruitmc.it/pages/tos",
+        "support": "https://store.fruitmc.it/pages/support"
     }
 }

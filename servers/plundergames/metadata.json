@@ -1,14 +1,13 @@
 {
     "id": "plundergames",
-    "name": "Plunder Games",
+    "name": "Plunder",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "plunder.rip",
-        "kiopvp.org"
+        "plunder.rip"
     ],
     "primaryAddress": "plunder.rip",
     "minecraftVersions": [
-        "1.20.*",
+        "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
@@ -18,7 +17,7 @@
     "languages": [
         "en"
     ],
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
@@ -31,8 +30,8 @@
     ],
 
     "socials": {
-        "twitter": "PlunderGames_",
-        "discord": "https://discord.gg/plundergames"
+        "twitter": "PlunderRIP",
+        "discord": "https://discord.gg/plunder"
     },
     "crossplay": false
 }

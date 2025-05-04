@@ -1,0 +1,39 @@
+{
+    "id": "nexuscraft_network",
+    "name": "Nexuscraft  Network",
+    "addresses": [
+        "nexuscraftmg.fun"
+    ],
+    "primaryAddress": "nexuscraftmg.fun",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+      ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5BC3FF",
+    "secondaryColor": "#0C0B21",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "website": "https://nexuscraftmg.fun/",
+    "store": "https://shop.nexuscraftmg.fun/",
+    "socials": {
+        "discord": "https://discord.gg/rbC7ASaRh3"
+    }
+}

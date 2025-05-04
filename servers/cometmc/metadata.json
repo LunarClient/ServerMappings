@@ -6,6 +6,8 @@
         "cometmc.net"
     ],
     "primaryAddress": "play.cometmc.net",
+    "primaryColor": "#047fcc",
+    "secondaryColor": "#edf0f2",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -20,8 +22,6 @@
     "languages": [
         "en"
     ],
-    "primaryColor": "#047fcc",
-    "secondaryColor": "#edf0f2",
     "gameTypes": [
         "PvP",
         "HCF"

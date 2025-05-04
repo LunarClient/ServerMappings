@@ -6,29 +6,32 @@
     "addresses": [
         "rinaorc.com"
     ],
-    "primaryAddress": "play.rinaorc.com",
+    "primaryAddress": "rinaorc.com",
     "primaryColor": "#e9bb12",
     "secondaryColor": "#8c4b24",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
-        "Minigames",
         "PvP",
-        "UHC"
+        "Survival",
+        "Skyblock"
     ],
     "socials": {
         "twitter": "rinaorc",
-        "discord": "https://discord.com/invite/vXYXrGk",
-        "youtube": "UCKC-StNGaVW9qJF_it-C0kg",
-        "tiktok": "serveur.rinaorc",
-        "facebook": "rinaorc.mc"
+        "discord": "https://discord.gg/rinaorc",
+        "youtube": "@RinaorcStudios",
+        "tiktok": "@rinaorc.studios",
+        "facebook": "rinaorc.mc",
+        "instagram": "rinaorcstudios"
     }
 }

@@ -1,11 +1,15 @@
 {
     "id": "firecone",
     "name": "Firecone",
+    "website": "https://www.firecone.eu",
+    "store": "https://store.firecone.eu",
     "description": "Survival, PVP and more",
     "addresses": [
         "firecone.eu"
     ],
     "primaryAddress": "mc.firecone.eu",
+    "primaryColor": "#ff6c05",
+    "secondaryColor": "#1E82DA",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,15 +17,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#ff6c05",
-    "secondaryColor": "#1E82DA",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "primaryMinecraftVersion": "1.21",
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -30,13 +29,15 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival",
         "Minigames",
         "PvP"
     ],
-    "website": "https://www.firecone.eu",
-    "store": "https://store.firecone.eu",
     "socials": {
         "discord": "https://discord.gg/pXQfMwXJzT"
     }

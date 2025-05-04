@@ -1,14 +1,32 @@
 {
     "id": "kira",
-    "name": "Kira",
+    "name": "Kira Network",
+    "store": "https://store.kiramc.com",
+    "description": "Competitive PvP network striving to be the best",
     "addresses": [
-        "kirah.cf",
-        "kira.vip",
-        "kira.rip"
+        "kiramc.com"
+    ],
+    "primaryAddress": "play.kiramc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#5f45d3",
+    "secondaryColor": "#3f3957",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+	    "HCF"
     ],
-    "primaryColor": "#5f45d3",
-    "secondaryColor": "#3f3957"
+    "socials": {
+        "twitter": "KiraHCF",
+        "discord": "https://discord.com/invite/6ThCzSpVMe"
+    }
 }

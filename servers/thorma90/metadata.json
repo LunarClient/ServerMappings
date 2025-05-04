@@ -1,0 +1,34 @@
+{
+    "id": "thorma90",
+    "name": "Thorma90 Netzwerk",
+    "website": "https://thorma90.net",
+    "description": "Minigames und mehr. Joine Jetzt!",
+    "addresses": [
+        "thorma90.net"
+    ],
+    "primaryAddress": "thorma90.net",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#372826",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FcQTXTVGsh",
+        "youtube": "@Thorma90net"
+    }
+}
