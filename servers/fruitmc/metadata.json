@@ -1,5 +1,5 @@
 {
-    "id": "fuitmc",
+    "id": "fruitmc",
     "name": "FruitMC",
     "store": "https://store.fruitmc.it/",
     "description": "Gioca alla nostra bellissima skyblock",
@@ -38,8 +38,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/fruitmc",
-        "youtube": "FruitMC",
-        "tiktok": "FruitMC"
+        "youtube": "FruitMC"
     },
     "compliance": {
         "termsOfService": "https://store.fruitmc.it/pages/tos",
