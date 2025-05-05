@@ -3,9 +3,9 @@
     "name": "Astery",
     "store": "https://store.Astery.us",
     "addresses": [
-        "Astery.us"
+        "astery.us"
     ],
-    "primaryAddress": "Astery.us",
+    "primaryAddress": "astery.us",
     "primaryColor": "#61bff7",
     "secondaryColor": "#bfe5fc",
     "minecraftVersions": [
