@@ -18,8 +18,8 @@
         "1.19.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.4",
-    "crossplay": false,
+    "primaryMinecraftVersion": "1.21.5",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -27,14 +27,10 @@
         "AS"
     ],
     "gameTypes": [
-        "Survival",
-        "PvP"
+        "PvP",
+        "Survival"
     ],
     "socials": {
-        "twitter": "zetrexmc",
         "discord": "https://discord.com/invite/zetrexmc",
-        "youtube": "ZetrexMC",
-        "instagram": "zetrexmc",
-        "reddit": "ZetrexMC"
     }
 }
