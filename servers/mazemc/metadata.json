@@ -6,8 +6,6 @@
     "description": "PvP Network for players, by players.",
     "addresses": [
         "imanity.club",
-        "mc.mazemc.es",
-        "play.mazemc.es",
         "mazemc.es"
     ],
     "primaryAddress": "mazemc.es",
