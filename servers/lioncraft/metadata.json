@@ -4,9 +4,7 @@
     "addresses": [ 
         "lioncraft.ir"
     ],
-    "primaryAddress": [
-        "play.lioncraft.ir"
-    ],
+    "primaryAddress": "play.lioncraft.ir"
     "primaryColor": "#ff9e00",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
