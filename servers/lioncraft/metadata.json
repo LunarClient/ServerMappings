@@ -1,0 +1,32 @@
+{
+    "id": "lioncraft",
+    "name": "LionCraft",
+    "addresses": [ 
+        "lioncraft.ir"
+    ],
+    "primaryAddress": "play.lioncraft.ir"
+    "primaryColor": "#ff9e00",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Open World",
+        "PVP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ttSx8Zm3FW"
+    }
+}
