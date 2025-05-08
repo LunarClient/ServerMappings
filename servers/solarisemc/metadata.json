@@ -3,7 +3,8 @@
     "name": "SolariseMC",
     "description": "Home of Competitive Minecraft Factions",
     "addresses": [
-        "solarisemc.com"
+        "solarisemc.com",
+        "warlockmc.org"
     ],
     "primaryAddress": "solarisemc.com",
     "minecraftVersions": [
