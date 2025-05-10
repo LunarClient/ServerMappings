@@ -4,7 +4,7 @@
     "store": "https://store.oxaly.net/",
     "addresses": [
         "oxaly.net",
-        "bd.oxaly.net"
+        "oxaly.net"
     ],
     "primaryAddress": "mc.oxaly.net",
     "primaryColor": "#8BCEEA",
