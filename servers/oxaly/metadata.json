@@ -3,7 +3,6 @@
     "name": "Oxaly Network",
     "store": "https://store.oxaly.net/",
     "addresses": [
-        "oxaly.net",
         "oxaly.net"
     ],
     "primaryAddress": "mc.oxaly.net",
