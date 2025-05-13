@@ -1,9 +1,9 @@
 {
     "id": "cyremc",
-    "name": "CyreMC Network",
+    "name": "Cyre Network",
     "website": "https://www.cyremc.us/",
     "store": "https://store.cyremc.us/",
-    "description": "New Spanish-speaking Minecraft PvP server",
+    "description": "A competitive PvP server striving to give the best player experience possible.",
     "addresses": [
         "cyremc.us"
     ],
@@ -19,7 +19,7 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#dedede",
-    "secondaryColor": "#0078ff",
+    "secondaryColor": "#1c44b4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
