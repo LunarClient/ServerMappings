@@ -29,9 +29,8 @@
     ],
     "gameTypes": [
         "EggWars",
-        "Free for All",
-        "Earth",
-        "Practice"
+        "PvP",
+        "Earth"
     ],
     "socials": {
         "twitter": "FearMCGames",
