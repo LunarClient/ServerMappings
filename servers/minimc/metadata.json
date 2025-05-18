@@ -3,7 +3,7 @@
     "name": "minimc",
     "description": "MiniMC the Minecraft Server",
     "addresses": [
-        "gaming.phplabor.dev"
+        "93.128.36.32"
     ],
     "primaryAddress": "gaming.phplabor.dev",
     "minecraftVersions": [
@@ -24,10 +24,7 @@
         "OC"
     ],
     "gameTypes": [
-        "PvP",
-        "Survival",
-        "Open World",
-        "Adventure"
+        "Survival"
     ],
     "website": "https://minimc.azuriom.cloud",
     "crossplay": false
