@@ -3,7 +3,7 @@
     "name": "minimc",
     "description": "MiniMC the Minecraft Server",
     "addresses": [
-        "93.128.36.32"
+        "phplabor.dev"
     ],
     "primaryAddress": "gaming.phplabor.dev",
     "minecraftVersions": [
