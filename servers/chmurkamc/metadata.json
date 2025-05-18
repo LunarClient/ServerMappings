@@ -1,7 +1,7 @@
 {
     "id": "chmurkamc",
     "name": "chmurkamc",
-    "description": "Nowoczesna siec serwerow minecraft",
+    "description": "Nowoczesna sieć serwerów minecraft",
     "addresses": [
         "chmurkamc.pl"
     ],
@@ -17,16 +17,20 @@
     "primaryMinecraftVersion": "1.20.6",
     "primaryColor": "#ff00ff",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "PL",
+    "primaryLanguage": "pl",
     "languages": [
+        "pl"
+    ],
+    "primaryRegion": "PL",
+    "regions": [
         "PL"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
     "gameTypes": [
-        "PvP"
+        "BOXPVP",
+        "LIFESTEAL",
+        "CSGO",
+        "MOBCASH",
+        "KITPVP"
     ],
     "website": "https://chmurkamc.pl/",
     "store": "https://chmurkamc.pl/",
@@ -37,7 +41,7 @@
     },
     "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-        "tiktok": "https://www.tiktok.com/@chmurkamc.pl",
+        "tiktok": "chmurkamc",
         "discord": "https://discord.gg/chmurkamc"
     },
     "crossplay": false
