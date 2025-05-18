@@ -1,0 +1,38 @@
+{
+    "id": "redcraft",
+    "name": "RedCraft Network",
+    "website": "https://web.redcraft.es",
+    "store": "https://tienda.redcraft.es",
+    "addresses": [
+        "mc.redcraft.es",
+        "play.redcraft.es",
+        "redcraft.es"
+    ],
+    "primaryAddress": "redcraft.es",
+    "primaryColor": "#1aa4fa",
+    "secondaryColor": "#a6a6a6",
+    "minecraftVersions": [
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "redcraftes",
+        "discord": "https://discord.com/invite/pmSxmYrR93"
+    }
+}
