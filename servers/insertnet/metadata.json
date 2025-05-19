@@ -1,6 +1,7 @@
 {
     "id": "insertnet",
     "name": "Insert Network",
+    "description": "Practice your skills, and compete with others",
     "store": "https://store.insertnet.eu",
     "addresses": [
         "insertnet.eu"
