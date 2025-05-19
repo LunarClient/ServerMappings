@@ -4,17 +4,13 @@
     "website": "https://web.redcraft.es",
     "store": "https://tienda.redcraft.es",
     "addresses": [
-        "mc.redcraft.es",
-        "play.redcraft.es",
-        "redcraft.es"
+        "redcraft.es",
+        "play.redcraft.es"
     ],
-    "primaryAddress": "redcraft.es",
+    "primaryAddress": "mc.redcraft.es",
     "primaryColor": "#1aa4fa",
     "secondaryColor": "#a6a6a6",
     "minecraftVersions": [
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
