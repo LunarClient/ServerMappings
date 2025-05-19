@@ -4,8 +4,7 @@
     "website": "https://web.redcraft.es",
     "store": "https://tienda.redcraft.es",
     "addresses": [
-        "redcraft.es",
-        "play.redcraft.es"
+        "redcraft.es"
     ],
     "primaryAddress": "mc.redcraft.es",
     "primaryColor": "#1aa4fa",
