@@ -1,7 +1,7 @@
 {
     "id": "chmurkamc",
     "name": "chmurkamc",
-    "description": "Nowoczesna siec serwerow minecraft",
+    "description": "Modern minecraft network",
     "addresses": [
         "chmurkamc.pl"
     ],
@@ -29,13 +29,13 @@
         "PvP"
     ],
     "website": "https://chmurkamc.pl/",
-    "store": "https://chmurkamc.pl/",
+    "store": "https://chmurkamc.pl/shop",
     "compliance": {
         "privacyPolicy": "https://chmurkamc.pl/regulamin",
         "termsOfService": "https://chmurkamc.pl/regulamin",
         "rules": "https://discord.gg/chmurkamc"
     },
-    "presentationVideo": "7EV4cPuJvXE",
+    "presentationVideo": "https://www.youtube.com/watch?v=HOuXXYFQiZM",
     "socials": {
         "tiktok": "@chmurkamc.pl",
         "discord": "https://discord.gg/chmurkamc"
