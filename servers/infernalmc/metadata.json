@@ -1,13 +1,13 @@
 {
-    "id": "catedral",
-    "name": "Catedral Network",
-    "store": "https://store.catedral.rip",
+    "id": "infernalmc",
+    "name": "InfernalMC Network",
+    "store": "https://store.infernalmc.net",
     "description": "PotPvP competitive based server",
     "addresses": [
-        "catedral.rip"
+        "infernalmc.net"
     ],
-    "primaryAddress": "catedral.rip",
-    "primaryColor": "#9900ff",
+    "primaryAddress": "infernalmc.net",
+    "primaryColor": "#005DAB",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*"
@@ -21,6 +21,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://www.catedral.rip/discord"
+        "discord": "https://discord.gg/JGDRRZ2PsR"
     }
 }
