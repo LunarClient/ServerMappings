@@ -5,7 +5,7 @@
     "addresses": [
         "funcube.ovh"
     ],
-    "primaryAddress": "funcube.com",
+    "primaryAddress": "funcube.ovh",
     "minecraftVersions": [
         "1.8.9"
     ],
