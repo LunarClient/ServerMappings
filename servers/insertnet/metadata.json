@@ -3,7 +3,8 @@
     "name": "Insert Network",
     "store": "https://store.insertnet.eu",
     "addresses": [
-        "insertnet.eu"
+        "insertnet.eu",
+        "alt.insertnet.eu"
     ],
     "primaryAddress": "insertnet.eu",
     "primaryColor": "#fb0000",
@@ -11,9 +12,6 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
         "1.18.2"
     ],
     "primaryMinecraftVersion": "1.8.9",
