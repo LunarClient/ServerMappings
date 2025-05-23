@@ -3,8 +3,7 @@
     "name": "Insert Network",
     "store": "https://store.insertnet.eu",
     "addresses": [
-        "insertnet.eu",
-        "alt.insertnet.eu"
+        "insertnet.eu"
     ],
     "primaryAddress": "insertnet.eu",
     "primaryColor": "#fb0000",
