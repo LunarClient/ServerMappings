@@ -3,9 +3,9 @@
     "name": "Clunith Network",
     "store": "https://store.clunith.com/",
     "addresses": [
-        "clunith.com"
+        "clunith.live"
     ],
-    "primaryAddress": "clunith.com",
+    "primaryAddress": "clunith.live",
     "primaryColor": "#43f1f6",
     "secondaryColor": "#dc7eed",
     "minecraftVersions": [
