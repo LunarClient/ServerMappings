@@ -27,9 +27,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-		    "Towny",
-		    "OneBlock",
-        "BoxPvP"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/melonya"
