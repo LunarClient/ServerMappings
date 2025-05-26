@@ -11,9 +11,6 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
         "1.18.2"
     ],
     "primaryMinecraftVersion": "1.8.9",
