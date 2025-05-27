@@ -1,12 +1,12 @@
 {
     "id": "fruitmc",
     "name": "FruitMC",
-    "description": "Nuova OneBlock",
+    "description": "Rompi, costruisci e sopravvivi su OneBlock!",
     "addresses": [
         "fruitmc.it",
         "play.fruitmc.it"
     ],
-    "primaryAddress": "play.fruitmc.it",
+    "primaryAddress": "fruitmc.it",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
