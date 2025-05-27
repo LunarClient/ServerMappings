@@ -3,10 +3,9 @@
     "name": "FruitMC",
     "description": "Rompi, costruisci e sopravvivi su OneBlock!",
     "addresses": [
-        "fruitmc.it",
-        "play.fruitmc.it"
+        "fruitmc.it"
     ],
-    "primaryAddress": "fruitmc.it",
+    "primaryAddress": "play.fruitmc.it",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
@@ -34,8 +33,7 @@
     "store": "https://store.fruitmc.it",
     "compliance": {
         "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
+        "termsOfService": "https://www.lunar.gg/terms"
     },
     "socials": {
         "telegram": "fruitmc",
