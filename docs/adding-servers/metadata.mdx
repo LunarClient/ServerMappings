@@ -22,8 +22,8 @@ Below is a table of the basic fields that are required for your server's metadat
 
 The `addresses` array in each server object is actually an array of IP suffixes. **This should not include the subdomain for the server**.
 
-| ✅ Correct    | ❌ Incorrect        |
-| ------------- | ------------------ |
+| ✅ Correct     | ❌ Incorrect        |
+|---------------|--------------------|
 | `example.com` | `play.example.com` |
 | `hypixel.net` | `play.hypixel.net` |
 | `lunar.gg`    | `eu.lunar.gg`      |
@@ -86,9 +86,18 @@ You can define both `regions` (a list of all the regions your server supports) a
 | OC          | Oceania       |
 | SA          | South America |
 
-### Website/Store/Merch/Wiki
+### Server Links (Website, Store, Wiki, Etc.)
 
-The URLs to your server's website, store, wiki, and/or merch. These should be a valid URLs including their protocols (e.g. `https://`).
+Include the following fields to link to your server's ecosystem.
+
+> Note: Each field must be a valid URL starting with `https://`.
+
+| Key       | Description                           | ✅ Example                    |
+|-----------|---------------------------------------|------------------------------|
+| `website` | A link to your server's main website. | `https://www.lunar.gg/`      |
+| `store`   | A link to your server's store.        | `https://www.lunar.gg/store` |
+| `wiki`    | A link to your server's wiki.         | `https://www.lunar.gg/wiki`  |
+| `merch`   | A link to your server's merch.        | `https://www.lunar.gg/merch` |
 
 ### Socials
 
@@ -118,9 +127,11 @@ Example:
 | ------------------------------------------ | -------------------------------------------- |
 | `https://minecraftservers.org/vote/467177` | `https://minecraftservers.org/server/467177` |
 
-### Compliance
+### Compliance Links
 
 You can provide important legal and community links under the `compliance` key. 
+
+> Note: These URLs must be valid URLs and begin with `https://`. You do **not** need to include all fields, you may provide only the ones you have.
 
 | Field            | Description                               | ✅ Example                      |
 |------------------|-------------------------------------------|--------------------------------|
@@ -128,8 +139,6 @@ You can provide important legal and community links under the `compliance` key.
 | `termsOfService` | A link to your server's terms of service. | `https://www.lunar.gg/terms`   |
 | `rules`          | A link to your server's rules.            | `https://www.lunar.gg/rules`   |
 | `support`        | A link to your server's support page.     | `https://www.lunar.gg/support` |
-
-> Note: These URLs must be valid URLs and begin with `https://`. You do **not** need to include all fields, you may provide only the ones you have.
 
 ### Crossplay
 
