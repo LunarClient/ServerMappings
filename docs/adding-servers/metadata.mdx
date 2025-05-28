@@ -32,7 +32,7 @@ The `primaryAddress` in each server object is for users to connect to your serve
 
 ### Game Types
 
-Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, and `Adventure`.
+Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, `Adventure`, and `Pixelmon`.
 
 You can select up to `3` game types, choose the game types that represent your server the best.
 
@@ -94,15 +94,17 @@ The URLs to your server's website, store, wiki, and/or merch. These should be a 
 
 You can provide any social media links that you would like to be displayed on your server's page. These links will be displayed alongside your server. These should be under the `socials` key. We support the following socials:
 
--   `twitter`
--   `discord`
--   `youtube`
--   `instagram`
--   `twitch`
--   `telegram`
--   `reddit`
--   `tiktok`
--   `facebook`
+| Field       | Expected Format                    | Example                                  |
+|-------------|------------------------------------|------------------------------------------|
+| `twitter`   | Only Username (No @, No URL)       | `LunarClient`                            |
+| `discord`   | Full Invite URL                    | `https://discord.com/invite/LunarClient` |
+| `youtube`   | Channel Name (Include @, No URL)   | `@LunarClient`                           |
+| `instagram` | Only Username (No @, No URL)       | `LunarClient`                            |
+| `twitch`    | Only Username (No @, No URL)       | `LunarClient`                            |
+| `telegram`  | Only Username (No @, No URL)       | `LunarClient`                            |
+| `reddit`    | Only Username (No @, No URL)       | `LunarClient`                            |
+| `tiktok`    | Profile Handle (Include @, No URL) | `@lunarclient`                           |
+| `facebook`  | Only Username (No @, No URL)       | `LunarClientOfficial`                    |
 
 ### Voting Links
 
@@ -115,3 +117,20 @@ Example:
 | ❌ Incorrect                               | ✅ Correct                                   |
 | ------------------------------------------ | -------------------------------------------- |
 | `https://minecraftservers.org/vote/467177` | `https://minecraftservers.org/server/467177` |
+
+### Compliance
+
+You can provide important legal and community links under the `compliance` key. 
+
+| Field            | Description                               | ✅ Example                      |
+|------------------|-------------------------------------------|--------------------------------|
+| `privacyPolicy`  | A link to your server's privacy policy.   | `https://www.lunar.gg/privacy` |
+| `termsOfService` | A link to your server's terms of service. | `https://www.lunar.gg/terms`   |
+| `rules`          | A link to your server's rules.            | `https://www.lunar.gg/rules`   |
+| `support`        | A link to your server's support page.     | `https://www.lunar.gg/support` |
+
+> Note: These URLs must be valid URLs and begin with `https://`. You do **not** need to include all fields, you may provide only the ones you have.
+
+### Crossplay
+
+If your server supports crossplay _(allowing **Minecraft: Bedrock Edition** players to join)_, include the boolean `crossplay` set to `true`.
