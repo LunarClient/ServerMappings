@@ -1,14 +1,14 @@
 {
     "id": "oldestcraft",
-    "name": "OldestCraft",
-    "website": "https://www.oldestcraft.online/",
-    "store": "https://tienda.oldestcraft.online",
+    "name": "OldestCraft Network",
+    "website": "https://oldestcraft.online",
+    "description": "Network is beautifull and more change!",
     "addresses": [
-        "oldestcraft.online",
+        "oldestcraft.online"
     ],
     "primaryAddress": "play.oldestcraft.online",
-    "primaryColor": "#08a4f8",
-    "secondaryColor": "#aade1d",
+    "primaryColor": "#2f7cdb",
+    "secondaryColor": "#e9aa65",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,16 +16,25 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Minigames",
-        "PvP",
-        "Survival"
+        "Survival",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/oldestcraft.online",
-        "youtube": "OldestCraftNews",
+        "discord": "https://discord.gg/af26sDsUtn"
     }
 }
