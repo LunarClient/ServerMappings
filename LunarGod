@@ -1,1 +1,34 @@
-
+{
+    "id": "LunarGod",
+    "name": "LunarGod",
+    "website": "https://lunargod.lat/",
+    "store": "https://tienda.lunargod.lat/",
+    "addresses": [
+        "lunargod.space",
+        "lunargod.lat"
+    ],
+    "primaryAddress": "mc.lunargod.lat",
+    "primaryColor": "#7600ba",
+    "secondaryColor": "#a100ba",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Gens",
+        "Survival",
+        "BoxPvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/HDjCPSpZhE",
+        "youtube": "https://www.youtube.com/@LunarGodNetwork",
+        "tiktok": "@lunargodnw"
+    }
+}
