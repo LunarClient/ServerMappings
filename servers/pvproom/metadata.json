@@ -1,0 +1,26 @@
+{
+    "id": "pvproom",
+    "name": "PvPRoom",
+    "description": "The competitive UHC & Practice Server",
+    "website": "https://pvproom.net/",
+    "store": "https://store.pvproom.net/",
+    "addresses": [
+        "pvproom.net",
+    ],
+    "primaryAddress": "pvproom.net",
+    "primaryColor": "#297d37",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "PvPRoomNET",
+        "discord": "https://discord.gg/pvproom",
+    }
+}
