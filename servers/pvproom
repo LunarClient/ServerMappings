@@ -1,0 +1,31 @@
+{
+    "id": "pvproom",
+    "name": "PvPRoom Network",
+    "website": "https://pvproom.net/",
+    "store": "https://pvproom.net/store",
+    "addresses": [
+        "pvproom.net"
+    ],
+    "primaryAddress": "pvproom.net",
+    "primaryColor": "#23a11f",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+        "1.9.*"
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "PvPRoomNet",
+        "discord": "https://discord.gg/pvproom"
+    }
+}
