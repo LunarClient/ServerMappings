@@ -7,20 +7,14 @@
     ],
     "primaryAddress": "mc.aguilucho.ar",
     "minecraftVersions": [
-        "1.8",
-        "1.9",
-        "1.10",
-        "1.11",
-        "1.12",
-        "1.13",
-        "1.14",
-        "1.15",
-        "1.16",
-        "1.17",
-        "1.18",
-        "1.19",
-        "1.20",
-        "1.21"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.16.5",
     "primaryColor": "#e0be8c",
@@ -36,11 +30,11 @@
     ],
     "crossplay": false,
     "languages": [
-        "es-ES"
+        "es-EM"
     ],
-    "primaryLanguage": "es-ES",
+    "primaryLanguage": "es-EN",
     "website": "https://www.aguilucho.ar/",
     "socials": {
-        "discord": "https://discord.aguilucho.ar"
+        "discord": "https://discord.com/invite/waMta633EK"
     }
 }
