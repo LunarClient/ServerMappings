@@ -6,9 +6,7 @@
     "store": "https://hylex.gg/collections",
     "addresses": [
         "hylex.net",
-        "original.hylex.net",
-        "hylex.gg",
-        "original.hylex.gg"
+        "hylex.gg"
     ],
     "primaryAddress": "hylex.gg",
     "primaryColor": "#1e647d",
@@ -35,7 +33,8 @@
     ],
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "Roleplay"
     ],
     "socials": {
         "twitter": "hylexmc",
