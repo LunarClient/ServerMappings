@@ -2,16 +2,17 @@
     "id": "lookcraft",
     "name": "LookCraft",
     "addresses": [
-        "lookcraft.tk"
+        "lookcraft.net"
     ],
-    "primaryAddress": "lookcraft.tk",
+    "primaryAddress": "lookcraft.net",
     "minecraftVersions": [
         "1.8",
         "1.12",
         "1.16",
         "1.17",
         "1.18",
-        "1.19"
+        "1.19",
+        "1.21"
     ],
     "primaryMinecraftVersion": "1.8",
     "primaryColor": "#969696",
