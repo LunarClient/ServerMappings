@@ -1,0 +1,60 @@
+{
+    "id": "lunarnetwork",
+    "name": "Lunar Network",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "lunargod.lat",
+        "lunargod.space",
+    ],
+    "primaryAddress": "lunargod.lat",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+        "1.9.*"
+        "1.10.*"
+        "1.11.*"
+        "1.12.*"
+        "1.13.*"
+        "1.14.*"
+        "1.15.*"
+        "1.16.*"
+        "1.17.*"
+        "1.18.*"
+        "1.19.*"
+        "1.20.*"
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#7800ff",
+    "secondaryColor": "#d800ff",
+    "primaryLanguage": "es",
+    "languages": [
+        "en"
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.lunargod.lat",
+    "store": "https://tienda.lunargod.lat",
+    "compliance": {
+        "privacyPolicy": "https://www.lunargod.lat/privacy",
+        "termsOfService": "https://www.lunargod.lat/terms",
+        "rules": "https://www.lunargod.lat/reglas"
+    },
+    "presentationVideo": "O_xffAsHSuE?si=HLsJ1FxjXXRnTmys",
+    "socials": {
+        "twitter": "LunarGodNetwork",
+        "telegram": "LunarGodNw",
+        "discord": "https://discord.gg/ZAe4Uuqeke"
+    },
+    "crossplay": true
+}
