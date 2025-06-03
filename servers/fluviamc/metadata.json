@@ -1,7 +1,7 @@
 {
   "id": "fluviamc",
   "name": "FluviaMC",
-  "description": "FluviaMC – a server full of magic! Skygen, Oneblock, Survival, adventures, and rivers full of secrets. Ready to become a hero?",
+  "description": "A world full of magic, secrets, and epic adventures. Ready to become a hero?",
   "addresses": [
     "fluviamc.pl"
   ],
@@ -25,7 +25,7 @@
     "EU"
   ],
   "primaryRegion": "EU",
-  "store": "sklep.fluviamc.pl",
+  "store": "https://sklep.fluviamc.pl",
   "socials": {
     "discord": "https://discord.com/invite/MEChcQ7pQk",
     "tiktok": "@fluviamc"
