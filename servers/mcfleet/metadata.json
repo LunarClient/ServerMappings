@@ -20,7 +20,6 @@
         "discord": "https://discord.gg/mcfleet"
     },
     "gameTypes": [
-        "Bedwars",
         "Survival",
         "Minigames"
     ],
