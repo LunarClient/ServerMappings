@@ -1,6 +1,7 @@
 {
     "id": "craftok",
     "name": "Craftok",
+    "description": "A French Minigames server: BedWars, KitPvP, Ranked Duels & more!",
     "addresses": [
         "craftok.fr",
         "crafttok.fr"
@@ -33,7 +34,7 @@
         "UHC"
     ],
     "website": "https://craftok.fr",
-    "store": "https://shop.craftok.fr",
+    "store": "https://store.craftok.fr",
     "socials": {
         "twitter": "CraftokMC",
         "youtube": "craftokmc",

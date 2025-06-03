@@ -1,7 +1,7 @@
 {
     "id": "boxpvpp",
     "name": "BoxPvP",
-    "description": "Competitive minecraft elytrapvp server.",
+    "description": "Competitive minecraft boxpvp server.",
     "addresses": [
         "boxpvp.cc"
     ],
@@ -31,7 +31,7 @@
     ],
     "store": "https://boxpvpp.tebex.io",
     "socials": {
-        "twitter": "BackGuards",
+        "twitter": "BoxPvPcc",
         "discord": "https://discord.gg/nRq77GRqZP"
     },
     "crossplay": true

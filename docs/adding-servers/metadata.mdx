@@ -22,8 +22,8 @@ Below is a table of the basic fields that are required for your server's metadat
 
 The `addresses` array in each server object is actually an array of IP suffixes. **This should not include the subdomain for the server**.
 
-| ✅ Correct    | ❌ Incorrect        |
-| ------------- | ------------------ |
+| ✅ Correct     | ❌ Incorrect        |
+|---------------|--------------------|
 | `example.com` | `play.example.com` |
 | `hypixel.net` | `play.hypixel.net` |
 | `lunar.gg`    | `eu.lunar.gg`      |
@@ -32,7 +32,7 @@ The `primaryAddress` in each server object is for users to connect to your serve
 
 ### Game Types
 
-Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, and `Adventure`.
+Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, `Adventure`, and `Pixelmon`.
 
 You can select up to `3` game types, choose the game types that represent your server the best.
 
@@ -40,15 +40,15 @@ You can select up to `3` game types, choose the game types that represent your s
 
 Each server must have a `primaryColor` and `secondaryColor`. These colors should represent the brand of your server. These colors must be in hexadecimal format, and must be prefixed with a `#`.
 
-## Optional Fields
-
-> While these fields are not required, they are highly recommended. Enriched servers are more likely to be utilized when being displayed.
-
 ### Minecraft Versions
 
 The `minecraftVersions` field must be an array of client versions allowed on your Minecraft server. _(ie. 1.18.1, 1.19.2)_; The `primaryMinecraftVersion` field must be a subversion of a major version included in the `minecraftVersions` array.
 
 **The versions you include must be versions that are directly offered in Lunar Client, which can be found in the version selector of the Lunar Client Launcher.**
+
+## Optional Fields
+
+> While these fields are not required, they are highly recommended. Enriched servers are more likely to be utilized when being displayed.
 
 ### Languages
 
@@ -86,23 +86,34 @@ You can define both `regions` (a list of all the regions your server supports) a
 | OC          | Oceania       |
 | SA          | South America |
 
-### Website/Store/Merch/Wiki
+### Server Links (Website, Store, Wiki, Etc.)
 
-The URLs to your server's website, store, wiki, and/or merch. These should be a valid URLs including their protocols (e.g. `https://`).
+Include the following fields to link to your server's ecosystem.
+
+> Note: Each field must be a valid URL starting with `https://`.
+
+| Field     | Description                           | ✅ Example                    |
+|-----------|---------------------------------------|------------------------------|
+| `website` | A link to your server's main website. | `https://www.lunar.gg/`      |
+| `store`   | A link to your server's store.        | `https://www.lunar.gg/store` |
+| `wiki`    | A link to your server's wiki.         | `https://www.lunar.gg/wiki`  |
+| `merch`   | A link to your server's merch.        | `https://www.lunar.gg/merch` |
 
 ### Socials
 
 You can provide any social media links that you would like to be displayed on your server's page. These links will be displayed alongside your server. These should be under the `socials` key. We support the following socials:
 
--   `twitter`
--   `discord`
--   `youtube`
--   `instagram`
--   `twitch`
--   `telegram`
--   `reddit`
--   `tiktok`
--   `facebook`
+| Field       | Expected Format                    | Example                                  |
+|-------------|------------------------------------|------------------------------------------|
+| `twitter`   | Only Username (No @, No URL)       | `LunarClient`                            |
+| `discord`   | Full Invite URL                    | `https://discord.com/invite/LunarClient` |
+| `youtube`   | Channel Name (Include @, No URL)   | `@LunarClient`                           |
+| `instagram` | Only Username (No @, No URL)       | `LunarClient`                            |
+| `twitch`    | Only Username (No @, No URL)       | `LunarClient`                            |
+| `telegram`  | Only Username (No @, No URL)       | `LunarClient`                            |
+| `reddit`    | Only Username (No @, No URL)       | `LunarClient`                            |
+| `tiktok`    | Profile Handle (Include @, No URL) | `@lunarclient`                           |
+| `facebook`  | Only Username (No @, No URL)       | `LunarClientOfficial`                    |
 
 ### Voting Links
 
@@ -115,3 +126,20 @@ Example:
 | ❌ Incorrect                               | ✅ Correct                                   |
 | ------------------------------------------ | -------------------------------------------- |
 | `https://minecraftservers.org/vote/467177` | `https://minecraftservers.org/server/467177` |
+
+### Compliance Links
+
+You can provide important legal and community links under the `compliance` key. 
+
+> Note: These URLs must be valid URLs and begin with `https://`. You do **not** need to include all fields, you may provide only the ones you have.
+
+| Field            | Description                               | ✅ Example                      |
+|------------------|-------------------------------------------|--------------------------------|
+| `privacyPolicy`  | A link to your server's privacy policy.   | `https://www.lunar.gg/privacy` |
+| `termsOfService` | A link to your server's terms of service. | `https://www.lunar.gg/terms`   |
+| `rules`          | A link to your server's rules.            | `https://www.lunar.gg/rules`   |
+| `support`        | A link to your server's support page.     | `https://www.lunar.gg/support` |
+
+### Crossplay
+
+If your server supports crossplay _(allowing **Minecraft: Bedrock Edition** players to join)_, include the boolean `crossplay` set to `true`.
