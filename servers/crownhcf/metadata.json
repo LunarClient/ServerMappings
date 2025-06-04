@@ -5,7 +5,7 @@
     "store": "https://store.crownhcf.com/",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "play.crownhcf.com"
+        "crownhcf.com"
     ],
     "primaryAddress": "crownhcf.com",
     "minecraftVersions": [
