@@ -1,0 +1,73 @@
+{
+  "id": "europemc",
+  "name": "EuropeMC",
+  "description": "The BIGGEST european crystal-pvp server! Available on Java & Bedrock",
+  "addresses": [
+    "europemc.eu"
+  ],
+  "primaryAddress": "europemc.eu",
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Open World"
+  ],
+  "primaryColor": "#51A3E5",
+  "secondaryColor": "#79B4E4",
+  "minecraftVersions": [
+    "1.17.1",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://store.europemc.eu",
+  "store": "https://store.europemc.eu",
+  "socials": {
+    "discord": "https://discord.gg/europemc",
+    "youtube": "@pirdmc",
+    "tiktok": "@pirdmc"
+  },
+  "compliance": {
+    "privacyPolicy": "https://discord.gg/europemc",
+    "termsOfService": "https://discord.gg/europemc",
+    "rules": "https://discord.gg/europemc",
+    "support": "https://discord.gg/europemc"
+  },
+  "crossplay": true,
+  "tebexStore": {
+    "background": {
+      "lowerColor": "#51A3E5",
+      "upperColor": "#72AFDF"
+    }
+  }
+}
