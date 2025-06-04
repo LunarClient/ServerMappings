@@ -1,0 +1,43 @@
+{
+    "id": "lunarnetwork",
+    "name": "Lunar Network",
+    "website": "https://www.crownhcf.com/",
+    "store": "https://store.crownhcf.com/",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "play.crownhcf.com",
+        "synco.crownhcf.com"
+    ],
+    "primaryAddress": "play.crownhcf.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://crownhcf.com/discord"
+    },
+    "compliance": {
+        "rules": "https://www.crownhcf.com/rules"
+    }
+}
