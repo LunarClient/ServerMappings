@@ -33,12 +33,12 @@
     "gameTypes": [
         "Prison",
         "Factions",
-        "RankUP PvP"
+        "PvP"
     ],
     "socials": {
         "twitter": "redefantasy",
         "discord": "https://discord.gg/yMJX4uaKsC",
-        "tiktok": "redefantasyoficial"
+        "tiktok": "@redefantasyoficial"
     },
     "crossplay": true
 }
