@@ -1,7 +1,6 @@
 {
   "id": "winerecia",
   "name": "Winerecia",
-  "description": "Винный политический сервер",
   "website": "https://winerecia.fun/",
   "store": "https://winerecia.easydonate.ru",
   "addresses": [
@@ -22,9 +21,6 @@
   "primaryRegion": "NA",
   "regions": [
     "EU"
-  ],
-  "languages": [
-    "ru"
   ],
   "gameTypes": [
     "Survival",
