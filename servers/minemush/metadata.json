@@ -1,0 +1,64 @@
+{
+    "id": "minemush",
+    "name": "Mine Mush Network",
+    "description": "Domina las modalidades",
+    "addresses": [
+        "minemush.net",
+        "minemush.org",
+        "minemush.info",
+        "minemush.com",
+        "minemush.cloud",
+        "minemush.online"
+    ],
+    "primaryAddress": "minemush.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#ff9700",
+    "secondaryColor": "#ff3600",
+    "primaryLanguage": "es",
+    "languages": [
+        "en",
+        "es"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.minemush.net",
+    "store": "https://tienda.minemush.net",
+    "compliance": {
+        "privacyPolicy": "https://www.minemush.com/privacy",
+        "termsOfService": "https://www.minemush.com/terms",
+        "rules": "https://www.minemush.com/rules"
+    },
+    "presentationVideo": "O_xffAsHSuE?si=HLsJ1FxjXXRnTmys",
+    "socials": {
+        "twitter": "MineMushNw",
+        "telegram": "MineMushNw",
+        "discord": "https://discord.minemush.com"
+    },
+    "crossplay": true
+}
