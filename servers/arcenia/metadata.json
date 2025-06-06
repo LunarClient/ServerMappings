@@ -1,0 +1,44 @@
+{
+    "id": "arcenia",
+    "name": "Arcenia",
+    "description": "Kalitenin Nirvanası",
+    "addresses": [
+        "play.arcenia.net",
+        "mc.arcenia.net",
+        "oyna.arcenia.net"
+    ],
+    "primaryAddress": "play.arcenia.net",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryColor": "#8f4cf5",
+    "secondaryColor": "#a376e8",
+    "primaryLanguage": "tr",
+    "languages": [
+        "en",
+        "tr"
+    ],
+    "primaryRegion": "TR",
+    "regions": [
+        "TR",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.arcenia.net",
+    "store": "https://arcenia.net/magaza",
+    "compliance": {
+        "privacyPolicy": "https://arcenia.net/gizlilik-sozlesmesi",
+        "termsOfService": "https://arcenia.net/gizlilik-sozlesmesi",
+        "rules": "https://arcenia.net/kurallar"
+    },
+    "socials": {
+        "twitter": "Arcenianet",
+        "telegram": "lunarnetwork",
+        "discord": "https://discord.arcenia.net"
+    },
+    "crossplay": false
+}
