@@ -5,7 +5,8 @@
     "store": "https://store.boatosta.net/",
     "description": "Join BoaTosta Network: build, explore, play and have fun with us!",
     "addresses": [
-        "boatosta.net"
+        "boatosta.net",
+        "tostamc.it"
     ],
     "primaryAddress": "play.boatosta.net",
     "primaryColor": "#5DD420",
