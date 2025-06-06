@@ -3,13 +3,16 @@
     "name": "Arcenia",
     "description": "Kalitenin Nirvanası",
     "addresses": [
+        "arcenia.net",
         "play.arcenia.net",
         "mc.arcenia.net",
         "oyna.arcenia.net"
     ],
-    "primaryAddress": "play.arcenia.net",
+    "primaryAddress": "arcenia.net",
     "minecraftVersions": [
         "1.16.5",
+        "1.17.*",
+        "1.18.*",
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
