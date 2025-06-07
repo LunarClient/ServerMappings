@@ -18,6 +18,8 @@
         "EU"
     ],
     "gameTypes": [
+        "CityBuild",
+        "PVP",
         "Survival"
     ]
 }
