@@ -4,7 +4,7 @@
     "website": "https://mcshock.fun/",
     "description": "Vara incepe cu noi!",
     "addresses": [
-        "play.mcshock.fun"
+        "mcshock.fun"
     ],
     "primaryAddress": "play.mcshock.fun",
     "primaryColor": "#D2042D",
@@ -20,17 +20,16 @@
     "primaryMinecraftVersion": "1.21",
     "primaryRegion": "EU",
     "regions": [
-        "RO"
+        "EU"
     ],
     "gameTypes": [
         "Minigames",
         "PvP",
-        "Survival",
-        "Boxpvp"
+        "Survival"
     ],
     "socials": {
-        "discord": "https://discord.mcshock.fun/",
-        "instagram": "@mcshock_",
-        "tiktok": "@play.mcshock.fun"
+        "discord": "discord.mcshock.com",
+        "instagram": "mcshock_",
+        "tiktok": "play.mcshock.fun"
     }
 }
