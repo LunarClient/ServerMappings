@@ -18,8 +18,7 @@
         "EU"
     ],
     "gameTypes": [
-        "CityBuild",
-        "PVP",
+        "Minigames",
         "Survival"
     ]
 }
