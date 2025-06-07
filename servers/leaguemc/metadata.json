@@ -1,0 +1,38 @@
+{
+    "id": "leaguemc",
+    "name": "LeagueMC",
+    "description": "Formed by passionate players who venture into Minigames!",
+    "website": "https://leaguemc.club/",
+    "store": "https://loja.leaguemc.club",
+    "addresses": [
+        "leaguemc.club"
+    ],
+    "primaryAddress": "leaguemc.club",
+    "primaryColor": "#e81713",
+    "secondaryColor": "#050001",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "",
+        "discord": "https://discord.gg/bgn8dPPq3g",
+        "youtube": "",
+        "instagram": "",
+        "tiktok": "",
+        "twitch": ""
+    },
+    "crossplay": true
+}
