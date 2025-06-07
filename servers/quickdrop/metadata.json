@@ -1,0 +1,34 @@
+{
+    "id": "quickdrop",
+    "name": "Quickdrop",
+    "website": "https://www.quickdrop.gg/",
+    "store": "https://store.quickdrop.gg/",
+    "description": "Your home for KitPvP. Powered by MCTeams.",
+    "addresses": [
+        "quickdrop.gg"
+    ],
+    "primaryAddress": "quickdrop.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ffdf36",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "quickdropgg",
+        "discord": "https://discord.gg/quickdrop",
+        "telegram": "mcteamsnews"
+    }
+}

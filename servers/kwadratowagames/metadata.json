@@ -1,0 +1,26 @@
+{
+    "id": "kwadratowagames",
+    "name": "Kwadratowa Games",
+    "website": "https://kwadratowa.games/",
+    "store": "https://kwadratowa.games/sklep",
+    "addresses": [
+        "kwadratowa.games"
+    ],
+    "primaryAddress": "kwadratowa.games",
+    "primaryColor": "#003244",
+    "secondaryColor": "#ffffff",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "KwadratowaTV",
+        "discord": "https://discord.com/invite/3DB8U7k",
+        "youtube": "UCdRFDT-UQ5uqEJ7XLpI8lHg",
+        "instagram": "kmasakra",
+        "twitch": "kwadratowamasakra",
+        "tiktok": "kwadratowa.games",
+        "facebook": "kmasakra"
+    }
+}

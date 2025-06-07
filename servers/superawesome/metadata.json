@@ -1,0 +1,33 @@
+{
+    "id": "superawesome",
+    "name": "SuperAwesome",
+    "website": "https://superawesome.dk/",
+    "store": "https://superawesome.dk/#butik",
+    "addresses": [
+        "superawesome.dk"
+    ],
+    "primaryAddress": "superawesome.dk",
+    "primaryColor": "#d9d19e",
+    "secondaryColor": "#4d311e",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/superawesome"
+    }
+}

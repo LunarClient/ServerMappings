@@ -1,0 +1,28 @@
+{
+    "id": "dosenetwork",
+    "name": "Dose Network",
+    "website": "https://cafe.naver.com/doseonline",
+    "addresses": [
+        "dose.kr"
+    ],
+    "primaryAddress": "dose.kr",
+    "primaryColor": "#ffa000",
+    "secondaryColor": "#ff4d00",
+    "minecraftVersions": [
+        "1.12.2"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9uJwG7h",
+        "youtube": "UCj0Ft4lCUQQWslXWX7KoOjg",
+        "instagram": "official_doseonline"
+    }
+}

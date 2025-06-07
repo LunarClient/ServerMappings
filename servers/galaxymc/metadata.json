@@ -1,0 +1,35 @@
+{
+    "id": "galaxymc",
+    "name": "GalaxyMC",
+    "store": "https://galaxymc.buycraft.net/",
+    "description": "NetWork of SurvivalOP.",
+    "addresses": [
+        "galaxymc.pro"
+    ],
+    "primaryAddress": "play.galaxymc.pro",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/YJTkr7zZzb/"
+    }
+}

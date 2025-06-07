@@ -1,0 +1,47 @@
+{
+    "id": "shinymc",
+    "name": "Shiny MC",
+    "description": "By and for Europeans",
+    "addresses": [
+        "shiny-mc.eu",
+        "shiny-mc.org"
+    ],
+    "primaryAddress": "shiny-mc.eu",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryColor": "#ffca66",
+    "secondaryColor": "#ffba37",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Factions",
+        "Minigames"
+    ],
+    "website": "https://www.shiny-mc.org",
+    "store": "https://shiny-mc.org/store",
+    "compliance": {
+        "privacyPolicy": "https://shiny-mc.org/privacy/",
+        "termsOfService": "https://shiny-mc.org/terms/",
+        "rules": "https://shiny-mc.org/rules/"
+    },
+    "presentationVideo": "pJqojUlExwQ",
+    "socials": {
+        "instagram": "shiny.mc",
+        "youtube": "@shinymc-eu",
+        "discord": "https://discord.gg/EMDz7ykBtC"
+    },
+    "crossplay": false
+}

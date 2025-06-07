@@ -1,0 +1,39 @@
+{
+    "id": "mineberryv2",
+    "name": "Mineberry V2",
+    "website": "https://mineberry.fr/",
+    "store": "https://store.mineberry.fr/",
+    "description": "A French factions server offering battles, exploration, and special events.",
+    "addresses": [
+        "mineberry.fr"
+    ],
+    "primaryAddress": "play.mineberry.fr",
+    "primaryColor": "#ffeb3d",
+    "secondaryColor": "#eeb87a",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "MineBerryV2",
+        "youtube": "@MineBerryV2",
+        "discord": "https://discord.com/invite/mineberry"
+    },
+    "compliance": {
+        "rules": "https://mineberry.fr/reglement"
+    },
+    "presentationVideo": "B4q5DOsAkeY"
+}

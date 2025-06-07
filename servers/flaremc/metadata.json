@@ -1,0 +1,31 @@
+{
+    "id": "flaremc",
+    "name": "FlareMC",
+    "store": "https://store.flaremc.org/",
+    "addresses": [
+        "flaremc.org",
+        "vflnetwork.com"
+    ],
+    "primaryAddress": "play.flaremc.org",
+    "primaryColor": "#f8cd0a",
+    "secondaryColor": "#e65701",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "FlareMC",
+        "discord": "https://discord.com/invite/PYe7xwyUr7"
+    }
+}

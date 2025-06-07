@@ -1,0 +1,26 @@
+{
+    "id": "skyservers",
+    "name": "SkyServers",
+    "website": "https://www.skyservers.net/",
+    "store": "https://www.skyservers.net/survivalshop",
+    "addresses": [
+        "sky-mc.net"
+    ],
+    "primaryAddress": "sky-mc.net",
+    "primaryColor": "#0071d4",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "SkyServerMinecr",
+        "discord": "https://discord.com/invite/m34FZpFd",
+        "youtube": "UCGYMzjCIziTNhzv186HD4FQ",
+        "instagram": "skyservers",
+        "facebook": "skyserversmc"
+    }
+}

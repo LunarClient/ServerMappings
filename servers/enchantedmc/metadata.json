@@ -1,0 +1,36 @@
+{
+    "id": "enchantedmc",
+    "name": "EnchantedMC",
+    "website": "http://www.enchantedmc.net/",
+    "store": "https://store.enchantedmc.net/",
+    "description": "Enchanted network with custom textured Skyblock, Prison, and Gens.",
+    "addresses": [
+        "enchantedmc.net"
+    ],
+    "primaryAddress": "play.enchantedmc.net",
+    "primaryColor": "#f75ab9",
+    "secondaryColor": "#e2c50c",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "EnchantedHQ",
+        "discord": "http://discord.gg/enchantedmc"
+    }
+}

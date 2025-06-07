@@ -1,0 +1,28 @@
+{
+    "id": "xenyria",
+    "name": "Xenyria",
+    "website": "https://xenyria.net/",
+    "addresses": [
+        "xenyria.net"
+    ],
+    "primaryAddress": "xenyria.net",
+    "primaryColor": "#4dea22",
+    "secondaryColor": "#0b220d",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "xenyria",
+        "discord": "https://discord.gg/xenyria",
+        "youtube": "XenyriaServerSoundtrack"
+    }
+}

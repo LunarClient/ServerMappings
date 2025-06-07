@@ -1,0 +1,35 @@
+{
+    "id": "pvplab",
+    "name": "PvPLabs",
+    "website": "https://pvplab.org/",
+    "store": "https://store.pvplab.org/",
+    "addresses": [
+        "pvplab.org"
+    ],
+    "primaryAddress": "mc.pvplab.org",
+    "primaryColor": "#3ddff8",
+    "secondaryColor": "#6a7274",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "mcpvplab",
+        "discord": "https://discord.com/invite/pvplabs",
+        "youtube": "pvplabs"
+    }
+}

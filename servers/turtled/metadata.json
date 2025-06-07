@@ -1,0 +1,32 @@
+{
+  "id": "turtled",
+  "name": "turtled",
+  "description": "A Minecraft PvP Practice server!",
+  "addresses": [
+    "turtled.net"
+  ],
+  "primaryAddress": "eu.turtled.net",
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryColor": "#96f916",
+  "secondaryColor": "#27dcc4",
+  "minecraftVersions": [
+    "1.19",
+    "1.20"
+  ],
+  "primaryMinecraftVersion": "1.20",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://turtled.net",
+  "store": "https://turtled.net/store",
+  "socials": {
+    "discord": "https://discord.com/invite/TmC9WcQR5f"
+  }
+}

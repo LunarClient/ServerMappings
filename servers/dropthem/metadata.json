@@ -1,0 +1,10 @@
+{
+    "id": "dropthem",
+    "name": "Dropthem Network",
+    "store": "https://store.dropthem.eu/",
+    "addresses": [
+        "dropthem.eu"
+    ],
+    "primaryColor": "#0666af",
+    "secondaryColor": "#000000"
+}

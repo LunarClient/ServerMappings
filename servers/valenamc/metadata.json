@@ -1,0 +1,31 @@
+{
+    "id": "valenamc",
+    "name": "ValenaMC",
+    "store": "https://store.valenamc.net/",
+    "addresses": [
+        "valenamc.net"
+    ],
+    "primaryAddress": "play.valenamc.net",
+    "primaryColor": "#28c607",
+    "secondaryColor": "#aeb7b7",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "http://discord.gg/valenamc"
+    }
+}

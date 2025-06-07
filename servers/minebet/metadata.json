@@ -1,0 +1,28 @@
+{
+    "id": "minebet",
+    "name": "MineBet",
+    "website": "https://minebet.net/",
+    "store": "https://store.minebet.net/",
+    "addresses": [
+        "minebet.net"
+    ],
+    "primaryAddress": "minebet.net",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffff55",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Practice"
+    ],
+    "socials": {
+        "twitter": "MineBetNET",
+        "discord": "https://discord.com/invite/bkRxY788",
+    }
+}

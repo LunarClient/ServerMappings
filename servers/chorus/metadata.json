@@ -1,0 +1,28 @@
+{
+    "id": "chorus",
+    "name": "Chorus",
+    "website": "https://chorus.hu/",
+    "addresses": [
+        "chorus.hu",
+        "chorus.wtf"
+    ],
+    "primaryAddress": "play.chorus.hu",
+    "primaryColor": "#d276ff",
+    "secondaryColor": "#d276ff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/e6KPCY7M7w"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "stew",
+    "name": "Stew",
+    "website": "https://stew.rip/",
+    "store": "https://store.stew.rip",
+    "addresses": [
+        "stew.rip"
+    ],
+    "primaryAddress": "stew.rip",
+    "primaryColor": "#ecb845",
+    "secondaryColor": "#522e23",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP"
+    ]
+}

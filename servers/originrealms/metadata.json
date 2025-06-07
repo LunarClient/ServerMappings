@@ -1,0 +1,28 @@
+{
+    "id": "originrealms",
+    "name": "Origin Realms",
+    "website": "https://originrealms.com/",
+    "store": "https://store.originrealms.com/",
+    "primaryAddress": "play.originrealms.com",
+    "addresses": [
+        "originrealms.com"
+    ],
+    "primaryAddress": "originrealms.com",
+    "primaryColor": "#e47a14",
+    "secondaryColor": "#c0b5b2",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "gameTypes": [
+        "Hardcore"
+    ],
+    "socials": {
+        "twitter": "originrealms",
+        "discord": "https://discord.com/invite/originrealms",
+        "youtube": "UCNh6mNB2NNzzlF2S3dn9Nxg",
+        "instagram": "originrealms",
+        "reddit": "OriginRealms"
+    }
+}

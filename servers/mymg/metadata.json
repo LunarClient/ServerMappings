@@ -1,0 +1,40 @@
+{
+    "id": "mymg",
+    "name": "MyMg Network",
+    "website": "https://mymg.pl/",
+    "store": "https://mymg.pl/sklep/",
+    "addresses": [
+        "mymg.pl",
+        "lecraft.pl"
+    ],
+    "primaryAddress": "lecraft.pl",
+    "primaryColor": "#9370e7",
+    "secondaryColor": "#6432dc",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Minigames",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/EzXCeaj68k",
+        "facebook": "mckingpl"
+    }
+}

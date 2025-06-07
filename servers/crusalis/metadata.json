@@ -1,0 +1,26 @@
+{
+    "id": "crusalis",
+    "name": "Crusalis",
+    "website": "https://crusalis.net/",
+    "store": "https://shop.crusalis.net/",
+    "addresses": [
+        "crusalis.net"
+    ],
+    "primaryAddress": "crusalis.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.19.3"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/crusalis"
+    }
+}

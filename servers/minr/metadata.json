@@ -1,0 +1,29 @@
+{
+    "id": "minr",
+    "name": "Minr.org",
+    "website": "https://minr.org/",
+    "store": "https://forums.minr.org/pages/merch/",
+    "addresses": [
+        "minr.org"
+    ],
+    "primaryAddress": "zero.minr.org",
+    "primaryColor": "#7fd5e0",
+    "secondaryColor": "#665855",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/013v9n9WAQTJ6RQD9",
+        "youtube": "UCbCUDbFarGIfO_zO9kerH9g",
+        "reddit": "Minr"
+    }
+}

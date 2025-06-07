@@ -1,0 +1,34 @@
+{
+    "id": "skycraft",
+    "name": "Skycraft",
+    "website": "http://skycraft.es/",
+    "store": "https://store.skycraft.es/",
+    "addresses": [
+        "skycraft.es"
+    ],
+    "primaryAddress": "skycraft.es",
+    "primaryColor": "#f7f7f7",
+    "secondaryColor": "#181818",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "SkyCraftES",
+        "discord": "https://discord.com/invite/4qAD3fu2"
+    }
+}

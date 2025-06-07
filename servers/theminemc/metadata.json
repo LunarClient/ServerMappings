@@ -1,0 +1,31 @@
+{
+    "id": "theminemc",
+    "name": "TheMineMC",
+    "store": "https://theminemc.tebex.io",
+    "description": "A Minecraft Tycoon Server",
+    "addresses": [
+        "theminemc.net"
+    ],
+    "primaryAddress": "play.theminemc.net",
+    "primaryColor": "#38B3FF",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/4M3EzjwBASR",
+        "twitter": "theminemc",
+        "youtube": "mrminecodes"
+    }
+}

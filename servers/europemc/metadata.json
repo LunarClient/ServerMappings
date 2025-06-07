@@ -1,0 +1,36 @@
+{
+    "id": "europemc",
+    "name": "EuropeMC",
+    "store": "https://store.europemc.eu/",
+    "description": "Play on EuropeMC for Survival, Events & Competitive PvP!",
+    "addresses": [
+        "europemc.eu"
+    ],
+    "primaryAddress": "europemc.eu",
+    "primaryColor": "#4cb5f6",
+    "secondaryColor": "#011c47",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/europemc"
+    }
+}

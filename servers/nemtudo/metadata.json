@@ -1,0 +1,38 @@
+{
+    "id": "nemtudo",
+    "name": "Nem Tudo",
+    "description": "Custom survival with police, custom craft and events with 100 players on stream",
+    "addresses": [
+        "nemtudo.me"
+    ],
+    "primaryAddress": "nemtudo.me",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryColor": "#3e9ef7",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://nemtudo.me",
+    "store": "https://loja.nemtudo.me",
+    "socials": {
+        "discord": "https://discord.gg/XF7Yd7P3zP"
+    },
+    "crossplay": false
+}
