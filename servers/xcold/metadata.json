@@ -1,6 +1,7 @@
 { 
     "id": "xcold",
     "name": "XCOLD",
+    "website": "xcold.org",
     "store": "https://store.xcold.net",
     "addresses": [
         "xcold.net"
