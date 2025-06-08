@@ -1,0 +1,31 @@
+{
+    "id": "splindux",
+    "name": "Splindux",
+    "website": "https://www.splindux.com/",
+    "store": "https://splinduxstore.buycraft.net/",
+    "description": "Spleef server",
+    "addresses": [
+        "splindux.net"
+    ],
+    "primaryAddress": "splindux.net",
+    "primaryMinecraftVersion": "1.20.1",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryRegion": "NA",
+    "regions": [    
+        "NA"
+    ],
+    "primaryColor": "#f7cc05",
+    "secondaryColor": "#71faee",
+    "socials": {
+        "discord": "https://discord.gg/XYw6zqmcqc",
+        "instagram": "splindux",
+        "twitter": "splinduxserver"
+    },
+    "gameTypes": [
+        "Minigames"
+    ],
+    "crossplay": true
+}
