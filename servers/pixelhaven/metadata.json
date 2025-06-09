@@ -4,7 +4,8 @@
     "website": "https://pixelhaven.pro/",
     "store": "https://pixelhaven.pro/",
     "addresses": [
-        "pixelhaven.pro"
+        "pixelhaven.pro",
+        "91.238.123.20"
     ],
     "primaryAddress": "mc.pixelhaven.pro",
     "primaryColor": "#00FF26",
