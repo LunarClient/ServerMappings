@@ -16,7 +16,8 @@
   "minecraftVersions": [
     "1.16.5",
     "1.20",
-    "1.21"
+    "1.21",
+    "1.21.4"
   ],
   "primaryMinecraftVersion": "1.21.4",
   "languages": [
