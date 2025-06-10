@@ -31,17 +31,5 @@
   "socials": {
     "discord": "https://discord.gg/esvAQVkd"
   },
-  "compliance": {
-    "privacyPolicy": "https://discord.gg/YxzQwfBg9P",
-    "termsOfService": "https://discord.gg/YxzQwfBg9P",
-    "rules": "https://discord.gg/YxzQwfBg9P",
-    "support": "https://discord.gg/YxzQwfBg9P"
-  },
-  "crossplay": true,
-  "tebexStore": {
-    "background": {
-      "lowerColor": "#3BAEFF",
-      "upperColor": "#FFFFFF"
-    }
-  }
+  "crossplay": true
 }
