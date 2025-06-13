@@ -1,6 +1,7 @@
 {
     "id": "stray",
     "name": "Stray PvP",
+    "description": "Stray PvP is a competitive modern Minecraft PvP network.",
     "store": "https://store.stray.gg/",
     "addresses": [
         "stray.gg"
