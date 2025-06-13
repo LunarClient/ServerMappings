@@ -1,0 +1,69 @@
+{
+  "id": "meltdownpvpnetwork",
+  "name": "MeltdownPvP Network",
+  "description": "Join MeltdownPvP on Lunar Client! Compete in PvP, Survival & more!",
+  "addresses": [
+    "meltdownpvp.com"
+  ],
+  "primaryAddress": "mc.meltdownpvp.com",
+  "gameTypes": [
+    "PvP",
+    "Factions",
+    "Survival"
+  ],
+  "primaryColor": "#3A174D",
+  "secondaryColor": "#2D0542",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.12.2",
+    "1.16.5",
+    "1.17.1",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryLanguage": "es-EN",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "primaryRegion": "NA",
+  "store": "https://meltdownpvp.buycraft.net/",
+  "socials": {
+    "discord": "https://discord.gg/M3D9RCekjJ",
+    "twitter": "MeltdownPvP",
+    "youtube": "meltdownpvpnetwork",
+    "instagram": "meltdownpvpnetwork",
+    "twitch": "meltdownpvpnetwork",
+    "tiktok": "@meltdownnetwork"
+  },
+  "votingLinks": [
+    "https://minecraftservers.org/server/675134"
+  ],
+  "tebexStore": {
+    "background": {
+      "lowerColor": "#3A174D",
+      "upperColor": "#2F0944"
+    }
+  }
+}
