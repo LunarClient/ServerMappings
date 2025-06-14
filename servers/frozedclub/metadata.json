@@ -1,8 +1,17 @@
 {
     "id": "frozedclub",
     "name": "Frozed Club",
+    "website": "https://frozed.club/",
+    "store": "https://store.frozed.club/",
     "addresses": [
         "elb1to.me",
         "frozed.club"
-    ]
+    ],
+    "primaryAddress": "frozed.club",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff",
+    "socials": {
+        "twitter": "FrozedClubGames",
+        "discord": "https://discord.com/invite/dCrQmcn83D"
+    }
 }

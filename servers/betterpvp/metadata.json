@@ -3,5 +3,7 @@
     "name": "BetterPvP",
     "addresses": [
         "betterpvp.pl"
-    ]
+    ],
+    "primaryColor": "#c83df3",
+    "secondaryColor": "#040406"
 }

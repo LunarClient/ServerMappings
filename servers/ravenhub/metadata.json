@@ -3,5 +3,7 @@
     "name": "RavenHub",
     "addresses": [
         "ravenhub.net"
-    ]
+    ],
+    "primaryColor": "#7e2cd4",
+    "secondaryColor": "#040016"
 }

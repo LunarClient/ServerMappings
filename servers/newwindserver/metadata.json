@@ -1,0 +1,27 @@
+{
+    "id": "newwindserver",
+    "name": "NewWind Server",
+    "website": "https://newwindserver.com/",
+    "store": "https://store.newwindserver.com/",
+    "addresses": [
+        "newwindserver.com"
+    ],
+    "primaryAddress": "play.newwindserver.com",
+    "primaryColor": "#f4f4f4",
+    "secondaryColor": "#0c0c0c",
+    "minecraftVersions": [
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/newwind-593948695804772352"
+    }
+}

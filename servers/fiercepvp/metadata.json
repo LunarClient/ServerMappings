@@ -1,0 +1,34 @@
+{
+    "id": "fiercepvp",
+    "name": "FiercePvP",
+    "website": "https://fiercepvp.net",
+    "store": "https://store.fiercepvp.net",
+    "description": "Welcome to the wild and amazing world of FiercePvP.",
+    "addresses": [
+        "fiercepvp.net"
+    ],
+    "primaryAddress": "fiercepvp.net",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "FiercePvP_NET",
+        "discord": "https://discord.com/invite/K7ADJS6JnK"
+    }
+}

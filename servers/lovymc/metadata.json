@@ -1,7 +1,30 @@
 {
     "id": "lovymc",
     "name": "LovyMC Network",
+    "store": "https://tienda.lovymc.com/",
     "addresses": [
         "lovymc.com"
-    ]
+    ],
+    "primaryAddress": "play.lovymc.com",
+    "primaryColor": "#fbda00",
+    "secondaryColor": "#fd9000",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "gameTypes": [
+        "Survival",
+        "Parkour"
+    ],
+    "socials": {
+        "twitter": "lovymcnetwork",
+        "discord": "https://discord.com/invite/9bNBxBNEUE",
+        "youtube": "UCkffITHR2IDkuTPbB67ZBKQ",
+        "tiktok": "@lovymc.network",
+        "facebook": "LovymcNetwork"
+    }
 }

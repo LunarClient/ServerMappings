@@ -1,16 +1,18 @@
 {
     "id": "sunrisecity",
     "name": "Sunrise City Server",
+    "website": "https://www.sunrisecity.uk/",
+    "store": "https://sunrise.craftingstore.net/",
     "addresses": [
         "sunrisecity.uk"
     ],
     "primaryAddress": "play.sunrisecity.uk",
     "minecraftVersions": [
-        "1.17",
-        "1.18",
-        "1.19"
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.17",
+    "primaryMinecraftVersion": "1.17.1",
     "primaryColor": "#FF6A00",
     "secondaryColor": "#00B3FF",
     "primaryLanguage": "en",
@@ -28,5 +30,8 @@
     ],
     "gameTypes": [
         "Roleplay"
-    ]
+    ],
+    "socials": {
+        "youtube": "UCgCs7HN5776KfUorV7J-dBg"
+    }
 }

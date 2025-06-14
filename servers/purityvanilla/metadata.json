@@ -1,0 +1,29 @@
+{
+    "id": "purityvanilla",
+    "name": "Purity Vanilla",
+    "website": "https://www.purityvanilla.com/",
+    "store": "https://purity-vanilla.tebex.io/",
+    "addresses": [
+        "purityvanilla.com"
+    ],
+    "primaryAddress": "purityvanilla.com",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#e87e10",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "PurityVanilla",
+        "discord": "https://discord.com/invite/uCa9n2n",
+        "reddit": "purityvanilla"
+    }
+}

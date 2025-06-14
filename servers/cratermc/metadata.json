@@ -1,0 +1,31 @@
+{
+    "id": "cratermc",
+    "name": "CraterMC",
+    "website": "https://www.cratermc.com/",
+    "store": "https://tienda.cratermc.com/",
+    "addresses": [
+        "cratermc.com"
+    ],
+    "primaryAddress": "cratermc.com",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#55FFFF",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/cratermc"
+    }
+}

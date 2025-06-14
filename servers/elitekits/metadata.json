@@ -1,0 +1,32 @@
+{
+    "id": "elitekits",
+    "name": "EliteKits",
+    "website": "https://www.elitekits.net/",
+    "store": "https://store.elitekits.net",
+    "description": "The revival of SoupPvP.",
+    "addresses": [
+        "elitekits.net"
+    ],
+    "primaryAddress": "elitekits.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#005eff",
+    "secondaryColor": "#00aae3",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "elitekitsnet",
+        "discord": "https://discord.gg/YUh8J4HVr4"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "reclusepvp",
+    "name": "Recluse PvP",
+    "store": "https://store.reclusepvp.com/",
+    "addresses": [
+        "reclusepvp.com",
+        "minesplice.com"
+    ],
+    "primaryAddress": "play.reclusepvp.com",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryColor": "#19B5FE",
+    "secondaryColor": "#FFF7EF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/recluse"
+    }
+}

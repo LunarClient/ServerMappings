@@ -3,5 +3,7 @@
     "name": "Glade",
     "addresses": [
         "glade.gg"
-    ]
+    ],
+    "primaryColor": "#f9fafa",
+    "secondaryColor": "#071a37"
 }

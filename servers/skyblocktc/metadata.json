@@ -1,0 +1,35 @@
+{
+    "id": "skyblocktc",
+    "name": "skyblocktc",
+    "website": "https://www.skyblock.tc/",
+    "store": "https://www.skyblock.tc/kredi",
+    "addresses": [
+        "skyblock.tc"
+    ],
+    "primaryAddress": "mc.skyblock.tc",
+    "primaryColor": "#05a7f4",
+    "secondaryColor": "#16ac8f",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/BB4EedJZGk",
+        "youtube": "UCG59bD8b2YVvnflC7iD6zlA",
+        "instagram": "skyblock.tc"
+    }
+}

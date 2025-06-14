@@ -1,0 +1,39 @@
+{
+    "id": "trappedmc",
+    "name": "TrappedMC",
+    "description": "Minecraft's best and largest classic prison server",
+    "store": "https://shop.trappedmc.com/",
+    "addresses": [
+        "trappedmc.com",
+        "trappedmc.net",
+        "trappedmc.org"
+    ],
+    "primaryAddress": "mc.trappedmc.com",
+    "primaryColor": "#fe7105",
+    "secondaryColor": "#fcae10",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/trappedmc",
+        "tiktok": "@trappedmc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://shop.trappedmc.com/legal/privacy",
+        "termsOfService": "https://shop.trappedmc.com/legal/terms",
+        "rules": "https://shop.trappedmc.com/legal/terms"
+    }
+}

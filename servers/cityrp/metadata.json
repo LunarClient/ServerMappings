@@ -1,0 +1,40 @@
+{
+    "id": "cityrp",
+    "name": "CityRP",
+    "description": "City roleplay reimagined!",
+    "addresses": [
+        "cityrp.org"
+    ],
+    "primaryAddress": "play.cityrp.org",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#f5aa20",
+    "secondaryColor": "#f07c00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"   
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "website": "https://cityrp.org/",
+    "store": "https://cityrp.tebex.io/",
+    "compliance": {
+        "privacyPolicy": "https://cityrp.org/help/privacy-policy/",
+        "termsOfService": "https://cityrp.org/help/terms/",
+        "rules": "https://cityrp.org/pages/rules/"
+    },
+    "presentationVideo": "AM-lv521ZxI",
+    "socials": {
+        "discord": "https://discord.gg/cityrp"
+    },
+    "crossplay": false
+}

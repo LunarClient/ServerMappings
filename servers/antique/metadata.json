@@ -3,5 +3,7 @@
     "name": "Antique Network",
     "addresses": [
         "antique.gg"
-    ]
+    ],
+    "primaryColor": "#efc90c",
+    "secondaryColor": "#964f05"
 }

@@ -1,0 +1,29 @@
+{
+    "id": "staxified",
+    "name": "Staxified",
+    "website": "http://staxified.net/",
+    "store": "https://butik.staxified.net/",
+    "addresses": [
+        "staxified.net"
+    ],
+    "primaryAddress": "staxified.net",
+    "primaryColor": "#ff9600",
+    "secondaryColor": "#f1f1f1",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/TsyHpsT"
+    }
+}

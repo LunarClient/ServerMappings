@@ -1,0 +1,28 @@
+{
+    "id": "sparklypower",
+    "name": "Sparkly Power",
+    "addresses": [
+        "sparklypower.net"
+    ],
+    "primaryAddress": "mc.sparklypower.net",
+    "primaryColor": "#ff371c",
+    "secondaryColor": "#00ffff",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sparklypower"
+    }
+}

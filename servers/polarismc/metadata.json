@@ -1,0 +1,30 @@
+{
+    "id": "polarismc",
+    "name": "PolarisMC",
+    "addresses": [
+        "polarismc.fun"
+    ],
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryAddress": "mc.polarismc.fun",
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9D00D3",
+    "secondaryColor": "#D300B6",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/EgMbf35BY3"
+    }
+}

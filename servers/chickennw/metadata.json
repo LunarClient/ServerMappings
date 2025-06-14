@@ -1,0 +1,39 @@
+{
+    "id": "chickennw",
+    "name": "chickennw",
+    "website": "https://chickennw.com/",
+    "store": "https://chickennw.com/magaza",
+    "addresses": [
+        "chickennw.com"
+    ],
+    "primaryAddress": "oyna.chickennw.com",
+    "primaryColor": "#fe3e29",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/3m7kj6Jr6f"
+    }
+}

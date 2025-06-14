@@ -1,0 +1,25 @@
+{
+    "id": "evaprisons",
+    "name": "EVAPRISONS",
+    "store": "https://buy.evaprisons.com",
+    "description": "The most awesome Prison Experience!",
+    "addresses": [
+        "evaprisons.com"
+    ],
+    "primaryAddress": "play.evaprisons.com",
+    "primaryColor": "#c20025",
+    "secondaryColor": "#403d3d",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gq2TTMr66b"
+    }
+}

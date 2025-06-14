@@ -1,0 +1,28 @@
+{
+    "id": "magiccraft2",
+    "name": "Magic-Craft",
+    "store": "https://magic-craft14.buycraft.net",
+    "addresses": [
+        "magic-craft.net"
+    ],
+    "primaryAddress": "play.magic-craft.net",
+    "primaryColor": "#0BE0F5",
+    "secondaryColor": "#0BA0F5",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/magic-craft"
+    }
+}

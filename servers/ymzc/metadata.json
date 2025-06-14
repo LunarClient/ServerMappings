@@ -3,5 +3,7 @@
     "name": "YMZC Network",
     "addresses": [
         "ymzc.pro"
-    ]
+    ],
+    "primaryColor": "#e8c7a3",
+    "secondaryColor": "#dd6053"
 }

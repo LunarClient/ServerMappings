@@ -1,0 +1,34 @@
+{
+    "id": "kizuki",
+    "name": "Kizuki Network",
+    "description": "The Next Generation Competitive PvP Server",
+    "addresses": [
+      "kizuki.cc"
+    ],
+    "primaryAddress": "kizuki.cc",
+    "minecraftVersions": [
+      "1.8.*",
+      "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff60af",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "zh-CN",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+      "AS"
+    ],
+    "gameTypes": [
+      "PvP",
+      "Minigames"
+    ],
+    "website": "https://www.kizuki.cc",
+    "store": "https://store.kizuki.cc",
+    "socials": {
+      "discord": "https://discord.gg/jBa9gmX6wS"
+    }
+}

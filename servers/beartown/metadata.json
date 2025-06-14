@@ -1,0 +1,24 @@
+{
+    "id": "beartown",
+    "name": "Beartown",
+    "addresses": [
+        "beartown.kr"
+    ],
+    "primaryAddress": "beartown.kr",
+    "primaryColor": "#d59b6c",
+    "secondaryColor": "#8a9e69",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/beartown"
+    }
+}

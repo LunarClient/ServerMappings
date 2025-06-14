@@ -1,0 +1,39 @@
+{
+    "id": "zelicraft",
+    "name": "Zelicraft Network",
+    "description": "Spanish speaking server, PvE and PvP server. Join today!",
+    "addresses": [
+        "zelicraft.com"
+    ],
+    "primaryAddress": "play.zelicraft.com",
+    "primaryMinecraftVersion": "1.20",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "primaryColor": "#6408FB",
+    "secondaryColor": "#B589FF",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Minigames"
+    ],
+    "website": "https://www.zelika.es",
+    "store": "https://tienda.zelicraft.com",
+    "socials": {
+        "twitter": "zelicraft",
+        "youtube": "zelikafb",
+        "discord": "https://discord.gg/zelicraft"
+    }
+}

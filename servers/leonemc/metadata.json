@@ -1,0 +1,30 @@
+{
+    "id": "leonemc",
+    "name": "LeoneMC",
+    "store": "https://shop.leonemc.net/",
+    "addresses": [
+        "leonemc.net"
+    ],
+    "primaryAddress": "leonemc.net",
+    "primaryColor": "#8bc4f5",
+    "secondaryColor": "#fc46a8",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/leonemc"
+    }
+}

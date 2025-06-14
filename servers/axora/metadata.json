@@ -1,0 +1,29 @@
+{
+    "id": "axora",
+    "name": "Axora Ranked Bedwars",
+    "description": "A competitive Ranked Bedwars server designed for AS players",
+    "addresses": [
+        "rankedbw.com"
+    ],
+    "primaryAddress": "play.rankedbw.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#c30003",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://rankedbw.com",
+    "socials": {
+        "youtube": "RankedBedwars",
+        "discord": "https://discord.gg/arbw"
+    },
+    "crossplay": false
+}

@@ -1,0 +1,32 @@
+{
+    "id": "castiamc",
+    "name": "CastiaMC",
+    "website": "https://castiamc.com/",
+    "store": "https://store.castiamc.com/",
+    "addresses": [
+        "castiamc.com"
+    ],
+    "primaryAddress": "play.castiamc.com",
+    "primaryColor": "#fdb128",
+    "secondaryColor": "#731803",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/castia"
+    }
+}

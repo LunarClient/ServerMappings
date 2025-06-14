@@ -1,0 +1,30 @@
+{
+    "id": "celestymc",
+    "name": "CelestyMC",
+    "website": "https://celestymc.it/",
+    "store": "https://store.celestymc.it/",
+    "addresses": [
+        "celestymc.it"
+    ],
+    "primaryAddress": "celestymc.it",
+    "primaryColor": "#cceeff",
+    "secondaryColor": "#335a77",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "telegram": "RoosterHall",
+        "discord": "https://discord.com/invite/383wg9EM"
+    }
+}

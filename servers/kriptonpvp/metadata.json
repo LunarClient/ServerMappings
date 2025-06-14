@@ -1,0 +1,40 @@
+{
+    "id": "kriptonpvp",
+    "name": "KriptonPVP Network",
+    "website": "https://kriptonpvp.com/",
+    "store": "https://tienda.kriptonpvp.com/",
+    "description": "A Minecraft community that adds new gamemodes everyday for players to enjoy.",
+    "addresses": [
+        "kriptonpvp.com"
+    ],
+    "primaryAddress": "mc.kriptonpvp.com",
+    "primaryColor": "#1a7fd5",
+    "secondaryColor": "#b03647",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Ngm4e5UdZf"
+    }
+}

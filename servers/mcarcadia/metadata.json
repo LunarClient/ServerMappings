@@ -1,0 +1,26 @@
+{
+    "id": "mcarcadia",
+    "name": "Arcadia",
+    "store": "https://arcadia.tebex.io/",
+    "addresses": [
+        "mcarcadia.com"
+    ],
+    "primaryAddress": "play.mcarcadia.com",
+    "primaryColor": "#e4cc85",
+    "secondaryColor": "#367a33",
+    "minecraftVersions": [
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/ShXcCEstVx"
+    }
+}

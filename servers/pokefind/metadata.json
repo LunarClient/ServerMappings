@@ -1,0 +1,35 @@
+{
+    "id": "pokefind",
+    "name": "PokeFind",
+    "website": "https://www.pokefind.co/",
+    "store": "https://store.pokefind.co/",
+    "addresses": [
+        "pokefind.co"
+    ],
+    "primaryAddress": "play.pokefind.co",
+    "primaryColor": "#a3d39c",
+    "secondaryColor": "#ed4d63",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "PokeFindMC",
+        "discord": "https://discord.com/invite/pokefind",
+        "instagram": "pokegofind",
+        "facebook": "realPokeFind"
+    }
+}

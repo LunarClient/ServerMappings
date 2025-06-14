@@ -1,0 +1,39 @@
+{
+    "id": "skittlemc",
+    "name": "SkittleMC",
+    "store": "https://buy.skittlemc.com/",
+    "addresses": [
+        "skittlemc.org"
+    ],
+    "primaryAddress": "skittlemc.org",
+    "primaryColor": "#efd8d9",
+    "secondaryColor": "#c0162c",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Roleplay"
+    ],
+    "socials": {
+        "twitter": "SkittleSocial",
+        "discord": "https://discord.com/invite/wUHky5pM2J"
+    }
+}

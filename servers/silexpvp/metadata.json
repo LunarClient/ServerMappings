@@ -3,5 +3,7 @@
     "name": "Silex Network",
     "addresses": [
         "silexpvp.net"
-    ]
+    ],
+    "primaryColor": "#fdef01",
+    "secondaryColor": "#050300"
 }

@@ -1,0 +1,31 @@
+{
+    "id": "blobsmp",
+    "name": "BlobSMP",
+    "store": "https://store.blobsmp.net/",
+    "addresses": [
+        "blobsmp.net"
+    ],
+    "primaryAddress": "play.blobsmp.net",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#ff06e6",
+    "secondaryColor": "#fd2177",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/3kUE3UT7DY"
+    },
+    "crossplay": true
+}

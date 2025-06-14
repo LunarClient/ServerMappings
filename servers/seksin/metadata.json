@@ -1,0 +1,35 @@
+{
+    "id": "seksin",
+    "name": "Seksin",
+    "website": "https://mc-seksin.com/",
+    "store": "https://mc-seksin.com/?page=shop",
+    "addresses": [
+        "mc-seksin.net"
+    ],
+    "primaryAddress": "mc-seksin.net",
+    "primaryColor": "#3bd75a",
+    "secondaryColor": "#902a3d",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kx3jqrvCbf",
+        "youtube": "UCtdakg8cvxDVIr1EXzj--1A",
+        "facebook": "MCSekSinOfficial"
+    }
+}

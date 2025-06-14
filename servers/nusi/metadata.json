@@ -1,0 +1,28 @@
+{
+    "id": "nusi",
+    "name": "Nusi",
+    "store": "https://sklep.nusi.pl/",
+    "addresses": [
+        "nusi.pl"
+    ],
+    "primaryAddress": "nusi.pl",
+    "primaryColor": "#fbbd21",
+    "secondaryColor": "#40b3de",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/AJqSH5WKSu"
+    }
+}

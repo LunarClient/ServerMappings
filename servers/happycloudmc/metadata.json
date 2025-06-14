@@ -1,0 +1,34 @@
+{
+    "id": "happycloudmc",
+    "name": "Happy Cloud",
+    "website": "https://happycloudmc.com/",
+    "store": "https://shop.happycloudmc.com/",
+    "addresses": [
+        "happycloudmc.com"
+    ],
+    "primaryAddress": "play.happycloudmc.com",
+    "primaryColor": "#246693",
+    "secondaryColor": "#e8f5f3",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/uZRDa9yunz"
+    }
+}

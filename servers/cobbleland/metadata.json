@@ -1,0 +1,31 @@
+{
+    "id": "cobbleland",
+    "name": "CobbleLand",
+    "store": "https://store.cobbleland.com/",
+    "addresses": [
+        "cobbleland.com"
+    ],
+    "primaryAddress": "play.cobbleland.com",
+    "primaryColor": "#f43728",
+    "secondaryColor": "#9d9b95",
+    "minecraftVersions": [
+        "1.20.1"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/4PFCCkdWmY"
+    }
+}
