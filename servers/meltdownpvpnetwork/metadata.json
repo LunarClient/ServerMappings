@@ -11,10 +11,10 @@
     "Factions",
     "Survival"
   ],
-  "primaryColor": "#3A174D",
-  "secondaryColor": "#2D0542",
+  "primaryColor": "#72249c",
+  "secondaryColor": "#72249c",
   "minecraftVersions": [
-    "1.8.*",
+    "1.8.9.*",
     "1.20.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
@@ -42,8 +42,8 @@
   ],
   "tebexStore": {
     "background": {
-      "lowerColor": "#3A174D",
-      "upperColor": "#2F0944"
+      "lowerColor": "#72249c",
+      "upperColor": "#72249c"
     }
   }
 }
