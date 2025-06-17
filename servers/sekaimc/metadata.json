@@ -1,7 +1,7 @@
 {
   "id": "sekaimc",
   "name": "SekaiMC",
-  "description": "A UHC And MiniGame server",
+  "description": "A UHC and minigame server",
   "addresses": [
     "sekaimc.fr"
   ],
@@ -14,15 +14,7 @@
   "primaryColor": "#86000D",
   "secondaryColor": "#FFFFFF",
   "minecraftVersions": [
-    "1.8.9",
-    "1.12.2",
-    "1.16.5",
-    "1.17.1",
-    "1.18.1",
-    "1.18.2",
-    "1.19",
-    "1.20",
-    "1.21"
+    "1.8.9"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "languages": [
