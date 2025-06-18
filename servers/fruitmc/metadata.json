@@ -1,43 +1,38 @@
 {
     "id": "fruitmc",
     "name": "FruitMC",
-    "description": "Rompi, costruisci e sopravvivi su OneBlock!",
+    "website": "https://www.fruitmc.it/",
+    "store": "https://store.fruitmc.it/",
+    "description": "Join our server to play our OneBlock",
     "addresses": [
-        "fruitmc.it"
+        "play.fruitmc.it",
+        "play.fruitmc.net",
+        "fruitmc.it",
+        "fruitmc.net"
     ],
     "primaryAddress": "play.fruitmc.it",
+    "primaryColor": "#fc1b02",
+    "secondaryColor": "#FEFEFE",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#FF0000",
-    "secondaryColor": "#29F357",
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
-    ],
     "gameTypes": [
+        "Skyblock",
         "Survival"
     ],
-    "website": "https://fruitmc.it",
-    "store": "https://store.fruitmc.it",
-    "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms"
-    },
     "socials": {
-        "telegram": "fruitmc",
-        "discord": "https://discord.gg/fruitmc"
-    },
-    "crossplay": false
+        "discord": "https://discord.gg/wbvUWUk6jd",
+        "store": "https://store.fruitmc.it"
+    }
 }
