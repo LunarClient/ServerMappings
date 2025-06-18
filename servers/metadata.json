@@ -1,0 +1,26 @@
+{
+    "id": "PempaWorld",
+    "name": "PempaWorld",
+    "addresses":[
+        "play.pempaworld.fr"
+    ],
+    "primaryAddress": "play.pempaworld.fr",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#AA00AA",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "socials":{
+        "discord": "https://discord.gg/9ZPt5bC4xG"
+    }
+}
