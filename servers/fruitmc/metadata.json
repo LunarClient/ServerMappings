@@ -5,8 +5,6 @@
     "store": "https://store.fruitmc.it/",
     "description": "Join our server to play our OneBlock",
     "addresses": [
-        "play.fruitmc.it",
-        "play.fruitmc.net",
         "fruitmc.it",
         "fruitmc.net"
     ],
@@ -33,6 +31,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/wbvUWUk6jd",
-        "store": "https://store.fruitmc.it"
+         "store": "https://store.fruitmc.it"
     }
 }
