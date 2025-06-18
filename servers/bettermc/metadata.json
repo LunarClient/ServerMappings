@@ -8,7 +8,7 @@
     ],
     "primaryAddress": "bettermc.eu",
     "primaryColor": "#ffae00",
-    "secondaryColor": "#ffe400 ",
+    "secondaryColor": "#ffe400",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -23,7 +23,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "Oneblock",
+        "PvP",
         "Skyblock"
     ],
     "socials": {
