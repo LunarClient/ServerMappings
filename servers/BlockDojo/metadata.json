@@ -1,0 +1,45 @@
+{
+    "id": "gravijet",
+    "name": "gravijet",
+    "description": "Practice, Fastbuilder, Clutches, etc.",
+    "addresses": [
+        "gravijet.net"
+    ],
+    "primaryAddress": "gravijet.net",
+    "primaryColor": "#00ff2b",
+    "secondaryColor": "#0044ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS",
+        "AF",
+        "OC",
+        "SA"
+    ],
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://gravijet.net/",
+    "store": "https://store.gravijet.net",
+    "socials": {
+        "discord": "https://discord.com/invite/pWphUWy9mJ",
+        "youtube": "@gravijet"
+    }
+}
