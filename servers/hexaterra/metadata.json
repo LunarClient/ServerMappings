@@ -1,0 +1,40 @@
+{
+  "id": "hexaterra",
+  "name": "Hexaterra Netowork",
+  "description": "Hexaterra – Your new home for Minecraft fun and battles",
+  "addresses": [
+    "hexaterra.net"
+  ],
+  "primaryAddress": "mc.hexaterra.net",
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "primaryColor": "#113FB8",
+  "secondaryColor": "#5C0069",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.16.5",
+    "1.18.2",
+    "1.19.4",
+    "1.20.2",
+    "1.21.2",
+    "1.21.4",
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "es-EN",
+    "nl"
+  ],
+  "primaryLanguage": "es-EN",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "primaryRegion": "SA",
+  "store": "https://exarterra.tebex.io",
+  "socials": {
+    "discord": "https://discord.gg/r3VMhGbzT4"
+  }
+}
