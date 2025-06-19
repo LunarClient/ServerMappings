@@ -1,11 +1,11 @@
 {
-    "id": "gravijet",
-    "name": "gravijet",
-    "description": "Practice, Fastbuilder, Clutches, etc.",
+    "id": "BlockDojo",
+    "name": "BlockDojo",
+    "description": "Block Placement Practice",
     "addresses": [
-        "gravijet.net"
+        "mc.blockdojo.eu"
     ],
-    "primaryAddress": "gravijet.net",
+    "primaryAddress": "mc.blockdojo.eu",
     "primaryColor": "#00ff2b",
     "secondaryColor": "#0044ff",
     "primaryLanguage": "en",
@@ -23,23 +23,14 @@
     ],
     "minecraftVersions": [
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
-    "website": "https://gravijet.net/",
-    "store": "https://store.gravijet.net",
+    "store": "https://discord.gg/pvjkWDTxzC",
     "socials": {
-        "discord": "https://discord.com/invite/pWphUWy9mJ",
-        "youtube": "@gravijet"
+        "discord": "https://discord.gg/pvjkWDTxzC"
     }
 }
