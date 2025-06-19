@@ -3,8 +3,7 @@
     "name": "Siegelands",
     "description": "NethPot Minecraft Earth Server",
     "addresses": [
-        "siegelands.org",
-        "siegespree.minehut.gg"
+        "siegelands.org"
     ],
     "primaryAddress": "siegelands.org",
     "minecraftVersions": [
