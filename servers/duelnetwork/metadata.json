@@ -25,7 +25,7 @@
     ],
     "store": "https://store.duel.rip/",
     "socials": {
-        "discord": "discord.gg/duelnetwork"
+        "discord": "https://discord.gg/duelnetwork"
     },
     "crossplay": true
 } 
