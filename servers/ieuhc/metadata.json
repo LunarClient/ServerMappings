@@ -1,0 +1,16 @@
+{
+  "id": "ieuhc",
+  "name": "Inazuma-Eleven UHC",
+  "primaryAddress": "ieuhc.fr",
+  "addresses": ["ieuhc.fr"],
+  "gameTypes": ["Minigames", "UHC"],
+  "primaryColor": "#FFAE42",
+  "secondaryColor": "#33c1ff",
+  "minecraftVersions": ["1.8.*"],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": ["fr"],
+  "primaryLanguage": "fr",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://www.ieuhc.fr/"
+}
