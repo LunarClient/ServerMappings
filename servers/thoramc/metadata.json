@@ -1,13 +1,13 @@
 {
-  "id": "thora",
+  "id": "thoramc",
   "name": "ThoraMC",
   "addresses": [
     "thoramc.it"
   ],
   "primaryAddress": "play.thoramc.it",
   "minecraftVersions": [
-    "1.20.4*",
-    "1.21.5*"
+    "1.20.4",
+    "1.21.5"
   ],
   "primaryMinecraftVersion": "1.20.4",
   "primaryColor": "#ffb330",
@@ -21,7 +21,7 @@
     "EU"
   ],
   "gameTypes": [
-    "SpaceCentral"
+    "Skyblock"
   ],
   "socials": {
     "discord": "https://discord.gg/6S8m9dHufs"
