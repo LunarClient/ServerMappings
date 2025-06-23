@@ -1,7 +1,7 @@
 {
     "id": "manacube",
     "name": "ManaCube",
-    "description": "Home of the Cube. Engaging gamemodes, unique models and a thriving community",
+    "description": "Timeless gamemodes, original features, active community",
     "website": "https://manacube.com/",
     "store": "https://store.manacube.com/",
     "wiki": "https://manacube.wiki/",
@@ -10,11 +10,12 @@
         "manacube.com",
         "manacube.net"
     ],
-    "primaryAddress": "play.manacube.com",
+    "primaryAddress": "lunar.manacube.com",
     "primaryColor": "#1b96a8",
     "secondaryColor": "#124656",
     "minecraftVersions": [
         "1.8.*",
+        "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
@@ -33,7 +34,8 @@
         "twitter": "ManaCubeMC",
         "discord": "https://discord.com/invite/manacube",
         "youtube": "manacube",
-        "instagram": "manacubemc"
+        "instagram": "manacubemc",
+        "tiktok": "@manacubemc"
     },
     "compliance": {
         "rules": "https://manacube.com/rules",
