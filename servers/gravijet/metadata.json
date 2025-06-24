@@ -1,13 +1,13 @@
 {
     "id": "gravijet",
-    "name": "gravijet",
-    "description": "Practice, Fastbuilder, Clutches, etc.",
+    "name": "GraviJet",
+    "description": "Practice, Fastbuilder, CrystalFFA, LetsKnock, etc.",
     "addresses": [
         "gravijet.net"
     ],
     "primaryAddress": "gravijet.net",
-    "primaryColor": "#00ff2b",
-    "secondaryColor": "#0044ff",
+    "primaryColor": "#2aff00",
+    "secondaryColor": "#024bff",
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -22,6 +22,7 @@
         "SA"
     ],
     "minecraftVersions": [
+         
         "1.8.*",
         "1.12.*",
         "1.16.*",
