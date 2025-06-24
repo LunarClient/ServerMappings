@@ -1,0 +1,72 @@
+{
+    "id": "wlay",
+    "name": "Wlay Network",
+    "description": "Server wich will you Enjoy the MOST",
+    "addresses": [
+        "wlay.cz"
+    ],
+    "primaryAddress": "mc.wlay.cz",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#cd1010",
+    "secondaryColor": "#faf9f6",
+    "primaryLanguage": "cz",
+    "languages": [
+        "cz",
+        "sk"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://www.wlay.cz",
+    "store": "https://store.wlay.cz",
+    "compliance": {
+        "rules": "https://discord.gg/pJ7hnqKKHw"
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "instagram": "wlayserver",
+        "youtube": "WlayServer",
+        "discord": "https://discord.gg/pJ7hnqKKHw"
+    },
+    "crossplay": false
+}
