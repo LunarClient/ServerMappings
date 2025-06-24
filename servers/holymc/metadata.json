@@ -12,7 +12,6 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryRegion": "EU",
     "gameTypes": [
         "PvE",
         "Survival"
