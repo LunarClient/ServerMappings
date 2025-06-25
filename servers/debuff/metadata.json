@@ -1,6 +1,7 @@
 {
     "id": "debuff",
     "name": "Debuff Network",
+    "description": "Join via Debuff.club",
     "addresses": [
         "debuff.club"
     ],
