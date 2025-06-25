@@ -1,0 +1,29 @@
+{
+  "id": "cloudsmp",
+  "name": "CloudSmp",
+  "description": "The Best Anarchry Minecraft Server Out",
+  "addresses": [
+    "cloudsmp.cloud"
+  ],
+  "primaryAddress": "mc.cloudsmp.cloud",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryColor": "#B810C4",
+  "secondaryColor": "#716E6E",
+  "minecraftVersions": [
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "OC"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/cloudsmpfr",
+    "tiktok": "@cloudsmpfrr"
+  }
+}
