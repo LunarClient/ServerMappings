@@ -1,0 +1,31 @@
+{
+    "id": "debuffclub",
+    "name": "Debuff Network",
+    "addresses": [
+        "debuff.club"
+    ],
+    "primaryAddress": "debuff.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#d92121",
+    "secondaryColor": "#f0e9f2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "website": "https://www.debuff.club",
+    "store": "https://store.debuff.club",
+    "socials": {
+        "discord": "https://discord.gg/x2hjabWcFU"
+    }
+}
