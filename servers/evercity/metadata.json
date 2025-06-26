@@ -1,0 +1,28 @@
+{
+  "id": "evercity",
+  "name": "EverCity",
+  "description": "Le SMP français par excellence.",
+  "addresses": [
+    "evercity.mine.fun"
+  ],
+  "primaryAddress": "evercity.mine.fun",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryColor": "#ffc336",
+  "secondaryColor": "#ff5300",
+  "minecraftVersions": [
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "fr"
+  ],
+  "primaryLanguage": "fr",
+  "regions": [
+    "EU"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/xhVkPR7VPw",
+  }
+}
