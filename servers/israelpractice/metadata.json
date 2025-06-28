@@ -1,0 +1,34 @@
+{
+    "id": "israelpractice",
+    "name": "Israel Practice",
+    "description": "Israel Practice is a chill but competitive Minecraft PvP server with Tier Testing, Practice, and plenty more to explore!",
+    "website": "https://israelpractice.net",
+    "store": "https://store.israelpractice.net",
+    "addresses": [
+        "israelpractice.net",
+        "play.israelpractice.net"
+    ],
+    "primaryAddress": "israelpractice.net",
+    "primaryColor": "#F5C518",
+    "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/QBkJkxhdV8"
+    }
+}
