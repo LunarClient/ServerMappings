@@ -12,7 +12,8 @@
   "primaryColor": "#B810C4",
   "secondaryColor": "#716E6E",
   "minecraftVersions": [
-    "1.21.5"
+    "1.21.5",
+    "1.21.6"
   ],
   "primaryMinecraftVersion": "1.21.5",
   "languages": [
