@@ -40,7 +40,6 @@
   "compliance": {
     "privacyPolicy": "https://nexiko.de/privacy",
     "termsOfService": "https://nexiko.de/terms",
-    "rules": "https://nexiko.de/rules",
-    "support": "https://dc.nexiko.de"
+    "rules": "https://nexiko.de/rules"
   }
 }
