@@ -23,10 +23,9 @@
         "NA"
     ],
     "gameTypes": [
-        "BoxPvP",
-        "Minigames",
-        "Survival",
-        "Gens"
+        "PvP",
+        "PvE",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.com/invite/sakuranet"
