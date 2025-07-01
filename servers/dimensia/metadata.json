@@ -2,7 +2,7 @@
     "id": "dimensia",
     "name": "Dimensia",
     "website": "https://dimensia.fr/",
-    "description": "Un serveur d'une autre dimension",
+    "description": "A server from an other dimension",
     "addresses": [
         "dimensia.fr"
     ],
@@ -14,6 +14,7 @@
         "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
