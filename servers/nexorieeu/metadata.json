@@ -1,0 +1,10 @@
+{
+  "id": "nexorieeu",
+  "name": "Nexorie.eu",
+  "description": "Modern Minecraft survival server focused on quality minigames and community fun.",
+  "addresses": ["nexorie.eu"],
+  "primaryAddress": "nexorie.eu",
+  "gameTypes": ["Survival", "Oneblock"],
+  "primaryColor": "#1E90FF",
+  "secondaryColor": "#FFD700"
+}
