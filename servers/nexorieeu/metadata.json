@@ -1,0 +1,20 @@
+{
+  "id": "nexorieeu",
+  "name": "Nexorie.eu",
+  "description": "Cesky Minecraft server s OneBlock a Survival zamerenim pro komunitni hrani.",
+  "addresses": [
+    "nexorie.eu"
+  ],
+  "primaryAddress": "nexorie.eu",
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#2e8b57",
+  "secondaryColor": "#f5c542",
+  "gameTypes": [
+    "Skyblock",
+    "Survival"
+  ]
+}
