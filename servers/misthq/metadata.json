@@ -3,7 +3,7 @@
     "name": "MistHQ Network",
     "description": "The #1 Multi-Gamemode Network!",
     "addresses": [
-        "play.misthq.net"
+        "misthq.net"
     ],
     "primaryAddress": "play.misthq.net",
     "minecraftVersions": [
