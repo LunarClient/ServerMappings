@@ -1,6 +1,7 @@
 {
     "id": "minexo",
     "name": "MineXO",
+    "website": "https://minexo.net/",
     "store": "https://store.minexo.net/",
     "addresses": [
         "minexo.net"
@@ -20,6 +21,7 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
+    "crossplay": true,
     "regions": [
         "NA"
     ],
