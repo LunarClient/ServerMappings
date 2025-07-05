@@ -22,10 +22,8 @@
         "EU"
     ],
     "gameTypes": [
-        "SkyWars",
-        "GunGame",
-        "BuildFFA",
-        "Versus"
+        "PvP",
+        "Minigames"
     ],
     "compliance": {
         "privacyPolicy": "https://www.lunar.gg/privacy-policy",
