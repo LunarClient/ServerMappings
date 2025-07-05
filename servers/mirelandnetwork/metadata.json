@@ -1,12 +1,11 @@
 {
-    "id": "mireland",
+    "id": "mirelandnetwork",
     "name": "Mireland Network",
     "description": "Come enjoy with us!",
     "addresses": [
-        "mireland.net",
-        "play.mireland.net"
+        "mireland.net"
     ],
-    "primaryAddress": "mireland.net",
+    "primaryAddress": "play.mireland.net",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
