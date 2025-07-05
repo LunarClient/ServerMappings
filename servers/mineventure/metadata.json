@@ -31,8 +31,7 @@
     "gameTypes": [
         "PvP",
         "HCF",
-        "Factions",
-        "Skyblock"
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.com/invite/hcf",
