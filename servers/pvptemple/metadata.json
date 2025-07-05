@@ -1,43 +1,41 @@
 {
     "id": "pvptemple",
     "name": "PvPTemple",
-    "website": "https://pvptemple.net/",
-    "store": "https://store.pvptemple.net/",
+    "website": "https://pvptemple.de/",
+    "store": "https://store.pvptemple.de/",
     "addresses": [
-        "pvptemple.net",
-        "teamunit.de",
-        "teamunit.net"
+        "pvptemple.de"
     ],
-    "primaryAddress": "pvptemple.net",
-    "primaryColor": "#ffa500",
-    "secondaryColor": "#ffff00",
-    "primaryLanguage": "en",
+    "primaryAddress": "pvptemple.de",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffaa00",
+    "primaryLanguage": "de",
     "languages": [
-        "en"
+        "de"
     ],
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "EU",
     "regions": [
-        "EU",
-        "NA"
+        "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "HCF",
-        "UHC"
+        "SkyWars",
+        "GunGame",
+        "BuildFFA",
+        "Versus"
     ],
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy-policy",
+        "termsOfService": "https://www.lunar.gg/tos",
+        "rules": "https://www.lunar.gg/rules"
+    },
     "socials": {
-        "twitter": "ThePvPTemple",
-        "twitch": "ThePvPTemple",
-        "discord": "https://discord.gg/pvptemple"
-    }
+        "twitter": "PvPTempleDE",
+        "twitch": "PvPTempleDE",
+        "discord": "https://discord.gg/MqFmaavy2h"
+    },
+    "crossplay": false
 }
