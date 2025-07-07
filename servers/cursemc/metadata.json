@@ -1,31 +1,28 @@
 {
     "id": "cursemc",
     "name": "CurseMC Network",
-    "description": "Network que se dedica a hacer servidores de PvP/Survival",
-    "addresses": [
-        "cursemc.club"
-    ],
+    "description": "Network dedicated to creating PvP/Survival servers",
+    "addresses": [],
     "primaryAddress": "cursemc.club",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#FF0000",
-    "secondaryColor": "#FF0000",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ff0000",
     "primaryLanguage": "es",
     "languages": [],
     "primaryRegion": "NA",
     "regions": [],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Survival"
     ],
     "website": [],
     "store": "https://tienda.cursemc.club",
-    "compliance": {},
+    "compliance": [],
     "socials": {
-        "twitter": "CurseMCNet",
-        "telegram": "CurseMCNet",
         "discord": "https://discord.cursemc.club"
     },
-    "crossplay": false
+    "crossplay": true
 }
