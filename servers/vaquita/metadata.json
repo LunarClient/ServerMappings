@@ -3,9 +3,7 @@
     "name": "Vaquita",
     "description": "Competitive Minecraft PvP Server.",
     "addresses": [
-        "vaquita.lol",
-        "eu.vaquita.lol",
-        "lag.vaquita.lol"
+        "vaquita.lol"
     ],
     "primaryAddress": "vaquita.lol",
     "minecraftVersions": [
