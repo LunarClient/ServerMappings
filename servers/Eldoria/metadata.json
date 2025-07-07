@@ -1,0 +1,27 @@
+{
+    "id": "eldoria",
+    "name": "Eldoria Network",
+    "description": "Serveur UHC, PvP et Mini-Jeux en 1.8 pour la communauté francophone",
+    "website": "https://el-doria.net/",
+    "store": "https://el-doria.net/store",
+    "addresses": [
+        "eu.el-doria.net"
+    ],
+    "primaryAddress": "eu.el-doria.net",
+    "primaryColor": "#acacac",
+    "secondaryColor": "#0c0b10",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "MiniGames"
+    ],
+    "socials": {
+        "twitter": "EldoriaNetwork",
+        "discord": "https://discord.gg/3qNvaV5VWW"
+    }
+}
