@@ -6,6 +6,7 @@
     "store": "https://el-doria.net/store",
     "addresses": [
         "eu.el-doria.net",
+        "el-doria.net",
         "private.el-doria.net",
         "eu1.el-doria.net"
     ],
