@@ -1,0 +1,33 @@
+{
+    "id": "vexmi",
+    "name": "Vexmi Network",
+    "store": "https://tienda.vexmi.net/",
+    "addresses": [
+        "mc.vexmi.net",
+        "vexmi.net"
+    ],
+    "primaryAddress": "mc.vexmi.net",
+    "primaryColor": "#00ffeb",
+    "secondaryColor": "#fdcb58",
+    "primaryLanguage": "es",
+    "minecraftVersions": [
+        "1.20.",
+        "1.21."
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "VexmiNet",
+        "discord": "https://discord.gg/VbKZGDWx4k",
+        "youtube": "SrBigos",
+        "twitch": "SrBigosYT"
+    }
+}
