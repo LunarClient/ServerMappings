@@ -1,0 +1,53 @@
+{
+  "server_name": "veinmc",
+  "nice_name": "VeinMC",
+  "direct_ip": "play.veinmc.com",
+  "server_wildcards": [],
+  "supported_languages": [
+    "ar",
+    "en"
+  ],
+  "social": {
+    "web_shop": "https://veinmc.tebex.io",
+    "discord": "https://discord.gg/veinmc"
+  },
+  "gamemodes": {
+    "pvp": {
+      "name": "PvP",
+      "color": "#FFAA00",
+      "command": "/warp pvp",
+      "versions": "1.8<*"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#FFA500",
+      "versions": "1.8<*"
+    },
+    "survival": {
+      "name": "Survival",
+      "color": "#FFD700",
+      "versions": "1.8<*"
+    }
+  },
+  "chat": {
+    "message_formats": [
+      "^§[a-f0-9](?<level>\\d+)(| §[a-f0-9](?<rank>\\S+)) §e(?<sender>[a-zA-Z0-9_]{2,16}) §f(?<message>.*)$"
+    ]
+  },
+  "discord": {
+    "server_id": 0,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+    "primary": "#FFAA00",
+    "background": "#FFAA00",
+    "text": "#0C0F12"
+  },
+  "location": {
+    "city": "Jubail",
+    "country": "Saudi Arabia",
+    "country_code": "SA"
+  },
+  "yt_trailer": "",
+  "command_delay": 3000
+}
