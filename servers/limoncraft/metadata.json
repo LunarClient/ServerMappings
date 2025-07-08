@@ -1,9 +1,9 @@
 {
     "id": "limoncraft",
-    "name": "Limoncraft Italia",
+    "name": "Limoncraft Network",
     "website": "https://www.limoncraft.it/",
     "store": "https://store.limoncraft.it/",
-    "description": "Limoncraft Italia, the network full of unique gamemodes and gameplays.",
+    "description": "Limoncraft Network, the network full of unique gamemodes and gameplays.",
     "addresses": ["limoncraft.it"],
     "primaryAddress": "play.limoncraft.it",
     "primaryColor": "#FFFF55",
@@ -28,8 +28,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/SBpeRAXQAx",
-        "instagram": "limoncraft_italia",
-        "telegram": "LimoncraftItalia",
-        "tiktok": "@limoncraft.italia"
+        "instagram": "limoncraft_network",
+        "telegram": "LimoncraftNetwork",
+        "tiktok": "@limoncraft.network"
     }
 }
