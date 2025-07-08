@@ -1,7 +1,7 @@
 {
     "id": "chubbys",
     "name": "Chubby's Network",
-    "description": "Dive into a semi-anarchic world where you and your friends can build, fight and survive freely. Extreme survival, PvP with no rules, epic events and total freedom. Are you ready to join us?",
+    "description": "Semi-anarchic survival with PvP, events and total freedom. Join us!",
     "addresses": ["chubbys.club"],
     "primaryAddress": "mc.chubbys.club",
     "minecraftVersions": ["1.21.*"],
