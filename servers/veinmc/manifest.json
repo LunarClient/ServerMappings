@@ -1,0 +1,15 @@
+{
+  "id": "veinmc",
+  "name": "VeinMC",
+  "description": "VeinMC is a competitive PvP and Minigames Minecraft server supporting Arabic and English languages. Join us for events, guild wars, and fun gameplay!",
+  "category": "server",
+  "language": ["ar", "en"],
+  "tags": ["pvp", "minigames", "arabic", "competitive"],
+  "website": "https://veinmc.tebex.io",
+  "discord": "https://discord.gg/veinmc",
+  "minecraft": {
+    "ip": "play.veinmc.com",
+    "versions": ["1.8", "1.20.1"],
+    "platforms": ["java"]
+  }
+}
