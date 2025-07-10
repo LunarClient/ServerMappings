@@ -15,10 +15,9 @@
     "primaryMinecraftVersion": "1.19.4",
     "primaryColor": "#A24BFA",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "hu",
+    "primaryLanguage": "en",
     "languages": [
-        "en",
-        "hu"
+        "en"
     ],
     "primaryRegion": "EU",
     "regions": [
@@ -26,11 +25,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
-        "BedWars",
-        "SkyBlock",
-        "FullPvP",
-        "KitPvP"
+        "Minigames"
     ],
     "website": "https://www.angelicmc.hu",
     "store": "https://shop.angelicmc.hu",
