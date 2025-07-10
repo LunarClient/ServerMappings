@@ -11,16 +11,17 @@
     "Minigames",
     "Survival"
   ],
-  "primaryColor": "#442762",
-  "secondaryColor": "#F3B00F",
+  "primaryColor": "#A728BB",
+  "secondaryColor": "#FFC30F",
   "minecraftVersions": [
-    "1.16.5",
-    "1.20",
     "1.21",
-    "1.21.4"
+    "1.21.4",
+    "1.21.5",
+    "1.21.6"
   ],
-  "primaryMinecraftVersion": "1.21.4",
+  "primaryMinecraftVersion": "1.21.5",
   "languages": [
+    "en",
     "de"
   ],
   "primaryLanguage": "de",
@@ -29,12 +30,16 @@
   ],
   "primaryRegion": "EU",
   "website": "https://nexiko.de",
+  "store": "https://store.nexiko.de",
   "socials": {
     "discord": "https://discord.gg/6maTkjrndv",
     "twitter": "NexikoMC",
-    "youtube": "NexikoMC"
+    "youtube": "NexikoMC",
+    "tiktok": "@nexikomc"
   },
   "compliance": {
+    "privacyPolicy": "https://nexiko.de/privacy",
+    "termsOfService": "https://nexiko.de/terms",
     "rules": "https://nexiko.de/rules"
   }
 }
