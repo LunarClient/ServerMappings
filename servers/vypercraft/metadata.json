@@ -6,7 +6,7 @@
         "vypercraft.net"
     ],
     "primaryAddress": "vypercraft.net",
-    "primaryColor": "00ff27",
+    "primaryColor": "#00ff27",
     "secondaryColor": "#009717",
     "minecraftVersions": [
         "1.8.*",
