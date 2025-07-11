@@ -1,6 +1,6 @@
 {
   "id": "epicworld",
-  "name": "Epic World",
+  "name": "EpicWorld",
   "description": "The unique network, embark on your journey today.",
   "addresses": [
     "epicworld.gg"
@@ -11,7 +11,7 @@
     "1.21.4",
     "1.21.5"
   ],
-  "primaryMinecraftVersion": "1.21.3",
+  "primaryMinecraftVersion": "1.21.4",
   "primaryColor": "#3dc94c",
   "secondaryColor": "#332419",
   "primaryRegion": "NA",
@@ -25,12 +25,12 @@
   ],
   "crossplay": true,
   "languages": [
-    "es-EN"
+    "en-US"
   ],
-  "primaryLanguage": "es-EN",
+  "primaryLanguage": "en-US",
   "website": "https://epicworld.gg/",
   "socials": {
-    "discord": "https://discord.com/invite/BRuanmye6F",
+    "discord": "https://discord.gg/epicworld",
     "twitter": "epicworldgg",
     "tiktok": "@epicworldgg",
     "youtube": "@EpicWorldSMP"
