@@ -1,0 +1,21 @@
+ Server Name:
+**BloodMC**
+
+ Description:
+BloodMC is a multi-version Minecraft server with a focus on Roleplay, Survival, and PvP gameplay. We support a wide range of versions from 1.8 to 1.21 and are primarily based in the Asia region.
+
+ IP:
+`play.bloodmc.com`
+
+ Supported Versions:
+1.8.* - 1.21.*
+
+ Socials:
+[Discord](https://discord.gg/bloodmc)
+
+ Files Included:
+- metadata.json
+- logo.png (512x512)
+- background.png (1920x1080)
+
+This PR adds BloodMC to the Lunar Client server list with a custom logo and background for a polished client-side experience.
