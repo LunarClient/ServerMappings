@@ -1,0 +1,35 @@
+{
+    "id": "marspvp",
+    "name": "Mars Network",
+    "description": "Competitive PvP with events and unique gamemodes.",
+    "addresses": [
+        "marspvp.club"
+    ],
+    "primaryAddress": "play.marspvp.club",
+    "primaryColor": "#e75000",
+    "secondaryColor": "#32CD32",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "MarsNetworkOf",
+        "discord": "https://discord.gg/DDfEdRX8xu",
+        "youtube": "MarsNetworkOf"
+    }
+}

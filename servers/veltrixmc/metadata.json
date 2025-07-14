@@ -1,12 +1,12 @@
 {
     "id": "veltrixmc",
-    "name": "veltrix",
+    "name": "Veltrix",
     "store": "https://store.veltrix.club",
     "description": "Cracked Minecraft PvP Network",
     "addresses": [
         "veltrix.club"
     ],
-    "primaryAddress": "play.veltrix.club",
+    "primaryAddress": "veltrix.club",
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -21,6 +21,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/veltrixmc"
+        "discord": "https://discord.gg/5KtAkAntBf"
     }
 }

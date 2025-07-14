@@ -1,0 +1,40 @@
+{
+    "id": "aguilucho",
+    "name": "Aguilucho Network",
+    "description": "Spanish-speaking Minecraft network with seasonal Survival and Minigames.",
+    "addresses": [
+        "aguilucho.ar"
+    ],
+    "primaryAddress": "mc.aguilucho.ar",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryColor": "#e0be8c",
+    "secondaryColor": "#332419",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Open World"
+    ],
+    "crossplay": false,
+    "languages": [
+        "es-EN"
+    ],
+    "primaryLanguage": "es-EN",
+    "website": "https://www.aguilucho.ar/",
+    "socials": {
+        "discord": "https://discord.com/invite/waMta633EK"
+    }
+}
