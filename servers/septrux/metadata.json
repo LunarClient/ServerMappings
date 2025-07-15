@@ -4,9 +4,8 @@
     "website": "https://septrux.de",
     "description": "A Survival Server packed with features",
     "addresses": [
-      "play.septrux.de",
-      "play.septrux.xyz",
-      "x7f9a2bq1w3e8zlk.septrux.de"
+      "septrux.de",
+      "septrux.xyz"
     ],
     "primaryAddress": "play.septrux.de",
     "primaryColor": "#f87906",
