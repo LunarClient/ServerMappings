@@ -5,9 +5,9 @@
     "website": "https://el-doria.net/",
     "store": "https://el-doria.net/store",
     "addresses": [
-        "eu.el-doria.net"
+        "el-doria.net"
     ],
-    "primaryAddress": "eu.el-doria.net",
+    "primaryAddress": "el-doria.net",
     "primaryColor": "#acacac",
     "secondaryColor": "#0c0b10",
     "minecraftVersions": [
