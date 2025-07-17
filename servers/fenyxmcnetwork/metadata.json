@@ -1,14 +1,14 @@
 {
-  "id": "fenyxnetwork",
-  "name": "FenyxNetwork",
+  "id": "fenyxmcnetwork",
+  "name": "Fenyx MC Network",
   "website": "https://fenyxnetwork.com",
-  "description": "PvP, Bosses y Aventura en un mundo personalizado. ¡Unite ahora!",
+  "description": "PvP, bosses, and adventure on a custom Minecraft world.",
   "addresses": [
     "fenyxnetwork.com:19132"
   ],
   "primaryAddress": "fenyxnetwork.com:19132",
-  "primaryColor": "#00c3ff",
-  "secondaryColor": "#0f1117",
+  "primaryColor": "#00C3FF",
+  "secondaryColor": "#0F1117",
   "minecraftVersions": [
     "1.16.5",
     "1.17",
@@ -26,14 +26,14 @@
   "regions": [
     "SA"
   ],
-  "primaryLanguage": "es",
+  "primaryLanguage": "en",
   "languages": [
-    "es"
+    "en"
   ],
   "gameTypes": [
-    "PvP",
-    "Vanilla",
-    "Custom Survival"
+    "PVP",
+    "VANILLA",
+    "CUSTOM_SURVIVAL"
   ],
   "socials": {
     "discord": "https://discord.fenyxnetwork.com"
