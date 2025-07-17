@@ -28,9 +28,8 @@
     "en"
   ],
   "gameTypes": [
-    "PVP",
-    "VANILLA",
-    "SURVIVAL"
+    "PvP",
+    "Survival"
   ],
   "socials": {
     "discord": "https://discord.gg/fenyxnetwork"
