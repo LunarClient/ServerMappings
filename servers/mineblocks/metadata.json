@@ -34,12 +34,12 @@
     "wiki": "https://mineblocks.fr/wiki",
     "presentationVideo": "gpxtmw8sZQ0",
     "compliance": {
-        "termsOfService": "https://mineblocks.fr/cgu",
+        "termsOfService": "https://mineblocks.fr/cgu"
     },
     "socials": {
         "discord": "https://discord.gg/mineblocks",
         "youtube": "@MineblocksFR",
-        "tiktok": "@mineblocks.fr",
-    }
+        "tiktok": "@mineblocks.fr"
+    },
     "crossplay": false
 }
