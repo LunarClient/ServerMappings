@@ -1,0 +1,48 @@
+{
+  "id": "drillnetwork",
+  "name": "Drill Network",
+  "description": "Lifesteal And A Economy Server",
+  "addresses": [
+    "drillnetwork.net"
+  ],
+  "primaryAddress": "mc.drillnetwork.net",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryColor": "#00FF1F",
+  "secondaryColor": "#F2F2F2",
+  "minecraftVersions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19",
+    "1.19.3",
+    "1.19.4",
+    "1.20.1",
+    "1.20.2",
+    "1.20.4",
+    "1.20.5",
+    "1.21",
+    "1.21.1",
+    "1.21.3",
+    "1.21.4",
+    "1.21.6"
+  ],
+  "primaryMinecraftVersion": "1.21.6",
+  "languages": [
+    "en",
+    "pl",
+    "sv-SE"
+  ],
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://shop.drillnetwork.net/",
+  "tebexStore": {
+    "background": {
+      "lowerColor": "#00FF27",
+      "upperColor": "#FFFFFF"
+    }
+  }
+}
