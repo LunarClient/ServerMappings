@@ -1,0 +1,44 @@
+{
+    "id": "mineblocks",
+    "name": "MineBlocks",
+    "description": "French OneBlock server",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#e94560",
+    "addresses": [
+        "mineblocks.fr"
+    ],
+    "primaryAddress": "play.mineblocks.fr",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "gameTypes": [
+        "Skyblock",
+        "Roleplay",
+        "PvE"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "website": "https://mineblocks.fr",
+    "store": "https://store.mineblocks.fr",
+    "wiki": "https://mineblocks.fr/wiki",
+    "compliance": {
+        "termsOfService": "https://mineblocks.fr/cgu",
+    },
+    "socials": {
+        "discord": "https://discord.gg/mineblocks",
+        "youtube": "@MineblocksFR",
+        "tiktok": "@mineblocks.fr",
+    }
+    "crossplay": false
+}
