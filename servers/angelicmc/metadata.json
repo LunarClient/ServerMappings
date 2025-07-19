@@ -1,0 +1,35 @@
+{
+    "id": "angelicmc",
+    "name": "AngelicMC",
+    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
+    "addresses": [
+        "angelicmc.hu"
+    ],
+    "primaryAddress": "play.angelicmc.hu",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#A24BFA",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.angelicmc.hu",
+    "store": "https://shop.angelicmc.hu",
+    "socials": {
+        "discord": "https://discord.gg/5v58aHuJEH"
+    }
+}
