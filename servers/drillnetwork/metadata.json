@@ -1,9 +1,9 @@
 {
-  "id": "DrillNetwork",
+  "id": "drillnetwork",
   "name": "Drill Network",
-  "description": "The official DrillNetwork server.",
+  "description": "Lifesteal And A Economy Server",
   "addresses": [
-    "mc.drillnetwork.net"
+    "drillnetwork.net"
   ],
   "primaryAddress": "mc.drillnetwork.net",
   "gameTypes": [
@@ -12,9 +12,6 @@
   "primaryColor": "#00FF1F",
   "secondaryColor": "#F2F2F2",
   "minecraftVersions": [
-    "1.13",
-	"1.14",
-	"1.15",
     "1.16.5",
     "1.17.1",
     "1.18.2",
@@ -31,9 +28,10 @@
     "1.21.4",
     "1.21.6"
   ],
-  "primaryMinecraftVersion": "1.21.5",
+  "primaryMinecraftVersion": "1.21.6",
   "languages": [
     "en",
+    "pl",
     "sv-SE"
   ],
   "regions": [
