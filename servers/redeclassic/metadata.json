@@ -17,9 +17,7 @@
         "SA"
     ],
     "gameTypes": [
-        "RankUP",
-        "PvP",
-        "P4FREE"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/rzTNcNus"
