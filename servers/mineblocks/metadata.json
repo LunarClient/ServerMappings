@@ -1,7 +1,7 @@
 {
     "id": "mineblocks",
     "name": "MineBlocks",
-    "description": "French OneBlock server",
+    "description": "French OneBlock – start on one block, face phases, bosses, quests.",
     "primaryColor": "#e67e22",
     "secondaryColor": "#e94560",
     "addresses": [
