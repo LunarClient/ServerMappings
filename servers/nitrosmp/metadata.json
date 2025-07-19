@@ -21,8 +21,8 @@
         "EU"
     ],
     "gameTypes": [
-        "Open World"
-        "Survival"
+        "Open World",
+        "Survival",
         "PvP"
     ],
     "website": "https://www.nitrosmp.net",
