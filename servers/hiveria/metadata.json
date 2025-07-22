@@ -1,0 +1,32 @@
+{
+    "id": "hiveria",
+    "name": "hiveria",
+    "website": "https://hiveria.fr/",
+    "store": "https://hiveria.fr/shop",
+    "addresses": [
+        "hiveria.fr"
+    ],
+    "primaryAddress": "play.hiveria.fr",
+    "primaryColor": "#43c9d1",
+    "secondaryColor": "#61e3ce",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hsfEvs5T5r"
+    }
+}
