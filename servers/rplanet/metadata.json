@@ -2,7 +2,7 @@
     "id": "rplanet",
     "name": "Racsu Planet",
     "website": "https://www.racsu.com/",
-    "description": "Survival MMORPG - Spanish Server",
+    "description": "Survival - Skyblock - Spanish Server",
     "addresses": [
         "racsu.com"
     ],
@@ -10,9 +10,16 @@
     "primaryColor": "#679FF4",
     "secondaryColor": "#39ADE3",
     "minecraftVersions": [
-        "1.21.4"
+        "1.12.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
     ],
-    "primaryMinecraftVersion": "1.21.4",
+    "primaryMinecraftVersion": "1.21.5",
     "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
@@ -25,7 +32,7 @@
     "store": "https://tienda.racsu.com",
     "gameTypes": [
         "Survival",
-        "Adventure",
+        "Skyblock",
         "PvE"
     ],
     "presentationVideo": "sJfOrCGDVYM",
