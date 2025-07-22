@@ -1,0 +1,47 @@
+{
+  "id": "planetmc",
+  "name": "PlanetMC",
+  "description": "Gioca alla fantasia survival di planetmc!",
+  "addresses": [
+    "planetmc.pro"
+  ],
+  "primaryAddress": "play.planetmc.pro",
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "primaryColor": "#005AA5",
+  "secondaryColor": "#007E45",
+  "minecraftVersions": [
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://planetmc.pro",
+  "store": "https://store.planetmc.pro",
+  "socials": {
+    "discord": "https://discord.com/invite/NJFCY8b2vV",
+    "tiktok": "@planetmc.pro"
+  }
+}
