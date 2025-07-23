@@ -1,13 +1,13 @@
 {
-    "id": "vypercraft",
-    "name": "VyperCraft Network",
-    "store": "https://shop.vypercraft.net/",
+    "id": "furiamc",
+    "name": "FuriaMC Network",
+    "store": "https://furiamc.tip4serv.com/",
     "addresses": [
-        "vypercraft.net"
+        "furiamc.net"
     ],
-    "primaryAddress": "vypercraft.net",
-    "primaryColor": "#00ff27",
-    "secondaryColor": "#009717",
+    "primaryAddress": "furiamc.net",
+    "primaryColor": "#fe1717",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -26,6 +26,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/zhC3JatK8b",
-        "youtube": "Vypercraft"
+        "youtube": "FuriaMC"
     }
 }
