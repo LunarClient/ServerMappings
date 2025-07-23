@@ -1,33 +1,26 @@
 {
-  "id": "articpvp",
-  "name": "ArticPvP",
-  "store": "https://store.articpvp.net/",
-  "addresses": [
-    "articpvp.net"
-  ],
-  "primaryAddress": "articpvp.net",
-  "primaryColor": "#00d4ff",
-  "secondaryColor": "#0a0a0a",
-  "minecraftVersions": [
-    "1.7.*",
-    "1.8.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryRegion": "NA",
-  "primaryLanguage": "es-EN",
-  "languages": [
-    "es-EN",
-    "en"
-  ],
-  "regions": [
-    "NA"
-  ],
-  "gameTypes": [
-    "HCF",
-    "PvP"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/TUINVITE",
-    "tiktok": "@articpvp.network"
-  }
+    "id": "articpvp",
+    "name": "ArticPvP Network",
+    "store": "https://store.articpvp.com/",
+    "description": "PotPvP competitive based server",
+    "addresses": [
+        "articpvp.com"
+    ],
+    "primaryAddress": "articpvp.com",
+    "primaryColor": "#33fffc",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.articpvp.com/"
+    }
 }
