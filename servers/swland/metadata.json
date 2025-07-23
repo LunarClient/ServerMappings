@@ -1,41 +1,37 @@
 {
     "id": "swland",
     "name": "SWLand",
-    "description": "Best SkyWars & Practice Network!",
+    "description": "Best Skywars and Practice Network!",
     "addresses": [
-        "SWLand.de"
+        "SWLand.de",
     ],
     "primaryAddress": "SWLand.de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#ff7b00",
     "secondaryColor": "#00ff00",
     "primaryLanguage": "de",
     "languages": [
         "de"
-	],
+    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU",
-        "AS"
+        "OC",
+        "AS",
+        "SA"
     ],
-    "minecraftVersions": [
-	    "1.7*",
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
-        "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.swland.de",
-        "twitter": "@SWLandDE"
-    
+        "twitter": "@SWLandDE",
+        "youtube": "SWLand",
+        "discord": "https://discord.swland.de"
+    },
+    "crossplay": false
 }
