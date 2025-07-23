@@ -1,8 +1,8 @@
 {
     "id": "lifesteal",
-    "name": "LifeSteal Network",
+    "name": "Lifesteal Network",
     "store": "https://store.lifesteal.net/",
-    "description": "The LifeSteal Network is a semi-anarchy survival Minecraft server.",
+    "description": "Battle for survival and wealth today on Lifesteal Network!",
     "addresses": [
         "lifesteal.net"
     ],
@@ -10,15 +10,9 @@
     "primaryColor": "#ef3660",
     "secondaryColor": "#e91400",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.2",
+    "primaryMinecraftVersion": "1.21.4",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -30,9 +24,11 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP"
+        "PvP",
+        "Hardcore"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/lifestealnet"
+        "discord": "https://discord.com/invite/lifestealnet",
+        "twitter": "LifestealNet"
     }
 }
