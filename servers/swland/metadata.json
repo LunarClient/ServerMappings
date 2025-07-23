@@ -1,45 +1,45 @@
 {
-    "id": "swland",
-    "name": "SWLand",
-    "description": "Best SkyWars Practice Server!",
-    "addresses": [
-        "SWLand.de",
-    ],
-    "primaryAddress": "SWLand.de",
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff7b00",
-    "secondaryColor": "#00ff00",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
-    ],
-    "gameTypes": [
-        "PvP"
-    ],
-    "website": "https://www.SWLand.de",
-    "store": "https://store.SWLand.de",
-    "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
-    },
-    "presentationVideo": "7EV4cPuJvXE",
-    "socials": {
-        "twitter": "@SWLandDE",
-        "youtube": "SWLandDE",
-        "discord": "https://discord.SWLand.de"
-    },
-    "crossplay": false
+  "id": "swland",
+  "name": "SWLand",
+  "description": "Best SkyWars Practice Server!",
+  "primaryAddress": "SWLand.de",
+  "addresses": [
+    "SWLand.de"
+  ],
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#ff7b00",
+  "secondaryColor": "#00ff00",
+  "presentationVideo": "7EV4cPuJvXE",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "primaryRegion": "EU",
+  "gameTypes": [
+    "PvP"
+  ],
+  "crossplay": false,
+  "socials": {
+    "twitter": "https://twitter.com/SWLandDE",
+    "youtube": "https://www.youtube.com/@SWLandDE",
+    "discord": "https://discord.SWLand.de"
+  },
+  "website": "https://www.SWLand.de",
+  "store": "https://store.SWLand.de",
+  "compliance": {
+    "privacyPolicy": "https://www.lunar.gg/privacy",
+    "termsOfService": "https://www.lunar.gg/terms",
+    "rules": "https://www.lunar.gg/rules"
+  }
 }
