@@ -2,9 +2,9 @@
   "id": "swland",
   "name": "SWLand",
   "description": "Best SkyWars Practice Server!",
-  "primaryAddress": "SWLand.de",
+  "primaryAddress": "swland.de",
   "addresses": [
-    "SWLand.de"
+    "swland.de"
   ],
   "minecraftVersions": [
     "1.7.*",
@@ -32,11 +32,11 @@
   "crossplay": false,
   "socials": {
     "twitter": "https://twitter.com/SWLandDE",
-    "youtube": "https://www.youtube.com/@SWLandDE",
-    "discord": "https://discord.SWLand.de"
+    "youtube": "https://www.youtube.com/SWLandDE",
+    "discord": "https://discord.gg/QxkpRb4f8v"
   },
-  "website": "https://www.SWLand.de",
-  "store": "https://store.SWLand.de",
+  "website": "https://www.swland.de",
+  "store": "https://store.swland.de",
   "compliance": {
     "privacyPolicy": "https://www.lunar.gg/privacy",
     "termsOfService": "https://www.lunar.gg/terms",
