@@ -3,6 +3,7 @@
     "name": "BlockDojo",
     "description": "Block Placement Practice",
     "addresses": [
+        "blockdojo.eu",
         "mc.blockdojo.eu"
     ],
     "primaryAddress": "blockdojo.eu",
