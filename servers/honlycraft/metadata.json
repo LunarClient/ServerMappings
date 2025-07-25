@@ -7,12 +7,18 @@
         "honlycraft.com",
         "honlycraft.us"
     ],
-    "primaryAddress": "play.honlycraft.com",
+    "primaryAddress": "mc.honlycraft.us",
     "minecraftVersions": [
-        "1.20.*",
-        "1.8.*"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryColor": "#003EFF",
     "secondaryColor": "#0FA1FF",
     "primaryLanguage": "es-EN",
@@ -25,9 +31,10 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival"
+        "Survival",
+        "Minigames"
     ],
     "socials": {    
-        "discord":"https://discord.com/invite/VJFSADt4Sb"
+        "discord":"https://discord.gg/Skz62KF33d"
     }
 }    

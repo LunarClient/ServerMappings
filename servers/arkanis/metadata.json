@@ -1,0 +1,32 @@
+{
+    "id": "arkanis",
+    "name": "Arkanis",
+    "description": "Multigame server. (Oneblock, Survival)",
+    "addresses": [
+        "arkanis.fr"
+    ],
+    "primaryAddress": "play.arkanis.fr",
+    "gameTypes": [
+        "Adventure",
+        "Skyblock",
+        "PvE"
+    ],
+    "primaryColor": "#FCB454",
+    "secondaryColor": "#FCB454",
+    "primaryMinecraftVersion": "1.20.4",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/arkanistudios"
+    }
+}

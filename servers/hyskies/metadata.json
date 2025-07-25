@@ -1,0 +1,34 @@
+{
+    "id": "hyskies",
+    "name": "Hyskies",
+    "description": "Hyskies: A Minecraft server for community, creativity, and diverse gameplay!",
+    "store": "https://store.hyskies.net",    
+    "addresses": [
+        "hyskies.net"
+    ],
+    "primaryAddress": "play.hyskies.net",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#42c5f5",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+
+    "socials": {
+        "tiktok": "@hyskies",
+        "discord": "https://discord.gg/4SEurzckQw",
+        "twitter": "@hyskies"
+    },
+    "crossplay": true
+}
