@@ -1,0 +1,36 @@
+{
+    "id": "BlockDojo",
+    "name": "BlockDojo",
+    "description": "Block Placement Practice",
+    "addresses": [
+        "mc.blockdojo.eu"
+    ],
+    "primaryAddress": "mc.blockdojo.eu",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS",
+        "AF",
+        "OC",
+        "SA"
+    ],
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "store": "https://discord.gg/pvjkWDTxzC",
+    "socials": {
+        "discord": "https://discord.gg/pvjkWDTxzC"
+    }
+}
