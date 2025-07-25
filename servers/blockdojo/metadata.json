@@ -3,7 +3,7 @@
     "name": "BlockDojo",
     "description": "Block Placement Practice",
     "addresses": [
-        "mc.blockdojo.eu"
+        "blockdojo.eu"
     ],
     "primaryAddress": "mc.blockdojo.eu",
     "primaryColor": "#ff0000",
