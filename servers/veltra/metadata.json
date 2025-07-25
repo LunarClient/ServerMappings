@@ -4,7 +4,7 @@
     "website": "https://www.veltra.lol/",
     "store": "https://www.veltra.lol/store",
     "addresses": [
-        "veltra.lol
+        "veltra.lol"
     ],
     "primaryAddress": "veltra.lol",
     "primaryColor": "#ffaa00",
@@ -18,8 +18,7 @@
     "gameTypes": [
         "UHC Meetup",
         "UHC",
-        "Free for All",
-        "Arena"
+        "PvP",
     ],
     "socials": {
         "twitter": "VeltraLand",
