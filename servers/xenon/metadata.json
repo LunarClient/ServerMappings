@@ -5,6 +5,9 @@
     "addresses": [
         "xenon.club"
     ],
+    "primaryAddress": "xenon.club",
+    "primaryColor": "#ff19be",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.20.*",
         "1.19.*",
@@ -13,9 +16,6 @@
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryAddress": "xenon.club",
-    "primaryColor": "#ff19be",
-    "secondaryColor": "#ffffff",
     "gameTypes": [
         "PvP",
         "Survival",

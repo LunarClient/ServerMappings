@@ -8,6 +8,8 @@
         "wildmc.live"
     ],
     "primaryAddress": "wildmc.live",
+    "primaryColor": "#00FE38",
+    "secondaryColor": "#F7F8F7",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,15 +21,13 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#00FE38",
-    "secondaryColor": "#F7F8F7",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

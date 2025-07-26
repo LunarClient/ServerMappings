@@ -24,7 +24,7 @@
         "AS"
     ],
     "gameTypes": [
-	"Factions",
+        "Factions",
         "Survival",
         "Roleplay"
     ],

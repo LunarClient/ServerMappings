@@ -1,14 +1,15 @@
 {
     "id": "redescreen",
     "name": "Screen Network",
-    "description": "One of the biggest servers in Brazil!",
     "website": "https://loja.redescreen.com/",
-    "primaryAddress": "redescreen.com",
-    "gameTypes": [
-        "Prison",
-        "Minigames",
-        "PvP"
+    "description": "One of the biggest servers in Brazil!",
+    "addresses": [
+        "redescreen.com",
+        "redereset.com"
     ],
+    "primaryAddress": "redescreen.com",
+    "primaryColor": "#EF6C00",
+    "secondaryColor": "#F9A825",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
@@ -20,17 +21,16 @@
     "regions": [
         "NA"
     ],
-    "addresses": [
-        "redescreen.com",
-        "redereset.com"
-    ],
     "primaryLanguage": "pt-BR",
     "languages": [
         "pt-PT",
         "pt-BR"
     ],
-    "primaryColor": "#EF6C00",
-    "secondaryColor": "#F9A825",
+    "gameTypes": [
+        "Prison",
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "ServidorScreen",
         "discord": "https://discord.gg/pbe8jkzD4J",

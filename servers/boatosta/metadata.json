@@ -36,6 +36,10 @@
         "discord": "https://discord.com/invite/Yxw4NpU2qc",
         "instagram": "boatostastudios"
     },
+    "compliance": {
+        "rules": "https://boatosta.net/rules.html",
+        "support": "https://discord.com/invite/Yxw4NpU2qc"
+    },
     "votingLinks": [
         "https://minecraftservers.org/server/672102",
         "https://topminecraftservers.org/server/40272",
@@ -45,9 +49,5 @@
         "https://play-minecraft-servers.com/minecraft-servers/boatosta-network",
         "https://minecraftbestservers.com/server-boatosta-network.4722",
         "https://www.planetminecraft.com/server/boatosta-network"
-    ],
-    "compliance": {
-        "rules": "https://boatosta.net/rules.html",
-        "support": "https://discord.com/invite/Yxw4NpU2qc"
-    }
+    ]
 }

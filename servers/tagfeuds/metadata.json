@@ -1,39 +1,39 @@
 {
-  "id": "tagfeuds",
-  "name": "Tag Feuds",
-  "store": "https://store.tagfeuds.com",
-  "description": "Play custom TNT Tag Gamemodes!",
-  "addresses": [
-    "tagfeuds.com"
-  ],
-  "primaryAddress": "play.tagfeuds.com",
-  "primaryColor": "#FF55FF",
-  "secondaryColor": "#7F00FF",
-  "minecraftVersions": [
-    "1.8.*",
-    "1.12.*",
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "crossplay": false,
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "primaryLanguage": "en",
-  "languages": [
-    "en"
-  ],
-  "gameTypes": [
-    "PvP",
-    "Minigames",
-    "Parkour"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/tagfeuds"
-  }
+    "id": "tagfeuds",
+    "name": "Tag Feuds",
+    "store": "https://store.tagfeuds.com",
+    "description": "Play custom TNT Tag Gamemodes!",
+    "addresses": [
+        "tagfeuds.com"
+    ],
+    "primaryAddress": "play.tagfeuds.com",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#7F00FF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/tagfeuds"
+    }
 }

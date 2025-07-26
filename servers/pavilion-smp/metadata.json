@@ -6,16 +6,16 @@
         "playpavilion.net"
     ],
     "primaryAddress": "playpavilion.net",
+    "primaryColor": "#03c60c",
+    "secondaryColor": "#00e0ff",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#03c60c",
-    "secondaryColor": "#00e0ff",
+    "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryRegion": "NA",
     "gameTypes": [
         "Open World",
         "Survival",

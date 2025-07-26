@@ -3,7 +3,7 @@
     "name": "AkumaMC",
     "website": "https://akumamc.net/",
     "store": "https://store.akumamc.net/",
-    "description" : "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
+    "description": "A Java and Bedrock compatible server with OP Prison and Skyblock gamemodes",
     "addresses": [
         "akumamc.net"
     ],

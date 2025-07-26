@@ -6,11 +6,6 @@
         "leafpvp.net"
     ],
     "primaryAddress": "mc.leafpvp.net",
-    "gameTypes": [
-        "PvP",
-        "UHC",
-        "Minigames"
-    ],
     "primaryColor": "#00ff00",
     "secondaryColor": "#008000",
     "minecraftVersions": [
@@ -20,6 +15,11 @@
     "primaryMinecraftVersion": "1.7.10",
     "regions": [
         "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/zPzVG4yAeh",

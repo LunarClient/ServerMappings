@@ -18,12 +18,12 @@
     "regions": [
         "NA"
     ],
-    "socials": {
-        "twitter": "VisionMC_RIP",
-        "discord": "https://discord.gg/dErXwWyJsr"
-    },
     "gameTypes": [
         "PvP",
         "Minigames"
-    ]
+    ],
+    "socials": {
+        "twitter": "VisionMC_RIP",
+        "discord": "https://discord.gg/dErXwWyJsr"
+    }
 }

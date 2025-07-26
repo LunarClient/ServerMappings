@@ -1,45 +1,45 @@
 {
-  "id": "pizzacloud",
-  "name": "Pizzacloud",
-  "description": "Pizzacloud is a minigames network with frequent updates and a premium experience",
-  "addresses": [
-    "pizzacloud.nl"
-  ],
-  "primaryAddress": "pizzacloud.nl",
-  "gameTypes": [
-    "Minigames",
-    "Parkour",
-    "Survival"
-  ],
-  "primaryColor": "#F9BE22",
-  "secondaryColor": "#C98B2B",
-  "minecraftVersions": [
-    "1.20",
-    "1.20.1",
-    "1.20.2",
-    "1.20.3",
-    "1.20.4",
-    "1.20.5",
-    "1.20.6",
-    "1.21",
-    "1.21.1",
-    "1.21.2",
-    "1.21.3",
-    "1.21.4",
-    "1.21.5"
-  ],
-  "primaryMinecraftVersion": "1.21.5",
-  "languages": [
-    "en",
-    "nl"
-  ],
-  "regions": [
-    "EU",
-    "NA",
-    "SA"
-  ],
-  "primaryRegion": "EU",
-  "socials": {
-    "discord": "https://discord.gg/bJ9UfrGS7q"
-  }
+    "id": "pizzacloud",
+    "name": "Pizzacloud",
+    "description": "Pizzacloud is a minigames network with frequent updates and a premium experience",
+    "addresses": [
+        "pizzacloud.nl"
+    ],
+    "primaryAddress": "pizzacloud.nl",
+    "primaryColor": "#F9BE22",
+    "secondaryColor": "#C98B2B",
+    "minecraftVersions": [
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Parkour",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bJ9UfrGS7q"
+    }
 }

@@ -2,7 +2,7 @@
     "id": "gorium",
     "name": "Gorium Network",
     "website": "https://gorium.net/",
-    "store": "https://store.gorium.net/",    
+    "store": "https://store.gorium.net/",
     "addresses": [
         "gorium.net"
     ],
@@ -29,9 +29,9 @@
         "PvP",
         "Survival"
     ],
-    "socials": {    
+    "socials": {
         "discord": "https://discord.com/invite/GeQuBB9M2E",
         "youtube": "UCJH3zxoGpZBmut0quxE244g",
         "twitter": "goriumnetwork"
     }
-} 
+}

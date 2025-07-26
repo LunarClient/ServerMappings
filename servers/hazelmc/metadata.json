@@ -21,13 +21,13 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "en",
         "es-EN"
-    ],
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "HCF",

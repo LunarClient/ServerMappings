@@ -6,27 +6,27 @@
         "wildpvp.cc"
     ],
     "primaryAddress": "play.wildpvp.cc",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#AA0000",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "HCF"
     ],
     "socials": {
         "discord": "https://discord.com/invite/7jBgT8cnCd"
-    },
-    "crossplay": false
+    }
 }

@@ -1,14 +1,15 @@
 {
     "id": "blocksmc",
     "name": "BlocksMC",
-    "description": "A competitive Minecraft network featuring BedWars, SkyWars, and more.",
     "website": "https://blocksmc.com/",
     "store": "https://blocksmc.com/store",
-    "primaryAddress": "premium.blocksmc.com",
+    "description": "A competitive Minecraft network featuring BedWars, SkyWars, and more.",
     "addresses": [
         "blocksmc.com"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryAddress": "premium.blocksmc.com",
+    "primaryColor": "#001414",
+    "secondaryColor": "#008cd3",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -20,8 +21,8 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryColor": "#001414",
-    "secondaryColor": "#008cd3",
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -35,20 +36,18 @@
         "Minigames",
         "PvP"
     ],
-     "compliance": {
-        "privacyPolicy": "https://blocksmc.com/privacy-policy",
-        "termsOfService": "https://blocksmc.com/general-terms",
-        "rules": "https://blocksmc.com/rules",
-        "support": "https://discord.gg/rDxUS57"
-    },
     "socials": {
         "discord": "https://discord.gg/blocksmc",
         "instagram": "BlocksMC",
         "twitter": "BlocksMC",
         "youtube": "blocksmcyoutube",
-        "instagram": "BlocksMC",
         "tiktok": "@blocksmctiktok"
     },
-    "presentationVideo": "KwJt3Rtoagg",
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://blocksmc.com/privacy-policy",
+        "termsOfService": "https://blocksmc.com/general-terms",
+        "rules": "https://blocksmc.com/rules",
+        "support": "https://discord.gg/rDxUS57"
+    },
+    "presentationVideo": "KwJt3Rtoagg"
 }
