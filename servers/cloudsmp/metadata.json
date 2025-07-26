@@ -1,11 +1,11 @@
 {
   "id": "cloudsmp",
-  "name": "CloudSmp",
+  "name": "CloudMC",
   "description": "The Best Anarchry Minecraft Server Out",
   "addresses": [
-    "cloudsmp.cloud"
+    "cloudmc.net"
   ],
-  "primaryAddress": "mc.cloudsmp.cloud",
+  "primaryAddress": "cloudmc.net",
   "gameTypes": [
     "Survival"
   ],
@@ -20,7 +20,7 @@
   ],
   "primaryLanguage": "en",
   "regions": [
-    "OC"
+    "EU"
   ],
   "socials": {
     "discord": "https://discord.gg/cloudsmpfr",
