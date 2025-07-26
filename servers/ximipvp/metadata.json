@@ -1,16 +1,16 @@
 {
   "id": "ximipvp",
   "name": "XimiPvP",
-  "description": "Server Practice e PvP competitivo per le versioni 1.7 e 1.8.",
-  "addresses":  [
-        "ximipvp.eu",
-        "ximipvp.com",
-        "ximi.lol",
-    ],
+  "description": "Server Practice e PvP competitivo per Minecraft 1.7 e 1.8",
+  "addresses": [
+    "ximipvp.eu",
+    "ximipvp.com",
+    "ximi.lol"
+  ],
   "primaryAddress": "ximi.lol",
   "minecraftVersions": [
-    "1.7.*",
-    "1.8.*"
+    "1.7.10",
+    "1.8.9"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#FF5555",
@@ -26,8 +26,8 @@
     "NA"
   ],
   "gameTypes": [
-    "Practice",
-    "PvP"
+    "PvP",
+    "Minigames"
   ],
   "store": "https://store.ximipvp.eu",
   "socials": {
