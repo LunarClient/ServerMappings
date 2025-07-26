@@ -1,18 +1,15 @@
 {
     "id": "takumauhc",
     "name": "TakumaUHC",
-    "description": "TakumaUHC is a PVP minecraft server featuring dozens of mini-games.",
+    "website": "https://takumauhc.fr/",
     "store": "https://store.takumauhc.fr/",
+    "description": "TakumaUHC is a PVP minecraft server featuring dozens of mini-games.",
     "addresses": [
         "takumauhc.fr"
     ],
     "primaryAddress": "takumauhc.fr",
     "primaryColor": "#55aaff",
     "secondaryColor": "#004991",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -21,12 +18,15 @@
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
     "gameTypes": [
         "UHC",
         "Minigames",
         "PvP"
     ],
-    "website": "https://takumauhc.fr/",
     "socials": {
         "instagram": "takumauhc",
         "tiktok": "@takumauhc",

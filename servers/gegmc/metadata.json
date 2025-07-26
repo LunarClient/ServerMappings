@@ -1,12 +1,16 @@
 {
     "id": "gegmc",
     "name": "GegMC Network",
+    "website": "https://www.gegmc.net",
+    "store": "https://tienda.gegmc.net",
     "description": "GegMC is THE Hispanic Minecraft server that will never disappoint you.",
     "addresses": [
         "gegmc.net",
         "gegcraft.org"
     ],
     "primaryAddress": "gegmc.net",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#9ee3ff",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
@@ -16,26 +20,22 @@
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#9ee3ff",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
-    "website": "https://www.gegmc.net",
-    "store": "https://tienda.gegmc.net",
     "socials": {
         "discord": "https://discord.gg/gegmc"
-    },
-    "crossplay": true
+    }
 }

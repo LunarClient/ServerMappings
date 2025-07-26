@@ -7,6 +7,8 @@
         "mineventure.org"
     ],
     "primaryAddress": "play.mineventure.org",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FF5555",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -26,8 +28,6 @@
         "en",
         "es-EN"
     ],
-    "primaryColor": "#AA0000",
-    "secondaryColor": "#FF5555",
     "gameTypes": [
         "PvP",
         "HCF",

@@ -1,9 +1,9 @@
 {
     "id": "gravemc",
     "name": "GraveMC",
-    "description": "The graveyard you wish to stay in",
     "website": "https://www.gravemc.net/",
     "store": "https://store.gravemc.net/",
+    "description": "The graveyard you wish to stay in",
     "addresses": [
         "gravemc.net"
     ],

@@ -2,7 +2,7 @@
     "id": "boolymc",
     "name": "BoolyMc",
     "website": "https://boolymc.net/",
-    "store": "https://tienda.boolymc.net",    
+    "store": "https://tienda.boolymc.net",
     "addresses": [
         "boolymc.net"
     ],
@@ -29,7 +29,7 @@
         "PvP",
         "Survival"
     ],
-    "socials": {    
+    "socials": {
         "discord": "https://discord.com/invite/booly"
     }
-} 
+}

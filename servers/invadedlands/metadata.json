@@ -13,7 +13,6 @@
     "primaryAddress": "invadedlands.net",
     "primaryColor": "#f5bc04",
     "secondaryColor": "#2c2829",
-    "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -24,13 +23,14 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

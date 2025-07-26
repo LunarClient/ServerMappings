@@ -1,11 +1,14 @@
 {
     "id": "avalor",
     "name": "Avalor",
+    "store": "https://avalor.tebex.io",
     "description": "Minecraft fun and competitive network",
     "addresses": [
         "avalormc.cc"
     ],
     "primaryAddress": "avalormc.cc",
+    "primaryColor": "#5FB2FF",
+    "secondaryColor": "#5FA4FF",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,24 +18,21 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#5FB2FF",
-    "secondaryColor": "#5FA4FF",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://avalor.tebex.io",
     "socials": {
         "twitter": "avalornet",
         "discord": "https://discord.gg/nRq77GRqZP"
-    },
-    "crossplay": true
+    }
 }

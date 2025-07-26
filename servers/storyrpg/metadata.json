@@ -7,6 +7,8 @@
         "storyrpg.it"
     ],
     "primaryAddress": "play.storyrpg.it",
+    "primaryColor": "#FBE108",
+    "secondaryColor": "#FF9F0A",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,18 +19,16 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FBE108",
-    "secondaryColor": "#FF9F0A",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
     "gameTypes": [
-	"Survival",
+        "Survival",
         "Minigames"
     ],
     "socials": {

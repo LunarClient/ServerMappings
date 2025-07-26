@@ -1,6 +1,8 @@
 {
     "id": "kaizenmc",
     "name": "KaizenMC",
+    "website": "https://kaizenmc.gg",
+    "store": "https://kaizenmc.gg",
     "description": "A server designed for you!",
     "addresses": [
         "kaizenmc.gg",
@@ -8,6 +10,8 @@
         "kaizen.gay"
     ],
     "primaryAddress": "kaizenmc.gg",
+    "primaryColor": "#9916d8",
+    "secondaryColor": "#ed30ed",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,29 +23,25 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#9916d8",
-    "secondaryColor": "#ed30ed",
-    "primaryLanguage": "pt-BR",
-    "languages": [
-        "pt-BR"
-    ],
+    "crossplay": false,
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
     "gameTypes": [
         "PvP",
-		"Minigames"
+        "Minigames"
     ],
-    "website": "https://kaizenmc.gg",
-    "store": "https://kaizenmc.gg",
-    "presentationVideo": "Y4x7wZinVME",
     "socials": {
         "twitter": "RedeKaizenMC",
         "discord": "https://discord.gg/kaizenmc",
-		"instagram": "redekaizenmc",
-		"tiktok": "@redekaizenmc",
-		"youtube": "@RedeKaizenMC"
+        "instagram": "redekaizenmc",
+        "tiktok": "@redekaizenmc",
+        "youtube": "@RedeKaizenMC"
     },
-    "crossplay": false
+    "presentationVideo": "Y4x7wZinVME"
 }

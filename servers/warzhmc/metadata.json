@@ -1,9 +1,9 @@
 {
     "id": "warzhmc",
     "name": "Warzh MC",
-    "description": "Warzh MC is a server from brasil.!",
     "website": "https://loja.warzh.com.br/",
     "store": "https://loja.warzh.com.br/",
+    "description": "Warzh MC is a server from brasil.!",
     "addresses": [
         "warzh.com.br"
     ],
@@ -14,6 +14,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -28,6 +29,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/4E2FY6AZQj"
-    },
-    "crossplay": true
+    }
 }
