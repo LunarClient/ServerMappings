@@ -7,12 +7,12 @@
         "veltrix.club"
     ],
     "primaryAddress": "veltrix.club",
+    "primaryColor": "#5865F2",
+    "secondaryColor": "#0000ff",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#5865F2",
-    "secondaryColor": "#0000ff",
     "primaryRegion": "AS",
     "regions": [
         "AS"

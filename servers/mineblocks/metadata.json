@@ -1,26 +1,21 @@
 {
     "id": "mineblocks",
     "name": "MineBlocks",
+    "website": "https://mineblocks.fr",
+    "store": "https://store.mineblocks.fr",
+    "wiki": "https://mineblocks.fr/wiki",
     "description": "French OneBlock, start on one block, face phases, bosses, quests.",
-    "primaryColor": "#e67e22",
-    "secondaryColor": "#e94560",
     "addresses": [
         "mineblocks.fr"
     ],
     "primaryAddress": "play.mineblocks.fr",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#e94560",
     "minecraftVersions": [
         "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "gameTypes": [
-        "Skyblock",
-        "Roleplay",
-        "PvE"
-    ],
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -29,17 +24,22 @@
         "AS",
         "SA"
     ],
-    "website": "https://mineblocks.fr",
-    "store": "https://store.mineblocks.fr",
-    "wiki": "https://mineblocks.fr/wiki",
-    "presentationVideo": "gpxtmw8sZQ0",
-    "compliance": {
-        "termsOfService": "https://mineblocks.fr/cgu"
-    },
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Roleplay",
+        "PvE"
+    ],
     "socials": {
         "discord": "https://discord.gg/mineblocks",
         "youtube": "@MineblocksFR",
         "tiktok": "@mineblocks.fr"
     },
-    "crossplay": false
+    "compliance": {
+        "termsOfService": "https://mineblocks.fr/cgu"
+    },
+    "presentationVideo": "gpxtmw8sZQ0"
 }

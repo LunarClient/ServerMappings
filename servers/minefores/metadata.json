@@ -1,12 +1,15 @@
 {
     "id": "minefores",
     "name": "Minefores Network",
+    "website": "https://minefores.net/",
+    "store": "https://tienda.minefores.net/",
     "description": "A premium experience totally free of charge",
     "addresses": [
         "minefores.net"
     ],
     "primaryAddress": "mc.minefores.net",
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryColor": "#ff8833",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,22 +17,19 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
-    "website": "https://minefores.net/",
-    "store": "https://tienda.minefores.net/",
-    "primaryColor": "#ff8833",
-    "secondaryColor": "#ffffff",
     "socials": {
         "twitter": "Minefores",
         "discord": "https://discord.com/invite/uMKM9Hwj3g",

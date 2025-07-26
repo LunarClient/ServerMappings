@@ -3,7 +3,7 @@
     "name": "TalonMC",
     "website": "https://store.talonmc.net/",
     "store": "https://store.talonmc.net/",
-    "description" : "A Java and Bedrock compatible server with Prison gamemode",
+    "description": "A Java and Bedrock compatible server with Prison gamemode",
     "addresses": [
         "talonmc.net"
     ],

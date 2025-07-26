@@ -8,11 +8,6 @@
     ],
     "primaryAddress": "play.mcmanhunt.com",
     "primaryColor": "#e8a107",
-    "primaryRegion": "NA",
-    "crossplay": false,
-    "regions": [
-        "NA"
-    ],
     "secondaryColor": "#2d2626",
     "minecraftVersions": [
         "1.18.*",
@@ -21,6 +16,11 @@
         "1.21.1"
     ],
     "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
         "Minigames",
         "Survival",

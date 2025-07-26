@@ -5,6 +5,8 @@
         "ninfea.fun"
     ],
     "primaryAddress": "play.ninfea.fun",
+    "primaryColor": "#d433ff",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -17,15 +19,13 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#d433ff",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

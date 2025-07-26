@@ -1,24 +1,21 @@
 {
     "id": "oclusnetwork",
     "name": "Oclus Network",
+    "store": "https://tienda.oclusmc.net",
     "description": "A really cool and fantastic minecraft server",
     "addresses": [
         "oclusmc.net"
     ],
     "primaryAddress": "mc.oclusmc.net",
+    "primaryColor": "#ee67ff",
+    "secondaryColor": "#ff1bfd",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#ee67ff",
-    "secondaryColor": "#ff1bfd",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -27,14 +24,17 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Prison"
     ],
-    "store": "https://tienda.oclusmc.net",
     "socials": {
         "discord": "https://discord.com/invite/63JAtrXsWT"
-    },
-    "crossplay": true
+    }
 }

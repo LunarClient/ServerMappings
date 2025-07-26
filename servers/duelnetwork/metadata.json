@@ -1,31 +1,31 @@
 {
     "id": "duelnetwork",
     "name": "Duel Network",
+    "store": "https://store.duel.rip/",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "duel.rip"
     ],
     "primaryAddress": "duel.rip",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Minigames"
     ],
-    "store": "https://store.duel.rip/",
     "socials": {
         "discord": "https://discord.gg/duelnetwork"
-    },
-    "crossplay": true
-} 
+    }
+}

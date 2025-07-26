@@ -1,38 +1,38 @@
 {
     "id": "cytonetwork",
     "name": "Cyto Network",
+    "website": "https://cytonetwork.net",
+    "store": "https://store.cytonetwork.net",
     "description": "Quality SMP Server since 2022",
     "addresses": [
         "cytonetwork.net"
     ],
     "primaryAddress": "play.cytonetwork.net",
+    "primaryColor": "#1f57f8",
+    "secondaryColor": "#01bdfa",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.3",
-    "primaryColor": "#1f57f8",
-    "secondaryColor": "#01bdfa",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://cytonetwork.net",
-    "store": "https://store.cytonetwork.net",
-    "compliance": {
-        "privacyPolicy": "https://cytonetwork.net/help/privacy-policy",
-        "termsOfService": "https://cytonetwork.net/help/terms",
-        "rules": "https://cytonetwork.net/threads/rules-information.68"
-    },
     "socials": {
         "twitter": "CytoNetwork",
         "discord": "https://discord.gg/PjnHUMkqBM"
     },
-    "crossplay": true
+    "compliance": {
+        "privacyPolicy": "https://cytonetwork.net/help/privacy-policy",
+        "termsOfService": "https://cytonetwork.net/help/terms",
+        "rules": "https://cytonetwork.net/threads/rules-information.68"
+    }
 }

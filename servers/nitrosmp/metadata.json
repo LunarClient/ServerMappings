@@ -1,35 +1,35 @@
 {
     "id": "nitrosmp",
     "name": "NitroSMP",
+    "website": "https://www.nitrosmp.net",
     "description": "A German SMP Server",
     "addresses": [
         "nitrosmp.net"
     ],
     "primaryAddress": "nitrosmp.net",
+    "primaryColor": "#00C1FE",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.7",
-    "primaryColor": "#00C1FE",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "de",
-    "languages": [
-        "de"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
     ],
     "gameTypes": [
         "Open World",
         "Survival",
         "PvP"
     ],
-    "website": "https://www.nitrosmp.net",
     "socials": {
         "tiktok": "@nitrosmp.net",
         "youtube": "@NitroSMPnet",
         "discord": "https://discord.gg/invite/nitrosmp"
-    },
-    "crossplay": true
+    }
 }

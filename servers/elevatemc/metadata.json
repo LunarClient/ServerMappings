@@ -1,9 +1,9 @@
 {
     "id": "elevatemc",
     "name": "ElevateMC",
-    "description": "PotPvP practice and teamfight server on legacy minecraft",
     "website": "https://elevatemc.com/",
     "store": "https://store.elevatemc.com/",
+    "description": "PotPvP practice and teamfight server on legacy minecraft",
     "addresses": [
         "elevatemc.com"
     ],
@@ -15,14 +15,6 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "gameTypes": [
-        "PvP",
-        "HCF"
-    ],
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -32,14 +24,22 @@
         "SA",
         "AF"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/hctranked",
         "telegram": "ElevateMC"
     },
-    "votingLinks": [
-        "https://namemc.com/server/elevatemc.com"
-    ],
     "compliance": {
         "support": "https://elevatemc.com/tickets"
-    }
+    },
+    "votingLinks": [
+        "https://namemc.com/server/elevatemc.com"
+    ]
 }

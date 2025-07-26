@@ -27,15 +27,15 @@
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Prison",
         "Skyblock",
         "PvE"
     ],
-    "languages": [
-        "en"
-    ],
-    "primaryLanguage": "en",
     "socials": {
         "twitter": "HexedMC",
         "discord": "https://discord.gg/hexedmc",

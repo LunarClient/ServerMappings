@@ -8,27 +8,27 @@
         "zkraft.net"
     ],
     "primaryAddress": "mc.zkraft.net",
+    "primaryColor": "#f3b600",
+    "secondaryColor": "#262d37",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "crossplay": true,
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#f3b600",
-    "secondaryColor": "#262d37",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
     "gameTypes": [
         "Survival",
         "PvE",
-	"Minigames"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.com/invite/Fdq2dSvg8t",
