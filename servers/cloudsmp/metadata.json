@@ -3,9 +3,9 @@
     "name": "CloudSmp",
     "description": "The Best Anarchry Minecraft Server Out",
     "addresses": [
-        "cloudsmp.cloud"
+        "cloudmc.net"
     ],
-    "primaryAddress": "mc.cloudsmp.cloud",
+    "primaryAddress": "cloudmc.net",
     "primaryColor": "#B810C4",
     "secondaryColor": "#716E6E",
     "minecraftVersions": [
@@ -14,7 +14,7 @@
     ],
     "primaryMinecraftVersion": "1.21.5",
     "regions": [
-        "OC"
+        "EU"
     ],
     "primaryLanguage": "en",
     "languages": [
