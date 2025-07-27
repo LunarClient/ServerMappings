@@ -16,22 +16,22 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "socials": {
-        "discord": "https://discord.gg/KBDUpFWqJe",
-        "twitter": "MicPixel"
-    },
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Minigames",
         "Survival",
         "PvP"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KBDUpFWqJe",
+        "twitter": "MicPixel"
+    }
 }

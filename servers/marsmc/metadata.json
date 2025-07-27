@@ -19,15 +19,15 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryLanguage": "ar",
-    "languages": [
-        "ar",
-        "en"
-    ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "ar",
+    "languages": [
+        "ar",
+        "en"
     ],
     "gameTypes": [
         "PvP",

@@ -2,8 +2,9 @@
     "id": "hyzone",
     "name": "HyZone",
     "description": "The ultimate Survival experience.",
-    "addresses": 
-    ["hyzone.net"],
+    "addresses": [
+        "hyzone.net"
+    ],
     "primaryAddress": "hyzone.net",
     "primaryColor": "#0167c2",
     "secondaryColor": "#f0ce08",

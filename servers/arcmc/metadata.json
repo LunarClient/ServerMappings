@@ -1,9 +1,9 @@
 {
     "id": "arcmc",
     "name": "ArcMC",
-    "description": "ArcMC is a danish, revolutionary OPPrison.",
     "website": "https://arcmc.dk/",
     "store": "https://butik.arcmc.dk/",
+    "description": "ArcMC is a danish, revolutionary OPPrison.",
     "addresses": [
         "arcmc.dk",
         "sqmmer.dk"

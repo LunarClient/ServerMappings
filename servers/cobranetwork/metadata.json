@@ -1,9 +1,9 @@
 {
     "id": "cobranetwork",
     "name": "Cobra Network",
-    "description": "Experience the best factions with optimized cannoning and stable PvP!",
     "website": "https://cobranetwork.net/",
     "store": "https://store.cobranetwork.net/",
+    "description": "Experience the best factions with optimized cannoning and stable PvP!",
     "addresses": [
         "cobranetwork.net"
     ],
@@ -19,7 +19,7 @@
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
-        "NA", 
+        "NA",
         "EU"
     ],
     "gameTypes": [

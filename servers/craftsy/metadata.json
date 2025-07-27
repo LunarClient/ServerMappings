@@ -20,8 +20,8 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.6",
-    "primaryRegion": "NA",
     "crossplay": true,
+    "primaryRegion": "NA",
     "regions": [
         "NA"
     ],

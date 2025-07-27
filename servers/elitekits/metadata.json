@@ -8,19 +8,19 @@
         "elitekits.net"
     ],
     "primaryAddress": "elitekits.net",
+    "primaryColor": "#005eff",
+    "secondaryColor": "#00aae3",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#005eff",
-    "secondaryColor": "#00aae3",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"

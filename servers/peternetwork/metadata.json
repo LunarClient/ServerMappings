@@ -1,6 +1,8 @@
 {
     "id": "peternetwork",
     "name": "OlympusMC",
+    "website": "https://www.olympusmc.it/",
+    "store": "https://store.olympusmc.it/",
     "description": "Explore Olympus: the battleground for champions on Java and Bedrock.",
     "addresses": [
         "peternetwork.it",
@@ -8,6 +10,8 @@
         "tvpeter.it"
     ],
     "primaryAddress": "play.olympusmc.it",
+    "primaryColor": "#f8dd01",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -16,30 +20,26 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
-    "primaryColor": "#f8dd01",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Minigames"
     ],
-    "crossplay": true,
-    "presentationVideo": "M6B3AjzW0tc",
-    "website": "https://www.olympusmc.it/",
-    "store": "https://store.olympusmc.it/",
     "socials": {
         "discord": "https://discord.com/invite/GnCqFqCsjj",
         "instagram": "olympusmc_",
         "twitch": "tvpeter",
         "telegram": "olympusmc_network",
         "tiktok": "@tvpeterr"
-    }
+    },
+    "presentationVideo": "M6B3AjzW0tc"
 }
