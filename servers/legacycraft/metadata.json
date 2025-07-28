@@ -15,16 +15,16 @@
     ],
     "primaryMinecraftVersion": "1.21.4",
     "crossplay": true,
-    "primaryRegion": "Asia",
+    "primaryRegion": "AS",
     "regions": [
-        "Asia"
+        "AS"
     ],
-    "primaryLanguage": "th",
+    "primaryLanguage": "en",
     "languages": [
-        "th"
+        "en"
     ],
     "gameTypes": [
-        "Survival",
+        "survival",
         "community"
     ],
     "socials": {
