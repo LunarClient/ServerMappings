@@ -1,0 +1,33 @@
+{
+    "id": "legacycraft",
+    "name": "LegacyCraft",
+    "website": "https://legacycraft.in.th/",
+    "description": "LegacyCraft is a Minecraft server featuring a virtual 1:100 scale map of Thailand. Explore and create lasting memories in a stunningly realistic world!",
+    "addresses": [
+        "legacycraft.in.th"
+    ],
+    "primaryAddress": "play.legacycraft.in.th",
+    "primaryColor": "#77c67f",
+    "secondaryColor": "#0d8f8f",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "Asia",
+    "regions": [
+        "Asia"
+    ],
+    "primaryLanguage": "th",
+    "languages": [
+        "th"
+    ],
+    "gameTypes": [
+        "Survival",
+        "community"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/legacycraft"
+    }
+}
