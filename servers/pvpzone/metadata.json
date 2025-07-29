@@ -4,7 +4,7 @@
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "pvpzone.net",
-        "pvp.zone",
+        "pvp.zone"
     ],
     "primaryAddress": "pvp.zone",
     "minecraftVersions": [
@@ -20,7 +20,7 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "PvP"
