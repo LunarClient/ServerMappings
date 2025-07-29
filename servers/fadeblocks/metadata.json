@@ -3,7 +3,7 @@
     "name": "Fadeblocks",
     "website": "https://fadeblocks.com/",
 
-    "description": "An upcoming network focused on community-driven gameplay, shaped by player feedback and ideas.",
+    "description": "Community-driven gameplay shaped by player feedback and ideas.",
     "addresses": [
         "fadeblocks.com"
     ],
@@ -15,7 +15,7 @@
     ],
     "primaryMinecraftVersion": "1.21.6",
     "crossplay": true,
-    "primaryRegion": "eu",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
@@ -26,7 +26,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Cavernbound"
+        "Adventure"
     ],
     "socials": {
         "twitter": "FadeBlocks",
