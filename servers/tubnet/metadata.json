@@ -7,13 +7,13 @@
         "tubnet.gg"
     ],
     "primaryAddress": "tubnet.gg",
+    "primaryColor": "#f88e02",
+    "secondaryColor": "#21aded",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#f88e02",
-    "secondaryColor": "#21aded",
     "gameTypes": [
         "Minigames",
         "PvP"

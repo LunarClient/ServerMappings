@@ -4,7 +4,6 @@
     "website": "https://realmi.fi/",
     "store": "https://kauppa.realmi.fi/",
     "description": "Finland's most popular Minecraft gaming community. Join us!",
-    "crossplay": true,
     "addresses": [
         "realmi.fi"
     ],
@@ -15,13 +14,14 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

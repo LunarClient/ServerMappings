@@ -156,7 +156,7 @@ jobs:
       
       - name: Upload to S3
         run: |
-          aws s3 sync .out s3://lunarclient-servermappings
+          aws s3 sync .out s3://lunarclient-servermappings --cache-control "public, max-age=14400"
           aws s3 cp .out/servers.json s3://lunarclient-servermappings/servers.json --content-type "application/json"
           aws s3 cp .out/servers.csv s3://lunarclient-servermappings/servers.csv --content-type "text/csv"
 

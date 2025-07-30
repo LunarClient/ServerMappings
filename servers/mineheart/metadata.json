@@ -1,0 +1,31 @@
+{
+    "id": "mineheart",
+    "name": "MineHeart",
+    "store": "https://store.mineheart.net/",
+    "description": "Play the best Lifesteal, Earth, Events & More!",
+    "addresses": [
+        "mineheart.net"
+    ],
+    "primaryAddress": "play.mineheart.net",
+    "primaryColor": "#e62f85",
+    "secondaryColor": "#c9c7c9",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/mineheart"
+    }
+}

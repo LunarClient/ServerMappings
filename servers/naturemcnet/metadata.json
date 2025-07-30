@@ -1,0 +1,35 @@
+{
+    "id": "naturemcnet",
+    "name": "NatureMC",
+    "website": "https://www.naturemc.net",
+    "store": "https://tienda.naturemc.net",
+    "description": "The real Survival experience.",
+    "addresses": [
+        "naturemc.net",
+        "naturemc.es"
+    ],
+    "primaryAddress": "play.naturemc.net",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "NatureMCnet",
+        "discord": "https://www.discord.gg/naturemc"
+    }
+}

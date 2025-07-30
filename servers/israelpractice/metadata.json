@@ -1,0 +1,33 @@
+{
+    "id": "israelpractice",
+    "name": "Israel Practice",
+    "website": "https://israelpractice.net",
+    "store": "https://store.israelpractice.net",
+    "description": "IsraelPractice is a competitive PvP server with Tier Testing, Practice & More!",
+    "addresses": [
+        "israelpractice.net"
+    ],
+    "primaryAddress": "israelpractice.net",
+    "primaryColor": "#F5C518",
+    "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/QBkJkxhdV8"
+    }
+}

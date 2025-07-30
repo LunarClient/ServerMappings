@@ -4,32 +4,33 @@
     "description": "The real fight begins here!",
     "addresses": [
         "akyto.club",
+        "akyto.net",
         "potted.gg",
         "groupezk.fr",
         "pvptemple.it"
     ],
-    "primaryAddress": "akyto.club",
+    "primaryAddress": "akyto.net",
+    "primaryColor": "#707B90",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#707B90",
-    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
         "fr"
     ],
-    "primaryRegion": "NA",
-    "regions": [
-        "EU",
-        "NA"
-    ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/vv4XWyqYtF"
+        "discord": "https://discord.gg/akyto"
     }
 }

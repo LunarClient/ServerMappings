@@ -8,19 +8,19 @@
         "hyping.fr"
     ],
     "primaryAddress": "play.hyping.fr",
+    "primaryColor": "#00D1FF",
+    "secondaryColor": "#FADD54",
     "minecraftVersions": [
         "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#00D1FF",
-    "secondaryColor": "#FADD54",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvE",

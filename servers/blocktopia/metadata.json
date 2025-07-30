@@ -1,32 +1,29 @@
 {
     "id": "blocktopia",
     "name": "BlockTopia",
-    "addresses": [ 
-        "zexiusdev.nl"
+    "addresses": [
+        "blocktopia.es"
     ],
-    "primaryAddress": "blocktopia.zexiusdev.nl",
-    "primaryColor": "#048acb",
-    "secondaryColor": "#394047",
+    "primaryAddress": "blocktopia.es",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "Survival",
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/5cRmHJmAG4",
+        "discord": "https://discord.gg/blocktopia",
         "twitter": "BlockTopia"
     }
 }

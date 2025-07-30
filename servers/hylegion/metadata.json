@@ -1,0 +1,38 @@
+{
+    "id": "hylegion",
+    "name": "Legion Network",
+    "store": "https://legion-survival-mc.tebex.io",
+    "description": "An amazing experience with really great content",
+    "addresses": [
+        "hylegion.net"
+    ],
+    "primaryAddress": "hylegion.net",
+    "primaryColor": "#c57dfd",
+    "secondaryColor": "#ffe974",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvE",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/PMvAahDCC9"
+    }
+}

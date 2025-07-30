@@ -4,9 +4,10 @@
     "website": "https://web.zenithnetwork.xyz/",
     "store": "https://store.zenithnetwork.xyz/",
     "addresses": [
-        "zenithnetwork.xyz"
+        "zenithnetwork.xyz",
+        "zenithmc.fun"
     ],
-    "primaryAddress": "play.zenithnetwork.xyz",
+    "primaryAddress": "zenithmc.fun",
     "primaryColor": "#800080",
     "secondaryColor": "#CBC3E3",
     "minecraftVersions": [

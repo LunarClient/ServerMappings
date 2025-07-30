@@ -1,11 +1,14 @@
 {
     "id": "infection",
     "name": "Infection Network",
+    "store": "https://tienda.infection.fun/",
     "description": "Why don't you come in? - The best server.",
     "addresses": [
         "infection.fun"
     ],
     "primaryAddress": "infection.fun",
+    "primaryColor": "#FB0808",
+    "secondaryColor": "#CE0000",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -14,26 +17,23 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#FB0808",
-    "secondaryColor": "#CE0000",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
         "Survival",
         "PvE"
     ],
-    "store": "https://tienda.infection.fun/",
     "socials": {
         "discord": "https://discord.gg/infec",
         "tiktok": "@infection_network",
         "youtube": "@InfectionNetwork"
-    },
-    "crossplay": true
+    }
 }

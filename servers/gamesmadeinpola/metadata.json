@@ -1,41 +1,41 @@
 {
     "id": "gamesmadeinpola",
     "name": "GamesMadeInPola",
+    "website": "https://gamesmadeinpola.com",
+    "store": "https://tienda.gamesmadeinpola.com",
     "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
     "addresses": [
         "gamesmadeinpola.com"
     ],
     "primaryAddress": "gamesmadeinpola.com",
+    "primaryColor": "#f59842",
+    "secondaryColor": "#ffc363",
     "minecraftVersions": [
         "1.8.*",
         "1.21"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#f59842",
-    "secondaryColor": "#ffc363",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "website": "https://gamesmadeinpola.com",
-    "store": "https://tienda.gamesmadeinpola.com",
-    "compliance": {
-        "privacyPolicy": "https://tienda.gamesmadeinpola.com/privacy",
-        "termsOfService": "https://tienda.gamesmadeinpola.com/terms",
-        "rules": "https://rules.gamesmadeinpola.com/"
-    },
     "socials": {
         "instagram": "gamesmadeinpola.com",
         "discord": "https://discord.com/invite/gmip"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://tienda.gamesmadeinpola.com/privacy",
+        "termsOfService": "https://tienda.gamesmadeinpola.com/terms",
+        "rules": "https://rules.gamesmadeinpola.com/"
+    }
 }
