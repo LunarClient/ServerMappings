@@ -1,35 +1,32 @@
 {
-  "id": "mysthicnetwork",
-  "name": "Mysthic Network",
-  "description": "Servidor Survival Custom",
-  "addresses": [
-    "Mysthic.Net"
-  ],
-  "primaryAddress": "Mysthic.Net",
-  "primaryColor": "#a259ff", 
-  "secondaryColor": "#6b21a8",
-  "minecraftVersions": [
-    "1.21.4"
-  ],
-  "primaryMinecraftVersion": "1.21.4",
-  "crossplay": true,
-  "primaryRegion": "LATAM",
-  "regions": [
-    "LATAM",
-    "EU"
-  ],
-  "primaryLanguage": "es",
-  "languages": [
-    "es"
-  ],
-  "gameTypes": [
-    "Survival",
-    "Custom"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/Mysthic"
-  },
-  "logo": "logo.png",
-  "banner": "banner.png",
-  "background": "background.png"
+    "id": "mysthicnetwork",
+    "name": "Mysthic Network",
+    "description": "Servidor Survival Custom",
+    "addresses": [
+        "Mysthic.Net"
+    ],
+    "primaryAddress": "Mysthic.Net",
+    "primaryColor": "#a259ff",
+    "secondaryColor": "#6b21a8",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "LATAM",
+    "regions": [
+        "LATAM",
+        "EU"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Custom"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Mysthic"
+    }
 }
