@@ -6,8 +6,8 @@
     "Mysthic.Net"
   ],
   "primaryAddress": "Mysthic.Net",
-  "primaryColor": "#00bfff",
-  "secondaryColor": "#8a2be2",
+  "primaryColor": "#a259ff", 
+  "secondaryColor": "#6b21a8",
   "minecraftVersions": [
     "1.21.4"
   ],
