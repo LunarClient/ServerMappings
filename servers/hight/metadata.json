@@ -2,9 +2,12 @@
     "id": "hight",
     "name": "Hight",
     "addresses": [
-        "hight.me"
+        "hightmc.com",
+        "play.hightmc.com",
+        "jogar.hightmc.com",
+        "mc.hightmc.com"
     ],
-    "primaryAddress": "hight.me",
+    "primaryAddress": "hightmc.com",
     "primaryColor": "#f99e00",
     "secondaryColor": "#d1ab24",
     "minecraftVersions": [
@@ -24,6 +27,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/qSDZ5YR4eM",
-        "youtube": "HightMC"
+        "youtube": "HightMC.oficial"
     }
 }
