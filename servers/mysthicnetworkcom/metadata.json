@@ -7,9 +7,14 @@
   ],
   "primaryAddress": "mysthic.net",
   "primaryColor": "#a259ff",
-  "secondaryColor": "#6b21a8",
+  "secondaryColor": "#ffffff",
   "minecraftVersions": [
-    "1.21.4"
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
   ],
   "primaryMinecraftVersion": "1.21.4",
   "crossplay": true,
@@ -27,6 +32,7 @@
     "Open World"
   ],
   "socials": {
-    "discord": "https://discord.gg/Mysthic"
+    "discord": "https://discord.gg/Mysthic",
+    "tiktok": "@mysthic.oficial"
   }
 }
