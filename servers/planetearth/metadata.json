@@ -1,29 +1,29 @@
 {
     "id": "planetearth",
     "name": "PlanetEarth",
+    "website": "https://planetearth.kr",
     "description": "Korean Earth Geopolitical Towny Server",
     "addresses": [
         "planetearth.kr"
     ],
     "primaryAddress": "planetearth.kr",
+    "primaryColor": "#00FF1D",
+    "secondaryColor": "#1486F5",
     "minecraftVersions": [
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#00FF1D",
-    "secondaryColor": "#1486F5",
-    "primaryLanguage": "ko",
-    "languages": [
-        "ko"
-    ],
     "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
+    "primaryLanguage": "ko",
+    "languages": [
+        "ko"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://planetearth.kr",
     "socials": {
         "discord": "https://discord.com/invite/MNPyU2gy9d"
     }

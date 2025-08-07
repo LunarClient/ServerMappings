@@ -1,10 +1,11 @@
 {
     "id": "pixelhaven",
-    "name": "PixelHaven",
+    "name": "PixelHaven.pro",
     "website": "https://pixelhaven.pro/",
-    "store": "https://pixelhaven.pro/",
+    "store": "https://sklep.pixelhaven.pro/",
     "addresses": [
-        "pixelhaven.pro"
+        "pixelhaven.pro",
+        "193.41.226.236"
     ],
     "primaryAddress": "mc.pixelhaven.pro",
     "primaryColor": "#00FF26",
@@ -28,6 +29,6 @@
         "Creative"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/BNgmvSrZ23"
+        "discord": "https://discord.gg/pixelhavenmc"
     }
 }

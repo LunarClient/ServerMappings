@@ -1,35 +1,35 @@
 {
     "id": "mc1stro",
     "name": "1st Network",
+    "website": "https://mc-1st.ro",
+    "store": "https://store.mc-1st.ro",
     "addresses": [
         "mc-1st.ro"
     ],
     "primaryAddress": "mc-1st.ro",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF0000",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#FF0000",
-    "secondaryColor": "#FF0000",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "website": "https://mc-1st.ro",
-    "store": "https://store.mc-1st.ro",
     "socials": {
         "tiktok": "@1st.ro",
         "discord": "https://discord.com/invite/VH5fQkWBR5"
-    },
-    "crossplay": false
+    }
 }

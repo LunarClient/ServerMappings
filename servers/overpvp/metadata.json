@@ -21,10 +21,10 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-	"es-EN"
+        "es-EN"
     ],
     "gameTypes": [
-	"HCF",
+        "HCF",
         "PvP",
         "UHC"
     ],

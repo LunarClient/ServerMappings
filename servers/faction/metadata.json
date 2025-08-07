@@ -1,10 +1,13 @@
 {
     "id": "faction",
     "name": "Faction Network",
+    "store": "https://tienda.faction.es",
     "addresses": [
         "faction.es"
     ],
     "primaryAddress": "faction.es",
+    "primaryColor": "#74FF2D",
+    "secondaryColor": "#B6FF91",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,31 +17,28 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#74FF2D",
-    "secondaryColor": "#B6FF91",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Hardcore"
     ],
-    "store": "https://tienda.faction.es",
     "socials": {
         "discord": "https://discord.com/invite/v5gmWT2mKz",
         "twitter": "FactionNET",
         "youtube": "@factionnetwork",
         "tiktok": "@faction.network",
         "twitch": "factionnet"
-    },
-    "crossplay": true
+    }
 }

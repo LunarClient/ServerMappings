@@ -1,9 +1,9 @@
 {
     "id": "pvpgym",
     "name": "PvPGym",
-    "description": "The most competitive UHC & Practice Server",
     "website": "https://pvpgym.net/",
     "store": "https://store.pvpgym.net/",
+    "description": "The most competitive UHC & Practice Server",
     "addresses": [
         "pvpgym.net",
         "uhchub.club"

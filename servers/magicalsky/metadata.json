@@ -8,19 +8,20 @@
         "magicalsky.fr"
     ],
     "primaryAddress": "play.magicalsky.fr",
+    "primaryColor": "#7C0FC8",
+    "secondaryColor": "#D929F9",
     "minecraftVersions": [
         "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#7C0FC8",
-    "secondaryColor": "#D929F9",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "Skyblock"
@@ -31,6 +32,5 @@
         "youtube": "@magical_sky",
         "instagram": "magicalskymc",
         "tiktok": "@magicalskymc"
-    },
-    "crossplay": false
+    }
 }

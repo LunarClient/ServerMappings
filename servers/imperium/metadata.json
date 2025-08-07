@@ -1,13 +1,12 @@
 {
     "id": "imperium",
     "name": "Imperium",
-    "description": "Come and check out our server!",
     "store": "https://loja.rede-imperium.com",
+    "description": "Come and check out our server!",
     "addresses": [
         "rede-imperium.com"
     ],
     "primaryAddress": "rede-imperium.com",
-    "crossplay": true,
     "primaryColor": "#ed5ae2",
     "secondaryColor": "#53004d",
     "minecraftVersions": [
@@ -20,15 +19,16 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
+    "primaryLanguage": "pt-BR",
     "languages": [
         "pt-BR",
         "pt-PT"
     ],
-    "primaryLanguage": "pt-BR",
     "gameTypes": [
         "PvP",
         "Survival",

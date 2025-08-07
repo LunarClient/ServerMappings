@@ -12,6 +12,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA",
@@ -28,6 +29,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/GzBcxG5Tse"
-    },
-    "crossplay": true
+    }
 }

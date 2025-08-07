@@ -1,9 +1,9 @@
 {
     "id": "israelpractice",
     "name": "Israel Practice",
-    "description": "IsraelPractice is a competitive PvP server with Tier Testing, Practice & More!",
     "website": "https://israelpractice.net",
     "store": "https://store.israelpractice.net",
+    "description": "IsraelPractice is a competitive PvP server with Tier Testing, Practice & More!",
     "addresses": [
         "israelpractice.net"
     ],
@@ -20,12 +20,12 @@
     "regions": [
         "EU"
     ],
-    "gameTypes": [
-        "PvP"
-    ],
     "primaryLanguage": "en",
     "languages": [
         "en"
+    ],
+    "gameTypes": [
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/QBkJkxhdV8"

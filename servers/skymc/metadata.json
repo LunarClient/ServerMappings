@@ -1,11 +1,14 @@
 {
     "id": "skymc",
     "name": "SkyMC Network",
+    "store": "https://tienda.skymc.us/",
     "description": "BoxPvP new modes and active community Join now",
     "addresses": [
         "skymc.us"
     ],
     "primaryAddress": "skymc.us",
+    "primaryColor": "#FF0909",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -14,25 +17,22 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#FF0909",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
         "Survival",
         "PvE"
     ],
-    "store": "https://tienda.skymc.us/",
     "socials": {
         "discord": "https://discord.gg/AfqBEFNzNY",
         "tiktok": "@skymcc_"
-    },
-    "crossplay": true
+    }
 }

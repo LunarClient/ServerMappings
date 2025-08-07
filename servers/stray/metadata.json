@@ -1,8 +1,8 @@
 {
     "id": "stray",
     "name": "Stray PvP",
-    "description": "Stray PvP is a competitive modern Minecraft PvP network.",
     "store": "https://store.stray.gg/",
+    "description": "Stray PvP is a competitive modern Minecraft PvP network.",
     "addresses": [
         "stray.gg"
     ],
@@ -21,13 +21,13 @@
         "EU",
         "AS"
     ],
-    "gameTypes": [
-        "PvP"
-    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
         "es-EN"
+    ],
+    "gameTypes": [
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/straypvp"

@@ -1,38 +1,38 @@
 {
-	"id": "wildnetwork",
-	"name": "Wild Network",
-    	"description": "The Gold Standard for Minecraft OP Prison",
-	"website": "https://www.wildprison.net/",
-	"store": "https://store.wildprison.net/",
-	"addresses": [
-		"wildnetwork.net", 
-		"wildprison.net"
-	],
-	"primaryAddress": "play.wildprison.net",
-	"primaryColor": "#f3cb0b",
-	"secondaryColor": "#dce3ec",
-	"minecraftVersions": [
-		"1.8.*",
-		"1.12.*",
-		"1.16.*",
-		"1.17.*",
-		"1.18.*",
-		"1.19.*",
-		"1.20.*",
-		"1.21"
-	],
-	"primaryMinecraftVersion": "1.20.6",
-	"primaryRegion": "NA",
-	"regions": [
+    "id": "wildnetwork",
+    "name": "Wild Network",
+    "website": "https://www.wildprison.net/",
+    "store": "https://store.wildprison.net/",
+    "description": "The Gold Standard for Minecraft OP Prison",
+    "addresses": [
+        "wildnetwork.net",
+        "wildprison.net"
+    ],
+    "primaryAddress": "play.wildprison.net",
+    "primaryColor": "#f3cb0b",
+    "secondaryColor": "#dce3ec",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
         "NA"
-    	],
-	"gameTypes": [
-		"Prison", 
-		"Survival"
-	],
-	"crossplay": true,
-	"socials": {
-		"twitter": "wild_prison",
-		"discord": "https://discord.com/invite/wildprison"
-	}
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "wild_prison",
+        "discord": "https://discord.com/invite/wildprison"
+    }
 }

@@ -4,7 +4,7 @@
     "website": "http://tienda.solcraft.network",
     "description": "Survival server to have fun with friends!",
     "addresses": [
-      "solcraft.network"
+        "solcraft.network"
     ],
     "primaryAddress": "solcraft.network",
     "primaryColor": "#FD8C00",
@@ -18,7 +18,6 @@
         "1.20.1",
         "1.20.6",
         "1.21.1"
-      
     ],
     "primaryMinecraftVersion": "1.20.6",
     "crossplay": true,
@@ -37,6 +36,6 @@
         "Open World"
     ],
     "socials": {
-      "discord": "https://discord.gg/MsUx6V6YCq"
+        "discord": "https://discord.gg/MsUx6V6YCq"
     }
 }
