@@ -1,0 +1,44 @@
+{
+    "id": "hyliric",
+    "name": "Hyliric",
+    "website": "https://hyliric.us/",
+    "store": "https://tienda.hyliric.us/",
+    "description": "We offer unique PVP and PVE experiences.",
+    "addresses": [
+        "hyliric.us"
+    ],
+    "primaryAddress": "mc.hyliric.us",
+    "primaryColor": "#ffcf00",
+    "secondaryColor": "#f39400",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvE",
+        "PvP",
+        "Survival",
+        "Gens"
+    ],
+    "socials": {
+        "twitter": "Hyliric",
+        "discord": "https://discord.gg/3gmsDsXtqD",
+        "youtube": "hyliric",
+        "instagram": "hyliric.us",
+        "tiktok": "@Hyliric",
+        "facebook": "Hyliric"
+    }
+}
