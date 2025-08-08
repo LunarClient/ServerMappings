@@ -26,10 +26,6 @@
     "gameTypes": [
         "Survival",
         "Creative",
-        "Chunk",
-        "Gens",
-        "BoxPvP",
-        "BedWars",
         "PvP"
     ],
     "socials": {
