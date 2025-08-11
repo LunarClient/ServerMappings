@@ -4,6 +4,7 @@
     "website": "https://baraserver.tebex.io/",
     "description": "SkyFFA, FFA, KnockbackFFA, BridgesFFA — competitive and fun PvP modes!",
     "addresses": [
+        "skyffa.net",
         "play.skyffa.net"
     ],
     "primaryAddress": "play.skyffa.net",
@@ -32,4 +33,5 @@
         "discord": "https://discord.gg/baraserver/"
     }
 }
+
 
