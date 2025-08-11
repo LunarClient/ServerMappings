@@ -7,7 +7,7 @@
         "skyffa.net",
         "play.skyffa.net"
     ],
-    "primaryAddress": "play.skyffa.net",
+    "primaryAddress": "skyffa.net",
     "primaryColor": "#00FF00",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
@@ -24,14 +24,13 @@
         "en"
     ],
     "gameTypes": [
-        "SkyFFA",
-        "FFA",
-        "KnockbackFFA",
-        "BridgesFFA"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/baraserver/"
     }
 }
+
 
 
