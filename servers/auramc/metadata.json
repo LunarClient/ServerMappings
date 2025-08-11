@@ -38,9 +38,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "PvP",
-        "PvE",
-        "Prison"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/auramc",
