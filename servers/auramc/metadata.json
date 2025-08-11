@@ -4,7 +4,8 @@
     "store": "https://store.auramc.eu/",
     "description": "Italian network developed by a team always looking for unique gameplay!",
     "addresses": [
-        "auramc.it"
+        "auramc.it",
+        "auramc.eu"
     ],
     "primaryAddress": "play.auramc.eu",
     "primaryColor": "#DC67EE",
@@ -37,9 +38,7 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "PvP",
-        "PvE",
-        "Prison"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/auramc",
