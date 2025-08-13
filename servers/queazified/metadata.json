@@ -6,8 +6,8 @@
         "queazified.co.uk"
     ],
     "primaryAddress": "join.queazified.co.uk",
-    "primaryColor": "#ceb19e",
-    "secondaryColor": "#000000",
+    "primaryColor": "#db6314",
+    "secondaryColor": "#cc0808",
     "minecraftVersions": [
         "1.8.*",
         "1.21.*"
