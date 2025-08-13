@@ -1,7 +1,8 @@
 {
-    "id": "QUEAZIFIED",
-    "name": "QUEAZIFIED Network",
+    "id": "queazified",
+    "name": "Queazified Network",
     "website": "https://www.queazified.co.uk",
+    "crossplay": true,
     "addresses": [
         "queazified.co.uk"
     ],
@@ -20,4 +21,5 @@
     "gameTypes": [
         "Survival"
     ]
+
 }
