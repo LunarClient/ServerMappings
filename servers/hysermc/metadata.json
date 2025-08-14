@@ -1,9 +1,40 @@
 {
-  "name": "HyserMC",
-  "ip": "hysermc.net",
-  "website": "https://store.hysermc.net",
-  "discord": "https://discord.gg/hysermc",
-  "version": "1.8.8",
-  "region": "NA",
-  "description": "Servidor de PrisonOP. Comunidad activa y eventos diarios."
+    "id": "hysermc",
+    "name": "HyserMC",
+    "description": "Servidor para divertise y ganar dinero!",
+    "addresses": [
+      "hysermc.net"
+    ],
+    "primaryAddress": "hysermc.net",
+    "minecraftVersions": [
+      "1.8.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*",
+      "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryColor": "#B700FF",
+    "secondaryColor": "#A200FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+      "Prison",
+      "FullPVP",
+      "SurvivalOP"
+    ],
+    "website": "https://store.hysermc.net/",
+    "socials": {
+      "discord": "https://discord.gg/hysermc"
+    },
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "crossplay": false
 }
