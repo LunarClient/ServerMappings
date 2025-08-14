@@ -15,7 +15,7 @@
       "1.20.*",
       "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#B700FF",
     "secondaryColor": "#A200FF",
     "primaryLanguage": "en",
@@ -25,8 +25,8 @@
     ],
     "gameTypes": [
       "Prison",
-      "FullPVP",
-      "SurvivalOP"
+      "PVP",
+      "Survival"
     ],
     "website": "https://store.hysermc.net/",
     "socials": {
