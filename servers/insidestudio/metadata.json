@@ -4,8 +4,7 @@
     "store": "https://tienda.insidestudio.org",
     "description": "We love to help others build their servers",
     "addresses": [
-        "play.insidestudio.org",
-        "mc.insidestudio.org"
+        "insidestudio.org"
     ],
     "primaryAddress": "insidestudio.org",
     "primaryColor": "#8cfd88",
