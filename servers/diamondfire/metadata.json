@@ -14,7 +14,7 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
