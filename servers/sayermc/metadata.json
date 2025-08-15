@@ -5,7 +5,7 @@
     "store": "https://store.sayer.live",
     "description": "Servers with a friendly gaming experience - KatzeLLC.",
     "addresses": [
-        "mc.sayer.live"
+        "sayer.live"
     ],
     "primaryAddress": "sayer.live",
     "primaryColor": "#44a1e3",
