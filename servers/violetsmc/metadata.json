@@ -3,6 +3,8 @@
     "name": "VioletsMC",
     "website": "https://violetsmc.com/",
     "store": "https://store.violetsmc.com/",
+    "wiki": "https://wiki.violetsmc.com/",
+    "description": "A friendly, cute and cross-platform acommunity-oriented SMP!",
     "addresses": [
         "violetsmc.com"
     ],
@@ -10,10 +12,11 @@
     "primaryColor": "#f19fad",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
-        "1.20.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.8",
     "primaryRegion": "NA",
+    "crossplay": true,
     "regions": [
         "NA"
     ],
@@ -23,9 +26,8 @@
         "PvE"
     ],
     "socials": {
-        "twitter": "playviolets",
         "discord": "https://discord.gg/9ACBxaSd42",
-        "instagram": "violetssmp",
-        "tiktok": "@play.violetsmc.com"
+        "instagram": "play.violetsmc",
+        "tiktok": "@play.violetsmc"
     }
 }
