@@ -1,6 +1,6 @@
 {
     "id": "houpcuy",
-    "name": "NeverMinds Network",
+    "name": "Houpcuy Network",
     "website": "https://www.houpcuy.com",
     "store": "https://store.houpcuy.com",
     "description": "The Next Best PvP Server",
@@ -8,7 +8,7 @@
         "houpcuy.cc",
         "neverminds.cc"
     ],
-    "primaryAddress": "neverminds.cc",
+    "primaryAddress": "houpcuy.cc",
     "primaryColor": "#ff60af",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
