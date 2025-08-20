@@ -3,7 +3,7 @@
   "name": "Starwynx Network",
   "description": "play the best survival and competitive gamemodes!",
   "addresses": [
-    "mc.starwynx.com"
+    "starwynx.com"
   ],
   "primaryAddress": "mc.starwynx.com",
   "gameTypes": [
@@ -27,7 +27,6 @@
     "NA"
   ],
   "primaryRegion": "NA",
-  "store": "https://store.starwynx.com",
   "socials": {
     "discord": "https://discord.gg/gPR8P56N4J",
     "twitter": "StarwynxNetwork",
