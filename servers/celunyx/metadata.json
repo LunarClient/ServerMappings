@@ -1,13 +1,13 @@
 {
     "id": "celunyx",
     "name": "Celunyx",
-    "website": "https://celunyx.co/",
+    "website": "https://celunyx.com/",
     "store": "https://store.celunyx.com/",
     "description": "Juega distintas modalidades!",
     "addresses": [
         "mc.celunyx.com"
     ],
-    "primaryAddress": "mc.celunyx.com",
+    "primaryAddress": "celunyx.com",
     "primaryColor": "#14B5C4",
     "secondaryColor": "#000000",
     "minecraftVersions": [
@@ -26,15 +26,15 @@
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
         "en",
-        "es"
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
         "PvP",
-        "Neonyx"
+        "UHC"
     ],
     "socials": {
         "twitter": "Celunyx",
