@@ -1,11 +1,13 @@
 {
     "id": "houpcuy",
-    "name": "NeverMinds Network",
+    "name": "Houpcuy Network",
     "website": "https://www.houpcuy.com",
     "store": "https://store.houpcuy.com",
     "description": "The Next Best PvP Server",
     "addresses": [
         "houpcuy.cc",
+        "1i.hk",
+        "5i.hk",
         "neverminds.cc"
     ],
     "primaryAddress": "neverminds.cc",
@@ -13,6 +15,7 @@
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
+        "1.21.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
