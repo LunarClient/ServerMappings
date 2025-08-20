@@ -1,6 +1,6 @@
 {
-    "id": "oirnmc",
-    "name": "orinmc Network",
+    "id": "orinmc",
+    "name": "OrinMC Network",
     "store": "https://store.orinmc.ro/",
     "addresses": [
         "orinmc.ro"
@@ -24,11 +24,11 @@
         "en"
     ],
     "gameTypes": [
-        "skycoon",
+        "Skcoon",
         "Survival"
     ],
     "socials": {
-        "tiktok": "soon"
+        "tiktok": "soon",
         "discord": "https://discord.gg/MTVZmjReqQ"
     }
 }
