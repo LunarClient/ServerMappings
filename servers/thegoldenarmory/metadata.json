@@ -1,0 +1,43 @@
+{
+    "id": "thegoldenarmory",
+    "name": "The Golden Armory",
+    "description": "A 1.16+ server that offers Hunger Games, Creative, Survival, Minigames and more!",
+    "addresses": [
+        "thegoldenarmory.net"
+    ],
+    "primaryAddress": "thegoldenarmory.net",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FFAA00",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+	"1.20.*",
+	"1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+	"primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+	"Survival",
+	"Creative"
+    ],
+    "store": "https://store.thegoldenarmory.net/",
+    "website": "https://www.thegoldenarmory.net/",
+    "socials": {
+        "twitter": "TheGoldenArmory",
+        "discord": "https://discord.gg/axEQaq8ezC",
+        "youtube": "@thegoldenarmory",
+        "instagram": "thegoldenarmory",
+        "tiktok": "@thegoldenarmory",
+        "facebook": "thegoldenarmory"
+    }
+}

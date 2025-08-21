@@ -1,0 +1,37 @@
+{
+    "id": "minesea",
+    "name": "MineSea",
+    "store": "https://store.minesea.org/",
+    "description": "MineSea is a survival server packed with unique features!",
+    "addresses": [
+        "minesea.org"
+    ],
+    "primaryAddress": "play.minesea.org",
+    "primaryColor": "#62CFF4",
+    "secondaryColor": "#479BF3",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minesea",
+        "tiktok": "@minesea.org",
+        "youtube": "@minesea"
+    }
+}

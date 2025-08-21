@@ -1,0 +1,34 @@
+{
+    "id": "pixelhaven",
+    "name": "PixelHaven.pro",
+    "website": "https://pixelhaven.pro/",
+    "store": "https://sklep.pixelhaven.pro/",
+    "addresses": [
+        "pixelhaven.pro",
+        "193.41.226.236"
+    ],
+    "primaryAddress": "mc.pixelhaven.pro",
+    "primaryColor": "#00FF26",
+    "secondaryColor": "#05390D",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/pixelhavenmc"
+    }
+}

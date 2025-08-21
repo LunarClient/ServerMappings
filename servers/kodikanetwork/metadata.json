@@ -5,7 +5,6 @@
     "description": "Premium gameplay guaranteed",
     "addresses": [
         "kodika.live"
-
     ],
     "primaryAddress": "play.kodika.live",
     "primaryColor": "#04DAE4",
@@ -22,7 +21,6 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-        
     ],
     "gameTypes": [
         "Survival",

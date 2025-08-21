@@ -1,28 +1,38 @@
 {
     "id": "diamondfire",
     "name": "DiamondFire",
+    "description": "Create your own minigames entirely in Minecraft, no coding knowledge required!",
     "website": "https://mcdiamondfire.com/",
     "store": "https://store.mcdiamondfire.com/",
     "addresses": [
-        "mcdiamondfire.com"
+        "mcdiamondfire.com",
+        "diamondfire.games"
     ],
     "primaryAddress": "mcdiamondfire.com",
-    "primaryColor": "#3e79a6",
+    "primaryColor": "#528dba",
     "secondaryColor": "#f37d20",
     "minecraftVersions": [
-        "1.19.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Minigames",
-        "PvP",
-        "Parkour"
+        "Creative",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/pDHBbBD"
+        "discord": "https://discord.com/invite/pDHBbBD",
+        "youtube": "@DiamondFireMC"
+    },
+    "compliance": {
+        "rules": "https://mcdiamondfire.com/server-rules/"
     }
 }

@@ -5,11 +5,24 @@
     "store": "https://store.cavepvp.com/",
     "addresses": [
         "cavepvp.org",
-		"cavepvp.com"
+        "cavepvp.com"
     ],
     "primaryAddress": "cavepvp.com",
     "primaryColor": "#db213a",
     "secondaryColor": "#3f3e4c",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "HCF",
         "PvP",
@@ -19,19 +32,5 @@
         "twitter": "CavePvPorg",
         "discord": "https://discord.com/invite/cavepvp",
         "telegram": "cavepvporg"
-    },
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
-    ],
-	"primaryMinecraftVersion": "1.8.9",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-	], 
-	"primaryLanguage": "en",
-    "languages": [
-        "en"
-    ]
-   
+    }
 }
