@@ -1,23 +1,24 @@
 {
     "id": "houpcuy",
     "name": "Houpcuy Network",
-    "website": "https://www.houpcuy.com",
-    "store": "https://store.houpcuy.com",
+    "website": "https://houpcuy.cc",
+    "store": "https://houpcuy.cc/store",
     "description": "The Next Best PvP Server",
     "addresses": [
         "houpcuy.cc",
+        "neverminds.cc",
         "1i.hk",
-        "5i.hk",
-        "neverminds.cc"
+        "5i.hk"
     ],
     "primaryAddress": "neverminds.cc",
     "primaryColor": "#ff60af",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
+        "1.8.*",
         "1.7.*",
-        "1.21.*",
-        "1.8.*"
+        "1.21.*"
     ],
+    "crossPlay": true,
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "AS",
     "regions": [
@@ -30,7 +31,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames"
+        "Minigames",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/NPje2kPgrp"
