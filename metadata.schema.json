@@ -358,6 +358,10 @@
         "TebexStoreBackground": {
             "type": "object",
             "additionalProperties": false,
+            "required": [
+                "lowerColor",
+                "upperColor"
+            ],
             "properties": {
                 "lowerColor": {
                     "$ref": "#/definitions/RGBColor"
