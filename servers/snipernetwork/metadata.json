@@ -1,0 +1,47 @@
+{
+    "id": "snipernetwork",
+    "name": "Sniper Network",
+    "description": "Best Minecraft PVP and Lifessteal; Server",
+    "addresses": [
+        "snipernetwork.fun"
+    ],
+    "primaryAddress": "play.snipernetwork.fun",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryColor": "#07FF00",
+    "secondaryColor": "#FF7500",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+        "Lifessteal"
+        "Bedwars"
+        "Survival"
+    ],
+    "website": "https://www.snipernetwork.fun/",
+    "store": "https://store.snipernetwork.fun/",
+    "compliance": {
+        "privacyPolicy": "https://www.snipernetwork.fun/privacy",
+        "termsOfService": "https://www.snipernetwork.fun/tos",
+        "rules": "https://www.snipernetwork.fun/rules"
+    },
+    "socials": {
+        "discord": "https://discord.snipernetwork.fun/"
+    },
+    "crossplay": true
+}
