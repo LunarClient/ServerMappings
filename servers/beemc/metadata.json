@@ -1,6 +1,6 @@
 {
     "id": "beemc",
-    "name": "IP: BEEMC.PL",
+    "name": "BEEMC",
     "website": "https://beemc.pl/",
     "store": "https://sklep.beemc.pl/",
     "addresses": [
@@ -33,3 +33,4 @@
         "discord": "https://discord.com/invite/x76HVVnCHX"
     }
 }
+
