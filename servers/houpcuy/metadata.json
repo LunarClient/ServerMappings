@@ -18,8 +18,8 @@
         "1.7.*",
         "1.21.*"
     ],
-    "crossPlay": true,
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
         "AS"
