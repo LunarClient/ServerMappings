@@ -36,10 +36,5 @@
     "twitch": "starwynxnetwork",
     "tiktok": "@starwynxnetwork"
   },
-  "crossplay": true,
-  "tebexStore": {
-    "background": {
-      "upperColor": "#41074A"
-    }
-  }
+  "crossplay": true
 }
