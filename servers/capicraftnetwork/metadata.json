@@ -34,12 +34,10 @@
         "PvP",
         "Survival"
     ],
-    "store": "http://tienda.capicraft.us/",
     "socials": {
         "twitter": "CraftCapi",
         "tiktok": "@capicraftnetwork",
-        "instagram": "capicraftnetwork",
-        "discord": "http://discord.capicraft.us/"
+        "instagram": "capicraftnetwork"
     },
     "votingLinks": [
         "https://minecraftservers.org/server/676143",
