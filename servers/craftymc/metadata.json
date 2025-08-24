@@ -1,10 +1,9 @@
 {
     "id": "craftymc",
     "name": "CraftyMC",
-    "description": "French FFA Game Server",
     "website": "https://craftymc.fr",
+    "description": "French FFA Game Server",
     "addresses": [
-        "play.craftymc.fr",
         "craftymc.fr"
     ],
 
