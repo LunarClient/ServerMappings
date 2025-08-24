@@ -8,7 +8,7 @@
         "craftymc.fr"
     ],
 
-    "primaryAddress": "play.craftymc.fr",
+    "primaryAddress": "craftymc.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -31,11 +31,11 @@
     ],
     "gameTypes": [
         "PvP",
-        "FFA"
+        "Minigames"
     ],
     "socials": {
         "twitter": "craftymc",
-        "discord": "https://discord.craftymc.fr",
+        "discord": "https://discord.gg/PRjY7bv6nt",
         "youtube": "craftymc",
         "instagram": "craftymc",
         "tiktok": "craftymc"
