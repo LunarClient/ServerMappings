@@ -16,8 +16,8 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
     "primaryLanguage": "vi",
     "languages": [
         "en",
@@ -35,6 +35,7 @@
     "gameTypes": [
         "PvP",
         "Anarchy",
+        "Survival",
         "Dream"
     ],
     "website": "https://www.094929.xyz",
