@@ -1,0 +1,48 @@
+{
+    "id": "UniverseAnarchy",
+    "name": "Universe Anarchy",
+    "description": "An Anarchy Server That Never Be Affect By Anything",
+    "addresses": [
+        "094929.xyz",
+        "094928.xyz"
+    ],
+    "primaryAddress": "094929.xyz",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "vi",
+    "languages": [
+        "en",
+        "vi"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Anarchy",
+        "Dream"
+    ],
+    "website": "https://www.094929.xyz",
+    "compliance": {
+        "rules": "https://www.094929.xyz/rules"
+    },
+    "socials": {
+        "discord": "https://discord.094929.xyz"
+    },
+    "crossplay": false
+}
