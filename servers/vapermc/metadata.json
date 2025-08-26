@@ -1,7 +1,7 @@
 {
   "id": "vapermc",
   "name": "VaperMC",
-  "description": "Spanish Minecraft network with SkyWars, Slimefun and OneBlock — crossplay Java & Bedrock.",
+  "description": "Spanish network with SkyWars, Slimefun and OneBlock. Java & Bedrock crossplay.",
   "addresses": [
     "vapermc.net"
   ],
@@ -30,7 +30,7 @@
   "website": "https://www.vapermc.net",
   "store": "https://tienda.vapermc.net",
   "socials": {
-    "discord": "https://discord.vapermc.net"
+    "discord": "https://discord.gg/5WdNemJZ"
   },
   "crossplay": true
 }
