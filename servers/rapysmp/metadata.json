@@ -1,0 +1,29 @@
+{
+    "id": "rapysmp",
+    "name": "RapySMP",
+    "website": "https://rapysmp.pl/",
+    "store": "https://rapysmp.pl/#sklep",
+    "addresses": [
+        "rapysmp.pl"
+    ],
+    "primaryAddress": "rapysmp.pl",
+    "primaryColor": "#f8a72e",
+    "secondaryColor": "#d6d5d3",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "rapy.pl",
+        "facebook": "ekiparapy",
+        "tiktok": "@rapy.pl",
+        "discord": "https://discord.com/invite/ZEJzue9TAy"
+    }
+}
