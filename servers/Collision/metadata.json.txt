@@ -1,0 +1,21 @@
+{
+  "id": "collisionmc",
+  "name": "CollisionMC",
+  "description": "Italian Minecraft survival server!",
+  "addresses": ["collisionmc.it"],
+  "primaryAddress": "play.collisionmc.it",
+  "gameTypes": ["Survival"],
+  "primaryColor": "#1E90FF",
+  "secondaryColor": "#FFD700",
+  "minecraftVersions": ["1.8.9", "1.21.8"],
+  "primaryMinecraftVersion": "1.21.8",
+  "languages": ["it", "en"],
+  "primaryLanguage": "it",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://collisionmc.free.nf/",
+  "socials": {
+    "discord": "https://dsc.gg/collisionmc",
+    "tiktok": "https://www.tiktok.com/@collisionmc.social"
+  }
+}
