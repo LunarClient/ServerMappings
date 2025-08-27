@@ -7,6 +7,8 @@
     "primaryAddress": "play.thoramc.it",
     "primaryColor": "#ffb330",
     "secondaryColor": "#ffe4b5",
+    "votingLinks": "https://minecraft-italia.net/lista/server/thoramc",
+    "crossplay": "false",
     "minecraftVersions": [
         "1.20.4",
         "1.21.5"
