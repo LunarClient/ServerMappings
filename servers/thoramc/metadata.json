@@ -22,9 +22,12 @@
         "it"
     ],
     "gameTypes": [
-        "Skyblock"
+        "Skyblock",
+        "Survival",
+        "PvP"
     ],
     "socials": {
+        "youtube": "thoramc"
         "discord": "https://discord.gg/6S8m9dHufs"
     }
 }
