@@ -7,6 +7,7 @@
     "primaryAddress": "play.thoramc.it",
     "primaryColor": "#ffb330",
     "secondaryColor": "#ffe4b5",
+    "crossplay": false,
     "minecraftVersions": [
         "1.20.4",
         "1.21.5"
@@ -21,9 +22,12 @@
         "it"
     ],
     "gameTypes": [
-        "Skyblock"
+        "Skyblock",
+        "Survival",
+        "PvP"
     ],
     "socials": {
+        "youtube": "thoramc",
         "discord": "https://discord.gg/6S8m9dHufs"
     }
 }
