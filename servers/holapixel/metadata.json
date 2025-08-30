@@ -1,0 +1,40 @@
+{
+  "id": "holapixel",
+  "name": "HolaPixel Network",
+  "website": "https://www.holapixel.ir",
+  "store": "https://store.holapixel.ir",
+  "wiki": "https://wiki.holapixel.ir/",
+  "description": "HolaPixel – A Minecraft Network where fun turns into memories! Play minigames, Skyblock, and PvP with your friends and create unforgettable adventures!",
+  "addresses": ["holapixel.ir"],
+  "primaryAddress": "mc.holapixel.ir",
+  "primaryColor": "#1E90FF",
+  "secondaryColor": "#9378ff",
+  "minecraftVersions": [
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*",
+      "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+  ],
+  "languages": ["en"],
+  "primaryLanguage": "en",
+  "gameTypes": [
+      "Minigames",
+      "PvP",
+      "Skyblock"
+  ],
+  "socials": {
+      "discord": "https://discord.gg/r9ucPHyv4P",
+      "youtube": "HolaPixel-IR",
+      "instagram": "HolaPixelOfficial"
+  }
+}
