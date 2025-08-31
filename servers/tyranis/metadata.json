@@ -1,0 +1,21 @@
+{
+    "id": "tyranis",
+    "name": "Tyranis",
+    "website": "https://tyranis.fr",
+    "store": "https://boutique.tyranis.fr",
+    "description": "PvP/Factions Server 1.8+ French",
+    "addresses": [
+        "tyranis.fr"
+    ],
+    "primaryAddress": "play.tyranis.fr",
+    "primaryColor": "#eda60c",
+    "secondaryColor": "#F5E417",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ]
+}

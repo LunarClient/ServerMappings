@@ -1,0 +1,37 @@
+{
+    "id": "hittlecraft",
+    "name": "HittleCraft",
+    "store": "https://store.hittlecraft.net",
+    "description": "Minecraft server featuring PrisonOP and KitPvP gamemodes",
+    "addresses": [
+        "hittlecraft.net"
+    ],
+    "primaryAddress": "hittlecraft.net",
+    "primaryColor": "#FF8C00",
+    "secondaryColor": "#FFD700",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/m8V9pns6dB",
+        "twitter": "hittlecraft1"
+    },
+    "votingLinks": [
+        "https://minecraftservers.org/server/644961"
+    ]
+}

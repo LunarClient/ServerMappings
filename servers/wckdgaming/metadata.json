@@ -1,11 +1,15 @@
 {
     "id": "wckdgaming",
     "name": "WCKD Gaming",
+    "website": "https://www.wckd-gaming.com",
+    "store": "https://store.wckd-gaming.com",
     "description": "Explore. Create. Conquer",
     "addresses": [
         "wckd-gaming.com"
     ],
     "primaryAddress": "mc.wckd-gaming.com",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#54DE99",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,12 +18,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#54DE99",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -28,19 +27,20 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "PvE",
         "Skyblock"
     ],
-    "website": "https://www.wckd-gaming.com",
-    "store": "https://store.wckd-gaming.com",
-    "compliance": {
-        "privacyPolicy": "https://store.wckd-gaming.com/terms/privacy",
-        "termsOfService": "https://store.wckd-gaming.com/terms/checkout"
-    },
     "socials": {
         "discord": "https://discord.gg/zKxshftbNZ"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://store.wckd-gaming.com/terms/privacy",
+        "termsOfService": "https://store.wckd-gaming.com/terms/checkout"
+    }
 }

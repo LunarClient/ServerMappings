@@ -1,0 +1,40 @@
+{
+    "id": "clubedomine",
+    "name": "Clube do Mine - Battlelandia",
+    "description": "Brazil Survival Server!",
+    "addresses": [
+        "clubedomine.club"
+    ],
+    "primaryAddress": "clubedomine.club",
+    "primaryColor": "#ffc400",
+    "secondaryColor": "#ff8000",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "EU"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/83Hq3rtuCy"
+    }
+}

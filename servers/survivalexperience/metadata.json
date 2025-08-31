@@ -1,0 +1,45 @@
+{
+    "id": "survivalexperience",
+    "name": "Survival Experience",
+    "website": "http://www.survivalexperience.org",
+    "description": "Your final Minecraft adventure awaits. Have fun!",
+    "addresses": [
+        "survivalexperience.org"
+    ],
+    "primaryAddress": "survivalexperience.org",
+    "primaryColor": "#25ff00",
+    "secondaryColor": "#00ffee",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7c9TyAyaNW"
+    },
+    "compliance": {
+        "rules": "http://www.survivalexperience.org/minecraft/website/rules.html"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "limoncraft",
+    "name": "Limoncraft Italia",
+    "website": "https://www.limoncraft.it/",
+    "store": "https://store.limoncraft.it/",
+    "description": "Limoncraft Italia, the network full of unique gamemodes and gameplays.",
+    "addresses": [
+        "limoncraft.it"
+    ],
+    "primaryAddress": "play.limoncraft.it",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FFAA00",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/SBpeRAXQAx",
+        "instagram": "limoncraft_italia",
+        "telegram": "LimoncraftItalia",
+        "tiktok": "@limoncraft.italia"
+    }
+}

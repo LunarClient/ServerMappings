@@ -1,0 +1,54 @@
+{
+    "id": "laels",
+    "name": "La El's",
+    "website": "https://www.laels.club",
+    "store": "https://loja.laels.club",
+    "description": "A new era of minecraft minigames",
+    "addresses": [
+        "laels.club",
+        "laels.gay",
+        "laels.fun"
+    ],
+    "primaryAddress": "laels.club",
+    "primaryColor": "#4B32D7",
+    "secondaryColor": "#005CB3",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "laelsclub",
+        "discord": "https://discord.gg/sGB3brndzj",
+        "youtube": "@laelsclub",
+        "instagram": "laels.club",
+        "tiktok": "@laelsclub"
+    },
+    "compliance": {
+        "privacyPolicy": "https://laels.club/privacy",
+        "termsOfService": "https://laels.club/terms",
+        "rules": "https://laels.club/regras"
+    }
+}

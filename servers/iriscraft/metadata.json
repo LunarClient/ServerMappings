@@ -1,11 +1,11 @@
 {
     "id": "iriscraft",
-    "name": "Iriscraft Network",
-    "store": "https://store.iriscraft.xyz/",
+    "name": "Iriscraft",
+    "store": "https://store.iriscraft.us/",
     "addresses": [
-        "iriscraft.xyz"
+        "iriscraft.us"
     ],
-    "primaryAddress": "iriscraft.xyz",
+    "primaryAddress": "iriscraft.us",
     "primaryColor": "#d627c6",
     "secondaryColor": "#dc7eed",
     "minecraftVersions": [
@@ -31,6 +31,6 @@
     ],
     "socials": {
         "twitter": "iriscraftnw",
-        "discord": "https://discord.gg/M7Ep9pRaDB"
+        "discord": "https://discord.gg/MheUrV6z6t"
     }
 }

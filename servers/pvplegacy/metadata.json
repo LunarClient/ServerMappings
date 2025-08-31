@@ -9,6 +9,8 @@
         "pvplegacy.com"
     ],
     "primaryAddress": "play.pvplegacy.net",
+    "primaryColor": "#0392c5",
+    "secondaryColor": "#a2a1a3",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -27,7 +29,5 @@
     "socials": {
         "twitter": "PvPLegacyNet",
         "discord": "https://discord.com/invite/k82HZWq"
-    },
-    "primaryColor": "#0392c5",
-    "secondaryColor": "#a2a1a3"
+    }
 }

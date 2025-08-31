@@ -19,10 +19,10 @@
     ],
     "gameTypes": [
         "Survival",
-	"PvP"
+        "PvP"
     ],
     "socials": {
-	"discord": "https://discord.gg/E74brwUCwK",
-	"tiktok": "@trykitmc"
-    }	
+        "discord": "https://discord.gg/E74brwUCwK",
+        "tiktok": "@trykitmc"
+    }
 }
