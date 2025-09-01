@@ -4,8 +4,7 @@
   "store": "https://store.rival.lat/",
   "description": "The official home of PvP",
   "addresses": [
-    "rival.lat",
-    "uhc.rival.lat"
+    "rival.lat"
   ],
   "primaryAddress": "rival.lat",
   "minecraftVersions": [
@@ -18,7 +17,7 @@
   "primaryLanguage": "en",
   "languages": [
     "en",
-    "es",
+    "es-EN",
     "fr"
   ],
   "primaryRegion": "NA",
