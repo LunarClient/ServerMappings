@@ -1,0 +1,22 @@
+{
+    "id": "pixelplay",
+    "name": "PixelPlay",
+    "website": "https://pixelplay.gg/",
+    "addresses": [
+        "pixelplay.gg"
+    ],
+    "primaryAddress": "mc.pixelplay.gg",
+    "primaryColor": "#2ecc71",
+    "secondaryColor": "#4be08c",
+    "minecraftVersions": [
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
