@@ -1,0 +1,34 @@
+{
+    "id": "seyox",
+    "name": "Seyox",
+    "website": "https://seyox.nl/",
+    "store": "https://store.seyox.nl",
+    "description": "Op Seyox bepaal jij je toekomst.",
+    "addresses": [
+        "seyox.nl"
+    ],
+    "primaryAddress": "play.seyox.nl",
+    "primaryColor": "#ffa222",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/TaRhzvdkjt",
+        "youtube": "seyoxnetwork",
+        "tiktok": "@seyoxmc",
+        "instagram": "play.seyox.nl"
+    }
+}
