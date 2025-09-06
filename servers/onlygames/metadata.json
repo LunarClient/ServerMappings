@@ -1,7 +1,7 @@
 {
     "id": "onlygames",
     "name": "OnlyGames Network",
-    "description": "We are a UHC server on versions 1.17.1 - 1.21, focused on offering fun and competitive matches.",
+    "description": "We are a PvP server, focused on offering fun and competitive matches.",
     "store": "https://tienda.onlygames.us/",
     "addresses": [
         "onlygames.us"
@@ -28,9 +28,9 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/6dDSyXUeMa",
-        "youtube": "https://www.youtube.com/@onlygamesnetwork",
-        "tiktok": "https://www.tiktok.com/@onlygamesnetwork",
-        "twitter": "https://x.com/OnlyGamesServer"
+        "youtube": "@onlygamesnetwork",
+        "tiktok": "@onlygamesnetwork",
+        "twitter": "@OnlyGamesServer"
     },
     "languages": [
         "es-EN",
