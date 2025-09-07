@@ -5,7 +5,7 @@
     "website": "https://bonkmc.net/",
     "description": "Join the Best Public SMP Server!",
     "addresses": [
-        "play.bonkmc.net"
+        "bonkmc.net"
     ],
     "primaryAddress": "play.bonkmc.net",
     "primaryColor": "#34eb9e",
@@ -30,14 +30,13 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/bonknetwork/"
+        "discord": "https://discord.gg/bonknetwork/",
+        "youtube": "@wonkerss"
     },
     "votingLinks": [
         "https://minecraft-mp.com/server/341091/vote/",
         "https://best-minecraft-servers.co/server-bonk-network.27529",
         "https://topminecraftservers.org/server/40060",
         "https://minecraftbestservers.com/server-bonk-network.4594/"
-    ],
-    "youtube": "@wonkerss",
-    "discord": "https://discord.gg/bonknetwork/"
+    ]
 }
