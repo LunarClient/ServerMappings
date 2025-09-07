@@ -1,34 +1,42 @@
 {
     "id": "onlygames",
     "name": "OnlyGames Network",
+    "description": "We are a USA, Miami-based PvP network focused mainly on UHC.",
     "store": "https://tienda.onlygames.us/",
     "addresses": [
         "onlygames.us"
     ],
     "primaryAddress": "mc.onlygames.us",
-    "primaryColor": "#F31D1D",
-    "secondaryColor": "#090909",
+    "primaryColor": "#F81616",
+    "secondaryColor": "#D90E37",
     "minecraftVersions": [
-        "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
         "PvP",
-        "UHC"
+        "UHC",
+        "Hardcore"
     ],
     "socials": {
-        "discord": "https://discord.gg/6dDSyXUeMa",
-        "youtube": "onlygamesuhc_",
-        "tiktok": "@OnlyGamesUHC_",
-        "twitter": "@OnlyGamesUHC_"
-    }
+        "discord": "https://discord.com/invite/6dDSyXUeMa",
+        "youtube": "@onlygamesnetwork",
+        "tiktok": "@onlygamesnetwork",
+        "twitter": "@OnlyGamesServer"
+    },
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryLanguage": "es-EN",
+    "website": "https://www.onlygames.us/",
+    "crossplay": true
 }
