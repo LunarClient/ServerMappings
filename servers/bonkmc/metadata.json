@@ -1,0 +1,34 @@
+{
+    "id": "bonkmc",
+    "name": "BonkMC",
+    "store": "https://store.bonkmc.net/",
+    "website": "https://bonkmc.net/",
+    "description": "Join the Best Public SMP Server!",
+    "addresses": [
+        "play.bonkmc.net"
+    ],
+    "primaryAddress": "play.bonkmc.net",
+    "primaryColor": "#34eb9e",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bonknetwork/"
+    }
+}
