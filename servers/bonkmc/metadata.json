@@ -18,7 +18,8 @@
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
+        "NA"
     ],
     "primaryLanguage": "en",
     "languages": [
@@ -30,5 +31,14 @@
     ],
     "socials": {
         "discord": "https://discord.gg/bonknetwork/"
-    }
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server/341091/vote/",
+        "https://best-minecraft-servers.co/server-bonk-network.27529",
+        "https://topminecraftservers.org/server/40060",
+        "https://minecraftbestservers.com/server-bonk-network.4594/"
+    ],
+    "youtube": "@wonkerss",
+    "discord": "https://discord.gg/bonknetwork/",
+    
 }
