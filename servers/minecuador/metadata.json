@@ -32,8 +32,6 @@
     "gameTypes": [
         "Minigames",
         "PvP",
-        "PvE",
-        "Adventure",
         "Survival"
     ],
     "socials": {
