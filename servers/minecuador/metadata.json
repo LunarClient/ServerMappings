@@ -3,8 +3,7 @@
     "name": "MinEcuador NetWork",
     "store": "https://store.minecuador.lat/",
     "addresses": [
-        "minecuador.lat",
-        "216.173.77.222:25565"
+        "minecuador.lat"
     ],
     "primaryAddress": "play.minecuador.lat",
     "primaryColor": "#17e95e",
@@ -33,7 +32,7 @@
     "gameTypes": [
         "Minigames",
         "PvP",
-        "PVE",
+        "PvE",
         "Adventure",
         "Survival"
     ],
