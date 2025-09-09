@@ -1,0 +1,36 @@
+{
+  "id": "vertixnetwork",
+  "name": "Vertix Network",
+  "website": "https://tienda.vertix.fun/",
+  "store": "https://tienda.vertix.fun/",
+  "description": "Servidor de Minecraft con survival OP, tradeos especiales y habilidades custom",
+  "addresses": [
+    "vertix.fun"
+  ],
+  "primaryAddress": "vertix.fun",
+  "primaryColor": "#FFD700",
+  "secondaryColor": "#FFFACD",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PVP",
+    "MiniGames"
+  ],
+  "crossplay": false,
+  "socials": {
+    "discord": "https://discord.gg/vertix"
+  },
+  "compliance": {
+    "privacyPolicy": "https://tienda.vertix.fun/privacy",
+    "termsOfService": "https://tienda.vertix.fun/terms",
+    "rules": "https://tienda.vertix.fun/rules",
+    "support": "https://discord.gg/vertix"
+  }
+}
