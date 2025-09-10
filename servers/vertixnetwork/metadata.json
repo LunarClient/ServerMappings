@@ -1,46 +1,43 @@
 {
-    "id": "vertixnetwork",
-    "name": "Vertix Network",
-    "website": "https://tienda.vertix.fun/",
-    "store": "https://tienda.vertix.fun/",
-    "description": "Servidor Survival OP y más modos de juego. ¡Domina el servidor!",
-    "addresses": [
-        "vertix.fun"
-    ],
-    "primaryAddress": "vertix.fun",
-    "primaryColor": "#FFD700",
-    "secondaryColor": "#FFFFFF",
-    "minecraftVersions": [
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.20.1",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA",
-        "SA"
-    ],
-    "primaryLanguage": "es-ES",
-    "languages": [
-        "es-ES"
-    ],
-    "gameTypes": [
-        "Survival",
-        "PvP",
-        "Minigames"
-    ],
-    "socials": {
-        "discord": "https://discord.gg/vertix"
-    },
-    "compliance": {
-        "privacyPolicy": "https://discord.gg/vertix",
-        "termsOfService": "https://discord.gg/vertix",
-        "rules": "https://discord.gg/vertix",
-        "support": "https://discord.gg/vertix"
-    },
-    "icon": "servers/icons/vertix.png"
+  "id": "vertixnetwork",
+  "name": "Vertix Network",
+  "website": "https://tienda.vertix.fun/",
+  "store": "https://tienda.vertix.fun/",
+  "description": "Servidor de Minecraft con survival OP, tradeos especiales y habilidades custom",
+  "addresses": [
+    "vertix.fun"
+  ],
+  "primaryAddress": "vertix.fun",
+  "primaryColor": "#FFD700",
+  "secondaryColor": "#FFFACD",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.20.1",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "crossplay": false,
+  "socials": {
+    "discord": "https://discord.gg/vertix"
+  },
+  "compliance": {
+    "privacyPolicy": "https://discord.gg/vertix",
+    "termsOfService": "https://discord.gg/vertix",
+    "rules": "https://discord.gg/vertix",
+    "support": "https://discord.gg/vertix"
+  }
 }
