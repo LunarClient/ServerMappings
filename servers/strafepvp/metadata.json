@@ -3,9 +3,9 @@
     "name": "Strafe Network",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "strafepvp.cc"
+        "strafepvp.org"
     ],
-    "primaryAddress": "strafepvp.cc",
+    "primaryAddress": "strafepvp.org",
     "primaryColor": "#e67e26",
     "secondaryColor": "#fff000",
     "minecraftVersions": [
