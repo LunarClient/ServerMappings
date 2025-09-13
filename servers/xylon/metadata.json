@@ -10,8 +10,8 @@
     "primaryColor": "#30c776",
     "secondaryColor": "#17633b",
     "minecraftVersions": [
-        "1.20",
-        "1.21"
+        "1.20._",
+        "1.21._"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "crossplay": true,
@@ -24,9 +24,7 @@
         "en"
     ],
     "gameTypes": [
-        "FFA",
-        "PvP",
-        "Clans"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/bvV7Hz9W5P"
