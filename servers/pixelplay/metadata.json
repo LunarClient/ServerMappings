@@ -21,9 +21,10 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Factions",
+        "Factions"
     ],
     "crossplay": true
 }
+
 
 
