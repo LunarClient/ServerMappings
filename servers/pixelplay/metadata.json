@@ -21,8 +21,12 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Vanilla",
-        "PvP"
+        "Open World",
+        "PvP",
+        "Factions",
+        "Minigames",
+        "Adventure"
     ],
     "crossplay": true
 }
+
