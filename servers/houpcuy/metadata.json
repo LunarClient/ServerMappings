@@ -1,14 +1,13 @@
 {
     "id": "houpcuy",
-    "name": "Houpcuy Network",
+    "name": "GeistMc Network",
     "website": "https://houpcuy.cc",
     "store": "https://houpcuy.cc/store",
     "description": "The Next Best PvP Server",
     "addresses": [
         "houpcuy.cc",
         "neverminds.cc",
-        "1i.hk",
-        "5i.hk"
+        "geistmc.cc"
     ],
     "primaryAddress": "neverminds.cc",
     "primaryColor": "#ff60af",
