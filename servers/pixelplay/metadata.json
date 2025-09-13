@@ -5,8 +5,6 @@
     "addresses": [
         "pixelplay.gg"
     ],
-    "minecraftVersions": [
-        "1.21.*",
     "primaryAddress": "mc.pixelplay.gg",
     "primaryColor": "#2ecc71",
     "secondaryColor": "#4be08c",
@@ -24,8 +22,7 @@
         "Survival",
         "Skyblock",
         "Vanilla",
-        "PvP",
+        "PvP"
+    ],
     "crossplay": true
-    ]
 }
-
