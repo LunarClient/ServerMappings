@@ -1,6 +1,6 @@
 {
     "id": "pixelplay",
-    "name": "PixelPlay",
+    "name": "Pixel Play",
     "website": "https://pixelplay.gg/",
     "addresses": [
         "pixelplay.gg"
@@ -14,9 +14,17 @@
     "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "SA",
     "regions": [
-        "SA"
+        "SA",
+        "NA",
+        "EU"
     ],
     "gameTypes": [
-        "Survival"
-    ]
+        "Survival",
+        "Skyblock",
+        "Factions"
+    ],
+    "crossplay": true
 }
+
+
+
