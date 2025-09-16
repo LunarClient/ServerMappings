@@ -23,11 +23,9 @@
         "it"
     ],
     "gameTypes": [
-        "SMP",
-        "Towny",
-        "Lifesteal",
         "Survival",
-        "Factions"
+        "Factions",
+		"PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/cristogg",
