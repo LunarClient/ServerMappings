@@ -1,0 +1,33 @@
+{
+    "id": "huracanmc",
+    "name": "HuracanMC",
+    "description": "Aztec-themed PvP/Factions minecraft server.",
+    "addresses": [
+        "huracanmc.fr"
+    ],
+    "primaryAddress": "play.huracanmc.fr",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#dba322",
+    "secondaryColor": "#dba322",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://www.huracanmc.fr",
+    "socials": {
+        "discord": "https://discord.gg/huracanmc"
+    }
+}
