@@ -21,17 +21,15 @@
     "primaryLanguage": "pt-BR",
     "languages": [
         "pt-BR",
-        "en",
-        "es"
+        "en"
     ],
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
     "gameTypes": [
-        "CTF",
-        "Bed Wars",
-        "Sky Wars"
+        "Minigames",
+        "PvP"
     ],
     "website": "https://www.staily.net",
     "store": "https://staily.net/store",
@@ -46,7 +44,7 @@
         "youtube": "stailynetwork",
         "instagram": "stailynetwork",
         "twitch": "stailynetwork",
-        "tiktok": "stailynetwork",
+        "tiktok": "@stailynetwork",
         "facebook": "stailynetwork",
         "reddit": "staily"
     },
