@@ -1,8 +1,6 @@
 {
     "id": "pixymc",
     "name": "PixyMC",
-    "votingLinks": "https://minecraft-italia.net/lista/server/pixymc.it",
-    "crossplay": "true",
     "description": "Entra ora su PixyMC",
     "addresses": [
         "pixymc.it"
@@ -31,4 +29,5 @@
         "discord": "https://discord.com/invite/pixymc",
         "instagram": "PixyMC"
     }
+
 }
