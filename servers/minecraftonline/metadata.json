@@ -1,7 +1,7 @@
 {
     "id": "minecraftonline",
     "name": "MinecraftOnline",
-	"website": "https://minecraftonline.com",
+    "website": "https://minecraftonline.com",
     "store": "https://minecraftonline.com/donate.html",
     "addresses": [
         "minecraftonline.com"
@@ -20,7 +20,7 @@
     "gameTypes": [
         "Survival"
     ],
-	"socials": {
-		"discord": "https://discord.gg/minecraftonline"
+    "socials": {
+        "discord": "https://discord.gg/minecraftonline"
     }
 }

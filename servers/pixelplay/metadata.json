@@ -1,0 +1,30 @@
+{
+    "id": "pixelplay",
+    "name": "Pixel Play",
+    "website": "https://pixelplay.gg/",
+    "addresses": [
+        "pixelplay.gg"
+    ],
+    "primaryAddress": "mc.pixelplay.gg",
+    "primaryColor": "#2ecc71",
+    "secondaryColor": "#4be08c",
+    "minecraftVersions": [
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Factions"
+    ],
+    "crossplay": true
+}
+
+
+

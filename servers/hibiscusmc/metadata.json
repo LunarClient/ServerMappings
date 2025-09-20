@@ -1,8 +1,9 @@
 {
     "id": "hibiscusmc",
     "name": "HibiscusMC: Awakened",
-    "description": "A revolutionary experience filled with custom mobs, blocks, and so much more",
     "store": "https://store.hibiscusmc.com/",
+    "wiki": "https://hibiscuscreative.notion.site/HibiscusMC-Wiki-4667d3aeccaf4367b453d88c0bb26bbc",
+    "description": "A revolutionary experience filled with custom mobs, blocks, and so much more",
     "addresses": [
         "hibiscusmc.com"
     ],
@@ -13,21 +14,35 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "gameTypes": [
-        "Survival", "Adventure", "Open World"
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
-    "wiki": "https://hibiscuscreative.notion.site/HibiscusMC-Wiki-4667d3aeccaf4367b453d88c0bb26bbc",
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/cGcyHccPJ6",
+        "youtube": "@HibiscusMC",
+        "tiktok": "@HibiscusMC",
+        "instagram": "hibiscusmc"
+    },
     "compliance": {
         "rules": "https://hibiscuscreative.notion.site/Rules-5eeaa8813233418da13ffb63c23ede20",
         "support": "https://feedback.hibiscusmc.com/"
+    },
+    "tebexStore": {
+        "background": {
+            "upperColor": "#d24c9f",
+            "lowerColor": "#fc77ca"
+        }
     },
     "votingLinks": [
         "https://servers-minecraft.net/server-hibiscusmc.11661",
@@ -38,18 +53,5 @@
         "https://best-minecraft-servers.co/server-hibiscusmc.7345",
         "https://www.curseforge.com/servers/server/hibiscusmc",
         "https://findmcserver.com/server/hibiscusmc"
-    ],
-    "crossplay": false,
-    "tebexStore": {
-        "background": {
-            "upperColor": "#d24c9f",
-            "lowerColor": "#fc77ca"
-        }
-    },
-    "socials": {
-        "discord": "https://discord.gg/cGcyHccPJ6",
-        "youtube": "@HibiscusMC",
-        "tiktok": "@HibiscusMC",
-        "instagram": "hibiscusmc"
-    }
+    ]
 }

@@ -1,0 +1,32 @@
+{
+    "id": "septrux",
+    "name": "Septrux",
+    "website": "https://septrux.de",
+    "description": "A Survival Server packed with features",
+    "addresses": [
+        "septrux.de",
+        "septrux.xyz"
+    ],
+    "primaryAddress": "play.septrux.de",
+    "primaryColor": "#f87906",
+    "secondaryColor": "#f7bd05",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/D4EchKJ5Th"
+    }
+}

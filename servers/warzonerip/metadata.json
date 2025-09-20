@@ -7,6 +7,8 @@
         "warzone.rip"
     ],
     "primaryAddress": "play.warzone.rip",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FF5555",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,8 +18,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#AA0000",
-    "secondaryColor": "#FF5555",
     "gameTypes": [
         "PvP",
         "HCF",

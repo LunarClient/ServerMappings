@@ -3,7 +3,6 @@
     "name": "MCC Island",
     "website": "https://mccisland.net/",
     "store": "https://store.mccisland.net/",
-    "merch": "https://mcc.store/",
     "description": "Play unique mini-games from Noxcrew's popular MC Championship event for FREE!",
     "addresses": [
         "mccisland.net",
@@ -11,6 +10,8 @@
         "noxcrew.online"
     ],
     "primaryAddress": "mccisland.net",
+    "primaryColor": "#f9e28b",
+    "secondaryColor": "#15ddfd",
     "minecraftVersions": [
         "1.19.4",
         "1.20.*",
@@ -21,8 +22,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#f9e28b",
-    "secondaryColor": "#15ddfd",
     "gameTypes": [
         "Minigames",
         "PvP"
@@ -42,15 +41,16 @@
         "support": "https://support.mccisland.net"
     },
     "presentationVideo": "7c1zWQoitig",
-    "modpack": {
-        "id": "PITslCIA",
-        "promptBeforeGameJoin": true,
-        "promptBeforeLauncherJoin": true
-    },
     "tebexStore": {
         "background": {
             "lowerColor": "#0E1525",
             "upperColor": "#1C2844"
         }
-    }
+    },
+    "modpack": {
+        "id": "PITslCIA",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
+    },
+    "merch": "https://mcc.store/"
 }

@@ -1,0 +1,31 @@
+{
+    "id": "vypercraft",
+    "name": "VyperCraft Network",
+    "store": "https://shop.vypercraft.net/",
+    "addresses": [
+        "vypercraft.net"
+    ],
+    "primaryAddress": "vypercraft.net",
+    "primaryColor": "#00ff27",
+    "secondaryColor": "#009717",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zhC3JatK8b",
+        "youtube": "Vypercraft"
+    }
+}

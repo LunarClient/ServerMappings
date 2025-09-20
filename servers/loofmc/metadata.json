@@ -3,31 +3,31 @@
     "name": "LoofMC Network",
     "website": "https://loofmc.pl/",
     "store": "https://shop.loofmc.pl/",
-    "primaryAddress": "loofmc.pl",
     "addresses": [
         "loofmc.pl"
     ],
+    "primaryAddress": "loofmc.pl",
     "primaryColor": "#ffac38",
     "secondaryColor": "#cc7700",
-    "primaryMinecraftVersion": "1.20.2",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
+    "primaryMinecraftVersion": "1.20.2",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
-    ],
-    "gameTypes": [
-        "PvP"
     ],
     "primaryLanguage": "pl",
     "languages": [
         "pl"
     ],
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/j5fEc2W35Z"
-    },
-    "crossplay": false
+    }
 }

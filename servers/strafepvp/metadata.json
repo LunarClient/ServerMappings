@@ -1,0 +1,34 @@
+{
+    "id": "strafepvp",
+    "name": "Strafe Network",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "strafepvp.org"
+    ],
+    "primaryAddress": "strafepvp.org",
+    "primaryColor": "#e67e26",
+    "secondaryColor": "#fff000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "StrafePvPorg",
+        "discord": "https://discord.gg/djQahk8S2U"
+    }
+}
