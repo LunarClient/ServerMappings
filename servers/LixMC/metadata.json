@@ -1,44 +1,39 @@
 {
-  "id": "LixMC",
-  "name": "LixMC",
-  "description": "LixMC nasce nel 2025 da due ragazzi che cercano di rivoluzionare minecraft italy",
-  "addresses": [
-    "lixmc.it"
-  ],
-  "primaryAddress": "play.lixmc.it",
-  "gameTypes": [
-    "PvP",
-    "Survival",
-    "Roleplay"
-  ],
-  "primaryColor": "#A202FF",
-  "secondaryColor": "#FFFFFF",
-  "minecraftVersions": [
-    "1.8.9",
-    "1.19.4",
-    "1.21",
-    "1.21.1",
-    "1.21.2",
-    "1.21.3",
-    "1.21.4",
-    "1.21.5",
-    "1.21.6",
-    "1.21.7",
-    "1.21.8"
-  ],
-  "primaryMinecraftVersion": "1.21",
-  "languages": [
-    "it"
-  ],
-  "primaryLanguage": "it",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "website": "https://www.lixmc.it",
-  "store": "https://www.lixmc.it/store",
-  "socials": {
-    "discord": "https://discord.gg/7hHFrPPw39",
-    "tiktok": "@lunarclient_official"
-  }
+    "id": "lixmc",
+    "name": "LixMC",
+    "website": "https://www.lixmc.it/",
+    "store": "https://store.lixmc.it/",
+    "description": "A server that tries to revolutionize Minecraft Italy
+",
+    "addresses": [
+        "lixmc.it"
+    ],
+    "primaryAddress": "play.lixmc.it",
+    "primaryColor": "#4200ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8",
+        "1.19.4",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "RolePlay"
+        "Survival"
+        "PvP"
+    ],
+    "socials": {
+        "telegram": "LixMC",
+        "discord": "https://discord.gg/7hHFrPPw39",
+        "tiktok": "@lixmc_official"
+    }
 }
