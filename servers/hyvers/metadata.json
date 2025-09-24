@@ -12,7 +12,7 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.5",
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -23,4 +23,5 @@
     "socials": {
         "discord": "https://discord.com/invite/hyvers/"
     }
+
 }
