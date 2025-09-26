@@ -1,6 +1,7 @@
 {
     "id": "redealianca",
-    "name": "Rede Aliança",
+    "name": "Rede Alianca",
+	"description": "Minecraft server with multiple game modes, events, and an active community.",
     "addresses": [
         "alianca.club"
     ],
@@ -35,4 +36,5 @@
     "socials": {
         "discord": "https://discord.gg/redealianca"
     }
+
 }
