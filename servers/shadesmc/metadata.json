@@ -1,19 +1,20 @@
 {
     "id": "shadesmc",
     "name": "ShadesMC",
+    "website": "https://www.shadesmc.it/",
     "store": "https://store.shadesmc.it/",
-    "description": "ShadesMC is the best server to play on with a custom Factions.",
+    "description": "Join our server to play the best italian Factions!",
     "addresses": [
         "shadesmc.it"
     ],
-    "primaryAddress": "shadesmc.it",
-    "primaryColor": "#7412c4",
-    "secondaryColor": "#8a0af2",
+    "primaryAddress": "play.shadesmc.it",
+    "primaryColor": "#800080",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
-		"1.21.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.8",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -23,13 +24,10 @@
         "it"
     ],
     "gameTypes": [
-        "Survival",
-        "Factions",
-		"PvP"
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.gg/vd8nTFxAzR",
+        "telegram": "shadesmc"
     }
-
 }
-
