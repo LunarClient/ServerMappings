@@ -1,0 +1,40 @@
+{
+    "id": "redealianca",
+    "name": "Rede Alianca",
+	"description": "Minecraft server with multiple game modes, events, and an active community.",
+    "addresses": [
+        "alianca.club"
+    ],
+    "primaryAddress": "alianca.club",
+    "primaryColor": "#fec163",
+    "secondaryColor": "#de4313",
+    "minecraftVersions": [
+	    "1.21.8",
+		"1.21.7",
+        "1.21.6",
+		"1.21.5",
+		"1.21.4",
+		"1.21.3",
+		"1.21.1",
+		"1.21",
+		"1.20.6",
+		"1.20.5",
+		"1.20.4",
+		"1.20.3",
+		"1.20.2"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Prison",
+		"Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/redealianca"
+    }
+
+}
