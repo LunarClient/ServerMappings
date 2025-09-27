@@ -1,0 +1,31 @@
+{
+    "id": "tryrpg",
+    "name": "TryRPG",
+    "website": "https://tryrpg.pl/",
+    "store": "https://tryrpg.pl/#sklep",
+    "addresses": [
+        "tryrpg.pl"
+    ],
+    "primaryAddress": "tryrpg.pl",
+    "primaryColor": "#00cc00",
+    "secondaryColor": "#009900",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Qj6pyNFSG6"
+    }
+}
