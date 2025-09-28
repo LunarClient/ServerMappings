@@ -9,7 +9,6 @@
     "secondaryColor": "#9BDEFF",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
@@ -28,7 +27,7 @@
         "Survival",
         "Minigames",
         "Parkour",
-        "RolePlay"
+        "Roleplay"
     ],
     "socials": {
         "discord": "https://discord.gg/9qWAkYr6s2",
