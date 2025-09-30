@@ -23,9 +23,7 @@
         "AS"
     ],
     "gameTypes": [
-        "PvP",
         "Survival",
-        "Minigames",
         "Roleplay"
     ],
     "socials": {
