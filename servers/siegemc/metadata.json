@@ -5,8 +5,8 @@
     "store": "https://store.siegemc.it/",
     "description": "SiegeMC ",
     "addresses": [
-        "play.siegemc.it",
-        "play.shardanacraft.it",
+        "siegemc.it",
+        "shardanacraft.it",
     ],
     "primaryAddress": "play.siegemc.it",
     "primaryColor": "#CD0808",
