@@ -1,8 +1,8 @@
 {
     "id": "trappedmc",
     "name": "TrappedMC",
-    "description": "Minecraft's best and largest classic prison server",
     "store": "https://shop.trappedmc.com/",
+    "description": "Minecraft's best and largest classic prison server",
     "addresses": [
         "trappedmc.com",
         "trappedmc.net",

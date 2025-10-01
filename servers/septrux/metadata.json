@@ -4,14 +4,14 @@
     "website": "https://septrux.de",
     "description": "A Survival Server packed with features",
     "addresses": [
-      "septrux.de",
-      "septrux.xyz"
+        "septrux.de",
+        "septrux.xyz"
     ],
     "primaryAddress": "play.septrux.de",
     "primaryColor": "#f87906",
     "secondaryColor": "#f7bd05",
     "minecraftVersions": [
-      "1.21.4"
+        "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
@@ -24,9 +24,9 @@
         "en"
     ],
     "gameTypes": [
-      "Survival"
+        "Survival"
     ],
     "socials": {
-      "discord": "https://discord.gg/D4EchKJ5Th"
+        "discord": "https://discord.gg/D4EchKJ5Th"
     }
 }

@@ -1,11 +1,14 @@
 {
     "id": "unnamecraft",
     "name": "UnnameCraft",
+    "store": "https://tienda.unnamecraft.com",
     "description": "Spanish-speaking server focused on survival.",
     "addresses": [
         "unnamecraft.com"
     ],
     "primaryAddress": "unnamecraft.com",
+    "primaryColor": "#440A70",
+    "secondaryColor": "#EE00FF",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
@@ -13,31 +16,29 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#440A70",
-    "secondaryColor": "#EE00FF",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA",
         "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
         "PvP",
         "PvE"
     ],
-    "store": "https://tienda.unnamecraft.com",
-    "compliance": {
-        "termsOfService": "https://reglas.unnamecraft.com/global/faqs/tos",
-        "rules": "https://reglas.unnamecraft.com/"
-    },
     "socials": {
         "twitter": "UnnameServer",
         "discord": "https://discord.com/invite/PBbJy3Rv89",
         "tiktok": "@unnamecraft"
+    },
+    "compliance": {
+        "termsOfService": "https://reglas.unnamecraft.com/global/faqs/tos",
+        "rules": "https://reglas.unnamecraft.com/"
     },
     "votingLinks": [
         "https://www.40servidoresmc.es/unnamecraft-java-bedrock",
@@ -49,6 +50,5 @@
         "https://topg.org/es/servidores-de-minecraft/server-664233",
         "https://polymart.org/server/426/unnamecraft-network",
         "https://servers-minecraft.net/server-unnamecraft-network.25452"
-    ],
-    "crossplay": true
+    ]
 }

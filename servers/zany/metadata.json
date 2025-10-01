@@ -1,39 +1,39 @@
 {
-  "id": "zany",
-  "name": "Zany",
-  "store": "https://zany.rip/store",
-  "description": "Classic PvP network featuring hosted uhcs, practice, survival games, and more!",
-  "addresses": [
-    "zany.rip"
-  ],
-  "primaryAddress": "zany.rip",
-  "primaryColor": "#4b1066",
-  "secondaryColor": "#c22dc4",
-  "minecraftVersions": [
-    "1.7.*",
-    "1.8.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "crossplay": false,
-  "primaryRegion": "NA",
-  "regions": [
-    "EU",
-    "NA"
-  ],
-  "primaryLanguage": "en",
-  "languages": [
-    "en"
-  ],
-  "gameTypes": [
-    "UHC",
-    "PvP",
-    "Minigames"
-  ],
-  "socials": {
-    "twitter": "ZanyRIP",
-    "discord": "https://discord.gg/zanyuhc"
-  },
-  "compliance": {
-    "rules": "https://zany.rip/rules"
-  }
+    "id": "zany",
+    "name": "Zany",
+    "store": "https://zany.rip/store",
+    "description": "Classic PvP network featuring hosted uhcs, practice, survival games, and more!",
+    "addresses": [
+        "zany.rip"
+    ],
+    "primaryAddress": "zany.rip",
+    "primaryColor": "#4b1066",
+    "secondaryColor": "#c22dc4",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "ZanyRIP",
+        "discord": "https://discord.gg/zanyuhc"
+    },
+    "compliance": {
+        "rules": "https://zany.rip/rules"
+    }
 }

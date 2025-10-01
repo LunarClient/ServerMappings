@@ -1,50 +1,49 @@
 {
     "id": "acegamersnetwork",
     "name": "Ace Network",
-    "description": "The real towny in Italy",
-    "addresses": [
-      "f7lab.com"
-    ],
-    "primaryAddress": "mc.f7lab.com",
-    "minecraftVersions": [
-      "1.20.*",
-      "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#ffe400",
-    "primaryLanguage": "it",
-    "languages": [
-      "it",
-      "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-      "NA",
-      "EU",
-      "OC",
-      "AS",
-      "SA"
-    ],
-    "gameTypes": [
-      "PvP",
-      "PvE",
-      "Minigames"
-    ],
     "website": "https://f7lab.com/",
     "store": "https://acegamers-network.tebex.io/",
-    "compliance": {
-      "rules": "https://docs.google.com/document/d/1Thtqb8bUFFcC-FMFb025cje-4Uv9J2ucBRsd4NXKOjM/edit?usp=sharing"
-    },
+    "description": "The real towny in Italy",
+    "addresses": [
+        "f7lab.com"
+    ],
+    "primaryAddress": "mc.f7lab.com",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffe400",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Minigames"
+    ],
     "socials": {
-      "instagram": "acegamersmc",
-      "tiktok": "@acegamersmc",
-      "discord": "https://discord.gg/njcQtUgDfY"
+        "instagram": "acegamersmc",
+        "tiktok": "@acegamersmc",
+        "discord": "https://discord.gg/njcQtUgDfY"
+    },
+    "compliance": {
+        "rules": "https://docs.google.com/document/d/1Thtqb8bUFFcC-FMFb025cje-4Uv9J2ucBRsd4NXKOjM/edit?usp=sharing"
     },
     "votingLinks": [
-      "https://minecraft-mp.com/server-s337471",
-      "https://minecraft-italia.net/lista/server/ace-network"
-    ],
-    "crossplay": true
-  }
-  
+        "https://minecraft-mp.com/server-s337471",
+        "https://minecraft-italia.net/lista/server/ace-network"
+    ]
+}

@@ -8,7 +8,7 @@
     "primaryColor": "#d000fb",
     "secondaryColor": "#f00eff",
     "minecraftVersions": [
-        "1.16.*",    
+        "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
@@ -16,13 +16,14 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryLanguage": "en", 
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
@@ -30,6 +31,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/5SpuVnaRFj"
-    },
-    "crossplay": false
+    }
 }

@@ -1,8 +1,8 @@
 {
     "id": "supersmp",
     "name": "SuperSMP",
-    "description": "A friendly SMP for all to enjoy!",
     "store": "https://store.supersmp.fun/",
+    "description": "A friendly SMP for all to enjoy!",
     "addresses": [
         "supersmp.fun"
     ],

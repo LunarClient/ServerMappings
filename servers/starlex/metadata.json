@@ -1,38 +1,38 @@
 {
     "id": "starlex",
     "name": "Starlex",
+    "website": "https://starlex.cz",
+    "store": "https://obchod.starlex.cz",
     "addresses": [
         "starlex.cz"
     ],
     "primaryAddress": "mc.starlex.cz",
+    "primaryColor": "#AA43F5",
+    "secondaryColor": "#E227FF",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#AA43F5",
-    "secondaryColor": "#E227FF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Survival"
     ],
-    "website": "https://starlex.cz",
-    "store": "https://obchod.starlex.cz",
-    "compliance": {
-        "rules": "https://stalrex.cz/pravidla"
-    },
     "socials": {
         "discord": "https://discord.gg/bh78cgMzkj",
         "instagram": "starlex.cz",
-        "tiktok":"@starlex.cz"
+        "tiktok": "@starlex.cz"
+    },
+    "compliance": {
+        "rules": "https://stalrex.cz/pravidla"
     }
 }
