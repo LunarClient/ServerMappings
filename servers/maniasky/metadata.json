@@ -25,6 +25,7 @@
     "gameTypes": [
         "PvE",
         "Adventure",
+        "OneBlock"
     ],
     "socials": {
         "discord": "https://discord.gg/maniasky",
