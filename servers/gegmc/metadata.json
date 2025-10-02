@@ -1,16 +1,17 @@
 {
-    "id": "gegmc",
-    "name": "GegMC Network",
-    "website": "https://www.gegmc.net",
-    "store": "https://tienda.gegmc.net",
-    "description": "GegMC is THE Hispanic Minecraft server that will never disappoint you.",
+    "id": "gapplemc",
+    "name": "GappleMC Network",
+    "website": "https://www.gapplemc.com",
+    "store": "https://store.gapplemc.net",
+    "description": "GappleMC is THE Hispanic server you're looking for, with PiponMC and GegMC's gameplay.",
     "addresses": [
         "gegmc.net",
-        "gegcraft.org"
+        "gegcraft.org",
+        "gapplemc.com"
     ],
-    "primaryAddress": "gegmc.net",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#9ee3ff",
+    "primaryAddress": "gapplemc.com",
+    "primaryColor": "#F5CC27",
+    "secondaryColor": "#FFE29E",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
@@ -27,15 +28,15 @@
         "EU",
         "SA"
     ],
-    "primaryLanguage": "es-EN",
+    "primaryLanguage": "es-ES",
     "languages": [
-        "es-EN"
+        "es-ES"
     ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/gegmc"
+        "discord": "https://discord.gg/gFVApkTfMb"
     }
 }
