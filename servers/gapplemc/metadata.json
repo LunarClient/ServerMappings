@@ -3,7 +3,7 @@
     "name": "GappleMC Network",
     "website": "https://www.gapplemc.com",
     "store": "https://store.gapplemc.net",
-    "description": "GappleMC is THE Hispanic server you're looking for, with PiponMC and GegMC's gameplay.",
+    "description": "GappleMC is THE Hispanic server you're looking for.",
     "addresses": [
         "gegmc.net",
         "gegcraft.org",
@@ -30,7 +30,7 @@
     ],
     "primaryLanguage": "es-EN",
     "languages": [
-        "es-ES"
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
