@@ -1,36 +1,34 @@
 {
-    "id": "bloodmc",
-    "name": "BloodMC",
-    "addresses": [
+  "id": "bloodmc",
+  "name": "BloodMC",
+  "addresses": [
     "bloodmc.com",
     "play.bloodmc.com",
-    "play.bloodmc.ir",    
     "sv5.tgmc.ir:30087"
-]
-    "primaryAddress": "play.bloodmc.com",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#000000",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.21.1",
-    "primaryRegion": "AS",
-    "regions": [
-        "AS"
-    ],
-    "gameTypes": [
-        "Roleplay",
-        "PvP"
-
-    ],
-    "socials": {
-        "discord": "https://discord.gg/6qNrDnGHR6"
-    }
+  ],
+  "primaryAddress": "play.bloodmc.com",
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#000000",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/KdTWg8DU9Y"
+  }
 }
