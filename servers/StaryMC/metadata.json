@@ -1,0 +1,29 @@
+{
+    "id": "StaryMC",
+    "name": "StaryMC",
+    "store": "https://store.starymc.it/",
+    "description": "Entra ora su StaryMC, e divertiti anche tu con la nostra Community! ",
+    "addresses": [
+        "play.starymc.it",
+        "mc.starymc.it"
+    ],
+    "primaryAddress": "play.starymc.it",
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7b1fa2",
+    "secondaryColor": "#d9d9d9",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Chill",
+        "PvP"
+    ],
+    "website": "https://www.starymc.it/",
+    "discord": "https://discord.starymc.it/",
+    "crossplay": false
+}
