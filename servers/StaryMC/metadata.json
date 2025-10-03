@@ -5,7 +5,9 @@
     "description": "Entra ora su StaryMC, e divertiti anche tu con la nostra Community! ",
     "addresses": [
         "play.starymc.it",
-        "mc.starymc.it"
+        "play.starymc.eu",
+        "mc.starymc.it",
+        "mc.starymc.eu"
     ],
     "primaryAddress": "play.starymc.it",
     "primaryMinecraftVersion": "1.8.9",
