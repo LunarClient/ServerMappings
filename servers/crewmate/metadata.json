@@ -26,7 +26,6 @@
   "website": "https://sito.crewmate.it",
   "wiki": "https://sito.crewmate.it/wiki",
   "store": "https://sito.crewmate.it/store",
-  "merch": "https://sito.crewmate.it/store",
   "socials": {
     "discord": "https://discord.gg/UEgTHadT4B",
     "tiktok": "@crewmate"
@@ -39,4 +38,5 @@
     "termsOfService": "https://sito.crewmate.it/index.php?route=/terms/",
     "rules": "https://sito.crewmate.it/index.php?route=/forum/topic/2-regolamento/"
   }
+
 }
