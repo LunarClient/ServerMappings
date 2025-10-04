@@ -1,12 +1,12 @@
 {
     "id": "donutnetwork",
     "name": "DonutNetwork",
-    "website": "https://donutnetwork.eu/",
+    "website": "https://donutnetwork.xyz/",
     "description": "Best Clutching and PvP Server!",
     "addresses": [
-        "donutnetwork.eu"
+        "donutnetwork.xyz"
     ],
-    "primaryAddress": "donutnetwork.eu",
+    "primaryAddress": "donutnetwork.xyz",
     "primaryColor": "#ff7b00",
     "secondaryColor": "#00F4FF",
     "minecraftVersions": [
