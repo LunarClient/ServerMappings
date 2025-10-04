@@ -1,43 +1,31 @@
 {
     "id": "overcraftnetwork",
     "name": "OverCraft Network",
-    "website": "http://overcraftmc.com/",
+    "website": "https://overcraftmc.com/",
     "store": "https://overcraft-store.tebex.io/",
-    "description": "",
+    "description": "Server focused on the gameplay and performance of Minecraft players",
     "addresses": [
         "overcraftmc.com"
     ],
     "primaryAddress": "play.overcraftmc.com",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#ffe400",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.21",
-    "crossplay": true,
+    "primaryMinecraftVersion": "1.21.7",
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
-    ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "it",
-        "en",
-        "es-EN"
+        "NA"
     ],
     "gameTypes": [
-        "PvP",
-        "PvE",
-        "Minijuegos"
+        "Survival",
+        "Adventure",
+        "Open World"
     ],
     "socials": {
         "tiktok": "@overcraftntw",
