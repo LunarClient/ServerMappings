@@ -6,6 +6,8 @@
         "motionmc.es"
     ],
     "primaryAddress": "motionmc.es",
+    "primaryColor": "#4498DB",
+    "secondaryColor": "#ADF3FD",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,8 +18,6 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#4498DB",
-    "secondaryColor": "#ADF3FD",
     "primaryRegion": "EU",
     "regions": [
         "EU"

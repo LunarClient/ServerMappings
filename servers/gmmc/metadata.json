@@ -7,6 +7,8 @@
         "gmmc.pl"
     ],
     "primaryAddress": "gmmc.pl",
+    "primaryColor": "#d7dde0",
+    "secondaryColor": "#f8c040",
     "minecraftVersions": [
         "1.16.5",
         "1.17.1",
@@ -14,15 +16,13 @@
         "1.19.4"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#d7dde0",
-    "secondaryColor": "#f8c040",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "PvP"

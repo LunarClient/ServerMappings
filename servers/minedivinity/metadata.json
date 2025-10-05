@@ -1,35 +1,37 @@
 {
     "id": "minedivinity",
     "name": "MineDivinity",
-    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
-    "addresses": [ "minedivinity.hu" ],
-    "primaryAddress": "play.minedivinity.hu",
-    "minecraftVersions": [
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*",
-      "1.20.*",
-      "1.21.*"
-  ],
-    "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#0ED45B",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-      "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-      "EU"
-    ],
-    "gameTypes": [
-      "PvP",
-      "Minigames"
-    ],
     "website": "https://minedivinity.hu",
     "store": "https://bolt.minedivinity.hu",
+    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
+    "addresses": [
+        "minedivinity.hu"
+    ],
+    "primaryAddress": "play.minedivinity.hu",
+    "primaryColor": "#0ED45B",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
-      "discord": "https://discord.gg/gMWWkfsY"
+        "discord": "https://discord.gg/gMWWkfsY"
     }
 }

@@ -6,13 +6,14 @@
         "octanepvp.com"
     ],
     "primaryAddress": "play.octanepvp.com",
+    "primaryColor": "#f9e931",
+    "secondaryColor": "#cb4a36",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#f9e931",
-    "secondaryColor": "#cb4a36",
+    "crossplay": false,
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -23,6 +24,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/nxs96RmeBs"
-    },
-    "crossplay": false
+    }
 }

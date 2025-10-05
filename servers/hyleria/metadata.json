@@ -1,9 +1,9 @@
 {
     "id": "hyleria",
     "name": "hyleria",
-    "description": "Hyleria V1 / PvP|Faction",
     "website": "https://hyleria.fr/",
     "store": "https://hyleria.fr/tebex",
+    "description": "Hyleria V1 / PvP|Faction",
     "addresses": [
         "hyleria.fr"
     ],

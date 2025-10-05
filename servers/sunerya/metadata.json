@@ -8,10 +8,6 @@
         "sunerya.fr"
     ],
     "primaryAddress": "play.sunerya.fr",
-    "gameTypes": [
-        "PvP",
-        "Factions"
-    ],
     "primaryColor": "#FFC747",
     "secondaryColor": "#EB892D",
     "minecraftVersions": [
@@ -20,14 +16,18 @@
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "languages": [
-        "fr"
-    ],
-    "primaryLanguage": "fr",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryRegion": "EU",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
     "socials": {
         "discord": "https://discord.com/invite/sunerya"
     }

@@ -1,38 +1,38 @@
 {
-  "id": "epicworld",
-  "name": "Epic World",
-  "description": "The unique network, embark on your journey today.",
-  "addresses": [
-    "epicworld.gg"
-  ],
-  "primaryAddress": "play.epicworld.gg",
-  "minecraftVersions": [
-    "1.21.3",
-    "1.21.4",
-    "1.21.5"
-  ],
-  "primaryMinecraftVersion": "1.21.3",
-  "primaryColor": "#3dc94c",
-  "secondaryColor": "#332419",
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "gameTypes": [
-    "Survival",
-    "Skyblock",
-    "Adventure"
-  ],
-  "crossplay": true,
-  "languages": [
-    "es-EN"
-  ],
-  "primaryLanguage": "es-EN",
-  "website": "https://epicworld.gg/",
-  "socials": {
-    "discord": "https://discord.com/invite/BRuanmye6F",
-    "twitter": "epicworldgg",
-    "tiktok": "@epicworldgg",
-    "youtube": "@EpicWorldSMP"
-  }
+    "id": "epicworld",
+    "name": "Epic World",
+    "website": "https://epicworld.gg/",
+    "description": "The unique network, embark on your journey today.",
+    "addresses": [
+        "epicworld.gg"
+    ],
+    "primaryAddress": "play.epicworld.gg",
+    "primaryColor": "#3dc94c",
+    "secondaryColor": "#332419",
+    "minecraftVersions": [
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/BRuanmye6F",
+        "twitter": "epicworldgg",
+        "tiktok": "@epicworldgg",
+        "youtube": "@EpicWorldSMP"
+    }
 }

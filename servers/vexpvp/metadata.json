@@ -1,19 +1,20 @@
 {
     "id": "vexpvp",
     "name": "VexPvP",
+    "store": "https://store.vexpvp.club",
     "description": "Minecraft HCF & Practice",
     "addresses": [
         "vexpvp.club",
         "vexpvp.lol"
     ],
     "primaryAddress": "vexpvp.club",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#800080",
-    "secondaryColor": "#FFC0CB",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -22,7 +23,6 @@
         "PvP",
         "HCF"
     ],
-    "store": "https://store.vexpvp.club",
     "socials": {
         "telegram": "vexpvp",
         "discord": "https://discord.gg/vexpvp"

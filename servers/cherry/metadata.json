@@ -1,38 +1,40 @@
 {
-  "id": "cherry",
-  "name": "Cherry Vanilla",
-  "store": "https://loja.cherryvanilla.club/",
-  "description": "The best Brazilian PvP server.",
-  "addresses": [
-    "cherryvanilla.club"
-  ],
-  "primaryAddress": "jogar.cherryvanilla.club",
-  "primaryColor": "#ff7dfb",
-  "secondaryColor": "#E200BC",
-  "minecraftVersions": [
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.4",
-  "crossplay": true,
-  "primaryRegion": "SA",
-  "regions": ["SA"],
-  "primaryLanguage": "pt-BR",
-  "languages": [
-    "pt-BR"
-  ],
-  "gameTypes": [
-    "PvP",
-    "Survival",
-    "Open World"
-  ],
-  "socials": {
-    "tiktok": "@cherryvanilla.club",
-    "discord": "https://discord.com/invite/mpcx6SCNQt",
-    "instagram": "cherryvanilla.club",
-    "youtube": "cherryvanilla.club"
-  }
+    "id": "cherry",
+    "name": "Cherry Vanilla",
+    "store": "https://loja.cherryvanilla.club/",
+    "description": "The best Brazilian PvP server.",
+    "addresses": [
+        "cherryvanilla.club"
+    ],
+    "primaryAddress": "jogar.cherryvanilla.club",
+    "primaryColor": "#ff7dfb",
+    "secondaryColor": "#E200BC",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "tiktok": "@cherryvanilla.club",
+        "discord": "https://discord.com/invite/mpcx6SCNQt",
+        "instagram": "cherryvanilla.club",
+        "youtube": "cherryvanilla.club"
+    }
 }

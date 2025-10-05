@@ -1,8 +1,8 @@
 {
     "id": "drazyh",
     "name": "Drazyh",
-    "description": "Drazyh is a Minecraft 1.8.9 PvP server network.",
     "store": "https://loja.drazyh.com",
+    "description": "Drazyh is a Minecraft 1.8.9 PvP server network.",
     "addresses": [
         "drazyh.com"
     ],
@@ -13,6 +13,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -29,6 +30,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/gdmqvRgzGf"
-    },
-    "crossplay": true
+    }
 }

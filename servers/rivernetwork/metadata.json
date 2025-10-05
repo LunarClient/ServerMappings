@@ -1,35 +1,35 @@
 {
     "id": "rivernetwork",
     "name": "River Network",
+    "store": "https://store.rivernetwork.net",
     "description": "Crossplay Lifesteal server",
     "addresses": [
         "rivernetwork.net"
     ],
     "primaryAddress": "rivernetwork.net",
+    "primaryColor": "#1db4d5",
+    "secondaryColor": "#FFD700",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.3",
-    "primaryColor": "#1db4d5",
-    "secondaryColor": "#FFD700",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://store.rivernetwork.net",
-    "presentationVideo": "OS_gFlg8yXA",
     "socials": {
         "twitter": "RiverNetworkTM_",
         "youtube": "RiverNetworkSMP",
         "discord": "https://discord.gg/river-network-smp-772143703828594758"
     },
-    "crossplay": true
+    "presentationVideo": "OS_gFlg8yXA"
 }
