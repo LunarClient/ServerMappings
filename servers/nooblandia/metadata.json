@@ -1,9 +1,8 @@
 {
     "id": "nooblandia",
     "name": "Nooblandia",
-    "description": "Server Minecraft competitivo con modalità PvP, Survival e Minigames unici e bilanciati.",
+    "description": "Server Minecraft competitivo con PvP, Survival e Minigames unici",
     "addresses": [
-        "mc.nooblandia.com",
         "nooblandia.com"
     ],
     "primaryAddress": "nooblandia.com",
