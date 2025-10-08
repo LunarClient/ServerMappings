@@ -5,7 +5,7 @@
     "addresses": [
         "nooblandia.com"
     ],
-    "primaryAddress": "nooblandia.com",
+    "primaryAddress": "mc.nooblandia.com",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*"
