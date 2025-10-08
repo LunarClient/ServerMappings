@@ -1,0 +1,46 @@
+{
+    "id": "nooblandia",
+    "name": "Nooblandia",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "mc.nooblandia.com",
+        "nooblandia.com"
+    ],
+    "primaryAddress": "mc.nooblandia.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "BoxPvP",
+        "Survival",
+        "BoatRace",
+        "CallOfCraft",
+        "Zombie",
+        "Apocalisse"
+    ],
+    "website": "https://nooblandia.com",
+    "store": "https://nooblandia.com/store",
+    "compliance": {
+        "privacyPolicy": "https://nooblandia.com/docs/privacy/",
+        "termsOfService": "https://nooblandia.com/docs/tos/",
+        "rules": "https://nooblandia.com/wiki/regolamenti/"
+    },
+    "socials": {
+        "telegram": "https://nooblandia.com/telegram/",
+        "discord": "https://nooblandia.com/discord/"
+    },
+    "crossplay": false
+}
