@@ -1,19 +1,19 @@
 {
     "id": "nooblandia",
     "name": "Nooblandia",
-    "description": "Home of Competitive Minecraft PvP",
+    "description": "Nooblandia è un server Minecraft completamente personalizzato dedicato al vero gioco competitivo. Offriamo modalità PvP, Survival e Minigames uniche, progettate per garantire equilibrio, adrenalina e libertà totale. Ogni aspetto del server è stato curato nei minimi dettagli per offrire un’esperienza immersiva, dinamica e diversa da qualsiasi altro server. Qui ogni partita è una sfida, ogni vittoria un traguardo e ogni giocatore ha l’opportunità di dimostrare il proprio valore.",
     "addresses": [
         "mc.nooblandia.com",
         "nooblandia.com"
     ],
-    "primaryAddress": "mc.nooblandia.com",
+    "primaryAddress": "nooblandia.com",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.21.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryMinecraftVersion": "1.21.*",
+    "primaryColor": "#00aaff",
+    "secondaryColor": "#0055ff",
     "primaryLanguage": "it",
     "languages": [
         "it"
@@ -24,23 +24,19 @@
     ],
     "gameTypes": [
         "PvP",
-        "BoxPvP",
         "Survival",
-        "BoatRace",
-        "CallOfCraft",
-        "Zombie",
-        "Apocalisse"
+        "Minigames"
     ],
     "website": "https://nooblandia.com",
-    "store": "https://nooblandia.com/store",
+    "store": "https://nooblandia.com/store/",
+    "wiki": "https://nooblandia.com/wiki/",
     "compliance": {
         "privacyPolicy": "https://nooblandia.com/docs/privacy/",
         "termsOfService": "https://nooblandia.com/docs/tos/",
         "rules": "https://nooblandia.com/wiki/regolamenti/"
     },
     "socials": {
-        "telegram": "https://nooblandia.com/telegram/",
-        "discord": "https://nooblandia.com/discord/"
+        "telegram": "https://nooblandia.com/telegram/"
     },
     "crossplay": false
 }
