@@ -1,0 +1,40 @@
+{
+    "id": "minefania",
+    "name": "MineFania Network",
+    "website": "https://www.minefania.lol",
+    "description": "Where your adventure reaches a legendary level!",
+    "addresses": [
+        "minefania.lol"
+    ],
+    "primaryAddress": "minefania.lol",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#FCD05C",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "gameTypes": [
+        "FullPVP",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/3a26YGMVzv"
+    }
+}
