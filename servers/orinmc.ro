@@ -1,0 +1,36 @@
+{
+    "id": "Orinmc",
+    "name": "Orinmc Network",
+    "website": "https://web.orinmc.ro/",
+    "store": "https://store.orinmc.ro",
+    "addresses": [
+        "orinmc.ro"
+    ],
+    "primaryAddress": "Orinmc.ro",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF0000",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.x"
+    ],
+    "primaryMinecraftVersion": "1.21.0",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "@orinmc5",
+        "discord": "https://discord.gg/nQPNfYaHs8"
+    }
+}
