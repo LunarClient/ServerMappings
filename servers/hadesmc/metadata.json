@@ -1,7 +1,7 @@
 {
     "id": "hadesmc",
     "name": "HadesMC Network",
-    "description": "El mejor SMP hispanohablante que existe.",
+    "description": "One of the best spanish-speaking SMPs out there.",
     "addresses": ["hadesmc.net"],
     "primaryAddress": "hadesmc.net",
     "minecraftVersions": [
@@ -36,4 +36,5 @@
         "youtube": "@HadesMCNetwork"
     },
     "crossplay": true
+
 }
