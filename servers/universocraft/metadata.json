@@ -5,8 +5,8 @@
     "store": "https://tienda.universocraft.com/",
     "addresses": [
         "universocraft.com",
-        "mc.universocraft.net",
-        "mc.universocraft.es"
+        "universocraft.net",
+        "universocraft.es"
     ],
     "primaryAddress": "mc.universocraft.com",
     "primaryColor": "#08a4f8",

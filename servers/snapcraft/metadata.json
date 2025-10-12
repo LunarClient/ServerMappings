@@ -4,7 +4,6 @@
     "website": "https://snapcraft.net/",
     "store": "https://store.snapcraft.net/",
     "addresses": [
-        "play.snapcraft.net",
         "snapcraft.net"
     ],
     "primaryAddress": "play.snapcraft.net",

@@ -1,0 +1,29 @@
+{
+    "id": "nacworld",
+    "name": "Nacworld",
+    "website": "http://nacworld.cz/",
+    "description": "CzSk Creative Housing, Hardcore Islands, Eggwars and Squidgame Events!",
+    "addresses": [
+        "nacworld.cz"
+    ],
+    "primaryAddress": "play.nacworld.cz",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#1cff64",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Hardcore",
+        "Creative"
+    ]
+}

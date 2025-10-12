@@ -19,12 +19,12 @@ MAJOR_ALL: dict[str, list[str]] = {
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
     "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
-    "1.21.*": ["1.21"]
+    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10"],
 }
 
 
 def get_all_servers(
-    servers_dir: str, inactive_file: str, include_inactive: bool = True
+    servers_dir: str, inactive_file: str, include_inactive: bool = True, translations: dict[str, dict[str, str]] = {}
 ) -> list:
     """
     This function retrieves all ServerMappings servers within the servers folder
@@ -33,7 +33,7 @@ def get_all_servers(
         servers_dir (str): The directory where the servers are located.
         inactive_file (str): The file containing the inactive servers.
         include_inactive (bool, optional): Whether to include inactive servers. Defaults to True.
-
+        translations (dict[str, dict[str, str]], optional): A dictionary of translations. Defaults to {}.
     Returns:
         list: A list of all servers.
     """
@@ -63,6 +63,10 @@ def get_all_servers(
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
 
+        # Add primary game type
+        game_types = server.get("gameTypes", [])
+        server["primaryGameType"] = game_types[0] if game_types else None
+
         # Enrich server data
         if "id" not in server:
             print(f"Skipping {server_id} as it's missing 'id'")
@@ -84,6 +88,19 @@ def get_all_servers(
             server["images"]["banner"] = f"https://servermappings.lunarclientcdn.com/banners/{server_id}.png"
         if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
             server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
+        
+        # Add translations for descriptions
+        if translations and "description" in server:
+            # Iterate through each locale and add the description if it exists
+            for locale, translation in translations.items():
+                if server["id"] in translation:
+                    # Create key if it doesn't exist
+                    if "localizedDescriptions" not in server:
+                        server["localizedDescriptions"] = {}
+
+                    # Add the translation if doesnt match
+                    if translation[server["id"]]["description"] != server["description"]:
+                        server["localizedDescriptions"][locale] = translation[server["id"]]["description"]
 
         # Add to list
         servers.append(server)
@@ -294,8 +311,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     """
     Validate that server banner meets the following requirements:
       * is a PNG or GIF
-      * has a 35:5 aspect ratio
-      * is greater than 340 pixels in width and 45 pixels in height
+      * is 468x60 pixels
       * we can convert it to a sprite image without it erroring.
 
     Parameters:
@@ -342,7 +358,8 @@ def validate_banner(path: str, server_name: str) -> list[str]:
                 f"{server_name}'s server gif server banner seems to not have any duration associated with it..."
             )
 
-    aspect_ratio = round(banner_image.width / banner_image.height, 3)
+    if banner_image.width != 468 or banner_image.height != 60:
+        errors.append(f"{server_name}'s server banner is not 468x60...")
 
     sprite = gif_to_sprite_sheet(path)
 
@@ -352,17 +369,6 @@ def validate_banner(path: str, server_name: str) -> list[str]:
             f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later..."
         )
 
-    # Incorrect aspect ratio
-    if aspect_ratio != 7.8:
-        errors.append(
-            f"{server_name}'s server banner does not have a 16:9 aspect ratio..."
-        )
-
-    # Width too small
-    if banner_image.width < 351:
-        errors.append(
-            f"{server_name}'s server banner is less than 351x45..."
-        )
 
     return errors
 
@@ -412,3 +418,20 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
 
     
     return errors
+
+
+def collect_translations(servers: list[dict]) -> dict:
+    """
+    Collects the translations from the servers list
+
+    Parameters:
+        servers (list): The list of servers.
+
+    Returns:
+        dict: A dictionary of server IDs and their descriptions.
+    """
+    translations = {}
+    for server in servers:
+        if 'description' in server:
+            translations[server['id']] = { "description": server['description'] }
+    return translations

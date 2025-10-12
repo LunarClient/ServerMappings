@@ -1,12 +1,14 @@
 {
     "id": "pvphall",
     "name": "PvPHall",
-    "description": "Servidor de PvP (Pirata & Original)",
+    "description": "PvP Server (Pirate and Original)",
     "addresses": [
         "pvphall.com.br",
         "pvphall.club"
     ],
     "primaryAddress": "pvphall.com.br",
+    "primaryColor": "#ec0909",
+    "secondaryColor": "#ffd65c",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -16,8 +18,6 @@
     "regions": [
         "SA"
     ],
-    "primaryColor": "#ec0909",
-    "secondaryColor": "#ffd65c",
     "gameTypes": [
         "PvP",
         "Minigames"

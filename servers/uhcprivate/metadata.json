@@ -1,0 +1,30 @@
+{
+    "id": "uhcprivate",
+    "name": "UHC Private",
+    "description": "Private UHC Server",
+    "addresses": [
+        "luuc.fr"
+    ],
+    "primaryAddress": "luuc.fr",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/SZnaJNXJbC"
+    }
+}

@@ -1,6 +1,7 @@
 {
     "id": "litehub",
     "name": "LiteHub.eu",
+    "website": "https://lite-hub.eu/",
     "addresses": [
         "lite-hub.eu"
     ],
@@ -18,7 +19,6 @@
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://lite-hub.eu/",
     "socials": {
         "discord": "https://discord.com/invite/XgwHZXqnpb"
     }

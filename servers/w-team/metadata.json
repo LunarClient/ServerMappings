@@ -2,21 +2,21 @@
     "id": "w-team",
     "name": "w-Team SMP",
     "store": "https://wteam.es",
-    "description": "Un survival para jugar con amigos",
+    "description": "A survival game to play with friends",
     "addresses": [
-        "wteam.holy.gg"
+        "wteam.es"
     ],
-    "primaryAddress": "wteam.holy.gg",
+    "primaryAddress": "wteam.es",
+    "primaryColor": "#ecdbc4",
+    "secondaryColor": "#2d576c",
     "minecraftVersions": [
         "1.21"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#ecdbc4",
-    "secondaryColor": "#2d576c",
+    "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryRegion": "NA",
     "gameTypes": [
         "Survival"
     ],

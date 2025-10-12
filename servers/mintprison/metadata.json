@@ -1,37 +1,39 @@
 {
     "id": "mintprison",
-    "name": "MintPrison",
-    "website": "https://mintprison.com",
-    "store": "https://mintprison.com/#butik",
-    "description": "Danmarks fedeste prison-server.",
+    "name": "MintMC",
+    "website": "https://mintmc.dk",
+    "store": "https://mintmc.dk/#butik",
+    "description": "Denmark's coolest server.",
     "addresses": [
-        "mintprison.dk"
+        "mintprison.dk",
+        "mintprison.com",
+        "mintmc.dk"
     ],
-    "primaryAddress": "mintprison.com",
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryAddress": "mintmc.dk",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryColor": "#55FFFF",
-    "secondaryColor": "#FFFFFF",
-    "socials": {
-        "discord": "https://discord.gg/mintprison",
-        "tiktok": "@mintprison",
-        "twitter": "mintprisondk",
-        "youtube": "@mintprison"
-    },
     "gameTypes": [
         "PvP",
         "Prison"
     ],
-    "crossplay": false,
-    "presentationVideo": "BCZVcf1atfU",
+    "socials": {
+        "discord": "https://discord.gg/mintmc",
+        "tiktok": "@mintprison",
+        "twitter": "mintprisondk",
+        "youtube": "@mintprison"
+    },
     "compliance": {
-        "termsOfService": "https://mintprison.com/terms-of-service",
-        "rules": "https://mintprison.com/rules"
-    }
+        "termsOfService": "https://mintmc.dk/terms-of-service",
+        "rules": "https://mintmc.dk/rules"
+    },
+    "presentationVideo": "BCZVcf1atfU"
 }

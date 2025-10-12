@@ -1,10 +1,10 @@
 {
     "id": "cytooxien",
     "name": "Cytooxien",
-    "description": "Quality Minecraft gamemodes since 2011!",
     "website": "https://www.cytooxien.de/",
-    "store": "https://shop.cytooxien.de/",
+    "store": "https://cytooxien.shop/",
     "wiki": "https://wiki.cytooxien.de/",
+    "description": "Quality Minecraft gamemodes since 2011!",
     "addresses": [
         "cytooxien.de",
         "cytooxien.net",
@@ -14,13 +14,24 @@
     "primaryColor": "#ffdd16",
     "secondaryColor": "#d21d2a",
     "minecraftVersions": [
-        "1.19.4",
-        "1.20.*"
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "it",
+        "fr",
+        "de"
     ],
     "gameTypes": [
         "Minigames",
@@ -31,12 +42,5 @@
         "twitter": "Cytooxien",
         "discord": "https://discord.gg/cytooxien",
         "youtube": "Cytooxien"
-    },
-    "languages": [
-        "en",
-        "it",
-        "fr",
-        "de"
-    ],
-    "primaryLanguage": "de"
+    }
 }

@@ -3,7 +3,8 @@
     "name": "BorealMC",
     "store": "https://store.borealmc.club/",
     "addresses": [
-        "borealmc.club"
+        "borealmc.club",
+        "borealmc.com"
     ],
     "primaryAddress": "eu.borealmc.com",
     "primaryColor": "#a0cbfe",

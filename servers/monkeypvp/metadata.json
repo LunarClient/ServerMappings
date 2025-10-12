@@ -1,0 +1,24 @@
+{
+    "id": "monkeypvp",
+    "name": "MonkeyPvP Network",
+    "store": "https://store.monkeypvp.live/",
+    "description": "Network dedicated to competitive PvP gamemodes!",
+    "addresses": [
+        "monkeypvp.live"
+    ],
+    "primaryAddress": "monkeypvp.live",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#FFFF00",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/VJGuEVdaxW"
+    }
+}

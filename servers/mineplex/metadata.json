@@ -2,30 +2,27 @@
     "id": "mineplex",
     "name": "Mineplex",
     "website": "http://mineplex.com/",
-    "store": "https://www.mineplex.com/shop",
+    "store": "https://mineplex.com/store",
     "addresses": [
         "mineplex.com"
     ],
     "primaryAddress": "mineplex.com",
-    "primaryColor": "#ee9f0b",
-    "secondaryColor": "#2a292b",
+    "primaryColor": "#f38910",
+    "secondaryColor": "#df3a1a",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
     "gameTypes": [
         "Minigames",
         "PvP"
     ],
     "socials": {
         "twitter": "mineplex",
-        "discord": "https://discord.com/invite/uv7hBwx",
+        "discord": "https://discord.com/invite/mineplex",
         "youtube": "MineplexGamesOfficial",
         "instagram": "official.mineplex",
         "twitch": "mineplex",

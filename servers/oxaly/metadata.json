@@ -1,0 +1,28 @@
+{
+    "id": "oxaly",
+    "name": "Oxaly Network",
+    "store": "https://store.oxaly.net/",
+    "addresses": [
+        "oxaly.net"
+    ],
+    "primaryAddress": "mc.oxaly.net",
+    "primaryColor": "#8BCEEA",
+    "secondaryColor": "#C66FE3",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/MZUBCzc8wg"
+    }
+}

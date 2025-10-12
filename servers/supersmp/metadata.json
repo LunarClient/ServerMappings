@@ -1,8 +1,8 @@
 {
     "id": "supersmp",
     "name": "SuperSMP",
-    "description": "A friendly SMP for all to enjoy!",
     "store": "https://store.supersmp.fun/",
+    "description": "A friendly SMP for all to enjoy!",
     "addresses": [
         "supersmp.fun"
     ],
@@ -18,6 +18,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/supersmp",
-        "tiktok": "join_supersmp.fun"
+        "tiktok": "@join_supersmp.fun"
     }
 }

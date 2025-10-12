@@ -1,8 +1,8 @@
 {
     "id": "agatsu",
     "name": "AgatsuCraft Network",
-    "description": "An PrisonOP competitive server.",
     "store": "https://shop.agatsucraft.com",
+    "description": "An PrisonOP competitive server.",
     "addresses": [
         "agatsucraft.com"
     ],
@@ -13,15 +13,15 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,    
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es-EN",  
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
-    ],      
+    ],
     "gameTypes": [
         "Prison"
     ],

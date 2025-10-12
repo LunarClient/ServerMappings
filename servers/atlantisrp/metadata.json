@@ -8,20 +8,21 @@
         "atlantisrp.it"
     ],
     "primaryAddress": "play.atlantisrp.it",
-    "minecraftVersions": [
-        "1.19.4",
-	"1.20.*"
-    ],
-    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#fec600",
     "secondaryColor": "#195d74",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*"
     ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Roleplay"
@@ -30,7 +31,6 @@
         "telegram": "AtlantisRP",
         "discord": "https://discord.com/invite/Qc7yHhCfpX",
         "instagram": "atlantis_roleplay_official",
-        "tiktok": "atlantisrp_official"
-    },
-    "crossplay": false
+        "tiktok": "@atlantisrp_official"
+    }
 }

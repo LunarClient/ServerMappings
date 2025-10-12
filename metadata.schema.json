@@ -23,7 +23,8 @@
         "description": {
             "type": "string",
             "minLength": 16,
-            "maxLength": 80
+            "maxLength": 80,
+            "pattern": "^[A-Za-z0-9\\x20\\x21\\x23\\x24\\x25\\x26\\x27\\x28\\x29\\x2A\\x2B\\x2C\\x2D\\x2E\\x2F\\x3A\\x3B\\x3C\\x3D\\x3E\\x3F\\x40\\x5E\\x5F\\x60\\x7B\\x7C\\x7D\\x7E\\u2014]+$"
         },
         "addresses": {
             "type": "array",
@@ -91,6 +92,12 @@
         "merch": {
             "$ref": "#/definitions/WebAddress"
         },
+        "votingLinks": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/WebAddress"
+            }
+        },
         "compliance": {
             "type": "object",
             "additionalProperties": false,
@@ -155,28 +162,30 @@
                     "type": "string"
                 },
                 "discord": {
-                    "type": "string"
+                    "$ref": "#/definitions/DiscordLink"
                 },
                 "youtube": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^(?!.*https?:\/\/)@?[^@]+$"
                 },
                 "instagram": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "twitch": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "telegram": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "reddit": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 },
                 "tiktok": {
-                    "type": "string"
+                    "type": "string",
+                    "pattern": "^(?!.*https?:\/\/)@[^@]+$"
                 },
                 "facebook": {
-                    "type": "string"
+                    "$ref": "#/definitions/AntiLink"
                 }
             }
         },
@@ -202,6 +211,15 @@
             "type": "string",
             "pattern": "^[a-z0-9_.-]+$"
         },
+        "DiscordLink": {
+            "type": "string",
+            "pattern": "(?i)^https?://(?:www\\.)?(?:discord\\.gg(?:/invite)?/[a-zA-Z0-9-]+|discord\\.com/invite/[a-zA-Z0-9-]+)/?$"
+        },
+        "AntiLink": {
+            "type": "string",
+            "pattern": "^(?!.*https?://)(?!.*@).+$"
+        },
+
         "MinecraftVersion": {
             "type": "string",
             "enum": [
@@ -232,7 +250,18 @@
                 "1.20.4",
                 "1.20.5",
                 "1.20.6",
-                "1.21"
+                "1.21",
+                "1.21.1",
+                "1.21.2",
+                "1.21.3",
+                "1.21.4",
+                "1.21.5",
+                "1.21.6",
+                "1.21.7",
+                "1.21.8",
+                "1.21.9",
+                "1.21.10"
+
             ]
         },
         "MinecraftSubversion": {
@@ -256,7 +285,17 @@
                 "1.20.4",
                 "1.20.5",
                 "1.20.6",
-                "1.21"
+                "1.21",
+                "1.21.1",
+                "1.21.2",
+                "1.21.3",
+                "1.21.4",
+                "1.21.5",
+                "1.21.6",
+                "1.21.7",
+                "1.21.8",
+                "1.21.9",
+                "1.21.10"
             ]
         },
         "Region": {
@@ -314,12 +353,17 @@
                 "Prison",
                 "Creative",
                 "Roleplay",
-                "Adventure"
+                "Adventure",
+                "Pixelmon"
             ]
         },
         "TebexStoreBackground": {
             "type": "object",
             "additionalProperties": false,
+            "required": [
+                "lowerColor",
+                "upperColor"
+            ],
             "properties": {
                 "lowerColor": {
                     "$ref": "#/definitions/RGBColor"

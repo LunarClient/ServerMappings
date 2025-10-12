@@ -1,7 +1,7 @@
 {
     "id": "minehut",
-    "name": "Minehut Server",
-    "website": "https://app.minehut.com/",
+    "name": "Minehut",
+    "website": "https://minehut.com/",
     "store": "https://app.minehut.com/shop/credits/",
     "description": "The largest Minecraft network connecting millions of servers.",
     "addresses": [
@@ -9,39 +9,40 @@
         "minehut.gg"
     ],
     "primaryAddress": "mc.minehut.com",
+    "primaryColor": "#488aff",
+    "secondaryColor": "#8beac9",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#19F4B9",
-    "secondaryColor": "#00081A",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
-    "crossplay": true,
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Prison"
+        "Minigames",
+        "Roleplay"
     ],
     "socials": {
         "twitter": "minehut",
         "discord": "https://discord.com/invite/minehut",
         "youtube": "Minehut",
         "instagram": "minehutmc",
-        "tiktok": "minehut",
+        "tiktok": "@minehut",
+        "reddit": "minehut",
         "facebook": "MinehutServers"
     },
     "compliance": {
@@ -49,5 +50,8 @@
         "termsOfService": "https://app.minehut.com/terms-of-service",
         "rules": "https://forums.minehut.com/rules/"
     },
-    "presentationVideo": "jzOIURoz1v4"
+    "presentationVideo": "jzOIURoz1v4",
+    "votingLinks": [
+        "https://findmcserver.com/server/minehut"
+    ]
 }

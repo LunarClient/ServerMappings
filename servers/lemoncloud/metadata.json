@@ -4,7 +4,6 @@
     "website": "https://lemoncloud.org/",
     "store": "https://store.lemoncloud.org/",
     "addresses": [
-        "play.lemoncloud.org",
         "lemoncloud.org"
     ],
     "primaryAddress": "play.lemoncloud.org",

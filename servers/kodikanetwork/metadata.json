@@ -1,11 +1,10 @@
 {
     "id": "kodikanetwork",
-    "name": "KodikaNetwork",
+    "name": "Kodika Network",
     "store": "https://tienda.kodika.live/",
-    "description": "Jugabilidad premium garantizada",
+    "description": "Premium gameplay guaranteed",
     "addresses": [
         "kodika.live"
-
     ],
     "primaryAddress": "play.kodika.live",
     "primaryColor": "#04DAE4",
@@ -22,7 +21,6 @@
     "primaryRegion": "NA",
     "regions": [
         "NA"
-        
     ],
     "gameTypes": [
         "Survival",
@@ -32,6 +30,6 @@
     "socials": {
         "twitter": "KodikaNetwork",
         "discord": "https://discord.gg/ATCk2a3D3V",
-        "tiktok": "kodikanetwork"
+        "tiktok": "@kodikanetwork"
     }
 }

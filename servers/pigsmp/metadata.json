@@ -1,0 +1,33 @@
+{
+    "id": "pigsmp",
+    "name": "Pig SMP",
+    "website": "https://www.pigsmp.uk/",
+    "addresses": [
+        "pigsmp.uk"
+    ],
+    "primaryAddress": "play.pigsmp.uk",
+    "primaryColor": "#DE05E1",
+    "secondaryColor": "#1769FF",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mHUJXrNmTK",
+        "youtube": "@ChiefWarPig",
+        "tiktok": "@chiefwarpig"
+    }
+}

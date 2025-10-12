@@ -3,27 +3,27 @@
     "name": "FFA",
     "description": "A free for all Minecraft server!",
     "addresses": [
-      "ffa.gg"
+        "ffa.gg"
     ],
     "primaryAddress": "ffa.gg",
-    "gameTypes": [
-      "PvP"
-    ],
     "primaryColor": "#feef00",
     "secondaryColor": "#f2c641",
     "minecraftVersions": [
-      "1.20"
+        "1.20"
     ],
     "primaryMinecraftVersion": "1.20",
-    "languages": [
-      "en"
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
     ],
     "primaryLanguage": "en",
-    "regions": [
-      "EU"
+    "languages": [
+        "en"
     ],
-    "primaryRegion": "EU",
+    "gameTypes": [
+        "PvP"
+    ],
     "socials": {
-      "discord": "https://discord.com/invite/dyxwuz9Wtq"
+        "discord": "https://discord.com/invite/dyxwuz9Wtq"
     }
 }

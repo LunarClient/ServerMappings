@@ -7,6 +7,8 @@
         "inkmc.pl"
     ],
     "primaryAddress": "inkmc.pl",
+    "primaryColor": "#ff3232",
+    "secondaryColor": "#650000",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -18,8 +20,6 @@
     "regions": [
         "EU"
     ],
-    "primaryColor": "#ff3232",
-    "secondaryColor": "#650000",
     "gameTypes": [
         "Minigames",
         "PvP",
@@ -27,7 +27,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/ZVpF9jks4X",
-        "tiktok": "inkmcpl"
-
+        "tiktok": "@inkmcpl"
     }
 }

@@ -6,10 +6,11 @@
     "description": "We are one of the largest cross platform compatible Networks!",
     "addresses": [
         "minecadia.com",
-        "play.minecadia.net",
         "minecadia.net"
     ],
     "primaryAddress": "play.minecadia.com",
+    "primaryColor": "#fcad05",
+    "secondaryColor": "#062f5d",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -20,8 +21,6 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#fcad05",
-    "secondaryColor": "#062f5d",
     "gameTypes": [
         "Factions",
         "Survival",

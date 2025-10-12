@@ -1,0 +1,25 @@
+{
+    "id": "mythicmc",
+    "name": "MythicMC",
+    "website": "https://mythicmc.cc/",
+    "store": "https://mythicmc.tebex.io/",
+    "addresses": [
+        "mythicmc.cc"
+    ],
+    "primaryAddress": "mythicmc.cc",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#555555",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "MythicNetworkCC",
+        "discord": "https://discord.com/invite/m3MEKKagxC/",
+        "telegram": "MythicMCcc"
+    }
+}

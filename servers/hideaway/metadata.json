@@ -8,6 +8,8 @@
         "playhideaway.com"
     ],
     "primaryAddress": "playhideaway.com",
+    "primaryColor": "#ffd05e",
+    "secondaryColor": "#1b7301",
     "minecraftVersions": [
         "1.20.*"
     ],
@@ -16,8 +18,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#ffd05e",
-    "secondaryColor": "#1b7301",
     "gameTypes": [
         "Minigames",
         "Roleplay",
@@ -28,6 +28,6 @@
         "discord": "https://discord.gg/2sYDJjxHJx",
         "youtube": "playhideaway",
         "instagram": "playhideaway",
-        "tiktok": "playhideaway"
+        "tiktok": "@playhideaway"
     }
 }
