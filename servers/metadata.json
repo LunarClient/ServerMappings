@@ -1,0 +1,40 @@
+{
+    "id": "scoryanetwork",
+    "name": "Scorya",
+    "website": "",
+    "store": "https://store.scorya.live/",
+    "description": "Network 1.8-1.21",
+    "addresses": [
+        "scorya.live",
+        "play.scorya.live"
+    ],
+    "primaryAddress": "scorya.live",
+    "primaryColor": "#ffbc28",
+    "secondaryColor": "#80573c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        
+    ],
+    "gameTypes": [
+        "Skypvp",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "",
+        "discord": "https://discord.gg/PVFekMdNtY",
+        "youtube": ""
+    }
+}
