@@ -20,13 +20,10 @@
     ],
     "gameTypes": [
         "Survival",
-        "Hardcore",
-        "Minigames",
-        "Open World"
+        "Hardcore"
     ],
     "socials": {
-        "discord": "https://discord.gg/ZR778ubxE4",
-        "store": "https://gunamcnetwork.tebex.io"
+        "discord": "https://discord.gg/ZR778ubxE4"
   },
     "crossplay": true
 }
