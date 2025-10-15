@@ -4,11 +4,10 @@
     "website": "https://www.aripvp.cc",
     "description": "AriPvP, a WarSimulation and Practice server!",
     "addresses": [
-        "aripvp.cc",
-        "play.aripvp.cc"
+        "aripvp.cc"
     ],
     "primaryAddress": "aripvp.cc",
-    "primaryColor": "#daa520e6",
+    "primaryColor": "#daa520",
     "secondaryColor": "#FFFF55",
     "minecraftVersions": [
         "1.8.*"
@@ -18,14 +17,12 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "NL",
+    "primaryLanguage": "nl",
     "languages": [
-        "NL",
-        "ENG"
+        "nl",
+        "en"
     ],
     "gameTypes": [
-        "WarSimulation",
-        "Practice",
         "PvP"
     ],
     "socials": {
