@@ -1,0 +1,35 @@
+{
+  "id": "ventedianw",
+  "name": "Ventedia",
+  "primaryAddress": "ventedia.secure.pebble.host",
+  "addresses": [
+    "ventedia.secure.pebble.host"
+  ],
+  "primaryColor": "#FF9900",
+  "secondaryColor": "#0099FF",
+  "minecraftVersions": [
+    "1.17.1",
+    "1.19.4",
+    "1.20.1"
+  ],
+  "primaryMinecraftVersion": "1.19.4",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "RolePlay"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryLanguage": "it",
+  "votingLinks": [
+    "https://ventedia.it/manutenzione"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/U4rMuJWeYe"
+  },
+  "crossplay": true
+}
