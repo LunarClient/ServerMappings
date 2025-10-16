@@ -1,0 +1,47 @@
+{
+    "id": "endurecraft",
+    "name": "EndureCraft Network",
+    "description": "Server specialized in survival, with daily events and new game modes coming soon.",
+    "website": "https://discord.endurecraft.lat",
+    "addresses": [
+        "endurecraft.lat"
+    ],
+    "primaryAddress": "endurecraft.lat",
+    "primaryColor": "#A020F0",
+    "secondaryColor": "#8A2BE2",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryLanguage": "es-EN",
+    "regions": [
+        "SA"
+    ],
+    "primaryRegion": "SA",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "@endurecraft.lat",
+        "twitter": "EndureCraft",
+        "instagram": "EndureCraft",
+        "facebook": "EndureCraft",
+        "youtube": "@EndureCraft"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server/349505/vote/",
+        "https://minecraftservers.org/server/679490",
+        "https://topminecraftservers.org/server/41859",
+        "https://topg.org/minecraft-servers/server-676435",
+        "https://www.40servidoresmc.es/endurecraft-network"
+    ],
+    "crossplay": true
+}
