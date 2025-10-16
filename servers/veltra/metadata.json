@@ -1,0 +1,27 @@
+{
+    "id": "veltra",
+    "name": "Veltra Network",
+    "website": "https://www.veltra.lol/",
+    "store": "https://www.veltra.lol/store",
+    "addresses": [
+        "veltra.lol"
+    ],
+    "primaryAddress": "veltra.lol",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffd500",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "gameTypes": [
+        "HCF",
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "VeltraLand",
+        "discord": "https://discord.com/invite/jTqA58wNjB"
+    }
+}
