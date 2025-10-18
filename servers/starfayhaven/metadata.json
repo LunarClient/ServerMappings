@@ -1,7 +1,7 @@
 {
     "id": "starfayhaven",
     "name": "Starfay Haven",
-    "description": "Survival Custom",
+    "description": "Medieval fantasy-themed Survival Custom server",
     "store": "https://store.starfay.net",
     "addresses": [
         "starfay.net"
@@ -26,5 +26,5 @@
         "tiktok": "@starfaymc",
         "discord": "https://discord.gg/Jvs6pHVweq"
     },
-    "crossplay": "true"
+    "crossplay": true
 }
