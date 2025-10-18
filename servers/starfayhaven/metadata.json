@@ -1,0 +1,30 @@
+{
+    "id": "starfayhaven",
+    "name": "Starfay Haven",
+    "description": "Survival Custom",
+    "store": "https://store.starfay.net",
+    "addresses": [
+        "starfay.net"
+    ],
+    "primaryAddress": "starfay.net",
+    "primaryColor": "#f8a72e",
+    "secondaryColor": "#d6d5d3",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": "true",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "starfayhaven",
+        "tiktok": "@starfaymc",
+        "discord": "https://discord.gg/Jvs6pHVweq"
+    },
+    "crossplay": "true"
+}
