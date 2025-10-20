@@ -35,12 +35,8 @@
     "gameTypes": [
         "MiniGames",
         "PvP",
-        "FastBuilder",
         "Survival",
-        "Creative",
-        "Arcade",
-        "BedWars",
-        "SkyWars"
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.com/invite/Qzv5qMy2Fd",
