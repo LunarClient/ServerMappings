@@ -1,0 +1,43 @@
+{
+    "id": "mememc",
+    "name": "MemeMC",
+    "crossplay": "false",
+    "description": "Play MemeMC, the best practice server for Minecraft 1.21!",
+    "addresses": [
+        "mememc.club"
+    ],
+    "primaryAddress": "mememc.club",
+    "primaryColor": "#42C229",
+    "secondaryColor": "#C9991A",
+    "minecraftVersions": [
+        "1.20.*",
+		"1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Survival"
+    ],
+    "compliance": {
+        "rules": "https://www.mememc.club/rules"
+        
+ },
+    "socials": {
+        "discord": "https://discord.com/invite/V3SAX9udFF",
+        "instagram": "MemeMCClub",
+        "tiktok": "@MemeMCClub",
+        "youtube": "@MemeMCClub",
+        "twitter": "MemeMCClub",
+        "website": "https://mememc.club/",
+        "store": "https://store.mememc.club"
+    }
+}
