@@ -1,0 +1,49 @@
+{
+    "id": "kztserver",
+    "name": "KZTSERVER",
+    "website": "https://site.kztmc.net/",
+    "store": "https://store.kztmc.net/",
+    "wiki": "https://wiki.kztmc.net/",
+    "description": "A Japanese server where you can enjoy a variety of games",
+    "addresses": [
+        "kztmc.net"
+    ],
+    "primaryAddress": "mc.kztmc.net",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "ja",
+    "languages": [
+        "en",
+        "ja"
+    ],
+    "gameTypes": [
+        "MiniGames",
+        "PvP",
+        "FastBuilder",
+        "Survival",
+        "Creative",
+        "Arcade",
+        "BedWars",
+        "SkyWars"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Qzv5qMy2Fd",
+        "youtube": "kztserver"
+    }
+}
