@@ -2,18 +2,15 @@
     "id": "camicko",
     "name": "Camicko",
     "description": "A French mini-games server for everyone",
-    "addresses": ["play.camicko.fr", "minecraft.camicko.fr"],
-    "primaryAddress": "play.camicko.fr",
+    "addresses": ["camicko.fr"],
+    "primaryAddress": "camicko.fr",
     "minecraftVersions": ["1.8.9"],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#00BFFF",
     "secondaryColor": "#0000FF",
     "primaryRegion": "EU",
     "regions": ["EU"],
-    "gameTypes": ["BEDWARS", "PVP", "MINIGAMES"],
+    "gameTypes": ["Minigames", "PvP"],
     "crossplay": false,
-    "website": "https://minecraft.camicko.fr",
-    "discord": "https://discord.gg/m9wwxPaFBx",
-    "youtube": "camicko_mc",
-    "tiktok": "camicko_"
+    "website": "https://minecraft.camicko.fr"
 }
