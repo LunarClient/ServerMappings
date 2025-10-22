@@ -1,0 +1,39 @@
+{
+  "id": "kitpvpworld",
+  "name": "KitPvP World",
+  "description": "KitPvP.world has duels to play alone or with friends",
+  "addresses": [
+    "kitpvp.world"
+  ],
+  "primaryAddress": "kitpvp.world",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryColor": "#FFE22C",
+  "secondaryColor": "#F48C04",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "de"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "website": "https://www.kitpvp.world",
+  "store": "https://store.kitpvp.world",
+  "compliance": {
+    "rules": "https://discord.gg/GeBWtEaR8S",
+    "support": "https://discord.gg/GeBWtEaR8S"
+  },
+  "socials": {
+    "twitter": "KitPvP_world",
+    "youtube":  "@KitPvPworld",
+    "discord": "https://discord.gg/XbgNqX82eg"
+  },
+  "crossplay": false
+}
