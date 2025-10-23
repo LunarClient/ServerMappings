@@ -19,9 +19,9 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "gameTypes": [
         "Survival",
