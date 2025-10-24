@@ -1,0 +1,27 @@
+{
+    "id": "clancraft",
+    "name": "ClanCraft",
+    "website": "https://dc.clancraft.eu",
+    "addresses": [
+        "clancraft.eu"
+    ],
+    "primaryAddress": "play.clancraft.eu",
+    "primaryColor": "#d276ff",
+    "secondaryColor": "#d276ff",
+    "minecraftVersions": [
+        "1.18.2+"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "FullPVP",
+        "BoxPVP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/CkCMfDemPJ"
+    }
+}
