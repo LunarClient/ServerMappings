@@ -1,8 +1,8 @@
 {
     "id": "diaworlds",
-    "name": "DiaWorlds",
+    "name": "Rajce.pro",
     "description": "CZSK Survival server.",
-    "store": "https://store.diaworlds.eu/",
+    "store": "https://store.rajce.pro/",
     "addresses": [
         "diaworlds.eu"
     ],
@@ -22,6 +22,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/diaworlds"
+        "discord": "https://discord.gg/rajcepro"
     }
 }
