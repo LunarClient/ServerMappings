@@ -1,0 +1,31 @@
+{
+    "id": "MelonVillage",
+    "name": "Melon Village SMP",
+    "store": "https://shop.melonvillage.net",
+    "description": "A SMP server with a focus on community and fun.",
+    "addresses": [
+        "mc.melonvillage.net"
+    ],
+    "primaryAddress": "mc.melonvillage.net",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#00FF44",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "EN",
+    "languages": [
+        "EN"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/54aMaXTJkH"
+    }
+}
