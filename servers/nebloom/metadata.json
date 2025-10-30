@@ -22,9 +22,9 @@
     "primaryMinecraftVersion": "1.21.4",
     "primaryColor": "#00ff91",
     "secondaryColor": "#006036",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "primaryRegion": "NA",
@@ -37,9 +37,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Open World",
-        "Adventure"
+        "Survival"
     ],
     "store": "https://tienda.nebloom.net",
     "compliance": {
