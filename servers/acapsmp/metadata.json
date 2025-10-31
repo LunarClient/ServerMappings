@@ -1,21 +1,21 @@
 {
     "id": "acapsmp",
     "name": "MongolVibes",
-    "website": "https://www.mnvibes.fun",
-    "store": "https://mnvibes.fun/store",
+    "website": "https://www.mnvibes.org",
+    "store": "https://mnvibes.org/#store",
     "description": "MongolVibes is a chill Minecraft server for Mongolian gamers.",
     "addresses": [
-        "mnvibes.fun",
+        "mnvibes.org",
         "mnvibes.mn",
-        "mongolvibes.net"
+        "mnvibes.progamer.me"
     ],
-    "primaryAddress": "mnvibes.fun",
+    "primaryAddress": "mnvibes.org",
     "primaryColor": "#050053",
     "secondaryColor": "#00f5ff",
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.5",
+    "primaryMinecraftVersion": "1.21.8",
     "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
@@ -35,9 +35,9 @@
         "discord": "https://discord.com/invite/XKFtYsN7YF"
     },
     "compliance": {
-        "privacyPolicy": "https://www.mnvibes.fun/privacy",
-        "termsOfService": "https://www.mnvibes.fun/terms",
-        "rules": "https://www.mnvibes.fun/rules"
+        "privacyPolicy": "https://www.mnvibes.org/#privacy",
+        "termsOfService": "https://www.mnvibes.org/#terms",
+        "rules": "https://www.mnvibes.org/#rules"
     },
     "presentationVideo": "M_AQ9zDow8c"
 }
