@@ -1,0 +1,13 @@
+{
+  "name": "KoopMC Network",
+  "address": "koopmc.net",
+  "version": "1.21.6",
+  "website": "https://koopmc.net",
+  "description": "Servidor survival y economía 1.21.6 con rangos, tierras y eventos diarios.",
+  "modules": {
+    "teamView": true,
+    "richPresence": true,
+    "worldTime": true,
+    "coordinates": true
+  }
+}
