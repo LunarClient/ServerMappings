@@ -1,5 +1,5 @@
 {
-    "id": "robot",
+    "id": "robotmc",
     "name": "RobotMC",
     "website": "https://robotmc.dk/",
     "store": "https://butik.robotmc.dk/",
@@ -21,4 +21,5 @@
     "gameTypes": [
         "Prison"
     ]
+
 }
