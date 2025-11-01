@@ -31,12 +31,12 @@
     ],
     "gameTypes": [
         "PvP",
-        "Factions"        
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.gg/cAWNkX5Am5",
         "twitter": "etercube",
-        "youtube": "@etercube",        
+        "youtube": "@etercube",
         "tiktok": "@etercube"
     }
 }

@@ -2,7 +2,7 @@
     "id": "mineplex",
     "name": "Mineplex",
     "website": "http://mineplex.com/",
-    "store": "https://mineplex.com/collections/all",
+    "store": "https://mineplex.com/store",
     "addresses": [
         "mineplex.com"
     ],
@@ -10,16 +10,12 @@
     "primaryColor": "#f38910",
     "secondaryColor": "#df3a1a",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21"
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
     ],
-    "primaryMinecraftVersion": "1.21",
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
     "gameTypes": [
         "Minigames",
         "PvP"

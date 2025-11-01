@@ -1,41 +1,43 @@
 {
     "id": "hollowcube",
     "name": "Hollow Cube",
+    "website": "https://hollowcube.net",
+    "store": "https://hollowcube.net/store",
     "description": "Play, create, and share builds and parkour, all on one server!",
     "addresses": [
         "hollowcube.net"
     ],
     "primaryAddress": "hollowcube.net",
-    "minecraftVersions": [
-        "1.21.3"
-    ],
-    "primaryMinecraftVersion": "1.21.3",
     "primaryColor": "#5274ff",
     "secondaryColor": "#415091",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5",
+        "1.21.6"
     ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Creative",
         "Parkour"
     ],
-    "website": "https://hollowcube.net",
-    "store": "https://hollowcube.net/store",
-    "compliance": {
-        "privacyPolicy": "https://hollowcube.net/legal/privacy",
-        "termsOfService": "https://hollowcube.net/legal/terms",
-        "rules": "https://hollowcube.net/rules",
-        "support": "https://hollowcube.net/contact"
-    },
     "socials": {
         "twitter": "hollowcubemc",
         "discord": "https://discord.com/invite/h9Z9DGGJjJ",
         "youtube": "@hollow-cube"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://hollowcube.net/legal/privacy",
+        "termsOfService": "https://hollowcube.net/legal/terms",
+        "rules": "https://hollowcube.net/rules",
+        "support": "https://hollowcube.net/contact"
+    }
 }

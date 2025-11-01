@@ -1,28 +1,28 @@
 {
     "id": "rinthong",
     "name": "Rinthong",
-    "description": "A This server is a SMP and PvP server open to everyone to play together",
     "website": "https://www.rinthong.in.th/",
+    "description": "A This server is a SMP and PvP server open to everyone to play together",
     "addresses": [
         "rinthong.in.th"
     ],
     "primaryAddress": "play.rinthong.in.th",
     "primaryColor": "#00D9FF",
     "secondaryColor": "#FFF946",
-    "primaryRegion": "AS",
-    "languages": [
-        "en"
-    ],
-    "regions": [
-        "AS"
-    ],
-    "crossplay": true,
-    "primaryLanguage": "en",
     "minecraftVersions": [
         "1.20.4",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Minigames",
         "PvP",

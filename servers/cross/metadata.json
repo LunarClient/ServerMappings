@@ -1,17 +1,19 @@
 {
     "id": "cross",
     "name": "CROSS",
+    "wiki": "https://cross-1.gitbook.io/cross24.kr/",
     "description": "Minecraft PVP Server in Korea",
     "addresses": [
         "cross24.kr"
     ],
     "primaryAddress": "cross24.kr",
-    "minecraftVersions": [
-        "1.12.*"
-    ],
-    "primaryMinecraftVersion": "1.12.2",
     "primaryColor": "#0e40e6",
     "secondaryColor": "#208ad6",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
     "primaryRegion": "AS",
     "regions": [
         "AS"
@@ -19,12 +21,10 @@
     "gameTypes": [
         "PvP"
     ],
-    "votingLinks": [
-        "https://minelist.kr/servers/cross24.kr"
-    ],
-    "wiki": "https://cross-1.gitbook.io/cross24.kr/",
     "socials": {
         "discord": "https://discord.com/invite/cross24kr"
     },
-    "crossplay": false
+    "votingLinks": [
+        "https://minelist.kr/servers/cross24.kr"
+    ]
 }

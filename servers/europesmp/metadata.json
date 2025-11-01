@@ -1,0 +1,41 @@
+{
+    "id": "europesmp",
+    "name": "EuropeSMP",
+    "website": "https://europesmp.eu",
+    "store": "https://europesmp.eu/store",
+    "description": "SMP that allows Bedrock",
+    "addresses": [
+        "europesmp.eu"
+    ],
+    "primaryAddress": "europesmp.eu",
+    "primaryColor": "#1d8ff7",
+    "secondaryColor": "#cac5be",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Hardcore",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "EuorpeSMP",
+        "discord": "https://discord.com/invite/europesmp",
+        "youtube": "EuropeSMP",
+        "tiktok": "@EuropeSMP"
+    }
+}

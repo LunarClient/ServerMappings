@@ -7,6 +7,8 @@
         "mineclyde.com"
     ],
     "primaryAddress": "play.mineclyde.com",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#00AAAA",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,8 +18,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#55FFFF",
-    "secondaryColor": "#00AAAA",
     "gameTypes": [
         "Factions",
         "HCF",

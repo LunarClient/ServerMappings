@@ -1,11 +1,15 @@
 {
     "id": "pixworld",
     "name": "Pixworld",
+    "website": "https://pixworld.fr",
+    "store": "https://pixworld.fr/shop",
     "description": "Minecraft survival and skyblock server",
     "addresses": [
         "pixworld.fr"
     ],
     "primaryAddress": "play.pixworld.fr",
+    "primaryColor": "#ba2323",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -15,30 +19,26 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#ba2323",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "Survival",
         "Skyblock"
     ],
-    "website": "https://pixworld.fr",
-    "store": "https://pixworld.fr/shop",
-    "compliance": {
-        "termsOfService": "https://pixworld.fr/p/cgu",
-        "rules": "https://pixworld.fr/p/reglement"
-    },
-    "presentationVideo": "DzqebfitZ6M",
     "socials": {
         "discord": "https://discord.com/invite/Z6aDjUW",
         "youtube": "@pixworldserveur1721"
     },
-    "crossplay": true
+    "compliance": {
+        "termsOfService": "https://pixworld.fr/p/cgu",
+        "rules": "https://pixworld.fr/p/reglement"
+    },
+    "presentationVideo": "DzqebfitZ6M"
 }

@@ -1,35 +1,24 @@
 {
     "id": "ranked",
     "name": "Ranked Games",
-    "website": "https://ranked.rip",
-    "store": "http://store.ranked.rip",
-    "description": "Community oriented PvP server",
+    "store": "https://store.ranked.rip/",
     "addresses": [
-        "ranked.rip"
+        "ranked.rip",
+        "horu.us",
+        "galanthusmc.net"
     ],
     "primaryAddress": "ranked.rip",
-    "primaryColor": "#0d9005",
-    "secondaryColor": "#ffffff",
+    "primaryColor": "#f62c22",
+    "secondaryColor": "#f7f3f2",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*"
+        "1.8.*",
+        "1.18.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,
-    "primaryRegion": "NA",
-    "regions": [
-        "NA",
-        "SA"
-    ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
     "gameTypes": [
         "PvP",
-        "HCF",
-        "UHC"
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.gg/rankedrip"

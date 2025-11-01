@@ -7,21 +7,21 @@
         "hydoxmc.net"
     ],
     "primaryAddress": "play.hydoxmc.net",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#f7ff55",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#ffaa00",
-    "secondaryColor": "#f7ff55",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

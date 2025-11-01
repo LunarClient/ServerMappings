@@ -6,17 +6,13 @@
         "britishcity.net"
     ],
     "primaryAddress": "britishcity.net",
+    "primaryColor": "#FFBF00",
+    "secondaryColor": "#FFAC1C",
     "minecraftVersions": [
         "1.20.6",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.6",
-    "primaryColor": "#FFBF00",
-    "secondaryColor": "#FFAC1C",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -24,6 +20,10 @@
         "OC",
         "AS",
         "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Roleplay"

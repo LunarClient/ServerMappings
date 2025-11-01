@@ -8,6 +8,8 @@
         "minebo.net"
     ],
     "primaryAddress": "minebo.net",
+    "primaryColor": "#F8F374",
+    "secondaryColor": "#FBB442",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,22 +21,20 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#F8F374",
-    "secondaryColor": "#FBB442",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
         "twitter": "PlayMinebo",
-        "discord": "https://discord.gg/ydyqDEZRTQ",
+        "discord": "https://discord.gg/fczNbC8V9p",
         "telegram": "minebonews"
     }
 }

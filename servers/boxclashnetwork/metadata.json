@@ -1,0 +1,44 @@
+{
+    "id": "boxclashnetwork",
+    "name": "BoxClash Network",
+    "website": "https://boxclash.org",
+    "store": "https://store.boxclash.org",
+    "description": "A fun BoxSMP Minecraft network that listens to the community.",
+    "addresses": [
+        "boxclash.org"
+    ],
+    "primaryAddress": "play.boxclash.org",
+    "primaryColor": "#3EED72",
+    "secondaryColor": "#16E9DC",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "@playboxclash",
+        "youtube": "@boxclashnetwork",
+        "instagram": "playboxclash",
+        "discord": "https://discord.com/invite/ajazug8xPT"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s338857",
+        "https://minecraftservers.org/server/664923",
+        "https://servers-minecraft.net/server-boxclash-network.41703",
+        "https://minecraft.buzz/server/15362",
+        "https://minecraft-server-list.com/server/513025/"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "thoramc",
+    "name": "ThoraMC",
+    "addresses": [
+        "thoramc.it"
+    ],
+    "primaryAddress": "play.thoramc.it",
+    "primaryColor": "#ffb330",
+    "secondaryColor": "#ffe4b5",
+    "crossplay": false,
+    "minecraftVersions": [
+        "1.20.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "youtube": "thoramc",
+        "discord": "https://discord.gg/6S8m9dHufs"
+    }
+}

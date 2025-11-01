@@ -1,12 +1,16 @@
 {
     "id": "fadedmc",
     "name": "FadedMC",
+    "website": "https://fadedmc.net/",
+    "store": "https://store.fadedmc.net/",
     "description": "A competitive PvP server, soon featuring Lifesteal.",
     "addresses": [
         "fadedmc.net",
         "lendapvp.com"
     ],
     "primaryAddress": "fadedmc.net",
+    "primaryColor": "#0a2540",
+    "secondaryColor": "#1e90ff",
     "minecraftVersions": [
         "1.19.2",
         "1.19.3",
@@ -23,31 +27,27 @@
         "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#0a2540",
-    "secondaryColor": "#1e90ff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "AS",
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "PvE"
     ],
-    "website": "https://fadedmc.net/",
-    "store": "https://store.fadedmc.net/",
+    "socials": {
+        "discord": "https://discord.gg/5cNqNx437j"
+    },
     "compliance": {
         "privacyPolicy": "https://fadedmc.net/privacy/",
         "termsOfService": "https://fadedmc.net/terms/",
         "rules": "https://fadedmc.net/rules"
-    },
-    "socials": {
-        "discord": "https://discord.gg/5cNqNx437j"
-    },
-    "crossplay": false
+    }
 }

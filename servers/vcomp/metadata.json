@@ -1,15 +1,12 @@
 {
     "id": "vcomp",
     "name": "Vanilla Competitive",
+    "store": "https://shop.vanillacompetitive.com",
     "description": "The Best server in Australia to refine your skills in PVP",
     "addresses": [
         "vanillacompetitive.com"
     ],
     "primaryAddress": "vanillacompetitive.com",
-    "gameTypes": [
-        "PvP",
-        "Survival"
-    ],
     "primaryColor": "#09d665",
     "secondaryColor": "#07b555",
     "minecraftVersions": [
@@ -21,15 +18,19 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "languages": [
-        "en"
-    ],
-    "primaryLanguage": "en",
+    "crossplay": false,
+    "primaryRegion": "OC",
     "regions": [
         "OC"
     ],
-    "primaryRegion": "OC",
-    "store": "https://shop.vanillacompetitive.com",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
     "socials": {
         "twitter": "vanillacompetitive",
         "discord": "https://discord.gg/5KhEzHpYC6",
@@ -38,6 +39,5 @@
     },
     "votingLinks": [
         "https://crafty.gg/servers/vanillacompetitive.com"
-    ],
-    "crossplay": false
+    ]
 }

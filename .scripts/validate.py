@@ -123,7 +123,7 @@ def post_comment(messages: dict[str, list[str]]):
     if not pull_id:
         print("Errors happened but there was no PR_ID found..?")
         print(messages)
-        exit(0)
+        exit(1)
 
     # Build comment
     comment = ""

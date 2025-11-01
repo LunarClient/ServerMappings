@@ -1,0 +1,40 @@
+{
+    "id": "mazemc",
+    "name": "MazeMC Network",
+    "website": "https://mazemc.es",
+    "store": "https://mazemc.es/store",
+    "description": "PvP Network for players, by players.",
+    "addresses": [
+        "imanity.club",
+        "mazemc.es"
+    ],
+    "primaryAddress": "mazemc.es",
+    "primaryColor": "#FFDC01",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.21.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/4qUxuNFmjZ",
+        "twitter": "MazeMCES",
+        "youtube": "MazeMCES"
+    }
+}

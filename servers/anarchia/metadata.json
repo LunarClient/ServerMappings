@@ -8,21 +8,21 @@
         "anarhia.gg"
     ],
     "primaryAddress": "anarchia.gg",
+    "primaryColor": "#f2f2f3",
+    "secondaryColor": "#fef334",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
         "1.19.3"
     ],
     "primaryMinecraftVersion": "1.17.1",
-    "primaryColor": "#f2f2f3",
-    "secondaryColor": "#fef334",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "Survival"

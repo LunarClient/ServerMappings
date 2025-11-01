@@ -1,0 +1,48 @@
+{
+    "id": "nexiko",
+    "name": "Nexiko.de",
+    "website": "https://nexiko.de",
+    "store": "https://store.nexiko.de",
+    "description": "Nexiko.de - Join epic Factions, fun Minigames, and chill SMP adventures today!",
+    "addresses": [
+        "nexiko.de",
+        "nexiko.net"
+    ],
+    "primaryAddress": "play.nexiko.de",
+    "primaryColor": "#A728BB",
+    "secondaryColor": "#FFC30F",
+    "minecraftVersions": [
+        "1.21",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/6maTkjrndv",
+        "twitter": "NexikoMC",
+        "youtube": "NexikoMC",
+        "tiktok": "@nexikomc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://nexiko.de/privacy",
+        "termsOfService": "https://nexiko.de/terms",
+        "rules": "https://nexiko.de/rules"
+    }
+}

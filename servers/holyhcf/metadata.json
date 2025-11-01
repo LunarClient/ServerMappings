@@ -9,6 +9,8 @@
         "holypvp.net"
     ],
     "primaryAddress": "holypvp.net",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -19,8 +21,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#dedede",
-    "secondaryColor": "#e6b511",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -34,7 +34,7 @@
         "twitter": "holypvpnet",
         "discord": "https://discord.gg/holypvp",
         "tiktok": "@holypvpnet",
-	    "instagram": "holypvpnet"
+        "instagram": "holypvpnet"
     },
     "compliance": {
         "rules": "https://www.holypvp.net/rules"

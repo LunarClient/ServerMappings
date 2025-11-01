@@ -7,7 +7,8 @@
         "livecube.fr"
     ],
     "primaryAddress": "play.livecube.fr",
-    "crossplay": false,
+    "primaryColor": "#ff8900",
+    "secondaryColor": "#ffdbb1",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,15 +20,14 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff8900",
-    "secondaryColor": "#ffdbb1",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "Minigames"
