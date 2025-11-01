@@ -1,0 +1,36 @@
+{
+    "id": "flaxydk",
+    "name": "FlaxyMC",
+    "website": "https://flaxymc.dk",
+    "store": "https://flaxymc.dk/#butik",
+    "description": "Danmarks sjoveste server.",
+    "addresses": [
+        "flaxymc.dk"
+    ],
+    "primaryAddress": "flaxymc.dk",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.flaxymc.dk",
+        "tiktok": "@flaxymcdk",
+        "twitter": "FlaxyMCdk",
+        "youtube": "@flaxymcdk"
+    },
+    "compliance": {
+        "termsOfService": "https://flaxymc.dk/terms-of-service",
+        "rules": "https://flaxymc.dk/rules"
+    }
+}
