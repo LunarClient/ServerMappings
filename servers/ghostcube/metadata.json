@@ -1,0 +1,35 @@
+{
+    "id": "ghostcube",
+    "name": "GhostCube Network",
+    "website": "https://ghostcube.it",
+    "description": "Il server con la vanilla più friendly d'Italia!",
+    "addresses": [
+        "ghostcube.it"
+    ],
+    "primaryAddress": "play.ghostcube.it",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Vanilla",
+        "Survival",
+        "Minigames",
+        "PvpAdventure"
+    ],
+    "socials": {
+        "tiktok": "https://tiktok.ghostcube.it",
+        "discord": "https://discord.gg/mnjmkzdgAD"
+    }
+}
