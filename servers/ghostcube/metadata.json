@@ -2,7 +2,7 @@
     "id": "ghostcube",
     "name": "GhostCube Network",
     "website": "https://ghostcube.it",
-    "description": "Il server con la vanilla più friendly d'Italia!",
+    "description": "Il server con la vanilla più friendly",
     "addresses": [
         "ghostcube.it"
     ],
@@ -23,13 +23,10 @@
         "it"
     ],
     "gameTypes": [
-        "Vanilla",
         "Survival",
-        "Minigames",
-        "PvpAdventure"
+        "Minigames"
     ],
     "socials": {
-        "tiktok": "https://tiktok.ghostcube.it",
         "discord": "https://discord.gg/mnjmkzdgAD"
     }
 }
