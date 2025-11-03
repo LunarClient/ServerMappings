@@ -3,8 +3,7 @@
     "name": "AVE Network",
     "description": "Home of competitive pvp and practice",
     "addresses": [
-        "ave.rip",
-        "nythera.com"
+        "ave.rip"
     ],
     "primaryAddress": "ave.rip",
     "primaryColor": "#aa0000",
@@ -24,8 +23,7 @@
     "crossplay": false,    
     "primaryRegion": "EU",
     "regions": [
-        "EU",
-        "NA"
+        "EU"
     ],
     "primaryLanguage": "de",  
     "languages": [
@@ -41,7 +39,7 @@
     "socials": {
         "twitter": "ave_rip",
         "discord": "https://discord.gg/HXSgxcVYtB",
-        "youtube": "@shvquu",
+        "youtube": "@ave_network",
         "twitch": "shvquu"
     },
     "compliance": {
