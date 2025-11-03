@@ -1,27 +1,27 @@
 {
-	"id": "atlantis",
-	"name": "Atlantis",
-	"description": "Home to the ALU gamemode.",
-	"website": "https://www.atlantismc.net",
-	"store": "https://store.atlantismc.net/",
-	"addresses": [
-		"atlantismc.net"
-	],
-	"primaryAddress": "play.atlantismc.net",
-	"primaryColor": "#00fff1",
-	"secondaryColor": "#ffffff",
-	"minecraftVersions": [
-		"1.21.*"
-	],
-	"primaryMinecraftVersion": "1.21.1",
-	"primaryRegion": "EU",
-	"regions": [
-		"EU"
-	],
-	"gameTypes": [
-		"PvP"
-	],
-	"socials": {
-		"discord": "https://discord.gg/ewa6eg52pM"
-	}
+    "id": "atlantis",
+    "name": "Atlantis",
+    "website": "https://www.atlantismc.net",
+    "store": "https://store.atlantismc.net/",
+    "description": "Home to the ALU gamemode.",
+    "addresses": [
+        "atlantismc.net"
+    ],
+    "primaryAddress": "play.atlantismc.net",
+    "primaryColor": "#00fff1",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ewa6eg52pM"
+    }
 }

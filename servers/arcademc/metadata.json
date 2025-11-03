@@ -23,13 +23,13 @@
     "regions": [
         "NA"
     ],
-    "gameTypes": [
-        "Prison"
-    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
+    ],
+    "gameTypes": [
+        "Prison"
     ],
     "socials": {
         "twitter": "ArcadeMC",

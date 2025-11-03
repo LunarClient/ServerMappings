@@ -1,9 +1,9 @@
 {
     "id": "leaguemc",
     "name": "LeagueMC",
-    "description": "Formed by passionate players who venture into Minigames!",
     "website": "https://leaguemc.club/",
     "store": "https://loja.leaguemc.club",
+    "description": "Formed by passionate players who venture into Minigames!",
     "addresses": [
         "leaguemc.club"
     ],
@@ -14,6 +14,7 @@
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -28,6 +29,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/bgn8dPPq3g"
-    },
-    "crossplay": true
+    }
 }

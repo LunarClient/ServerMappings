@@ -1,34 +1,34 @@
 {
-  "id": "monsterxsquad",
-  "name": "MxS",
-  "description": "Play the best fantasy RPG open world SMP!",
-  "store": "https://mc-store.monsterxsquad.com",
-  "addresses": [
-    "monsterxsquad.com"
-  ],
-  "primaryAddress": "play.monsterxsquad.com",
-  "primaryColor": "#B388FF",
-  "secondaryColor": "#82B1FF",
-  "minecraftVersions": [
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.6",
-  "crossplay": true,
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "primaryLanguage": "es-EN",
-  "languages": [
-    "es-EN"
-  ],
-  "gameTypes": [
-    "Survival"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/Z6A5M7dX9M",
-    "instagram": "monsterxsquadd",
-    "tiktok": "@monsterxsquad",
-    "youtube": "monsterxsquad"
-  }
+    "id": "monsterxsquad",
+    "name": "MxS",
+    "store": "https://mc-store.monsterxsquad.com",
+    "description": "Play the best fantasy RPG open world SMP!",
+    "addresses": [
+        "monsterxsquad.com"
+    ],
+    "primaryAddress": "play.monsterxsquad.com",
+    "primaryColor": "#B388FF",
+    "secondaryColor": "#82B1FF",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/Z6A5M7dX9M",
+        "instagram": "monsterxsquadd",
+        "tiktok": "@monsterxsquad",
+        "youtube": "monsterxsquad"
+    }
 }

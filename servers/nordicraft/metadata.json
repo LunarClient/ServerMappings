@@ -1,8 +1,8 @@
 {
     "id": "nordicraft",
     "name": "Nordicraft Network",
-    "description": "Join our great Survival Custom community.",
     "store": "https://tienda.nordicraft.us",
+    "description": "Join our great Survival Custom community.",
     "addresses": [
         "nordicraft.us"
     ],
@@ -20,15 +20,15 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "crossplay": true,    
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es-EN",  
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
-    ],      
+    ],
     "gameTypes": [
         "Survival"
     ],

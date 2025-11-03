@@ -8,6 +8,8 @@
         "cyremc.us"
     ],
     "primaryAddress": "cyremc.us",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#1c44b4",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -18,8 +20,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#dedede",
-    "secondaryColor": "#1c44b4",
     "primaryRegion": "NA",
     "regions": [
         "NA"

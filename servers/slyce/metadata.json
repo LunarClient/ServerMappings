@@ -8,12 +8,12 @@
         "slyce.fr"
     ],
     "primaryAddress": "play.slyce.fr",
+    "primaryColor": "#f29001",
+    "secondaryColor": "#6d617d",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#f29001",
-    "secondaryColor": "#6d617d",
     "gameTypes": [
         "PvP",
         "Minigames"

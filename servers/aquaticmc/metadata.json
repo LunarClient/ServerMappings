@@ -4,13 +4,13 @@
     "website": "http://store.aquaticmc.cc",
     "description": "Fight your enemeys while reaching the top!",
     "addresses": [
-      "aquaticmc.cc"
+        "aquaticmc.cc"
     ],
     "primaryAddress": "play.aquaticmc.cc",
     "primaryColor": "#00FBFF",
     "secondaryColor": "#0097FF",
     "minecraftVersions": [
-      "1.8.9"
+        "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
@@ -23,10 +23,10 @@
         "nl"
     ],
     "gameTypes": [
-      "UHC",
-      "Factions"
+        "UHC",
+        "Factions"
     ],
     "socials": {
-      "discord": "https://discord.gg/488tV8kQUW"
+        "discord": "https://discord.gg/488tV8kQUW"
     }
 }

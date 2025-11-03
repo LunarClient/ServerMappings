@@ -1,0 +1,34 @@
+{
+    "id": "prixy",
+    "name": "Prixy",
+    "website": "https://prixy-mc.fr/",
+    "store": "https://prixy-mc.fr/shop",
+    "description": "Prixy is THE Minecraft Prison & Tycoon server in France.",
+    "addresses": [
+        "prixy-mc.fr"
+    ],
+    "primaryAddress": "play.prixy-mc.fr",
+    "primaryColor": "#DF1E6A",
+    "secondaryColor": "#1497F4",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Skyblock",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/prixy",
+        "youtube": "@PRIXYSTUDIO"
+    }
+}

@@ -1,11 +1,10 @@
 {
     "id": "manacube",
     "name": "ManaCube",
-    "description": "Timeless gamemodes, original features, active community",
     "website": "https://manacube.com/",
     "store": "https://store.manacube.com/",
     "wiki": "https://manacube.wiki/",
-    "presentationVideo": "YpNGlgZn2u4",
+    "description": "Timeless gamemodes, original features, active community",
     "addresses": [
         "manacube.com",
         "manacube.net"
@@ -20,6 +19,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -29,7 +29,6 @@
         "Parkour",
         "Skyblock"
     ],
-    "crossplay": true,
     "socials": {
         "twitter": "ManaCubeMC",
         "discord": "https://discord.com/invite/manacube",
@@ -40,5 +39,6 @@
     "compliance": {
         "rules": "https://manacube.com/rules",
         "support": "https://manacube.com/support/"
-    }
+    },
+    "presentationVideo": "YpNGlgZn2u4"
 }

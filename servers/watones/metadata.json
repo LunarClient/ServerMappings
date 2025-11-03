@@ -1,8 +1,8 @@
 {
     "id": "watones",
     "name": "Watones Network",
-    "description": "Join Watones Network for survival, PvP, and crossplay fun!",
     "store": "https://tienda.watones.net/",
+    "description": "Join Watones Network for survival, PvP, and crossplay fun!",
     "addresses": [
         "watones.xyz",
         "watones.net"

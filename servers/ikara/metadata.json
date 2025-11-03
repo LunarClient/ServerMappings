@@ -1,8 +1,8 @@
 {
     "id": "ikara",
     "name": "Ikara",
-    "description": "Bringing back the competitive scene in Minecraft",
     "store": "https://store.ikara.gg/",
+    "description": "Bringing back the competitive scene in Minecraft",
     "addresses": [
         "ikara.gg"
     ],
@@ -10,14 +10,14 @@
     "primaryColor": "#f8c161",
     "secondaryColor": "#EEEEEE",
     "minecraftVersions": [
-	"1.7.*",
-	"1.8.*",
+        "1.7.*",
+        "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-	"1.20.*"
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
@@ -31,8 +31,8 @@
     ],
     "gameTypes": [
         "PvP",
-	"Factions",
-	"Survival"
+        "Factions",
+        "Survival"
     ],
     "socials": {
         "twitter": "PlayIKARA",

@@ -1,32 +1,32 @@
 {
     "id": "kryxmc",
     "name": "KryxMC",
+    "website": "https://www.kryxmc.fr",
     "description": "Western-themed PvP/Factions minecraft server.",
     "addresses": [
         "kryxmc.fr"
     ],
     "primaryAddress": "play.kryxmc.fr",
+    "primaryColor": "#dba322",
+    "secondaryColor": "#dba322",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#dba322",
-    "secondaryColor": "#dba322",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",
         "Factions"
     ],
-    "website": "https://www.kryxmc.fr",
     "socials": {
         "discord": "https://discord.gg/kryxmc"
     }

@@ -6,22 +6,22 @@
         "mcfleet.net"
     ],
     "primaryAddress": "mcfleet.net",
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#f7cc05",
+    "secondaryColor": "#71faee",
     "minecraftVersions": [
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "AS",
-    "regions": [    
+    "regions": [
         "AS"
     ],
-    "primaryColor": "#f7cc05",
-    "secondaryColor": "#71faee",
-    "socials": {
-        "discord": "https://discord.gg/mcfleet"
-    },
     "gameTypes": [
         "Survival",
         "Minigames"
     ],
-    "crossplay": true
+    "socials": {
+        "discord": "https://discord.gg/mcfleet"
+    }
 }

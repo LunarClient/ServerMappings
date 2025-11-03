@@ -1,0 +1,34 @@
+{
+    "id": "pyrocraft",
+    "name": "Pyrocraft Network",
+    "store": "https://tienda.pyrocraft.es/",
+    "addresses": [
+        "pyrocraft.es"
+    ],
+    "primaryAddress": "pyrocraft.es",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#950000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "pyrocraftnet",
+        "discord": "https://discord.gg/pyrocraft"
+    }
+}

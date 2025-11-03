@@ -6,6 +6,8 @@
         "smaugmc.com"
     ],
     "primaryAddress": "mc.smaugmc.com",
+    "primaryColor": "#ffaa29",
+    "secondaryColor": "#ffbe55",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,13 +18,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#ffaa29",
-    "secondaryColor": "#ffbe55",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -31,10 +27,14 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "Survival",
         "Skyblock",
         "Factions"
-    ],
-    "crossplay": true
+    ]
 }

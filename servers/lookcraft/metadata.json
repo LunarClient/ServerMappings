@@ -5,6 +5,8 @@
         "lookcraft.net"
     ],
     "primaryAddress": "play.lookcraft.net",
+    "primaryColor": "#969696",
+    "secondaryColor": "#383838",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,8 +18,6 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#969696",
-    "secondaryColor": "#383838",
     "primaryRegion": "SA",
     "regions": [
         "SA"

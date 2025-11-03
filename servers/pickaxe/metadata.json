@@ -1,11 +1,14 @@
 {
     "id": "pickaxe",
     "name": "Pickaxe",
+    "store": "https://store.pickaxe.net",
     "description": "Rising Prisons/Sim Minecraft Network",
     "addresses": [
         "pickaxe.net"
     ],
     "primaryAddress": "pickaxe.net",
+    "primaryColor": "#315ED2",
+    "secondaryColor": "#5A7BD0",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,12 +18,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#315ED2",
-    "secondaryColor": "#5A7BD0",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -29,13 +27,15 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Prison"
     ],
-    "store": "https://store.pickaxe.net",
     "socials": {
         "twitter": "PickaxeNET",
         "discord": "https://www.discord.gg/pickaxe"
-    },
-    "crossplay": true
+    }
 }
