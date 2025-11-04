@@ -9,7 +9,7 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21.*",
     "primaryColor": "#00D2F8",
     "secondaryColor": "#78D7FE",
 	"primaryLanguage": "el",
@@ -32,8 +32,8 @@
         "rules": "https://houseofgamers.eu/rules"
     },
     "socials": {
-        "discord": "https://discord.houseofgamers.eu",
-		"tiktok": "houseofgamers"
+        "discord": "https://discord.gg/house-of-gamers-mc-761961550474248212",
+		"tiktok": "https://tiktok.com/@houseofgamers"
     },
 	"votingLinks": [
         "https://minecraft-mp.com/server-s349191",
