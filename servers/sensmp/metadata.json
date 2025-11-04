@@ -1,0 +1,22 @@
+{
+    "id": "sensmp",
+    "name": "SenSMP",
+    "store": "https://sensmp-shop.tebex.io/",
+    "addresses": [
+        "sensmp.eu"
+    ],
+    "primaryAddress": "mc.sensmp.eu",
+    "primaryColor": "#60D8FF",
+    "secondaryColor": "#62BBFF",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
