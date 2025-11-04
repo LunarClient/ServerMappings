@@ -2,11 +2,10 @@
     "id": "frozen",
     "name": "Frozen Developments",
     "website": "https://www.frozendevelopments.dk/",
-    "description": "Frozen Developments is a Danish Minecraft server marketplace where you can buy everything you need for your Minecraft server. At Frozen Developments you have the opportunity to buy everything from maps to custom plugins and a lot more.",
+    "description": "Frozen Developments: Danish marketplace for Minecraft maps, plugins & more.",
     "addresses": [
         "frozendevelopments.dk",
-        "frozendevs.dk",
-        "frozendevelopments.falixsrv.me"
+        "frozendevs.dk"
     ],
     "primaryAddress": "test.frozendevs.dk",
     "primaryColor": "#00cdff",
