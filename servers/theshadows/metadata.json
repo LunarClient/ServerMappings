@@ -5,9 +5,7 @@
     "store": "https://theshadowsmc.tebex.io/",
     "description": "The best Minecraft Server where you will have fun!",
     "addresses": [
-        "theshadowsmc.xyz",
-        "mc.theshadowsmc.xyz",
-        "np.theshadowsmc.xyz"
+        "theshadowsmc.xyz"
     ],
     "primaryAddress": "theshadowsmc.xyz",
     "primaryColor": "#820F0F",
