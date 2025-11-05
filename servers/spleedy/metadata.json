@@ -2,7 +2,7 @@
     "id": "spleedy",
     "name": "SpleeDY",
     "addresses": [
-        "mc.spleedy.net"
+        "spleedy.net"
     ],
     "primaryAddress": "mc.spleedy.net",
     "primaryColor": "#ffffff",
@@ -26,4 +26,5 @@
     "socials": {
         "discord": "https://discord.gg/puhEDnWVFg"
     }
+
 }
