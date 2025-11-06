@@ -1,0 +1,36 @@
+{
+    "id": "xenonromania",
+    "name": "Xenon Network",
+    "website": "https://xenon-romania.ro/",
+    "store": "http://forum.xenon-romania.ro/store",
+    "addresses": [
+        "xenon-romania.ro",
+        "play.xenon-romania.ro",
+        "orange.xenon-romania.ro",
+        "digi.xenon-romania.ro"
+    ],
+    "primaryAddress": "play.xenon-romania.ro",
+    "primaryColor": "#6aac0e",
+    "secondaryColor": "#fda603",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "RO"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "Minigames",
+        "Gamemodes"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/khb8hMp5",
+        "instagram": "xenon.romania"
+    }
+}
