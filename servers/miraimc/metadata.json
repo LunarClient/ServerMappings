@@ -19,7 +19,7 @@
         "ja",
         "zh-CN"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
@@ -28,7 +28,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.miraimc.org/"
+        "discord": "https://discord.com/invite/N2vKqVqcVJ"
     },
     "crossplay": false
 }
