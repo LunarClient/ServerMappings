@@ -1,10 +1,10 @@
 {
     "id": "kodacraft",
     "name": "KodaCraft Network",
-    "description": "A Survival world full of adventures and exciting events in which you can participate!",
+    "description": "A Survival full of adventures and events in which you can participate!",
     "store": "https://tienda.kodacraft.online",
     "addresses": [
-        "mc.kodacraft.online"
+        "kodacraft.online"
     ],
     "primaryAddress": "mc.kodacraft.online",
     "primaryColor": "#9478f3",
