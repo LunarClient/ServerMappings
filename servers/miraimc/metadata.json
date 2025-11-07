@@ -1,0 +1,34 @@
+{
+    "id": "miraimc",
+    "name": "MiraiMC",
+    "description": "ASIA SMP NETWORK",
+    "addresses": [
+        "miraimc.org"
+    ],
+    "primaryAddress": "miraimc.org",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#00bfff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ko",
+        "ja",
+        "zh-CN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.miraimc.org/"
+    },
+    "crossplay": false
+}
