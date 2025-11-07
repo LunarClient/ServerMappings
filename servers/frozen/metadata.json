@@ -7,9 +7,9 @@
         "frozendevelopments.dk",
         "frozendevs.dk"
     ],
-    "primaryAddress": "test.frozendevs.dk",
-    "primaryColor": "#00cdff",
-    "secondaryColor": "#FEFEFE",
+    "primaryAddress": "frozendevelopments.dk",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -19,15 +19,18 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "gameTypes": [
-        "PvP",
-        "Prison"
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/wbvUWUk6jd"
-    }
+        "discord": "https://discord.gg/NAw3s3949k",
+        "tiktok": "@frozendevelopments",
+        "twitter": "frozendevelopments",
+        "youtube": "@frozendevelopments"
+    },
+    "compliance": {
+        "termsOfService": "https://frozendevelopments.dk/terms-of-service",
+        "rules": "https://frozendevelopments.dk/rules"
+    },
+    "presentationVideo": "BCZVcf1atfU"
 }
