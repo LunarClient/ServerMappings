@@ -1,14 +1,14 @@
 {
-    "id": "flaxydk",
-    "name": "FlaxyMC",
-    "website": "https://flaxymc.dk",
-    "store": "https://flaxymc.dk/#butik",
+    "id": "mistyprison",
+    "name": "MistyMC",
+    "website": "https://mistymc.dk",
+    "store": "https://mistymc.dk/butik",
     "description": "Denmark's funniest server.",
     "addresses": [
-        "flaxymc.dk"
+        "spil.mistymc.dk"
     ],
-    "primaryAddress": "flaxymc.dk",
-    "primaryColor": "#e67e22",
+    "primaryAddress": "mistymc.dk",
+    "primaryColor": "#F1860F",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*"
@@ -25,12 +25,12 @@
     ],
     "socials": {
         "discord": "https://discord.gg/4MJmgaQ3Cx",
-        "tiktok": "@flaxymcdk",
-        "twitter": "FlaxyMCdk",
-        "youtube": "@flaxymcdk"
+        "tiktok": "@mistymcdk",
+        "twitter": "mistymcdk",
+        "youtube": "@mistymcdk"
     },
     "compliance": {
-        "termsOfService": "https://flaxymc.dk/terms-of-service",
-        "rules": "https://flaxymc.dk/rules"
+        "termsOfService": "https://mistymc.dk/terms-of-service",
+        "rules": "https://mistymc.dk/rules"
     }
 }
