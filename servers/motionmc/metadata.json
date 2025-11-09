@@ -1,7 +1,7 @@
 {
     "id": "motionmc",
-    "name": "Motion Network",
-    "description": "Explore, survive, and battle in Motion Network",
+    "name": "MotionMC Network",
+    "description": "Explore, survive, and battle in MotionMC Network",
     "addresses": [
         "motionmc.es"
     ],
@@ -27,7 +27,7 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "Network_Motion",
+        "twitter": "motionmcnetwork",
         "discord": "https://discord.gg/F7gP5aPUC9"
     }
 }
