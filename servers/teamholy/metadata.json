@@ -1,0 +1,33 @@
+{
+  "id": "teamholy",
+  "name": "TeamHoly",
+  "website": "https://www.teamholy.de",
+  "store": "https://shop.teamholy.de",
+  "description": "Best BedWars Practice Server!",
+  "primaryAddress": "teamholy.de",
+  "addresses": [
+    "teamholy.net"
+	"teamholy.de"
+  ],
+  "minecraftVersions": [
+    "1.8.*",
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#ff7b00",
+  "secondaryColor": "#ffff00",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU",
+  ],
+  "primaryRegion": "EU",
+  "gameTypes": [
+    "PvP"
+  ],
+  "crossplay": false,
+  "socials": {
+    "discord": "https://discord.gg/zvt2JHwF5h",
+  }
+}
