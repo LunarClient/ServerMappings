@@ -5,9 +5,9 @@
     "store": "https://mistymc.dk/butik",
     "description": "Denmark's funniest server.",
     "addresses": [
-        "spil.mistymc.dk"
+        "mistymc.dk"
     ],
-    "primaryAddress": "mistymc.dk",
+    "primaryAddress": "spil.mistymc.dk",
     "primaryColor": "#F1860F",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
