@@ -5,7 +5,8 @@
     "store": "https://store.nexiko.de",
     "description": "Nexiko.de - Join epic Factions, fun Minigames, and chill SMP adventures today!",
     "addresses": [
-        "nexiko.de"
+        "nexiko.de",
+        "nexiko.net"
     ],
     "primaryAddress": "play.nexiko.de",
     "primaryColor": "#A728BB",
