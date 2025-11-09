@@ -5,7 +5,7 @@
     "store": "https://store.minewarsmc.it/",
     "description": "MineWarsMC is a competitive Minecraft server offering PvP, Minigames, and SMP experiences.",
     "addresses": [
-        "play.minewarsmc.it"
+        "minewarsmc.it"
     ],
     "primaryAddress": "play.minewarsmc.it",
     "primaryColor": "#1387ca",
@@ -25,9 +25,9 @@
     "regions": ["EU"],
     "primaryLanguage": "it",
     "languages": ["it"],
-    "gameTypes": ["PvP", "Minigames", "SMP"],
+    "gameTypes": ["PvP", "Minigames", "Survival"],
     "socials": {
-        "discord": "https://dsc.gg/minewarsmc",
+        "discord": "https://discord.com/invite/7bJeFtt8Vq",
         "youtube": "minewars",
         "tiktok": "minewars"
     },
