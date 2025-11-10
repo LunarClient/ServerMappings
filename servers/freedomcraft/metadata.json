@@ -33,13 +33,13 @@
         "Parkour",
         "Survival"
     ],
+    "socials": {
+        "twitter": "FreedomCraftMC",
+        "discord": "https://discord.com/invite/freedomcraft"
+    },
     "compliance": {
         "privacyPolicy": "https://freedomcraftmc.com/privacy",
         "termsOfService": "https://freedomcraftmc.com/terms",
         "rules": "https://freedomcraftmc.com/rules"
-    },
-    "socials": {
-        "twitter": "FreedomCraftMC",
-        "discord": "https://discord.com/invite/freedomcraft"
     }
 }

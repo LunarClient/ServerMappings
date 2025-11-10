@@ -1,41 +1,41 @@
 {
-  "id": "stale",
-  "name": "Rede Stale",
-  "website": "https://loja.redestale.com/",
-  "primaryAddress": "redestale.com",
-  "gameTypes": [
-    "Prison",
-    "PvP"
-  ],
-  "minecraftVersions": [
-    "1.8.*",
-    "1.12.*",
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "crossplay": true,
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "addresses": [
-    "redestale.com"
-  ],
-  "primaryLanguage": "pt-BR",
-  "languages": [
-    "pt-PT",
-    "pt-BR"
-  ],
-  "primaryColor": "#FFAA00",
-  "secondaryColor": "#FFA100",
-  "socials": {
-    "twitter": "RedeStale",
-    "discord": "https://discord.gg/UGKg6gzS5R",
-    "tiktok": "@redestale"
-  }
+    "id": "stale",
+    "name": "Rede Stale",
+    "website": "https://loja.redestale.com/",
+    "addresses": [
+        "redestale.com"
+    ],
+    "primaryAddress": "redestale.com",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFA100",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-PT",
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "RedeStale",
+        "discord": "https://discord.gg/UGKg6gzS5R",
+        "tiktok": "@redestale"
+    }
 }

@@ -9,7 +9,6 @@
     "primaryAddress": "mc.rifted.pl",
     "primaryColor": "#e43ce8",
     "secondaryColor": "#bbbbbb",
-    "primaryMinecraftVersion": "1.21.3",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -18,11 +17,14 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryLanguage": "pl",
-    "languages": ["pl"],
+    "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "PvP",

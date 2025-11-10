@@ -6,19 +6,20 @@
         "slimenetwork.net"
     ],
     "primaryAddress": "slimenetwork.net",
+    "primaryColor": "#00ff00",
+    "secondaryColor": "#00aaaa",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.3",
-    "primaryColor": "#00ff00",
-    "secondaryColor": "#00aaaa",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
@@ -28,6 +29,5 @@
     "socials": {
         "youtube": "laserslime",
         "discord": "https://discord.gg/YrFygKBwNF"
-    },
-    "crossplay": false
+    }
 }

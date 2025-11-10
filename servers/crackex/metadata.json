@@ -6,6 +6,8 @@
         "crackex.xyz"
     ],
     "primaryAddress": "mc.crackex.xyz",
+    "primaryColor": "#FBF800",
+    "secondaryColor": "#ff2bc0",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -16,22 +18,19 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.3",
-    "primaryColor": "#FBF800",
-    "secondaryColor": "#ff2bc0",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival"
     ],
-
     "socials": {
         "discord": "https://discord.gg/fQcgVkgJpG"
-    },
-    "crossplay": false
+    }
 }

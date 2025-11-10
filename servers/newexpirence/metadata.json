@@ -8,6 +8,8 @@
         "newexp.it"
     ],
     "primaryAddress": "newexp.it",
+    "primaryColor": "#FF8000",
+    "secondaryColor": "#ff0000",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -16,15 +18,13 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#FF8000",
-    "secondaryColor": "#ff0000",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

@@ -3,7 +3,9 @@
     "name": "Helosion",
     "website": "https://helosion.net/",
     "store": "https://helosion.net/shop",
-    "addresses": ["helosion.net"],
+    "addresses": [
+        "helosion.net"
+    ],
     "primaryAddress": "play.helosion.net",
     "primaryColor": "#CFFAFE",
     "secondaryColor": "#0E121C",
@@ -20,10 +22,17 @@
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
     "primaryRegion": "EU",
-    "regions": ["EU"],
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "fr",
-    "languages": ["fr"],
-    "gameTypes": ["Minigames", "PvP"],
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "HelosionNet",
         "discord": "https://discord.com/invite/fF3Ect7"

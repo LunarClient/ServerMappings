@@ -9,15 +9,15 @@
     "primaryAddress": "play.nodelays.fr",
     "primaryColor": "#17ad17",
     "secondaryColor": "#f06b0c",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Minigames",
         "PvP",
         "Parkour"
     ],
-    "minecraftVersions": [
-        "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
     "socials": {
         "twitter": "nodelaysfr",
         "discord": "https://discord.com/invite/J9R6VBQ"

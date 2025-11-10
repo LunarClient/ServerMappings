@@ -1,0 +1,45 @@
+{
+    "id": "mineventure",
+    "name": "Mineventure",
+    "website": "https://mineventure.org/",
+    "store": "https://store.mineventure.org/",
+    "addresses": [
+        "mineventure.org"
+    ],
+    "primaryAddress": "play.mineventure.org",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FF5555",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hcf",
+        "twitter": "MineVentureORG"
+    },
+    "compliance": {
+        "privacyPolicy": "https://mineventure.org/privacy",
+        "termsOfService": "https://mineventure.org/terms",
+        "rules": "https://mineventure.org/rules/"
+    }
+}

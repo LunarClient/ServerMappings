@@ -1,12 +1,16 @@
 {
     "id": "astralnetwork",
     "name": "Astral Network",
+    "website": "https://astralnetwork.net",
+    "store": "https://store.astralnetwork.net",
     "description": "A premium Minecraft server offering quality gameplay and a strong community",
     "addresses": [
         "astralnetwork.net",
         "astral-mc.net"
     ],
     "primaryAddress": "play.astralnetwork.net",
+    "primaryColor": "#59f6f6",
+    "secondaryColor": "#003251",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -14,33 +18,30 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#59f6f6",
-    "secondaryColor": "#003251",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Skyblock",
         "Minigames",
         "Survival"
     ],
-    "website": "https://astralnetwork.net",
-    "store": "https://store.astralnetwork.net",
+    "socials": {
+        "youtube": "AstralNetwork6",
+        "discord": "https://discord.gg/hT7HVFsjds"
+    },
     "compliance": {
         "privacyPolicy": "https://astralnetwork.net/privacy",
         "termsOfService": "https://astralnetwork.net/terms",
         "rules": "https://astralnetwork.net/rules"
     },
     "presentationVideo": "jm6Nna1u-BA",
-    "socials": {
-        "youtube": "AstralNetwork6",
-        "discord": "https://discord.gg/hT7HVFsjds"
-    },
     "votingLinks": [
         "https://minecraft.buzz/server/14241",
         "https://minecraft-mp.com/server-s342836",
@@ -49,6 +50,5 @@
         "https://best-minecraft-servers.co/server-astral-network.28412",
         "https://topminecraftservers.org/server/37798",
         "https://minecraft-server-list.com/server/511376/"
-    ],
-    "crossplay": true
+    ]
 }

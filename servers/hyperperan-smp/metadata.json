@@ -8,22 +8,22 @@
         "hyperperan.world"
     ],
     "primaryAddress": "play.hyperperan.world",
+    "primaryColor": "#f3b600",
+    "secondaryColor": "#262d37",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "crossplay": true,
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#f3b600",
-    "secondaryColor": "#262d37",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

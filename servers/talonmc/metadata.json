@@ -1,0 +1,38 @@
+{
+    "id": "talonmc",
+    "name": "TalonMC",
+    "website": "https://store.talonmc.net/",
+    "store": "https://store.talonmc.net/",
+    "description": "A Java and Bedrock compatible server with Prison gamemode",
+    "addresses": [
+        "talonmc.net"
+    ],
+    "primaryAddress": "talonmc.net",
+    "primaryColor": "#ffd950",
+    "secondaryColor": "#ffac44",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "twitter": "TalonMCNet",
+        "discord": "https://discord.gg/talonserver",
+        "youtube": "TalonMCNet"
+    }
+}

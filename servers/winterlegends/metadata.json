@@ -8,23 +8,23 @@
         "baconmc.com"
     ],
     "primaryAddress": "winterlegends.club",
+    "primaryColor": "#91b8ff",
+    "secondaryColor": "#f6fafd",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#91b8ff",
-    "secondaryColor": "#f6fafd",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
-    ],
-    "crossplay": false
+    ]
 }

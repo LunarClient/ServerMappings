@@ -1,12 +1,16 @@
 {
     "id": "litedays",
     "name": "LiteDays",
+    "website": "https://litedays.net/",
+    "store": "https://litedays.net/#shop",
     "description": "A bunch of fun game modes to enjoy",
     "addresses": [
         "litedays.net",
         "litedays.ru"
     ],
     "primaryAddress": "mc.litedays.net",
+    "primaryColor": "#FFAC00",
+    "secondaryColor": "#FFCF00",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,8 +23,6 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
-    "primaryColor": "#FFAC00",
-    "secondaryColor": "#FFCF00",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -30,8 +32,6 @@
         "PvP",
         "Survival"
     ],
-    "website": "https://litedays.net/",
-    "store": "https://litedays.net/#shop",
     "socials": {
         "discord": "https://discord.com/invite/Xm3ydXMcpZ",
         "telegram": "litedays_project"
