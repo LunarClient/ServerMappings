@@ -4,7 +4,7 @@
     "website": "https://www.starken.dev/",
     "description": " →→ CUSTOM-PVP ➠ ТУН УДАХГҮЙ ←←",
     "addresses": [
-        "mc.starken.dev"
+        "starken.dev"
     ],
     "primaryAddress": "mc.starken.dev",
     "primaryColor": "#097a2d",
@@ -23,22 +23,17 @@
     "crossplay": true,
     "primaryRegion": "AS"
     "regions": [
-        "AS"
+        "AS",
+        "EU"
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "mn"
+        "en"
     ],
     "gameTypes": [
         "Survival",
-        "Custom-PvP",
-        "SkyBlock",
-        "Factions",
-        "Creative",
-        "OneBlock",
-        "Practice",
-        "Prison"
+        "PvP",
+        "SkyBlock"
     ],
     "socials": {
         "discord": "https://www.starken.dev/discord"
