@@ -47,5 +47,6 @@
         "discord": "https://dsc.gg/realmsnetwork",
         "youtube": "",
         "tiktok": ""
-    }
+    },
+    "crossplay": true
 }
