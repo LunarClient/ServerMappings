@@ -3,7 +3,7 @@
     "name": "StarkeN Development",
     "description": "The Biggest Minecraft Community in Mongolia",
     "addresses": [
-        "starken.dev",
+        "starken.dev"
     ],
     "primaryAddress": "mc.starken.dev",
     "primaryColor": "#097a2d",
@@ -20,7 +20,7 @@
     ],
     "primaryMinecraftVersion": "1.21.9",
     "crossplay": true,
-    "primaryRegion": "AS"
+    "primaryRegion": "AS",
     "regions": [
         "AS",
         "EU"
