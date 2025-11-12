@@ -6,8 +6,8 @@
         "starken.dev"
     ],
     "primaryAddress": "mc.starken.dev",
-    "primaryColor": "#097a2d",
-    "secondaryColor": "#15963e",
+    "primaryColor": "#2D7E00",
+    "secondaryColor": "#08BCC7",
     "minecraftVersions": [
         "1.8.*",  
         "1.12.*",
