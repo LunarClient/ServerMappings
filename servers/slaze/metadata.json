@@ -1,7 +1,7 @@
 {
     "id": "slaze",
     "name": "Slaze",
-    "description": "Slaze is a brazilian server formed by passionate players who venture into Minigames!",
+    "description": "Slaze is a brazilian server formed by passionate players!",
     "website": "https://slaze.net/",
     "store": "https://loja.slaze.net",
     "addresses": [
@@ -32,9 +32,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
-        "Factions",
-        "Prison"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/G5AuPpnC2E"
