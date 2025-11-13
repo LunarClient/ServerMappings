@@ -1,7 +1,7 @@
 {
     "id": "regmc",
     "name": "REG",
-    "description": "REG",
+    "description": "REG est un serveur survie pensé pour les joueurs adultes qui recherchent une expérience fidèle à l’esprit de Minecraft. Notre gameplay reste très proche du vanilla, enrichi uniquement par REG Core, un plugin maison qui sert de colonne vertébrale au serveur : création de villes, économie légère, outils pratiques — rien d’intrusif, juste de quoi rendre l’aventure plus cohérente. Une carte dynamique et quelques fonctionnalités discrètes complètent l’ensemble, sans jamais dénaturer le jeu. La communauté, mature et bienveillante, fait de REG un endroit où l’on progresse ensemble, dans une ambiance sereine et authentique.",
     "website": "https://reg-mc.fr/",
     "addresses": [
         "reg-mc.fr"
@@ -19,9 +19,9 @@
     ],
     "primaryMinecraftVersion": "1.21.10",
     "gameTypes": [
-        "Vanilla",
-        "Semi-RP",
-        "Adult"
+        "Survival",
+        "Roleplay",
+        "Open World"
     ],
     "crossplay": false,
     "socials": {
