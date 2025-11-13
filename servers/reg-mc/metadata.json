@@ -1,0 +1,26 @@
+{
+    "id": "reg-mc",
+    "name": "REG",
+    "description": "REG",
+    "website": "https://reg-mc.fr/",
+    "addresses": [
+        "reg-mc.fr"
+    ],
+    "primaryLanguage": "fr",
+    "primaryRegion": "EU",
+    "primaryAddress": "play.reg-mc.fr",
+    "primaryColor": "#45C0EF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "gameTypes": [
+        "Vanilla",
+        "Semi-RP",
+        "Adult"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/keFuwGCa5t"
+    }
+}
