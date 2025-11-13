@@ -1,5 +1,5 @@
 {
-    "id": "reg-mc",
+    "id": "regmc",
     "name": "REG",
     "description": "REG",
     "website": "https://reg-mc.fr/",
@@ -8,6 +8,9 @@
     ],
     "primaryLanguage": "fr",
     "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryAddress": "play.reg-mc.fr",
     "primaryColor": "#45C0EF",
     "secondaryColor": "#FFFFFF",
@@ -20,6 +23,7 @@
         "Semi-RP",
         "Adult"
     ],
+    "crossplay": false,
     "socials": {
         "discord": "https://discord.com/invite/keFuwGCa5t"
     }
