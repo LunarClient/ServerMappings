@@ -24,7 +24,7 @@
         "AS"
     ],
     "gameTypes": [
-        "Lobby",
+        "PvP",
         "Survival",
         "Skyblock"
     ],
