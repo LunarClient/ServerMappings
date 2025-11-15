@@ -1,0 +1,34 @@
+{
+    "id": "xnetwork",
+    "name": "X-Network",
+    "website": "https://www.x-network.org/",
+    "store": "https://store.x-network.org/",
+    "addresses": [
+        "x-network.org"
+    ],
+    "primaryAddress": "x-network.org",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#008b8b",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ygf6eR9Hnz"
+    }
+}
