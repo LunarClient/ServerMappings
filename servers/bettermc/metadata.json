@@ -2,7 +2,6 @@
     "id": "bettermc",
     "name": "bettermc.eu",
     "website": "https://www.bettermc.eu/",
-    "description": "Miejsce w którym poczujesz się lepiej!",
     "addresses": [
       "bettermc.eu"
     ],
@@ -10,6 +9,7 @@
     "primaryColor": "#FF5504",
     "secondaryColor": "#F54927",
     "minecraftVersions": [
+      "1.19.*",
       "1.20.*",
       "1.21.*"
     ],
