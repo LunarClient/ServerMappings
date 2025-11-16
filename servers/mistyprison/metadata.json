@@ -3,11 +3,11 @@
     "name": "MistyMC",
     "website": "https://mistymc.dk",
     "store": "https://mistymc.dk/butik",
-    "description": "Denmark's funniest server.",
+    "description": "Coolest minecraft server out",
     "addresses": [
         "mistymc.dk"
     ],
-    "primaryAddress": "spil.mistymc.dk",
+    "primaryAddress": "mistymc.dk",
     "primaryColor": "#F1860F",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
