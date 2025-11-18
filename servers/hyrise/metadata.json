@@ -3,8 +3,6 @@
     "name": "HyRise Network",
     "description": "Fight without limits.",
     "addresses": [
-        "play.hyrise.fun",
-        "mc.hyrise.fun",
         "hyrise.fun"
     ],
     "primaryAddress": "hyrise.fun",
@@ -20,7 +18,7 @@
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -41,7 +39,7 @@
     "socials": {
         "twitter": "HyRiseNetwork",
         "youtube": "HyRiseNetwork",
-        "discord": "https://discord.hyrise.fun"
+        "discord": "https://discord.gg/hyrise/"
     },
     "crossplay": true
 }
