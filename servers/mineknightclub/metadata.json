@@ -1,0 +1,20 @@
+{
+    "id": "mineknight club",  
+    "name": "MineKnight Club",
+    "description": "Server Minecraft Việt Nam tốt nhất!",
+    "addresses": ["mineknight.club"],
+    "primaryAddress": "as.mineKnight.club",
+    "minecraftVersions": ["1.8.*", "1.16.*", "1.20.*"],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FF7F",
+    "secondaryColor": "#00FFFF",
+    "primaryLanguage": "en",
+    "languages": ["en", "vi"],
+    "primaryRegion": "AS",
+    "regions": ["AS"],
+    "gameTypes": ["Practice", "SMP"],
+    "website": "https://www.mineknight.club/",
+    "store": "https://discord.gg/QMyS3KmCzB",
+    "discord": "discord.mineknight.club",
+    "crossplay": false
+}
