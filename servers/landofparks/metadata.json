@@ -7,12 +7,11 @@
     ],
     "primaryAddress": "play.landofparks.eu",
     "minecraftVersions": [
-        "1.20.4",
-        "1.21.5",
+        "1.21.5"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#c29a0a",
+    "secondaryColor": "#fffefc",
     "primaryLanguage": "en",
     "languages": [
         "en",
