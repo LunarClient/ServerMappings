@@ -3,9 +3,9 @@
     "name": "Land Of Parks",
     "description": "Minecraft Theme Parks - Rides, events & fun",
     "addresses": [
-        "play.landofparks.eu"
+        "landofparks.eu"
     ],
-    "primaryAddress": "play.landofparks.eu",
+    "primaryAddress": "landofparks.eu",
     "minecraftVersions": [
         "1.21.5"
     ],
