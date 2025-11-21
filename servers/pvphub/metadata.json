@@ -4,7 +4,8 @@
     "store": "https://store.pvphub.me",
     "description": "The best modern PvP experience right here, right now!",
     "addresses": [
-        "pvphub.me"
+        "pvphub.me",
+        "play.pvphub.me",
     ],
     "primaryAddress": "pvphub.me",
     "primaryColor": "#FB4BAE",
@@ -14,7 +15,7 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -22,7 +23,8 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival"
+        "Events",
+        "Duels"
     ],
     "socials": {
         "discord": "https://discord.gg/Fa7YXrB6cr"
