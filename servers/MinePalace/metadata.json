@@ -1,5 +1,5 @@
 {
-    "id": "MinePalace",
+    "id": "minepalace",
     "name": "MinePalace Network",
     "description": "Servidor de jugadores para jugadores",
     "addresses": [
@@ -30,7 +30,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "MiniGames",
+        "Minigames",
         "Survival"
     ],
     "socials": {
