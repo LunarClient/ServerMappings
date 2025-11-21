@@ -38,12 +38,12 @@
         "youtube": "@zenithsmp",
         "tiktok": "@playzenithsmp"
     },
-    "votingLinks": {
+    "votingLinks": [
         "https://mc-server-list.com/server/1111-zenithsmp---cracked/",
         "https://www.planetminecraft.com/server/zenithsmp-recently-reset/",
         "https://mclist.io/server/62818-mc-zenithsmp-com",
         "https://topg.org/minecraft-servers/server-614676",
         "https://topminecraftservers.org/server/37715",
-        "https://serverlist.net/server/zenith-smp",
-    }
+        "https://serverlist.net/server/zenith-smp"
+    ]
 }
