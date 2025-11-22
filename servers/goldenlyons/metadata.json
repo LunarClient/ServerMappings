@@ -3,8 +3,7 @@
     "name": "GoldenLyons Network",
     "store": "https://store.goldenlyons.net",
     "addresses": [
-        "goldenlyons.net",
-        "mc.goldenlyons.net"
+        "goldenlyons.net"
     ],
     "primaryAddress": "goldenlyons.net",
     "primaryColor": "#FFEB4A",
@@ -20,12 +19,12 @@
         "NA"
     ],
     "gameTypes": [
-        "Survival Custom",
-        "BoxPvP"
+        "Survival",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.goldenlyons.net",
-        "tiktok": "https://www.tiktok.com/@goldenlyons_network",
-        "youtube": "https://www.youtube.com/@GoldenLyons"
+        "discord": "https://discord.gg/goldenlyons",
+        "youtubeb": "@GoldenLyons",
+        "tiktok": "@goldenlyons_network"
     }
 }
