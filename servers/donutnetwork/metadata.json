@@ -2,7 +2,7 @@
     "id": "donutnetwork",
     "name": "DonutNetwork",
     "website": "https://donutnetwork.xyz/",
-    "description": "Best Clutching and PvP Server!",
+    "description": "A new 1.21 LifestealSMP!",
     "addresses": [
         "donutnetwork.xyz"
     ],
@@ -10,16 +10,9 @@
     "primaryColor": "#ff7b00",
     "secondaryColor": "#00F4FF",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21.10",
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -36,6 +29,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/UQcz3tZHe3",
-        "youtube": "@DonutNetwork_eu"
+        "youtube": "@DonutNetworkXYZ"
     }
 }
