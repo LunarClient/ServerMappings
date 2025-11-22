@@ -4,8 +4,7 @@
     "store": "https://store.pvphub.me",
     "description": "The best modern PvP experience right here, right now!",
     "addresses": [
-        "pvphub.me",
-        "play.pvphub.me"
+        "pvphub.me"
     ],
     "primaryAddress": "pvphub.me",
     "primaryColor": "#FB4BAE",
