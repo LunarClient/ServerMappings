@@ -22,9 +22,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
-        "Events",
-        "Duels"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/Fa7YXrB6cr"
