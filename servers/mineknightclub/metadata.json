@@ -1,0 +1,32 @@
+{
+    "id": "mineknightclub",
+    "name": "MineKnight Club",
+    "website": "https://www.mineknight.club/",
+    "store": "https://discord.gg/QMyS3KmCzB",
+    "addresses": [
+        "mineknight.club"
+    ],
+    "primaryAddress": "as.mineknight.club",
+    "primaryColor": "#00FF7F",
+    "secondaryColor": "#00FFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jXTKZzrmwb"
+    }
+}
