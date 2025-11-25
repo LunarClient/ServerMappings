@@ -1,0 +1,33 @@
+{
+    "id": "landofparks",
+    "name": "Land Of Parks",
+    "description": "Minecraft Theme Parks - Rides, events & fun",
+    "addresses": [
+        "landofparks.eu"
+    ],
+    "primaryAddress": "landofparks.eu",
+    "minecraftVersions": [
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryColor": "#c29a0a",
+    "secondaryColor": "#fffefc",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Open World"
+    ],
+    "crossplay": false
+}
