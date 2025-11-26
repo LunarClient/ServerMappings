@@ -3,10 +3,10 @@
   "name": "Sniper Network",
   "description": "Play the best lifesteal and pvp server",
   "addresses": [
-    "snipernetwork.fun"
+    "snipernetwork.fun",
     "snipernetwork.top"
   ],
-  "primaryAddress": "play.snipernetwork.fun",
+  "primaryAddress": "play.snipernetwork.top",
   "gameTypes": [
     "PvP",
     "Minigames",
@@ -34,12 +34,13 @@
     "AS"
   ],
   "primaryRegion": "AS",
-  "website": "https://www.snipernetwork.fun",
-  "store": "https://store.snipernetwork.fun",
+  "website": "https://www.snipernetwork.top",
+  "store": "https://store.snipernetwork.top",
   "socials": {
     "discord": "https://discord.gg/snipernetwork",
     "youtube": "@snipernetwork"
   },
   "crossplay": true
 }
+
 
