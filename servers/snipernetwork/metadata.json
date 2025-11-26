@@ -4,6 +4,7 @@
   "description": "Play the best lifesteal and pvp server",
   "addresses": [
     "snipernetwork.fun"
+    "snipernetwork.top"
   ],
   "primaryAddress": "play.snipernetwork.fun",
   "gameTypes": [
@@ -41,3 +42,4 @@
   },
   "crossplay": true
 }
+
