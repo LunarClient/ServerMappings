@@ -1,11 +1,10 @@
 {
-    "id": "fastermc/",
+    "id": "fastermc",
     "name": "FasterMC",
     "store": "https://store.fastermc.net/",
     "addresses": [
         "sololegends.net",
         "play.fastermc.net"
-        
     ],
     "primaryColor": "#00AAAA",
     "secondaryColor": "#55FFFF",
@@ -16,15 +15,13 @@
         "1.16.*",
         "1.17.*",
         "1.18.*"
-
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
         "PvP"
-        
     ],
     "socials": {
         "discord": "https://discord.gg/7p8aCDUte3"
-    
+    }
 }
