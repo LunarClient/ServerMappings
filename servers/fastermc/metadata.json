@@ -1,19 +1,27 @@
 {
-  "id": "fastermc",
-  "name": "FasterMC Network",
-  "description": {
-    "en_us": "Network dedicated to PvP, practice, competitive events and more.",
-    "es_es": "Network dedicado al PvP, práctica, eventos competitivos y más."
-  },
-  "primaryAddress": "fastermc.net",
-  "addresses": ["fastermc.net", "play.fastermc.net"],
-  "region": "SA",
-  "languages": ["es_es"],
-  "minecraftVersions": ["1.7", "1.20"],
-  "socials": {
-    "discord": "https://discord.gg/7p8aCDUte3"
-  },
-  "primaryColor": "#00AAAA",
-  "secondaryColor": "#55FFFF",
-  "gameTypes": ["PvP"]
+    "id": "fastermc",
+    "name": "FasterMC",
+    "store": "https://store.fastermc.net/",
+    "addresses": [
+        "sololegends.net"
+    ],
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#55FFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7p8aCDUte3"
+    
 }
