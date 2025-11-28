@@ -1,13 +1,28 @@
 {
+    "id": "fastermc",
     "name": "FasterMC Network",
-    "description": {
-        "en_us": "Network Dedicated to PvP - Competitive, practice and events.",
-        "es_es": "Network Dedicado al PvP - Práctica, competitivo y eventos."
-    },
-    "address": "play.fastermc.net",
-    "region": "SA",
-    "languages": ["es_es"],
-    "minecraft_versions": ["1.7", "1.20"],
+    "store": "https://survivalstrikerar.tebex.io/",
+    "description": "FasterMC Network - Competitive, practice and events.",
+    "addresses": [
+        "play.fastermc.net"
+    ],
+    "primaryAddress": "play.fastermc.net",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "competitive"
+    ],
     "socials": {
         "discord": "https://discord.gg/7p8aCDUte3"
     }
