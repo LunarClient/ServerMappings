@@ -3,7 +3,9 @@
     "name": "FasterMC",
     "store": "https://store.fastermc.net/",
     "addresses": [
-        "sololegends.net"
+        "sololegends.net",
+        "play.fastermc.net"
+        
     ],
     "primaryColor": "#00AAAA",
     "secondaryColor": "#55FFFF",
