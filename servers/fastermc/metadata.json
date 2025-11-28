@@ -4,7 +4,7 @@
     "store": "https://store.fastermc.net/",
     "primaryAddress": "fastermc.net",
     "addresses": [
-        "fastermc.net"
+        "fastermc.net",
     ],
     "primaryColor": "#00AAAA",
     "secondaryColor": "#55FFFF",
