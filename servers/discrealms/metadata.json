@@ -44,6 +44,6 @@
     },
     "compliance": {
         "privacyPolicy": "https://discrealms.net/privacypolicy",
-        "rules": "https://discrealms.net/rules",
-    },
+        "rules": "https://discrealms.net/rules"
+    }
 }
