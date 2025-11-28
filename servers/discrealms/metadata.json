@@ -1,0 +1,49 @@
+{
+    "id": "discrealms",
+    "name": "Disc Realms",
+    "website": "https://discrealms.net/",
+    "store": "https://store.discrealms.net/",
+    "wiki": "https://wiki.discrealms.net/",
+    "description": "Original Towny Gamemode and nostalgic 1.8 Semi-Anarchy",
+    "addresses": [
+        "discrealms.net",
+        "discrealms.com"
+    ],
+    "primaryAddress": "play.discrealms.net",
+    "primaryColor": "#B53CD7",
+    "secondaryColor": "#E5DCE7",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "DiscRealms",
+        "discord": "https://discord.gg/85ZaBCJTTv",
+        "youtube": "DiscRealms",
+        "instagram": "DiscRealms",
+        "tiktok": "@discrealms",
+        "telegram": "discrealmsstudios"
+    },
+    "compliance": {
+        "privacyPolicy": "https://discrealms.net/privacypolicy",
+        "rules": "https://discrealms.net/rules",
+    },
+}
