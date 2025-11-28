@@ -4,9 +4,11 @@
     "store": "https://survivalstrikerar.tebex.io/",
     "description": "FasterMC Network - Competitive, practice and events.",
     "addresses": [
-        "play.fastermc.net"
+        "fastermc.net"
     ],
-    "primaryAddress": "play.fastermc.net",
+    "primaryAddress": "fastermc.net",
+    "primaryColor": "#008B8B",
+    "secondaryColor": "#00FFFF",
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -21,7 +23,7 @@
         "es-EN"
     ],
     "gameTypes": [
-        "competitive"
+        "HCF"
     ],
     "socials": {
         "discord": "https://discord.gg/7p8aCDUte3"
