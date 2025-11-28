@@ -16,10 +16,11 @@
         "1.17.*",
         "1.18.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.8.",
     "gameTypes": [
         "HCF",
-        "PvP"
+        "PvP",
+        "Factions"
     ],
     "socials": {
         "discord": "https://discord.gg/7p8aCDUte3"
