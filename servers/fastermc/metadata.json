@@ -1,5 +1,5 @@
 {
-    "id": "fastermc",
+    "id": "fastermc/",
     "name": "FasterMC",
     "store": "https://store.fastermc.net/",
     "addresses": [
@@ -15,13 +15,14 @@
         "1.12.*",
         "1.16.*",
         "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.18.*"
+
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "HCF",
         "PvP"
+        
     ],
     "socials": {
         "discord": "https://discord.gg/7p8aCDUte3"
