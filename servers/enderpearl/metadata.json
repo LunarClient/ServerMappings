@@ -24,7 +24,7 @@
     "gameTypes": [
         "Citybuild",
         "Bedwars",
-        "Build FFA"
+        "Build FFA",
         "Knockback FFA"
     ],
     "socials": {
