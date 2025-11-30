@@ -22,12 +22,11 @@
         "de"
     ],
     "gameTypes": [
-        "Citybuild",
-        "Bedwars",
-        "Build FFA"
-        "Knockback FFA"
+        "Survival",
+        "PvP",
+        "Minigames"
     ],
     "socials": {
-        "discord": "https://dc.enderpearl.de"
+        "discord": "https://discord.gg/7j7bP9pgN5"
     }
 }
