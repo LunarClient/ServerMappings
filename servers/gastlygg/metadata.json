@@ -1,1 +1,35 @@
-
+{
+    "id": "gastlygg",
+    "name": "GastlyPvP",
+    "website": "https://gastly.gg/",
+    "store": "https://store.gastly.gg/",
+    "addresses": [
+        "gastly.gg",
+        "gastly.cc"
+    ],
+    "primaryAddress": "gastly.gg",
+    "primaryColor": "#2D0A4A",
+    "secondaryColor": "#3B0F6B",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Duel",
+        "FFA",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "GastlyGG",
+        "discord": "https://discord.gg/mrVZa65QUe"
+    }
+}
