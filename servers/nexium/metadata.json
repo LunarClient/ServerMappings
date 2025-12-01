@@ -1,0 +1,16 @@
+{
+
+ㅤㅤ"id": "nexium",
+ㅤㅤ"name": "Nexium",
+ㅤㅤ"website": "https://www.nexium.it",
+ㅤㅤ"store": "https://store.nexium.it",
+ㅤㅤ"description": "Entra ora su Nexium.it",
+ㅤㅤ"addresses": [
+ㅤㅤㅤㅤ"nexium.it",
+ㅤㅤㅤㅤ"play.nexium.it",
+ㅤㅤ],
+ㅤㅤ"primaryAddress": "nexium.gg",
+ㅤㅤ"minecraftVersions": [
+ㅤㅤㅤㅤ"1.21.*",
+
+}
