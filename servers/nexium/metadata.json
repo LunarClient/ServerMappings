@@ -9,9 +9,9 @@
 ㅤㅤㅤㅤ"nexium.it",
 ㅤㅤㅤㅤ"play.nexium.it",
 ㅤㅤ],
-ㅤㅤ"primaryAddress": "nexium.gg",
+ㅤㅤ"primaryAddress": "nexium.it",
 ㅤㅤ"minecraftVersions": [
-ㅤㅤㅤㅤ"1.21.*",
+ㅤㅤㅤㅤ"1.21.1",
 ㅤㅤ],
 ㅤㅤ"primaryMinecraftVersion": "1.21.x",
 ㅤㅤ"primaryColor": "#5454FC",
@@ -28,5 +28,5 @@
 ㅤㅤㅤㅤ"Survival"
 ㅤㅤ],
 ㅤㅤ"crossplay": false
-  
+
 }
