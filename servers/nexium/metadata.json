@@ -12,5 +12,21 @@
 ㅤㅤ"primaryAddress": "nexium.gg",
 ㅤㅤ"minecraftVersions": [
 ㅤㅤㅤㅤ"1.21.*",
-
+ㅤㅤ],
+ㅤㅤ"primaryMinecraftVersion": "1.21.x",
+ㅤㅤ"primaryColor": "#5454FC",
+ㅤㅤ"secondaryColor": "#3232C9",
+ㅤㅤ"primaryLanguage": "it",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤit"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "EU",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"EU",
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"Survival"
+ㅤㅤ],
+ㅤㅤ"crossplay": false
+  
 }
