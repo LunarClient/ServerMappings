@@ -11,7 +11,7 @@
   "primaryAddress": "nexium.it",
   "minecraftVersions": [
     "1.21.1",
-    "1.21.x"
+    "1.21.*"
   ],
   "primaryMinecraftVersion": "1.21.x",
   "primaryColor": "#5454FC",
