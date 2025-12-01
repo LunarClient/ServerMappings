@@ -4,13 +4,32 @@
 ㅤㅤ"name": "Nexium",
 ㅤㅤ"website": "https://www.nexium.it",
 ㅤㅤ"store": "https://store.nexium.it",
-ㅤㅤ"description": "Entra ora su Nexium.it",
+ㅤㅤ"description": "Entra ora su Nexium",
 ㅤㅤ"addresses": [
 ㅤㅤㅤㅤ"nexium.it",
-ㅤㅤㅤㅤ"play.nexium.it",
+ㅤㅤㅤㅤ"play.nexium.it"
 ㅤㅤ],
-ㅤㅤ"primaryAddress": "nexium.gg",
+ㅤㅤ"primaryAddress": "nexium.it",
 ㅤㅤ"minecraftVersions": [
-ㅤㅤㅤㅤ"1.21.*",
-
+ㅤㅤㅤㅤ"1.21.*"
+ㅤㅤ],
+ㅤㅤ"primaryMinecraftVersion": "1.21.*",
+ㅤㅤ"primaryColor": "#5454FC",
+ㅤㅤ"secondaryColor": "#3232C9",
+ㅤㅤ"primaryLanguage": "it",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤit"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "EU",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"NA",
+ㅤㅤㅤㅤ"EU",
+ㅤㅤㅤㅤ"OC",
+ㅤㅤㅤㅤ"AS",
+ㅤㅤㅤㅤ"SA"
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"Survival"
+ㅤㅤ],
+ㅤㅤ"crossplay": false
 }
