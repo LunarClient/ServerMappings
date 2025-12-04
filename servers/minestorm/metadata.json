@@ -1,0 +1,37 @@
+{
+    "id": "minestorm",
+    "name": "MineStorm Network",
+    "store": "",
+    "description": "A Iranain Minecraft with best gamemodes",
+    "addresses": [
+        "minestorm.ir"
+    ],
+    "primaryAddress": "play.minestorm.ir",
+    "primaryColor": "#00d4ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fa-IR",
+    "languages": [
+        "fa-IR",
+        "en-US"
+    ],
+    "gameTypes": [
+        "Survival",
+        "BedWars",
+        "PracticePVP"
+    ],
+    "socials": {
+        "website": "https://www.minestorm.ir/",
+        "discord": "https://discord.gg/vk9HTc4A"
+    }
+}
