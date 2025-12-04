@@ -1,0 +1,31 @@
+{
+  "id": "nebulus",
+  "name": "nebulusmc",
+  "description": "Nuovo semi rp innovativo out ora",
+  "addresses": [
+    "nebulusmc.it"
+  ],
+  "primaryAddress": "play.nebulusmc.it",
+  "gameTypes": [
+    "Roleplay"
+  ],
+  "primaryColor": "#E2CF01",
+  "secondaryColor": "#6D6C6C",
+  "minecraftVersions": [
+    "1.19.4"
+  ],
+  "primaryMinecraftVersion": "1.19.4",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://nebulusmc.it",
+  "store": "https://store.nebulusmc.it",
+  "compliance": {
+    "support": "https://discord.gg/cPcq3HMNz8"
+  }
+}
