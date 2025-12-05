@@ -1,0 +1,13 @@
+{
+  "id": "eldoria",
+  "name": "eldoria",
+  "ip": "eu.el-doria.fr",
+  "port": 25565,
+  "motd": "§6Bienvenue sur §cEldoria§7- §aPvP UHC Fun!",
+  "logo": "logo.png",
+  "category": "UHC",
+  "version": "1.7.10 - 1.19.4",
+  "visibility": "public",
+  "discord": "http://discord.el-doria.fr" ,
+  "website": "https://el-doria.fr"
+}
