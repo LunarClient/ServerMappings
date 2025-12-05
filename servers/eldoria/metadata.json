@@ -1,0 +1,11 @@
+{
+  "id": "eldoria",
+  "name": "eldoria",
+  "ip": "eu.el-doria.fr",
+  "logo": "logo.png",
+  "category": "UHC, MiniGames",
+  "version": "1.7.10 - 1.19.4",
+  "visibility": "public",
+  "discord": "http://discord.el-doria.fr" ,
+  "website": "https://el-doria.fr"
+}
