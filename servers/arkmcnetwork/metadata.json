@@ -1,0 +1,36 @@
+{
+    "id": "arkmcnetwork",
+    "name": "ArkMC",
+    "website": "https://www.arkmc.it/",
+    "store": "https://store.arkmc.it/",
+    "description": "ArkMC: LifeSteal competitivo in un mondo futuristico e divertente!",
+    "addresses": [
+        "arkmc.it"
+    ],
+    "primaryAddress": "play.arkmc.it",
+    "primaryColor": "#8a2be2",
+    "secondaryColor": "#b57edc",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+        
+    ],
+    "socials": {
+        "discord": "https://discord.gg/arkmc"
+    }
+}
