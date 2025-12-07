@@ -1,0 +1,25 @@
+{
+    "id": "spectralgames",
+    "name": "SpectralGames Network",
+    "description": "Playing isn't spectral if you're on the right server!",
+    "addresses": [
+        "spectralgames.net"
+    ],
+    "primaryAddress": "play.spectralgames.net",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#9200d0",
+    "secondaryColor": "#6000a5",
+    "gameTypes": [
+        "Creative",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.spectralgames.net",
+        "instagram": "spectralgamesnet",
+        "youtube": "spectralgamesnet"
+    },
+    "website": "https://spectralgames.net",
+}
