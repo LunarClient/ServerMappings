@@ -1,0 +1,35 @@
+{
+    "id": "wavepvp",
+    "name": "WavePvP",
+    "store": "https://tienda.wavepvp.us",
+    "description": "An PrisonOP competitive server.",
+    "addresses": [
+        "wavepvp.us"
+    ],
+    "primaryAddress": "mc.wavepvp.us",
+    "primaryColor": "#23c0e3ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zrmaupgkZd"
+    },
+    "compliance": {
+      "termsOfService": "https://wavepvp.tebex.io/tos"
+    }
+}
