@@ -1,5 +1,5 @@
 {
-    "id": "QuickkGens",
+    "id": "quickkgens",
     "name": "QuickkGens",
     "website": "http://quickkgens.net/",
     "description": "A mix between the generic Gens server and a Survival SMP",
@@ -39,4 +39,5 @@
     "socials": {
         "discord": "https://discord.gg/hbZ3FkVg8S"
     }
+
 }
