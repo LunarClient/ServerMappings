@@ -1,0 +1,27 @@
+{
+    "id": "Iricraft",
+    "name": "Iricraft",
+    "store": "https://Iricraft.site/store",
+    "addresses": [
+        "iricraft.site"
+    ],
+    "primaryAddress": "play.iricraft.site",
+    "primaryColor": "#930031",
+    "secondaryColor": "#facc48",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/We83Kx89Kw"
+    }
+}
