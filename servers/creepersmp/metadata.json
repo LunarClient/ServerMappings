@@ -1,0 +1,33 @@
+{
+    "id": "creepersmp",
+    "name": "CreeperSMP",
+    "website": "http://store.creepersmp.com",
+    "description": "A Hardcore Minecraft Server and SMP",
+    "addresses": [
+        "creepersmp.com"
+    ],
+    "primaryAddress": "creepersmp.com",
+    "primaryColor": "#004500",
+    "secondaryColor": "#0db50d",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": true,
+    "primaryRegion": "US",
+    "regions": [
+        "US"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FRZXdZag7w"
+    }
+}
