@@ -1,0 +1,42 @@
+{
+  "id": "mineknight",
+  "name": "MineKnight Club",
+  "description": "Cuộc chiến của những kẻ mạnh!",
+  "addresses": [
+    "mineknight.club"
+  ],
+  "primaryAddress": "as.mineknight.club",
+  "minecraftVersions": [
+    "1.21.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#8f05ff",
+  "secondaryColor": "#49bf1f",
+  "primaryLanguage": "vi",
+  "languages": [
+    "vi"
+  ],
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Practice",
+    "Bedwars"
+  ],
+  "website": "https://www.mineknight.club",
+  "store": "https://shop.mineknight.club",
+  "compliance": {
+    "privacyPolicy": "https://www.mineknight.club/privacy",
+    "termsOfService": "https://www.mineknight.club/terms",
+    "rules": "https://www.mineknight.club/rules"
+  },
+  "presentationVideo": "null",
+  "socials": {
+    "discord": "https://discord.mineknight.club"
+  },
+  "crossplay": false
+}
