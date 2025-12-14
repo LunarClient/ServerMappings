@@ -1,0 +1,34 @@
+{
+    "id": "mineheavenir",
+    "name": "MineHeaven Network",
+    "website": "https://mineheaven.ir/",
+    "addresses": [
+        "mineheaven.ir"
+    ],
+    "primaryAddress": "mc.mineheaven.ir",
+    "primaryColor": "#fb9409",
+    "secondaryColor": "#463f3a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mineheaven",
+        "telegram": "mineheavenir"
+    }
+}
