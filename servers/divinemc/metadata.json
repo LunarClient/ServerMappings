@@ -29,9 +29,9 @@
         "es-EN"
     ],
     "gameTypes": [
-        "BoxPvP",
+        "Pve",
         "Survival",
-        "Onechunk"
+        "Adventure"
     ],
     "socials": {
         "discord": "https://discord.gg/divinemc",
