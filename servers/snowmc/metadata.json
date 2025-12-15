@@ -1,0 +1,37 @@
+{
+    "id": "snowmc",
+    "name": "SnowMC",
+    "website": "https://loja.snowmc.com.br",
+    "store": "https://loja.snowmc.com.br",
+    "description": "O SnowMC é o melhor servidor brasileiro de PvP",
+    "addresses": [
+        "snowmc.com.br",
+        "jogar.snowmc.com.br"
+    ],
+    "primaryAddress": "snowmc.com.br",
+    "primaryColor": "20b8e0",
+    "secondaryColor": "#274e72",
+    "minecraftVersions": [
+        "1.8*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "snowmc_2025",
+        "discord": "https://discord.com/invite/REt88E5tpN",
+        "youtube": "snowmcofc",
+        "tiktok": "@snowmc_oficial"
+    }
+}
