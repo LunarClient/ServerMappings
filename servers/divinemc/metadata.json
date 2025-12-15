@@ -4,9 +4,9 @@
     "store": "https://tienda.divinemc.es/",
     "description": "Begin your divine journey.",
     "addresses": [
-        "mc.divinemc.es"
+        "divinemc.es"
     ],
-    "primaryAddress": "divinemc.es",
+    "primaryAddress": "mc.divinemc.es",
     "primaryColor": "#A968FE",
     "secondaryColor": "#A596FF",
     "minecraftVersions": [
