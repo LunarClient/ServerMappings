@@ -54,7 +54,6 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Adventure",
         "Hardcore"
     ]
 }
