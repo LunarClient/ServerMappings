@@ -54,10 +54,7 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Bedwars",
         "Adventure",
-        "Practice",
-        "Hard-Survival",
-        "SMP"
+        "Hardcore"
     ]
 }
