@@ -3,16 +3,22 @@
     "name": "SnowMC",
     "website": "https://loja.snowmc.com.br",
     "store": "https://loja.snowmc.com.br",
-    "description": "O SnowMC é o melhor servidor brasileiro de PvP",
+    "description": "O melhor servidor brasileiro de PvP",
     "addresses": [
         "snowmc.com.br",
         "jogar.snowmc.com.br"
     ],
     "primaryAddress": "snowmc.com.br",
-    "primaryColor": "20b8e0",
+    "primaryColor": "#20b8e0",
     "secondaryColor": "#274e72",
     "minecraftVersions": [
-        "1.8*"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
