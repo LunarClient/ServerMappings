@@ -5,8 +5,7 @@
     "store": "https://loja.snowmc.com.br",
     "description": "O melhor servidor brasileiro de PvP",
     "addresses": [
-        "snowmc.com.br",
-        "jogar.snowmc.com.br"
+        "snowmc.com.br"
     ],
     "primaryAddress": "jogar.snowmc.com.br",
     "primaryColor": "#20b8e0",
