@@ -46,7 +46,7 @@
         "1.21.7",
         "1.21.8"
     ],
-    "primaryMinecraftVersion": "1.21"
+    "primaryMinecraftVersion": "1.21",
     "primaryRegion": "AS",
     "regions": [
         "AS"
@@ -54,6 +54,10 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Adventure"
+        "Bedwars",
+        "Adventure",
+        "Practice",
+        "Hard-Survival",
+        "SMP"
     ]
 }
