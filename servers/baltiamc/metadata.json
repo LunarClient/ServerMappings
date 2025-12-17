@@ -1,7 +1,7 @@
 {
     "id": "baltiamc"
     "name": "BaltiaMC",
-    "description": "Servidor de Minecraft en español con múltiples modalidades",
+    "description": "Spanish Minecraft server with multiple game modes",
     "addresses": [
         "baltiamc.net",
         "play.baltiamc.net"
