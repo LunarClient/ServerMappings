@@ -3,19 +3,12 @@
     "name": "BaltiaMC",
     "description": "Spanish Minecraft server with multiple game modes",
     "addresses": [
-        "baltiamc.net",
-        "play.baltiamc.net"
+        "baltiamc.net"
     ],
-    "primaryAddress": "play.baltiamc.net",
+    "primaryAddress": "baltiamc.net",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
@@ -26,9 +19,9 @@
     "primaryMinecraftVersion": "1.21",
     "primaryColor": "#3498db",
     "secondaryColor": "#2ecc71",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "SA",
     "regions": [
