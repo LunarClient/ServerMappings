@@ -4,9 +4,9 @@
     "website": "https://el-doria.fr/",
     "store": "https://el-doria.fr/store",
     "addresses": [
-        "eu.el-doria.fr"
+        "el-doria.fr"
     ],
-    "primaryAddress": "eu.el-doria.fr",
+    "primaryAddress": "el-doria.fr",
     "primaryColor": "#55FFFF",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
@@ -19,11 +19,11 @@
         "EU"
     ],
     "gameTypes": [
-        "MiniGames",
+        "Practice",
         "PvP",
         "UHC"
     ],
     "socials": {
-        "discord": "http://discord.el-doria.fr"
+        "discord": "https://discord.gg/gMAb2WcTGa"
     }
 }
