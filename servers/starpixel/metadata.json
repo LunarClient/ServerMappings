@@ -1,0 +1,36 @@
+{
+  "id": "starpixel",
+  "name": "StarPixel",
+  "desctiption": "Experience true pvp in starpixel! Our goal is to provide a new way of playing fighting minigames.",
+  "addresses": [
+    "starpixel.top",
+	"5.57.35.184"
+  ],
+  "primaryAddress": "play.starpixel.top",
+  "minecraftVersions": [
+	"1.8.9",
+	"1.9",
+	"1.10",
+	"1.11",
+	"1.12",
+	"1.13",
+	"1.14",
+	"1.15",
+	"1.16",
+	"1.17",
+	"1.18",
+	"1.19",
+	"1.20",
+	"1.21",
+	"1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "gameTypes": [
+	"PvP", "Minigames", "Adventure"
+  ],
+  "primaryColor": "#fcfc03",
+  "secondaryColor": "#fca103",
+  "links": {
+    "discord": "https://discord.gg/mAjED6T3"
+  }
+}
