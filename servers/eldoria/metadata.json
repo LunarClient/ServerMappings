@@ -1,11 +1,29 @@
 {
-  "id": "eldoria",
-  "name": "eldoria",
-  "ip": "eu.el-doria.fr",
-  "logo": "logo.png",
-  "category": "UHC, MiniGames",
-  "version": "1.7.10 - 1.19.4",
-  "visibility": "public",
-  "discord": "http://discord.el-doria.fr" ,
-  "website": "https://el-doria.fr"
+    "id": "eldoria",
+    "name": "Eldoria",
+    "website": "https://el-doria.fr/",
+    "store": "https://el-doria.fr/store",
+    "addresses": [
+        "eu.el-doria.fr"
+    ],
+    "primaryAddress": "eu.el-doria.fr",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "MiniGames",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "http://discord.el-doria.fr"
+    }
 }
