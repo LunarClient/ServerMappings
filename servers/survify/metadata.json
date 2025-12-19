@@ -4,9 +4,9 @@
     "store": "https://tienda.survify.lat/",
     "description": "An SurvivalOP competitive server.",
     "addresses": [
-        "play.survify.lat"
+        "survify.lat"
     ],
-    "primaryAddress": "play.survify.lat",
+    "primaryAddress": "survify.lat",
     "primaryColor": "#AA00AA",
     "secondaryColor": "#FF55FF",
     "minecraftVersions": [
