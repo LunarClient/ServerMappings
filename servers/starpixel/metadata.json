@@ -1,7 +1,7 @@
 {
   "id": "starpixel",
   "name": "StarPixel",
-  "desctiption": "A server with many fighting gamemodes.",
+  "description": "StarPixel is a server with many fighting gamemodes.",
   "addresses": [
     "starpixel.top",
 	"5.57.35.184"
@@ -9,13 +9,7 @@
   "primaryAddress": "play.starpixel.top",
   "minecraftVersions": [
 	"1.8.9",
-	"1.9.*",
-	"1.10.*",
-	"1.11.*",
 	"1.12.*",
-	"1.13.*",
-	"1.14.*",
-	"1.15.*",
 	"1.16.*",
 	"1.17.*",
 	"1.18.*",
@@ -34,4 +28,5 @@
   }
 
 }
+
 
