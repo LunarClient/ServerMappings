@@ -1,7 +1,7 @@
 {
   "id": "starpixel",
   "name": "StarPixel",
-  "desctiption": "Experience true pvp in starpixel! Our goal is to provide a new way of playing fighting minigames.",
+  "desctiption": "Experience true pvp in starpixel! Our goal is to provide good time for players.",
   "addresses": [
     "starpixel.top",
 	"5.57.35.184"
@@ -33,4 +33,5 @@
   "links": {
     "discord": "https://discord.gg/mAjED6T3"
   }
+
 }
