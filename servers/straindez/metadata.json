@@ -1,61 +1,61 @@
 {
-  "id": "straindez",
-  "name": "StraindezSMP",
-  "description": "The best survival public SMP for both Java & Bedrock players.",
-  "addresses": [
-    "straindez.net"
-  ],
-  "primaryAddress": "straindez.net",
-  "gameTypes": [
-    "PvP",
-    "Survival"
-  ],
-  "primaryColor": "#1BB7FF",
-  "secondaryColor": "#268CCA",
-  "minecraftVersions": [
-    "1.17.1",
-    "1.18.1",
-    "1.18.2",
-    "1.19",
-    "1.19.2",
-    "1.19.3",
-    "1.19.4",
-    "1.20",
-    "1.20.1",
-    "1.20.2",
-    "1.20.3",
-    "1.20.4",
-    "1.20.5",
-    "1.20.6",
-    "1.21",
-    "1.21.1",
-    "1.21.2",
-    "1.21.3",
-    "1.21.4",
-    "1.21.5",
-    "1.21.6"
-  ],
-  "primaryMinecraftVersion": "1.21.4",
-  "languages": [
-    "en"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "store": "https://straindez.tebex.io",
-  "socials": {
-    "discord": "https://discord.gg/xkVHEMGReF",
-    "youtube": "@Straindez",
-    "tiktok": "@straindez.net"
-  },
-  "votingLinks": [
-    "https://minecraft-mp.com/server-s344549",
-    "https://play-minecraft-servers.com/minecraft-servers/straindezsmp/",
-    "https://servers-minecraft.net/server-straindezsmp.41571",
-    "https://minecraftbestservers.com/server-straindezsmp.5130/",
-    "https://minecraftservers.org/server/674605"
-  ],
-  "crossplay": true
+    "id": "straindez",
+    "name": "StraindezSMP",
+    "store": "https://straindez.tebex.io",
+    "description": "The best survival public SMP for both Java & Bedrock players.",
+    "addresses": [
+        "straindez.net"
+    ],
+    "primaryAddress": "straindez.net",
+    "primaryColor": "#1BB7FF",
+    "secondaryColor": "#268CCA",
+    "minecraftVersions": [
+        "1.17.1",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/xkVHEMGReF",
+        "youtube": "@Straindez",
+        "tiktok": "@straindez.net"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s344549",
+        "https://play-minecraft-servers.com/minecraft-servers/straindezsmp/",
+        "https://servers-minecraft.net/server-straindezsmp.41571",
+        "https://minecraftbestservers.com/server-straindezsmp.5130/",
+        "https://minecraftservers.org/server/674605"
+    ]
 }

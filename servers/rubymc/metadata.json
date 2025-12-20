@@ -2,6 +2,7 @@
     "id": "rubymc",
     "name": "RubyMC.net",
     "website": "https://rubymc.net",
+    "store": "https://store.rubymc.net",
     "description": "A server that cares about you, offering PunchOut, BlockWatch, Survivor and more",
     "addresses": [
         "rubymc.net"
@@ -23,7 +24,6 @@
         "de",
         "en"
     ],
-    "store": "https://store.rubymc.net",
     "gameTypes": [
         "PvP",
         "Minigames",

@@ -1,8 +1,8 @@
 {
     "id": "kingmcit",
     "name": "KingMC",
-    "description": "Become the strongest on: KingMC - Where anything is possible",
     "store": "https://www.kingmc.it/",
+    "description": "Become the strongest on: KingMC - Where anything is possible",
     "addresses": [
         "kingmc.it"
     ],
@@ -15,14 +15,14 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryMinecraftVersion": "1.20.6",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Survival",
@@ -34,5 +34,4 @@
         "tiktok": "@kingmc_it",
         "instagram": "kingmc_it"
     }
-
 }

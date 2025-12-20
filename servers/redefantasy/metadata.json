@@ -1,9 +1,9 @@
 {
     "id": "redefantasy",
     "name": "RedeFantasy",
-    "description": "redefantasy is a brazilian server providing the future.!",
     "website": "https://redefantasy.com/",
     "store": "https://redefantasy.com/loja",
+    "description": "redefantasy is a brazilian server providing the future.!",
     "addresses": [
         "redefantasy.com"
     ],
@@ -21,6 +21,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -39,6 +40,5 @@
         "twitter": "redefantasy",
         "discord": "https://discord.gg/yMJX4uaKsC",
         "tiktok": "@redefantasyoficial"
-    },
-    "crossplay": true
+    }
 }

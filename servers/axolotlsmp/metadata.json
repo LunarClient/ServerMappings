@@ -4,8 +4,10 @@
     "description": "The place of the Axolotls",
     "addresses": [
         "axolotlsmp.online"
-      ],
+    ],
     "primaryAddress": "public.axolotlsmp.online",
+    "primaryColor": "#DA08FB",
+    "secondaryColor": "#1873FF",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
@@ -13,15 +15,13 @@
         "1.18.*"
     ],
     "primaryMinecraftVersion": "1.21.3",
-    "primaryColor": "#DA08FB",
-    "secondaryColor": "#1873FF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

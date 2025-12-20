@@ -1,0 +1,30 @@
+{
+    "id": "goldenlyons",
+    "name": "GoldenLyons Network",
+    "store": "https://store.goldenlyons.net",
+    "addresses": [
+        "goldenlyons.net"
+    ],
+    "primaryAddress": "goldenlyons.net",
+    "primaryColor": "#FFEB4A",
+    "secondaryColor": "#FFB900",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/goldenlyons",
+        "youtube": "@GoldenLyons",
+        "tiktok": "@goldenlyons_network"
+    }
+}

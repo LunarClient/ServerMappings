@@ -1,36 +1,36 @@
 {
-  "id": "fluviamc",
-  "name": "FluviaMC",
-  "description": "A world full of magic, secrets, and epic adventures. Ready to become a hero?",
-  "addresses": [
-    "fluviamc.pl"
-  ],
-  "primaryAddress": "fluviamc.pl",
-  "gameTypes": [
-    "Survival", 
-    "Open World",
-    "PvP"
-  ],
-  "primaryColor": "#8DADFF",
-  "secondaryColor": "#FFFFFF",
-  "minecraftVersions": [
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.4",
-  "languages": [
-    "pl"
-  ],
-  "primaryLanguage": "pl",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "store": "https://sklep.fluviamc.pl",
-  "socials": {
-    "discord": "https://discord.com/invite/MEChcQ7pQk",
-    "tiktok": "@fluviamc"
-  },
-  "votingLinks": [
-    "https://serwery-minecraft.pl/serwer/7788-fluviamc-pl"
+    "id": "fluviamc",
+    "name": "FluviaMC",
+    "store": "https://sklep.fluviamc.pl",
+    "description": "A world full of magic, secrets, and epic adventures. Ready to become a hero?",
+    "addresses": [
+        "fluviamc.pl"
+    ],
+    "primaryAddress": "fluviamc.pl",
+    "primaryColor": "#8DADFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/MEChcQ7pQk",
+        "tiktok": "@fluviamc"
+    },
+    "votingLinks": [
+        "https://serwery-minecraft.pl/serwer/7788-fluviamc-pl"
     ]
 }

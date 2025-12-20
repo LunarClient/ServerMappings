@@ -8,6 +8,8 @@
         "liroyo.online"
     ],
     "primaryAddress": "liroyo.online",
+    "primaryColor": "#6b6968",
+    "secondaryColor": "#1a130e",
     "minecraftVersions": [
         "1.20.*"
     ],
@@ -15,7 +17,5 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ],
-    "primaryColor": "#6b6968",
-    "secondaryColor": "#1a130e"
+    ]
 }

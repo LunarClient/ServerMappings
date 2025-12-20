@@ -1,18 +1,15 @@
 {
     "id": "agoramc",
     "name": "AgoraMC",
-    "description": "AgoraMC is a PVP minecraft server featuring dozens of mini-games.",
+    "website": "https://agoramc.fr/",
     "store": "https://store.agoramc.fr/",
+    "description": "AgoraMC is a PVP minecraft server featuring dozens of mini-games.",
     "addresses": [
         "agoramc.fr"
     ],
     "primaryAddress": "agoramc.fr",
     "primaryColor": "#f7b801",
     "secondaryColor": "#1C2541",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -21,12 +18,15 @@
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
     "gameTypes": [
         "UHC",
         "Minigames",
         "PvP"
     ],
-    "website": "https://agoramc.fr/",
     "socials": {
         "instagram": "agoramc.fr",
         "tiktok": "@agoramc.fr",

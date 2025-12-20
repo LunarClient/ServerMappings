@@ -1,9 +1,9 @@
 {
     "id": "complex",
     "name": "Complex Gaming",
-    "description": "A cross-platform network with Survival, Skyblock, Factions, Prison, and Pixelmon",
     "website": "https://www.mc-complex.com/",
     "store": "https://store.mc-complex.com/",
+    "description": "A cross-platform network with Survival, Skyblock, Factions, Prison, and Pixelmon",
     "addresses": [
         "mc-complex.com"
     ],
@@ -22,16 +22,16 @@
     ],
     "primaryMinecraftVersion": "1.20.1",
     "crossplay": true,
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "OC",
         "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

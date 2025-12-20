@@ -1,11 +1,15 @@
 {
     "id": "alchemist",
     "name": "Alchemist Network",
+    "website": "https://www.alchemistnetwork.org",
+    "store": "https://www.alchemistnetwork.org/store",
     "description": "Play exciting and fun minigames and rpg, with your friends for free on alchemist",
     "addresses": [
         "alchemistnetwork.org"
     ],
     "primaryAddress": "alchemistnetwork.org",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,30 +17,26 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Adventure"
     ],
-    "website": "https://www.alchemistnetwork.org",
-    "store": "https://www.alchemistnetwork.org/store",
+    "socials": {
+        "discord": "https://discord.gg/6y5QghB"
+    },
     "compliance": {
         "privacyPolicy": "https://www.alchemistnetwork.org/help/privacy-policy/",
         "termsOfService": "https://www.alchemistnetwork.org/help/terms/",
         "rules": "https://www.alchemistnetwork.org/rules"
-    },
-    "socials": {
-        "discord": "https://discord.gg/6y5QghB"
-    },
-    "crossplay": false
+    }
 }

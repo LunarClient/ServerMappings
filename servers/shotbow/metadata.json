@@ -9,6 +9,8 @@
         "shotbow.net"
     ],
     "primaryAddress": "play.shotbow.net",
+    "primaryColor": "#553c22",
+    "secondaryColor": "#c1c1c0",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -25,8 +27,6 @@
         "EU",
         "AS"
     ],
-    "primaryColor": "#553c22",
-    "secondaryColor": "#c1c1c0",
     "gameTypes": [
         "Minigames",
         "PvP",

@@ -18,14 +18,14 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "PvP",

@@ -1,11 +1,14 @@
 {
     "id": "astralclub",
     "name": "Astral Club",
+    "store": "https://tienda.astralclub.net",
     "description": "A fantastic server full of unforgettable experiences",
     "addresses": [
         "astralclub.net"
     ],
     "primaryAddress": "mc.astralclub.net",
+    "primaryColor": "#ff005f",
+    "secondaryColor": "#de3fff",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,13 +18,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#ff005f",
-    "secondaryColor": "#de3fff",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -30,13 +27,16 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "store": "https://tienda.astralclub.net",
     "socials": {
         "discord": "https://discord.gg/hVEGBt9VyJ"
-    },
-    "crossplay": true
+    }
 }

@@ -1,19 +1,19 @@
 {
-  "id": "surpriseplay",
-  "name": "SurprisePlay.eu",
-  "description": "Czech Minecraft server with SkyBlock and Survival focus for community play.",
-  "addresses": [
-    "surpriseplay.eu"
-  ],
-  "primaryAddress": "mc.surpriseplay.eu",
-  "minecraftVersions": [
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.6",
-  "primaryColor": "#2982ed",
-  "secondaryColor": "#5588ac",
-  "gameTypes": [
-    "Skyblock",
-    "Survival"
-  ]
+    "id": "surpriseplay",
+    "name": "SurprisePlay.eu",
+    "description": "Czech Minecraft server with SkyBlock and Survival focus for community play.",
+    "addresses": [
+        "surpriseplay.eu"
+    ],
+    "primaryAddress": "mc.surpriseplay.eu",
+    "primaryColor": "#2982ed",
+    "secondaryColor": "#5588ac",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ]
 }

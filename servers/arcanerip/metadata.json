@@ -1,6 +1,7 @@
 {
     "id": "arcanerip",
     "name": "Arcane",
+    "website": "https://arcane.rip",
     "store": "https://discord.gg/arcanerip",
     "addresses": [
         "arcane.rip"
@@ -25,7 +26,6 @@
         "Minigames",
         "PvP"
     ],
-    "website": "https://arcane.rip",
     "socials": {
         "twitter": "ArcaneRIP",
         "discord": "https://www.discord.gg/arcanerip"

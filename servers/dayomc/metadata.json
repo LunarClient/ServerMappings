@@ -5,13 +5,9 @@
     "addresses": [
         "dayomc.es"
     ],
+    "primaryAddress": "dayomc.es",
     "primaryColor": "#3984FF",
     "secondaryColor": "#8D35FF",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
-    "primaryAddress": "dayomc.es",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -25,6 +21,10 @@
     "regions": [
         "NA",
         "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",

@@ -6,22 +6,23 @@
         "mces.es"
     ],
     "primaryAddress": "smpb.mces.es",
+    "primaryColor": "#3ec024",
+    "secondaryColor": "#83ff6a",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#3ec024",
-    "secondaryColor": "#83ff6a",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
         "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
@@ -31,6 +32,5 @@
     "socials": {
         "twitter": "mc_esp",
         "discord": "https://discord.gg/mc-es"
-    },
-    "crossplay": true
+    }
 }

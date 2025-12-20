@@ -7,23 +7,23 @@
         "kiramc.com"
     ],
     "primaryAddress": "play.kiramc.com",
+    "primaryColor": "#5f45d3",
+    "secondaryColor": "#3f3957",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#5f45d3",
-    "secondaryColor": "#3f3957",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP",
-	    "HCF"
+        "HCF"
     ],
     "socials": {
         "twitter": "KiraHCF",

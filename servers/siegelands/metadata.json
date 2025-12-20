@@ -1,33 +1,33 @@
 {
     "id": "siegelands",
     "name": "Siegelands",
+    "website": "https://www.siegelands.org",
+    "store": "https://store.siegelands.org",
     "description": "NethPot Minecraft Earth Server",
     "addresses": [
         "siegelands.org"
     ],
     "primaryAddress": "siegelands.org",
+    "primaryColor": "#6fa965",
+    "secondaryColor": "#368625",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#6fa965",
-    "secondaryColor": "#368625",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.siegelands.org",
-    "store": "https://store.siegelands.org",
     "socials": {
         "discord": "https://discord.gg/siegelands"
-    },
-    "crossplay": true
+    }
 }

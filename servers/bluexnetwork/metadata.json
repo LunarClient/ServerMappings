@@ -16,13 +16,13 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "crossplay": false,
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

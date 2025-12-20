@@ -5,6 +5,8 @@
         "91.198.19.85"
     ],
     "primaryAddress": "91.198.19.85",
+    "primaryColor": "#990000",
+    "secondaryColor": "#99004C",
     "minecraftVersions": [
         "1.20.1"
     ],
@@ -14,7 +16,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/awqsjtDYDP"
-    },
-    "primaryColor": "#990000",
-    "secondaryColor": "#99004C"
+    }
 }

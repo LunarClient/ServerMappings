@@ -8,6 +8,8 @@
         "crownhcf.com"
     ],
     "primaryAddress": "crownhcf.com",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -18,16 +20,14 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#dedede",
-    "secondaryColor": "#e6b511",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "HCF",

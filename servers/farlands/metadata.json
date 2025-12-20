@@ -33,13 +33,13 @@
         "Roleplay",
         "Survival"
     ],
-    "compliance": {
-        "termsOfService": "https://loja.farlands.net.br/termos",
-        "rules": "https://docs.farlands.net.br/towny"
-    },
     "socials": {
         "tiktok": "@farlandsservidor",
         "discord": "https://discord.com/invite/UPNhAeEK4k"
+    },
+    "compliance": {
+        "termsOfService": "https://loja.farlands.net.br/termos",
+        "rules": "https://docs.farlands.net.br/towny"
     },
     "presentationVideo": "1pgfZjdPZfE"
 }

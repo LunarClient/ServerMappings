@@ -1,33 +1,33 @@
 {
     "id": "lynx",
     "name": "LynxMC",
+    "website": "https://lynxmc.club",
+    "store": "https://lynxmc.club",
     "description": "Competitive Minecraft PvP Server.",
     "addresses": [
         "lynxmc.club",
         "lynxmc.xyz"
     ],
     "primaryAddress": "lynxmc.club",
+    "primaryColor": "#04c1f9",
+    "secondaryColor": "#22cbf0",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#04c1f9",
-    "secondaryColor": "#22cbf0",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://lynxmc.club",
-    "store": "https://lynxmc.club",
     "socials": {
         "discord": "https://discord.gg/JGBDf4gBf2"
-    },
-    "crossplay": false
+    }
 }

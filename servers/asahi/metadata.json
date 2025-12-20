@@ -1,26 +1,26 @@
 {
-  "id": "asahi",
-  "name": "Asahi",
-  "addresses":[
-    "82.23.190.130"
-  ],
-  "primaryAddress": "82.23.190.130",
-  "primaryColor": "#FFA955",
-  "secondaryColor": "#EFEEEA",
-  "minecraftVersions": [
-    "1.8.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "UHC",
-    "Minigames",
-    "PvP"
-  ],
-  "socials":{
-    "discord": "https://discord.gg/ZYZ5QjWjDG"
-  }
+    "id": "asahi",
+    "name": "Asahi",
+    "addresses": [
+        "asahimc.fr"
+    ],
+    "primaryAddress": "play.asahimc.fr",
+    "primaryColor": "#FFA955",
+    "secondaryColor": "#EFEEEA",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ZYZ5QjWjDG"
+    }
 }

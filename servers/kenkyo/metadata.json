@@ -1,7 +1,7 @@
 {
     "id": "kenkyo",
     "name": "Kenkyo",
-    "addresses":[
+    "addresses": [
         "kenkyo.eu"
     ],
     "primaryAddress": "play.kenkyo.eu",
@@ -20,7 +20,7 @@
         "Minigames",
         "PvP"
     ],
-    "socials":{
+    "socials": {
         "discord": "https://discord.gg/HmCWvbFh5E"
     }
 }
