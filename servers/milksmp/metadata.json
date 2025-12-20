@@ -1,0 +1,16 @@
+{
+  "id": "milksmp",
+  "name": "Milk SMP",
+  "description": "The Survival Economy Minecraft Server in Philippines.",
+  "addresses": ["milksmp.xyz:26056", "milksmp.xyz:26056"],
+  "primaryAddress": "milksmp.xyz",
+  "minecraftVersions": ["1.21"],
+  "primaryMinecraftVersion": "1.21",
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#ffffff",
+  "socials": {
+    "discord": "https://discord.gg/gGbYpck3gK",
+    "instagram": "callme.h2ph",
+    "tiktok": "@hwphh"
+  }
+}
