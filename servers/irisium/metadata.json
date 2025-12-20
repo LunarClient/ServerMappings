@@ -5,6 +5,7 @@
     "store": "https://irisium.party/store",
     "description": "A survival, skyblock server made for the french-speaking community",
     "addresses": [
+        "irisium.party",
         "play.irisium.party"
     ],
     "primaryAddress": "play.irisium.party",
