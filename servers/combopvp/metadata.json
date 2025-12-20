@@ -1,0 +1,25 @@
+{
+    "id": "combopvp",
+    "name": "Combo PvP",
+    "store": "https://loja.combopvp.com/",
+    "addresses": [
+        "combopvp.com"
+    ],
+    "primaryAddress": "comobopvp.com",
+    "primaryColor": "#4C52B4",
+    "secondaryColor": "#55F7F6",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/euTrXNqYFV"
+    }
+}
