@@ -4,8 +4,7 @@
     "website": "https://ivymc.fr/",
     "primaryAddress": "play.ivymc.fr",
     "addresses": [
-        "ivymc.fr",
-        "survie.ivymc.fr"
+        "ivymc.fr"
     ],
     "primaryColor": "#3b8540",
     "secondaryColor": "#2ec54f",
