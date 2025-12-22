@@ -1,6 +1,7 @@
 {
     "id": "ivymc",
     "name": "IvyMC",
+    "description":  "SMP and Minigames focused server",
     "website": "https://ivymc.fr/",
     "primaryAddress": "play.ivymc.fr",
     "addresses": [
