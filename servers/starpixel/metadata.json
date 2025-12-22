@@ -3,8 +3,7 @@
   "name": "StarPixel",
   "description": "StarPixel is a server with many fighting gamemodes.",
   "addresses": [
-    "starpixel.top",
-	"5.57.35.184"
+    "starpixel.top"
   ],
   "primaryAddress": "play.starpixel.top",
   "minecraftVersions": [
@@ -19,7 +18,9 @@
   ],
   "primaryMinecraftVersion": "1.8.9",
   "gameTypes": [
-	"PvP", "Minigames", "Adventure"
+	"PvP",
+	"Minigames",
+	"Adventure"
   ],
   "primaryColor": "#fcfc03",
   "secondaryColor": "#fca103",
@@ -28,6 +29,7 @@
   }
 
 }
+
 
 
 
