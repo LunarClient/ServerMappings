@@ -1,0 +1,18 @@
+{
+  "id": "opgaming",
+  "name": "Opgaming.eu",
+  "description": "Dein deutscher Citybuild und Minigames Server!",
+  "addresses": [
+    "opgaming.eu"
+  ],
+  "primaryAddress": "opgaming.eu",
+  "gameTypes": [
+    "Citybuild",
+    "Minigames",
+    "Events",
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/hqcFEqeQQH"
+  }
+}
