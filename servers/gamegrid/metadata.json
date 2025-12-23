@@ -1,0 +1,41 @@
+{
+    "id": "gamegrid",
+    "name": "GameGrid",
+    "description": "Community Minecraft server",
+    "addresses": [
+        "playgg.co.uk"
+    ],
+    "primaryAddress": "mc.playgg.co.uk",
+    "minecraftVersions": [
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#24f8ff",
+    "secondaryColor": "#ff24e2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://playgg.co.uk",
+    "store": "",
+    "compliance": {
+    },
+    "presentationVideo": "",
+    "socials": {
+        "twitter": "_GameGrid",
+        "discord": "https://playgg.co..uk/discord"
+    },
+    "crossplay": false
+}
