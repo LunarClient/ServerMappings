@@ -3,11 +3,9 @@
     "name": "PulseMC",
     "store": "https://store.pulsemc.org/",
     "addresses": [
-        "play.pulsemc.org",
-        "pulsemc.org",
-        "unprotected.pulsemc.org"
+        "pulsemc.org"
     ],
-    "primaryAddress": "pulsemc.org",
+    "primaryAddress": "play.pulsemc.org",
     "primaryColor": "#FFD700",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
