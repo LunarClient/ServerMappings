@@ -4,6 +4,7 @@
     "required": [
         "id",
         "name",
+        "description",
         "addresses",
         "primaryAddress",
         "minecraftVersions",
