@@ -6,17 +6,18 @@
     "store": "https://tienda.meltdownpvp.net",
     "addresses": ["meltdownpvp.net"],
     "primaryAddress": "mc.meltdownpvp.net",
-    "gameTypes": ["PvP", "Destroy The Nexus", "Annihilation", "Minigames"],
+    "gameTypes": ["PvP", "Factions", "Survival"],
     "primaryColor": "#b11dc2",
     "secondaryColor": "#35073b",
     "minecraftVersions": ["1.8.*", "1.20.*"],
     "primaryMinecraftVersion": "1.8.9",
-    "languages": ["es", "en"],
-    "primaryLanguage": "es",
+    "languages": ["en", "es-EN"],
+    "primaryLanguage": "es-EN",
     "socials": {
         "discord": "https://discord.gg/YsnuwmabHb"
     },
     "regions": ["NA", "SA"],
     "primaryRegion": "NA",
-    "votingLinks": ["https://es.namemc.com/server/mc.meltdownpvp.net"]
+    "votingLinks": ["https://es.namemc.com/server/mc.meltdownpvp.net"],
+    "crossplay": false
 }
