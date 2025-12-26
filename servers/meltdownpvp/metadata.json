@@ -4,7 +4,7 @@
     "description": "Meltdown PvP es un servidor de Minecraft enfocado en PvP, ofreciendo una experiencia competitiva y emocionante para los jugadores que disfrutan del combate en el juego.",
     "website": "https://meltdownpvp.net",
     "store": "https://tienda.meltdownpvp.net",
-    "addresses": ["mc.meltdownpvp.net", "mcn.meltdownpvp.net"],
+    "addresses": ["meltdownpvp.net"],
     "primaryAddress": "mc.meltdownpvp.net",
     "gameTypes": ["PvP", "Destroy The Nexus", "Annihilation", "Minigames"],
     "primaryColor": "#b11dc2",
@@ -16,5 +16,7 @@
     "socials": {
         "discord": "https://discord.gg/YsnuwmabHb"
     },
+    "regions": ["NA", "SA"],
+    "primaryRegion": "NA",
     "votingLinks": ["https://es.namemc.com/server/mc.meltdownpvp.net"]
 }
