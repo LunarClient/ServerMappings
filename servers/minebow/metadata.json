@@ -6,6 +6,7 @@
     "addresses": [
         "minebow.net"
     ],
+    "primaryAddress": "minebow.net",
     "primaryColor": "#fb9409",
     "secondaryColor": "#463f3a",
     "minecraftVersions": [
