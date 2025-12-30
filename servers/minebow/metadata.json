@@ -1,12 +1,11 @@
 {
-    "id": "MineBow Network",
+    "id": "MineBow",
     "name": "MineBow Network",
     "website": "https://minebow.net/",
     "store": "https://tienda.minebow.net/",
     "addresses": [
-        "mc.minebow.net"
+        "minebow.net"
     ],
-    "primaryAddress": "mc.minebow.net",
     "primaryColor": "#fb9409",
     "secondaryColor": "#463f3a",
     "minecraftVersions": [
