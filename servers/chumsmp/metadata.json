@@ -1,0 +1,33 @@
+{
+    "id": "chumsmp",
+    "name": "The ChumSMP",
+    "website": "https://world.chumnet.xyz",
+    "description": "A Vanilla Survival Server, Focused on the lively and active community",
+    "addresses": [
+        "chumnet.xyz"
+    ],
+    "primaryAddress": "mc.chumnet.xyz",
+    "primaryColor": "#e980ff",
+    "secondaryColor": "#a268ea",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mdNtHPw9R4"
+    }
+}

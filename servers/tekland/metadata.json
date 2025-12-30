@@ -1,0 +1,35 @@
+{
+  "id": "tekland",
+  "name": "TEKLAND",
+  "store": "https://tekland.tebex.io/",
+  "description": "A great and fantastic adventure! Join our Survival and PvP server.",
+  "addresses": [
+    "tekland.xyz"
+  ],
+  "primaryAddress": "tekland.xyz",
+  "primaryColor": "#15B8A6",
+  "secondaryColor": "#212529",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.16.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/AvvjCbn6MR"
+  }
+}

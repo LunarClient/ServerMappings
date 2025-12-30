@@ -1,0 +1,33 @@
+{
+    "id": "regmc",
+    "name": "REG",
+    "description": "Adult whitelisted survival, vanilla with towns, economy and mature community",
+    "website": "https://reg-mc.fr/",
+    "addresses": [
+        "reg-mc.fr"
+    ],
+    "languages": [
+        "fr"
+    ],
+    "primaryLanguage": "fr",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryAddress": "play.reg-mc.fr",
+    "primaryColor": "#45C0EF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "gameTypes": [
+        "Survival",
+        "Roleplay",
+        "Open World"
+    ],
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.com/invite/DmkSuEt"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "elixirmc",
+    "name": "ElixirMC",
+    "store": "https://tienda.elixirmc.org/",
+    "addresses": [
+        "elixirmc.org"
+    ],
+    "primaryAddress": "elixirmc.org",
+    "primaryColor": "#ff55ff",
+    "secondaryColor": "#f48fb1",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/elixirmc"
+    }
+}
