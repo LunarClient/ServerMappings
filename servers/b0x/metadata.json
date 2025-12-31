@@ -1,7 +1,7 @@
 {
   "id": "b0x",
   "name": "B0X",
-  "description": "Minecraft network: RPG, KitPvP, UHC, Practice, Minigames.",
+  "description": "Minecraft network: Minigames, UHC, and Roleplay.",
   "addresses": [
     "b0x.us"
   ],
@@ -25,11 +25,9 @@
     "NA"
   ],
   "gameTypes": [
-    "RPG",
-    "UHC",
     "Minigames",
-    "Kitpvp",
-    "Practice"
+    "UHC",
+    "Roleplay"
   ],
   "crossplay": false
 }
