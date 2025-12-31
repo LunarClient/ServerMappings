@@ -1,57 +1,56 @@
 {
-
-ㅤㅤ"id": "codeblocksmc",
-ㅤㅤ"name": "CodeBlocksMC",
-ㅤㅤ"website": "https://codeblocksmc.com",
-ㅤㅤ"description": "Home of Competitive Minecraft PvP",
-ㅤㅤ"addresses": [
-ㅤㅤㅤㅤ"codeblocksmc.com",
-ㅤㅤㅤㅤ"codeblocksmc.de",
-ㅤㅤㅤㅤ"codeblocksmc.net",
-ㅤㅤㅤㅤ"codeblocksmc.me",
-ㅤㅤㅤㅤ"codeblocksmc.xyz",
-ㅤㅤㅤㅤ"cbmcnet.work",
-ㅤㅤㅤㅤ"universe-of.games"
-ㅤㅤ],
-ㅤㅤ"primaryAddress": "codeblocksmc.com",
-ㅤㅤ"minecraftVersions": [
-ㅤㅤㅤㅤ"1.13.*",
-ㅤㅤㅤㅤ"1.14.*",
-ㅤㅤㅤㅤ"1.15.*",
-ㅤㅤㅤㅤ"1.16.*",
-ㅤㅤㅤㅤ"1.17.*",
-ㅤㅤㅤㅤ"1.18.*",
-ㅤㅤㅤㅤ"1.19.*",
-ㅤㅤㅤㅤ"1.20.*",
-ㅤㅤㅤㅤ"1.21.*"
-ㅤㅤ],
-ㅤㅤ"primaryMinecraftVersion": "1.21.6",
-ㅤㅤ"primaryColor": "#E87223",
-ㅤㅤ"secondaryColor": "#E8D710",
-ㅤㅤ"primaryLanguage": "en",
-ㅤㅤ"languages": [
-ㅤㅤㅤㅤ"en",
+    "id": "codeblocksmc",
+    "name": "CodeBlocksMC",
+    "website": "https://codeblocksmc.com",
+    "description": "The home of minigames for everyone!",
+    "addresses": [
+        "codeblocksmc.com",
+        "codeblocksmc.de",
+        "codeblocksmc.net",
+        "codeblocksmc.me",
+        "codeblocksmc.xyz",
+        "cbmcnet.work",
+        "universe-of.games"
+    ],
+    "primaryAddress": "codeblocksmc.com",
+    "minecraftVersions": [
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "primaryColor": "#E87223",
+    "secondaryColor": "#E8D710",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
         "de"
-ㅤㅤ],
-ㅤㅤ"primaryRegion": "EU",
-ㅤㅤ"regions": [
-ㅤㅤㅤㅤ"NA",
-ㅤㅤㅤㅤ"EU"
-ㅤㅤ],
-ㅤㅤ"gameTypes": [
-ㅤㅤㅤㅤ"PvP",
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
         "Minigames"
-ㅤㅤ],
-ㅤㅤ"compliance": {
-ㅤㅤㅤㅤ"privacyPolicy": "https://codeblocksmc.com/privacy",
-ㅤㅤㅤㅤ"termsOfService": "https://codeblocksmc.com/tos",
+    ],
+    "compliance": {
+        "privacyPolicy": "https://codeblocksmc.com/privacy",
+        "termsOfService": "https://codeblocksmc.com/tos",
         "rules": "https://codeblocksmc.com/rules/"
-ㅤㅤ},
-ㅤㅤ"socials": {
-ㅤㅤㅤㅤ"instagram": "codeblocksmc",
-ㅤㅤㅤㅤ"tiktok": "@codeblocksmc",
+    },
+    "socials": {
+        "instagram": "codeblocksmc",
+        "tiktok": "@codeblocksmc",
         "youtube": "@CodeBlocksMC",
-ㅤㅤㅤㅤ"discord": "https://dc.codeblocksmc.com"
-ㅤㅤ},
-ㅤㅤ"crossplay": true
+    "discord": "https://dc.codeblocksmc.com"
+    },
+    "crossplay": true
 }
