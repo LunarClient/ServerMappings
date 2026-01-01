@@ -265,7 +265,7 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                         elif domain is not None:
                             seen_domains[domain.fld].add(server_id)
                         else:
-                            messages[server_id].append(f"{address} is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
+                            messages[server_id].append(f"`{address}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
                     
                     if primary_region := server.get("primaryRegion"):
                         if not (regions := server.get("regions")) or primary_region not in regions:
