@@ -218,6 +218,7 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
             messages[server_id] = [f"{server_id} is being edited but is in the inactive file!"]
 
     # Looping over each server folder
+    seen_domains = defaultdict(set)
     for root, _, _ in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
         if (
@@ -256,6 +257,11 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                         domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
                         if domain is not None and domain.subdomain:
                             messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                        
+                        if domain is not None and domain.fld in seen_domains:
+                            messages[server_id].append(f"The domain {domain.fld} is also present in {', '.join(map(lambda s: f"`{s}`", seen_domains[domain.fld]))}. Please ensure each server has a unique domain(s).")
+                        elif domain is not None:
+                            seen_domains[domain.fld].add(server_id)
                     
                     if primary_region := server.get("primaryRegion"):
                         if not (regions := server.get("regions")) or primary_region not in regions:
