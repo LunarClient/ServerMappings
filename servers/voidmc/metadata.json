@@ -28,6 +28,5 @@
     "store": "https://store.voidmc.live",
     "socials": {
         "discord": "https://discord.gg/voidmc"
-    },
-    "crossplay": true
+    }
 }
