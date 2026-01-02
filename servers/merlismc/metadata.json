@@ -1,0 +1,32 @@
+{
+    "id": "merlismc",
+    "name": "MerlisMC",
+    "description": "A Semi-RPG server with the communtiy in mind.",
+    "store": "https://store.merlismc.org/",
+    "addresses": [
+        "merlismc.org"
+    ],
+    "primaryAddress": "merlismc.org",
+    "primaryColor": "#fdfcf8",
+    "secondaryColor": "#97cceb",
+    "minecraftVersions": [
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Open World",
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "youtube": "@ch4singf3ar"
+    }
+}
