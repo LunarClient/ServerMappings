@@ -3,9 +3,9 @@
     "name": "StarMC Network",
     "store": "https://starmcv1.tebex.io/",
     "addresses": [
-      "starmhz.online"
+      "starmc.us"
     ],
-    "primaryAddress": "starmhz.online",
+    "primaryAddress": "starmc.us",
     "primaryColor": "#2aecff",
     "secondaryColor": "#45f1ff",
     "minecraftVersions": [
