@@ -1,6 +1,7 @@
 {
     "id": "karmelmc",
-    "name": "KarmelMC",
+    "name": "KarmelMC.pl",
+    "website": "https://karmelmc.pl/",
     "addresses": [
         "karmelmc.pl"
     ],
@@ -13,7 +14,7 @@
     "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU", 
     "regions": [
-        "EU"
+        "EU",
         "PL"
     ],
     "gameTypes": [
