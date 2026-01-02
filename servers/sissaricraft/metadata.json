@@ -1,0 +1,35 @@
+{
+    "id": "sissaricraft",
+    "name": "SissariCraft",
+    "website": "https://www.sissaricraft.fi/",
+    "store": "https://kauppa.sissaricraft.fi/",
+    "description": "Suomen paras Minecraft-palvelin!",
+    "addresses": [
+        "sissaricraft.fi"
+    ],
+    "primaryAddress": "mc.sissaricraft.fi",
+    "primaryColor": "#2178b5",
+    "secondaryColor": "#04bd34",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fi",
+    "languages": [
+        "fi"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/F6CmgG6x46",
+        "youtube": "sissari77"
+    }
+}
