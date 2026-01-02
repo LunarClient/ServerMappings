@@ -1,0 +1,38 @@
+{
+  "id": "FaithfulMC",
+  "name": "FaithfulMC",
+  "description": "FaithfulMC is made of HCF, Kits and Practice.",
+  "addresses": [
+    "faithfulmc.net"
+  ],
+  "primaryAddress": "faithfulmc.net",
+  "gameTypes": [
+    "PvP",
+    "HCF",
+    "Factions"
+  ],
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "store": "https://store.faithfulmc.net/",
+  "socials": {
+    "discord": "https://discord.gg/faithfulmc",
+    "twitter": "PlayFaithfulMC"
+  }
+}
