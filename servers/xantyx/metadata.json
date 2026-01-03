@@ -1,18 +1,20 @@
 {
     "id": "xantyx",
-    "name": "XantyxMC Network",
+    "name": "Xantyx Network",
+    "description": "A new-gen Minecraft server with Earth and Oneblock mode.",
+    "store": "https://store.xantyxnetwork.com/",
     "website": "https://www.xantyxnetwork.com/",
-    "description": "Xantyx Network is a next-gen server offering Earth SMP and OneBlock with a smooth, competitive, and community-driven experience.",
     "addresses": [
-		"xantyxnetwork.mc.gg"
+        "xantyxnetwork.com"
     ],
     "primaryAddress": "xantyxnetwork.mc.gg",
-    "primaryColor": "#8A3FBF",
-    "secondaryColor": "#1F1F1F",
+    "primaryColor": "#fdfcf8",
+    "secondaryColor": "#97cceb",
     "minecraftVersions": [
-        "1.20.*",
-        "1.21.*"
-    ],
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+
     "primaryMinecraftVersion": "1.21.7",
     "crossplay": true,
     "primaryRegion": "NA",
