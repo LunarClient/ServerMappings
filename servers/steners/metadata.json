@@ -1,15 +1,14 @@
 {
     "id": "steners",
     "name": "Steners",
-    "description": "La compétition réincarnée.",
+    "description": "La competition reincarnee.",
     "addresses": [
-        "steners.fr",
-        "play.steners.fr"
+        "steners.fr"
     ],
     "primaryAddress": "steners.fr",
     "minecraftVersions": [
         "1.8.*",
-        "1.9.*"
+        "1.12.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#AA0000",
