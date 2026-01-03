@@ -1,5 +1,5 @@
 {
-    "id": "karmelmc",
+    "id": "karmelmcpl",
     "name": "KarmelMC.pl",
     "website": "https://karmelmc.pl/",
     "addresses": [
@@ -14,16 +14,15 @@
     "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU", 
     "regions": [
-        "EU",
-        "PL"
+        "EU"
     ],
     "gameTypes": [
-        "LifeSteal"
+        "Survival"
     ],
     "socials": {
-        "instagram": "karmelmcpl",
-        "youtube": "karmelmcpl",
-        "tiktok": "karmelmcpl",
+        "instagram": "https://www.instagram.com/karmelmcpl/",
+        "youtube": "https://www.youtube.com/@karmelmcpl/",
+        "tiktok": "https://www.tiktok.com/@karmelmcpl/",
         "discord": "https://discord.gg/aqxfaqjRnS"
     }
 }
