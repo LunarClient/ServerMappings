@@ -7,7 +7,7 @@
     "addresses": [
         "xantyxnetwork.com"
     ],
-    "primaryAddress": "xantyxnetwork.mc.gg",
+    "primaryAddress": "xantyxnetwork.com",
     "primaryColor": "#fdfcf8",
     "secondaryColor": "#97cceb",
     "minecraftVersions": [
@@ -15,7 +15,7 @@
         "1.21.9",
         "1.21.10"
     ],
-    "primaryMinecraftVersion": "1.21.7",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -26,12 +26,14 @@
         "en"
     ],
     "gameTypes": [
-        "Oneblock",
-        "Earth"
+        "Adventure",
+        "PvP",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/pGvu64Tx"
     }
 
 }
+
 
