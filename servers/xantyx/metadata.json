@@ -2,7 +2,7 @@
     "id": "xantyx",
     "name": "XantyxMC Network",
     "website": "https://www.xantyxnetwork.com/",
-    "description": "Xantyx Network is a next-gen Minecraft server offering immersive Earth SMP and OneBlock gameplay with a smooth, competitive, and community-driven experience.",
+    "description": "Xantyx Network is a next-gen server offering Earth SMP and OneBlock with a smooth, competitive, and community-driven experience.",
     "addresses": [
 		"xantyxnetwork.mc.gg"
     ],
@@ -25,10 +25,10 @@
     ],
     "gameTypes": [
         "Oneblock",
-        "PvP",
         "Earth",
     ],
     "socials": {
         "discord": "https://discord.gg/pGvu64Tx"	
     }
+
 }
