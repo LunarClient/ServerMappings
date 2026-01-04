@@ -4,8 +4,7 @@
     "store": "https://store.ranked.rip/",
     "addresses": [
         "ranked.rip",
-        "horu.us",
-        "galanthusmc.net"
+        "horu.us"
     ],
     "primaryAddress": "ranked.rip",
     "primaryColor": "#f62c22",
