@@ -1,0 +1,42 @@
+{
+    "id": "nooblandia",
+    "name": "Nooblandia",
+    "description": "Competitive Minecraft server with PvP, Survival, and unique Minigames",
+    "addresses": [
+        "nooblandia.com"
+    ],
+    "primaryAddress": "mc.nooblandia.com",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#00aaff",
+    "secondaryColor": "#0055ff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://nooblandia.com/home/",
+    "store": "https://nooblandia.com/store/",
+    "wiki": "https://nooblandia.com/wiki/",
+    "compliance": {
+        "privacyPolicy": "https://nooblandia.com/docs/privacy/",
+        "termsOfService": "https://nooblandia.com/docs/tos/",
+        "rules": "https://nooblandia.com/wiki/regolamenti/"
+    },
+    "socials": {
+        "telegram": "nooblandianetwork"
+    },
+    "crossplay": false
+}
+
