@@ -1,0 +1,36 @@
+{
+    "id": "varyzonmc",
+    "name": "VaryzonMC",
+    "website": "https://www.varyzon.it/",
+    "description": "VaryzonMC is a competitive Minecraft server of SMP and soon KitPvP.",
+    "addresses": [
+        "varyzon.it"
+    ],
+    "primaryAddress": "play.varyzon.it",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF0000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "primaryLanguage": "it",
+    "languages": ["it"],
+    "gameTypes": ["PvP", "Survival"],
+    "socials": {
+        "discord": "https://discord.varyzon.it",
+        "tiktok": "@VaryzonMC"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.varyuzon.it/privacy",
+        "termsOfService": "https://www.varyzon.it/terms"
+    }
+}
