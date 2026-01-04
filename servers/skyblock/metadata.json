@@ -1,0 +1,52 @@
+{
+    "$schema": "https://pastebin.com/raw/3sLhfSWG",
+    "id": "skyblock",
+    "name": "Skyblock",
+    "description": "The home of Skyblock!",
+    "addresses": [
+        "skyblock.net",
+        "skyblock.org",
+        "skyblock.com"
+    ],
+    "primaryAddress": "skyblock.net",
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "primaryColor": "#000000",
+    "secondaryColor": "#109aef",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "website": "https://skyblock.net/",
+    "store": "https://shop.skyblock.net/",
+    "merch": "https://merch.skyblock.net/",
+    "socials": {
+        "twitter": "Skyblock",
+        "discord": "https://discord.com/invite/sb",
+        "instagram": "skyblock",
+        "tiktok": "@skyblock",
+        "reddit": "Skyblock"
+    },
+    "votingLinks": [
+        "https://findmcserver.com/server/skyblock",
+        "https://minecraft-mp.com/server-s188960",
+        "https://minecraft-server-list.com/server/260405/",
+        "https://minecraftservers.org/server/19809"
+    ],
+    "compliance": {
+        "termsOfService": "https://skyblock.net/help/terms",
+        "privacyPolicy": "https://skyblock.net/privacy/",
+        "rules": "https://skyblock.net/threads/skyblock-server-rules.137983/",
+        "support": "https://skyblock.net/help/"
+    },
+    "crossplay": true
+}
