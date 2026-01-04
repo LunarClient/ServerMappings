@@ -12,8 +12,8 @@
         "Skyblock",
         "Survival"
     ],
-    "primaryColor": "#000000",
-    "secondaryColor": "#109aef",
+    "primaryColor": "#62b542",
+    "secondaryColor": "#ffdb00",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
