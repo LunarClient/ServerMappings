@@ -1,7 +1,7 @@
 {
     "id": "mineorg",
     "name": "MineOrg",
-    "description": "MineOrg est un serveur Minecraft mini-jeux compatible des versions 1.8 à 1.21. Nous proposons différents modes de jeu tel que le SheepWars, BedWars, HikaBrain et tant d'autre!",
+    "description": "MineOrg est un serveur Minecraft mini-jeux compatible des versions 1.8 à 1.21",
     "addresses": ["mineorg.fr"],
     "primaryAddress": "mineorg.fr",
     "minecraftVersions": ["1.8.9"],
