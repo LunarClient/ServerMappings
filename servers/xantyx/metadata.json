@@ -7,7 +7,7 @@
     "addresses": [
         "xantyxnetwork.mc.gg"
     ],
-    "primaryAddress": "xantyxnetwork.mc.gg",
+    "primaryAddress": "xantyxnetwork.gg",
     "primaryColor": "#fdfcf8",
     "secondaryColor": "#97cceb",
     "minecraftVersions": [
@@ -34,6 +34,7 @@
     }
 
 }
+
 
 
 
