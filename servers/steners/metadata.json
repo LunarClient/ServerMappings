@@ -1,7 +1,7 @@
 {
     "id": "steners",
     "name": "Steners",
-    "description": "La competition reincarnee.",
+    "description": "The Competition Reincarnated.",
     "addresses": [
         "steners.fr"
     ],
@@ -31,7 +31,6 @@
     ],
     "website": "https://www.steners.fr",
     "store": "https://store.steners.fr",
-    "presentationVideo": "0hV7XFhFuf4",
     "socials": {
         "twitter": "stenersnetwork",
         "discord": "https://discord.gg/steners/"
