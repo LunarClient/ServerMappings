@@ -40,8 +40,9 @@
     },
     "socials": {
         "instagram": "exodusmcorg",
-        "tiktok": "exodusmc.org",
+        "tiktok": "https://tiktok.com/@exodusmc.org",
         "discord": "https://discord.gg/exodusmc"
     },
     "crossplay": true
+
 }
