@@ -1,0 +1,31 @@
+{
+    "id": "hollowmc",
+    "name": "HollowMC",
+    "website": "https://www.hollowmc.it/",
+    "store": "https://store.hollowmc.it/",
+    "description": "Join our server to have the best italian experience in minecraft!",
+    "addresses": [
+        "hollowmc.it"
+    ],
+    "primaryAddress": "play.hollowmc.it",
+    "primaryColor": "#000000",
+    "secondaryColor": "#800080",
+    "minecraftVersions": [
+        "1.21.*"    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/DaFn9yw3G",
+        "tiktok": "hollowmc.it"
+    }
+}
