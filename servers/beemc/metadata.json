@@ -4,8 +4,7 @@
     "website": "https://beemc.pl/",
     "store": "https://sklep.beemc.pl/",
     "addresses": [
-        "beemc.pl",
-        "193.41.226.236"
+        "beemc.pl"
     ],
     "primaryAddress": "mc.beemc.pl",
     "primaryColor": "#FFD700",
