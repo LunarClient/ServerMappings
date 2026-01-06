@@ -5,7 +5,7 @@
     "store": "https://store.xantyxnetwork.com/",
     "website": "https://www.xantyxnetwork.com/",
     "addresses": [
-        "xantyxnetwork.mc.gg"
+        "xantyxnetwork.mc.gg",
         "play.xantyxnetwork.com"
     ],
     "primaryAddress": "mc.gg",
@@ -35,6 +35,7 @@
     }
 
 }
+
 
 
 
