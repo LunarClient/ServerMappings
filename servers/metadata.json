@@ -1,0 +1,34 @@
+{
+  "id": "bettermc",
+  "name": "bettermc",
+  "description": "Twój ulubiony serwer minecraft",
+  "addresses": [
+    "bettermc.eu"
+  ],
+  "primaryAddress": "bettermc.eu",
+  "gameTypes": [
+    "PvP",
+    "Skyblock",
+    "Survival"
+  ],
+  "primaryColor": "#FFBB00",
+  "secondaryColor": "#F6FF00",
+  "minecraftVersions": [
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "pl"
+  ],
+  "primaryLanguage": "pl",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://www.bettermc.eu",
+  "store": "https://www.bettermc.eu",
+  "socials": {
+    "discord": "https://discord.gg/pqy54U2eDE",
+    "tiktok": "@bmceu"
+  }
+}
