@@ -2,9 +2,9 @@
     "id": "oneblocky",
     "name": "Oneblocky",
     "store": "https://store.oneblocky.com",
-    "description": "The #1 Oneblock SMP!",
+    "description": "The best Oneblock SMP Network!",
     "addresses": [
-        "oneblocky.com",
+        "oneblocky.com"
     ],
     "crossplay": true,
     "primaryAddress": "play.oneblocky.com",
