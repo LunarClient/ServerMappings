@@ -1,7 +1,7 @@
 {
     "id": "mineorg",
     "name": "MineOrg",
-    "description": "MineOrg est un serveur Minecraft mini jeux compatible des versions",
+    "description": "MineOrg is a Minecraft mini-game server.",
     "addresses": ["mineorg.fr"],
     "primaryAddress": "mineorg.fr",
     "minecraftVersions": ["1.8.9"],
