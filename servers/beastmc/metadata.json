@@ -1,0 +1,30 @@
+{
+  "id": "beastmc",
+  "name": "BeastMC Network",
+  "website": "https://beastmc.xyz",
+  "store": "https://tienda.beastmc.xyz",
+  "addresses": [
+    "beastmc.xyz"
+  ],
+  "primaryAddress": "beastmc.xyz",
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#FF6B6B",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*"
+  ],
+  "primaryMinecraftVersion": "1.20",
+  "gameTypes": [
+    "PvP"
+  ],
+  "socials": {
+    "twitter": "BeastMCNW",
+    "discord": "discord.beastmc.xyz"
+  }
+}
