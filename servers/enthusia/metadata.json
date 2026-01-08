@@ -1,5 +1,5 @@
 {
-    "id": "Enthusia",
+    "id": "enthusia",
     "name": "Enthusia",
     "store": "https://store.enthusia.info/",
     "addresses": [
@@ -11,12 +11,15 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.*",
+    "primaryMinecraftVersion": "1.21.8",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
         "Survival"
-    ]
+    ],
+    "socials": {
+        "discord": "https://discord.enthusia.info"
+    }
 }
