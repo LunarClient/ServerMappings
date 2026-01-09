@@ -31,8 +31,7 @@
     "gameTypes": [
         "PvE",
         "Survival",
-        "Adventure",
-        "Custom"
+        "Adventure"
     ],
     "socials": {
         "discord": "https://discord.gg/minemoon",
