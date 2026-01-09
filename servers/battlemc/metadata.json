@@ -4,8 +4,7 @@
     "store": "https://store.battle.lat",
     "description": "PotPvP competitive based server",
     "addresses": [
-        "battle.lat",
-        "mc.battle.lat"
+        "battle.lat"
     ],
     "primaryAddress": "battle.lat",
     "primaryColor": "#ffb800",
