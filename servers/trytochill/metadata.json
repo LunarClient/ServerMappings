@@ -1,7 +1,7 @@
 {
   "id": "trytochill",
   "name": "TryToChill Network",
-  "description": "a PvP and Farming based Minecraft Network with gamemodes such as LifeSteal and Practice",
+  "description": "Minecraft server based on PvP and Farming.",
 
   "addresses": [
     "lystech.org",
@@ -11,10 +11,8 @@
 
   "gameTypes": [
     "PvP",
-    "SkyBlock",
-    "Survival",
-    "Minigames",
-    "Lifesteal"
+    "Skyblock",
+    "Survival"
   ],
 
   "primaryColor": "#FFAAAA",
@@ -56,7 +54,7 @@
   "wiki": "https://wiki.trytochill.net",
 
   "socials": {
-    "discord": "https://discord.trytochill.net",
+    "discord": "https://discord.gg/zvWYrwgUK9",
     "youtube": "@trytochillnetwork"
   },
 
