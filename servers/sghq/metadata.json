@@ -1,18 +1,17 @@
 {
   "id": "sghq",
   "name": "SGHQ Network",
-  "description": "Home of the Survival Games",
-  "primaryColor": "#FFAA00",
+  "description": "Home of the Survival Games. Join thousands of players in epic battles, custom maps, and unique game modes. Compete, survive, and dominate the arena!",
+  "addresses": ["sghq.eu", "play.sghq.eu"],
   "primaryAddress": "play.sghq.eu",
-  "addresses": [
-    "play.sghq.eu",
-    "sghq.eu"
-  ],
-  "minecraftVersions": ["1.7", "1.8"],
-  "primaryLanguage": "en",
-  "languages": ["en", "tr"],
+  "minecraftVersions": ["1.7.*", "1.8.*"],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FF6600",
+  "primaryRegion": "EU",
   "regions": ["EU"],
-  "gameTypes": ["Survival Games", "FFA Arena", "UHC", "Practice"],
+  "gameTypes": ["Survival Games", "Practice", "FFA Arena"],
+  "crossplay": false,
   "website": "https://sghq.eu",
   "store": "https://shop.sghq.eu",
   "socials": {
