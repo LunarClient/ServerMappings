@@ -1,0 +1,21 @@
+{
+  "id": "sghq",
+  "name": "SGHQ Network",
+  "description": "Home of the Survival Games",
+  "primaryColor": "#FFAA00",
+  "primaryAddress": "play.sghq.eu",
+  "addresses": [
+    "play.sghq.eu",
+    "sghq.eu"
+  ],
+  "minecraftVersions": ["1.7", "1.8"],
+  "primaryLanguage": "en",
+  "languages": ["en", "tr"],
+  "regions": ["EU"],
+  "gameTypes": ["Survival Games", "FFA Arena", "UHC", "Practice"],
+  "website": "https://sghq.eu",
+  "store": "https://shop.sghq.eu",
+  "socials": {
+    "discord": "https://discord.gg/sghq"
+  }
+}
