@@ -1,0 +1,32 @@
+{
+  "id": "varyzonmc",
+  "name": "VaryzonMc",
+  "description": "Welcome to VaryzonMC SMP! Build, adventure, grief-proof your base & chase diamonds!",
+  "addresses": [
+    "varyzon.it"
+  ],
+  "primaryAddress": "play.varyzon.it",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21",
+    "1.21.10"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://varyzon.it",
+  "socials": {
+    "discord": "https://discord.gg/bDjSK93xKC",
+    "tiktok": "@varyzonmc_network"
+  }
+}
