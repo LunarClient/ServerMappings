@@ -1,0 +1,52 @@
+{
+    "id": "terramedia",
+    "name": "Terra Média",
+    "website": "https://smpraiz.com.br",
+    "store": "https://smpraiz.com.br/shop",
+    "description": "Medieval RPG-styled survival server with kingdoms and magic.",
+    "addresses": [
+        "smpraiz.com.br"
+    ],
+    "primaryAddress": "terramedia.smpraiz.com.br",
+    "primaryColor": "#ec008d",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.15.*",
+        "1.14.*",
+        "1.13.*",
+        "1.12.*",
+        "1.11.*",
+        "1.10.*",
+        "1.9.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "en"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/5Ts2VJkwpy"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.smpraiz.com.br/privacy",
+        "termsOfService": "https://www.smpraiz.com.br/terms",
+        "rules": "https://www.smpraiz.com.br/rules"
+    }
+}
