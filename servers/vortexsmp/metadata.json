@@ -1,10 +1,9 @@
 {
     "id": "vortexsmp",
     "name": "Vortex SMP",
-    "description": "Serveur Minecraft compétitif avec PvP, économie et events réguliers.",
+    "description": "Serveur Minecraft competitif avec PvP, economie et events reguliers",
     "addresses": [
-        "play.vortex-smp.fr",
-        "events.vortex-smp.fr"
+        "vortex-smp.fr"
     ],
     "primaryAddress": "play.vortex-smp.fr",
     "minecraftVersions": [
@@ -31,7 +30,6 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "PvE",
         "Open World"
     ],
     "website": "https://vortex-smp.fr",
@@ -44,7 +42,7 @@
         "rules": "https://vortex-smp.fr/rules"
     },
     "socials": {
-        "discord": "https://vortex-smp.fr/discord"
+        "discord": "https://discord.gg/xrn2HxRx27"
     },
     "crossplay": false
 }
