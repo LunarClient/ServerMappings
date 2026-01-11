@@ -47,6 +47,7 @@
     "compliance": {
         "privacyPolicy": "https://www.smpraiz.com.br/privacy",
         "termsOfService": "https://www.smpraiz.com.br/terms",
-        "rules": "https://www.smpraiz.com.br/rules"
+        "rules": "https://www.smpraiz.com.br/rules",
+        "support": "https://www.smpraiz.com.br/discord"
     }
 }
