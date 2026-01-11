@@ -3,7 +3,8 @@
     "name": "Vortex SMP",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
-        "play.vortex-smp.fr"
+        "play.vortex-smp.fr",
+        "events.vortex-smp.fr"
     ],
     "primaryAddress": "play.vortex-smp.fr",
     "minecraftVersions": [
