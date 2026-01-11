@@ -1,7 +1,7 @@
 {
     "id": "vortexsmp",
     "name": "Vortex SMP",
-    "description": "Home of Competitive Minecraft PvP",
+    "description": "Serveur Minecraft compétitif avec PvP, économie et events réguliers.",
     "addresses": [
         "play.vortex-smp.fr",
         "events.vortex-smp.fr"
@@ -29,7 +29,10 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP"
+        "Survival",
+        "PvP",
+        "PvE",
+        "Open World"
     ],
     "website": "https://vortex-smp.fr",
     "store": "https://vortex-smp.fr/shop",
