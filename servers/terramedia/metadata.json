@@ -8,8 +8,8 @@
         "smpraiz.com.br"
     ],
     "primaryAddress": "terramedia.smpraiz.com.br",
-    "primaryColor": "#ec008d",
-    "secondaryColor": "#ffffff",
+    "primaryColor": "#00ff22",
+    "secondaryColor": "#00ff91",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
