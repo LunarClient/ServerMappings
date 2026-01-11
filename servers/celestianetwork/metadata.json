@@ -8,7 +8,8 @@
     "primaryAddress": "mc.celestianetwork.net",
     "gameTypes": [
         "PvP",
-        "Survival"
+        "Survival",
+        "Skyblock"
     ],
     "primaryColor": "#3B82F6",
     "secondaryColor": "#8A4FFF",
