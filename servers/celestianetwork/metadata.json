@@ -1,33 +1,23 @@
 {
-    "id": "celestianetwork",
-    "name": "Celestia Network",
-    "description": "Custom Minecraft Factions, Prisons, & Skyblock!",
-    "addresses": [
-        "celestianetwork.net"
-    ],
-    "primaryAddress": "play.celestianetwork.net",
-    "primaryColor": "#245fec",
-    "secondaryColor": "#de2885",
-    "minecraftVersions": [
-        "1.20.*",
-        "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.21",
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "pl"
-    ],
-    "gameTypes": [
-        "SMP",
-        "BedWars",
-        "SkyBlock"
-    ],
-    "socials": {
-        "discord": "https://discord.gg/celestianetwork"
-    }
+  "id": "celestianetwork",
+  "name": "Celestia Network",
+  "description": "BedWars • SMP • SkyBlock (Coming Soon)",
+  "addresses": [
+    "celestianetwork.net"
+  ],
+  "primaryAddress": "mc.celestianetwork.net",
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "primaryColor": "#3B82F6",
+  "secondaryColor": "#8A4FFF",
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.10",
+  "socials": {
+    "discord": "https://discord.gg/celestianetwork"
+  }
 }
