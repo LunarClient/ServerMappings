@@ -4,8 +4,7 @@
     "website": "https://eternitymc.net/",
     "store": "https://store.eternitymc.net/",
     "addresses": [
-        "eternitymc.net",
-        "pvpmania.eu"
+        "eternitymc.net"
     ],
     "primaryAddress": "mc.eternitymc.net",
     "primaryColor": "#00aaaa",
