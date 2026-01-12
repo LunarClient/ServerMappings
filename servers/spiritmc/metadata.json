@@ -28,8 +28,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Practice"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/JfQsfNJsQw"
