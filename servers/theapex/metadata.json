@@ -1,9 +1,32 @@
 {
-  "id": "theapex",
-  "name": "The APEX",
-  "description": "Competitive KitPvP. Payouts",
-  "addresses": ["play.theapex.gg"],
-  "primaryRegion": "EU",
-  "gamemodes": ["PvP"],
-  "version": "1.8"
+    "id": "theapex",
+    "name": "The Apex",
+    "website": "https://theapex.gg",
+    "store": "https://store.theapex.gg",
+    "addresses": [
+        "play.theapex.gg",
+        "theapex.gg"
+    ],
+    "primaryAddress": "play.theapex.gg",
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "KitPvP",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/theapex"
+    }
 }
