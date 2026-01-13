@@ -5,18 +5,18 @@
     "store": "https://shop.realcraftmc.nl",
     "description": "RealCraft is a survival focused server with lots of custom elements!",
     "addresses": [
-        "realcraftmc.nl"
+        "realcraftmc.nl",
+        "hardcoresmp.eu",
+        "hardcoremc.nl"
     ],
     "primaryAddress": "play.realcraftmc.nl",
     "primaryColor": "#4f8910",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
-        "1.20.1",
-        "1.20.2",
-        "1.20.3",
-        "1.20.4"
+        "1.21.10",
+        "1.21.11"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.10",
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
@@ -29,7 +29,8 @@
     "gameTypes": [
         "Survival",
         "Parkour",
-        "PvP"
+        "PvP",
+        "Hardcore"
     ],
     "socials": {
         "discord": "https://discord.com/invite/PkDWeDX48u",
