@@ -1,0 +1,9 @@
+{
+  "id": "theapex",
+  "name": "The APEX",
+  "description": "Competitive KitPvP. Payouts",
+  "addresses": ["play.theapex.gg"],
+  "primaryRegion": "EU",
+  "gamemodes": ["PvP"],
+  "version": "1.8"
+}
