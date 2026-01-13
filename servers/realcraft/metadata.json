@@ -28,7 +28,6 @@
     ],
     "gameTypes": [
         "Survival",
-        "Parkour",
         "PvP",
         "Hardcore"
     ],
