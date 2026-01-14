@@ -5,9 +5,9 @@
     "store": "https://store.xantyxnetwork.com/",
     "website": "https://www.xantyxnetwork.com/",
     "addresses": [
-        "xantyxnetwork.mc.gg"
+        "xantyxnetwork.com"
     ],
-    "primaryAddress": "xantyxnetwork.mc.gg",
+    "primaryAddress": "xantyxnetwork.com",
     "primaryColor": "#fdfcf8",
     "secondaryColor": "#97cceb",
     "minecraftVersions": [
@@ -34,4 +34,5 @@
     }
 
 }
+
 
