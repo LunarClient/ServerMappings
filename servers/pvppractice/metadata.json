@@ -3,7 +3,8 @@
     "name": "PvPPractice",
     "description": "Simple Minecraft PvP practice server focused on duels and skill improvement.",
     "addresses": [
-        "pvppractice.xyz"
+        "pvppractice.xyz",
+        "*.pvppractice.xyz"
     ],
     "primaryAddress": "pvppractice.xyz",
     "minecraftVersions": [
