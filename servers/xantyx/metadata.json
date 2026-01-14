@@ -5,7 +5,7 @@
     "store": "https://store.xantyxnetwork.com/",
     "website": "https://www.xantyxnetwork.com/",
     "addresses": [
-        "mc.gg"
+        "xantyxnetwork.mc.gg"
     ],
     "primaryAddress": "xantyxnetwork.mc.gg",
     "primaryColor": "#fdfcf8",
@@ -34,3 +34,4 @@
     }
 
 }
+
