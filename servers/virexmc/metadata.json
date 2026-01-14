@@ -1,45 +1,48 @@
 {
-    "id": "virexmc",
-    "name": "VirexMC",
-    "website": "https://virexmc.com",
-    "store": "https://store.virexmc.com",
-    "description": "Home of Competitive & Fun Minecraft Gameplay",
-    "addresses": [
-        "virexmc.com"
-    ],
-    "primaryAddress": "virexmc.com",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.9.*",
-        "1.20.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFD200",
-    "secondaryColor": "#FFB000",
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "ar"
-    ],
-    "primaryRegion": "ME",
-    "regions": [
-        "ME",
-        "EU",
-        "NA",
-        "AS"
-    ],
-    "gameTypes": [
-        "PvP",
-        "Function",
-        "Creative"
-    ],
-    "compliance": {
-        "privacyPolicy": "https://virexmc.com/privacy",
-        "termsOfService": "https://virexmc.com/terms",
-        "rules": "https://virexmc.com/rules"
-    },
-    "socials": {
-        "discord": "https://virexmc.com/discord"
-    },
-    "crossplay": false
+
+ㅤㅤ"id": "virexmc",
+ㅤㅤ"name": "VirexMC",
+ㅤㅤ"website": "https://www.virexmc.com",
+ㅤㅤ"store": "https://store.virexmc.com",
+ㅤㅤ"description": "Home of Competitive Minecraft PvP",
+ㅤㅤ"addresses": [
+ㅤㅤㅤㅤ"virexmc.com",
+ㅤㅤㅤㅤ"virexmc.net",
+ㅤㅤ],
+ㅤㅤ"primaryAddress": "virexmc.com",
+ㅤㅤ"minecraftVersions": [
+ㅤㅤㅤㅤ"1.7.*",
+ㅤㅤㅤㅤ"1.8.*"
+ㅤㅤ],
+ㅤㅤ"primaryMinecraftVersion": "1.8.9",
+ㅤㅤ"primaryColor": "#FFD200",
+ㅤㅤ"secondaryColor": "#FFB000",
+ㅤㅤ"primaryLanguage": "en",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤen"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "EU",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"NA",
+ㅤㅤㅤㅤ"EU",
+ㅤㅤㅤㅤ"OC",
+ㅤㅤㅤㅤ"AS",
+ㅤㅤㅤㅤ"SA"
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"PvP"
+     ㅤ"Creative"
+ㅤㅤ],
+ㅤㅤ"compliance": {
+ㅤㅤㅤㅤ"privacyPolicy": "https://www.virexmc.com/privacy",
+ㅤㅤㅤㅤ"termsOfService": "https://www.virexmc.com/terms",
+ㅤㅤㅤㅤ"rules": "https://www.lunar.gg/rules"
+ㅤㅤ},
+ㅤㅤ"socials": {
+ㅤㅤㅤㅤ"twitter": "VirexMCServer",
+ㅤㅤㅤㅤ"telegram": "VirexMC",
+ㅤㅤㅤㅤ"discord": "https://discord.gg/XK"
+ㅤㅤ},
+ㅤㅤ"crossplay": false
 }
+
