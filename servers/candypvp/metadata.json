@@ -1,12 +1,12 @@
 {
-    "id": "canndymc",
-    "name": "canndymc",
-    "store": "https://canndymc.tebex.io/",
+    "id": "candypvp",
+    "name": "CandyPvP",
+    "store": "https://store.candypvp.com/",
     "description": "A Spanish Minecraft Java Network",
     "addresses": [
-        "canndymc.club"
+        "CandyPvP.com"
     ],
-    "primaryAddress": "canndymc.club",
+    "primaryAddress": "CandyPvP.com",
     "minecraftVersions": [
         "1.8.*",
         "1.19.*",
@@ -22,9 +22,10 @@
     "gameTypes": [
         "Survival",
         "PvP"
+		"HCF"
     ],
     "socials": {
-        "twitter": "Canndymc",
+        "twitter": "CandyPvP",
         "discord": "https://discord.com/invite/QfC3ZZvCtw"
     }
 }
