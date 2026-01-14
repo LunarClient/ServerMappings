@@ -1,31 +1,22 @@
 {
     "id": "candypvp",
     "name": "CandyPvP",
-    "store": "https://store.candypvp.com/",
-    "description": "A Spanish Minecraft Java Network",
+    "website": "https://candypvp.com/",
+    "store": "https://store.candypvp,com/",
     "addresses": [
-        "CandyPvP.com"
+        "candypvp.com"
     ],
-    "primaryAddress": "CandyPvP.com",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.19.*",
-	"1.20.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#df0cc6",
     "secondaryColor": "#ffffff",
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
     "gameTypes": [
-        "Survival",
-        "PvP"
-		"HCF"
+        "HCF",
+        "PvP",
+        "Skyblock"
     ],
     "socials": {
-        "twitter": "CandyPvP",
-        "discord": "https://discord.com/invite/QfC3ZZvCtw"
+        "twitter": "CandyPvp",
+        "discord": "https://discord.gg/GPdurEzJGY",
+        "telegram": "candypvp",
+        "tiktok": "https://www.tiktok.com/@candypvp"
     }
 }
