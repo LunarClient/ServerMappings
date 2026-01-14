@@ -1,0 +1,45 @@
+{
+    "id": "virexmc",
+    "name": "VirexMC",
+    "website": "https://virexmc.com",
+    "store": "https://store.virexmc.com",
+    "description": "Home of Competitive & Fun Minecraft Gameplay",
+    "addresses": [
+        "virexmc.com"
+    ],
+    "primaryAddress": "virexmc.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.9.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD200",
+    "secondaryColor": "#FFB000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "ME",
+    "regions": [
+        "ME",
+        "EU",
+        "NA",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Practice"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://virexmc.com/privacy",
+        "termsOfService": "https://virexmc.com/terms",
+        "rules": "https://virexmc.com/rules"
+    },
+    "socials": {
+        "discord": "https://virexmc.com/discord"
+    },
+    "crossplay": false
+}
