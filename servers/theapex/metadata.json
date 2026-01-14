@@ -4,7 +4,6 @@
     "website": "https://theapex.gg",
     "store": "https://store.theapex.gg",
     "addresses": [
-        "play.theapex.gg",
         "theapex.gg"
     ],
     "primaryAddress": "play.theapex.gg",
@@ -23,7 +22,7 @@
         "en"
     ],
     "gameTypes": [
-        "KitPvP",
+        "HCF",
         "PvP"
     ],
     "socials": {
