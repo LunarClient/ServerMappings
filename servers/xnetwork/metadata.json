@@ -5,8 +5,7 @@
     "store": "https://store.x-network.org/",
     "addresses": [
         "x-network.org",
-        "visualpvp.com",
-        "play.visualpvp.com"
+        "visualpvp.com"
     ],
     "primaryAddress": "x-network.org",
     "primaryColor": "#00FFFF",
