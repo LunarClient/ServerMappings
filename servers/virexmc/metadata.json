@@ -30,8 +30,8 @@
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
-        "Practice"
+        "Function",
+        "Creative"
     ],
     "compliance": {
         "privacyPolicy": "https://virexmc.com/privacy",
