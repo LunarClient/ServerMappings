@@ -1,1 +1,34 @@
-
+{
+    "id": "totemsmp",
+    "name": "TotemSMP Netwerk",
+    "store": "https://store.totemsmp.nl/",
+    "description": "Team, Vecht en Overleef voor een prijs!",
+    "addresses": [
+        "totemsmp.nl"
+    ],
+    "primaryAddress": "play.totemsmp.nl",
+    "primaryColor": "#ffbd30",
+    "secondaryColor": "#b40000",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Hardcore"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/totemsmp",
+        "tiktok": "@totemsmp_officeel"
+    }
+}
