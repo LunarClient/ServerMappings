@@ -1,0 +1,41 @@
+{
+    "id": "minegold",
+    "name": "MineGold Network",
+    "website": "https://minegold.us/",
+    "store": "https://tienda.minegold.us",
+    "description": "Why don't you come in? - The best server.",
+    "addresses": [
+        "minegold.us",
+        "elysium.lat"
+    ],
+    "primaryAddress": "minegold.us",
+    "primaryColor": "#FFDF66",
+    "secondaryColor": "#FFBE41",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/MSWg6SXWV9",
+        "tiktok": "@minegold.network",
+        "youtube": "minegoldnetwork"
+    }
+}

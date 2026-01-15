@@ -1,0 +1,53 @@
+{
+    "id": "warkannetwork",
+    "name": "Warkan Network",
+    "website": "https://warkan.net/",
+    "store": "https://tienda.warkan.net/",
+    "wiki": "https://wiki.warkan.net/",
+    "description": "Server focused on custom Survival modes.",
+    "addresses": [
+        "warkan.net"
+    ],
+    "primaryAddress": "play.warkan.net",
+    "primaryColor": "#FCB508",
+    "secondaryColor": "#AD180A",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/warkan",
+        "twitter": "WarkanNetwork",
+        "instagram": "warkan.network",
+        "tiktok": "@warkannetwork",
+        "youtube": "@warkannetwork"
+    },
+    "presentationVideo": "PBzJHvGgFE8",
+    "votingLinks": [
+        "https://www.40servidoresmc.es/warkan-network",
+        "https://www.planetminecraft.com/server/warkan-network",
+        "https://minecraft-mp.com/server/337889",
+        "https://topg.org/minecraft-servers/server-668558",
+        "https://minecraft-serverlist.com/server/1888",
+        "https://minecraft.buzz/server/12450",
+        "https://mcservidores.com/servidor/902",
+        "https://servidoresdeminecraft.es/server/status/WA80U0Ml/play.warkan.net",
+        "https://best-minecraft-servers.co/server-warkan-network.26105",
+        "https://minecraft-server.net/details/WarkanNetwork"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "redeexe",
+    "name": "EXE",
+    "store": "https://loja.rede-exe.com",
+    "addresses": [
+        "rede-exe.com"
+    ],
+    "primaryAddress": "rede-exe.com",
+    "primaryColor": "#db190b",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "NA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/GzBcxG5Tse"
+    }
+}

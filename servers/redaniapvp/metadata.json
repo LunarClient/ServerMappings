@@ -1,0 +1,32 @@
+{
+    "id": "redaniapvp",
+    "name": "RedaniaPVP",
+    "store": "https://tienda.redaniapvp.net/",
+    "addresses": [
+        "redaniapvp.net"
+    ],
+    "primaryAddress": "redaniapvp.net",
+    "primaryColor": "#F97A25",
+    "secondaryColor": "#FFA96F",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9bkshsEAzB"
+    }
+}

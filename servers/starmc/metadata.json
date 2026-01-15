@@ -1,0 +1,31 @@
+{
+    "id": "starmc",
+    "name": "StarMC Network",
+    "store": "https://starmcv1.tebex.io/",
+    "addresses": [
+        "starmhz.online"
+    ],
+    "primaryAddress": "starmhz.online",
+    "primaryColor": "#2aecff",
+    "secondaryColor": "#45f1ff",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KhkvJamyxH"
+    }
+}

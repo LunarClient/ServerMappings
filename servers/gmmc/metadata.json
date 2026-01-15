@@ -1,0 +1,35 @@
+{
+    "id": "gmmc",
+    "name": "GmMc",
+    "store": "https://www.gmmc.pl/",
+    "description": "Enjoy with friends on GmMc!",
+    "addresses": [
+        "gmmc.pl"
+    ],
+    "primaryAddress": "gmmc.pl",
+    "primaryColor": "#d7dde0",
+    "secondaryColor": "#f8c040",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jEKMfQqvS4",
+        "tiktok": "@gmmc_pl",
+        "youtube": "GMMC_PL"
+    }
+}

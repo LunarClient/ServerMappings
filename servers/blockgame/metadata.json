@@ -3,31 +3,38 @@
     "name": "BlockGame",
     "website": "https://blockgame.us/",
     "store": "https://store.blockgame.us/",
+    "description": "BlockGame is the home of the best legacy combat experience.",
     "addresses": [
-        "stolenco.de",
         "blockgame.us"
     ],
     "primaryAddress": "blockgame.us",
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#458BEF",
     "secondaryColor": "#164072",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
+    "minecraftVersions": [
+        "1.21.*"
     ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Minigames",
+        "UHC"
     ],
     "socials": {
         "twitter": "blockgameus",
-        "discord": "https://discord.com/invite/JJNknRGJGB"
+        "discord": "https://discord.gg/jjnsAsf62e"
+    },
+    "compliance": {
+        "privacyPolicy": "https://blockgame.us/privacy",
+        "termsOfService": "https://blockgame.us/terms",
+        "rules": "https://blockgame.us/rules"
     }
 }

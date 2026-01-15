@@ -1,0 +1,33 @@
+{
+    "id": "azure",
+    "name": "Azure Network",
+    "store": "https://store.azurepvp.cc",
+    "addresses": [
+        "azurepvp.cc"
+    ],
+    "primaryAddress": "azurepvp.cc",
+    "primaryColor": "#00ffcc",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "AzurePvPCC",
+        "discord": "https://discord.gg/Mp2UkpVA6T"
+    }
+}

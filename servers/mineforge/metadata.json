@@ -3,11 +3,13 @@
     "name": "MineForge",
     "website": "https://www.mineforge.net/",
     "store": "https://store.mineforge.id/",
-    "primaryAddress": "play.mineforge.id",
     "addresses": [
         "mineforge.club",
         "mineforge.id"
     ],
+    "primaryAddress": "play.mineforge.id",
+    "primaryColor": "#84e53e",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -18,8 +20,6 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#84e53e",
-    "secondaryColor": "#ffffff",
     "gameTypes": [
         "Survival",
         "Skyblock"

@@ -1,0 +1,28 @@
+{
+    "id": "cofison",
+    "name": "Cofison",
+    "description": "The best competitive server in SA",
+    "addresses": [
+        "cofison.club"
+    ],
+    "primaryAddress": "sa.cofison.club",
+    "primaryColor": "#6a0084",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

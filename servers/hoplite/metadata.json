@@ -2,7 +2,7 @@
     "id": "hoplite",
     "name": "Hoplite",
     "website": "https://hoplite.gg/",
-    "store": "https://hoplite.tebex.io/",
+    "store": "https://store.hoplite.gg/",
     "description": "A Minecraft PvP network with innovative new gamemodes and proximity voice chat",
     "addresses": [
         "hoplite.gg"
@@ -11,10 +11,13 @@
     "primaryColor": "#fcc694",
     "secondaryColor": "#fa3635",
     "minecraftVersions": [
-        "1.20.*"
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
     ],
-    "primaryMinecraftVersion": "1.20.1",
-    "crossplay": false,
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -29,7 +32,7 @@
     ],
     "socials": {
         "twitter": "hoplitenetwork",
-        "discord": "https://discord.com/invite/hoplitenetwork",
+        "discord": "https://discord.com/invite/hoplite",
         "youtube": "UCX3dkuHYteQRdAUlhmu8qaQ"
     },
     "modpack": {

@@ -1,0 +1,24 @@
+{
+    "id": "scapemc",
+    "name": "ScapeMC",
+    "store": "https://scapemcnet.tebex.io/",
+    "addresses": [
+        "scapemc.net"
+    ],
+    "primaryAddress": "scapemc.net",
+    "primaryColor": "#fb8a09",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "scape_network",
+        "discord": "https://discord.com/invite/eeU32wxxHM/",
+        "instagram": "scape_network"
+    }
+}

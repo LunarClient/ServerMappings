@@ -1,0 +1,33 @@
+{
+    "id": "moral",
+    "name": "Moral Network",
+    "description": "Minecraft PvP and Mini-Games server",
+    "addresses": [
+        "moral.rip"
+    ],
+    "primaryAddress": "moral.rip",
+    "primaryColor": "#bf06f7",
+    "secondaryColor": "#700c7b",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "MoralNetwork",
+        "telegram": "Moralnetwork",
+        "discord": "https://discord.com/invite/NBRNvNGuBy"
+    }
+}

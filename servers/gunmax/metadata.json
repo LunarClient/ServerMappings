@@ -1,0 +1,30 @@
+{
+    "id": "gunmax",
+    "name": "GunMax",
+    "addresses": [
+        "gunmax.org"
+    ],
+    "primaryAddress": "play.gunmax.org",
+    "primaryColor": "#00afe7",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gunmax",
+        "telegram": "GunMax_Org"
+    }
+}

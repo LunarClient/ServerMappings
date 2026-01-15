@@ -4,7 +4,8 @@
     "website": "https://www.supercraft.com.es/",
     "store": "https://tienda.supercraft.es/",
     "addresses": [
-        "supercraft.es"
+        "supercraft.es",
+        "supercraft.fun"
     ],
     "primaryAddress": "mc.supercraft.es",
     "primaryColor": "#6fda70",
@@ -29,7 +30,7 @@
         "es-EN"
     ],
     "gameTypes": [
-        "Factions",
+        "Survival",
         "Prison",
         "Skyblock"
     ],
@@ -37,6 +38,9 @@
         "twitter": "Supercraft2020",
         "discord": "https://discord.com/invite/mzQhMNXvhH",
         "youtube": "UCLzU8w7SMbqHL_D1ewpKLBw",
-        "tiktok": "supercraftes"
+        "tiktok": "@supercraftes"
+    },
+    "compliance": {
+        "rules": "https://www.supercraft.com.es/reglas/"
     }
 }

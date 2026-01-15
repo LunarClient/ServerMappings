@@ -1,0 +1,35 @@
+{
+    "id": "extremenetwork",
+    "name": "Extreme Network",
+    "addresses": [
+        "extreme-network.eu",
+        "exmc.club"
+    ],
+    "primaryAddress": "mc.extreme-network.eu",
+    "primaryColor": "#ff0500",
+    "secondaryColor": "#e96a2f",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "UHC",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/extremenetwork"
+    }
+}

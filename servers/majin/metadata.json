@@ -1,20 +1,37 @@
 {
     "id": "majin",
-    "name": "Majin.fr",
+    "name": "Majin",
+    "website": "https://majin.fr",
+    "store": "https://store.majin.fr",
     "addresses": [
-        "majin.fr",
-        "beta.majin.fr"
+        "majin.fr"
     ],
     "primaryAddress": "majin.fr",
+    "primaryColor": "#F65CBF",
+    "secondaryColor": "#FDDE9C",
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
-    "website": "https://www.majin.fr",
-    "store": "https://store.majin.fr",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
     "socials": {
         "twitter": "MajinNetwork",
-        "discord": "https://www.discord.gg/majin"
+        "discord": "https://www.discord.gg/majinserv"
     }
 }

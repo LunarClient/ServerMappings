@@ -1,0 +1,34 @@
+{
+    "id": "pakmc",
+    "name": "PakMC",
+    "description": "First Pakistan hosted Server.Located in Karachi",
+    "addresses": [
+        "pakmc.xyz"
+    ],
+    "primaryAddress": "pakmc.xyz",
+    "primaryColor": "#08FB50",
+    "secondaryColor": "#51FF84",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/QFYXTQPM"
+    }
+}

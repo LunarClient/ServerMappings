@@ -1,33 +1,34 @@
 {
     "id": "mcroyal",
     "name": "McRoyal",
-    "description": "Serveur Minecraft PVP Factions d'exception!",
     "website": "https://mcroyal.fr/",
     "store": "https://mcroyal.fr/boutique",
+    "description": "Exceptional Minecraft PvP/Factions server!",
     "addresses": [
         "mcroyal.fr",
         "mcroyal.eu",
         "mcroyal.net"
     ],
     "primaryAddress": "play.mcroyal.fr",
+    "primaryColor": "#F69E31",
+    "secondaryColor": "#51B8EC",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#F69E31",
-    "secondaryColor": "#51B8EC",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",
@@ -35,7 +36,9 @@
         "Survival"
     ],
     "socials": {
+        "discord": "https://discord.com/invite/mcroyal",
+        "tiktok": "@mcroyal_fr",
         "twitter": "MCROYALfr",
-        "discord": "https://discord.com/invite/mcroyal"
+        "youtube": "McRoyalServeurMinecraft"
     }
 }

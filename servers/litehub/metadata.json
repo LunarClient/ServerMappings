@@ -1,0 +1,25 @@
+{
+    "id": "litehub",
+    "name": "LiteHub.eu",
+    "website": "https://lite-hub.eu/",
+    "addresses": [
+        "lite-hub.eu"
+    ],
+    "primaryAddress": "mc.lite-hub.eu",
+    "primaryColor": "#08b810",
+    "secondaryColor": "#08b810",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XgwHZXqnpb"
+    }
+}

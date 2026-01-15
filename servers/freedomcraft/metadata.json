@@ -1,0 +1,45 @@
+{
+    "id": "freedomcraft",
+    "name": "FreedomCraft Network",
+    "website": "https://freedomcraftmc.com/",
+    "store": "https://www.freedomcraft.shop/",
+    "description": "Face a world of challenging dungeons with class abilities and powerful gear!",
+    "addresses": [
+        "freedomcraftmc.com",
+        "freedomcraft.shop",
+        "freedomcraft.wiki",
+        "freedomcraft.network"
+    ],
+    "primaryAddress": "mc.freedomcraft.network",
+    "primaryColor": "#0A52C7",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Parkour",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "FreedomCraftMC",
+        "discord": "https://discord.com/invite/freedomcraft"
+    },
+    "compliance": {
+        "privacyPolicy": "https://freedomcraftmc.com/privacy",
+        "termsOfService": "https://freedomcraftmc.com/terms",
+        "rules": "https://freedomcraftmc.com/rules"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "wetmc",
+    "name": "WetMC.PL",
+    "store": "https://wetmc.pl",
+    "addresses": [
+        "wetmc.pl"
+    ],
+    "primaryAddress": "wetmc.pl",
+    "primaryColor": "#3bcc53",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/JFWMGe6ymH"
+    }
+}

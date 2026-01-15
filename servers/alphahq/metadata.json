@@ -6,6 +6,8 @@
         "syrex.dev"
     ],
     "primaryAddress": "alphahq.org",
+    "primaryColor": "#d8bd6f",
+    "secondaryColor": "#171616",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -15,7 +17,5 @@
         "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#d8bd6f",
-    "secondaryColor": "#171616"
+    "primaryMinecraftVersion": "1.7.10"
 }

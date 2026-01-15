@@ -3,18 +3,21 @@
     "name": "iostein",
     "website": "https://iostein.net/",
     "store": "https://store.iostein.net/",
-    "description": "CityBuild Server von Alphastein",
+    "description": "CityBuild Server by Alphastein",
     "addresses": [
         "iostein.net",
         "iostein.de"
     ],
     "primaryAddress": "iostein.de",
+    "primaryColor": "#1C894F",
+    "secondaryColor": "#60AC83",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21"
     ],
-    "primaryMinecraftVersion": "1.18.2",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -22,8 +25,6 @@
     "languages": [
         "de"
     ],
-    "primaryColor": "#1C894F",
-    "secondaryColor": "#60AC83",
     "gameTypes": [
         "Survival",
         "PvP",
@@ -31,9 +32,9 @@
     ],
     "socials": {
         "twitter": "iostein",
-        "discord": "https://iostein.net/discord",
+        "discord": "https://discord.com/invite/ZtaybmZqwG",
         "youtube": "iostein",
         "instagram": "iosteinde",
-        "tiktok": "iostein"
+        "tiktok": "@iostein"
     }
 }

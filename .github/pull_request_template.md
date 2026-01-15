@@ -13,7 +13,7 @@
 -   You can view our patterns here: [metadata.schema.json](https://github.com/LunarClient/ServerMappings/blob/master/metadata.schema.json), or take a look below and complete the field checklist:
     -   [ ] `id`: a lowercase string, which should match the folder name _(ex. `myserver`)_
     -   [ ] `name`: a string _(ex. `MyServerPvP`)_
-    -   [ ] `description`: hook between 16 and 80 characters _(ex. `Home of Competitive Minecraft PvP`)_
+    -   [ ] `description`: hook between 16 and 80 characters in English _(ex. `Home of Competitive Minecraft PvP`)_
     -   [ ] `addresses`: an array with lowercase strings _(ex. `["my.server", "your-server.com"]`)_
         -   You do not need to specify subdomains, Lunar Client services automatically detect them.
     -   [ ] `primaryAddress`: the primary address that people connect to with (please include the subdomain if required) _(ex. `mc.my.server`)_
@@ -26,8 +26,11 @@
     -   [ ] `gameTypes`: a list of games that describe the content on your server, must be a max of 3 listed _(ez. `["PVP", "UHC", "HCF"]`)_
     -   [ ] `crossplay`: whether the server has support for Bedrock Edition players (through proxies such as [GeyserMC](https://geysermc.org/))
     -   [ ] (optional) `presentationVideo`: YouTube video ID (in slug) to server trailer / introduction _(ex. `7EV4cPuJvXE`)_
+    -   [ ] (optional) `votingLinks`: an array of urls to your server's listing on voting websites _(ex. `["https://minecraft-mp.com/server-s179012"]`)_
     -   [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) _(ex. `https://www.your-server.com`)_
     -   [ ] (optional) `store`: url of server store, must include URL schema (http:// or https://) _(ex. `https://store.your-server.com`)_
+    -   [ ] (optional) `wiki`: url of server wiki, must include URL schema (http:// or https://) _(ex. `https://wiki.your-server.com`)_
+    -   [ ] (optional) `merch`: url of server merchanise site (if seperate from store), must include URL schema (http:// or https://) _(ex. `https://merch.your-server.com`)_
 
 ### Socials
 
@@ -42,9 +45,11 @@
 -   [ ] (optional) `facebook`: slug of facebook page _(ex. MyServer)_
 
 ### Compliance
+
 -   [ ] (optional) `privacyPolicy`: url to your Privacy Policy _(ex. https://www.lunar.gg/privacy)_
 -   [ ] (optional) `termsOfService`: url to your Terms of Service _(ex. https://www.lunar.gg/terms)_
 -   [ ] (optional) `rules`: url to your Rules _(ex. https://www.lunar.gg/rules)_
+-   [ ] (optional) `support`: url to your Support Site _(ex. https://www.lunar.gg/support)_
 
 ### Media:
 
@@ -53,8 +58,9 @@
 -   [ ] My logo is a `png` file.
 -   [ ] I have uploaded my logo to my server folder _(ex. `lunarnetwork`)_ and named it `logo.png`.
 -   [ ] My logo has a transparent background and is square (1:1 aspect ratio).
--   [ ] My logo is `512` pixels in width and height.
+-   [ ] My logo is at least `512` pixels in width and height.
 -   [ ] My logo is my own property and complies with relevant copyright/privacy laws.
+-   [ ] My logo is not upscaled from a smaller low quality image.
 
 #### Background
 

@@ -3,6 +3,7 @@
     "name": "Elenox Network",
     "website": "https://www.elenox.net/",
     "store": "https://www.elenox.net/store",
+    "description": "Elenox Network - Skyblock & Survival | French server",
     "addresses": [
         "elenox.net"
     ],
@@ -10,13 +11,10 @@
     "primaryColor": "#f48e09",
     "secondaryColor": "#8f949a",
     "minecraftVersions": [
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -27,9 +25,9 @@
     ],
     "socials": {
         "twitter": "ElesiaSAS",
-        "discord": "https://discord.com/invite/a7cQCsfszN",
+        "discord": "https://discord.com/invite/elenox",
         "youtube": "Elesia",
         "instagram": "elenox_network",
-        "tiktok": "elenox_network"
+        "tiktok": "@elenox_network"
     }
 }

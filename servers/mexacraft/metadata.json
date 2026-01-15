@@ -1,0 +1,36 @@
+{
+    "id": "mexacraft",
+    "name": "Mexacraft Network",
+    "store": "https://tienda.mexacraft.net",
+    "addresses": [
+        "mexacraft.net"
+    ],
+    "primaryAddress": "mc.mexacraft.net",
+    "primaryColor": "#efba4d",
+    "secondaryColor": "#e5b302",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/GDe3hT3K6u"
+    }
+}

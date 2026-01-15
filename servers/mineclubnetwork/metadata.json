@@ -1,0 +1,36 @@
+{
+    "id": "mineclubnetwork",
+    "name": "MineClub Network",
+    "website": "http://mineclub.it",
+    "description": "Compete in Survival, build a top Club, join events, dominate ClubSMP rankings!",
+    "addresses": [
+        "mineclub.it"
+    ],
+    "primaryAddress": "play.mineclub.it",
+    "primaryColor": "#16CEF2",
+    "secondaryColor": "#1684DE",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/VEdAEsNz4f"
+    },
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/mineclub",
+        "https://www.minealpha.it/lista-server/mineclub"
+    ]
+}

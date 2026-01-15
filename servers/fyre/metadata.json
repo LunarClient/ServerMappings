@@ -1,0 +1,35 @@
+{
+    "id": "fyre",
+    "name": "Fyre",
+    "store": "https://store.fyre.cc/",
+    "addresses": [
+        "fyre.cc"
+    ],
+    "primaryAddress": "fyre.cc",
+    "primaryColor": "#f26109",
+    "secondaryColor": "#eeba51",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "FyreServices",
+        "discord": "https://discord.com/invite/fyregames",
+        "telegram": "fyregames"
+    }
+}

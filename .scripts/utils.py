@@ -4,6 +4,7 @@ validating images, and converting gif images to sprite sheets.
 """
 
 import json
+import requests
 import os
 
 from PIL import Image as image
@@ -17,12 +18,13 @@ MAJOR_ALL: dict[str, list[str]] = {
     "1.17.*": ["1.17.1", "1.17"],
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
-    "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4"],
+    "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
+    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10", "1.21.11"],
 }
 
 
 def get_all_servers(
-    servers_dir: str, inactive_file: str, include_inactive: bool = True
+    servers_dir: str, inactive_file: str, include_inactive: bool = True, translations: dict[str, dict[str, str]] = {}
 ) -> list:
     """
     This function retrieves all ServerMappings servers within the servers folder
@@ -31,7 +33,7 @@ def get_all_servers(
         servers_dir (str): The directory where the servers are located.
         inactive_file (str): The file containing the inactive servers.
         include_inactive (bool, optional): Whether to include inactive servers. Defaults to True.
-
+        translations (dict[str, dict[str, str]], optional): A dictionary of translations. Defaults to {}.
     Returns:
         list: A list of all servers.
     """
@@ -61,6 +63,10 @@ def get_all_servers(
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
 
+        # Add primary game type
+        game_types = server.get("gameTypes", [])
+        server["primaryGameType"] = game_types[0] if game_types else None
+
         # Enrich server data
         if "id" not in server:
             print(f"Skipping {server_id} as it's missing 'id'")
@@ -71,6 +77,30 @@ def get_all_servers(
         # Discard inactive servers if not including inactive (by default we do)
         if not include_inactive and server["inactive"]:
             continue
+
+        # Generate image URLS
+        server["images"] = {}
+        if os.path.isfile(f"{servers_dir}/{server_id}/logo.png"):
+            server["images"]["logo"] = f"https://servermappings.lunarclientcdn.com/logos/{server_id}.png"
+        if os.path.isfile(f"{servers_dir}/{server_id}/background.png"):
+            server["images"]["background"] = f"https://servermappings.lunarclientcdn.com/backgrounds/{server_id}.png"
+        if os.path.isfile(f"{servers_dir}/{server_id}/banner.png"):
+            server["images"]["banner"] = f"https://servermappings.lunarclientcdn.com/banners/{server_id}.png"
+        if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
+            server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
+        
+        # Add translations for descriptions
+        if translations and "description" in server:
+            # Iterate through each locale and add the description if it exists
+            for locale, translation in translations.items():
+                if server["id"] in translation:
+                    # Create key if it doesn't exist
+                    if "localizedDescriptions" not in server:
+                        server["localizedDescriptions"] = {}
+
+                    # Add the translation if doesnt match
+                    if translation[server["id"]]["description"] != server["description"]:
+                        server["localizedDescriptions"][locale] = translation[server["id"]]["description"]
 
         # Add to list
         servers.append(server)
@@ -134,6 +164,37 @@ def is_enriched(server: dict, server_id: str, servers_dir: str) -> bool:
     return True
 
 
+def get_edited_servers():
+    """
+    This gets all the edited servers in this pull request
+
+    Returns:
+        set[str]: A set of server IDs that have been edited in this pull request.
+    """
+    pull_id = os.getenv("PR_ID")
+    edited_server_ids = set() # 4 files in a server can be edited
+
+    if not pull_id:
+        print("No pull request id found. Unable to get edited servers")
+        return edited_server_ids
+
+    res = requests.get(
+            f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
+            headers={
+                "accept": "application/vnd.github+json",
+                "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
+            }
+        )
+    
+    for file in res.json():
+        file_name: str = file['filename']
+        if not file_name.startswith("servers/"):
+            continue
+        split_path = file_name.split("/")
+        edited_server_ids.add(split_path[1])
+    return edited_server_ids
+
+
 def gif_to_sprite_sheet(path):
     """
     This function converts a gif image to a sprite sheet.
@@ -182,19 +243,19 @@ def validate_logo(path, server_name) -> list[str]:
     # Check image format is a PNG
     if logo_image.format not in ["PNG"]:
         errors.append(
-            f"{server_name}'s server logo is not a PNG (currently {logo_image.format})... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server logo is not a PNG (currently {logo_image.format})..."
         )
 
     # Check image dimensions are a 1:1 ratio
     if logo_image.width != logo_image.height:
         errors.append(
-            f"{server_name}'s server logo does not have a 1:1 aspect ratio... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server logo does not have a 1:1 aspect ratio..."
         )
 
     # Check image dimensions are at least 512px
     if logo_image.width < 512:
         errors.append(
-            f"{server_name}'s server logo width/height is less than 512px... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server logo width/height is less than 512px..."
         )
 
     return errors
@@ -227,20 +288,20 @@ def validate_background(path, server_name) -> list[str]:
     # Check image format is a PNG
     if background_image.format not in ["PNG"]:
         errors.append(
-            f"{server_name}'s server background is not a PNG (currently {background_image.format})... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server background is not a PNG (currently {background_image.format})..."
         )
 
     # Check image dimensions are a 16:9 ratio
-    rounded_ratio = round(background_image.width / background_image.height, 2)
-    if rounded_ratio != 1.78:
+    aspect_ratio = round(background_image.width / background_image.height, 2)
+    if aspect_ratio != 1.78:
         errors.append(
-            f"{server_name}'s server background does not have a 16:9 aspect ratio... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server background does not have a 16:9 aspect ratio..."
         )
 
     # Check image dimensions are at least 512px
     if background_image.width < 1920:
         errors.append(
-            f"{server_name}'s server background resolution is less than 1920x1080... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server background resolution is less than 1920x1080..."
         )
 
     return errors
@@ -250,8 +311,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     """
     Validate that server banner meets the following requirements:
       * is a PNG or GIF
-      * has a 39:5 aspect ratio
-      * is greater than 340 pixels in width and 45 pixels in height
+      * is 468x60 pixels
       * we can convert it to a sprite image without it erroring.
 
     Parameters:
@@ -273,7 +333,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     # Incorrect input format
     if banner_image.format not in {"PNG", "GIF"}:
         errors.append(
-            f"{server_name}'s server banner is not a PNG or GIF (currently {banner_image.format})... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server banner is not a PNG or GIF (currently {banner_image.format})..."
         )
 
     # Process GIF properties
@@ -289,35 +349,89 @@ def validate_banner(path: str, server_name: str) -> list[str]:
         # GIF too long
         if total_duration > 15_000:
             errors.append(
-                f"{server_name}'s server banner is more than 15 seconds long (currently {total_duration / 1000})... Please ensure the image meets the requirements before proceeding."
+                f"{server_name}'s server banner is more than 15 seconds long (currently {total_duration / 1000})..."
             )
 
         # No duration found
         if total_duration == 0:
             errors.append(
-                f"{server_name}'s server gif server banner seems to not have any duration associated with it... Please ensure the image meets the requirements before proceeding."
+                f"{server_name}'s server gif server banner seems to not have any duration associated with it..."
             )
 
-    aspect_ratio = round(banner_image.width / banner_image.height, 3)
+    if banner_image.width != 468 or banner_image.height != 60:
+        errors.append(f"{server_name}'s server banner is not 468x60...")
 
     sprite = gif_to_sprite_sheet(path)
 
     # Too big
     if sprite.height > 16383 or sprite.width > 16383:
         errors.append(
-            f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later... Please ensure the image meets the requirements before proceeding."
+            f"{server_name}'s server banner is either too tall as a sprite image, or too wide. we're unable to convert this later..."
         )
 
-    # Incorrect aspect ratio
-    if aspect_ratio != 7.8:
-        errors.append(
-            f"{server_name}'s server banner does not have a 39:5 aspect ratio... Please ensure the image meets the requirements before proceeding."
-        )
-
-    # Width too small
-    if banner_image.width < 351:
-        errors.append(
-            f"{server_name}'s server banner is less than 351x45... Please ensure the image meets the requirements before proceeding."
-        )
 
     return errors
+
+def validate_wordmark(path: str, server_name: str) -> list[str]:
+    """
+    Validate that server wordmark meets the following requirements:
+      * is a PNG
+      * has a 16:9 aspect ratio
+      * is greater than 854 pixels in width and 480 pixels in height
+
+    Parameters:
+        path (str): The path to the server wordmark.
+        server_name (str): The name of the server.
+
+    Returns:
+        list: A list of error messages if the wordmark does not meet the requirements. If the
+              banner meets all the requirements, an empty list is returned.
+    """
+
+    if not os.path.isfile(path):
+        print(f"No wordmark found for {server_name}... skipping.")
+        return []
+    
+    wordmark_image = image.open(path)
+    errors = []
+
+    # Check image format is a PNG
+    if wordmark_image.format not in ["PNG"]:
+        errors.append(
+            f"{server_name}'s server wordmark is not a PNG (currently {wordmark_image.format})..."
+        )
+    
+
+    # Width or height too small
+    if wordmark_image.width < 854 or wordmark_image.height < 480:
+        errors.append(
+            f"{server_name}'s server wordmark is less than 854x480..."
+        )
+    
+
+    aspect_ratio = round(wordmark_image.width / wordmark_image.height, 2)
+    # Incorrect aspect ratio
+    if aspect_ratio != 1.78:
+        errors.append(
+            f"{server_name}'s server wordmark does not have a 16:9 aspect ratio..."
+        )
+
+    
+    return errors
+
+
+def collect_translations(servers: list[dict]) -> dict:
+    """
+    Collects the translations from the servers list
+
+    Parameters:
+        servers (list): The list of servers.
+
+    Returns:
+        dict: A dictionary of server IDs and their descriptions.
+    """
+    translations = {}
+    for server in servers:
+        if 'description' in server:
+            translations[server['id']] = { "description": server['description'] }
+    return translations

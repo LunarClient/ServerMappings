@@ -1,0 +1,23 @@
+{
+    "id": "supersmp",
+    "name": "SuperSMP",
+    "store": "https://store.supersmp.fun/",
+    "description": "A friendly SMP for all to enjoy!",
+    "addresses": [
+        "supersmp.fun"
+    ],
+    "primaryAddress": "supersmp.fun",
+    "primaryColor": "#d3d5d6",
+    "secondaryColor": "#ffff00",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/supersmp",
+        "tiktok": "@join_supersmp.fun"
+    }
+}

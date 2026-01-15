@@ -3,9 +3,11 @@
     "name": "SummonCraft Network",
     "store": "https://store.summoncraft.xyz",
     "addresses": [
-      "summoncraft.xyz"
+      "summoncraft.xyz",
+      "summoncraft.us",
+      "summoncraft.es"
     ],
-    "primaryAddress": "summoncraft.xyz",
+    "primaryAddress": "summoncraft.es",
     "primaryColor": "#D200FF",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
@@ -13,15 +15,15 @@
       "1.17.*",
       "1.18.*",
       "1.19.*",
-      "1.20.*"
+      "1.20.*",
+      "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.16.5",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
     "regions": [
       "NA"
     ],
     "gameTypes": [
-      "PvP",
       "Survival"
     ],
     "socials": {

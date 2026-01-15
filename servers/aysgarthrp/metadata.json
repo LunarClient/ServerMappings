@@ -1,0 +1,31 @@
+{
+    "id": "aysgarthrp",
+    "name": "AysgarthRP.it",
+    "website": "https://aysgarthrp.it/",
+    "store": "https://store.aysgarthrp.it/",
+    "description": "Step into an Italian medieval roleplay server and experience history firsthand",
+    "addresses": [
+        "aysgarthrp.it"
+    ],
+    "primaryAddress": "aysgarthrp.it",
+    "primaryColor": "#cceeff",
+    "secondaryColor": "#335a77",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "PvP"
+    ],
+    "socials": {
+        "telegram": "AysgarthRP",
+        "discord": "https://discord.gg/yGQGNEn9bY"
+    }
+}

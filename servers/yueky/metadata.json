@@ -1,0 +1,32 @@
+{
+    "id": "yueky",
+    "name": "Yueky",
+    "store": "https://mc.yueky.com/store",
+    "description": "Practice and more.",
+    "addresses": [
+        "yueky.com"
+    ],
+    "primaryAddress": "yueky.com",
+    "primaryColor": "#4CBDE4",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/NpaZn7VM"
+    }
+}

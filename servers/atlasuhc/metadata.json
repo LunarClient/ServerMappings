@@ -1,26 +1,53 @@
 {
     "id": "atlasuhc",
-    "name": "AtlasUHC",
-    "description": "Serveur UHC français.",
+    "name": "Atlas",
+    "description": "French competitive UHC and Arena server featuring unique game modes and events.",
     "addresses": [
         "atlasmc.fr"
     ],
-    "primaryAddress": "atlasmc.fr",
-    "primaryColor": "#ffd700",
-    "secondaryColor": "#ffffff",
-    "minecraftVersions": [
-        "1.8.9"
+    "primaryAddress": "play.atlasmc.fr",
+    "primaryColor": "#FDE658",
+    "secondaryColor": "#44C9EE",
+    "minecraftVersions": [     
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.4",
+        "1.20.6",
+        "1.21",
+        "1.21.4"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
     "gameTypes": [
-        "UHC"
-    ]
+        "UHC",
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://atlasmc.fr/",
+    "store": "https://atlasmc.fr/shop",
+    "wiki": "https://doc.atlasmc.fr/",
+    "socials": {
+        "discord": "https://discord.gg/atlasmc",
+        "twitter": "UHC_Atlas",
+        "youtube": "@AtlasUHC",
+        "tiktok": "@atlasuhc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://atlasmc.fr/politique-confidentialite",
+        "termsOfService": "https://atlasmc.fr/cgu",
+        "rules": "https://atlasmc.fr/reglement",
+        "support": "https://discord.gg/atlasmc"
+    }
 }

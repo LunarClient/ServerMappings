@@ -1,0 +1,31 @@
+{
+    "id": "hycorinetwork",
+    "name": "Hycori Network",
+    "store": "http://tienda.hycori.lat/",
+    "description": "A BoxPVP network",
+    "addresses": [
+        "hycori.lat"
+    ],
+    "primaryAddress": "hycori.lat",
+    "primaryColor": "#076e15",
+    "secondaryColor": "#dca35e",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hycori"
+    }
+}

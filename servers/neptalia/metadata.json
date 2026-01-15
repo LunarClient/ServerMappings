@@ -1,0 +1,23 @@
+{
+    "id": "neptalia",
+    "name": "Neptalia",
+    "website": "https://neptalia.fr/",
+    "store": "https://boutique.neptalia.fr",
+    "addresses": [
+        "neptalia.fr"
+    ],
+    "primaryAddress": "play.neptalia.fr",
+    "primaryColor": "#FF9700",
+    "secondaryColor": "#130B76",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/neptalia"
+    }
+}

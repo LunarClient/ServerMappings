@@ -1,0 +1,32 @@
+{
+    "id": "epsilonmc",
+    "name": "epsilonmc",
+    "website": "https://epsilonmc.fr/",
+    "store": "https://epsilonmc.fr/shop",
+    "addresses": [
+        "epsilonmc.fr"
+    ],
+    "primaryAddress": "play.epsilonmc.fr",
+    "primaryColor": "#ff9700",
+    "secondaryColor": "#fcfe46",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/nDuYQPufq7"
+    }
+}

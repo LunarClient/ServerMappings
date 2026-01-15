@@ -1,0 +1,39 @@
+{
+    "id": "pokecube",
+    "name": "PokeCube",
+    "website": "https://www.pokecube.it",
+    "store": "https://store.pokecube.it",
+    "description": "Pokecube is an Italian pixelmon server",
+    "addresses": [
+        "pokecube.it"
+    ],
+    "primaryAddress": "mc.pokecube.it",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "youtube": "pokecube.network",
+        "tiktok": "@PokeCube.Network",
+        "discord": "https://discord.gg/pokecube",
+        "twitch": "pokecube_network",
+        "instagram": "PokeCube.Network"
+    }
+}

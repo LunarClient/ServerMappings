@@ -1,0 +1,25 @@
+{
+    "id": "minewild",
+    "name": "MineWild",
+    "store": "https://shop.minewild.net",
+    "description": "The most unique Survial Experience!",
+    "addresses": [
+        "minewild.net"
+    ],
+    "primaryAddress": "play.minewild.net",
+    "primaryColor": "#70bc6d",
+    "secondaryColor": "#bca36d",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "gameTypes": [
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minewild"
+    }
+}

@@ -3,9 +3,9 @@
     "name": "HaliaCraft",
     "website": "https://haliacraft.com/",
     "store": "https://tienda.haliacraft.com/",
-    "description": "Proporcionamos experiencias de juego PVE de alta calidad.",
+    "description": "We provide high quality PVE gaming experiences.",
     "addresses": [
-        "mc.haliacraft.com"
+        "haliacraft.com"
     ],
     "primaryAddress": "mc.haliacraft.com",
     "primaryColor": "#ecb94f",
@@ -22,7 +22,8 @@
     "crossplay": false,
     "primaryRegion": "SA",
     "regions": [
-        "NA", "SA"
+        "NA",
+        "SA"
     ],
     "primaryLanguage": "es-EN",
     "languages": [
@@ -38,7 +39,7 @@
         "discord": "https://discord.com/invite/haliacraft",
         "youtube": "Haliacraftnt",
         "instagram": "haliacraftnt",
-        "tiktok": "haliacraftnt",
+        "tiktok": "@haliacraftnt",
         "facebook": "Haliacraftnt"
     }
 }

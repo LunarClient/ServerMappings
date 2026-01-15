@@ -1,36 +1,36 @@
 {
     "id": "balkanland",
     "name": "BalkanLand Network",
+    "website": "https://play.balkanland.xyz",
+    "store": "https://store.balkanland.xyz",
     "addresses": [
         "balkanland.xyz",
         "mcbalkanland.xyz"
     ],
     "primaryAddress": "play.balkanland.xyz",
+    "primaryColor": "#8F41DC",
+    "secondaryColor": "#52257D",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#8F41DC",
-    "secondaryColor": "#52257D",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "website": "https://play.balkanland.xyz",
-    "store": "https://store.balkanland.xyz",
     "socials": {
-        "tiktok": "@balkanland8",
-        "discord": "https://discord.gg/balkanland-1079043253124477040"
-    },
-    "crossplay": false
+        "discord": "https://discord.gg/balkanland-1079043253124477040",
+        "tiktok": "@balkanland8"
+    }
 }

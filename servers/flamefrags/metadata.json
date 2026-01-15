@@ -1,0 +1,35 @@
+{
+    "id": "flamefrags",
+    "name": "FlameFrags",
+    "store": "https://store.flamefrags.com/",
+    "description": "Competitive PvP, Survival & Events!",
+    "addresses": [
+        "flamefrags.com"
+    ],
+    "primaryAddress": "play.flamefrags.com",
+    "primaryColor": "#fdd604",
+    "secondaryColor": "#f92228",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/flamefragsmc"
+    },
+    "compliance": {
+        "rules": "https://store.flamefrags.com/rules"
+    }
+}

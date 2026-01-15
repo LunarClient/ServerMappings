@@ -1,0 +1,33 @@
+{
+    "id": "watermcnetwork",
+    "name": "WaterMC Network",
+    "store": "https://store.watermc.gg/",
+    "addresses": [
+        "watermc.gg"
+    ],
+    "primaryAddress": "watermc.gg",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#05e7f7",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "NetworkWaterMC",
+        "discord": "https://discord.com/invite/3CTTwgRZae"
+    }
+}

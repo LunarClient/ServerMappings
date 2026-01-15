@@ -1,0 +1,34 @@
+{
+    "id": "skyward",
+    "name": "Skyward",
+    "website": "https://playskyward.gg/",
+    "store": "https://store.lunarclient.com/category/skyward",
+    "description": "Embark on a cosmic adventure in Skyward, a story-driven saga!",
+    "addresses": [
+        "playskyward.gg"
+    ],
+    "primaryAddress": "lunar.playskyward.gg",
+    "primaryColor": "#0053e2",
+    "secondaryColor": "#ffc220",
+    "minecraftVersions": [
+        "1.21.3"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Roleplay",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/8GuNA6zN4c"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "mcmaukissa",
+    "name": "mcmaukissa",
+    "website": "https://www.maukissa.com/",
+    "description": "mcmaukissa is a Minecraft server with a lot of gamemodes.",
+    "addresses": [
+        "maukissa.com"
+    ],
+    "primaryAddress": "mc.maukissa.com",
+    "primaryColor": "#00F3FF",
+    "secondaryColor": "#6400FF",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/eydmsqeJmj"
+    }
+}

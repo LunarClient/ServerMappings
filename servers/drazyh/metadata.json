@@ -1,0 +1,34 @@
+{
+    "id": "drazyh",
+    "name": "Drazyh",
+    "store": "https://loja.drazyh.com",
+    "description": "Drazyh is a Minecraft 1.8.9 PvP server network.",
+    "addresses": [
+        "drazyh.com"
+    ],
+    "primaryAddress": "drazyh.com",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/gdmqvRgzGf"
+    }
+}

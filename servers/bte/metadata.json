@@ -1,0 +1,77 @@
+{
+    "id": "bte",
+    "name": "Build The Earth",
+    "website": "https://buildtheearth.net",
+    "description": "Recreating The Whole Earth In Minecraft",
+    "addresses": [
+        "buildtheearth.net",
+        "nabte.net",
+        "bte-germany.de",
+        "andromedacraft.com",
+        "buildtheearth.ru",
+        "nordicbalticbte.net",
+        "alps-bte.com",
+        "btecanada.net",
+        "bteuk.net",
+        "btefrance.fr",
+        "bteoce.com",
+        "btehkmu.net",
+        "btemexca.net",
+        "bteconosur.com",
+        "bteromania.ro",
+        "bteukraine.com",
+        "btekorea.net"
+    ],
+    "primaryAddress": "buildtheearth.net",
+    "primaryColor": "#1971C2",
+    "secondaryColor": "#2F9E44",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN",
+        "it",
+        "tr",
+        "ar",
+        "zh-CN",
+        "nl",
+        "fr",
+        "de",
+        "el",
+        "ja",
+        "ko",
+        "lt",
+        "no",
+        "pl"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "socials": {
+        "twitter": "buildtheearth_",
+        "discord": "https://discord.com/invite/buildtheearth-net-690908396404080650",
+        "instagram": "buildtheearth_",
+        "twitch": "buildtheearth",
+        "tiktok": "@buildtheearth",
+        "facebook": "BuildTheEarth"
+    },
+    "presentationVideo": "yge606ivgls"
+}

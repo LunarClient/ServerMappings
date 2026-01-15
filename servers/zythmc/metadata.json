@@ -1,0 +1,47 @@
+{
+    "id": "zythmc",
+    "name": "ZythMC",
+    "website": "https://zyth.me/",
+    "store": "https://zyth.me/store",
+    "description": "ZythMC is a Minecraft server dedicated to quality. We have Bedwars and Factions.",
+    "addresses": [
+        "zyth.me"
+    ],
+    "primaryAddress": "zyth.me",
+    "primaryColor": "#6000CF",
+    "secondaryColor": "#191919",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "AF",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "ZythMC",
+        "discord": "https://discord.com/invite/r6zjHawMsJ"
+    }
+}
