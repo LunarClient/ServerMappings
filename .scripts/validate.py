@@ -36,6 +36,16 @@ FILE_WHITELIST = [
     "docs",
 ]
 
+HOSTING_DOMAIN_BLACKLIST = [
+    # https://apexminecrafthosting.com/
+    "mc.gg",
+    "apexmc.co",
+    # https://lilypad.gg/
+    "smp.fan",
+    "modpack.lol",
+    "minecraft.vodka",
+    "minecraft.horse"
+]
 
 
 
@@ -257,6 +267,10 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                             continue
 
                         domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
+
+                        if domain is not None and domain.fld in HOSTING_DOMAIN_BLACKLIST:
+                            messages[server_id].append(f"The domain {domain.fld} belongs to a hosting provider. You must use a custom domain that you fully own (e.g. myserver.com instead of myserver.hosting.com). Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata#addresses).")
+                        
                         if domain is not None and domain.subdomain:
                             messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
                         
