@@ -5,7 +5,7 @@
     "addresses": [
         "c3smp.net"
     ],
-    "primaryAddress": "c3smp.net",
+    "primaryAddress": "play.c3smp.net",
     "primaryColor": "#00FF00",
     "secondaryColor": "#228B22",
     "minecraftVersions": [
@@ -26,6 +26,7 @@
         "PvP"
     ],
     "store": "https://store.c3smp.net",
+    "crossplay": true,
     "socials": {
         "discord": "https://discord.gg/c3gaming",
         "youtube": "@colin3dge",
