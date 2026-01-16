@@ -3,11 +3,9 @@
     "name": "C3SMP",
     "description": "A sharded Minecraft SMP server and PVP that allows Bedrock",
     "addresses": [
-        "play.c3smp.net",
-        "na.c3smp.net",
-        "eu.c3smp.net"
+        "c3smp.net"
     ],
-    "primaryAddress": "play.c3smp.net",
+    "primaryAddress": "c3smp.net",
     "primaryColor": "#00FF00",
     "secondaryColor": "#228B22",
     "minecraftVersions": [
