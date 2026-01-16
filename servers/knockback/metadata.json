@@ -19,9 +19,9 @@
     ],
     "primaryMinecraftVersion": "1.21.10",
     "crossplay": false,
-    "primaryRegion": "AU",
+    "primaryRegion": "OC",
     "regions": [
-        "AU"
+        "OC"
     ],
     "primaryLanguage": "en",
     "languages": [
