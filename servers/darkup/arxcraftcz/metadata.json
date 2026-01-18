@@ -1,0 +1,34 @@
+{
+    "id": "arxcraftcz",
+    "name": "Arxcraft.cz",
+    "website": "https://arxcraft.cz/",
+    "store": "https://store.arxcraft.cz/",
+    "addresses": [
+        "arxcraft.cz"
+    ],
+    "primaryAddress": "arxcraft.cz",
+    "primaryColor": "#FCE040",
+    "secondaryColor": "#111111",
+    "minecraftVersions": [
+        "1.21.4*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "cs-CZ",
+    "languages": [
+        "cs-CZ"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/h6N4aJNfAt",
+        "youtube": "arxcraftcz",
+        "instagram": "arxcraftcz",
+        "tiktok": "arxcraft.cz"
+    }
+}
