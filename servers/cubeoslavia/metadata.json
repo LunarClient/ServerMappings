@@ -16,21 +16,9 @@
     "primaryMinecraftVersion": "1.21.10",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
-    "primaryLanguage": "hr",
-    "languages": [
-        "en"
-    ],
-    "primaryRegion": "HR",
-    "regions": [
-        "HR",
-        "RS",
-        "BA"
-    ],
     "gameTypes": [
         "PvP",
         "Survival",
-        "Towny",
-        "Bedwars",
         "Skyblock"
     ],
     "store": "http://shop.cube-o-slavia.eu/",
