@@ -1,0 +1,30 @@
+{
+    "id": "fishmc",
+    "name": "FishMC",
+    "description": "SkyBlock, PvE",
+    "addresses": [
+        "fishmc.fr"
+    ],
+    "primaryAddress": "play.fishmc.fr",
+    "gameTypes": [
+        "PvE",
+        "SkyBlock"
+    ],
+    "primaryColor": "#FCB454",
+    "secondaryColor": "#FCB454",
+    "primaryMinecraftVersion": "1.21.4",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/fishmc"
+    }
+}
