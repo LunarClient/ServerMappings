@@ -8,7 +8,8 @@
     "primaryAddress": "play.fishmc.fr",
     "gameTypes": [
         "PvE",
-        "SkyBlock"
+        "Skyblock",
+        "Survival"
     ],
     "primaryColor": "#FCB454",
     "secondaryColor": "#FCB454",
@@ -27,4 +28,5 @@
     "socials": {
         "discord": "https://discord.com/invite/fishmc"
     }
+
 }
