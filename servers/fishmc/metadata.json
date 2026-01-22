@@ -1,7 +1,7 @@
 {
     "id": "fishmc",
     "name": "FishMC",
-    "description": "SkyBlock, PvE",
+    "description": "SkyBlock, PvE & Survival",
     "addresses": [
         "fishmc.fr"
     ],
@@ -30,3 +30,4 @@
     }
 
 }
+
