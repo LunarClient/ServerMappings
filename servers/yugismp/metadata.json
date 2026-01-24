@@ -7,8 +7,8 @@
         "yugismp.de"
     ],
     "primaryAddress": "yugismp.de",
-    "primaryColor": "#c316ff",
-    "secondaryColor": "#7500ff",
+    "primaryColor": "#7500ff",
+    "secondaryColor": "#c316ff",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
@@ -33,4 +33,5 @@
         "youtube": "yugiyx212",
         "tiktok": "@yugiyx212"
     }
+
 }
