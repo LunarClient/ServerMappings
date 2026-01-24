@@ -31,7 +31,8 @@
     "PvP"
   ],
   "socials": {
-    "discord": "https://discord.gg/sourmc"
+    "discord": "https://discord.com/invite/sourmc"
   },
-  "description": "Public EU-based Survival / PvP server."
+  "description": "Public EU-based Survival / PvP server.",
+  "crossplay": true
 }

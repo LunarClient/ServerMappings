@@ -1,0 +1,25 @@
+{
+    "id": "enthusia",
+    "name": "Enthusia",
+    "store": "https://store.enthusia.info/",
+    "addresses": [
+        "enthusia.info"
+    ],
+    "primaryAddress": "play.enthusia.info",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#E5A700",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/qGpSvbTX6z"
+    }
+}
