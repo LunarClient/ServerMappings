@@ -3,25 +3,31 @@
     "name": "NokBox",
     "store": "https://tienda.nokbox.net/",
     "addresses": [
-        "nokbox.org"
+        "nokbox.org",
+        "nokbox.es",
+        "nokbox.net"
     ],
-    "primaryAddress": "nokbox.org",
+    "primaryAddress": "nokbox.es",
     "primaryColor": "#7f3ae7",
-    "secondaryColor": "#b9b8b8",
+    "secondaryColor": "#dc40ff",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3"
     ],
-    "primaryMinecraftVersion": "1.16.5",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
         "PvP",
-        "Minigames"
+        "PvE"
     ],
     "socials": {
         "discord": "https://discord.com/invite/nokbox"
