@@ -1,0 +1,37 @@
+{
+    "id": "yugismp",
+    "name": "YugiSMP",
+    "apply": "https://apply.yugismp.de/",
+    "store": "https://store.yugismp.de/",
+    "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
+    "addresses": [
+        "yugismp.de"
+    ],
+    "primaryAddress": "yugismp.de",
+    "primaryColor": "#c316ff",
+    "secondaryColor": "#7500ff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kb8mG6QBxg",
+        "youtube": "yugiyx212",
+        "tiktok": "@yugiyx212"
+    }
+}
