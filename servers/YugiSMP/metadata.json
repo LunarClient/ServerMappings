@@ -1,7 +1,6 @@
 {
     "id": "yugismp",
     "name": "YugiSMP",
-    "apply": "https://apply.yugismp.de/",
     "store": "https://store.yugismp.de/",
     "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
     "addresses": [
@@ -34,4 +33,5 @@
         "youtube": "yugiyx212",
         "tiktok": "@yugiyx212"
     }
+
 }
