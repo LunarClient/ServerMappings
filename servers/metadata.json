@@ -1,0 +1,9 @@
+{
+    "id": "skillwars",
+    "name": "SkillWars Network",
+    "addresses": [
+        "mc.skillwars.lat"
+    ],
+    "primaryColor": "#922ecf",
+    "secondaryColor": "#130a15"
+}
