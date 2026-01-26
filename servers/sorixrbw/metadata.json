@@ -9,9 +9,9 @@
     ],
     "primaryAddress": "srbw.org",
     "minecraftVersions": [
-        "1.8.*"
+        "1.8.9"
     ],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#FC0A0A",
     "secondaryColor": "#F7B7B7",
     "primaryLanguage": "en",
