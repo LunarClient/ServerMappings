@@ -2,7 +2,8 @@
   "id": "zypermc",
   "name": "ZyperMC",
   "addresses": [
-    "zypermc.sdlf.fun"
+    "zypermc.sdlf.fun",
+    "sdlf.fun"
   ],
   "primaryAddress": "zypermc.sdlf.fun",
   "minecraftVersions": [
