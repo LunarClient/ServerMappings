@@ -1,0 +1,52 @@
+{
+    "id": "minebone",
+    "name": "MineBone Network",
+    "store": "https://tienda.minebone.net",
+    "wiki": "https://wiki.minebone.net/",
+    "description": "Minecraft server focused on custom Survival experiences.",
+    "addresses": [
+        "minebone.es",
+        "minebone.net"
+    ],
+    "primaryAddress": "mc.minebone.net",
+    "primaryColor": "#555555",
+    "secondaryColor": "#AAAAAA",
+    "primaryRegion": "EU",
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "votingLinks": [
+        "https://vote1.minebone.net",
+        "https://vote2.minebone.net",
+        "https://vote3.minebone.net",
+        "https://vote4.minebone.net",
+        "https://vote5.minebone.net",
+        "https://vote6.minebone.net"
+    ],
+    "minecraftVersions": [
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "gameTypes": [
+        "Survival Towny"
+    ],
+    "socials": {
+        "twitter": "mine_bone",
+        "discord": "https://dc.minebone.net",
+        "youtube": "minebonenetwork"
+    },
+    "compliance": {
+        "rules": "https://wiki.minebone.net/reglas/",
+        "support": "https://dc.minebone.net"
+    }
+}
