@@ -12,9 +12,13 @@
     "primaryColor": "#555555",
     "secondaryColor": "#AAAAAA",
     "primaryRegion": "EU",
-    "primaryLanguage": "es",
+    "regions": [
+        "EU",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "votingLinks": [
         "https://vote1.minebone.net",
@@ -25,9 +29,6 @@
         "https://vote6.minebone.net"
     ],
     "minecraftVersions": [
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
@@ -38,11 +39,11 @@
     ],
     "primaryMinecraftVersion": "1.21.10",
     "gameTypes": [
-        "Survival Towny"
+        "Survival"
     ],
     "socials": {
         "twitter": "mine_bone",
-        "discord": "https://dc.minebone.net",
+        "discord": "https://discord.gg/invite/UYXv9Xgth4",
         "youtube": "minebonenetwork"
     },
     "compliance": {
