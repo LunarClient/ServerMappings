@@ -20,14 +20,6 @@
     "languages": [
         "es-EN"
     ],
-    "votingLinks": [
-        "https://vote1.minebone.net",
-        "https://vote2.minebone.net",
-        "https://vote3.minebone.net",
-        "https://vote4.minebone.net",
-        "https://vote5.minebone.net",
-        "https://vote6.minebone.net"
-    ],
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -50,4 +42,5 @@
         "rules": "https://wiki.minebone.net/reglas/",
         "support": "https://dc.minebone.net"
     }
+
 }
