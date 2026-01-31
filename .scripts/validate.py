@@ -246,7 +246,8 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                     all_versions = get_all_versions(server["minecraftVersions"])
                     if server["primaryMinecraftVersion"] not in all_versions:
                         ver = server["primaryMinecraftVersion"].split(".")
-                        messages[server_id].append(f"The primary minecraft version (`{server['primaryMinecraftVersion']}` or `{ver[0]}.{ver[1]}.*`) is not in the minecraftVersions list.")
+                        wildcard = f"{ver[0]}.*" if len(ver) == 2 else f"{ver[0]}.{ver[1]}.*"
+                        messages[server_id].append(f"The primary minecraft version (`{server['primaryMinecraftVersion']}` or `{wildcard}`) is not in the minecraftVersions list.")
 
                     
                     for address in server["addresses"]:
