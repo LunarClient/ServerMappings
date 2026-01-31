@@ -5,7 +5,6 @@
     "store": "https://mazemc.es/store",
     "description": "PvP Network for players, by players.",
     "addresses": [
-        "imanity.club",
         "mazemc.es"
     ],
     "primaryAddress": "mazemc.es",
