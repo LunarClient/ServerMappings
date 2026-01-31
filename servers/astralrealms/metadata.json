@@ -1,0 +1,44 @@
+{
+    "id": "astralrealms",
+    "name": "AstralRealms",
+    "website": "https://astralrealms.fr",
+    "store": "https://store.astralrealms.fr",
+    "description": "AstralRealms is a French Minecraft server offering an exceptional experience with unique features, regular events, and a friendly community. Join us for unforgettable adventures!",
+    "addresses": [
+        "astralrealms.fr",
+        "astralrealms.gg"
+    ],
+    "primaryAddress": "play.astralrealms.fr",
+    "primaryColor": "#267ad9",
+    "secondaryColor": "#26d971",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/astralrealms"
+    },
+    "compliance": {
+        "privacyPolicy": "https://astralrealms.fr/privacy-policy",
+        "termsOfService": "https://astralrealms.fr/cgu",
+        "rules": "https://wiki.astralrealms.fr/welcome/rules/rules"
+    },
+    "votingLinks": [
+        "https://serveur-prive.net/minecraft/astralrealms/vote",
+        "https://www.serveursminecraft.org/serveur/7448",
+        "https://serveur-minecraft.com/5123"
+    ]
+}
