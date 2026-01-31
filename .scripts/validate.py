@@ -36,6 +36,16 @@ FILE_WHITELIST = [
     "docs",
 ]
 
+HOSTING_DOMAIN_BLACKLIST = [
+    # https://apexminecrafthosting.com/
+    "mc.gg",
+    "apexmc.co",
+    # https://lilypad.gg/
+    "smp.fan",
+    "modpack.lol",
+    "minecraft.vodka",
+    "minecraft.horse"
+]
 
 
 
@@ -218,6 +228,7 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
             messages[server_id] = [f"{server_id} is being edited but is in the inactive file!"]
 
     # Looping over each server folder
+    seen_domains = defaultdict(set)
     for root, _, _ in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
         if (
@@ -241,6 +252,8 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                     primary_domain = get_tld(server.get("primaryAddress", ""), as_object=True, fail_silently=True, fix_protocol=True)
                     if primary_domain is not None and primary_domain.fld not in server["addresses"]:
                         messages[server_id].append(f"The primary address' domain ({primary_domain.fld}) is not in the addresses list. Or the primary address is not a valid domain.")
+                    elif primary_domain is None:
+                        messages[server_id].append(f"The primary address `{server.get('primaryAddress', '')}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
 
 
                     all_versions = get_all_versions(server["minecraftVersions"])
@@ -255,8 +268,19 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                             continue
 
                         domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
+
+                        if domain is not None and domain.fld in HOSTING_DOMAIN_BLACKLIST:
+                            messages[server_id].append(f"The domain {domain.fld} belongs to a hosting provider. You must use a custom domain that you fully own (e.g. myserver.com instead of myserver.hosting.com). Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata#addresses).")
+                        
                         if domain is not None and domain.subdomain:
                             messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                        
+                        if domain is not None and domain.fld in seen_domains:
+                            messages[server_id].append(f"The domain {domain.fld} is also present in {', '.join(map(lambda s: f"`{s}`", seen_domains[domain.fld]))}. Please ensure each server has a unique domain(s).")
+                        elif domain is not None:
+                            seen_domains[domain.fld].add(server_id)
+                        else:
+                            messages[server_id].append(f"`{address}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
                     
                     if primary_region := server.get("primaryRegion"):
                         if not (regions := server.get("regions")) or primary_region not in regions:

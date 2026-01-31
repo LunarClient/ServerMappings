@@ -1,0 +1,49 @@
+{
+    "id": "ave",
+    "name": "AVE Network",
+    "description": "Home of competitive pvp and practice",
+    "addresses": [
+        "ave.rip"
+    ],
+    "primaryAddress": "ave.rip",
+    "primaryColor": "#aa0000",
+    "secondaryColor": "#ff5555",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,    
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",  
+    "languages": [
+        "de",
+        "en"
+    ],      
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://ave.rip/",
+    "store": "https://store.ave.rip",
+    "socials": {
+        "twitter": "ave_rip",
+        "discord": "https://discord.gg/HXSgxcVYtB",
+        "youtube": "@ave_network",
+        "twitch": "shvquu"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.ave.rip/privacy-policy",
+        "termsOfService": "https://www.ave.rip/tos"
+    }
+}
