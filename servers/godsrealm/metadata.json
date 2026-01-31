@@ -7,9 +7,6 @@
   ],
   "primaryAddress": "play.gods-realm.ro",
   "minecraftVersions": [
-    "1.13.*",
-    "1.14.*",
-    "1.15.*",
     "1.16.*",
     "1.17.*",
     "1.18.*",
@@ -36,8 +33,6 @@
   "website": "https://gods-realm.ro/",
   "store": "https://magazin.gods-realm.ro/",
   "wiki": "https://gods-realm.ro/ghid-survival-classic",
-  "youtube": "https://www.youtube.com/@GodsRealm.Network",
-  "twitter": "GodsRealm.Network",
   "compliance": {
     "privacyPolicy": "https://magazin.gods-realm.ro/terms/privacy",
     "termsOfService": "https://magazin.gods-realm.ro/terms/checkout",
@@ -48,7 +43,9 @@
     "https://topminecraftservers.org/vote/42656/",
     "https://topg.org/ro/servere-minecraft/server-678923"
   ],
-  "socials": {
+"socials": {
+    "twitter": "GodsRealm.Network",
+    "youtube": "https://www.youtube.com/@GodsRealm.Network",
     "tiktok": "@godsrealm.network",
     "discord": "https://discord.gg/gods-realm"
   },
