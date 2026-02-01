@@ -1,0 +1,30 @@
+{
+    "id": "infinitysmart",
+    "name": "Infinity Smart",
+    "website": "https://infinitysmart.eu/",
+    "store": "https://store.infinitysmart.eu/",
+    "addresses": [
+        "infinitysmart.eu"
+    ],
+    "primaryAddress": "play.infinitysmart.eu",
+    "primaryColor": "#3a0c57",
+    "secondaryColor": "#808589",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/thfPJ7QAPJ"
+    }
+}
