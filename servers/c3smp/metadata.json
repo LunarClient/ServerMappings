@@ -1,0 +1,35 @@
+{
+    "id": "c3smp",
+    "name": "C3SMP",
+    "description": "A sharded Minecraft SMP server and PVP that allows Bedrock",
+    "addresses": [
+        "c3smp.net"
+    ],
+    "primaryAddress": "play.c3smp.net",
+    "primaryColor": "#00FF00",
+    "secondaryColor": "#228B22",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.7",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://store.c3smp.net",
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/c3gaming",
+        "youtube": "@colin3dge",
+        "tiktok": "@colin3dge"
+    }
+}
