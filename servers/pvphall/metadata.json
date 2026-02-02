@@ -3,7 +3,7 @@
     "name": "PvPHall",
     "description": "Servidor de PvP (Pirata & Original)",
     "addresses": [
-        "pvphall.net"
+        "pvphall.net",
         "pvp.gay",
         "pvphall.com.br",
         "pvphall.club"
@@ -25,7 +25,6 @@
         "Minigames"
     ],
     "socials": {
-        "twitter": "pvphall",
         "discord": "https://discord.com/invite/mvKchxZPrx"
     }
 }
