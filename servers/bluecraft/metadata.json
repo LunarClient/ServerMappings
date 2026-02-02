@@ -1,6 +1,6 @@
 {
     "id": "bluecraft",
-    "name": "Bluecraft",	
+    "name": "Bluecraft",
     "store": "https://boutique.bleucraft.fr/",
     "addresses": [
         "bleucraft.fr"
@@ -9,10 +9,10 @@
     "primaryColor": "#930031",
     "secondaryColor": "#facc48",
     "minecraftVersions": [
-        "1.19.*",
-        "1.20.2"
+        "1.19.4",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.19",
+    "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -25,6 +25,6 @@
         "twitter": "bluecraftoff",
         "discord": "https://discord.gg/Vqkmf4JMhw",
         "youtube": "bleucraftofficiel",
-        "tiktok": "bleucraftofficiel"
+        "tiktok": "@bleucraftofficiel"
     }
 }

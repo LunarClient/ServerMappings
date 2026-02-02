@@ -1,6 +1,7 @@
 .out
 .venv
 .DS_Store
+ServerMappings/locales/
 
 # JetBrains configuration files
 .idea/*

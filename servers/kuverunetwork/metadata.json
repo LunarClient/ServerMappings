@@ -1,0 +1,46 @@
+{
+    "id": "kuverunetwork",
+    "name": "Kuveru Network",
+    "store": "https://tienda.kuveru.com",
+    "description": "Come and make friends!",
+    "addresses": [
+        "kuveru.com"
+    ],
+    "primaryAddress": "kuveru.com",
+    "primaryColor": "#D833FF",
+    "secondaryColor": "#AF33FF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "kuverunetwork",
+        "tiktok": "@kuverunetwork",
+        "discord": "https://discord.com/invite/gHFPuVZg3A"
+    }
+}

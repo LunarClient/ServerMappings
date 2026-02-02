@@ -1,0 +1,33 @@
+{
+    "id": "opencraft",
+    "name": "openCraft",
+    "website": "https://www.opencraft.pl/",
+    "description": "The oldest server in Poland featuring Survival!",
+    "addresses": [
+        "opencraft.pl"
+    ],
+    "primaryAddress": "opencraft.pl",
+    "primaryColor": "#44aa06",
+    "secondaryColor": "#040404",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/XD9RnGg",
+        "facebook": "opencraftPL"
+    }
+}

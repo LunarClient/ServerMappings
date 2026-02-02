@@ -1,39 +1,35 @@
 {
     "id": "bluexnetwork",
     "name": "BlueXNetwork",
-    "description": "An Minecraft Network with Survival, Events, PvP, Skyblock and More...",
+    "website": "https://play.xayman.net",
+    "store": "https://store.xayman.net",
+    "description": "A Minecraft Network with Survival, Events, PvP, Skyblock and More...",
     "addresses": [
         "xayman.net"
     ],
     "primaryAddress": "play.xayman.net",
-    "minecraftVersions": [
-        "1.19.3",
-        "1.19.4",
-        "1.20",
-        "1.20.1",
-        "1.20.2",
-        "1.20.3"
-    ],
-    "primaryMinecraftVersion": "1.19.3",
     "primaryColor": "#00FFFF",
     "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
     ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",
         "Skyblock",
         "PvP"
     ],
-    "website": "https://play.xayman.net",
-    "store": "https://store.xayman.net",
     "socials": {
         "discord": "https://discord.gg/yEV57jgRTc"
-    },
-    "crossplay": false
+    }
 }

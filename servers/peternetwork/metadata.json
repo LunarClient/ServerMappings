@@ -1,30 +1,33 @@
 {
     "id": "peternetwork",
-    "name": "PeterNetwork",
-    "website": "https://www.tvpeter.it/",
-    "store": "https://store.tvpeter.it/",
-    "description": "PeterNetwork is a Server known for its VanillaPlus. Join Now!",
+    "name": "OlympusMC",
+    "website": "https://www.olympusmc.it/",
+    "store": "https://store.olympusmc.it/",
+    "description": "Explore Olympus: the battleground for champions on Java and Bedrock.",
     "addresses": [
         "peternetwork.it",
-        "mc.tvpeter.it"
+        "olympusmc.it",
+        "tvpeter.it"
     ],
-    "primaryAddress": "peternetwork.it",
+    "primaryAddress": "play.olympusmc.it",
+    "primaryColor": "#f8dd01",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.17.1",
-    "primaryColor": "#f21d24",
-    "secondaryColor": "#a51318",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
@@ -33,8 +36,10 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/GnCqFqCsjj",
-        "instagram": "peternetwork",
-        "telegram": "peternetwork",
-        "tiktok": "tvpeter"
-    }
+        "instagram": "olympusmc_",
+        "twitch": "tvpeter",
+        "telegram": "olympusmc_network",
+        "tiktok": "@tvpeterr"
+    },
+    "presentationVideo": "M6B3AjzW0tc"
 }

@@ -8,6 +8,8 @@
         "jjsmp.pl"
     ],
     "primaryAddress": "rapy.pl",
+    "primaryColor": "#ffcc00",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -21,8 +23,6 @@
     "regions": [
         "EU"
     ],
-    "primaryColor": "#ffcc00",
-    "secondaryColor": "#ffffff",
     "gameTypes": [
         "Survival",
         "Minigames"
@@ -30,7 +30,7 @@
     "socials": {
         "instagram": "rapy.pl",
         "facebook": "ekiparapy",
-        "tiktok": "rapy.pl",
+        "tiktok": "@rapy.pl",
         "discord": "https://discord.com/invite/mv48WUAHsk"
     }
 }

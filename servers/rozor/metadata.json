@@ -1,0 +1,27 @@
+{
+    "id": "rozor",
+    "name": "rozor",
+    "store": "https://rozor.tebex.io",
+    "addresses": [
+        "rozor.net"
+    ],
+    "primaryAddress": "rozor.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

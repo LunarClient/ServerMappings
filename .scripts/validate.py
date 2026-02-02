@@ -12,7 +12,9 @@ import sys
 
 import jsonschema
 import requests
-from utils import get_all_servers, validate_background, validate_banner, validate_logo
+from tld.utils import get_tld
+from collections import defaultdict
+from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark, get_all_versions
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -34,6 +36,18 @@ FILE_WHITELIST = [
     "docs",
 ]
 
+HOSTING_DOMAIN_BLACKLIST = [
+    # https://apexminecrafthosting.com/
+    "mc.gg",
+    "apexmc.co",
+    # https://lilypad.gg/
+    "smp.fan",
+    "modpack.lol",
+    "minecraft.vodka",
+    "minecraft.horse"
+]
+
+
 
 def main():
     """
@@ -47,6 +61,7 @@ def main():
     parser.add_argument("--inactive_schema", required=use_args, type=str)
     parser.add_argument("--validate_inactive", action=argparse.BooleanOptionalAction)
     arguments = parser.parse_args()
+
 
     # If we don't find the env variable for use args assume we're running this locally
     if not use_args:
@@ -118,7 +133,7 @@ def post_comment(messages: dict[str, list[str]]):
     if not pull_id:
         print("Errors happened but there was no PR_ID found..?")
         print(messages)
-        exit(0)
+        exit(1)
 
     # Build comment
     comment = ""
@@ -140,7 +155,7 @@ def post_comment(messages: dict[str, list[str]]):
     )
 
 
-def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
+def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
     """
     This function checks all of the json files and validates them with their appropriate schemas.
 
@@ -150,7 +165,7 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
     Returns:
         dict[str, list[str]]: A dictionary mapping server IDs to lists of validation error messages.
     """
-    messages = {"Overall": []}
+    messages = defaultdict(list)
 
     # Validate Inactive File
     inactive_schema = {}
@@ -207,7 +222,13 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
             "Unable to open the metadata schema file. Please don't mess with this!"
         )
 
+    # Check if any servers being edited are inactive
+    for server_id in get_edited_servers():
+        if server_id in inactive_file:
+            messages[server_id] = [f"{server_id} is being edited but is in the inactive file!"]
+
     # Looping over each server folder
+    seen_domains = defaultdict(set)
     for root, _, _ in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
         if (
@@ -226,10 +247,48 @@ def check_metadata(args: argparse.Namespace) -> dict[str, list[str]]:
                 try:
                     server = json.load(server_file)
                     if server["id"] != server_id:
-                        messages[server_id] = [
-                            f"The ID field in the metadata.json does not match the file name of {server_id}.json (got {server['id']})"
-                        ]
-                        continue
+                        messages[server_id].append(f"The ID field in the metadata.json does not match the folder name of {server_id} (got {server['id']})")
+
+                    primary_domain = get_tld(server.get("primaryAddress", ""), as_object=True, fail_silently=True, fix_protocol=True)
+                    if primary_domain is not None and primary_domain.fld not in server["addresses"]:
+                        messages[server_id].append(f"The primary address' domain ({primary_domain.fld}) is not in the addresses list. Or the primary address is not a valid domain.")
+                    elif primary_domain is None:
+                        messages[server_id].append(f"The primary address `{server.get('primaryAddress', '')}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
+
+
+                    all_versions = get_all_versions(server["minecraftVersions"])
+                    if server["primaryMinecraftVersion"] not in all_versions:
+                        ver = server["primaryMinecraftVersion"].split(".")
+                        messages[server_id].append(f"The primary minecraft version (`{server['primaryMinecraftVersion']}` or `{ver[0]}.{ver[1]}.*`) is not in the minecraftVersions list.")
+
+                    
+                    for address in server["addresses"]:
+                        if address == "apollo.lunarclient.com": # Skip this check for the Apollo server 
+                            continue
+
+                        domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
+
+                        if domain is not None and domain.fld in HOSTING_DOMAIN_BLACKLIST:
+                            messages[server_id].append(f"The domain {domain.fld} belongs to a hosting provider. You must use a custom domain that you fully own (e.g. myserver.com instead of myserver.hosting.com). Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata#addresses).")
+                        
+                        if domain is not None and domain.subdomain:
+                            messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                        
+                        if domain is not None and domain.fld in seen_domains:
+                            messages[server_id].append(f"The domain {domain.fld} is also present in {', '.join(map(lambda s: f"`{s}`", seen_domains[domain.fld]))}. Please ensure each server has a unique domain(s).")
+                        elif domain is not None:
+                            seen_domains[domain.fld].add(server_id)
+                        else:
+                            messages[server_id].append(f"`{address}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
+                    
+                    if primary_region := server.get("primaryRegion"):
+                        if not (regions := server.get("regions")) or primary_region not in regions:
+                            messages[server_id].append(f"The primary region ({primary_region}) does not exist in the regions key (or the regions key does not exist).")
+
+                    if primary_lang := server.get("primaryLanguage"):
+                        if not (languages := server.get("languages")) or primary_lang not in languages:
+                            messages[server_id].append(f"The primary language ({primary_lang}) does not exist in the languages key (or the languages key does not exist).")
+                    
                 except json.decoder.JSONDecodeError:
                     messages[server_id] = [
                         "metadata.json is malformed, please ensure it is valid json."
@@ -337,6 +396,7 @@ def check_media(
         # Paths
         logo_path = f"{args.servers_dir}/{server_id}/logo.png"
         background_path = f"{args.servers_dir}/{server_id}/background.png"
+        wordmark_path = f"{args.servers_dir}/{server_id}/wordmark.png"
 
         # Check if a server has a banner
         banner_path = None
@@ -348,16 +408,18 @@ def check_media(
         # Validate!
         logo_errors = validate_logo(logo_path, server_name)
         background_errors = validate_background(background_path, server_name)
+        wordmark_errors = validate_wordmark(wordmark_path, server_name)
         banner_errors = (
             validate_banner(banner_path, server_name) if banner_path is not None else []
         )
+
 
         print(f"Validated {server_name}'s media.")
 
         # if there are no errors for all of the above skip
         if all(
             len(errors) == 0
-            for errors in [logo_errors, background_errors, banner_errors]
+            for errors in [logo_errors, background_errors, banner_errors, wordmark_errors]
         ):
             continue
 
@@ -367,6 +429,7 @@ def check_media(
         current_errors[server_id] += background_errors
         current_errors[server_id] += logo_errors
         current_errors[server_id] += banner_errors
+        current_errors[server_id] += wordmark_errors
 
     print(f"Sucessfully validated {len(servers)} server logos/backgrounds.")
     print(current_errors)
@@ -375,13 +438,14 @@ def check_media(
 
 def validate_root(directory: str = "."):
     """
-    This function validates the root directory of the repository doesn't have
-    any unwanted files (people will sometimes put their server in the root
+    This function validates the root/servers directory of the repository doesn't
+    have any unwanted files (people will sometimes put their server in the root
     on accident!)
 
     Args:
         directory (str): The directory to validate. Defaults to ".".
     """
+    server_dir = directory + "/servers/"
     for file in os.listdir(directory):
         if file not in FILE_WHITELIST:
             post_comment(
@@ -393,6 +457,19 @@ def validate_root(directory: str = "."):
             )
             print(
                 f"The file '{file}' is in the main directory but not in file whitelist"
+            )
+            sys.exit(1)
+    for file in os.listdir(server_dir):
+        if os.path.isfile(server_dir + file):
+            post_comment(
+                {
+                    "Overall": [
+                        f"The file '{file}' is not a directory in the /servers/ folder. Please make sure you're following the [relevant documentation](https://lunarclient.dev/server-mappings/adding-servers/overview)."
+                    ]
+                }
+            )
+            print(
+                f"The file '{file}' is not a directory in the /servers/ folder."
             )
             sys.exit(1)
 

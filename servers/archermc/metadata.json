@@ -24,7 +24,6 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "crossplay": true,
-    "presentationVideo": "79iSDvBBOpI",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -37,7 +36,7 @@
     "socials": {
         "discord": "https://discord.com/invite/archer",
         "youtube": "Archernetwork",
-        "tiktok": "archernetwork"
-
-    }
+        "tiktok": "@archernetwork"
+    },
+    "presentationVideo": "79iSDvBBOpI"
 }

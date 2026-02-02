@@ -3,9 +3,8 @@
     "name": "Roleplay Hub",
     "store": "https://buy.roleplayhub.net/",
     "addresses": [
-        "play.schoolrp.net",
-        "mc.roleplayhub.net",
-        "play.roleplayhub.net"
+        "schoolrp.net",
+        "roleplayhub.net"
     ],
     "primaryAddress": "play.schoolrp.net",
     "primaryColor": "#000000",

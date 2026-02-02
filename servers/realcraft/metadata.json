@@ -1,0 +1,40 @@
+{
+    "id": "realcraft",
+    "name": "RealCraft",
+    "website": "https://realcraftmc.nl",
+    "store": "https://shop.realcraftmc.nl",
+    "description": "RealCraft is a survival focused server with lots of custom elements!",
+    "addresses": [
+        "realcraftmc.nl",
+        "hardcoresmp.eu",
+        "hardcoremc.nl"
+    ],
+    "primaryAddress": "play.realcraftmc.nl",
+    "primaryColor": "#4f8910",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.10",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Hardcore"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/PkDWeDX48u",
+        "youtube": "real-craft",
+        "tiktok": "@play.realcraftmc.nl",
+        "instagram": "play.realcraftmc.nl"
+    }
+}

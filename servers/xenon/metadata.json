@@ -5,23 +5,24 @@
     "addresses": [
         "xenon.club"
     ],
+    "primaryAddress": "xenon.club",
+    "primaryColor": "#ff19be",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
+        "1.20.*",
         "1.19.*",
         "1.18.*",
         "1.17.*",
         "1.16.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
-    "primaryColor": "#ff19be",
-    "secondaryColor": "#ffffff",
+    "primaryMinecraftVersion": "1.20.4",
     "gameTypes": [
         "PvP",
         "Survival",
         "Creative"
     ],
     "socials": {
-        "twitter": "lemongamesuk",
-        "discord": "https://discord.gg/KM8xXQaVJj",
-        "tiktok": "xenonclub"
+        "discord": "https://discord.gg/xenon-free-server-hosting-1116455059132268634",
+        "tiktok": "@playxenon"
     }
 }

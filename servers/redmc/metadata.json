@@ -1,0 +1,28 @@
+{
+    "id": "redmc",
+    "name": "RedMC Network",
+    "store": "https://tienda.red-mc.net/",
+    "addresses": [
+        "red-mc.net"
+    ],
+    "primaryAddress": "red-mc.net",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/redmc"
+    }
+}

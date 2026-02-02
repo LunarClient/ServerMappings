@@ -1,0 +1,36 @@
+{
+    "id": "megamaa",
+    "name": "MegaMaa",
+    "website": "https://megamaa.com",
+    "description": "MegaGreat experiences at MegaMaa!",
+    "addresses": [
+        "megamaa.com"
+    ],
+    "primaryAddress": "mc.megamaa.com",
+    "primaryColor": "#35FF58",
+    "secondaryColor": "#F6FF35",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Parkour",
+        "Survival"
+    ],
+    "socials": {
+        "youtube": "MegaMaaMC",
+        "discord": "https://discord.com/invite/mp6XzgmMwg",
+        "twitter": "MegaMaa",
+        "tiktok": "@megamaamc"
+    }
+}

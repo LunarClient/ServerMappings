@@ -1,0 +1,32 @@
+{
+    "id": "insaneplay",
+    "name": "InsanePlay",
+    "website": "https://www.insaneplay.eu",
+    "store": "https://insaneplay.eu/store",
+    "addresses": [
+        "insaneplay.eu"
+    ],
+    "primaryAddress": "play.insaneplay.eu",
+    "primaryColor": "#f84c40",
+    "secondaryColor": "#78c3ed",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/QBN2cjvPsN",
+        "instagram": "insaneplay.eu"
+    }
+}

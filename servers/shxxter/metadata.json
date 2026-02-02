@@ -1,0 +1,36 @@
+{
+    "id": "shxxter",
+    "name": "Shxxter Network",
+    "description": "I Love Teamfight.",
+    "addresses": [
+        "shxxter.top"
+    ],
+    "primaryAddress": "shxxter.top",
+    "primaryColor": "#D0D2DF",
+    "secondaryColor": "#32393D",
+    "minecraftVersions": [
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/MwAnFQ8NQ6"
+    }
+}

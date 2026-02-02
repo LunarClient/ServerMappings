@@ -1,0 +1,38 @@
+{
+    "id": "dixpvp",
+    "name": "DixPvP Network",
+    "store": "https://store.dixpvp.xyz/",
+    "addresses": [
+        "dixpvp.xyz"
+    ],
+    "primaryAddress": "dixpvp.xyz",
+    "primaryColor": "#FFC300",
+    "secondaryColor": "#FF7700",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/GYGHhUw4"
+    }
+}

@@ -1,12 +1,11 @@
 {
     "id": "virtualplanet",
-    "name": "PoudlardRP",
-    "website": "https://poudlardrp.fr/",
+    "name": "VirtualPlanet",
     "store": "https://tienda.virtualplanet.es/",
     "addresses": [
-        "poudlardrp.fr"
+        "virtualplanet.es"
     ],
-    "primaryAddress": "play.poudlardrp.fr",
+    "primaryAddress": "mc.virtualplanet.es",
     "primaryColor": "#f1db81",
     "secondaryColor": "#d57d47",
     "minecraftVersions": [

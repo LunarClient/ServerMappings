@@ -1,0 +1,25 @@
+{
+    "id": "porkinlive",
+    "name": "Porkin Live",
+    "addresses": [
+        "porkin.live"
+    ],
+    "primaryAddress": "porkin.live",
+    "primaryColor": "#296bfd",
+    "secondaryColor": "#34bcfe",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/porkinbr"
+    }
+}

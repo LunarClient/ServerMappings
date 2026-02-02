@@ -1,0 +1,31 @@
+{
+    "id": "juicepvp",
+    "name": "JuicePvP",
+    "addresses": [
+        "juicepvp.eu"
+    ],
+    "primaryAddress": "juicepvp.eu",
+    "primaryColor": "#FBF213",
+    "secondaryColor": "#4535FF",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/juicepvp"
+    }
+}

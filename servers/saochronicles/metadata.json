@@ -1,0 +1,37 @@
+{
+    "id": "saochronicles",
+    "name": "SAO Chronicles",
+    "website": "https://saochronicles.fr/",
+    "store": "https://saochronicles.fr/store",
+    "description": "SAO Chronicles is a Minecraft MMORPG inspired by Sword Art Online.",
+    "crossplay": true,
+    "addresses": [
+        "saochronicles.fr",
+        "saochronicles.net"
+    ],
+    "primaryAddress": "play.saochronicles.fr",
+    "primaryColor": "#5db3c1",
+    "secondaryColor": "#533a67",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "PvE",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/saochronicles",
+        "tiktok": "@saochroniclesfr"
+    }
+}

@@ -9,13 +9,15 @@
         "pvplegacy.com"
     ],
     "primaryAddress": "play.pvplegacy.net",
+    "primaryColor": "#0392c5",
+    "secondaryColor": "#a2a1a3",
     "minecraftVersions": [
-        "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -26,8 +28,6 @@
     ],
     "socials": {
         "twitter": "PvPLegacyNet",
-        "discord": "https://discord.pvplegacy.net"
-    },
-    "primaryColor": "#0392c5",
-    "secondaryColor": "#a2a1a3"
+        "discord": "https://discord.com/invite/0h2cpuvlaOQYJrfv"
+    }
 }

@@ -1,33 +1,33 @@
 {
     "id": "elytariaclub",
     "name": "Elytaria Club",
+    "website": "https://www.elytaria.club",
+    "store": "https://store.elytaria.club",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "elytaria.club"
     ],
     "primaryAddress": "mc.elytaria.club",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.8.*",
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.3",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Survival",
         "Prison",
         "Minigames"
     ],
-    "website": "https://www.elytaria.club",
-    "store": "https://store.elytaria.club",
     "socials": {
         "telegram": "elytariaclub",
         "discord": "https://discord.gg/elytaria"

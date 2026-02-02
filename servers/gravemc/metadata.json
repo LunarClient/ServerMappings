@@ -1,19 +1,15 @@
 {
     "id": "gravemc",
     "name": "GraveMC",
-    "description": "The graveyard you wish to say in",
     "website": "https://www.gravemc.net/",
     "store": "https://store.gravemc.net/",
+    "description": "The graveyard you wish to stay in",
     "addresses": [
         "gravemc.net"
     ],
     "primaryAddress": "gravemc.net",
     "primaryColor": "#48dda3",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "minecraftVersions": [
         "1.8.9",
         "1.16.*",
@@ -26,6 +22,10 @@
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

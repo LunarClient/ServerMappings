@@ -1,0 +1,24 @@
+{
+    "id": "ryon",
+    "name": "Ryon",
+    "store": "https://store.ryon.live/",
+    "addresses": [
+        "ryon.live"
+    ],
+    "primaryAddress": "ryon.live",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#05696b",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ryonlive",
+        "discord": "https://discord.com/invite/gCWzPVtN85"
+    }
+}

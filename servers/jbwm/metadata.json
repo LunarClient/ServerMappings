@@ -1,9 +1,9 @@
 {
     "id": "jbwm",
     "name": "Jbwm.pl",
-    "description": "Najszybciej rozwijającą się siec serwerów minecraft w Polsce!",
     "website": "https://jbwm.pl/",
     "store": "https://sklep.jbwm.pl/",
+    "description": "The fastest growing Minecraft server network in Poland!",
     "addresses": [
         "jbwm.pl"
     ],

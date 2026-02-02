@@ -1,0 +1,37 @@
+{
+    "id": "lastcraft",
+    "name": "LastCraft",
+    "website": "https://last-craft.net/",
+    "store": "https://last-craft.net/",
+    "addresses": [
+        "last-craft.net",
+        "lastcraft.net"
+    ],
+    "primaryAddress": "play.last-craft.net",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/3bvCzvDf6d"
+    },
+    "compliance": {
+        "rules": "https://last-craft.net/rules"
+    }
+}

@@ -2,8 +2,24 @@
     "id": "renga",
     "name": "Renga Network",
     "addresses": [
-        "realren.ga"
+        "renga.zip"
     ],
+    "primaryAddress": "renga.zip",
     "primaryColor": "#bb1939",
-    "secondaryColor": "#0e0317"
+    "secondaryColor": "#0e0317",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/tw6HPPV6MY"
+    }
 }

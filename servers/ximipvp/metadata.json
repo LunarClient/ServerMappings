@@ -1,0 +1,37 @@
+{
+  "id": "ximipvp",
+  "name": "XimiPvP",
+  "description":"Good pvp 1.8 server practice",
+  "addresses": [
+    "ximipvp.eu",
+    "ximipvp.com",
+    "ximi.lol"
+  ],
+  "primaryAddress": "ximi.lol",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FF5555",
+  "secondaryColor": "#2C2C2C",
+  "primaryLanguage": "it",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU",
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "store": "https://store.ximipvp.eu",
+  "socials": {
+    "discord": "https://discord.com/invite/SgDkkPvjMR"
+  },
+  "crossplay": false
+}

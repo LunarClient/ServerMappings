@@ -4,9 +4,7 @@
     "website": "https://www.mcfoxcraft.com/",
     "store": "http://store.foxcraft.net",
     "addresses": [
-        "play.foxcraft.net",
         "foxcraft.net",
-        "play.mcfoxcraft.com",
         "mcfoxcraft.com"
     ],
     "primaryAddress": "play.foxcraft.net",

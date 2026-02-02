@@ -3,8 +3,9 @@
     "name": "Pixelmon Realms",
     "website": "https://pixelmonrealms.com/",
     "store": "https://store.pixelmonrealms.com/",
+    "description": "Adventure server dedicated to Pixelmon fans!",
     "addresses": [
-        "play.pixelmonrealms.com"
+        "pixelmonrealms.com"
     ],
     "primaryAddress": "play.pixelmonrealms.com",
     "primaryColor": "#beb8c3",
@@ -17,10 +18,15 @@
         "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Adventure",

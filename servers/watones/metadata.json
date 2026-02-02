@@ -1,11 +1,13 @@
 {
     "id": "watones",
     "name": "Watones Network",
-    "store": "https://tienda.watones.xyz/",
+    "store": "https://tienda.watones.net/",
+    "description": "Join Watones Network for survival, PvP, and crossplay fun!",
     "addresses": [
-        "watones.xyz"
+        "watones.xyz",
+        "watones.net"
     ],
-    "primaryAddress": "mc.watones.xyz",
+    "primaryAddress": "mc.watones.net",
     "primaryColor": "#f8ecfd",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
@@ -18,9 +20,15 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
     ],
     "gameTypes": [
         "Survival",
@@ -28,8 +36,8 @@
     ],
     "socials": {
         "twitter": "WatonesNetwork",
-        "discord": "https://discord.gg/2Swwpr8GCC",
+        "discord": "https://discord.gg/watones",
         "youtube": "UC5yR9hYwz6FEAU6MeOmYXIA",
-        "tiktok": "watonesco"
+        "tiktok": "@watonesco"
     }
 }

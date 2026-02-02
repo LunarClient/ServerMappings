@@ -1,0 +1,34 @@
+{
+    "id": "orbituhc",
+    "name": "Orbit Network",
+    "website": "https://www.orbitmc.cc",
+    "store": "https://store.orbitmc.cc",
+    "description": "Competitive UHC Server",
+    "addresses": [
+        "orbitmc.cc"
+    ],
+    "primaryAddress": "orbitmc.cc",
+    "primaryColor": "#00B3FF",
+    "secondaryColor": "#0083BC",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/krcEfUCKn2"
+    }
+}

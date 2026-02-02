@@ -1,0 +1,33 @@
+{
+    "id": "blitzmc",
+    "name": "BlitzMC",
+    "store": "https://store.blitzmc.net/",
+    "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
+    "addresses": [
+        "blitzmc.net"
+    ],
+    "primaryAddress": "blitzmc.net",
+    "primaryColor": "#ffcc00",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/eXdjsB5d5w"
+    }
+}

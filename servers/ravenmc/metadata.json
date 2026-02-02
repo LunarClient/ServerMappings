@@ -1,0 +1,35 @@
+{
+    "id": "ravenmc",
+    "name": "RavenMC Network",
+    "store": "https://ravenmc.tebex.io",
+    "addresses": [
+        "ravenmc.net"
+    ],
+    "primaryAddress": "ravenmc.net",
+    "primaryColor": "#D6C700",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ftJG3KcafC"
+    }
+}

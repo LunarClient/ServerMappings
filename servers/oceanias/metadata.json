@@ -1,0 +1,56 @@
+{
+    "id": "oceanias",
+    "name": "Oceanias",
+    "store": "https://store.oceanias.net",
+    "description": "The premier destination for Oceania-based Minecraft players.",
+    "addresses": [
+        "oceanias.net",
+        "nightlymc.com",
+        "abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcbabcdefghijklm.xyz"
+    ],
+    "primaryAddress": "play.oceanias.net",
+    "primaryColor": "#BF00FF",
+    "secondaryColor": "#9400FF",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "oceaniasnetwork",
+        "discord": "https://discord.com/invite/YP3qGFP2nf",
+        "youtube": "@webceanias",
+        "reddit": "oceanias",
+        "tiktok": "@oceanias"
+    },
+    "votingLinks": [
+        "https://crafty.gg/servers/oceanias.net",
+        "https://servers-minecraft.net/server-oceanias.40188",
+        "https://minecraft-server.net/server/oceaniasnet",
+        "https://topminecraftservers.org/server/37671",
+        "https://www.planetminecraft.com/server/oceanias",
+        "https://minecraft-mp.com/server-s333345",
+        "https://www.curseforge.com/servers/minecraft/game/oceanias"
+    ]
+}

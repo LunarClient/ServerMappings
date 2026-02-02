@@ -1,0 +1,27 @@
+{
+    "id": "soupworld",
+    "name": "SoupWorld",
+    "website": "https://soupworld.net/",
+    "store": "https://soupworld.tebex.io/",
+    "addresses": [
+        "soupworld.net"
+    ],
+    "primaryAddress": "soupworld.net",
+    "primaryColor": "#50EBEC",
+    "secondaryColor": "#3C565B",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/GZXNYRSfhH"
+    }
+}

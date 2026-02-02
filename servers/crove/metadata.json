@@ -6,25 +6,25 @@
     "store": "https://store.crove.us",
     "description": "We're a NETWORK based on the PotPvP gamemode!",
     "addresses": [
-      "crove.us"
+        "crove.us"
     ],
     "primaryAddress": "crove.us",
     "primaryColor": "#155A07",
     "secondaryColor": "#2DD00C",
     "minecraftVersions": [
-      "1.7.*",
-      "1.8.*"
+        "1.7.*",
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryLanguage": "en",
-    "languages": [
-      "en"
-    ],
     "primaryRegion": "SA",
     "regions": [
-      "SA",
-      "EU",
-      "NA"
+        "SA",
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"

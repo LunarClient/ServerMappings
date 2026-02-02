@@ -1,0 +1,38 @@
+{
+    "id": "mineworld",
+    "name": "MineWorld",
+    "website": "https://www.mineworld.lat/",
+    "store": "https://mineworld.tebex.io/",
+    "addresses": [
+        "mineworld.lat"
+    ],
+    "primaryAddress": "play.mineworld.lat",
+    "primaryColor": "#1e83bd",
+    "secondaryColor": "#0c3859",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "twitter": "MineWorld",
+        "discord": "https://discord.gg/KZVV8UPyDa"
+    }
+}

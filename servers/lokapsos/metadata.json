@@ -1,24 +1,24 @@
 {
     "id": "lokapsos",
     "name": "LOKAPSOS",
-    "description": "LOKAPSOS | ¡Tu comunidad más única!",
     "store": "https://store.lokapsos.es",
+    "description": "LOKAPSOS | Your community!",
     "addresses": [
         "lokapsos.es"
     ],
     "primaryAddress": "mc.lokapsos.es",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#55FF55",
     "minecraftVersions": [
         "1.8.*",
-        "1.20.*"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Survival",
         "Prison",
-        "Factions"
+        "Creative"
     ],
-    "primaryColor": "#FF55FF",
-    "secondaryColor": "#55FF55",
     "socials": {
         "twitter": "mclokapsos",
         "discord": "https://discord.gg/lokapsos-network-discord-oficial-472153211613216778"

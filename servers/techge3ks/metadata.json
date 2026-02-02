@@ -1,0 +1,47 @@
+{
+    "id": "techge3ks",
+    "name": "TechGE3Ks",
+    "website": "https://minecraft.techge3ks.com/",
+    "store": "https://shop.techge3ks.com/",
+    "description": "Minecraft's Original Prison Server",
+    "addresses": [
+        "techge3ks.com"
+    ],
+    "primaryAddress": "play.techge3ks.com",
+    "primaryColor": "#6dd86e",
+    "secondaryColor": "#020001",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP",
+        "Parkour"
+    ],
+    "socials": {
+        "twitter": "TechGE3KsLLC",
+        "discord": "https://discord.gg/techge3ks",
+        "reddit": "techge3ks",
+        "tiktok": "@techge3ks",
+        "facebook": "TechGE3Ks"
+    },
+    "compliance": {
+        "privacyPolicy": "https://shop.techge3ks.com/terms/privacy",
+        "termsOfService": "https://shop.techge3ks.com/terms/checkout"
+    }
+}
