@@ -1,5 +1,5 @@
 {
-    "id": "astraisnetwork",
+    "id": "astralisnetwork",
     "name": "Astralis Network",
     "description": "Disfruta de una experiencia unica!",
     "addresses": [
@@ -36,9 +36,8 @@
     ],
     "store": "https://tienda.astralisnet.com",
     "socials": {
-        "twitter": "astralisnetwokr",
-        "tiktok": "astralisnetwork",
-        "discord": "https://discord.gg/thnqZ5VjgQ"
+        "discord": "https://discord.gg/thnqZ5VjgQ",
+         "youtube": "minebonenetwork"
     },
     "crossplay": true
 }
