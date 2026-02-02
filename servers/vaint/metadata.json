@@ -1,15 +1,29 @@
 {
     "id": "vaint",
-    "name": "Vaint Network",
+    "name": "Vaint",
+    "store": "https://store.vaint.net",
+    "description": "Minecraft HCF & Others",
     "addresses": [
-        "vaint.us"
+        "vaint.net"
     ],
-    "primaryAddress": "vaint.us",
+    "primaryAddress": "vaint.net",
+    "primaryColor": "#4dfed1",
+    "secondaryColor": "	#08a4a7",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#2894c0",
-    "secondaryColor": "#020203"
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ZAnNKAyCNJ"
+    }
 }
+
