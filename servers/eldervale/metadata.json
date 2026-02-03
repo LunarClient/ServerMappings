@@ -1,1 +1,27 @@
-
+{
+    "id": "eldervale",
+    "website": "https://eldervale.com/",
+    "store": "https://anarchia.gg/magaza",
+    "description": "Kadim Topraklarda Hayatta Kalmaya Çalış!",
+    "addresses": [
+        "eldervale.com",
+    ],
+    "primaryAddress": "eldervale.com",
+    "primaryColor": "#9BFF00",
+    "secondaryColor": "#48A900",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/eldervale"
+    }
+}
