@@ -22,7 +22,7 @@
         "NA"
     ],
     "gameTypes": [
-        "KitPvP",
+        "PvP",
         "Prison",
         "UHC"
     ],
@@ -41,4 +41,5 @@
         "rules": "https://krypticmc.net/rules",
         "support": "https://krypticmc.net/support"
     }
+
 }
