@@ -2,7 +2,7 @@
     "id": "nightvanilla",
     "name": "NightVanilla",
     "store": "https://shop.nightvanilla.net/",
-    "description": "NightVanilla is an active Minecraft Economy & CPvP server for Java & Bedrock 1.21+. Chill community with daily events.",
+    "description": "NightVanilla is an active Minecraft Economy & CPvP server for Java & Bedrock",
     "addresses": [
         "nightvanilla.net"
     ],
@@ -21,7 +21,6 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Open World",
         "PvE"
     ],
     "socials": {
