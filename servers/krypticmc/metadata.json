@@ -1,0 +1,44 @@
+{
+    "id": "krypticmc",
+    "name": "KrypticMC",
+    "website": "https://krypticmc.net/",
+    "store": "https://krypticmc.net/store",
+    "description": "A competitive Minecraft PvP server with innovative features!",
+    "addresses": [
+        "krypticmc.net",
+        "krypticmc.com"
+    ],
+    "primaryAddress": "krypticmc.net",
+    "primaryColor": "#C23C96",
+    "secondaryColor": "#5A1E52",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.12.2",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "KitPvP",
+        "Prison",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/PmuCDKgxkA",
+        "youtube": "@rigbot"
+    },
+    "votingLinks": [
+        "https://minecraftservers.org/server/601247",
+        "https://minecraft-mp.com/server-s331817",
+        "https://minecraft-serverlist.com/server/4139",
+        "https://minecraft-server-list.com/server/505448/",
+        "https://minecraft.buzz/server/10608"
+    ],
+    "compliance": {
+        "rules": "https://krypticmc.net/rules",
+        "support": "https://krypticmc.net/support"
+    }
+}
