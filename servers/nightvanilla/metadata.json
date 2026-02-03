@@ -1,0 +1,32 @@
+{
+    "id": "nightvanilla",
+    "name": "NightVanilla",
+    "store": "https://shop.nightvanilla.net/",
+    "description": "NightVanilla is an active Minecraft Economy & CPvP server for Java & Bedrock 1.21+. Chill community with daily events.",
+    "addresses": [
+        "nightvanilla.net"
+    ],
+    "primaryAddress": "nightvanilla.net",
+    "primaryColor": "#9C1DDB",
+    "secondaryColor": "#C51DDB",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Open World",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/nightvanilla"
+        "tiktok": "@itznightrider"
+        "twitch": "itznightrider_"
+    }
+}
