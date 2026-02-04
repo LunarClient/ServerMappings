@@ -1,0 +1,26 @@
+{
+  "id": "eldervale",
+  "name": "Eldervale - Ancient Lands",
+  "store": "https://eldervale.com/magaza",
+  "addresses": [
+    "eldervale.com"
+  ],
+  "primaryAddress": "eldervale.com",
+  "primaryColor": "#9BFF00",
+  "secondaryColor": "#48A900",
+  "minecraftVersions": [
+    "1.21.8",
+    "1.21.10"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Skyblock"
+  ],
+  "socials": {
+    "discord": "https://discord.com/invite/eldervale"
+  }
+}
