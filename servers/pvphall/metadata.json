@@ -1,7 +1,7 @@
 {
     "id": "pvphall",
     "name": "PvPHall",
-    "description": "Servidor de PvP (Pirata & Original)",
+    "description": "Cool PvP Server",
     "addresses": [
         "pvphall.net",
         "pvphall.com",
@@ -23,9 +23,11 @@
     "secondaryColor": "#ffd65c",
     "gameTypes": [
         "PvP",
+        "Duels",
         "Minigames"
     ],
     "socials": {
+        "twitter": "https://x.com/pvphall",
         "discord": "https://discord.com/invite/mvKchxZPrx"
     }
 }
