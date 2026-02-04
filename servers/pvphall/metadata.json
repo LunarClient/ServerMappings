@@ -22,9 +22,7 @@
     "primaryColor": "#ec0909",
     "secondaryColor": "#ffd65c",
     "gameTypes": [
-        "PvP",
-        "Duels",
-        "Minigames"
+        "PvP"
     ],
     "socials": {
         "twitter": "https://x.com/pvphall",
