@@ -1,0 +1,11 @@
+{
+  "ip": "sirenpvp.com",
+  "port": 25565,
+  "name": "SirenPvP",
+  "description": "Survival • PvP • Eventos • Rankeds",
+  "icon": "logo.png",
+  "website": "https://sirenpvp.com",
+  "version": "1.21",
+  "tags": ["pvp", "minigames", "survival"],
+  "location": "US"
+}
