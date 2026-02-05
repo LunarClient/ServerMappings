@@ -1,0 +1,26 @@
+{
+  "id": "corestealsmp",
+  "name": "CoreSteal SMP",
+  "store": "https://store.corestealsmp.com/store",
+  "addresses": [
+    "corestealsmp.com"
+  ],
+  "primaryAddress": "corestealsmp.com",
+  "primaryColor": "#fd2a04",
+  "secondaryColor": "#c50201",
+  "minecraftVersions": [
+    "1.21.8",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "LifeSteal"
+  ],
+  "socials": {
+    "discord": "https://discord.com/invite/corestealsmp"
+  }
+}
