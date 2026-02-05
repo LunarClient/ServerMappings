@@ -1,0 +1,18 @@
+{
+    "id": "skwnet",
+    "name": "SkillWars Network",
+    "description": "Competitive Minecraft PvP network with custom modes and events.",
+    "addresses": [
+        "skillwars.lat"
+    ],
+    "primaryAddress": "mc.skillwars.lat",
+    "primaryColor": "#922ecf",
+    "secondaryColor": "#130a15",
+    "region": "NA",
+    "minecraftVersions": ["1.8", "1.20"],
+    "gameTypes": ["PvP", "Practice", "Events"],
+    "website": "https://skillwars.lat",
+    "socials": {
+        "discord": "https://discord.gg/tuserver"
+    }
+}
