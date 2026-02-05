@@ -1,9 +1,18 @@
 {
-    "id": "skillwarsnet",
+    "id": "skw",
     "name": "SkillWars Network",
+    "description": "Red competitiva de Minecraft centrada en DEN, practice y eventos únicos.",
     "addresses": [
         "mc.skillwars.lat"
     ],
+    "primaryAddress": "mc.skillwars.lat",
     "primaryColor": "#922ecf",
-    "secondaryColor": "#130a15"
+    "secondaryColor": "#130a15",
+    "region": "NA",
+    "minecraftVersions": ["1.8", "1.20"],
+    "gameTypes": ["PvP", "Practice", "Events"],
+    "socials": {
+        "discord": "https://discord.gg/ztu7NNNuHv"
+    },
+    "website": "https://skillwars.lat"
 }
