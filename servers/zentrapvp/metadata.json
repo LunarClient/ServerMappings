@@ -1,0 +1,44 @@
+{
+    "id": "zentrapvp",
+    "name": "ZentraPvP",
+    "website": "https://zentrapvp.com/",
+    "description": "Feel the competition in any gamemode!"
+    "addresses": [
+      "zentrapvp.com",
+      "zentrapvp.top",
+      "zentrapvp.ir"
+    ],
+    "primaryAddress": "play.zentrapvp.com"
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FF5555",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fa"
+    ],
+    "gameTypes": [
+        "Competition",
+        "Bedwars",
+        "PvP",
+        "Practice",
+        "Survival",
+        "Ranked"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kNkrqTCJVW",
+        "instagram": "zentrapvp",
+        "telegram": "zentrapvp"
+    },
+    "votingLinks": "https://mctracker.ir/server/514/vote"
+}
