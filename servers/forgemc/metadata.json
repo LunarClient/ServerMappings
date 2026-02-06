@@ -4,8 +4,7 @@
     "website": "https://www.forgemc.org/",
     "store": "https://store.forgemc.org/",
     "addresses": [
-        "forgemc.org",
-        "play.forgemc.org"
+        "forgemc.org"
     ],
     "primaryAddress": "play.forgemc.org",
     "primaryColor": "#74d4d8",
@@ -27,7 +26,7 @@
         "en"
     ],
     "gameTypes": [
-        "Forge"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/forgemc",
