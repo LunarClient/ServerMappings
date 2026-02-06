@@ -24,21 +24,17 @@
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "fa"
+        "en"
     ],
     "gameTypes": [
-        "Competition",
-        "Bedwars",
         "PvP",
-        "Practice",
-        "Survival",
-        "Ranked"
+        "Minigames",
+        "Adventure",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/kNkrqTCJVW",
         "instagram": "zentrapvp",
         "telegram": "zentrapvp"
-    },
-    "votingLinks": "https://mctracker.ir/server/514/vote"
+    }
 }
