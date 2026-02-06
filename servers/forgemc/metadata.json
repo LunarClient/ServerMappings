@@ -4,7 +4,8 @@
     "website": "https://www.forgemc.org/",
     "store": "https://store.forgemc.org/",
     "addresses": [
-        "forgemc.org"
+        "forgemc.org",
+        "play.forgemc.org"
     ],
     "primaryAddress": "play.forgemc.org",
     "primaryColor": "#74d4d8",
@@ -14,7 +15,7 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.10",
+    "primaryMinecraftVersion": "1.21.1",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -26,7 +27,7 @@
         "en"
     ],
     "gameTypes": [
-        "Forge",
+        "Forge"
     ],
     "socials": {
         "discord": "https://discord.com/invite/forgemc",
