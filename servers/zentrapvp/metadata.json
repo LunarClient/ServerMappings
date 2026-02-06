@@ -2,13 +2,13 @@
     "id": "zentrapvp",
     "name": "ZentraPvP",
     "website": "https://zentrapvp.com/",
-    "description": "Feel the competition in any gamemode!"
+    "description": "Feel the competition in any gamemode!",
     "addresses": [
       "zentrapvp.com",
       "zentrapvp.top",
       "zentrapvp.ir"
     ],
-    "primaryAddress": "play.zentrapvp.com"
+    "primaryAddress": "play.zentrapvp.com",
     "primaryColor": "#55FFFF",
     "secondaryColor": "#FF5555",
     "minecraftVersions": [
