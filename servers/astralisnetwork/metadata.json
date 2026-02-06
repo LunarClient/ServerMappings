@@ -1,7 +1,7 @@
 {
     "id": "astralisnetwork",
     "name": "Astralis Network",
-    "description": "Disfruta de una experiencia unica!",
+    "description": "Minecraft Survival Server 1.17-1.21!",
     "addresses": [
         "astralisnet.com"
     ],
@@ -37,7 +37,7 @@
     "store": "https://tienda.astralisnet.com",
     "socials": {
         "discord": "https://discord.gg/thnqZ5VjgQ",
-         "youtube": "minebonenetwork"
+         "youtube": "astralisnetwork"
     },
     "crossplay": true
 }
