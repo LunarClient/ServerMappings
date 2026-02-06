@@ -1,0 +1,33 @@
+{
+  "id": "stormymc",
+  "name": "StormyMC",
+  "description": "Competitive PvP and fast-paced minigames with a clean experience.",
+  "addresses": [
+    "stormymc.com"
+  ],
+  "primaryAddress": "play.stormymc.com",
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "primaryColor": "#00AAAA",
+  "secondaryColor": "#55FFFF",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "primaryLanguage": "ar",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "store": "https://store.stormymc.com",
+  "socials": {
+    "discord": "https://discord.gg/stormymc"
+  },
+  "crossplay": false
+}
