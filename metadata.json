@@ -1,0 +1,34 @@
+{
+    "id": "skyplex",
+    "name": "SkyPlex",
+    "website": "https://skyplex.cz/",
+    "store": "https://skyplex.cz/obchod",
+    "addresses": [
+        "skyplex.cz"
+    ],
+    "primaryAddress": "mc.skyplex.cz",
+    "primaryColor": "#E8FF0A",
+    "secondaryColor": "#CFE340",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/gWyt3nThhB",
+        "instagram": "skyplex.cz",
+        "tiktok": "@skyplex.cz"
+    }
+}
