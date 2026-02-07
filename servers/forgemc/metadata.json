@@ -1,0 +1,35 @@
+{
+    "id": "forgemc",
+    "name": "ForgeMC",
+    "website": "https://www.forgemc.org/",
+    "store": "https://store.forgemc.org/",
+    "addresses": [
+        "forgemc.org"
+    ],
+    "primaryAddress": "play.forgemc.org",
+    "primaryColor": "#74d4d8",
+    "secondaryColor": "#de82fa",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/forgemc",
+        "youtube": "@ForgeMC"
+    }
+}
