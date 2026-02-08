@@ -1,0 +1,42 @@
+{
+    "id": "udrop",
+    "name": "uDrop Network",
+    "store": "https://store.udrop.club/",
+    "description": "Best Minecraft Competitive Server",
+    "addresses": [
+        "udrop.club"
+    ],
+    "primaryAddress": "udrop.club",
+    "primaryColor": "#ce7e00",
+    "secondaryColor": "#363635",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "twitter": "uDropClub",
+        "youtube": "uDropNetwork",
+        "discord": "https://discord.com/invite/uc3RuuZ"
+    },
+    "compliance": {
+        "privacyPolicy": "https://store.udrop.club/terms/privacy",
+        "termsOfService": "https://store.udrop.club/terms/"
+    },
+    "presentationVideo": "bwmrYMbvyiE"
+}

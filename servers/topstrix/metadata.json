@@ -4,20 +4,35 @@
     "website": "https://www.topstrix.net/",
     "store": "https://store.topstrix.net/",
     "addresses": [
-        "topstrix.net",
-        "topstrix.com"
+        "topstrix.net"
     ],
     "primaryAddress": "play.topstrix.net",
+    "primaryColor": "#F9A7FF",
+    "secondaryColor": "#C96AFF",
     "minecraftVersions": [
-        "1.19.*",
-        "1.20.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "languages": [
+        "en"
+    ],
+    "primaryLanguage": "en",
+    "regions": [
+        "EU"
+    ],
+    "primaryRegion": "EU",
+    "primaryMinecraftVersion": "1.21.6",
     "gameTypes": [
         "Creative",
-        "Skyblock",
+        "PvP",
         "Minigames"
     ],
-    "primaryColor": "#6b6968",
-    "secondaryColor": "#1a130e"
+    "socials": {
+        "discord": "https://discord.gg/topstrix",
+        "youtube": "@TopStrix"
+    },
+    "compliance": {
+        "termsOfService": "https://topstrix.co.il/terms",
+        "rules": "https://topstrix.co.il/rules",
+        "support": "https://discord.gg/topstrix"
+    }
 }

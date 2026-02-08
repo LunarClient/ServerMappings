@@ -1,0 +1,31 @@
+{
+    "id": "jigsawgames",
+    "name": "JigsawGames Network",
+    "website": "https://jigsawgames.ir/",
+    "addresses": [
+        "jigsawgames.ir"
+    ],
+    "primaryAddress": "play.jigsawgames.ir",
+    "primaryColor": "#fb6000",
+    "secondaryColor": "#FBC100",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/w3urzc5Gnx"
+    }
+}

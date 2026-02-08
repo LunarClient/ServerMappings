@@ -1,0 +1,43 @@
+{
+    "id": "legendcraft",
+    "name": "LegendCraft",
+    "website": "https://www.legendcraft.it/",
+    "store": "https://store.legendcraft.it",
+    "description": "LegendCraft is the #1 MMORPG in Italy",
+    "addresses": [
+        "legendcraft.it"
+    ],
+    "primaryAddress": "mc.legendcraft.it",
+    "primaryColor": "#CD7F32",
+    "secondaryColor": "#DAA06D",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/M9SnDz7yRk",
+        "youtube": "@LegendCraftStudios",
+        "instagram": "legendcraft.it",
+        "tiktok": "@legendcraft_off",
+        "telegram": "LegendCraft1"
+    }
+}

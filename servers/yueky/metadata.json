@@ -1,8 +1,8 @@
 {
     "id": "yueky",
     "name": "Yueky",
-    "description": "Practice and more.",
     "store": "https://mc.yueky.com/store",
+    "description": "Practice and more.",
     "addresses": [
         "yueky.com"
     ],
@@ -14,15 +14,15 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "crossplay": false,    
+    "crossplay": false,
     "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
-    "primaryLanguage": "es-EN",  
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
-    ],      
+    ],
     "gameTypes": [
         "PvP"
     ],

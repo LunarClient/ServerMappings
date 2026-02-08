@@ -1,0 +1,27 @@
+{
+    "id": "avoxelianetwork",
+    "name": "Voxelia",
+    "store": "https://voxelianet.tebex.io/",
+    "addresses": [
+        "voxelia.lat"
+    ],
+    "primaryAddress": "voxelia.lat",
+    "primaryColor": "#ceb19e",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

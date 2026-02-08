@@ -1,0 +1,25 @@
+{
+    "id": "kalomc",
+    "name": "KaloMC",
+    "website": "https://kalomc.org/",
+    "store": "https://store.kalomc.org/",
+    "addresses": [
+        "kalomc.org"
+    ],
+    "primaryAddress": "kalomc.org",
+    "primaryColor": "#faf206",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "KaloNetworkOrg",
+        "discord": "https://discord.com/invite/EnKTgauS24/",
+        "telegram": "kalonetworkorg"
+    }
+}

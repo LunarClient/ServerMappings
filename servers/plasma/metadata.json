@@ -5,8 +5,7 @@
     "store": "https://store.plasmamc.cc/",
     "addresses": [
         "plasmamc.cc",
-        "bagells.xyz",
-        "bagells.minehut.gg"
+        "bagells.xyz"
     ],
     "primaryAddress": "plasmamc.cc",
     "primaryColor": "#FFFF55",

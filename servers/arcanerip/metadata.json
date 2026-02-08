@@ -1,0 +1,33 @@
+{
+    "id": "arcanerip",
+    "name": "Arcane",
+    "website": "https://arcane.rip",
+    "store": "https://discord.gg/arcanerip",
+    "addresses": [
+        "arcane.rip"
+    ],
+    "primaryAddress": "arcane.rip",
+    "primaryColor": "#058e9d",
+    "secondaryColor": "#046a76",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ArcaneRIP",
+        "discord": "https://www.discord.gg/arcanerip"
+    }
+}

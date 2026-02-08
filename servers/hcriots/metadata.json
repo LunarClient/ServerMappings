@@ -1,0 +1,35 @@
+{
+    "id": "hcriots",
+    "name": "HCRiots Network",
+    "store": "https://store.hcriots.net",
+    "description": "Home of Old HCF.",
+    "addresses": [
+        "hcriots.net"
+    ],
+    "primaryAddress": "hcriots.net",
+    "primaryColor": "#ff2d00",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "HCRiots_net",
+        "discord": "https://discord.gg/ePVv9apzcr"
+    }
+}

@@ -4,7 +4,6 @@
     "website": "https://applemc.fun/",
     "store": "https://store.applemc.fun/",
     "addresses": [
-        "play.applemc.fun",
         "applemc.fun"
     ],
     "primaryAddress": "play.applemc.fun",

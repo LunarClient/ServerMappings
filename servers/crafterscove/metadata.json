@@ -1,8 +1,8 @@
 {
     "id": "crafterscove",
     "name": "CraftersCove",
-    "description": "An SMP for everyone!",
     "store": "https://store.crafterscove.shop/",
+    "description": "An SMP for everyone!",
     "addresses": [
         "crafterscove.fun"
     ],
@@ -18,6 +18,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/HYC79agJd8",
-        "tiktok": "crafters.cove23"
+        "tiktok": "@crafters.cove23"
     }
 }

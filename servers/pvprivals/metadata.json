@@ -1,0 +1,48 @@
+{
+    "id": "pvprivals",
+    "name": "PvPRivals",
+    "website": "https://pvprivals.net/",
+    "store": "https://store.pvprivals.net/",
+    "description": "The Competitive Network",
+    "addresses": [
+        "pvprivals.net"
+    ],
+    "primaryAddress": "pvprivals.net",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#0d0604",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "PvPRivalsNet",
+        "discord": "https://discord.gg/pvprivals"
+    },
+    "votingLinks": [
+        "https://de.namemc.com/server/pvpgym.net?q=pvprivals.net"
+    ],
+    "compliance": {
+        "rules": "https://pvprivals.net/rules"
+    }
+}

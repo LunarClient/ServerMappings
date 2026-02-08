@@ -1,0 +1,35 @@
+{
+    "id": "fishffa",
+    "name": "FishFFA Network",
+    "description": "The Best Practice Server for PvP",
+    "addresses": [
+        "fishffa.gg"
+    ],
+    "primaryAddress": "play.fishffa.gg",
+    "primaryColor": "#00C5FC",
+    "secondaryColor": "#FFAA00",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "1.19.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "FishFFA",
+        "discord": "https://discord.gg/7UrzE9TSp6",
+        "youtube": "FishFFANetwork"
+    }
+}

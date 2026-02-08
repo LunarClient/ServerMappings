@@ -1,0 +1,38 @@
+{
+    "id": "demeryamc",
+    "name": "DemeryaMC",
+    "description": "Factions, PvP, PvE",
+    "addresses": [
+        "demeryamc.fr"
+    ],
+    "primaryAddress": "play.demeryamc.fr",
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Factions"
+    ],
+    "primaryColor": "#FCB454",
+    "secondaryColor": "#FCB454",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/demeryamc"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "minehush",
+    "name": "Minehush Network",
+    "store": "https://store.minehush.net",
+    "description": "Come enjoy with us!",
+    "addresses": [
+        "minehush.net"
+    ],
+    "primaryAddress": "minehush.net",
+    "primaryColor": "#ffdf14",
+    "secondaryColor": "#b69665",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "minehush",
+        "tiktok": "@minehushnetwork",
+        "discord": "https://discord.gg/x7Xyq63HP6"
+    }
+}

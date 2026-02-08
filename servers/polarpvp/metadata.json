@@ -1,31 +1,32 @@
 {
     "id": "polarpvp",
     "name": "PolarPvP",
-    "description": "El servidor más frío de HCF!",
+    "store": "https://store.polarpvp.live",
+    "description": "The coldest server in HCF!",
     "addresses": [
-        "polarpvp.cc"
+        "polarpvp.cc",
+        "polarpvp.live"
     ],
     "primaryAddress": "polarpvp.live",
+    "primaryColor": "#4dd2fa",
+    "secondaryColor": "#d1e5eb",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#4dd2fa",
-    "secondaryColor": "#d1e5eb",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "HCF"
     ],
-    "store": "https://store.polarpvp.live",
     "socials": {
         "discord": "https://discord.com/invite/gSPuHyA8eA"
-    },
-    "crossplay": false
+    }
 }

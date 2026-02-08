@@ -3,12 +3,14 @@
     "name": "EchoMC",
     "website": "https://www.echomc.it/",
     "store": "https://store.echomc.it/",
-    "description": "The second server in Italy know as a KitPVP community",
+    "description": "The second server in Italy known as a KitPVP community",
     "addresses": [
         "echomc.it",
         "prolandmc.com"
     ],
     "primaryAddress": "play.echomc.it",
+    "primaryColor": "#1387ca",
+    "secondaryColor": "#262d37",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -19,15 +21,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#1387ca",
-    "secondaryColor": "#262d37",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
@@ -38,6 +38,6 @@
         "discord": "https://discord.gg/gwSSvmvgBZ",
         "instagram": "echomc.it",
         "telegram": "echomc",
-        "tiktok": "echomc.it"
+        "tiktok": "@echomc.it"
     }
 }

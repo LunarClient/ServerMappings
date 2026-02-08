@@ -1,0 +1,55 @@
+{
+    "id": "rplanet",
+    "name": "Racsu Planet",
+    "website": "https://www.racsu.com/",
+    "store": "https://tienda.racsu.com",
+    "description": "Survival - Skyblock - Spanish Server",
+    "addresses": [
+        "racsu.com"
+    ],
+    "primaryAddress": "play.racsu.com",
+    "primaryColor": "#679FF4",
+    "secondaryColor": "#39ADE3",
+    "minecraftVersions": [
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/jxayGTycbz",
+        "twitter": "racsuplanet",
+        "youtube": "@racsuplanetserver",
+        "instagram": "racsuplanet",
+        "tiktok": "@racsuplanet"
+    },
+    "presentationVideo": "sJfOrCGDVYM",
+    "votingLinks": [
+        "https://findmcserver.com/server/racsuplanet",
+        "https://minecraft-mp.com/server-s340361",
+        "https://servidoresdeminecraft.es/server/status/DAnRTYRa/play.racsu.com",
+        "https://minecraftbestservers.com/server-racsuplanet.3750/",
+        "https://www.40servidoresmc.es/racsu-planet",
+        "https://minecraft-mp.com/server-s179012",
+        "https://minecraft-server-list.com/server/510334/"
+    ]
+}

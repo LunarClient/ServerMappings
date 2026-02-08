@@ -1,15 +1,17 @@
 {
     "id": "battleadventure",
     "name": "Battle Adventure",
-    "description": "Serveur Minecraft PvP Faction Farm2Win sur le thème de Wakfu !",
     "website": "https://www.battle-adventure.eu/",
-    "store": "https://www.battle-adventure.eu/store/4/pvpfaction",
-    "wiki": "https://www.battle-adventure.eu/wiki/",
+    "store": "https://store.battle-adventure.eu/",
+    "wiki": "https://wiki.battle-adventure.eu/",
+    "description": "Farm2Win Faction PvP server on the theme of Wakfu!",
     "addresses": [
         "battle-adventure.eu",
         "eliacube.eu"
     ],
     "primaryAddress": "play.battle-adventure.eu",
+    "primaryColor": "#028acc",
+    "secondaryColor": "#449d44",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,18 +19,17 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.12.2",
-    "primaryColor": "#028acc",
-    "secondaryColor": "#449d44",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",
@@ -37,9 +38,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/7TcBMcU",
-        "twitter": "Ba_Officiel",
         "youtube": "battleadventure4053",
         "instagram": "battleadventure_mc",
-        "tiktok": "battleadventure_mc"
+        "tiktok": "@battleadventure_mc"
     }
 }

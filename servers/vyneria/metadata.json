@@ -1,0 +1,32 @@
+{
+    "id": "vyneria",
+    "name": "Vyneria",
+    "website": "https://vyneria.fr/",
+    "store": "https://vyneria.fr/shop",
+    "addresses": [
+        "vyneria.fr"
+    ],
+    "primaryAddress": "play.vyneria.fr",
+    "primaryColor": "#006400",
+    "secondaryColor": "#90ee90",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/RBKJdhvKjk"
+    }
+}

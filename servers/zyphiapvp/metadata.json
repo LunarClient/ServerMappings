@@ -1,0 +1,46 @@
+{
+    "id": "zyphiapvp",
+    "name": "Zyphia PvP",
+    "description": "The Ultimate Factions Experience",
+    "website": "https://zyphiapvp.com",
+    "store": "https://store.zyphiapvp.com",
+    "addresses": [
+        "zyphiapvp.com"
+    ],
+    "primaryAddress": "zyphiapvp.com",
+    "primaryColor": "#32CD32",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zyphiapvp",
+        "twitter": "zyphiapvp",
+        "youtube": "@zyphiapvp",
+        "instagram": "zyphiapvp"
+    },
+    "votingLinks": [
+        "https://minecraft.buzz/server/16552",
+        "https://minecraftservers.org/server/678764",
+        "https://minecraft-server-list.com/server/514813/",
+        "https://minecraft-mp.com/server-s348753",
+        "https://mc-servers.com/server/6066"
+    ]
+}

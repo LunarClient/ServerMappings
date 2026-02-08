@@ -1,0 +1,31 @@
+{
+    "id": "warfine",
+    "name": "Warfine",
+    "website": "https://warfine.gg/",
+    "description": "A revolutionary new Potion PvP server.",
+    "addresses": [
+        "warfine.gg"
+    ],
+    "primaryAddress": "warfine.gg",
+    "primaryColor": "#4ED04C",
+    "secondaryColor": "#3FA53D",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "twitter": "WarfineGG",
+        "discord": "https://discord.com/invite/warfine"
+    }
+}

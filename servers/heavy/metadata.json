@@ -1,0 +1,34 @@
+{
+    "id": "heavy",
+    "name": "Heavy",
+    "store": "https://loja.redeheavy.com.br",
+    "addresses": [
+        "redeheavy.com.br"
+    ],
+    "primaryAddress": "redeheavy.com.br",
+    "primaryColor": "#f89900",
+    "secondaryColor": "#f89900",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Creative",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/redeheavy"
+    }
+}

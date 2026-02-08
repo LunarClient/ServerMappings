@@ -2,11 +2,12 @@
     "id": "mexacraft",
     "name": "Mexacraft Network",
     "store": "https://tienda.mexacraft.net",
-    "description": "¡Entra con Taquito a jugar!",
     "addresses": [
         "mexacraft.net"
     ],
     "primaryAddress": "mc.mexacraft.net",
+    "primaryColor": "#efba4d",
+    "secondaryColor": "#e5b302",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,15 +16,14 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#efba4d",
-    "secondaryColor": "#e5b302",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
@@ -32,6 +32,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/GDe3hT3K6u"
-    },
-    "crossplay": true
+    }
 }

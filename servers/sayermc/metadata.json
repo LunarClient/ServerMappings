@@ -1,0 +1,47 @@
+{
+    "id": "sayermc",
+    "name": "Sayer Network",
+    "website": "https://www.sayer.live",
+    "store": "https://store.sayer.live",
+    "description": "Servers with a friendly gaming experience - KatzeLLC.",
+    "addresses": [
+        "sayer.live"
+    ],
+    "primaryAddress": "sayer.live",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "SayerNetwork",
+        "telegram": "SayerNetwork",
+        "discord": "https://discord.gg/sayer-812165766970343434"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.sayer.live/privacy",
+        "termsOfService": "https://www.sayer.live/terms",
+        "rules": "https://www.sayer.live/rules"
+    }
+}

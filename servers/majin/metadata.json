@@ -1,6 +1,7 @@
 {
     "id": "majin",
     "name": "Majin",
+    "website": "https://majin.fr",
     "store": "https://store.majin.fr",
     "addresses": [
         "majin.fr"
@@ -29,7 +30,6 @@
         "Minigames",
         "PvP"
     ],
-    "website": "https://majin.fr",
     "socials": {
         "twitter": "MajinNetwork",
         "discord": "https://www.discord.gg/majinserv"

@@ -1,0 +1,43 @@
+{
+    "id": "gratopia",
+    "name": "Gratopia",
+    "store": "https://store.gratopia.gg",
+    "wiki": "https://wiki.gratopia.gg",
+    "description": "Vibrant Community - PG-13, Player Warps, Land Claims, Endless Fun!",
+    "addresses": [
+        "gratopia.gg"
+    ],
+    "primaryAddress": "gratopia.gg",
+    "primaryColor": "#ffc048",
+    "secondaryColor": "#917acf",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gratopia",
+        "tiktok": "@gratopia.gg"
+    }
+}

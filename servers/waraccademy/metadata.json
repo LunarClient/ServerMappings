@@ -5,8 +5,7 @@
     "store": "https://store.waraccademy.com/",
     "addresses": [
         "waraccademy.com",
-        "waraccademy.it",
-        "premium.waraccademy.com"
+        "waraccademy.it"
     ],
     "primaryAddress": "mc.waraccademy.com",
     "primaryColor": "#ff4e56",

@@ -1,0 +1,39 @@
+{
+    "id": "rubymc",
+    "name": "RubyMC.net",
+    "website": "https://rubymc.net",
+    "store": "https://store.rubymc.net",
+    "description": "A server that cares about you, offering PunchOut, BlockWatch, Survivor and more",
+    "addresses": [
+        "rubymc.net"
+    ],
+    "primaryAddress": "rubymc.net",
+    "primaryColor": "#e53630",
+    "secondaryColor": "#ffaa00",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/rubymc",
+        "twitter": "rubymcnet",
+        "youtube": "@RubyMCnet",
+        "instagram": "rubymcnet",
+        "tiktok": "@rubymcnet"
+    }
+}

@@ -15,7 +15,7 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "NA",
@@ -30,6 +30,6 @@
     "socials": {
         "discord": "https://discord.gg/bycraft-network-866746377651748865",
         "youtube": "bycraftnetwork",
-        "tiktok": "bycraft_network"
+        "tiktok": "@bycraft_network"
     }
 }

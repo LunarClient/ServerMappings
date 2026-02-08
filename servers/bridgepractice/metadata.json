@@ -6,6 +6,7 @@
     "addresses": [
         "bridgepractice.net"
     ],
+    "primaryAddress": "bridgepractice.net",
     "primaryColor": "#00b6f6",
     "secondaryColor": "#e33609",
     "gameTypes": [

@@ -1,11 +1,14 @@
 {
     "id": "zestianmc",
     "name": "ZestianMC",
-    "description": "Squid Games y más!",
+    "store": "https://tienda.zestian.co",
+    "description": "Squid Games and more!",
     "addresses": [
         "zestian.co"
     ],
     "primaryAddress": "mc.zestian.co",
+    "primaryColor": "#fbbf6d",
+    "secondaryColor": "#cf331c",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,22 +17,19 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#fbbf6d",
-    "secondaryColor": "#cf331c",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Skyblock"
     ],
-    "store": "https://tienda.zestian.co",
     "socials": {
         "discord": "https://discord.gg/d7UqmZ4V7D"
     }

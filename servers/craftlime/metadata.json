@@ -14,7 +14,7 @@
         "1.17.*",
         "1.18.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.16.5",
     "primaryRegion": "EU",
     "regions": [
         "EU"

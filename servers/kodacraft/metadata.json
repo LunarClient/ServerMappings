@@ -1,0 +1,30 @@
+{
+    "id": "kodacraft",
+    "name": "KodaCraft Network",
+    "description": "A Survival full of adventures and events in which you can participate!",
+    "store": "https://tienda.kodacraft.online",
+    "addresses": [
+        "kodacraft.online"
+    ],
+    "primaryAddress": "mc.kodacraft.online",
+    "primaryColor": "#9478f3",
+    "secondaryColor": "#2798f3",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": "true",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+		"Minigames"
+    ],
+    "socials": {
+        "tiktok": "@kodacraft04",
+        "discord": "https://discord.gg/kodacraft"
+    },
+    "crossplay": true
+}

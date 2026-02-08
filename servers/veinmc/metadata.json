@@ -1,0 +1,35 @@
+{
+    "id": "veinmc",
+    "name": "VeinMC",
+    "website": "https://veinmc.tebex.io",
+    "description": "VeinMC is a PvP and minigames server supporting Arabic & English players.",
+    "addresses": [
+        "veinmc.com"
+    ],
+    "primaryAddress": "play.veinmc.com",
+    "primaryColor": "#8B5CF6",
+    "secondaryColor": "#A855F7",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "primaryLanguage": "ar",
+    "languages": [
+        "ar",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/veinmc"
+    }
+}

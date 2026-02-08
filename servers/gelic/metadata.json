@@ -6,21 +6,21 @@
         "gelic.us"
     ],
     "primaryAddress": "gelic.us",
+    "primaryColor": "#33B2FF",
+    "secondaryColor": "#A7DDFE",
     "minecraftVersions": [
         "1.7.*",
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#33B2FF",
-    "secondaryColor": "#A7DDFE",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "PvP",

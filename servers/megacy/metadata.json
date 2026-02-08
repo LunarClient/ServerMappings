@@ -1,0 +1,37 @@
+{
+    "id": "megacy",
+    "name": "Megacy",
+    "store": "https://store.megacy.net/",
+    "description": "Megacy - Geopolitical 1.8 Siegewar!",
+    "addresses": [
+        "megacy.net"
+    ],
+    "primaryAddress": "megacy.net",
+    "primaryColor": "#F8B01A",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/megacy"
+    }
+}

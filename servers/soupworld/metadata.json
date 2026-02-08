@@ -2,7 +2,7 @@
     "id": "soupworld",
     "name": "SoupWorld",
     "website": "https://soupworld.net/",
-    "store": "https://store.soupworld.net/",
+    "store": "https://soupworld.tebex.io/",
     "addresses": [
         "soupworld.net"
     ],
@@ -22,6 +22,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/a73J46snGp"
+        "discord": "https://discord.gg/GZXNYRSfhH"
     }
 }

@@ -1,0 +1,39 @@
+{
+    "id": "lendarium",
+    "name": "Lendarium",
+    "website": "https://lendarium.net/",
+    "description": "From community to community!",
+    "addresses": [
+        "lendarium.net"
+    ],
+    "primaryAddress": "jogar.lendarium.net",
+    "primaryColor": "#fc8f03",
+    "secondaryColor": "#881c1e",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Lendarium"
+    }
+}

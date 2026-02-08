@@ -1,0 +1,32 @@
+{
+    "id": "moonwar",
+    "name": "MoonWar",
+    "website": "https://www.moonwar.eu",
+    "description": "Minecraft but on the moon!",
+    "addresses": [
+        "moonwar.eu"
+    ],
+    "primaryAddress": "mc.moonwar.eu",
+    "primaryColor": "#fee076",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "@moonwar",
+        "discord": "https://discord.gg/invite/moonwar"
+    }
+}

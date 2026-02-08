@@ -1,10 +1,13 @@
 {
     "id": "faypvp",
     "name": "FayPvP",
+    "store": "https://store.faypvp.cc",
     "addresses": [
         "faypvp.cc"
     ],
     "primaryAddress": "mc.faypvp.cc",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#F0F8FF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,22 +17,19 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#0000FF",
-    "secondaryColor": "#F0F8FF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://store.faypvp.cc",
     "socials": {
         "discord": "https://discord.gg/PeAzFBhPyx"
-    },
-    "crossplay": false
+    }
 }

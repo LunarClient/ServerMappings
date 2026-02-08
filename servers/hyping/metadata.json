@@ -1,0 +1,37 @@
+{
+    "id": "hyping",
+    "name": "Hyping",
+    "website": "https://playhyping.com/",
+    "store": "https://playhyping.com/shop/oneblock",
+    "description": "Hyping is THE Minecraft Oneblock & Survival server in France.",
+    "addresses": [
+        "hyping.fr"
+    ],
+    "primaryAddress": "play.hyping.fr",
+    "primaryColor": "#00D1FF",
+    "secondaryColor": "#FADD54",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Adventure",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "playHyping",
+        "discord": "https://discord.gg/hyping",
+        "youtube": "@PlayHyping",
+        "instagram": "playhyping",
+        "tiktok": "@playHyping"
+    }
+}

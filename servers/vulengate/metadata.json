@@ -4,7 +4,6 @@
     "website": "https://www.vulengate.com/",
     "store": "https://store.vulengate.com/",
     "addresses": [
-        "play.vulengate.com",
         "vulengate.com"
     ],
     "primaryAddress": "play.vulengate.com",

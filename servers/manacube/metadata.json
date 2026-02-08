@@ -3,39 +3,42 @@
     "name": "ManaCube",
     "website": "https://manacube.com/",
     "store": "https://store.manacube.com/",
+    "wiki": "https://manacube.wiki/",
+    "description": "Timeless gamemodes, original features, active community",
     "addresses": [
-        "play.manacube.com",
-        "play.manacube.net",
-        "mc.manacube.net",
-        "mc.manacube.com",
-        "manacube.net",
-        "manacube.com"
+        "manacube.com",
+        "manacube.net"
     ],
-    "primaryAddress": "play.manacube.com",
+    "primaryAddress": "lunar.manacube.com",
     "primaryColor": "#1b96a8",
     "secondaryColor": "#124656",
     "minecraftVersions": [
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
+        "PvP",
         "Parkour",
-        "Skyblock",
-        "Prison"
+        "Skyblock"
     ],
     "socials": {
         "twitter": "ManaCubeMC",
         "discord": "https://discord.com/invite/manacube",
         "youtube": "manacube",
-        "instagram": "manacubemc"
-    }
+        "instagram": "manacubemc",
+        "tiktok": "@manacubemc"
+    },
+    "compliance": {
+        "rules": "https://manacube.com/rules",
+        "support": "https://manacube.com/support/"
+    },
+    "presentationVideo": "YpNGlgZn2u4"
 }

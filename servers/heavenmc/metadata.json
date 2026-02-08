@@ -1,36 +1,36 @@
 {
     "id": "heavenmc",
     "name": "HeavenMC",
+    "website": "http://www,heavenmc.com.br/",
+    "store": "http://loja.heavenmc.com.br/",
     "addresses": [
         "heavenmc.com.br"
     ],
     "primaryAddress": "heavenmc.com.br",
+    "primaryColor": "#82ccf8",
+    "secondaryColor": "#0051b1",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#82ccf8",
-    "secondaryColor": "#0051b1",
-    "primaryLanguage": "pt-BR",
-    "languages": [
-        "pt-BR"
-    ],
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "http://www,heavenmc.com.br/",
-    "store": "http://loja.heavenmc.com.br/",
-    "presentationVideo": "-NtbbXR0ubE",
     "socials": {
         "twitter": "heavenminigames",
         "instagram": "heavenminigames",
-        "tiktok": "heavenminigames",
+        "tiktok": "@heavenminigames",
         "youtube": "@heavenminigames",
         "discord": "https://discord.com/invite/Z2TceKfgyG"
-    }
+    },
+    "presentationVideo": "-NtbbXR0ubE"
 }

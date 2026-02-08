@@ -2,11 +2,13 @@
     "id": "kingsmc",
     "name": "KingsMC",
     "website": "https://www.kingsmc.net/",
-    "description": "Forge Your Empire: KingsMC – Where Legends Are Crowned!",
+    "description": "Forge Your Empire: KingsMC - Where Legends Are Crowned!",
     "addresses": [
         "kingsmc.net"
     ],
     "primaryAddress": "play.kingsmc.net",
+    "primaryColor": "#ffc400",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,15 +19,13 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#ffc400",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",
@@ -33,7 +33,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/kingsmc",
-        "tiktok": "kingsmc.net",
+        "tiktok": "@kingsmc.net",
         "instagram": "play.kingsmc.net"
     }
 }

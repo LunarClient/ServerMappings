@@ -1,0 +1,39 @@
+{
+    "id": "newexpirence",
+    "name": "NewExp",
+    "website": "https://newexp.it/",
+    "store": "https://newexp.it/shop",
+    "description": "NewExp is a Server known for its SMP+. Join Now!",
+    "addresses": [
+        "newexp.it"
+    ],
+    "primaryAddress": "newexp.it",
+    "primaryColor": "#FF8000",
+    "secondaryColor": "#ff0000",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/newexp",
+        "instagram": "newexp",
+        "telegram": "newexp",
+        "tiktok": "@newexp"
+    }
+}

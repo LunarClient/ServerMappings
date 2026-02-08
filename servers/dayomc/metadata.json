@@ -1,0 +1,36 @@
+{
+    "id": "dayomc",
+    "name": "DayoMC",
+    "store": "https://tienda.dayomc.es/",
+    "addresses": [
+        "dayomc.es"
+    ],
+    "primaryAddress": "dayomc.es",
+    "primaryColor": "#3984FF",
+    "secondaryColor": "#8D35FF",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dayomc"
+    }
+}

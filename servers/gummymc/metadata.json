@@ -5,6 +5,8 @@
         "gummymc.net"
     ],
     "primaryAddress": "play.gummymc.net",
+    "primaryColor": "#b00078",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,15 +15,13 @@
         "1.18.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#b00078",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

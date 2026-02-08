@@ -1,11 +1,14 @@
 {
     "id": "sakurapvp",
     "name": "SakuraPvP Network",
+    "website": "https://sakura-store.tebex.io/",
+    "description": "Just a Soup and SkyWars Minecraft Network, 1.7.10 - 1.8.9 version.",
     "addresses": [
-        "sakurapvp.club",
-        "dragonblock.es"
+        "sakurapvp.club"
     ],
     "primaryAddress": "sakurapvp.club",
+    "primaryColor": "#ffb7c5",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -13,31 +16,22 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff00fb",
-    "secondaryColor": "#b200ff",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU",
-        "SA"
+        "NA"
+    ],
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
-        "Survival",
-        "Minigames",
-        "PvP"
+        "PvP",
+        "Minigames"
     ],
-    "store": "https://store.sakurapvp.club",
     "socials": {
-        "discord": "https://discord.gg/V5EdJwJQ3z"
-    },
-    "crossplay": true
+        "discord": "https://discord.gg/svuFsUR7NV"
+    }
 }

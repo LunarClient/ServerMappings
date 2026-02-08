@@ -1,0 +1,31 @@
+{
+    "id": "divinepvp",
+    "name": "DivinePvP",
+    "store": "https://bolt.divinepvp.hu",
+    "addresses": [
+        "divinepvp.hu"
+    ],
+    "primaryAddress": "play.divinepvp.hu",
+    "primaryColor": "#2f00c5",
+    "secondaryColor": "#3d85c6",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/aNS7n8fuvU"
+    }
+}

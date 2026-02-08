@@ -1,0 +1,25 @@
+{
+    "id": "historicanations",
+    "name": "Historica Nations",
+    "store": "https://shop.historica.me/",
+    "addresses": [
+        "historica.me"
+    ],
+    "primaryAddress": "historica.me",
+    "primaryColor": "#d751e4",
+    "secondaryColor": "#c0881b",
+    "minecraftVersions": [
+        "1.19.4"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Hu38HV7faP"
+    }
+}

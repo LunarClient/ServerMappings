@@ -1,0 +1,25 @@
+{
+    "id": "seapvp",
+    "name": "SeaPvP Network",
+    "store": "https://store.seapvp.com/",
+    "description": "A competitive Minecraft HCF Network",
+    "addresses": [
+        "seapvp.com"
+    ],
+    "primaryAddress": "seapvp.com",
+    "primaryColor": "#00F3FF",
+    "secondaryColor": "#ffcc00",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "SeaNetworkUS",
+        "discord": "https://discord.gg/FUkNexS68u"
+    }
+}

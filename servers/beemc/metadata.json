@@ -1,0 +1,35 @@
+{
+    "id": "beemc",
+    "name": "BEEMC",
+    "website": "https://beemc.pl/",
+    "store": "https://sklep.beemc.pl/",
+    "addresses": [
+        "beemc.pl"
+    ],
+    "primaryAddress": "mc.beemc.pl",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#E6A000",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/x76HVVnCHX"
+    }
+}
+

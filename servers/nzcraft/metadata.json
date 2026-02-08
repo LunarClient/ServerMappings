@@ -3,7 +3,7 @@
     "name": "NZCraft Network",
     "store": "https://tienda.nzcraft.net/",
     "addresses": [
-        "play.nzcraft.net"
+        "nzcraft.net"
     ],
     "primaryAddress": "play.nzcraft.net",
     "primaryColor": "#e8abed",
@@ -29,6 +29,6 @@
     "socials": {
         "twitter": "NzcraftSurvival",
         "discord": "https://discord.com/invite/9WGVngH",
-        "tiktok": "nzcraftserver"
+        "tiktok": "@nzcraftserver"
     }
 }

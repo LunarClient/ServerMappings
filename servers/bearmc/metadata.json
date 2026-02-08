@@ -2,31 +2,31 @@
     "id": "bearmc",
     "name": "BearMC Network",
     "website": "https://bearmc.cc/",
-    "store": "https://store.bearmc.cc/",    
+    "store": "https://store.bearmc.cc/",
     "addresses": [
         "bearmc.cc"
     ],
     "primaryAddress": "bearmc.cc",
+    "primaryColor": "#ff8700",
+    "secondaryColor": "#fff700",
     "minecraftVersions": [
         "1.8.*",
         "1.7.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff8700",
-    "secondaryColor": "#fff700",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "socials": {    
+    "socials": {
         "discord": "https://discord.gg/RYmqRbREkY"
     }
-}    
+}

@@ -1,7 +1,7 @@
 {
     "id": "voltagenetwork",
     "name": "Voltage MC",
-    "description": "Voltage Network ¦ Practice & KitPvP",
+    "description": "VoltageMC - Practice & FFA",
     "addresses": [
         "voltagemc.club"
     ],
@@ -10,13 +10,13 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#FFFF55",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU",
@@ -31,9 +31,7 @@
     "website": "https://www.voltagemc.club",
     "store": "https://store.voltagemc.club",
     "socials": {
-        "twitter": "N/A",
-        "telegram": "N/A",
-        "discord": "https://discord.voltagemc.club"
+        "discord": "https://discord.com/invite/Zxawrf4R5W"
     },
     "crossplay": false
 }

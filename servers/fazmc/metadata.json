@@ -1,11 +1,14 @@
 {
     "id": "fazmc",
     "name": "FazMC",
+    "website": "https://fazmc.com",
     "description": "FazMC is a minigames server with interesting, original modes.",
     "addresses": [
         "fazmc.com"
     ],
     "primaryAddress": "fazmc.com",
+    "primaryColor": "#df7b08",
+    "secondaryColor": "#feb00a",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -13,12 +16,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#df7b08",
-    "secondaryColor": "#feb00a",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -27,10 +24,13 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Minigames"
     ],
-    "website": "https://fazmc.com",
     "socials": {
         "discord": "https://discord.gg/CtrgrCQHBa"
     }

@@ -4,7 +4,6 @@
     "website": "https://fadecloud.com/",
     "store": "https://store.fadecloud.com/",
     "addresses": [
-        "play.fadecloud.com",
         "fadecloud.com"
     ],
     "primaryAddress": "play.fadecloud.com",

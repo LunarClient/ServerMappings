@@ -1,0 +1,34 @@
+{
+    "id": "minehalli",
+    "name": "Minehalli",
+    "website": "https://minehalli.fi/",
+    "description": "A great finnish Minecraft server.",
+    "addresses": [
+        "minehalli.fi"
+    ],
+    "primaryAddress": "mc.minehalli.fi",
+    "primaryColor": "#2aff00",
+    "secondaryColor": "#00dbff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/rKzPkDwEMe",
+        "youtube": "minehalli"
+    }
+}

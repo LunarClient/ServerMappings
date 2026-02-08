@@ -1,0 +1,39 @@
+{
+    "id": "asterial",
+    "name": "Asterial Network",
+    "store": "https://tienda.asterial.us/",
+    "description": "Server open, join now!",
+    "addresses": [
+        "asterial.us"
+    ],
+    "primaryAddress": "asterial.us",
+    "primaryColor": "#e29e71",
+    "secondaryColor": "#c07bd4",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "AsterialNT",
+        "tiktok": "@AsterialNT",
+        "discord": "https://discord.gg/asterial"
+    }
+}

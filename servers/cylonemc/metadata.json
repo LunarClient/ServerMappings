@@ -5,7 +5,7 @@
     "addresses": [
         "cylonemc.net",
         "cylonemc.com",
-        "pvp.cylone.net"
+        "cylone.net"
     ],
     "primaryAddress": "mc.cylonemc.net",
     "primaryColor": "#FA6BDF",
@@ -15,6 +15,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -24,7 +25,6 @@
         "Parkour",
         "PvP"
     ],
-    "crossplay": false,
     "socials": {
         "twitter": "cylonemc",
         "discord": "https://discord.com/invite/Urv66KG"

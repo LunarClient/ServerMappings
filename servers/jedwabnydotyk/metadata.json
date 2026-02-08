@@ -1,44 +1,44 @@
 {
     "id": "jedwabnydotyk",
     "name": "JedwabnyDotyk.pl",
-    "description": "Innowacyjny serwer UHC z aspektami FreeBuilda",
+    "website": "https://jedwabnydotyk.pl",
+    "store": "https://sklep.jedwabnydotyk.pl",
+    "description": "Innovative UHC server with FreeBuild aspects",
     "addresses": [
         "jedwabnydotyk.pl"
     ],
     "primaryAddress": "jedwabnydotyk.pl",
+    "primaryColor": "#e4ed40",
+    "secondaryColor": "#f55870",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#e4ed40",
-    "secondaryColor": "#f55870",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "pl",
     "languages": [
         "pl",
         "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
     ],
     "gameTypes": [
         "PvP",
         "UHC",
         "Survival"
     ],
-    "website": "https://jedwabnydotyk.pl",
-    "store": "https://sklep.jedwabnydotyk.pl",
-    "compliance": {
-        "privacyPolicy": "https://jedwabnydotyk.pl/rules",
-        "rules": "https://jedwabnydotyk.pl/rules"
-    },
-    "presentationVideo": "YXPcfkr0gMM",
     "socials": {
         "discord": "https://discord.com/invite/jedwabnydotyk-pl-686976017386307645",
         "instagram": "jedwabnydotykpl",
         "tiktok": "@jedwabnydotykpl"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://jedwabnydotyk.pl/rules",
+        "rules": "https://jedwabnydotyk.pl/rules"
+    },
+    "presentationVideo": "YXPcfkr0gMM"
 }

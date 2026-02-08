@@ -3,11 +3,13 @@
     "name": "OscureMC",
     "website": "https://oscuremc.net/",
     "store": "https://tienda.oscuremc.net/",
-    "description": "Servidor enfocado en la jugabilidad y desempeño de los jugadores de minecraft",
+    "description": "Server focused on the gameplay and performance of Minecraft players",
     "addresses": [
         "oscuremc.net"
     ],
     "primaryAddress": "play.oscuremc.net",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
     "minecraftVersions": [
         "1.8.*",
         "1.16.*",
@@ -21,8 +23,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#800080",
-    "secondaryColor": "#FFC0CB",
     "gameTypes": [
         "Survival",
         "Adventure",

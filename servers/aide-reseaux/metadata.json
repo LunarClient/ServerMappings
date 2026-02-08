@@ -1,0 +1,35 @@
+{
+    "id": "aide-reseaux",
+    "name": "Aide Réseaux",
+    "addresses": [
+        "aidereseaux.fr"
+    ],
+    "primaryAddress": "play.aidereseaux.fr",
+    "primaryColor": "#6CC349",
+    "secondaryColor": "#01A8F4",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "AideReseaux",
+        "discord": "https://discord.gg/reseaux",
+        "youtube": "@AideReseaux",
+        "instagram": "aidereseaux",
+        "twitch": "aidereseaux",
+        "tiktok": "@aidereseaux"
+    },
+    "presentationVideo": "DVPvWcdp53I"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "buildersacademy",
+    "name": "Builders Academy",
+    "store": "https://tienda.buildersacademy.net",
+    "description": "Epicenter of Hispanic builders, with modes focused on building.",
+    "addresses": [
+        "buildersacademy.net"
+    ],
+    "primaryAddress": "mc.buildersacademy.net",
+    "primaryColor": "#9e31f3",
+    "secondaryColor": "#673eec",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Creative"
+    ],
+    "socials": {
+        "twitter": "BuildersAcMC",
+        "discord": "https://discord.gg/buildersacademy",
+        "youtube": "buildersacmc",
+        "tiktok": "@buildersacmc"
+    }
+}

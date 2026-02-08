@@ -2,11 +2,13 @@
     "id": "storyrpg",
     "name": "StoryRPG",
     "store": "https://store.storyrpg.it/",
-    "description": "Storyrpg è la lifesteal più originale in italia",
+    "description": "Storyrpg is the most original lifesteal in Italy",
     "addresses": [
         "storyrpg.it"
     ],
-    "primaryAddress": "play.storyrpg.it.it",
+    "primaryAddress": "play.storyrpg.it",
+    "primaryColor": "#FBE108",
+    "secondaryColor": "#FF9F0A",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,23 +19,21 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FBE108",
-    "secondaryColor": "#FF9F0A",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
     "gameTypes": [
-	"Survival",
+        "Survival",
         "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/storyrpg",
         "telegram": "StoryRPG",
-        "tiktok": "storyrpg_network"
+        "tiktok": "@storyrpg_network"
     }
 }

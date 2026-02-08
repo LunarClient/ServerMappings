@@ -7,12 +7,12 @@
         "bravemc.net"
     ],
     "primaryAddress": "bravemc.net",
+    "primaryColor": "#ECECEC",
+    "secondaryColor": "#01C9BE",
     "minecraftVersions": [
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#ECECEC",
-    "secondaryColor": "#01C9BE",
     "primaryRegion": "NA",
     "regions": [
         "NA"

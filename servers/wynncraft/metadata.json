@@ -8,16 +8,14 @@
         "wynncraft.com"
     ],
     "primaryAddress": "lunar.wynncraft.com",
-    "minecraftVersions": [
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
-    ],
-    "primaryMinecraftVersion": "1.20.2",
     "primaryColor": "#64a030",
     "secondaryColor": "#2b3d1f",
+    "minecraftVersions": [
+        "1.20.5",
+        "1.20.6",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
     "gameTypes": [
         "Adventure",
         "PvE",
@@ -28,7 +26,7 @@
         "discord": "https://discord.com/invite/yJkSQwp",
         "youtube": "WynncraftOfficial",
         "reddit": "WynnCraft",
-        "tiktok": "wynncraftofficial"
+        "tiktok": "@wynncraftofficial"
     },
     "modpack": {
         "id": "cqIwxyhH",
