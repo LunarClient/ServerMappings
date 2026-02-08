@@ -1,31 +1,33 @@
 {
-    "id": "Only",
+    "id": "only",
     "name": "OnlyMC",
     "website": "https://onlymc.xyz/",
-    "description": "Spawn as a baby to a random player!",
+    "description": "There is no pay-to-win here.",
     "addresses": [
-        "1hour1life.net"
+        "onlymc.xyz"
     ],
     "primaryAddress": "onlymc.xyz",
     "primaryColor": "#77008A",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
-        "1.7.10 - 1.8.9"
+        "1.7.*",
+        "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
     ],
     "gameTypes": [
         "PvP",
-        "Hardcore Factions"
+        "Hardcore",
+        "Factions",
+        "HCF"
     ],
     "socials": {
         "discord": "https://discord.gg/jyxkREAZdZ",
