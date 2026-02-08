@@ -1,0 +1,43 @@
+{
+  "id": "hyxia",
+  "name": "Hyxia Network",
+  "description": "The ultimate 1.8.8 Prison OP and Practice experience on Hyxia Network.",
+  "addresses": [
+    "hyxiamc.com"
+  ],
+  "primaryAddress": "hyxiamc.com",
+  "gameTypes": [
+    "Prison",
+    "Practice"
+  ],
+  "primaryColor": "#D100D1",
+  "secondaryColor": "#000000",
+  "minecraftVersions": [
+    "1.8.9"
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "socials": {
+    "discord": "https://discord.gg/hyxiamc"
+  },
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "primaryRegion": "NA",
+  "languages": [
+    "es-ES"
+  ],
+  "primaryLanguage": "es-ES"
+}
