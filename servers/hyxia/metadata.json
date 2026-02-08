@@ -8,7 +8,7 @@
   "primaryAddress": "hyxiamc.com",
   "gameTypes": [
     "Prison",
-    "Practice"
+    "PvP"
   ],
   "primaryColor": "#D100D1",
   "secondaryColor": "#000000",
@@ -25,7 +25,6 @@
     "1.17",
     "1.18",
     "1.19"
-  ]
   ],
   "primaryMinecraftVersion": "1.8.9",
   "socials": {
