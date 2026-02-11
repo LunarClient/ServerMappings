@@ -8,8 +8,8 @@
         "diamondmc.it"
     ],
     "primaryAddress": "play.diamondmc.it",
-    "primaryColor": "#1d8ff7",
-    "secondaryColor": "#cac5be",
+    "primaryColor": "#00d9ff",
+    "secondaryColor": "#b0bec5",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
