@@ -3,9 +3,9 @@
     "name": "DiamondMC",
     "website": "https://www.diamondmc.it",
     "store": "https://www.diamondmc.it/store",
-    "description": "A server :D",
+    "description": "Network Minecraft italiano con modalità Survival e PvP",
     "addresses": [
-        "diamondmc.it"
+        "play.diamondmc.it"
     ],
     "primaryAddress": "play.diamondmc.it",
     "primaryColor": "#00d9ff",
@@ -24,8 +24,8 @@
         "it"
     ],
     "gameTypes": [
-        "SMP",
-        "Survival"
+        "Survival",
+        "PvP"
     ],
     "socials": {}
 }
