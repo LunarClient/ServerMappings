@@ -5,7 +5,7 @@
     "store": "https://www.diamondmc.it/store",
     "description": "Network Minecraft italiano con modalità Survival e PvP",
     "addresses": [
-        "play.diamondmc.it"
+        "diamondmc.it"
     ],
     "primaryAddress": "play.diamondmc.it",
     "primaryColor": "#00d9ff",
