@@ -1,0 +1,19 @@
+{
+    "id": "lyramc",
+    "name": "LyraMC",
+    "store": "https://store.lyramc.net/",
+    "description": "Just good survival, with a community like no other.",
+    "addresses": "lyramc.net",
+    "primaryAddress": "play.lyramc.net",
+    "primaryColor": "#F893CA",
+    "secondaryColor": "#FAD574",
+    "minecraftVersions": "1.21.*",
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": "NA",
+    "gameTypes": "Survival",
+    "socials": {
+        "discord": "https://discord.com/invite/rBH3qxWGUe",
+        "tiktok": "@lyramcnet"
+    }
+}
