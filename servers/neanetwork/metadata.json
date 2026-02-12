@@ -18,15 +18,15 @@
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "gameTypes": [
         "Survival",
         "Open World",
-        "Economy"
+        "PvE"
     ],
     "socials": {
         "discord": "https://discord.gg/668TSTw4hS"
