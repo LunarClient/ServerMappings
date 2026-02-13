@@ -83,11 +83,13 @@ jobs:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
-      - name: Configure production AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
+      - name: Configure Google Cloud credentials
+        uses: google-github-actions/auth@v1
         with:
-          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
-          aws-region: us-east-2
+          token_format: "access_token"
+          workload_identity_provider: "projects/303279774233/locations/global/workloadIdentityPools/github/providers/github-oidc"
+          service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
+          create_credentials_file: true
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -153,12 +155,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
-      
-      - name: Upload to S3
-        run: |
-          aws s3 sync .out s3://lunarclient-servermappings --cache-control "public, max-age=14400"
-          aws s3 cp .out/servers.json s3://lunarclient-servermappings/servers.json --content-type "application/json"
-          aws s3 cp .out/servers.csv s3://lunarclient-servermappings/servers.csv --content-type "text/csv"
+
+      - name: Upload to GCS
+        run: cd .out/ && gcloud storage cp --recursive . gs://servermappings-lunarclientcdn-com
 
       - name: Purge Cloudflare cache
         env:
