@@ -1,6 +1,7 @@
 {
     "id": "mythicgg",
     "name": "Mythic Network",
+    "description": "A refined twist on popular gamemodes with a strong community focus", 
     "addresses": [
         "mythic.gg"
     ],
@@ -30,11 +31,11 @@
         "rules": "https://www.mythic.gg/rules"
     },
     "socials": {
-        "discord": "https://discord.gg/wK5zbUbPbE"
+        "discord": "https://discord.gg/wK5zbUbPbE",
         "twitter": "MythicGGNetwork",
-        "youtube": "@MythicGGNetwork",
+        "youtube": "MythicGGNetwork",
         "instagram": "mythicggnetwork",
-        "tiktok": "@MythicGG",
+        "tiktok": "MythicGG"
     },
     "crossplay": false
 }
