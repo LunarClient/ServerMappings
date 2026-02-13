@@ -9,22 +9,20 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.4",
+    "primaryMinecraftVersion": "1.21.1",
     "primaryColor": "#00d4ff",
     "secondaryColor": "#00b8a9",
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "OC",
     "regions": [
-        "NA",
         "OC"
     ],
     "gameTypes": [
         "Survival",
-        "PvE",
-        "Open World"
+        "PvP"
     ],
     "website": "https://tidefallmc.xyz",
     "store": "https://tidefallmc.xyz",
