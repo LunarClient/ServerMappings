@@ -1,0 +1,30 @@
+{
+    "id": "pvppractice",
+    "name": "PvPPractice",
+    "description": "Simple Minecraft PvP practice server focused on duels and skill improvement.",
+    "addresses": [
+        "pvppractice.xyz"
+    ],
+    "primaryAddress": "pvppractice.xyz",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#F5C16C",
+    "secondaryColor": "#2B2B2B",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/NJeKhtkts8"
+    },
+    "crossplay": false
+}

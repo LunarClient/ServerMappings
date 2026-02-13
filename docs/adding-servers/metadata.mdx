@@ -1,3 +1,5 @@
+import { Callout } from "nextra/components";
+
 # Server Metadata
 
 Each server must have a `metadata.json`, this file should follow the schema found in the root of this repository `metadata.schema.json`.
@@ -29,6 +31,11 @@ The `addresses` array in each server object is actually an array of IP suffixes.
 | `lunar.gg`    | `eu.lunar.gg`      |
 
 The `primaryAddress` in each server object is for users to connect to your server on and is required to be resolvable. This primary address will be used to ensure that the server remains online and active. **This can (and should) include the subdomain for the server**.
+
+<Callout type="warning" emoji="⚠️">
+    Make sure that you own the root domain you want to submit. We do not support domains provided by hosting services (e.g. `myserver.host.com`). You must purchase and configure your own custom domain (e.g. `myserver.com`).
+</Callout>
+
 
 ### Game Types
 
