@@ -1,0 +1,26 @@
+{
+  "id": "apfelpvp",
+  "name": "ApfelPVP"
+  "description": "ApfelPVP Survival, FFA, Duels",
+  "addresses": [
+    "51.38.155.205:22334"
+  ],
+  "primaryAddress": "51.38.155.205:22334",
+  "primaryColor": "##82a656",
+  "secondaryColor": "#989996",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "SMP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/QUkfMpgsfx"
+  }
+}
