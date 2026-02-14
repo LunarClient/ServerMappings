@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "tidefallmc.xyz",
     "minecraftVersions": [
-        "1.21.*"
+        "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#00d4ff",
@@ -24,10 +24,9 @@
         "Survival",
         "PvP"
     ],
-    "website": "https://tidefallmc.xyz",
     "store": "https://tidefallmc.xyz",
     "socials": {
-        "discord": "https://discord.gg/tFkQR2tr9C"
+        "discord": "https://discord.gg/utdTQcFDBB"
     },
     "votingLinks": [
         "https://topminecraftservers.org/server/42771"
