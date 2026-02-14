@@ -1,6 +1,7 @@
 {
     "id": "apfelpvp",
     "name": "ApfelPVP",
+    "description": "ApfelPvP is a new in Beta Server",
     "addresses": [
         "51.38.155.205:22334"
     ],
