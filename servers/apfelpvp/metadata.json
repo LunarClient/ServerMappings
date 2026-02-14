@@ -3,15 +3,15 @@
     "name": "ApfelPVP",
     "description": "ApfelPvP is a new in Beta Server",
     "addresses": [
-        "51.38.155.205:22334"
+        "51.38.155.205"
     ],
-    "primaryAddress": "51.38.155.205:22334",
+    "primaryAddress": "51.38.155.205",
     "primaryColor": "#64b864",
     "secondaryColor": "#687268",
     "minecraftVersions": [
         "1.21"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "1.21",
     "primaryRegion": "EU",
     "regions": [
         "EU"
