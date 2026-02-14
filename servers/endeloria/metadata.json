@@ -1,0 +1,27 @@
+{
+  "id": "endeloria",
+  "name": "Endeloria",
+  "website": "https://endeloria.net",
+  "description": "Originální český Minecraft server",
+  "addresses": [
+    "endeloria.net",
+    "mc.endeloria.net"
+  ],
+  "primaryAddress": "mc.endeloria.net",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#a349a4",
+  "primaryLanguage": "cs",
+  "languages": [
+    "cs"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ]
+}
