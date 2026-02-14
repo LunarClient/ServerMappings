@@ -2,8 +2,7 @@
     "id": "falchus",
     "name": "Falchus",
     "addresses": [
-        "falchus.com",
-        "mc.falchus.com"
+        "falchus.com"
     ],
     "primaryAddress": "falchus.com",
     "gameTypes": [
