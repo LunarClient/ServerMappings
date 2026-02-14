@@ -1,0 +1,29 @@
+{
+  "id": "ryzenmc",
+  "name": "RyzenMC",
+  "description": "Competitive 1.21 PvP Practice server with global regions (EU / NA / AS).",
+  "addresses": [
+    "ryzenmc.net"
+  ],
+  "primaryAddress": "ryzenmc.net",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU",
+    "NA",
+    "AS"
+  ],
+  "crossplay": false,
+  "primaryColor": "#20A2FA",
+  "secondaryColor": "#0FC2FB"
+}
