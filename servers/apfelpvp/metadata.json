@@ -3,7 +3,8 @@
     "name": "ApfelPVP",
     "description": "ApfelPvP is a new in Beta Server",
     "addresses": [
-        "apfelpvp.de"
+        "apfelpvp.de",
+        "apfelmc.duckdns.org"
     ],
     "primaryAddress": "apfelpvp.de",
     "primaryColor": "#64b864",
