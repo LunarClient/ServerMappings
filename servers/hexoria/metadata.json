@@ -1,7 +1,8 @@
 {
+  "id": "hexoria",
   "name": "Hexoria Network",
   "addresses": [
-    "Play.hexoria.club"
+    "play.hexoria.club"
   ],
   "links": {
     "discord": "https://discord.gg/PSaBSwEBEw",
