@@ -12,7 +12,7 @@
     "1.20.*",
     "1.21.*"
   ],
-  "primaryMinecraftVersion": "1.21.*",
+  "primaryMinecraftVersion": "1.21.11",
   "crossplay": false,
   "primaryRegion": "EU",
   "regions": [
@@ -23,9 +23,7 @@
     "en"
   ],
   "gameTypes": [
-    "Duels",
-    "UHC Run",
-    "Egg Wars"
+    "Minigames"
   ],
   "website": "https://mcrybar.cz/",
   "store": "https://store.mcrybar.cz/",
