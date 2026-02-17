@@ -1,0 +1,34 @@
+{
+    "id": "pvpcookie",
+    "name": "PVPCookie",
+    "description": "Competitive Minecraft PvP server with a unique cookie theme.",
+    "website": "https://pvpcookie.pl/",
+    "store": "https://pvpcookie.pl/sklep",
+    "addresses": [
+        "pvpcookie.pl"
+    ],
+    "primaryAddress": "pvpcookie.pl",
+    "primaryColor": "#6F4E37",
+    "secondaryColor": "#3D2B1F",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mmXgnWtgGe"
+    }
+}
