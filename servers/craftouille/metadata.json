@@ -1,0 +1,32 @@
+{
+    "id": "craftouille",
+    "name": "Craftouille",
+    "description": "Craftouille.fr is a fun French Minecraft server with unique adventures! to play!",
+    "addresses": [
+        "craftouille.fr"
+    ],
+    "primaryAddress": "craftouille.fr",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#F66809",
+    "secondaryColor": "#BF4545",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Survival"
+    ],
+    "website": "https://craftouille.fr",
+    "socials": {
+        "discord": "https://discord.gg/WpmvCnK2P9"
+    },
+    "crossplay": false
+}
