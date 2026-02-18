@@ -1,0 +1,35 @@
+{
+    "id": "tidefallmc",
+    "name": "Tidefall Network",
+    "description": "An ocean-themed survival SMP with custom ranks, crates, and jobs.",
+    "addresses": [
+        "tidefallmc.xyz"
+    ],
+    "primaryAddress": "tidefallmc.xyz",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#00d4ff",
+    "secondaryColor": "#00b8a9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "store": "https://tidefallmc.xyz",
+    "socials": {
+        "discord": "https://discord.gg/utdTQcFDBB"
+    },
+    "votingLinks": [
+        "https://topminecraftservers.org/server/42771"
+    ],
+    "crossplay": false
+}

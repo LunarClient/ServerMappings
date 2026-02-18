@@ -1,0 +1,33 @@
+{
+    "id": "nasa",
+    "name": "Nasa",
+    "website": "https://nasa.gg/",
+    "store": "https://store.nasa.gg/",
+    "addresses": [
+        "nasa.gg"
+    ],
+    "primaryAddress": "nasa.gg",
+    "primaryColor": "#6e9eff",
+    "secondaryColor": "#a68cff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Hardcore",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/nasagg",
+        "twitter": "https://twitter.com/playnasagg"
+    },
+    "compliance": {
+        "rules": "https://nasa.gg/rules/",
+        "support": "https://nasa.gg/support/"
+    }
+}
