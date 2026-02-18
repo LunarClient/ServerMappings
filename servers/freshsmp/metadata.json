@@ -1,31 +1,45 @@
 {
     "id": "freshsmp",
     "name": "FreshSMP",
+    "description": "The FreshSMP a Public Minecraft Network open to both Java and Bedrock players! Come join one of our servers, like Survival, or Lifesteal, which are always full of active players and a ton of fun to play!",
+    "website": "https://freshsmp.fun/",
     "store": "https://store.freshsmp.fun/",
     "addresses": [
-        "freshsmp.fun"
+        "freshsmp.fun",
+        "play.freshsmp.fun"
     ],
     "primaryAddress": "play.freshsmp.fun",
-    "primaryColor": "#ecb94f",
-    "secondaryColor": "#372826",
+    "primaryColor": "#21E5EB",
+    "secondaryColor": "#F5FCFC",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
+        "Lifesteal",
         "Survival",
         "Skyblock"
     ],
+    "crossplay": false,
     "socials": {
         "twitter": "FreshSMP",
-        "discord": "https://discord.com/invite/JFnpFNjDgk",
+        "discord": "https://discord.gg/freshsmp",
         "youtube": "FreshSMP",
         "instagram": "freshsmpinsta",
         "tiktok": "@freshsmptiktok"
+    },
+    "compliance": {
+        "termsOfService": "https://store.freshsmp.fun/terms",
+        "rules": "https://store.freshsmp.fun/rules",
+        "support": "https://store.freshsmp.fun/support"
     }
 }
