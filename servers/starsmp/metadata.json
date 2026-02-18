@@ -18,14 +18,13 @@
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "rs",
+    "primaryLanguage": "en",
     "languages": [
-        "rs",
         "en"
         
     ],
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/starsmpmc"
