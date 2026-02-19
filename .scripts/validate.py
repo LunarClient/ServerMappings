@@ -272,9 +272,9 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                         if domain is not None and domain.fld in HOSTING_DOMAIN_BLACKLIST:
                             messages[server_id].append(f"The domain {domain.fld} belongs to a hosting provider. You must use a custom domain that you fully own (e.g. myserver.com instead of myserver.hosting.com). Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata#addresses).")
                         
-                        if domain is not None and domain.subdomain:
-                            messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
-                        
+                        #if domain is not None and domain.subdomain:
+                            #messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                        # Removed this check as domains are expensive, subdomains also can work
                         if domain is not None and domain.fld in seen_domains:
                             messages[server_id].append(f"The domain {domain.fld} is also present in {', '.join(map(lambda s: f"`{s}`", seen_domains[domain.fld]))}. Please ensure each server has a unique domain(s).")
                         elif domain is not None:
