@@ -1,0 +1,30 @@
+{
+    "id": "pixranetwork",
+    "name": "PixraNetwork",
+    "store": "https://store.pixranetwork.asia/",
+	"website": "https://www.pixranetwork.asia/",
+    "addresses": [
+        "pixranetwork.asia"
+    ],
+    "primaryAddress": "pixranetwork.asia",
+    "primaryColor": "#519913",
+    "secondaryColor": "#abe024",
+    "minecraftVersions": [
+        "1.8.9",
+		"1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+		"Minigames"
+    ],
+    "socials": {
+        "tiktok": "@pixranetwork.asia",
+        "discord": "https://discord.gg/cxZuaSz8Sq",
+		"instagram": "pixranetwork.asia"
+    }
+}
