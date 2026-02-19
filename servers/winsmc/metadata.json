@@ -4,7 +4,9 @@
     "website": "https://www.winsmc.com.br/",
     "store": "https://www.winsmc.com.br/loja",
     "description": "Formed by passionate players who venture into Minigames!",
-    "addresses": "winsmc.com.br",
+    "addresses": [
+        "winsmc.com.br"
+    ],
     "primaryAddress": "winsmc.com.br",
     "primaryColor": "#f1c40f",
     "secondaryColor": "#cc681c",
