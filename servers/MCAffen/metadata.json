@@ -1,10 +1,10 @@
 {
-    "id": "mcaffen",
+    "id": "MCAffen",
     "name": "McAffen",
     "addresses": [
-        "McAffen.de"
+        "mcaffen.de"
     ],
-    "primaryAddress": "McAffen.de",
+    "primaryAddress": "mcaffen.de",
     "primaryColor": "#ceb19e",
     "secondaryColor": "#000000",
     "minecraftVersions": [
@@ -12,8 +12,10 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryRegion": "DE",
+    "primaryRegion": "EU",
     "gameTypes": [
-        "Citybuild"
+        "Survival",
+        "PvP",
+        "Open World"
     ]
 }
