@@ -7,6 +7,8 @@
         "moonsama.com"
     ],
     "primaryAddress": "mc.moonsama.com",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#1b1b3a",
     "minecraftVersions": [
         "1.18.2"
     ],
@@ -17,8 +19,6 @@
         "EU",
         "AS"
     ],
-    "primaryColor": "#ffffff",
-    "secondaryColor": "#1b1b3a",
     "gameTypes": [
         "Minigames",
         "PvP"

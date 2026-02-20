@@ -7,6 +7,8 @@
         "oceanmc.es"
     ],
     "primaryAddress": "oceanmc.es",
+    "primaryColor": "#00FFF7",
+    "secondaryColor": "#003A9E",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,15 +18,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#00FFF7",
-    "secondaryColor": "#003A9E",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",

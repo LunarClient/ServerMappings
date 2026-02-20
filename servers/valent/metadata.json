@@ -6,13 +6,13 @@
         "valent.gg"
     ],
     "primaryAddress": "valent.gg",
+    "primaryColor": "#e6c627",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#e6c627",
-    "secondaryColor": "#ffffff",
     "primaryRegion": "EU",
     "regions": [
         "EU",

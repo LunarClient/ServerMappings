@@ -6,6 +6,8 @@
         "vytrexpvp.live"
     ],
     "primaryAddress": "play.vytrexpvp.live",
+    "primaryColor": "#cc0000",
+    "secondaryColor": "#444444",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -13,15 +15,13 @@
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#cc0000",
-    "secondaryColor": "#444444",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

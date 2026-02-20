@@ -1,8 +1,8 @@
 {
     "id": "nightly",
     "name": "Nightly",
-    "description": "Providing the most refined Modern PvP experience in Australia!",
     "store": "https://store.nightlymc.com/",
+    "description": "Providing the most refined Modern PvP experience in Australia!",
     "addresses": [
         "nightlymc.com",
         "cobalt.club",

@@ -1,34 +1,34 @@
 {
     "id": "pvprefuge",
     "name": "PvPRefuge",
+    "website": "https://pvprefuge.net",
+    "store": "https://pvprefuge.net/store",
     "description": "PvPRefuge is a network focused on PvP like UHC, HCF & Practice.",
     "addresses": [
         "pvprefuge.net"
     ],
     "primaryAddress": "pvprefuge.net",
+    "primaryColor": "#01eef6",
+    "secondaryColor": "#00514e",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#01eef6",
-    "secondaryColor": "#00514e",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
         "es-EN"
     ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
     "gameTypes": [
-    "HCF",
-    "UHC",
-    "PvP"
+        "HCF",
+        "UHC",
+        "PvP"
     ],
-    "website": "https://pvprefuge.net",
-    "store": "https://pvprefuge.net/store",
     "socials": {
         "twitter": "PvPRefuge",
         "discord": "https://www.pvprefuge.net/discord"

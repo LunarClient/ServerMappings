@@ -5,6 +5,8 @@
         "myntora.net"
     ],
     "primaryAddress": "play.myntora.net",
+    "primaryColor": "#4e1b79",
+    "secondaryColor": "#0b0a11",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -12,7 +14,5 @@
         "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#4e1b79",
-    "secondaryColor": "#0b0a11"
+    "primaryMinecraftVersion": "1.19.2"
 }

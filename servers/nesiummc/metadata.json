@@ -1,12 +1,14 @@
 {
     "id": "nesiummc",
     "name": "NesiumMC",
+    "store": "https://store.nesiummc.com",
     "description": "A new thrilling SMP.",
-    "store": "https://store.nesiummc.com",    
     "addresses": [
         "nesiummc.com"
     ],
     "primaryAddress": "lunar.nesiummc.com",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.16.*",
         "1.18.*",
@@ -15,23 +17,20 @@
         "1.21"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#AA00AA",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival"
     ],
-
     "socials": {
         "tiktok": "@nesiummc",
         "discord": "https://discord.gg/p7yhqjemEa"
-    },
-    "crossplay": true
+    }
 }

@@ -1,11 +1,15 @@
 {
     "id": "zetta",
     "name": "Zetta Network",
+    "website": "https://www.zetta.gg",
+    "store": "https://store.zetta.gg",
     "description": "Experience Minecraft in a whole new way.",
     "addresses": [
         "zetta.gg"
     ],
     "primaryAddress": "zetta.gg",
+    "primaryColor": "#45e5ed",
+    "secondaryColor": "#09adb5",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -15,21 +19,17 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#45e5ed",
-    "secondaryColor": "#09adb5",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.zetta.gg",
-    "store": "https://store.zetta.gg",
     "socials": {
         "twitter": "Zettadotgg",
         "discord": "https://discord.gg/zetta"

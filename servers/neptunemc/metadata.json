@@ -7,6 +7,8 @@
         "skyvermc.es"
     ],
     "primaryAddress": "play.neptunemc.es",
+    "primaryColor": "#7c6dc7",
+    "secondaryColor": "#9795eb",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -14,7 +16,5 @@
         "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.17.1",
-    "primaryColor": "#7c6dc7",
-    "secondaryColor": "#9795eb"
+    "primaryMinecraftVersion": "1.17.1"
 }

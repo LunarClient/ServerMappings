@@ -5,6 +5,8 @@
         "kiopvp.com"
     ],
     "primaryAddress": "kiopvp.com",
+    "primaryColor": "#9d3df6",
+    "secondaryColor": "#80480f",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -13,7 +15,5 @@
     "gameTypes": [
         "Minigames",
         "PvP"
-    ],
-    "primaryColor": "#9d3df6",
-    "secondaryColor": "#80480f"
+    ]
 }

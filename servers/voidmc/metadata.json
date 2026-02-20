@@ -1,10 +1,13 @@
 {
     "id": "voidmc",
     "name": "VoidMC Network",
+    "store": "https://tienda.voidmc.club",
     "addresses": [
         "voidmc.club"
     ],
     "primaryAddress": "voidmc.club",
+    "primaryColor": "#7932B8",
+    "secondaryColor": "#F1F1F1",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -16,27 +19,24 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#7932B8",
-    "secondaryColor": "#F1F1F1",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "Prison",
         "PvP"
     ],
-    "store": "https://tienda.voidmc.club",
     "socials": {
         "discord": "https://discord.gg/VQVDwQnbZ2"
-    },
-    "crossplay": true
+    }
 }

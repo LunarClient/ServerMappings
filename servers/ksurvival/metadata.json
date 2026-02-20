@@ -1,32 +1,32 @@
 {
     "id": "ksurvival",
     "name": "KSurvival",
+    "store": "https://store.ksurvival.eu",
     "description": "Custom Survival for fun",
     "addresses": [
         "ksurvival.eu"
     ],
     "primaryAddress": "play.ksurvival.eu",
+    "primaryColor": "#ffd500",
+    "secondaryColor": "#ff6600",
     "minecraftVersions": [
         "1.20.*",
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#ffd500",
-    "secondaryColor": "#ff6600",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://store.ksurvival.eu",
     "socials": {
         "discord": "https://discord.gg/TKZvtN9qvk"
-    },
-    "crossplay": false
+    }
 }

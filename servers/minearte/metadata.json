@@ -7,6 +7,8 @@
         "minearte.net"
     ],
     "primaryAddress": "mc.minearte.net",
+    "primaryColor": "#bd6800",
+    "secondaryColor": "#fcbe2b",
     "minecraftVersions": [
         "1.20.*",
         "1.19.*",
@@ -17,16 +19,15 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#bd6800",
-    "secondaryColor": "#fcbe2b",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "EU",
         "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
@@ -36,6 +37,5 @@
         "twitter": "MinearteNet",
         "discord": "https://discord.com/invite/cehWysWBJx",
         "tiktok": "mineartenet"
-    },
-    "crossplay": true
+    }
 }

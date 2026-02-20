@@ -1,35 +1,33 @@
 {
     "id": "mythicgg",
     "name": "Mythic Network",
-    "description": "A refined twist on popular gamemodes with a strong community focus", 
+    "website": "https://www.mythic.gg",
+    "store": "https://store.mythic.gg",
+    "description": "A refined twist on popular gamemodes with a strong community focus",
     "addresses": [
         "mythic.gg"
     ],
     "primaryAddress": "mythic.gg",
+    "primaryColor": "#aa00aa",
+    "secondaryColor": "#bb86fc",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.10",
-    "primaryColor": "#aa00aa",
-    "secondaryColor": "#bb86fc",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "OC",
     "regions": [
         "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Parkour"
     ],
-    "website": "https://www.mythic.gg",
-    "store": "https://store.mythic.gg",
-    "compliance": {
-        "rules": "https://www.mythic.gg/rules"
-    },
     "socials": {
         "discord": "https://discord.gg/wK5zbUbPbE",
         "twitter": "MythicGGNetwork",
@@ -37,5 +35,7 @@
         "instagram": "mythicggnetwork",
         "tiktok": "@MythicGG"
     },
-    "crossplay": false
+    "compliance": {
+        "rules": "https://www.mythic.gg/rules"
+    }
 }

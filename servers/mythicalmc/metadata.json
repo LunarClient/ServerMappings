@@ -4,9 +4,9 @@
     "addresses": [
         "mythicalmc.org"
     ],
+    "primaryColor": "#4d391e",
+    "secondaryColor": "#efd8ae",
     "gameTypes": [
         "PvP"
-    ],
-    "primaryColor": "#4d391e",
-    "secondaryColor": "#efd8ae"
+    ]
 }

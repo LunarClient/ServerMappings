@@ -7,9 +7,9 @@
         "pixelcade.net"
     ],
     "primaryAddress": "play.pixelcade.net",
+    "primaryColor": "#c53d4e",
+    "secondaryColor": "#844ad4",
     "gameTypes": [
         "Prison"
-    ],
-    "primaryColor": "#c53d4e",
-    "secondaryColor": "#844ad4"
+    ]
 }

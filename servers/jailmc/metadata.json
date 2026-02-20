@@ -7,6 +7,8 @@
         "jailmc.com"
     ],
     "primaryAddress": "jailmc.com",
+    "primaryColor": "#79c8f5",
+    "secondaryColor": "#e5be22",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -15,8 +17,6 @@
         "1.18.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#79c8f5",
-    "secondaryColor": "#e5be22",
     "primaryRegion": "NA",
     "regions": [
         "NA"

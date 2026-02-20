@@ -9,22 +9,22 @@
         "reberion.eu"
     ],
     "primaryAddress": "eu.reberion.com",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#d01e1e",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#d01e1e",
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "tr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "tr"
     ],
     "gameTypes": [
         "PvP"

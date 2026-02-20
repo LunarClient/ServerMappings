@@ -1,32 +1,32 @@
 {
     "id": "splashnetwork",
     "name": "SplashNetwork",
+    "website": "https://splashnetwork.nl",
+    "store": "https://shop.splashnetwork.nl",
     "description": "SplashNetwork een netwerk waar het allemaal gebeurd.",
     "addresses": [
         "splashnetwork.nl"
     ],
     "primaryAddress": "play.splashnetwork.nl",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#2150d1",
     "minecraftVersions": [
         "1.12.*"
     ],
     "primaryMinecraftVersion": "1.12.2",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#2150d1",
-    "primaryLanguage": "nl",
-    "languages": [
-        "nl"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
     ],
     "gameTypes": [
         "Roleplay",
         "PvP",
         "Survival"
     ],
-    "website": "https://splashnetwork.nl",
-    "store": "https://shop.splashnetwork.nl",
     "socials": {
         "discord": "https://discord.gg/splashnetwork"
     }

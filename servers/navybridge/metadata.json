@@ -6,16 +6,16 @@
         "navy.mcpro.io"
     ],
     "primaryAddress": "navy.mcpro.io",
+    "primaryColor": "#FFB000",
+    "secondaryColor": "#2d576c",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFB000",
-    "secondaryColor": "#2d576c",
+    "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryRegion": "NA",
     "gameTypes": [
         "PvP"
     ],

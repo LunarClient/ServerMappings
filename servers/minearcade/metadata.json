@@ -4,9 +4,9 @@
     "addresses": [
         "minearcade.org"
     ],
+    "primaryColor": "#f9f9f9",
+    "secondaryColor": "#333534",
     "gameTypes": [
         "Prison"
-    ],
-    "primaryColor": "#f9f9f9",
-    "secondaryColor": "#333534"
+    ]
 }

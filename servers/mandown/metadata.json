@@ -6,6 +6,8 @@
         "mandown.us"
     ],
     "primaryAddress": "mandown.us",
+    "primaryColor": "#ff3232",
+    "secondaryColor": "#650000",
     "minecraftVersions": [
         "1.8.9"
     ],
@@ -14,8 +16,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#ff3232",
-    "secondaryColor": "#650000",
     "gameTypes": [
         "HCF",
         "PvP"

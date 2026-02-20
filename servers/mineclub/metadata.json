@@ -7,6 +7,8 @@
         "mineclub.com"
     ],
     "primaryAddress": "play.mineclub.com",
+    "primaryColor": "#660e84",
+    "secondaryColor": "#4787d3",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*"
@@ -16,8 +18,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#660e84",
-    "secondaryColor": "#4787d3",
     "gameTypes": [
         "Minigames",
         "PvP"

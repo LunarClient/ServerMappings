@@ -1,18 +1,19 @@
 {
     "id": "alinium",
     "name": "Alinium",
+    "website": "https://www.alinium.fr",
     "description": "The best survival server, elected by ourselves.",
     "addresses": [
         "alinium.fr"
     ],
     "primaryAddress": "alinium.fr",
+    "primaryColor": "#2F0046",
+    "secondaryColor": "#8A05C7",
     "minecraftVersions": [
         "1.21"
     ],
     "primaryMinecraftVersion": "1.21",
     "crossplay": false,
-    "primaryColor": "#2F0046",
-    "secondaryColor": "#8A05C7",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -26,7 +27,6 @@
         "Survival",
         "Adventure"
     ],
-    "website": "https://www.alinium.fr",
     "socials": {
         "discord": "https://discord.com/invite/8xbQUMxDeh"
     }

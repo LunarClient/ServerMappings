@@ -1,10 +1,14 @@
 {
     "id": "hylers",
     "name": "Hylers Network",
+    "website": "https://hylers.us/",
+    "store": "https://hylers.us/tienda",
     "addresses": [
         "hylers.us"
     ],
     "primaryAddress": "mc.hylers.us",
+    "primaryColor": "#d28500",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,21 +18,17 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#d28500",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://hylers.us/",
-    "store": "https://hylers.us/tienda",
     "socials": {
         "twitter": "hylersnw",
         "discord": "https://discord.gg/yMM42tkg9X"

@@ -1,28 +1,28 @@
 {
-  "id": "candypvp",
-  "name": "CandyPvP",
-  "primaryAddress": "candypvp.com",
-  "addresses": [
-    "candypvp.com"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "minecraftVersions": [
-    "1.8.9",
-    "1.20.4"
-  ],
-  "website": "https://candypvp.com/",
-  "store": "https://store.candypvp.com/",
-  "primaryColor": "#df0cc6",
-  "secondaryColor": "#ffffff",
-  "gameTypes": [
-    "HCF",
-    "PvP",
-    "Skyblock"
-  ],
-  "socials": {
-    "twitter": "CandyPvp",
-    "discord": "https://discord.gg/GPdurEzJGY",
-    "telegram": "candypvp",
-    "tiktok": "@candypvp"
-  }
+    "id": "candypvp",
+    "name": "CandyPvP",
+    "website": "https://candypvp.com/",
+    "store": "https://store.candypvp.com/",
+    "addresses": [
+        "candypvp.com"
+    ],
+    "primaryAddress": "candypvp.com",
+    "primaryColor": "#df0cc6",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "CandyPvp",
+        "discord": "https://discord.gg/GPdurEzJGY",
+        "telegram": "candypvp",
+        "tiktok": "@candypvp"
+    }
 }

@@ -1,30 +1,30 @@
 {
     "id": "siege",
     "name": "siege.vip",
+    "store": "https://store.siege.vip",
     "description": "Competitive Minecraft Server dedicated to PotPvP.",
     "addresses": [
         "siege.vip"
     ],
     "primaryAddress": "siege.vip",
+    "primaryColor": "#d30000",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#d30000",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://store.siege.vip",
     "socials": {
         "discord": "https://discord.gg/PvZg8W63"
     }

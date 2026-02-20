@@ -6,6 +6,8 @@
         "zeronmc.ml"
     ],
     "primaryAddress": "play.zeronmc.ml",
+    "primaryColor": "#a5142b",
+    "secondaryColor": "#d73418",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,7 +15,5 @@
         "1.17.*",
         "1.18.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#a5142b",
-    "secondaryColor": "#d73418"
+    "primaryMinecraftVersion": "1.8.9"
 }
