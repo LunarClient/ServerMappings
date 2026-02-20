@@ -1,0 +1,21 @@
+{
+    "id": "alliancemc",
+    "name": "AllianceMc",
+    "description": "Best Russian Bedwars Server.",
+    "addresses": [
+      "alliancemc.su"
+    ],
+    "primaryAddress": "alliancemc.su",
+    "minecraftVersions": [
+      "1.8.*"
+    ],
+  "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+      "Minigames",
+      "PvP",
+      "Parkour"
+    ],
+    "primaryColor": "#000000",
+    "secondaryColor": "#ffffff"
+  }
+  
