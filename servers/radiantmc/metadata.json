@@ -1,27 +1,30 @@
 {
     "id": "radiantmc",
     "name": "RadiantMC",
-    "website": "https://www.RadiantMC.eu/",
-    "store": "https://store.RadiantMC.eu/",
+    "website": "https://www.radiantmc.eu/",
+    "store": "https://store.radiantmc.eu/",
     "description": "RadiantMC is one of the best optimized server on EARTH.",
     "addresses": [
-        "RadiantMC.eu",
-        "RadiantMC.it"
+        "radiantmc.eu",
+        "play.radiantmc.eu"
     ],
-    "primaryAddress": "play.RadiantMC.eu",
+    "primaryAddress": "play.radiantmc.eu",
     "primaryColor": "#006DFF",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21..*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.*",
+    "primaryMinecraftVersion": "1.21.8",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -37,7 +40,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/CKkszXtsEj",
-        "tiktok": "radiantmc.eu",
-        "instagram": "radiantmc.eu"
+        "tiktok": "@radiantmc.eu",
+        "instagram": "@radiantmc.eu"
     }
 }
