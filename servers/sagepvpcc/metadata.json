@@ -6,21 +6,22 @@
         "sagepvp.cc"
     ],
     "primaryAddress": "play.sagepvp.cc",
+    "primaryColor": "#2f00c5",
+    "secondaryColor": "#3d85c6",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#2f00c5",
-    "secondaryColor": "#3d85c6",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "HCF"
@@ -29,6 +30,5 @@
         "twitter": "sagepvcc",
         "discord": "https://discord.com/invite/sagepvp/",
         "telegram": "SagePvPCC"
-    },
-    "crossplay": false
+    }
 }

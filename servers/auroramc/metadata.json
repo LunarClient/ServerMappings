@@ -1,8 +1,8 @@
 {
     "id": "auroramc",
     "name": "AuroraMC",
-    "store": "https://store.auroramc.network/",
     "website": "https://web.auroramc.network/",
+    "store": "https://store.auroramc.network/",
     "description": "Find your home with us.",
     "addresses": [
         "auroramc.network"
@@ -40,4 +40,3 @@
         "tiktok": "@auroramcnetwork"
     }
 }
-

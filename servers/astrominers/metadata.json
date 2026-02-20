@@ -6,6 +6,8 @@
         "astrominers.net"
     ],
     "primaryAddress": "astrominers.net",
+    "primaryColor": "#F100FF",
+    "secondaryColor": "#00B7FF",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,8 +17,6 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#F100FF",
-    "secondaryColor": "#00B7FF",
     "primaryRegion": "NA",
     "regions": [
         "NA"

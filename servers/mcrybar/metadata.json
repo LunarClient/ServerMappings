@@ -1,33 +1,33 @@
 {
-  "id": "mcrybar",
-  "name": "MCRybar",
-  "description": "Siryakariho Minecraft Server!",
-  "addresses": [
-    "mcrybar.cz"
-  ],
-  "primaryAddress": "mcrybar.cz",
-  "primaryColor": "#6ecaff",
-  "secondaryColor": "#4cbcfc",
-  "minecraftVersions": [
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.11",
-  "crossplay": false,
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "primaryLanguage": "en",
-  "languages": [
-    "en"
-  ],
-  "gameTypes": [
-    "Minigames"
-  ],
-  "website": "https://mcrybar.cz/",
-  "store": "https://store.mcrybar.cz/",
-  "socials": {
-    "discord": "https://discord.com/invite/mcrybar-cz-discord-1402616509305589800"
-  }
-}   
+    "id": "mcrybar",
+    "name": "MCRybar",
+    "website": "https://mcrybar.cz/",
+    "store": "https://store.mcrybar.cz/",
+    "description": "Siryakariho Minecraft Server!",
+    "addresses": [
+        "mcrybar.cz"
+    ],
+    "primaryAddress": "mcrybar.cz",
+    "primaryColor": "#6ecaff",
+    "secondaryColor": "#4cbcfc",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/mcrybar-cz-discord-1402616509305589800"
+    }
+}

@@ -1,71 +1,60 @@
 {
-  "id": "trytochill",
-  "name": "TryToChill Network",
-  "description": "Minecraft server based on PvP and Farming.",
-
-  "addresses": [
-    "lystech.org",
-    "trytochill.net"
-  ],
-  "primaryAddress": "mc.trytochill.net",
-
-  "gameTypes": [
-    "PvP",
-    "Skyblock",
-    "Survival"
-  ],
-
-  "primaryColor": "#FFAAAA",
-  "secondaryColor": "#55FFFF",
-
-  "minecraftVersions": [
-    "1.7.10",
-    "1.8.9",
-    "1.12.2",
-    "1.16.5",
-    "1.18.1",
-    "1.18.2",
-    "1.19.2",
-    "1.19.3",
-    "1.19.4",
-    "1.20.1",
-    "1.20.2",
-    "1.20.4",
-    "1.20.6",
-    "1.21",
-    "1.21.1",
-    "1.21.3"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-
-  "languages": [
-    "en",
-    "fr"
-  ],
-  "primaryLanguage": "en",
-
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-
-  "website": "https://www.trytochill.net",
-  "store": "https://store.trytochill.net",
-  "wiki": "https://wiki.trytochill.net",
-
-  "socials": {
-    "discord": "https://discord.gg/zvWYrwgUK9",
-    "youtube": "@trytochillnetwork"
-  },
-
-  "votingLinks": [],
-
-  "compliance": {
-    "privacyPolicy": "https://shop.trytochill.net/legal/privacy",
-    "termsOfService": "https://shop.trytochill.net/legal/terms",
-    "rules": "https://shop.trytochill.net/legal/terms",
-    "support": "https://forums.trytochill.net"
-  },
-
-  "crossplay": false
+    "id": "trytochill",
+    "name": "TryToChill Network",
+    "website": "https://www.trytochill.net",
+    "store": "https://store.trytochill.net",
+    "wiki": "https://wiki.trytochill.net",
+    "description": "Minecraft server based on PvP and Farming.",
+    "addresses": [
+        "lystech.org",
+        "trytochill.net"
+    ],
+    "primaryAddress": "mc.trytochill.net",
+    "primaryColor": "#FFAAAA",
+    "secondaryColor": "#55FFFF",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.18.1",
+        "1.18.2",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20.1",
+        "1.20.2",
+        "1.20.4",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.3"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zvWYrwgUK9",
+        "youtube": "@trytochillnetwork"
+    },
+    "compliance": {
+        "privacyPolicy": "https://shop.trytochill.net/legal/privacy",
+        "termsOfService": "https://shop.trytochill.net/legal/terms",
+        "rules": "https://shop.trytochill.net/legal/terms",
+        "support": "https://forums.trytochill.net"
+    },
+    "votingLinks": []
 }

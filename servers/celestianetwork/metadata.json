@@ -6,11 +6,6 @@
         "celestianetwork.net"
     ],
     "primaryAddress": "mc.celestianetwork.net",
-    "gameTypes": [
-        "PvP",
-        "Survival",
-        "Skyblock"
-    ],
     "primaryColor": "#3B82F6",
     "secondaryColor": "#8A4FFF",
     "minecraftVersions": [
@@ -18,6 +13,11 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.10",
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Skyblock"
+    ],
     "socials": {
         "discord": "https://discord.gg/celestianetwork"
     }

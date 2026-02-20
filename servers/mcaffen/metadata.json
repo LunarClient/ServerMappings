@@ -13,10 +13,10 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryRegion": "EU",
     "gameTypes": [
         "Survival",
         "PvP",
