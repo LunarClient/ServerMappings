@@ -1,37 +1,37 @@
 {
-  "id": "ruxor",
-  "name": "Ruxor",
-  "description": "A server where you can play with your friends, or make new friends.",
-  "addresses": [
-    "ruxor.net"
-  ],
-  "primaryAddress": "ruxor.net",
-  "minecraftVersions": [
-    "1.12.*",
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.19.2",
-  "primaryColor": "#CC0000",
-  "secondaryColor": "#000000",
-  "primaryLanguage": "de",
-  "languages": [
-    "de"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "NA",
-    "EU"
-  ],
-  "gameTypes": [
-    "PvP",
-    "Survival",
-    "Minigames"
-  ],
-  "website": "https://www.ruxor.net",
-  "store": "https://store.ruxor.net"
+    "id": "ruxor",
+    "name": "Ruxor",
+    "website": "https://www.ruxor.net",
+    "store": "https://store.ruxor.net",
+    "description": "A server where you can play with your friends, or make new friends.",
+    "addresses": [
+        "ruxor.net"
+    ],
+    "primaryAddress": "ruxor.net",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ]
 }

@@ -7,21 +7,21 @@
         "ezpvp.org"
     ],
     "primaryAddress": "ezpvp.lol",
+    "primaryColor": "#CC6CE7",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#CC6CE7",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

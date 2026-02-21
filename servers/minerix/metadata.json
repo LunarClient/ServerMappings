@@ -6,16 +6,16 @@
         "minerix.de"
     ],
     "primaryAddress": "minerix.de",
+    "primaryColor": "#387ebe",
+    "secondaryColor": "#387ebe",
     "minecraftVersions": [
         "1.21.1"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#387ebe",
-    "secondaryColor": "#387ebe",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryRegion": "EU",
     "gameTypes": [
         "Survival"
     ],

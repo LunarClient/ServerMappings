@@ -12,6 +12,8 @@
         "cobra.gg"
     ],
     "primaryAddress": "play.vipermc.net",
+    "primaryColor": "#2197fc",
+    "secondaryColor": "#f88f28",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -21,8 +23,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#2197fc",
-    "secondaryColor": "#f88f28",
     "gameTypes": [
         "HCF",
         "PvP"

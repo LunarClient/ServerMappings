@@ -2,12 +2,14 @@
     "id": "honlycraft",
     "name": "HonlyCraft Network",
     "website": "https://www.honlycraft.com",
-    "store": "https://tienda.honlycraft.com/",    
+    "store": "https://tienda.honlycraft.com/",
     "addresses": [
         "honlycraft.com",
         "honlycraft.us"
     ],
     "primaryAddress": "mc.honlycraft.us",
+    "primaryColor": "#003EFF",
+    "secondaryColor": "#0FA1FF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,22 +21,20 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
-    "primaryColor": "#003EFF",
-    "secondaryColor": "#0FA1FF",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Minigames"
     ],
-    "socials": {    
-        "discord":"https://discord.gg/Skz62KF33d"
+    "socials": {
+        "discord": "https://discord.gg/Skz62KF33d"
     }
-}    
+}

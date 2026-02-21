@@ -9,20 +9,22 @@
     "primaryAddress": "play.seeyaa.pl",
     "primaryColor": "#e43ce8",
     "secondaryColor": "#bbbbbb",
-    "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
         "1.18.*",
         "1.19.*",
-		"1.20.*",
-		"1.21.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryLanguage": "pl",
-    "languages": ["pl"],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "Minigames",

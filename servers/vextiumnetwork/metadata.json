@@ -1,11 +1,14 @@
 {
     "id": "vextiumnetwork",
     "name": "Vextium Network",
+    "store": "https://tienda.vextium.fun/",
     "description": "Come play with us in our survival!",
     "addresses": [
         "vextium.fun"
     ],
     "primaryAddress": "vextium.fun",
+    "primaryColor": "#ffa334",
+    "secondaryColor": "#ffda34",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,13 +19,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#ffa334",
-    "secondaryColor": "#ffda34",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -31,15 +28,18 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Skyblock"
     ],
-    "store": "https://tienda.vextium.fun/",
     "socials": {
         "twitter": "vextiumNtw",
         "discord": "https://discord.gg/vextium"
-    },
-    "crossplay": true
+    }
 }

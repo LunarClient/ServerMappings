@@ -4,21 +4,21 @@
     "addresses": [
         "polarismc.fun"
     ],
+    "primaryAddress": "mc.polarismc.fun",
+    "primaryColor": "#9D00D3",
+    "secondaryColor": "#D300B6",
     "minecraftVersions": [
         "1.8.9"
     ],
-    "primaryAddress": "mc.polarismc.fun",
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#9D00D3",
-    "secondaryColor": "#D300B6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "en",
         "es-EN"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
     ],
     "gameTypes": [
         "PvP",

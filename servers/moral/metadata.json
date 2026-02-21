@@ -6,20 +6,20 @@
         "moral.rip"
     ],
     "primaryAddress": "moral.rip",
+    "primaryColor": "#bf06f7",
+    "secondaryColor": "#700c7b",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#bf06f7",
-    "secondaryColor": "#700c7b",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
@@ -28,7 +28,6 @@
     "socials": {
         "twitter": "MoralNetwork",
         "telegram": "Moralnetwork",
-        "discord": "https://discord.com/invite/NBRNvNGuBy" 
+        "discord": "https://discord.com/invite/NBRNvNGuBy"
     }
-
 }

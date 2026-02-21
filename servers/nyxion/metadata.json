@@ -1,37 +1,37 @@
 {
     "id": "nyxion",
     "name": "Nyxion Network",
+    "store": "https://tienda.nyxion.us/",
     "description": "Stack blocks, stack kills.",
     "addresses": [
-      "nyxion.us"
+        "nyxion.us"
     ],
     "primaryAddress": "nyxion.us",
-    "minecraftVersions": [
-         "1.17.*",
-         "1.18.*",
-         "1.19.*",
-         "1.20.*",
-         "1.21.*"
-     ],
-    "primaryMinecraftVersion": "1.18.2",
     "primaryColor": "#9400D7",
     "secondaryColor": "#E5E5E5",
-    "languages": [
-      "es-EN"
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
     ],
     "primaryLanguage": "es-EN",
-    "regions": [
-      "NA"
+    "languages": [
+        "es-EN"
     ],
-    "primaryRegion": "NA",
     "gameTypes": [
-      "PvP",
-      "Survival",
-      "PvE"
+        "PvP",
+        "Survival",
+        "PvE"
     ],
-    "crossplay": true,
-    "store": "https://tienda.nyxion.us/",
     "socials": {
-      "discord": "https://discord.gg/XqcYqh2h6r"
+        "discord": "https://discord.gg/XqcYqh2h6r"
     }
-  }
+}

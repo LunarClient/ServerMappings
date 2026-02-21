@@ -1,11 +1,15 @@
 {
     "id": "rosenetwork",
     "name": "RoseNetwork",
+    "website": "https://www.rose-network.it",
+    "store": "https://store.rose-network.it",
     "description": "A server where you can play with your friends, or make new friends.",
     "addresses": [
         "rose-network.it"
     ],
     "primaryAddress": "play.rose-network.it",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -16,21 +20,17 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#CC0000",
-    "secondaryColor": "#000000",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU"
     ],
-    "gameTypes": [
-        "PvP", 
-        "Survival"
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
-    "website": "https://www.rose-network.it",
-    "store": "https://store.rose-network.it"
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ]
 }

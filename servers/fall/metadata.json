@@ -1,38 +1,38 @@
 {
     "id": "fall",
     "name": "Fall Network",
+    "store": "https://tienda.fall.cat",
     "addresses": [
         "fall.cat"
     ],
     "primaryAddress": "fall.cat",
+    "primaryColor": "#FFB368",
+    "secondaryColor": "#FFEB8D",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#FFB368",
-    "secondaryColor": "#FFEB8D",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Hardcore"
     ],
-    "store": "https://tienda.fall.cat",
     "socials": {
         "discord": "https://discord.gg/fallnet",
         "tiktok": "@fallnetwork"
-    },
-    "crossplay": true
+    }
 }

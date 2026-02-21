@@ -1,0 +1,32 @@
+{
+    "id": "enderpearl",
+    "name": "enderpearl",
+    "website": "https://enderpearl.de",
+    "description": "Funny minigames and Citybuild!",
+    "addresses": [
+        "enderpearl.de"
+    ],
+    "primaryAddress": "enderpearl.de",
+    "primaryColor": "#29FB08",
+    "secondaryColor": "#1A9107",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7j7bP9pgN5"
+    }
+}

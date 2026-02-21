@@ -1,0 +1,41 @@
+{
+    "id": "fara",
+    "name": "FaraMC",
+    "website": "https://faramc.uk",
+    "store": "https://store.faramc.uk",
+    "description": "The next generation of Minecraft Minigames.",
+    "addresses": [
+        "faramc.uk"
+    ],
+    "primaryAddress": "faramc.uk",
+    "primaryColor": "#800080",
+    "secondaryColor": "#6a5acd",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "FaraMCX",
+        "youtube": "FaraMCYT",
+        "discord": "https://www.discord.com/invite/2H5Z66StvM"
+    },
+    "compliance": {
+        "privacyPolicy": "https://faramc.uk/privacy",
+        "termsOfService": "https://faramc.uk/terms",
+        "rules": "https://faramc.uk/rules"
+    }
+}

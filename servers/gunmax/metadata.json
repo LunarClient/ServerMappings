@@ -1,7 +1,7 @@
 {
     "id": "gunmax",
     "name": "GunMax",
-    "addresses": [ 
+    "addresses": [
         "gunmax.org"
     ],
     "primaryAddress": "play.gunmax.org",
@@ -22,7 +22,6 @@
     "gameTypes": [
         "Roleplay",
         "Survival"
-
     ],
     "socials": {
         "discord": "https://discord.gg/gunmax",
