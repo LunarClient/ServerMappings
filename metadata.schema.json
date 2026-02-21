@@ -13,14 +13,13 @@
   ],
   "primaryMinecraftVersion": "1.21.11",
   "gameTypes": [
-    "PvP",
-    "Survival",
-    "Minigames"
+    "Boxpvp"
+    
   ],
   "primaryColor": "#6A00FF",
   "secondaryColor": "#00E0FF",
   "socials": {
-    "discord": "https://discord.gg/astryx"
+    "discord": "https://discord.gg/astr"
   },
   "crossplay": false
 }
