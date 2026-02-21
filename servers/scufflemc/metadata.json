@@ -2,6 +2,7 @@
     "id": "scufflemc",
     "name": "ScuffleMC",
     "store": "https://store.scufflemc.net/",
+    "description": "Build your island empire on ScuffleMC.",
     "addresses": [
         "scufflemc.net"
     ],

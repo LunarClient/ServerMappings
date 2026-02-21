@@ -2,6 +2,7 @@
     "id": "flaremc",
     "name": "FlareMC",
     "store": "https://store.flaremc.org/",
+    "description": "Play Minigames, Survival, and more on FlareMC.",
     "addresses": [
         "flaremc.org",
         "vflnetwork.com"

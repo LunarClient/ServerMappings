@@ -2,6 +2,7 @@
     "id": "vanillamc",
     "name": "VanillaMC",
     "store": "https://vanillacraft.tebex.io",
+    "description": "Play Survival, Factions, and more on VanillaMC.",
     "addresses": [
         "vanillamc.me",
         "vanillamc.tech"

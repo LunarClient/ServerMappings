@@ -2,6 +2,7 @@
     "id": "clearmc",
     "name": "ClearMC",
     "store": "https://clearmc.pl/",
+    "description": "Play Minigames, PvP, and more on ClearMC.",
     "addresses": [
         "clearmc.pl"
     ],

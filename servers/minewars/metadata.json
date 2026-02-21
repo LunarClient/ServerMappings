@@ -3,6 +3,7 @@
     "name": "MineWars Network",
     "website": "https://minewars.pl/",
     "store": "https://minewars.pl/sklep",
+    "description": "Play Skyblock, Minigames, and more on MineWars Network.",
     "addresses": [
         "minewars.pl",
         "minewars.network"

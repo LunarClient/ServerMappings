@@ -1,6 +1,7 @@
 {
     "id": "pixelmc",
     "name": "PixelMC",
+    "description": "Play Survival, PvP, and more on PixelMC.",
     "addresses": [
         "pixelmc.ir"
     ],

@@ -2,6 +2,7 @@
     "id": "insertnet",
     "name": "Insert Network",
     "store": "https://store.insertnet.eu",
+    "description": "Play PvP and Minigames on Insert Network.",
     "addresses": [
         "insertnet.eu"
     ],

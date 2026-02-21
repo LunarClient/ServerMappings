@@ -2,6 +2,7 @@
     "id": "fastermc",
     "name": "FasterMC",
     "store": "https://store.fastermc.net/",
+    "description": "Play HCF, PvP, and more on FasterMC.",
     "addresses": [
         "fastermc.net"
     ],

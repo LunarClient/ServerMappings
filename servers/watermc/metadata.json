@@ -3,6 +3,7 @@
     "name": "WaterMC",
     "website": "https://watermc.eu/",
     "store": "https://watermc.eu/sklep",
+    "description": "Play HCF and PvP on WaterMC.",
     "addresses": [
         "watermc.eu"
     ],

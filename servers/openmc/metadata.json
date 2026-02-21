@@ -2,6 +2,7 @@
     "id": "openmc",
     "name": "OpenMC",
     "website": "https://openmc.net/",
+    "description": "Experience survival gameplay on OpenMC.",
     "addresses": [
         "openmc.net"
     ],

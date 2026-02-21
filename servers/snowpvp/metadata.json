@@ -3,6 +3,7 @@
     "name": "SnowPvP Network",
     "website": "https://snowpvp.com",
     "store": "http://store.snowpvp.com",
+    "description": "Play PvP and UHC on SnowPvP Network.",
     "addresses": [
         "snowpvp.com"
     ],

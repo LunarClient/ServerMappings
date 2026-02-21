@@ -2,6 +2,7 @@
     "id": "ignisnw",
     "name": "Ignis Network",
     "store": "https://tienda.ignisnw.com/",
+    "description": "Play Survival and PvP on Ignis Network.",
     "addresses": [
         "ignisnw.com"
     ],

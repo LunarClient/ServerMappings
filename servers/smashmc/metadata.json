@@ -2,6 +2,7 @@
     "id": "smashmc",
     "name": "SmashMC",
     "store": "https://store.smashmc.co/",
+    "description": "Play exciting minigames on SmashMC.",
     "addresses": [
         "pokesmash.co"
     ],

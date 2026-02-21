@@ -3,6 +3,7 @@
     "name": "Battle Network",
     "website": "https://battle.rip/",
     "store": "https://store.battle.rip/",
+    "description": "Play HCF, UHC, and more on Battle Network.",
     "addresses": [
         "battle.rip",
         "battlemc.rip"

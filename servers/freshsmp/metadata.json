@@ -2,6 +2,7 @@
     "id": "freshsmp",
     "name": "FreshSMP",
     "store": "https://store.freshsmp.fun/",
+    "description": "Play Survival and Skyblock on FreshSMP.",
     "addresses": [
         "freshsmp.fun"
     ],

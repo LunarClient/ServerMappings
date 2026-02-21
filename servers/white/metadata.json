@@ -2,6 +2,7 @@
     "id": "white",
     "name": "WhitePvP",
     "store": "https://store.whitepvp.net/",
+    "description": "Play PvP and HCF on WhitePvP.",
     "addresses": [
         "whitepvp.net"
     ],
