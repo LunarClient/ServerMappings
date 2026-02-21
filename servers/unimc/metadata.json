@@ -1,0 +1,46 @@
+{
+    "id": "unimc",
+    "name": "UNIMC",
+    "website": "https://www.unimc.pl/",
+    "store": "https://www.unimc.pl/shop",
+    "description": "Your dark gaming empire!",
+    "addresses": [
+        "unimc.pl"
+    ],
+    "primaryAddress": "unimc.pl",
+    "primaryColor": "#30b8e0",
+    "secondaryColor": "#e5a980",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/tjFNeH5S7G",
+        "youtube": "DziQuuuu",
+        "instagram": "unimc.pl",
+        "facebook": "unimcpl"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.unimc.pl/polityka",
+        "termsOfService": "https://www.unimc.pl/regulamin"
+    },
+    "presentationVideo": "TIbZfYZWN4s"
+}

@@ -1,39 +1,39 @@
 {
     "id": "plushedgens",
     "name": "Plushed Gens",
+    "store": "https://plushedgens.tebex.io",
     "description": "Generators, but plushies o-o",
     "addresses": [
         "plushedgens.com"
     ],
     "primaryAddress": "play.plushedgens.com",
+    "primaryColor": "#03fc73",
+    "secondaryColor": "#00C944",
     "minecraftVersions": [
         "1.19.4",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#03fc73",
-    "secondaryColor": "#00C944",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Skyblock",
         "Minigames"
     ],
-    "store": "https://plushedgens.tebex.io",
+    "socials": {
+        "youtube": "PlushedGens",
+        "tiktok": "@plushedgens",
+        "discord": "https://discord.gg/Nct5MhM5HG"
+    },
     "compliance": {
         "privacyPolicy": "https://plushedgens.tebex.io/terms/privacy",
         "termsOfService": "https://plushedgens.tebex.io/terms/checkout"
-    },
-    "socials": {
-        "youtube": "PlushedGens",
-        "tiktok": "plushedgens",
-        "discord": "https://discord.gg/Nct5MhM5HG"
-    },
-    "crossplay": true
+    }
 }

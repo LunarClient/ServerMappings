@@ -1,0 +1,33 @@
+{
+    "id": "slimenetwork",
+    "name": "SlimeNetwork",
+    "description": "Modern PvP Minigames Server",
+    "addresses": [
+        "slimenetwork.net"
+    ],
+    "primaryAddress": "slimenetwork.net",
+    "primaryColor": "#00ff00",
+    "secondaryColor": "#00aaaa",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Adventure"
+    ],
+    "socials": {
+        "youtube": "laserslime",
+        "discord": "https://discord.gg/YrFygKBwNF"
+    }
+}

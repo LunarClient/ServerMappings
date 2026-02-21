@@ -1,0 +1,41 @@
+{
+    "id": "wojanmc",
+    "name": "WojanMC",
+    "store": "https://wojanmc.pl/shop/portfel",
+    "description": "Official Minecraft Server for Wojan's Community!",
+    "addresses": [
+        "wojanmc.pl"
+    ],
+    "primaryAddress": "wojanmc.pl",
+    "primaryColor": "#ba1112",
+    "secondaryColor": "#e6d6bd",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/CaTdZkbg2S",
+        "youtube": "WojanMC-pl",
+        "tiktok": "@wojanmc.pl"
+    },
+    "compliance": {
+        "termsOfService": "https://wojanmc.pl/regulamin"
+    }
+}

@@ -19,7 +19,8 @@ MAJOR_ALL: dict[str, list[str]] = {
     "1.18.*": ["1.18.1", "1.18.2", "1.18"],
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
     "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
-    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3"]
+    "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10", "1.21.11"],
+    "26.*": ["26.1"]
 }
 
 
@@ -63,6 +64,10 @@ def get_all_servers(
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
 
+        # Add primary game type
+        game_types = server.get("gameTypes", [])
+        server["primaryGameType"] = game_types[0] if game_types else None
+
         # Enrich server data
         if "id" not in server:
             print(f"Skipping {server_id} as it's missing 'id'")
@@ -85,8 +90,8 @@ def get_all_servers(
         if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
             server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
         
-        # Add translations
-        if translations:
+        # Add translations for descriptions
+        if translations and "description" in server:
             # Iterate through each locale and add the description if it exists
             for locale, translation in translations.items():
                 if server["id"] in translation:

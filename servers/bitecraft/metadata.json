@@ -1,0 +1,34 @@
+{
+    "id": "bitecraft",
+    "name": "BiteCraft",
+    "description": "By the BiteCraft Studios",
+    "addresses": [
+        "bitecraft.net"
+    ],
+    "primaryAddress": "mc.bitecraft.net",
+    "primaryColor": "#4498DB",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/shybWzX8yK"
+    }
+}

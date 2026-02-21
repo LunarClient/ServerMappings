@@ -1,6 +1,6 @@
 {
     "id": "holyhcf",
-    "name": "Holy Network",
+    "name": "HolyPvP Network",
     "website": "https://www.holypvp.net/",
     "store": "https://store.holypvp.net/",
     "description": "The #1 Spanish-speaking Minecraft PvP server for more than 6 years",
@@ -9,6 +9,8 @@
         "holypvp.net"
     ],
     "primaryAddress": "holypvp.net",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -19,8 +21,6 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#dedede",
-    "secondaryColor": "#e6b511",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -33,8 +33,8 @@
     "socials": {
         "twitter": "holypvpnet",
         "discord": "https://discord.gg/holypvp",
-        "tiktok": "holypvpnet",
-	    "instagram": "holypvpnet"
+        "tiktok": "@holypvpnet",
+        "instagram": "holypvpnet"
     },
     "compliance": {
         "rules": "https://www.holypvp.net/rules"

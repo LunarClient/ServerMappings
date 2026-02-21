@@ -1,8 +1,8 @@
 {
     "id": "crescentkingdom",
     "name": "Crescent Kingdom",
-    "description": "A Fantasy Themed Minecraft Network",
     "store": "https://store.crescentkingdom.com",
+    "description": "A Fantasy Themed Minecraft Network",
     "addresses": [
         "crescentkingdom.com"
     ],
@@ -13,15 +13,15 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "crossplay": false,    
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es-EN",  
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
-    ],      
+    ],
     "gameTypes": [
         "PvP",
         "Survival",
@@ -30,7 +30,7 @@
     "socials": {
         "discord": "https://discord.gg/crescentkingdom",
         "instagram": "crescentkingd0m",
-        "tiktok": "crescentkingdom",
+        "tiktok": "@crescentkingdom",
         "youtube": "crescent_kingdom"
     }
 }

@@ -1,0 +1,31 @@
+{
+    "id": "furio360",
+    "name": "Furio360",
+    "addresses": [
+        "furio360.fr"
+    ],
+    "primaryAddress": "furio360.fr",
+    "primaryColor": "#0090ff",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/RwFKPNAMc9"
+    }
+}

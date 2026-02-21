@@ -1,0 +1,33 @@
+{
+    "id": "potpvplive",
+    "name": "PotPvP Network",
+    "store": "https://store.potpvp.live",
+    "addresses": [
+        "potpvp.live"
+    ],
+    "primaryAddress": "potpvp.live",
+    "primaryColor": "#ff66ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "twitter": "PotPvPNW",
+        "discord": "https://discord.gg/2n38dYFYpH"
+    }
+}

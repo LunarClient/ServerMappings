@@ -1,0 +1,32 @@
+{
+    "id": "hubland",
+    "name": "Hubland Network",
+    "store": "https://store.hubland.gg/",
+    "addresses": [
+        "hubland.gg"
+    ],
+    "primaryAddress": "mc.hubland.gg",
+    "primaryColor": "#51a18d",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.2",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hMrMpKvgjB"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "mcfleet",
+    "name": "MCFleet",
+    "description": "An Indian Minecraft Server Owned by @gamerfleetog",
+    "addresses": [
+        "mcfleet.net"
+    ],
+    "primaryAddress": "mcfleet.net",
+    "primaryColor": "#f7cc05",
+    "secondaryColor": "#71faee",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mcfleet"
+    }
+}

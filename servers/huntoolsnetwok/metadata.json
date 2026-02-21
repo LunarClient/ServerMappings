@@ -1,36 +1,38 @@
 {
     "id": "huntoolsnetwok",
     "name": "Huntools Network",
-    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
-    "addresses": [ "huntools-bot.xyz" ],
-    "primaryAddress": "huntools-bot.xyz",
-    "minecraftVersions": [
-      "1.12.*",
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*",
-      "1.20.*",
-      "1.21.2"
-  ],
-    "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#55FFFF",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-      "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-      "EU"
-    ],
-    "gameTypes": [
-      "PvP",
-      "Minigames"
-    ],
     "website": "https://www.huntools-bot.xyz",
     "store": "https://www.huntools-bot.xyz/premium",
+    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
+    "addresses": [
+        "huntools-bot.xyz"
+    ],
+    "primaryAddress": "huntools-bot.xyz",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.2"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
-      "discord": "https://discord.gg/QvbtnzFzU5"
+        "discord": "https://discord.gg/QvbtnzFzU5"
     }
 }

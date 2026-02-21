@@ -1,0 +1,35 @@
+{
+    "id": "bitti",
+    "name": "BITTI",
+    "website": "https://b1tti.fi",
+    "store": "https://kauppa.b1tti.fi",
+    "description": "Versatile Finnish minigame server.",
+    "addresses": [
+        "b1tti.fi"
+    ],
+    "primaryAddress": "b1tti.fi",
+    "primaryColor": "#f23f32",
+    "secondaryColor": "#fba700",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/SFPPAJqK2V",
+        "youtube": "bitpixls"
+    }
+}

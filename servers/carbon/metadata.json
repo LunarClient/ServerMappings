@@ -1,9 +1,9 @@
 {
     "id": "carbon",
     "name": "Carbon",
-    "description": "Carbon is an EarthSMP Minecraft Server",
     "website": "https://carbonmc.net/",
     "store": "https://store.carbonmc.net/",
+    "description": "Carbon is an EarthSMP Minecraft Server",
     "addresses": [
         "carbonmc.net"
     ],
@@ -27,9 +27,9 @@
         "Open World"
     ],
     "socials": {
-        "tiktok": "carbonmc_",
+        "tiktok": "@carbonmc_",
         "discord": "https://discord.gg/QVT8GzEEEJ",
-        "twitter": "carbonmc_",
+        "twitter": "playcarbonmc",
         "youtube": "officialcarbonmc"
     }
 }

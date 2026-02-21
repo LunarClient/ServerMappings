@@ -1,11 +1,14 @@
 {
     "id": "lunarbox",
     "name": "Lunarbox",
+    "store": "https://tienda.lunarbox.net",
     "description": "Enter our Lunarbox server now!",
     "addresses": [
         "lunarbox.net"
     ],
     "primaryAddress": "lunarbox.net",
+    "primaryColor": "#655969",
+    "secondaryColor": "#dddcea",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,22 +17,19 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20",
-    "primaryColor": "#655969",
-    "secondaryColor": "#dddcea",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://tienda.lunarbox.net",
     "socials": {
         "discord": "https://discord.com/invite/lunarbox"
-    },
-    "crossplay": true
+    }
 }

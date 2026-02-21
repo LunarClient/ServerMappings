@@ -1,0 +1,54 @@
+{
+    "id": "unnamecraft",
+    "name": "UnnameCraft",
+    "store": "https://tienda.unnamecraft.com",
+    "description": "Spanish-speaking server focused on survival.",
+    "addresses": [
+        "unnamecraft.com"
+    ],
+    "primaryAddress": "unnamecraft.com",
+    "primaryColor": "#440A70",
+    "secondaryColor": "#EE00FF",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "UnnameServer",
+        "discord": "https://discord.com/invite/PBbJy3Rv89",
+        "tiktok": "@unnamecraft"
+    },
+    "compliance": {
+        "termsOfService": "https://reglas.unnamecraft.com/global/faqs/tos",
+        "rules": "https://reglas.unnamecraft.com/"
+    },
+    "votingLinks": [
+        "https://www.40servidoresmc.es/unnamecraft-java-bedrock",
+        "https://servidoresdeminecraft.es/server/status/M1gXs791/mc.unnamecraft.com",
+        "https://minecraftservers.org/vote/650608",
+        "https://www.planetminecraft.com/server/unnamecraft-5942822/",
+        "https://minecraft-mp.com/server/318474/vote/",
+        "https://minecraft-server-list.com/server/496464/vote/",
+        "https://topg.org/es/servidores-de-minecraft/server-664233",
+        "https://polymart.org/server/426/unnamecraft-network",
+        "https://servers-minecraft.net/server-unnamecraft-network.25452"
+    ]
+}

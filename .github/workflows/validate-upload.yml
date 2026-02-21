@@ -83,6 +83,14 @@ jobs:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
+      - name: Configure Google Cloud credentials
+        uses: google-github-actions/auth@v1
+        with:
+          token_format: "access_token"
+          workload_identity_provider: "projects/303279774233/locations/global/workloadIdentityPools/github/providers/github-oidc"
+          service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
+          create_credentials_file: true
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
@@ -147,17 +155,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
-      
-      - name: Upload to Cloudflare
-        env:
-          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: us-east-1
-        run: |
-          aws s3 sync .out s3://servermappings-lunarclientcdn-com --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.csv s3://servermappings-lunarclientcdn-com/servers.csv --content-type "text/csv" --endpoint-url $R2_ENDPOINT
+
+      - name: Upload to GCS
+        run: cd .out/ && gcloud storage cp --recursive . gs://servermappings-lunarclientcdn-com
 
       - name: Purge Cloudflare cache
         env:

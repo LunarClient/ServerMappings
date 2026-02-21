@@ -1,8 +1,8 @@
 {
     "id": "mchubpl",
-    "name": "MChub.pl",
+    "name": "MC Hub",
     "website": "https://www.mchub.pl/",
-    "store": "https://www.mchub.pl/servers",
+    "store": "https://mchub.pl/#sklep",
     "addresses": [
         "mchub.pl"
     ],
@@ -10,20 +10,23 @@
     "primaryColor": "#ecb94f",
     "secondaryColor": "#372826",
     "minecraftVersions": [
-        "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.16.5",
-    "primaryRegion": "NA",
+    "primaryMinecraftVersion": "1.17.1",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
-        "Skyblock"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/kUbX6tsdvE"

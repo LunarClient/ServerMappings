@@ -2,26 +2,29 @@
     "id": "lookcraft",
     "name": "LookCraft",
     "addresses": [
-        "lookcraft.tk"
+        "lookcraft.net"
     ],
-    "primaryAddress": "play.lookcraft.tk",
+    "primaryAddress": "play.lookcraft.net",
+    "primaryColor": "#969696",
+    "secondaryColor": "#383838",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#969696",
-    "secondaryColor": "#383838",
+    "primaryMinecraftVersion": "1.21.5",
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
     "gameTypes": [
         "PvP",
-        "Survival"
+        "Survival",
+        "Adventure"
     ]
 }

@@ -3,10 +3,11 @@
     "name": "Netherite",
     "website": "https://netherite.gg/",
     "store": "https://store.netherite.gg//",
+    "description": "A cross-platform network with Survival, Skyblock, Lifesteal and Prison.",
     "addresses": [
         "netherite.gg"
     ],
-    "primaryAddress": "play.netherite.gg",
+    "primaryAddress": "lc.netherite.gg",
     "primaryColor": "#d34047",
     "secondaryColor": "#191515",
     "minecraftVersions": [
@@ -14,9 +15,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20",
+    "primaryMinecraftVersion": "1.21.10",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -33,6 +35,9 @@
     ],
     "socials": {
         "twitter": "PlayNetherite",
-        "discord": "https://discord.com/invite/Mj3Pgwm8SS"
+        "discord": "https://discord.gg/netherite",
+        "youtube": "@Netheritegg",
+        "tiktok": "@playnetheritegg",
+        "instagram": "netherite_gg"
     }
 }

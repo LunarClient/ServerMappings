@@ -1,0 +1,27 @@
+{
+    "id": "minerium",
+    "name": "Minerium",
+    "website": "https://minerium.fr/",
+    "store": "https://minerium.fr/shop/categories/credits",
+    "addresses": [
+        "minerium.fr"
+    ],
+    "primaryAddress": "play.minerium.fr",
+    "primaryColor": "#ff9d2e",
+    "secondaryColor": "#87231a",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KrTh3qZF5q"
+    }
+}

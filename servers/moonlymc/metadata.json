@@ -1,0 +1,26 @@
+{
+    "id": "moonlymc",
+    "name": "MoonlyMC Network",
+    "store": "https://store.moonlymc.com/",
+    "description": "Network for PvP players!",
+    "addresses": [
+        "moonlymc.com"
+    ],
+    "primaryAddress": "moonlymc.com",
+    "primaryColor": "#42c2f5",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "MoonlyMCNetwork",
+        "discord": "https://discord.com/invite/36WngD7NYp"
+    }
+}

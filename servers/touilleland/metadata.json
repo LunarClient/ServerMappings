@@ -1,0 +1,32 @@
+{
+    "id": "touilleland",
+    "name": "TouilleLand",
+    "description": "The Nat0uille community server.",
+    "addresses": [
+        "nat0uille.com",
+        "alinium.fr"
+    ],
+    "primaryAddress": "play.nat0uille.com",
+    "primaryColor": "#124e89",
+    "secondaryColor": "#0099db",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/t8Wn9a7dVW"
+    }
+}

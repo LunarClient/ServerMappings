@@ -5,16 +5,16 @@
         "tfgames.com.br"
     ],
     "primaryAddress": "play.tfgames.com.br",
+    "primaryColor": "#00aa00",
+    "secondaryColor": "#fb3e3e",
     "minecraftVersions": [
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#00aa00",
-    "secondaryColor": "#fb3e3e",
+    "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
-    "primaryRegion": "SA",
     "gameTypes": [
         "PvP"
     ],

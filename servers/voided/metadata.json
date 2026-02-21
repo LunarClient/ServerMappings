@@ -1,49 +1,49 @@
 {
-  "id": "voided",
-  "name": "Voided Network",
-  "description": "Australian PvP & Minigames Network",
-  "addresses": [
-    "voided.gg"
-  ],
-  "primaryAddress": "voided.gg",
-  "gameTypes": [
-    "PvP",
-    "Minigames",
-    "Parkour"
-  ],
-  "primaryColor": "#7414D7",
-  "secondaryColor": "#4307AB",
-  "minecraftVersions": [
-    "1.8.*",
-    "1.12.*",
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "languages": [
-    "en"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "OC",
-    "AS"
-  ],
-  "primaryRegion": "OC",
-  "website": "https://voided.gg",
-  "store": "https://voided.store",
-  "crossplay": false,
-  "socials": {
-    "twitter": "voided_gg",
-    "discord": "https://discord.com/invite/f6k7mnzxXK",
-    "youtube": "VoidedNetwork",
-    "tiktok": "voidednetwork"
-  },
-  "compliance": {
-    "privacyPolicy": "https://voided.gg/privacy",
-    "termsOfService": "https://voided.gg/terms",
-    "rules": "https://wiki.voided.gg/rules/general"
-  }
+    "id": "voided",
+    "name": "Voided Network",
+    "website": "https://voided.gg",
+    "store": "https://voided.store",
+    "description": "Australian PvP & Minigames Network",
+    "addresses": [
+        "voided.gg"
+    ],
+    "primaryAddress": "voided.gg",
+    "primaryColor": "#7414D7",
+    "secondaryColor": "#4307AB",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "OC",
+    "regions": [
+        "OC",
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "socials": {
+        "twitter": "voided_gg",
+        "discord": "https://discord.com/invite/f6k7mnzxXK",
+        "youtube": "VoidedNetwork",
+        "tiktok": "@voidednetwork"
+    },
+    "compliance": {
+        "privacyPolicy": "https://voided.gg/privacy",
+        "termsOfService": "https://voided.gg/terms",
+        "rules": "https://wiki.voided.gg/rules/general"
+    }
 }

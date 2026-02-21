@@ -1,0 +1,32 @@
+{
+    "id": "extinct",
+    "name": "Extinct",
+    "website": "https://www.playextinct.net/",
+    "store": "https://www.store.playextinct.net/",
+    "addresses": [
+        "playextinct.net",
+        "extinctpvp.com"
+    ],
+    "primaryAddress": "playextinct.net",
+    "primaryColor": "#80C53E",
+    "secondaryColor": "#78472e",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/JQ3DEGM7qj"
+    }
+}

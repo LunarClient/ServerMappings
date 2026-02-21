@@ -7,7 +7,6 @@
         "stardix.com"
     ],
     "primaryAddress": "jogar.stardix.com",
-    "crossplay": true,
     "primaryColor": "#2196F3",
     "secondaryColor": "#546E7A",
     "minecraftVersions": [
@@ -20,15 +19,16 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
+    "primaryLanguage": "pt-BR",
     "languages": [
         "pt-BR",
         "pt-PT"
     ],
-    "primaryLanguage": "pt-BR",
     "gameTypes": [
         "Survival",
         "Minigames"
@@ -37,7 +37,7 @@
         "discord": "https://discord.com/invite/stardix",
         "youtube": "StarDixOficial",
         "facebook": "stardixfc",
-        "tiktok": "stardixoficial",
+        "tiktok": "@stardixoficial",
         "instagram": "stardixoficial",
         "twitter": "StardixSD"
     }

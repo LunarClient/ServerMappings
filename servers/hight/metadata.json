@@ -2,9 +2,9 @@
     "id": "hight",
     "name": "Hight",
     "addresses": [
-        "hight.me"
+        "hightmc.com"
     ],
-    "primaryAddress": "hight.me",
+    "primaryAddress": "hightmc.com",
     "primaryColor": "#f99e00",
     "secondaryColor": "#d1ab24",
     "minecraftVersions": [
@@ -23,7 +23,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/qSDZ5YR4eM",
-        "youtube": "HightMC"
+        "discord": "https://discord.gg/UDyYE46mDF",
+        "youtube": "HightMC.oficial"
     }
 }

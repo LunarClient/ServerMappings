@@ -1,0 +1,27 @@
+{
+    "id": "elarys",
+    "name": "Elarys",
+    "website": "https://elarys.fr/",
+    "store": "https://store.elarys.fr/",
+    "addresses": [
+        "elarys.fr"
+    ],
+    "primaryAddress": "play.elarys.fr",
+    "primaryColor": "#FFB000",
+    "secondaryColor": "#FFE300",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/elarys/"
+    }
+}

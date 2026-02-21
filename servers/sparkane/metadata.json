@@ -1,0 +1,43 @@
+{
+    "id": "sparkane",
+    "name": "Sparkane",
+    "store": "https://store.sparkane.com",
+    "description": "Experience 1.8-Style Combat in 1.21 — Soup PvP & Challenges",
+    "addresses": [
+        "sparkane.com"
+    ],
+    "primaryAddress": "sparkane.com",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#F0EDED",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Open World"
+    ],
+    "socials": {
+        "twitter": "SparkaneMC",
+        "discord": "https://discord.gg/sparkane",
+        "youtube": "@Sparkane",
+        "instagram": "sparkanemc",
+        "tiktok": "@sparkane"
+    },
+    "presentationVideo": "jFgb5OTBqGo",
+    "votingLinks": [
+        "https://namemc.com/server/sparkane.com"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "lioneskingdom",
+    "name": "Liones Kingdom",
+    "store": "https://tienda.lioneskingdom.net",
+    "description": "Come enjoy with us!",
+    "addresses": [
+        "lioneskingdom.net"
+    ],
+    "primaryAddress": "lioneskingdom.net",
+    "primaryColor": "#ffdf14",
+    "secondaryColor": "#b69665",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "lioneskingdomnetwork",
+        "tiktok": "@lioneskingdomnetwork",
+        "discord": "https://discord.gg/tzHPTTYfht"
+    }
+}

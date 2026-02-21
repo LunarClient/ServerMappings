@@ -1,0 +1,31 @@
+{
+    "id": "shadowpvp",
+    "name": "ShadowPvP",
+    "store": "https://store.shadowpvp.us/",
+    "addresses": [
+        "shadowpvp.us"
+    ],
+    "primaryAddress": "shadowpvp.us",
+    "primaryColor": "#00FBFF",
+    "secondaryColor": "#00BDC0",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/gsBpWQBXHR"
+    }
+}

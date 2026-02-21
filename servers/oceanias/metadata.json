@@ -1,6 +1,7 @@
 {
     "id": "oceanias",
     "name": "Oceanias",
+    "store": "https://store.oceanias.net",
     "description": "The premier destination for Oceania-based Minecraft players.",
     "addresses": [
         "oceanias.net",
@@ -8,11 +9,6 @@
         "abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcbabcdefghijklm.xyz"
     ],
     "primaryAddress": "play.oceanias.net",
-    "gameTypes": [
-        "PvP",
-        "UHC",
-        "Survival"
-    ],
     "primaryColor": "#BF00FF",
     "secondaryColor": "#9400FF",
     "minecraftVersions": [
@@ -27,15 +23,20 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "languages": [
-        "en"
-    ],
-    "primaryLanguage": "en",
+    "crossplay": false,
+    "primaryRegion": "OC",
     "regions": [
         "OC"
     ],
-    "primaryRegion": "OC",
-    "store": "https://store.oceanias.net",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Survival"
+    ],
     "socials": {
         "twitter": "oceaniasnetwork",
         "discord": "https://discord.com/invite/YP3qGFP2nf",
@@ -51,6 +52,5 @@
         "https://www.planetminecraft.com/server/oceanias",
         "https://minecraft-mp.com/server-s333345",
         "https://www.curseforge.com/servers/minecraft/game/oceanias"
-    ],
-    "crossplay": false
+    ]
 }
