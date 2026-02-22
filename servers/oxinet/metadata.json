@@ -1,43 +1,42 @@
 {
     "id": "oxinet",
     "name": "OXiNet",
+    "store": "https://oxinet.craftingstore.net",
     "description": "Belgian/EU Network: Bedwars, Survival & much more!",
     "addresses": [
         "chaviro.be"
     ],
     "primaryAddress": "oxinet.chaviro.be",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#004469",
     "minecraftVersions": [
         "1.21.10"
     ],
     "primaryMinecraftVersion": "1.21.10",
-    "primaryColor": "#ffffff",
-    "secondaryColor": "#004469",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "fr",
     "languages": [
         "en",
         "fr"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "votingLinks": [
-        "https://serveur-minecraft.com/4971",
-        "https://serveur-prive.net/minecraft/oxinet",
-        "https://www.serveursminecraft.org/serveur/7446/",
-        "https://minecraftservers.org/server/679723"
-    ],
-    "store": "https://oxinet.craftingstore.net",
     "socials": {
         "discord": "https://discord.gg/Tfg65f7N8k",
         "tiktok": "@lotusbest",
         "youtube": "@oxinet-mc",
         "instagram": "oxinet.mc"
-        
     },
-    "crossplay": true
+    "votingLinks": [
+        "https://serveur-minecraft.com/4971",
+        "https://serveur-prive.net/minecraft/oxinet",
+        "https://www.serveursminecraft.org/serveur/7446/",
+        "https://minecraftservers.org/server/679723"
+    ]
 }

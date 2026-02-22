@@ -1,8 +1,8 @@
 {
     "id": "cutecraft",
     "name": "CuteCraft",
-    "description": "Start your cute adventure!",
     "store": "https://shop.cutecraft.net/",
+    "description": "Start your cute adventure!",
     "addresses": [
         "cutecraft.net"
     ],

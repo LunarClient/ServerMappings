@@ -1,8 +1,8 @@
 {
     "id": "nexoverse",
     "name": "Nexoverse",
+    "website": "https://www.nexoverse.fun/",
     "store": "https://www.nexoverse.fun/store/nexogems",
-	"website": "https://www.nexoverse.fun/",
     "addresses": [
         "nexoverse.fun"
     ],
@@ -11,17 +11,17 @@
     "secondaryColor": "#57bbe6",
     "minecraftVersions": [
         "1.20.4",
-		"1.20.5",
-		"1.20.6",
-		"1.21",
-		"1.21.1",
-		"1.21.2",
-		"1.21.3",
-		"1.21.4",
-		"1.21.5",
-		"1.21.6",
-		"1.21.7",
-		"1.21.8"
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "AS",
@@ -30,11 +30,11 @@
     ],
     "gameTypes": [
         "Survival",
-		"Minigames"
+        "Minigames"
     ],
     "socials": {
         "tiktok": "@nexoverse.fun",
         "discord": "https://discord.gg/b44snYB4jy",
-		"instagram": "nexoverse.fun"
+        "instagram": "nexoverse.fun"
     }
 }
