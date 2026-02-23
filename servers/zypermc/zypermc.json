@@ -1,1 +1,13 @@
-
+{
+  "name": "ZyperMC",
+  "addresses": [
+    "zypermc.sdlf.fun"
+  ],
+  "primaryAddress": "zypermc.sdlf.fun",
+  "minecraftVersions": [
+    "1.7",
+    "1.21.10"
+  ],
+  "discord": "https://discord.gg/MuygR3QbSY",
+  "website": "https://zypermc.com"
+}
