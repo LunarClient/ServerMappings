@@ -1,11 +1,11 @@
 {
     "id": "apfelpvp",
-    "name": "PxrlyJuice",
-    "description": "PxrlyJuice is a new in Beta Server",
+    "name": "ApfelPVP",
+    "description": "ApfelPvP is a new in Beta Server",
     "addresses": [
-        "pxrlyjuice.de"
+        "apfelpvp.de"
     ],
-    "primaryAddress": "pxrlyjuice.de",
+    "primaryAddress": "apfelpvp.de",
     "primaryColor": "#64b864",
     "secondaryColor": "#687268",
     "minecraftVersions": [
@@ -21,6 +21,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/zkHhv4tBnX"
+        "discord": "https://discord.gg/QUkfMpgsfx"
     }
 }
