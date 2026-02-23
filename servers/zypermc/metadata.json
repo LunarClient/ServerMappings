@@ -1,0 +1,27 @@
+{
+  "id": "zypermc",
+  "name": "ZyperMC",
+  "description": "ZYPER[1.8-1.21] ✦ Melhor servidor✦",
+  "addresses": [
+    "sdlf.fun"
+  ],
+  "primaryAddress": "zypermc.sdlf.fun",
+  "minecraftVersions": [
+    "1.7",
+    "1.21.10"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#35ad1a",
+  "secondaryColor": "#65e01e",
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "BEDWARS",
+    "SURVIVAL"
+  ],
+  "crossplay": false,
+  "website": "https://zypermc.com",
+  "discord": "https://discord.gg/MuygR3QbSY"
+}
