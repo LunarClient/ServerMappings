@@ -1,9 +1,9 @@
 {
     "id": "meteorcraft",
     "name": "Meteorcraft",
-    "description": "Play Survival, Skyblock, and upcoming gamemodes for endless fun!",
     "website": "https://meteorcraft.net/",
     "store": "https://store.meteorcraft.net/",
+    "description": "Play Survival, Skyblock, and upcoming gamemodes for endless fun!",
     "addresses": [
         "meteorcraft.net"
     ],

@@ -1,6 +1,7 @@
-{ 
+{
     "id": "xcold",
     "name": "XCOLD",
+    "website": "https://xcold.org",
     "store": "https://store.xcold.net",
     "addresses": [
         "xcold.net"
@@ -17,6 +18,7 @@
         "EU"
     ],
     "gameTypes": [
+        "Minigames",
         "Survival"
     ]
 }

@@ -1,0 +1,42 @@
+{
+    "id": "naizu",
+    "name": "Naizu SMP",
+    "website": "https://naizu.net/",
+    "store": "https://naizu.net/store",
+    "wiki": "https://naizu.net/wiki",
+    "description": "Carefully curated survival experience",
+    "addresses": [
+        "naizu.net"
+    ],
+    "primaryAddress": "play.naizu.net",
+    "primaryColor": "#ffff05",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/naizu"
+    },
+    "compliance": {
+        "rules": "https://naizu.net/rules",
+        "privacyPolicy": "https://naizu.net/privacy"
+    },
+    "votingLinks": [
+        "https://namemc.com/server/play.naizu.net"
+    ]
+}

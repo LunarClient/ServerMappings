@@ -3,32 +3,29 @@
     "name": "ScarletMC",
     "website": "https://www.scarletmc.it",
     "store": "https://store.scarletmc.it",
-    "description": "Italian Minecraft server from 2021.",
+    "description": "ScarletMC is an Italian Minecraft server born in 2021.",
     "addresses": [
         "giacomov07.it",
         "giacomc.it",
         "scarletmc.it"
     ],
     "primaryAddress": "play.scarletmc.it",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
-    ],
-    "primaryMinecraftVersion": "1.20.1",
     "primaryColor": "#FF2400",
     "secondaryColor": "#ff2200",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",

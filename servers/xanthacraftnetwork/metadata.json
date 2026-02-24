@@ -1,8 +1,8 @@
 {
     "id": "xanthacraftnetwork",
     "name": "XanthaCraft Network",
-    "description": "Experience A Multiplayer Server Like Never Before.",
     "store": "https://store.xanthacraft.com/",
+    "description": "Experience A Multiplayer Server Like Never Before.",
     "addresses": [
         "xanthacraft.net"
     ],

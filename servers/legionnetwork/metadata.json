@@ -1,11 +1,14 @@
 {
     "id": "legionnetwork",
     "name": "Legion Network",
+    "store": "https://tienda.legion.ac",
     "description": "Come play with us in our survival!",
     "addresses": [
         "legion.ac"
     ],
     "primaryAddress": "legion.ac",
+    "primaryColor": "#8d34ff",
+    "secondaryColor": "#d734ff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,13 +19,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#8d34ff",
-    "secondaryColor": "#d734ff",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -31,16 +28,19 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Skyblock"
     ],
-    "store": "https://tienda.legion.ac",
     "socials": {
         "twitter": "Legion_Network3",
         "tiktok": "@legionnetwork_",
         "discord": "https://discord.gg/jsMtGwn7tu"
-    },
-    "crossplay": true
+    }
 }

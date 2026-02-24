@@ -6,19 +6,19 @@
         "andromedapvp.xyz"
     ],
     "primaryAddress": "andromedapvp.xyz",
+    "primaryColor": "#fbf6e4",
+    "secondaryColor": "#8677ad",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#fbf6e4",
-    "secondaryColor": "#8677ad",
-    "primaryLanguage": "pt-PT",
-    "languages": [
-        "pt-PT"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pt-PT",
+    "languages": [
+        "pt-PT"
     ],
     "gameTypes": [
         "Survival"

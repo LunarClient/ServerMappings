@@ -1,0 +1,45 @@
+{
+    "id": "fearmc",
+    "name": "FearMC",
+    "website": "https://www.fearmc.net/",
+    "description": "We are a Minecraft Server dedicated to bringing the old feel of Minecraft back.",
+    "addresses": [
+        "fearmc.net"
+    ],
+    "primaryAddress": "play.fearmc.net",
+    "primaryColor": "#f13d3d",
+    "secondaryColor": "#ff8383",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "FearMCGames",
+        "discord": "https://discord.gg/bGJu2QjC3A"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.fearmc.net/privacy-policy",
+        "termsOfService": "https://www.fearmc.net/terms-of-service",
+        "rules": "https://www.fearmc.net/rules",
+        "support": "https://www.fearmc.net/contact"
+    }
+}

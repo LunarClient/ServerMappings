@@ -1,8 +1,8 @@
 {
     "id": "tidal",
     "name": "Tidal Network",
-    "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
     "store": "https://store.tidal.rip/",
+    "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
     "addresses": [
         "tidal.rip"
     ],

@@ -8,28 +8,28 @@
         "mcrush.pl"
     ],
     "primaryAddress": "mcrush.pl",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.16.*",
-	"1.17.*",
-	"1.19.*",
+        "1.17.*",
+        "1.19.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.16.5",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/Tf5aZ2Gujs"
-    },
-    "crossplay": false
+    }
 }

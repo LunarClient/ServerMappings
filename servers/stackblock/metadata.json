@@ -1,0 +1,26 @@
+{
+    "id": "stackblock",
+    "name": "StackBlock",
+    "website": "https://stackblock.net",
+    "store": "https://store.stackblock.net",
+    "addresses": [
+        "stackblock.net"
+    ],
+    "primaryAddress": "play.stackblock.net",
+    "primaryColor": "#fdc439",
+    "secondaryColor": "#b25add",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ]
+}

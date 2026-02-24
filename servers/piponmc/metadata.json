@@ -1,11 +1,15 @@
 {
     "id": "piponmc",
     "name": "PiponMC Network",
+    "website": "https://www.piponmc.pro",
+    "store": "https://piponmc.tebex.io",
     "description": "THE server that will not disappoint you.",
     "addresses": [
         "piponmc.pro"
     ],
     "primaryAddress": "piponmc.pro",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#60f2f2",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
@@ -14,26 +18,22 @@
         "1.12.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#60f2f2",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
-    "website": "https://www.piponmc.pro",
-    "store": "https://piponmc.tebex.io",
     "socials": {
         "discord": "https://discord.com/invite/pipon-severs-999638091990056990"
-    },
-    "crossplay": true
+    }
 }

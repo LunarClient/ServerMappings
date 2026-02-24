@@ -1,21 +1,18 @@
 {
     "id": "xenos",
     "name": "XenosMC",
+    "store": "https://store.xenosmc.net",
     "description": "Home of Competitive Prison Server",
     "addresses": [
         "xenosmc.net"
     ],
     "primaryAddress": "play.xenosmc.net",
+    "primaryColor": "#FFEE35",
+    "secondaryColor": "#B3ACAF",
     "minecraftVersions": [
         "1.20.4"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#FFEE35",
-    "secondaryColor": "#B3ACAF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -24,10 +21,15 @@
         "AS",
         "SA"
     ],
-    "gameTypes": [
-        "PvP", "Prison", "PvE"
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
-    "store": "https://store.xenosmc.net",
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "PvE"
+    ],
     "socials": {
         "discord": "https://discord.gg/BNEMNYyNeA"
     }

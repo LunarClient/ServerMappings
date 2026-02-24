@@ -1,13 +1,15 @@
 {
     "id": "redeblaze",
     "name": "Rede Blaze",
-    "description": "Survival with texture, tournaments, land protection, battle pass and much more!",
     "website": "https://redeblaze.com/",
     "store": "https://redeblaze.com/loja/",
+    "description": "Survival with texture, tournaments, land protection, battle pass and much more!",
     "addresses": [
         "redeblaze.com"
     ],
     "primaryAddress": "jogar.redeblaze.com",
+    "primaryColor": "#fab90a",
+    "secondaryColor": "#fab90a",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -18,13 +20,11 @@
         "1.20.*",
         "1.21.*"
     ],
+    "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
-    "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#fab90a",
-    "secondaryColor": "#fab90a",
     "gameTypes": [
         "Survival"
     ],

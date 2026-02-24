@@ -1,0 +1,36 @@
+{
+    "id": "skyffanetwork",
+    "name": "SkyFFA",
+    "website": "https://baraserver.tebex.io/",
+    "description": "SkyFFA, FFA, KnockbackFFA, BridgesFFA — competitive and fun PvP modes!",
+    "addresses": [
+        "skyffa.net"
+    ],
+    "primaryAddress": "skyffa.net",
+    "primaryColor": "#00FF00",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/baraserver/"
+    }
+}
+
+
+
+

@@ -1,0 +1,32 @@
+{
+    "id": "mine_via",
+    "name": "Minevia",
+    "website": "https://minevia.fun",
+    "store": "https://store.minevia.fun",
+    "description": "Minevia is a competitive Practice 1.8.9 server for premium and cracked players",
+    "addresses": [
+        "minevia.fun"
+    ],
+    "primaryAddress": "play.minevia.fun",
+    "primaryColor": "#F54927",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ZWPGkMdwC6",
+        "youtube": "@mine_via"
+    }
+}

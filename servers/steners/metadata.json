@@ -1,0 +1,39 @@
+{
+    "id": "steners",
+    "name": "Steners",
+    "website": "https://www.steners.fr",
+    "store": "https://store.steners.fr",
+    "description": "The Competition Reincarnated.",
+    "addresses": [
+        "steners.fr"
+    ],
+    "primaryAddress": "steners.fr",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#FF5555",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "stenersnetwork",
+        "discord": "https://discord.gg/steners/"
+    }
+}

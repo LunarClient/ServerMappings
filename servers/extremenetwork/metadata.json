@@ -26,7 +26,7 @@
     ],
     "gameTypes": [
         "Factions",
-	    "UHC",
+        "UHC",
         "Survival"
     ],
     "socials": {

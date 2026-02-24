@@ -1,11 +1,16 @@
 {
     "id": "nexit",
     "name": "Nexit.lol",
+    "website": "https://nexit.lol",
+    "store": "https://store.nexit.lol",
+    "wiki": "https://wiki.nexit.lol",
     "description": "Next level of Minigames",
     "addresses": [
         "nexit.lol"
     ],
     "primaryAddress": "nexit.lol",
+    "primaryColor": "#2cd7fd",
+    "secondaryColor": "#b2c7ed",
     "minecraftVersions": [
         "1.20.3",
         "1.20.4",
@@ -14,28 +19,23 @@
         "1.21"
     ],
     "primaryMinecraftVersion": "1.20.3",
-    "primaryColor": "#2cd7fd",
-    "secondaryColor": "#b2c7ed",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Skyblock"
     ],
-    "website": "https://nexit.lol",
-    "store": "https://store.nexit.lol",
-    "wiki": "https://wiki.nexit.lol",
     "socials": {
         "discord": "https://discord.com/invite/NXqePhXXpV",
         "youtube": "nexitserver",
         "tiktok": "@play.nexit.lol"
-    },
-    "crossplay": false
+    }
 }

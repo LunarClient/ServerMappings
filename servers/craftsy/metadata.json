@@ -1,0 +1,35 @@
+{
+    "id": "craftsy",
+    "name": "Craftsy",
+    "website": "https://craftsy.io/",
+    "store": "https://store.craftsy.io/",
+    "addresses": [
+        "craftsy.io"
+    ],
+    "primaryAddress": "craftsy.io",
+    "primaryColor": "#ebbf52",
+    "secondaryColor": "#fa8d39",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "Craftsyio",
+        "discord": "https://discord.com/invite/craftsy"
+    }
+}

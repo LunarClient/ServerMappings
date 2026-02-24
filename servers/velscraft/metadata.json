@@ -1,33 +1,33 @@
 {
     "id": "velscraft",
     "name": "VelsCraft.pl",
+    "website": "https://velscraft.pl",
+    "store": "https://sklep.velscraft.pl",
     "description": "The best server in Poland, now with Manhunt mode!",
     "addresses": [
         "velscraft.pl"
     ],
     "primaryAddress": "velscraft.pl",
+    "primaryColor": "#1389bf",
+    "secondaryColor": "#1274a1",
     "minecraftVersions": [
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#1389bf",
-    "secondaryColor": "#1274a1",
-    "primaryLanguage": "pl",
-    "languages": [
-        "pl"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
     ],
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
-    "website": "https://velscraft.pl",
-    "store": "https://sklep.velscraft.pl",
     "socials": {
         "discord": "https://discord.com/invite/VAbVuhUKxM"
-    },
-    "crossplay": false
+    }
 }

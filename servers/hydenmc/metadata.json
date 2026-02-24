@@ -1,7 +1,7 @@
 {
     "id": "hydenmc",
     "name": "HydenMC",
-    "website": "https://www.hydenmc.it/", 
+    "website": "https://www.hydenmc.it/",
     "description": "Explore the world of HydenMC and experience our unique gameplay mode.",
     "addresses": [
         "hydenmc.it"
@@ -32,9 +32,8 @@
         "PvP",
         "Survival",
         "Skyblock"
-        
     ],
     "socials": {
         "discord": "https://discord.gg/G77VAVKTsx"
     }
-}   
+}
