@@ -1,6 +1,7 @@
 {
   "id": "univercraft",
   "name": "UniverCraft",
+  "description": "A custom survival and adventure network with immersive gameplay.",
   "website": "https://univercraft.com",
   "addresses": [
     "play.univercraft.com"
@@ -19,9 +20,9 @@
   "gameTypes": [
     "Survival",
     "Adventure",
-    "PvP",
-    "Custom"
+    "PvP"
   ],
+  "crossplay": false,
   "socials": {
     "discord": "https://discord.gg/BubZmzne3Q"
   }
