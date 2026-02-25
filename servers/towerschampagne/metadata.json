@@ -14,8 +14,7 @@
   ],
   "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
-        "PvP",
-        "Competitive"
+        "PvP"
     ],
   "socials": {
     "discord": "https://discord.gg/kZwjepZS4r"
