@@ -1,0 +1,34 @@
+{
+    "id": "themurft",
+    "name": "TheMurft Nw",
+    "website": "https://themurft.xyz/",
+    "description": "There is no pay-to-win here.",
+    "addresses": [
+        "themurft.xyz"
+    ],
+    "primaryAddress": "themurft.xyz",
+    "primaryColor": "#1727FF",
+    "secondaryColor": "#0010B5",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/6C5t995jC6",
+        "twitter": "themurft"
+    }
+}

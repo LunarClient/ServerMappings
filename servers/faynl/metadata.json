@@ -1,11 +1,15 @@
 {
     "id": "faynl",
     "name": "Faynl",
+    "website": "https://faynl.ru/",
+    "store": "https://shop.faynl.ru/#shop",
     "description": "A bunch of fun game modes to enjoy",
     "addresses": [
         "faynl.ru"
     ],
     "primaryAddress": "mc.faynl.ru",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#00FFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -18,8 +22,6 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
-    "primaryColor": "#0000FF",
-    "secondaryColor": "#00FFFF",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -29,8 +31,6 @@
         "PvP",
         "Survival"
     ],
-    "website": "https://faynl.ru/",
-    "store": "https://shop.faynl.ru/#shop",
     "socials": {
         "discord": "https://discord.gg/KyKGu48UXf",
         "telegram": "faynlru"
