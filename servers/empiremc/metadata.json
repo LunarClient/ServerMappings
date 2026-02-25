@@ -21,9 +21,9 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Fast Farm"
+        "Skyblock"
     ],
-    "primaryLanguage ": "es-EN",
+    "primaryLanguage": "es-EN",
     "socials": {
         "twitter": "empiremc_cc",
         "discord": "https://discord.gg/decJVdFEfH",
