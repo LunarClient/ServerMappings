@@ -1,0 +1,45 @@
+{
+    "id": "refmc",
+    "name": "RefMc.pl",
+    "website": "https://www.refmc.pl",
+    "store": "https://refmc.pl",
+    "description": "Innovative and professional Polish Minecraft server experience",
+    "addresses": [
+        "refmc.pl"
+    ],
+    "primaryAddress": "refmc.pl",
+    "primaryColor": "#9adf2b",
+    "secondaryColor": "#123aec",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/EtCZmqn5fj"
+    },
+    "compliance": {
+        "rules": "https://www.refmc.pl/"
+    }
+}

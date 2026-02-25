@@ -1,9 +1,9 @@
 {
     "id": "diamondfire",
     "name": "DiamondFire",
-    "description": "Create your own minigames entirely in Minecraft, no coding knowledge required!",
     "website": "https://mcdiamondfire.com/",
     "store": "https://store.mcdiamondfire.com/",
+    "description": "Create your own minigames entirely in Minecraft, no coding knowledge required!",
     "addresses": [
         "mcdiamondfire.com",
         "diamondfire.games"

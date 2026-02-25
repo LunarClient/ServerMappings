@@ -3,8 +3,7 @@
     "name": "Rage",
     "store": "https://store.rage.rip/",
     "addresses": [
-        "rage.rip",
-        "ranked.rip"
+        "rage.rip"
     ],
     "primaryAddress": "rage.rip",
     "primaryColor": "#db213a",

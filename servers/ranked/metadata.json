@@ -3,9 +3,7 @@
     "name": "Ranked Games",
     "store": "https://store.ranked.rip/",
     "addresses": [
-        "ranked.rip",
-        "horu.us",
-        "galanthusmc.net"
+        "ranked.rip"
     ],
     "primaryAddress": "ranked.rip",
     "primaryColor": "#f62c22",

@@ -12,15 +12,15 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "languages": [
-        "en"
-    ],
-    "primaryLanguage": "en",
+    "primaryMinecraftVersion": "1.21.6",
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryRegion": "EU",
-    "primaryMinecraftVersion": "1.21.6",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Creative",
         "PvP",

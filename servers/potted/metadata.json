@@ -3,8 +3,7 @@
     "name": "Potted",
     "description": "A ranked server integrating Practice and HCFW",
     "addresses": [
-        "potted.gg",
-        "pvptemple.it"
+        "potted.gg"
     ],
     "primaryAddress": "potted.gg",
     "primaryColor": "#ad0099",

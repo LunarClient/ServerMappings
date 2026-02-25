@@ -1,27 +1,27 @@
 {
-  "id": "nexamc",
-  "name": "NexaMC",
-  "description": "Best Server IT on roleplay",
-  "addresses": [
-    "nexa-mc.it"
-  ],
-  "primaryAddress": "mc.nexa-mc.it",
-  "gameTypes": [
-    "Roleplay"
-  ],
-  "primaryColor": "#0010FF",
-  "secondaryColor": "#00FFF7",
-  "minecraftVersions": [
-    "1.19.4",
-    "1.21.4"
-  ],
-  "primaryMinecraftVersion": "1.19.4",
-  "languages": [
-    "it"
-  ],
-  "primaryLanguage": "it",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU"
+    "id": "nexamc",
+    "name": "NexaMC",
+    "description": "Best Server IT on roleplay",
+    "addresses": [
+        "nexa-mc.it"
+    ],
+    "primaryAddress": "mc.nexa-mc.it",
+    "primaryColor": "#0010FF",
+    "secondaryColor": "#00FFF7",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ]
 }

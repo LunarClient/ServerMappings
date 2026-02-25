@@ -1,0 +1,28 @@
+{
+    "id": "karmelmcpl",
+    "name": "KarmelMC.pl",
+    "website": "https://karmelmc.pl/",
+    "addresses": [
+        "karmelmc.pl"
+    ],
+    "primaryAddress": "karmelmc.pl",
+    "primaryColor": "#FFA751",
+    "secondaryColor": "#FFE259",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "primaryRegion": "EU", 
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "karmelmcpl",
+        "youtube": "@karmelmcpl",
+        "tiktok": "@karmelmcpl",
+        "discord": "https://discord.gg/aqxfaqjRnS"
+    }
+}

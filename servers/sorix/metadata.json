@@ -1,0 +1,33 @@
+{
+    "id": "sorix",
+    "name": "Sorix Ranked Bedwars",
+    "store": "https://store.srbw.org",
+    "description": "Home to the best European Ranked Bedwars",
+    "addresses": [
+        "srbw.org",
+        "eurbw.net",
+        "eurbw.club"
+    ],
+    "primaryAddress": "srbw.org",
+    "primaryColor": "#FC0A0A",
+    "secondaryColor": "#F7B7B7",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/srbw"
+    }
+}
