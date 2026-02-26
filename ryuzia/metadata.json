@@ -1,0 +1,41 @@
+{
+
+ㅤㅤ"id": "ryuzia",
+ㅤㅤ"name": "Ryuzia",
+ㅤㅤ"website": "https://www.ryuzia.fr",
+ㅤㅤ"store": "https://www.ryuzia.fr/boutique",
+ㅤㅤ"description": "PvP-Faction 1.8 !",
+ㅤㅤ"addresses": [
+ㅤㅤㅤㅤ"play.ryuzia.fr",
+ㅤㅤㅤㅤ"ryuzia.fr",
+ㅤㅤ],
+ㅤㅤ"primaryAddress": "play.ryuzia.fr",
+ㅤㅤ"minecraftVersions": [
+ㅤㅤㅤㅤ"1.7.*",
+ㅤㅤㅤㅤ"1.8.*"
+ㅤㅤ],
+ㅤㅤ"primaryMinecraftVersion": "1.8.9",
+ㅤㅤ"primaryColor": "#ffba38",
+ㅤㅤ"secondaryColor": "#c3f9fe",
+ㅤㅤ"primaryLanguage": "fr",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤfr"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "FR",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"EN",
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"PvP-Faction"
+ㅤㅤ],
+ㅤㅤ"compliance": {
+ㅤㅤㅤㅤ"privacyPolicy": "https://www.lunar.gg/privacy",
+ㅤㅤㅤㅤ"termsOfService": "https://www.lunar.gg/terms",
+ㅤㅤㅤㅤ"rules": "https://www.lunar.gg/rules"
+ㅤㅤ},
+ㅤㅤ"socials": {
+ㅤㅤㅤㅤ"twitter": "Ryuzia",
+ㅤㅤㅤㅤ"discord": "discord.gg/ryuzia"
+ㅤㅤ},
+ㅤㅤ"crossplay": false
+}
