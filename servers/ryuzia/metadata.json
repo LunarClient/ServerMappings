@@ -1,44 +1,32 @@
 {
-ㅤㅤ"id": "ryuzia",
-ㅤㅤ"name": "Ryuzia",
-ㅤㅤ"website": "https://www.ryuzia.fr",
-ㅤㅤ"store": "https://www.ryuzia.fr/boutique",
-ㅤㅤ"description": "Serveur PvP-Faction 1.8",
-ㅤㅤ"addresses": [
-ㅤㅤㅤㅤ"play.ryuzia.fr",
-ㅤㅤㅤㅤ"ryuzia.fr",
-ㅤㅤ],
-ㅤㅤ"primaryAddress": "play.ryuzia.fr",
-ㅤㅤ"minecraftVersions": [
-ㅤㅤㅤㅤ"1.7.*",
-ㅤㅤㅤㅤ"1.8.*"
-ㅤㅤ],
-ㅤㅤ"primaryMinecraftVersion": "1.8.9",
-ㅤㅤ"primaryColor": "#ffbe39",
-ㅤㅤ"secondaryColor": "#73d5df",
-ㅤㅤ"primaryLanguage": "fr",
-ㅤㅤ"languages": [
-ㅤㅤㅤㅤfr"
-ㅤㅤ],
-ㅤㅤ"primaryRegion": "EU",
-ㅤㅤ"regions": [
-ㅤㅤㅤㅤ"NA",
-ㅤㅤㅤㅤ"EU",
-ㅤㅤㅤㅤ"OC",
-ㅤㅤㅤㅤ"AS",
-ㅤㅤㅤㅤ"SA"
-ㅤㅤ],
-ㅤㅤ"gameTypes": [
-ㅤㅤㅤㅤ"PvP-Faction"
-ㅤㅤ],
-ㅤㅤ"compliance": {
-ㅤㅤㅤㅤ"privacyPolicy": "https://www.ryuzia.fr/cgu",
-ㅤㅤㅤㅤ"termsOfService": "https://www.ryuzia.fr/cgv",
-ㅤㅤㅤㅤ"rules": "https://www.ryuzia.fr/reglement"
-ㅤㅤ},
-ㅤㅤ"socials": {
-ㅤㅤㅤㅤ"twitter": "ryuzia",
-ㅤㅤㅤㅤ"discord": "https://www.ryuzia.fr/discord"
-ㅤㅤ},
-ㅤㅤ"crossplay": false
+    "id": "ryuzia",
+    "name": "Ryuzia",
+    "website": "https://www.ryuzia.fr",
+    "description": "PvP-Faction 1.8",
+    "addresses": [
+        "ryuzia.fr"
+    ],
+    "primaryAddress": "play.ryuzia.fr",
+    "primaryColor": "#FFBD39",
+    "secondaryColor": "#73D5DF",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Faction",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ryuzia"
+    }
 }
