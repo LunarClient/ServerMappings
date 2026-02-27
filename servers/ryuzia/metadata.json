@@ -1,0 +1,32 @@
+{
+    "id": "ryuzia",
+    "name": "Ryuzia",
+    "website": "https://www.ryuzia.fr",
+    "description": "Japonese Theme French PvP-Faction, come for fun !",
+    "addresses": [
+        "ryuzia.fr"
+    ],
+    "primaryAddress": "play.ryuzia.fr",
+    "primaryColor": "#FFBD39",
+    "secondaryColor": "#73D5DF",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ryuzia"
+    }
+}
