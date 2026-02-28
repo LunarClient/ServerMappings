@@ -1,0 +1,32 @@
+{
+  "id": "valgard",
+  "name": "Valgard",
+  "description": "A French survival server with lands, nations and wars.",
+  "addresses": [
+    "valgard.fr"
+  ],
+  "primaryAddress": "play.valgard.fr",
+  "minecraftVersions": [
+    "1.21.4"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "primaryColor": "#54daf4",
+  "secondaryColor": "#fc630c",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "website": "https://valgard.fr",
+  "store": "https://valgard.fr",
+  "socials": {
+    "discord": "https://discord.gg/valgard"
+  }
+}
