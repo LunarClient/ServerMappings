@@ -1,23 +1,30 @@
 {
-  "id": "astryxnetwork",
-  "name": "Astryx Network",
-  "description": "Network server offering competitive PvP and survival modes",
-  "addresses": [
-    "play.astryx.us"
-  ],
-  "primaryAddress": "play.astryx.us",
-  "minecraftVersions": [
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.*",
-  "gameTypes": [
-    "BOXPVP"
-  ],
-  "primaryColor": "#6A00FF",
-  "secondaryColor": "#00E0FF",
-  "socials": {
-    "discord": "https://discord.gg/astr"
-  },
-  "crossplay": false
+    "id": "astryx",
+    "name": "Astryx Network",
+    "addresses": [
+        "astryx.us"
+    ],
+    "primaryAddress": "play.astryx.us",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#B22222",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Boxpvp"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/astr",
+        "twitter": "AstryNET"
+    }
 }
