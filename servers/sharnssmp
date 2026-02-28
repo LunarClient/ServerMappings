@@ -1,0 +1,17 @@
+{
+  "id": "sharnssmp",
+  "name": "SharnsSMP",
+  "description": "A Turkish SMP Survival server for everyone",
+  "addresses": [
+    "play.sharns.com"
+  ],
+  "primaryAddress": "play.sharns.com",
+  "minecraftVersions": ["1.19", "1.19.1", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6", "1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4"],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryColor": "#8B00FF",
+  "secondaryColor": "#6A0DAD",
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "gameTypes": ["SMP", "SURVIVAL"],
+  "crossplay": false
+}
