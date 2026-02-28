@@ -1,6 +1,7 @@
 {
     "id": "2b2t",
     "name": "2b2t",
+    "description": "Testing 123",
     "store": "https://shop.2b2t.org/",
     "addresses": [
         "2b2t.org"
