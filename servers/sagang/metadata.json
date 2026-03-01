@@ -1,36 +1,32 @@
 {
-  "id": "sagang",
-  "name": "SaGang Network",
-  "store": "https://shop.sagang.fun",
-  "description": "Un servidor de PvP con FFA Sword y Duels.",
-  "addresses": [
-    "sagang.fun"
-  ],
-  "primaryAddress": "sagang.fun",
-  "primaryColor": "#60E7E7",
-  "secondaryColor": "#3497E7",
-  "minecraftVersions": [
-    "1.18.2",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.8",
-  "crossplay": false,
-  "primaryRegion": "SA",
-  "regions": [
-    "SA"
-  ],
-  "primaryLanguage": "es-EN",
-  "languages": [
-    "es-EN",
-    "en"
-  ],
-  "gameTypes": [
-    "PvP",
-    "UHC"
-  ],
-  "socials": {
-    "discord": "https://discord.gg/sagang",
-  }
+    "id": "sagang",
+    "name": "SaGang",
+    "store": "https://tienda.sagang.fun/",
+    "description": "El mejor servidor FFA Sword de SA.",
+    "addresses": [
+        "sagang.fun"
+    ],
+    "primaryAddress": "sagang.fun",
+    "primaryColor": "#2CB0DB",
+    "secondaryColor": "#70CAE4",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sagang"
+    }
 }
