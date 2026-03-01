@@ -1,9 +1,9 @@
 {
     "id": "xantyx",
     "name": "Xantyx Network",
-    "description": "A new-gen Minecraft server with Earth and Oneblock mode.",
-    "store": "https://store.xantyxnetwork.com/",
     "website": "https://www.xantyxnetwork.com/",
+    "store": "https://store.xantyxnetwork.com/",
+    "description": "A new-gen Minecraft server with Earth and Oneblock mode.",
     "addresses": [
         "xantyxnetwork.com"
     ],
@@ -32,7 +32,4 @@
     "socials": {
         "discord": "https://discord.gg/pGvu64Tx"
     }
-
 }
-
-

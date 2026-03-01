@@ -1,11 +1,14 @@
 {
     "id": "trebland",
     "name": "TrebLand Network",
+    "store": "https://tienda.trebland.com",
     "description": "Your PvP and PvE trusted server",
     "addresses": [
         "trebland.com"
     ],
     "primaryAddress": "trebland.com",
+    "primaryColor": "#99FF00",
+    "secondaryColor": "#8BE700",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -16,13 +19,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
-    "primaryColor": "#99FF00",
-    "secondaryColor": "#8BE700",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -31,15 +28,18 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "PvE"
     ],
-    "store": "https://tienda.trebland.com",
     "socials": {
         "twitter": "TrebLandnw",
         "instagram": "treblandnw",
         "discord": "https://discord.com/invite/trebland"
-    },
-    "crossplay": true
+    }
 }

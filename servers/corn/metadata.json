@@ -1,6 +1,8 @@
 {
     "id": "corn",
     "name": "sVanilla Survival",
+    "website": "https://corn.gg",
+    "store": "https://svanilla-survival.tebex.io",
     "description": "Semi-Vanilla Fairplay With No Landclaims",
     "addresses": [
         "corn.gg",
@@ -8,31 +10,29 @@
         "vnlla.net"
     ],
     "primaryAddress": "corn.gg",
+    "primaryColor": "#e7bf05",
+    "secondaryColor": "#71a92c",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryColor": "#e7bf05",
-    "secondaryColor": "#71a92c",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://corn.gg",
-    "store": "https://svanilla-survival.tebex.io",
-    "compliance": {
-        "rules": "https://corn.gg/rules"
-    },
     "socials": {
         "discord": "https://discord.gg/NvU4ct757u"
     },
-    "crossplay": true
+    "compliance": {
+        "rules": "https://corn.gg/rules"
+    }
 }

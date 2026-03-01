@@ -42,14 +42,14 @@
         "discord": "https://discord.gg/pvpgym",
         "tiktok": "@pvpgym"
     },
+    "compliance": {
+        "rules": "https://pvpgym.net/rules"
+    },
     "votingLinks": [
         "https://de.namemc.com/server/pvpgym.net?q=pvpgym.net",
         "https://minecraftservers.org/server/676330",
         "https://minecraft-server-list.com/server/513349",
         "https://minecraft-mp.com/server-s346187",
         "https://topminecraftservers.org/server/41173"
-    ],
-    "compliance": {
-        "rules": "https://pvpgym.net/rules"
-    }
+    ]
 }
