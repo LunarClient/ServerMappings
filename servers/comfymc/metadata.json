@@ -38,5 +38,9 @@
         "discord": "https://discord.gg/comfymc",
         "telegram": "ComfyMC",
         "tiktok": "@comfymc.it"
+    },
+    "compliance": {
+        "rules": "https://www.comfymc.it/regolamento",
+        "support": "https://discord.gg/comfymc"
     }
 }
