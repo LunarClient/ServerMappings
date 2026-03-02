@@ -2,7 +2,7 @@
     "id": "sagang",
     "name": "SaGang",
     "store": "https://tienda.sagang.fun/",
-    "description": "El mejor servidor FFA Sword de SA.",
+    "description": "The best FFA Sword server in SA.",
     "addresses": [
         "sagang.fun"
     ],
@@ -29,4 +29,5 @@
     "socials": {
         "discord": "https://discord.gg/sagang"
     }
+
 }
