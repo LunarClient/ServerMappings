@@ -1,0 +1,40 @@
+{
+  "id": "elyoyonetwork",
+  "name": "ElYoyo Network",
+  "description": "PvP-focused server bringing back nostalgic gameplay from past years",
+  "addresses": [
+    "elyoyo.com"
+  ],
+  "primaryAddress": "mc.elyoyo.com",
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#FFD700",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "SA",
+    "NA"
+  ],
+  "primaryRegion": "NA",
+  "website": "https://elyoyo.com",
+  "store": "https://elyoyo.tebex.io/",
+  "rules": "https://discord.gg/H8racy6xEA",
+  "support": "https://discord.gg/H8racy6xEA",
+  "socials": {
+    "discord": "https://discord.gg/H8racy6xEA",
+    "twitter": "ElYoyoOfficial",
+    "youtube": "@ElYoyoOfficial",
+    "instagram": "ElYoyoOfficial"
+  },
+  "votingLinks": [
+    "https://minecraftservers.org/server/684695"
+  ],
+  "crossplay": false
+}
