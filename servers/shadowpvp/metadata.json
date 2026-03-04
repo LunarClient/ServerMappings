@@ -2,6 +2,7 @@
     "id": "shadowpvp",
     "name": "ShadowPvP",
     "store": "https://store.shadowpvp.us/",
+    "description": "Test your combat skills on ShadowPvP.",
     "addresses": [
         "shadowpvp.us"
     ],

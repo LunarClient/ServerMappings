@@ -1,6 +1,7 @@
 {
     "id": "veltpvp",
     "name": "VeltPvP",
+    "description": "Play HCF and PvP on VeltPvP.",
     "addresses": [
         "veltpvp.com"
     ],

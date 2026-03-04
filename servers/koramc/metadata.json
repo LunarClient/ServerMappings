@@ -2,6 +2,7 @@
     "id": "koramc",
     "name": "KoraMC",
     "store": "https://store.koramc.cc/",
+    "description": "Play PvP and HCF on KoraMC.",
     "addresses": [
         "koramc.cc"
     ],

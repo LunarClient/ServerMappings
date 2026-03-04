@@ -3,6 +3,7 @@
     "name": "CraftMC",
     "website": "https://craftmc.pl/index.php/",
     "store": "https://craftmc.pl/index.php/page/index/Patnoci",
+    "description": "Minecraft server network supporting versions 1.8 - 1.21.",
     "addresses": [
         "craftmc.pl"
     ],

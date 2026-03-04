@@ -2,6 +2,7 @@
     "id": "fyre",
     "name": "Fyre",
     "store": "https://store.fyre.cc/",
+    "description": "Play HCF and PvP on Fyre.",
     "addresses": [
         "fyre.cc"
     ],

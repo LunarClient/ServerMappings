@@ -3,6 +3,7 @@
     "name": "StackBlock",
     "website": "https://stackblock.net",
     "store": "https://store.stackblock.net",
+    "description": "Play Survival and PvP on StackBlock.",
     "addresses": [
         "stackblock.net"
     ],

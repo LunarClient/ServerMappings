@@ -2,6 +2,7 @@
     "id": "sololegends",
     "name": "SoloLegends",
     "store": "https://store.sololegends.net/",
+    "description": "Play HCF, PvP, and more on SoloLegends.",
     "addresses": [
         "sololegends.net"
     ],

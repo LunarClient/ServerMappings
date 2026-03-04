@@ -2,6 +2,7 @@
     "id": "infernouno",
     "name": "Inferno",
     "store": "https://inferno.uno/store",
+    "description": "Play PvP and UHC on Inferno.",
     "addresses": [
         "inferno.uno",
         "inferno.wiki"

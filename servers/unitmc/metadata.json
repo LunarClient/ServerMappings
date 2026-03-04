@@ -2,6 +2,7 @@
     "id": "unitmc",
     "name": "UnitMC",
     "store": "https://store.unitmc.org/",
+    "description": "Rise through the ranks on UnitMC.",
     "addresses": [
         "unitmc.org"
     ],

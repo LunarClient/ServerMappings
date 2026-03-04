@@ -2,6 +2,7 @@
     "id": "westffa",
     "name": "West FFA",
     "store": "https://store.westffa.lol/",
+    "description": "Test your combat skills on West FFA.",
     "addresses": [
         "westffa.lol"
     ],

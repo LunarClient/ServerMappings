@@ -2,6 +2,7 @@
     "id": "straypvp",
     "name": "StrayPvP",
     "store": "https://store.straypvp.us/",
+    "description": "Play PvP and UHC on StrayPvP.",
     "addresses": [
         "straypvp.us"
     ],

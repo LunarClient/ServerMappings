@@ -2,6 +2,7 @@
     "id": "ryon",
     "name": "Ryon",
     "store": "https://store.ryon.live/",
+    "description": "Play HCF and PvP on Ryon.",
     "addresses": [
         "ryon.live"
     ],

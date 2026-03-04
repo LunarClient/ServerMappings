@@ -2,6 +2,7 @@
     "id": "chromium",
     "name": "Chromium Network",
     "website": "https://chromium.lol/",
+    "description": "Test your combat skills on Chromium Network.",
     "addresses": [
         "chromium.lol"
     ],

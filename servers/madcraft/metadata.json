@@ -2,6 +2,7 @@
     "id": "madcraft",
     "name": "MadCraft Network",
     "website": "https://madcraft.ir/",
+    "description": "Play PvP, Survival, and more on MadCraft Network.",
     "addresses": [
         "madcraft.ir",
         "madgames.ir"

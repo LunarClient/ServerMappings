@@ -2,6 +2,7 @@
     "id": "craftplay",
     "name": "CraftPlay",
     "store": "https://craftplay.pl/",
+    "description": "Play Minigames, Survival, and more on CraftPlay.",
     "addresses": [
         "craftplay.pl"
     ],

@@ -3,6 +3,7 @@
     "name": "MineBox Network",
     "website": "https://minebox.es/",
     "store": "https://tienda.minebox.es/",
+    "description": "Play Minigames, PvP, and more on MineBox Network.",
     "addresses": [
         "minebox.es",
         "minelc.com"

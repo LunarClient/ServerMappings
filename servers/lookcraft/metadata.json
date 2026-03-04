@@ -1,6 +1,7 @@
 {
     "id": "lookcraft",
     "name": "LookCraft",
+    "description": "Play PvP, Survival, and more on LookCraft.",
     "addresses": [
         "lookcraft.net"
     ],

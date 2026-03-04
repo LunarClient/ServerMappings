@@ -2,6 +2,7 @@
     "id": "omegacraft",
     "name": "OmegaCraft",
     "store": "https://tienda.omegacraft.cl/",
+    "description": "Play Minigames, Prison, and more on OmegaCraft.",
     "addresses": [
         "omegacraft.cl"
     ],

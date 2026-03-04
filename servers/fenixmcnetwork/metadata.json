@@ -2,6 +2,7 @@
     "id": "fenixmcnetwork",
     "name": "Fenix Network",
     "store": "https://tienda.fenixmc.net",
+    "description": "Play PvP, Survival, and more on Fenix Network.",
     "addresses": [
         "fenixmc.net"
     ],

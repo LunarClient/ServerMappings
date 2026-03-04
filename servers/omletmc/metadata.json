@@ -1,6 +1,7 @@
 {
     "id": "omletmc",
     "name": "OmletMC",
+    "description": "Experience survival gameplay on OmletMC.",
     "addresses": [
         "omletmc.net"
     ],

@@ -3,6 +3,7 @@
     "name": "RustME",
     "website": "https://rustme.net/",
     "store": "https://rustme.net/donate/vanilla",
+    "description": "Play Minigames and PvP on RustME.",
     "addresses": [
         "rustme.net"
     ],

@@ -2,6 +2,7 @@
     "id": "cheekymc",
     "name": "CheekyMC",
     "store": "https://store.cheekymc.net/",
+    "description": "Experience survival gameplay on CheekyMC.",
     "addresses": [
         "cheekymc.net"
     ],
