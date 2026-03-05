@@ -5,7 +5,7 @@
     "store": "https://store.cloudmp.org",
     "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
     "addresses": [
-        "cloudmp.org"
+        "cloudmp.org",
         "*.cloudmp.org"
     ],
     "primaryAddress": "cloudmp.org",
@@ -22,9 +22,10 @@
     "regions": [
         "NA",
         "SA",
+        "AF",
         "EU",
         "AS",
-        "Oceania"      
+        "OC"      
     ],
     "primaryLanguage": "en",
     "languages": [
