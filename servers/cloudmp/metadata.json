@@ -4,7 +4,9 @@
     "website": "https://cloudmp.org",
     "store": "https://store.cloudmp.org",
     "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
-    "addresses": [],
+    "addresses": [
+        "cloudmp.org"
+    ],
     "primaryAddress": "cloudmp.org",
     "primaryColor": "#bac1d0",
     "secondaryColor": "#e3e3e3",
