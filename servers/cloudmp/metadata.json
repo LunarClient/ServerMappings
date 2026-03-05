@@ -4,10 +4,7 @@
     "website": "https://cloudmp.org",
     "store": "https://store.cloudmp.org",
     "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
-    "addresses": [
-        "cloudmp.org",
-        "*.cloudmp.org"
-    ],
+    "addresses": [],
     "primaryAddress": "cloudmp.org",
     "primaryColor": "#bac1d0",
     "secondaryColor": "#e3e3e3",
@@ -39,6 +36,6 @@
     "socials": {
         "discord": "https://discord.com/invite/duvY9RgyWb",
         "youtube": "DevSamCpvp",
-        "tiktok": "DevSamCpvp"
+        "tiktok": "@DevSamCpvp"
     }
 }
