@@ -1,0 +1,47 @@
+{
+    "id": "bawmc",
+    "name": "BawMC",
+    "website": "https://bawmc.net",
+    "store": "https://loja.bawmc.net",
+    "description": "A Brazilian Survival and Minigames server!",
+    "addresses": [
+        "bawmc.net",
+        "bawmc.com.br",
+        "bawmc.com"
+    ],
+    "primaryAddress": "bawmc.net",
+    "primaryColor": "#00BDFC",
+    "secondaryColor": "#00F8FC",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bawmc",
+        "tiktok": "@excambaw",
+        "instagram": "Excambaw",
+        "youtube": "@excambaw"
+    }
+}
