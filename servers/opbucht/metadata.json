@@ -8,8 +8,8 @@
         "play.opbucht.de"
     ],
     "primaryAddress": "mc.opbucht.de",
-    "primaryColor": "#ecb94f",
-    "secondaryColor": "#372826",
+    "primaryColor": "#00FF05",
+    "secondaryColor": "#1E00FF",
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
     "primaryLanguage": "de",
