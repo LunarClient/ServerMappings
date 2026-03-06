@@ -1,0 +1,28 @@
+{
+    "id": "opbucht",
+    "name": "OPBUCHT",
+    "wiki": "https://wiki.opbucht.de/",
+    "description": "OPBUCHT Citybuild Server",
+    "addresses": [
+        "opbucht.de",
+        "play.opbucht.de"
+    ],
+    "primaryAddress": "mc.opbucht.de",
+    "primaryColor": "#00FF05",
+    "secondaryColor": "#1E00FF",
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Citybuild",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://dc.opbucht.de",
+        "youtube": "OPBUCHT",
+        "tiktok": "@opbucht"
+    }
+}
