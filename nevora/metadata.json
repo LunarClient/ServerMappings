@@ -1,0 +1,34 @@
+{
+  "id": "nevora",
+  "name": "Nevora",
+  "description": "Discover the unique world of Nevora. Join our growing community today!",
+  "addresses": [
+    "nevoramc.fr"
+  ],
+  "primaryAddress": "play.nevoramc.fr",
+  "minecraftVersions": [
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "primaryColor": "#FF5555",
+  "secondaryColor": "#5555FF",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "links": {
+    "website": "https://nevoramc.fr"
+  }
+}
