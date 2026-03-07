@@ -1,0 +1,45 @@
+{
+  "ip": "5.83.128.18",
+  "port": 25594,
+  "name": "StellarPvP",
+  "version": "1.20.4"
+}
+{
+  "id": "stellarpvp",
+  "name": "StellarPvP",
+  "website": "https://stellarpvp.net",
+  "store": "https://store.stellarpvp.net",
+  "description": "StellarPvP is a competitive Minecraft PvP server with unique modes and fast paced battles!",
+  "addresses": [
+    "5.83.128.18"
+  ],
+  "primaryAddress": "5.83.128.18",
+  "primaryColor": "#6a5cff",
+  "secondaryColor": "#0f172a",
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "crossplay": false,
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "it",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "PVP",
+    "Practice",
+    "Duels"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/stellarpvp",
+    "instagram": "stellarpvp",
+    "telegram": "stellarpvp",
+    "tiktok": "@stellarpvp"
+  }
+}
