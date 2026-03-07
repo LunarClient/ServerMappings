@@ -4,6 +4,7 @@
     "description": "Japan Minecraft Network featuring PvP and Survival gameplay.",
     "addresses": [
         "shinniya25.network"
+        "mc.shinniya25.network"
     ],
     "primaryAddress": "shinniya25.network",
     "minecraftVersions": [
