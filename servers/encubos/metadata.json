@@ -2,13 +2,13 @@
     "id": "encubos",
     "name": "ENCUBOS",
     "store": "https://store.encubos.eu",
-    "description": "ENCUBOS | Your community!",
+    "description": "ENCUBOS | The new era of MC!",
     "addresses": [
         "encubos.eu"
     ],
-    "primaryAddress": "mc.lokapsos.eu",
-    "primaryColor": "#FF55FF",
-    "secondaryColor": "#55FF55",
+    "primaryAddress": "mc.encubos.eu",
+    "primaryColor": "#5CBBFC",
+    "secondaryColor": "#C6DEF1",
     "minecraftVersions": [
         "1.8.*",
         "1.21.*"
