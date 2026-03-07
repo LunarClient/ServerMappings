@@ -4,8 +4,6 @@
     "description": "Japan Minecraft Network featuring PvP and Survival gameplay.",
     "addresses": [
         "shinniya25.network",
-        "mc.shinniya25.network",
-        "play.shinniya25.network"
     ],
     "primaryAddress": "shinniya25.network",
     "minecraftVersions": [
@@ -19,7 +17,7 @@
     "languages": [
         "en",
         "ja",
-        "zh",
+        "zh-CN",
         "ko"
     ],
     "primaryRegion": "AS",
@@ -30,17 +28,8 @@
         "PvP",
         "Survival"
     ],
-    "website": "",
-    "store": "",
-    "compliance": {
-        "privacyPolicy": "",
-        "termsOfService": "",
-        "rules": "https://discord.shinniya25.network/"
-    },
-    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
         "discord": "https://discord.gg/37SfWYjqsg",
-        "youtube": "@shinniya25-network"
     },
     "crossplay": false
 }
