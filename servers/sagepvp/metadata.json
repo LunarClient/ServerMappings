@@ -1,12 +1,13 @@
 {
     "id": "sagepvp",
     "name": "SagePvP",
-    "website": "https://sagepvp.org/",
-    "store": "https://store.sagepvp.org/",
+    "website": "https://sagepvp.net/",
+    "store": "https://store.sagepvp.net/",
     "addresses": [
-        "sagepvp.org"
+        "sagepvp.net",
+        "sagepvp.com"
     ],
-    "primaryAddress": "sagepvp.org",
+    "primaryAddress": "sagepvp.net",
     "primaryColor": "#4fb238",
     "secondaryColor": "#3d3325",
     "minecraftVersions": [
@@ -20,7 +21,7 @@
     ],
     "socials": {
         "twitter": "sagepvporg",
-        "discord": "https://discord.com/invite/sagepvp/",
+        "discord": "https://discord.com/invite/sagepvpnet/",
         "telegram": "SagePvPNetwork"
     }
 }
