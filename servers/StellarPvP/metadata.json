@@ -1,5 +1,5 @@
 {
-  "id": "StellarPvP",
+  "id": "stellarpvp",
   "name": "StellarPvP",
   "website": "https://stellarpvp.net",
   "store": "https://store.stellarpvp.net",
@@ -27,7 +27,7 @@
   ],
   "gameTypes": [
     "PVP",
-    "Practice",
+    "FFA",
     "Duels"
   ],
   "socials": {
