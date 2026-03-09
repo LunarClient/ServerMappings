@@ -3,6 +3,7 @@
     "name": "MetaMC",
     "website": "https://www.metamc.it/",
     "store": "https://store.metamc.it/",
+    "description": "Italian Minecraft server: Vanilla War, Survival, Towny and Oasis.",
     "addresses": [
         "metamc.it",
         "flexdojo.it",

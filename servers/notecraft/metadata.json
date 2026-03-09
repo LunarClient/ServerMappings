@@ -2,6 +2,7 @@
     "id": "notecraft",
     "name": "NoteCraft Network",
     "store": "https://tienda.notecraft.es/",
+    "description": "Test your combat skills on NoteCraft Network.",
     "addresses": [
         "notecraft.es"
     ],

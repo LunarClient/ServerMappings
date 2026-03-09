@@ -1,6 +1,7 @@
 {
     "id": "fazix.net",
     "name": "Fazix.net",
+    "description": "Test your combat skills on Fazix.net.",
     "addresses": [
         "fazix.net"
     ],

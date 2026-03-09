@@ -3,6 +3,7 @@
     "name": "KaloMC",
     "website": "https://kalomc.org/",
     "store": "https://store.kalomc.org/",
+    "description": "Play HCF and PvP on KaloMC.",
     "addresses": [
         "kalomc.org"
     ],

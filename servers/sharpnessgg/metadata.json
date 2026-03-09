@@ -2,6 +2,7 @@
     "id": "sharpnessgg",
     "name": "Sharpness Network",
     "store": "https://store.sharpness.gg/",
+    "description": "Play PvP and Survival on Sharpness Network.",
     "addresses": [
         "sharpness.gg"
     ],

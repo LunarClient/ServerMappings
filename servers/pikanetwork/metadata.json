@@ -3,6 +3,7 @@
     "name": "PikaNetwork",
     "website": "https://pika-network.net/",
     "store": "https://store.pika-network.net/",
+    "description": "Play exciting minigames on PikaNetwork.",
     "addresses": [
         "pika-network.net",
         "pika.host",

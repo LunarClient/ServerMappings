@@ -2,6 +2,7 @@
     "id": "miguverse",
     "name": "MiguVerse",
     "store": "https://tienda.miguvt.com/",
+    "description": "Play Survival and Skyblock on MiguVerse.",
     "addresses": [
         "miguvt.com"
     ],

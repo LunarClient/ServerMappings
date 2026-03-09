@@ -2,6 +2,7 @@
     "id": "trykit",
     "name": "Trykit",
     "website": "https://trykit.net",
+    "description": "Play Survival and PvP on Trykit.",
     "addresses": [
         "trykit.net"
     ],

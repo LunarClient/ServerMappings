@@ -2,6 +2,7 @@
     "id": "chickencraft",
     "name": "Chickencraft",
     "store": "https://shop.chickencraft.nl/",
+    "description": "Play PvP and Survival on Chickencraft.",
     "addresses": [
         "chickencraft.nl"
     ],

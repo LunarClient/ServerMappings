@@ -1,6 +1,7 @@
 {
     "id": "mobpvp",
     "name": "MobPvP",
+    "description": "Play HCF and PvP on MobPvP.",
     "addresses": [
         "mobpvp.com"
     ],
