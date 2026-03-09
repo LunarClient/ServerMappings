@@ -5,21 +5,21 @@
         "tech-noob.com"
     ],
     "primaryAddress": "tech-noob.com",
+    "primaryColor": "#fda228",
+    "secondaryColor": "#d1620d",
     "minecraftVersions": [
         "1.7.10",
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#fda228",
-    "secondaryColor": "#d1620d",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "de",
     "languages": [
         "en",
         "de"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
     ],
     "gameTypes": [
         "PvP"

@@ -1,36 +1,36 @@
 {
-  "id": "starrymc",
-  "name": "StarryMC Network",
-  "description": "Intense BoxPvP action with upcoming Random Kits. Join the fight!",
-  "addresses": [
-    "starrymc.us"
-  ],
-  "primaryAddress": "starrymc.us",
-  "minecraftVersions": [
-    "1.16.5",
-    "1.17.1",
-    "1.18.2",
-    "1.19.4",
-    "1.20.6"
-  ],
-  "primaryMinecraftVersion": "1.20.6",
-  "primaryColor": "#FFA500",
-  "secondaryColor": "#FFFFFF",
-  "languages": [
-    "en",
-    "es-EN"
-  ],
-  "primaryLanguage": "es-EN",
-  "regions": [
-    "NA"
-  ],
-  "primaryRegion": "NA",
-  "gameTypes": [
-    "PvP"
-  ],
-  "crossplay": true,
-  "store": "https://starrymc.tebex.io/",
-  "socials": {
-    "discord": "https://discord.gg/ezxHj9KpEY"
-  }
+    "id": "starrymc",
+    "name": "StarryMC Network",
+    "store": "https://starrymc.tebex.io/",
+    "description": "Intense BoxPvP action with upcoming Random Kits. Join the fight!",
+    "addresses": [
+        "starrymc.us"
+    ],
+    "primaryAddress": "starrymc.us",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.6"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ezxHj9KpEY"
+    }
 }

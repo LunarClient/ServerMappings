@@ -1,11 +1,14 @@
 {
     "id": "boxpvpp",
     "name": "BoxPvP",
+    "store": "https://boxpvpp.tebex.io",
     "description": "Competitive minecraft boxpvp server.",
     "addresses": [
         "boxpvp.cc"
     ],
     "primaryAddress": "boxpvp.cc",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FF7474",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,24 +18,21 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#FF0000",
-    "secondaryColor": "#FF7474",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://boxpvpp.tebex.io",
     "socials": {
         "twitter": "BoxPvPcc",
         "discord": "https://discord.gg/nRq77GRqZP"
-    },
-    "crossplay": true
+    }
 }

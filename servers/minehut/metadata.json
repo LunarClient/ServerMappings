@@ -9,6 +9,8 @@
         "minehut.gg"
     ],
     "primaryAddress": "mc.minehut.com",
+    "primaryColor": "#488aff",
+    "secondaryColor": "#8beac9",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -20,16 +22,14 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#488aff",
-    "secondaryColor": "#8beac9",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
@@ -45,13 +45,13 @@
         "reddit": "minehut",
         "facebook": "MinehutServers"
     },
-    "votingLinks": [
-        "https://findmcserver.com/server/minehut"
-    ],
     "compliance": {
         "privacyPolicy": "https://app.minehut.com/privacy-policy",
         "termsOfService": "https://app.minehut.com/terms-of-service",
         "rules": "https://forums.minehut.com/rules/"
     },
-    "presentationVideo": "jzOIURoz1v4"
+    "presentationVideo": "jzOIURoz1v4",
+    "votingLinks": [
+        "https://findmcserver.com/server/minehut"
+    ]
 }

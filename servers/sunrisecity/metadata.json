@@ -7,18 +7,14 @@
         "sunrisecity.uk"
     ],
     "primaryAddress": "play.sunrisecity.uk",
+    "primaryColor": "#FF6A00",
+    "secondaryColor": "#00B3FF",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.17.1",
-    "primaryColor": "#FF6A00",
-    "secondaryColor": "#00B3FF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "AF",
@@ -27,6 +23,10 @@
         "OC",
         "AS",
         "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Roleplay"

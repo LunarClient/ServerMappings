@@ -4,7 +4,7 @@
     "website": "http://mineclub.it",
     "description": "Compete in Survival, build a top Club, join events, dominate ClubSMP rankings!",
     "addresses": [
-      "mineclub.it"
+        "mineclub.it"
     ],
     "primaryAddress": "play.mineclub.it",
     "primaryColor": "#16CEF2",
@@ -24,13 +24,13 @@
         "it"
     ],
     "gameTypes": [
-      "Survival"
-    ],
-    "votingLinks": [
-      "https://minecraft-italia.net/lista/server/mineclub",
-      "https://www.minealpha.it/lista-server/mineclub"
+        "Survival"
     ],
     "socials": {
-      "discord": "https://discord.gg/VEdAEsNz4f"
-    }
+        "discord": "https://discord.gg/VEdAEsNz4f"
+    },
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/mineclub",
+        "https://www.minealpha.it/lista-server/mineclub"
+    ]
 }

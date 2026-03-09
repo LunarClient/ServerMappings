@@ -1,0 +1,33 @@
+{
+    "id": "tyranntmc",
+    "name": "TyranntMC Network",
+    "website": "http://site.tyranntmc.com",
+    "description": "Spawn as a baby to a random player!",
+    "addresses": [
+        "tyranntmc.com"
+    ],
+    "primaryAddress": "play.tyranntmc.com",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/m98Fj6uWeD"
+    }
+}

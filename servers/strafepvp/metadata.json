@@ -2,25 +2,25 @@
     "id": "strafepvp",
     "name": "Strafe Network",
     "description": "Home of Competitive Minecraft PvP",
-    "crossplay": false,
     "addresses": [
         "strafepvp.org"
     ],
     "primaryAddress": "strafepvp.org",
+    "primaryColor": "#e67e26",
+    "secondaryColor": "#fff000",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#e67e26",
-    "secondaryColor": "#fff000",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
@@ -29,6 +29,6 @@
     ],
     "socials": {
         "twitter": "StrafePvPorg",
-        "discord": "https://discord.gg/pSb4spEEZb"
+        "discord": "https://discord.gg/djQahk8S2U"
     }
 }

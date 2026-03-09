@@ -1,6 +1,7 @@
 {
     "id": "meetionmc",
     "name": "MeeTion Network",
+    "store": "https://tienda.meetionmc.com/",
     "description": "Is there anything better than this? - Join now!",
     "addresses": [
         "meetionmc.net",
@@ -8,6 +9,8 @@
         "meetion.live"
     ],
     "primaryAddress": "meetionmc.net",
+    "primaryColor": "#FB0808",
+    "secondaryColor": "#9c0000",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -17,28 +20,25 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#FB0808",
-    "secondaryColor": "#9c0000",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "SA",
         "EU"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Prison"
     ],
-    "store": "https://tienda.meetionmc.com/",
     "socials": {
         "discord": "https://discord.gg/meetion",
         "tiktok": "@meetion_network",
         "youtube": "@meetion_network"
-    },
-    "crossplay": true
+    }
 }

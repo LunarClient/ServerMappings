@@ -1,38 +1,40 @@
 {
     "id": "pvpcentral",
     "name": "PvPCentral Network",
+    "website": "https://pvpcentral.club",
+    "store": "https://pvpcentral-network.tebex.io/",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "pvpcentral.club"
     ],
     "primaryAddress": "pvpcentral.club",
+    "primaryColor": "#1bcde6",
+    "secondaryColor": "#38aaba",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#1bcde6",
-    "secondaryColor": "#38aaba",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "gameTypes": [
-        "PvP", "UHC", "HCF"
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
-    "website": "https://pvpcentral.club",
-    "store": "https://pvpcentral-network.tebex.io/",
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/afW3jUjbmn"
+    },
     "compliance": {
         "privacyPolicy": "https://pvpcentral.club/terms",
         "termsOfService": "https://pvpcentral.club/terms",
         "rules": "https://pvpcentral.club/rules"
-    },
-    "socials": {
-        "discord": "https://discord.gg/afW3jUjbmn"
-    },
-    "crossplay": false
+    }
 }

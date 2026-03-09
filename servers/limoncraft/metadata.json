@@ -4,7 +4,9 @@
     "website": "https://www.limoncraft.it/",
     "store": "https://store.limoncraft.it/",
     "description": "Limoncraft Italia, the network full of unique gamemodes and gameplays.",
-    "addresses": ["limoncraft.it"],
+    "addresses": [
+        "limoncraft.it"
+    ],
     "primaryAddress": "play.limoncraft.it",
     "primaryColor": "#FFFF55",
     "secondaryColor": "#FFAA00",

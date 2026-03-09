@@ -1,0 +1,33 @@
+{
+    "id": "minespot",
+    "name": "MineSpot",
+    "store": "https://shop.minespot.org/",
+    "description": "Minecraft's best and largest classic prison server",
+    "addresses": [
+        "minespot.org"
+    ],
+    "primaryAddress": "play.minespot.org",
+    "primaryColor": "#2ba45e",
+    "secondaryColor": "#28bb68",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minespot",
+        "tiktok": "@minespotjail"
+    }
+}

@@ -6,6 +6,8 @@
         "redepro.xyz"
     ],
     "primaryAddress": "jogar.redepro.xyz",
+    "primaryColor": "#140BFC",
+    "secondaryColor": "#FBFAFA",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -14,15 +16,13 @@
         "1.17.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#140BFC",
-    "secondaryColor": "#FBFAFA",
-    "primaryLanguage": "pt-BR",
-    "languages": [
-        "pt-BR"
-    ],
     "primaryRegion": "SA",
     "regions": [
         "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
     ],
     "gameTypes": [
         "PvP"

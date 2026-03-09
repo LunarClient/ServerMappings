@@ -2,30 +2,30 @@
     "id": "spacefun",
     "name": "SpaceFun",
     "website": "https://spacefun.pl",
-    "primaryAddress": "spacefun.pl",
     "addresses": [
         "spacefun.pl"
     ],
+    "primaryAddress": "spacefun.pl",
     "primaryColor": "#70b8fb",
     "secondaryColor": "#53abfd",
-    "primaryMinecraftVersion": "1.20.1",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*"
     ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
-    ],
-    "gameTypes": [
-        "Open World"
     ],
     "primaryLanguage": "pl",
     "languages": [
         "pl"
     ],
+    "gameTypes": [
+        "Open World"
+    ],
     "socials": {
         "discord": "https://discord.gg/spacefun"
-    },
-    "crossplay": false
+    }
 }

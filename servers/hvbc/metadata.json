@@ -6,20 +6,20 @@
         "hvbc.club"
     ],
     "primaryAddress": "na.hvbc.club",
+    "primaryColor": "#001FFF",
+    "secondaryColor": "#000000",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#001FFF",
-    "secondaryColor": "#000000",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"

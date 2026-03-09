@@ -15,13 +15,13 @@
     ],
     "primaryMinecraftVersion": "1.21.4",
     "crossplay": false,
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

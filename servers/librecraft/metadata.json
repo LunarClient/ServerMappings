@@ -1,14 +1,16 @@
 {
     "id": "librecraft",
     "name": "Librecraft Network",
-    "description": "Librecraft is the best place to play Minecraft in Spanish",
     "website": "https://librecraft.com/",
     "store": "https://tienda.librecraft.com/",
+    "description": "Librecraft is the best place to play Minecraft in Spanish",
     "addresses": [
         "librecraft.com",
         "librecraft.juegos"
     ],
     "primaryAddress": "mc.librecraft.com",
+    "primaryColor": "#87b60a",
+    "secondaryColor": "#0a1a2a",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -27,8 +29,6 @@
         "PvP",
         "Minigames"
     ],
-    "primaryColor": "#87b60a",
-    "secondaryColor": "#0a1a2a",
     "socials": {
         "twitter": "LibreCraftMC",
         "discord": "https://discord.com/invite/v9H6xd6",

@@ -12,7 +12,6 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
-
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [

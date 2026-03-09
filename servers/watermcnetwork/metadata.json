@@ -6,21 +6,21 @@
         "watermc.gg"
     ],
     "primaryAddress": "watermc.gg",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#05e7f7",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#dedede",
-    "secondaryColor": "#05e7f7",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "PvP",

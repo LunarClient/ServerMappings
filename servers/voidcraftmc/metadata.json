@@ -1,11 +1,15 @@
 {
     "id": "voidcraftmc",
     "name": "VoidCraftMC Network",
+    "website": "https://www.voidcraftmc.net",
+    "store": "https://store.voidcraftmc.net",
     "description": "Play on VoidCraftMC Network with lots of things to do!",
     "addresses": [
         "voidcraftmc.net"
     ],
     "primaryAddress": "play.voidcraftmc.net",
+    "primaryColor": "#b5102c",
+    "secondaryColor": "#6b0a42",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,30 +17,26 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#b5102c",
-    "secondaryColor": "#6b0a42",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",
         "Minigames",
         "PvP"
     ],
-    "website": "https://www.voidcraftmc.net",
-    "store": "https://store.voidcraftmc.net",
+    "socials": {
+        "discord": "https://discord.gg/QXkNqQ7XWt"
+    },
     "compliance": {
         "privacyPolicy": "https://store.voidcraftmc.net/Policy",
         "termsOfService": "https://store.voidcraftmc.net/Policy",
         "rules": "https://store.voidcraftmc.net/rules"
-    },
-    "socials": {
-        "discord": "https://discord.gg/QXkNqQ7XWt"
-    },
-    "crossplay": true
+    }
 }

@@ -8,6 +8,8 @@
         "vincenzot.it"
     ],
     "primaryAddress": "mc.vincenzot.it",
+    "primaryColor": "#00a6ff",
+    "secondaryColor": "#def3ff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,17 +21,15 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#00a6ff",
-    "secondaryColor": "#def3ff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA",
         "SA"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Creative",

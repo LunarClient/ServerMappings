@@ -1,11 +1,14 @@
 {
     "id": "wildwoodsmp",
     "name": "WildWood SMP",
+    "store": "https://store.wildwoodsmp.com/",
     "description": "The Best One-Stop SMP Network!",
     "addresses": [
         "wildwoodsmp.com"
     ],
     "primaryAddress": "wildwoodsmp.com",
+    "primaryColor": "#97ce46",
+    "secondaryColor": "#bdcbd4",
     "minecraftVersions": [
         "1.8.*",
         "1.12.2",
@@ -16,26 +19,22 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryAddress": "wildwoodsmp.com",
-    "primaryColor": "#97ce46",
-    "secondaryColor": "#bdcbd4",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Survival",
-		"Skyblock",
-		"PvP"
+        "Skyblock",
+        "PvP"
     ],
-    "store": "https://store.wildwoodsmp.com/",
     "socials": {
         "discord": "https://discord.com/invite/wildwoodsmp"
-    },
-    "crossplay": false
+    }
 }

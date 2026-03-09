@@ -11,10 +11,6 @@
     "primaryAddress": "pvptemple.net",
     "primaryColor": "#ffa500",
     "secondaryColor": "#ffff00",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -29,6 +25,10 @@
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

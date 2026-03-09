@@ -7,21 +7,18 @@
         "suurvaal.ee"
     ],
     "primaryAddress": "mc.suurvaal.ee",
+    "primaryColor": "#45b3d1",
+    "secondaryColor": "#2897b5",
     "minecraftVersions": [
         "1.21.4",
         "1.21.5"
     ],
     "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryRegion": "EU",
-    "votingLinks": [
-        "https://minecraft-mp.com/server-s324149"
-    ],
-    "primaryColor": "#45b3d1",
-    "secondaryColor": "#2897b5",
-    "crossplay": false,    
     "gameTypes": [
         "Survival",
         "PvE",
@@ -29,6 +26,8 @@
     ],
     "socials": {
         "discord": "https://discord.gg/7a6DtNv4tD"
-    }
-    
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s324149"
+    ]
 }

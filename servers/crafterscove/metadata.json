@@ -1,8 +1,8 @@
 {
     "id": "crafterscove",
     "name": "CraftersCove",
-    "description": "An SMP for everyone!",
     "store": "https://store.crafterscove.shop/",
+    "description": "An SMP for everyone!",
     "addresses": [
         "crafterscove.fun"
     ],

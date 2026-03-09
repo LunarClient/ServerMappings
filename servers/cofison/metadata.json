@@ -13,14 +13,14 @@
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "pt-BR"
-    ],
-    "primaryRegion": "SA",
-    "regions": [
-        "SA"
     ],
     "gameTypes": [
         "PvP"

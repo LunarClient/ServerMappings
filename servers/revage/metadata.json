@@ -1,12 +1,16 @@
 {
     "id": "revage",
     "name": "Revage",
+    "website": "https://revage.net/",
+    "store": "https://revage.net/#shop",
     "description": "A bunch of fun game modes to enjoy",
     "addresses": [
         "revage.net",
         "ruhypixel.net"
     ],
     "primaryAddress": "mc.revage.net",
+    "primaryColor": "#FFAC00",
+    "secondaryColor": "#FFCF00",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,8 +23,6 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
-    "primaryColor": "#FFAC00",
-    "secondaryColor": "#FFCF00",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -30,8 +32,6 @@
         "PvP",
         "Survival"
     ],
-    "website": "https://revage.net/",
-    "store": "https://revage.net/#shop",
     "socials": {
         "discord": "https://discord.com/invite/ayyhRugusp",
         "telegram": "revagenet"

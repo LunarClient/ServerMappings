@@ -1,35 +1,37 @@
 {
     "id": "huminehush",
     "name": "MineHush",
-    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
-    "addresses": [ "minehush.hu" ],
-    "primaryAddress": "play.minehush.hu",
-    "minecraftVersions": [
-      "1.12.*",
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*",
-      "1.20.*"
-  ],
-    "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#0ED45B",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-      "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-      "EU"
-    ],
-    "gameTypes": [
-      "PvP",
-      "Minigames"
-    ],
     "website": "https://minehush.hu",
     "store": "https://bolt.minehush.hu",
+    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
+    "addresses": [
+        "minehush.hu"
+    ],
+    "primaryAddress": "play.minehush.hu",
+    "primaryColor": "#0ED45B",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
     "socials": {
-      "discord": "https://discord.gg/f4n7msT8sn"
+        "discord": "https://discord.gg/f4n7msT8sn"
     }
 }
