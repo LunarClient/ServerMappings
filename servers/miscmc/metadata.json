@@ -1,0 +1,43 @@
+{
+    "id": "miscmc",
+    "name": "MiscMC",
+    "description": "Gen Raiding | Tycoon | Dungeons",
+    "addresses": [
+        "miscmc.net"
+    ],
+    "primaryAddress": "miscmc.net",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#b940ff",
+    "secondaryColor": "#b940ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Hardcore"
+    ],
+    "website": "https://miscmc.net",
+    "store": "https://store.miscmc.net",
+    "compliance": {
+        "privacyPolicy": "https://miscmc.net/privacy",
+        "termsOfService": "https://miscmc.net/tos",
+        "rules": "https://miscmc.net/rules",
+        "support": "https://discord.gg/miscmc"
+    },
+    "socials": {
+        "discord": "https://discord.gg/miscmc",
+        "youtube": "@MiscMC",
+        "tiktok": "@MiscC"
+    },
+    "crossplay": true
+}
