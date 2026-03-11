@@ -1,41 +1,41 @@
 {
-  "id": "coregame",  
-  "name": "CoreGame.pl",  
-  "description": "CoreGame, a server made BY gamers FOR gamers. Join today!",  
-  "addresses": [
-    "coregame.pl"
-  ],
-  "primaryAddress": "mc.coregame.pl",  
-  "minecraftVersions": [
-    "1.8.*",  
-    "1.20.6",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.20.6",  
-  "primaryColor": "#87100e",  
-  "secondaryColor": "#000000",  
-  "primaryLanguage": "pl",  
-  "languages": [
-    "pl",  
-    "en"
-  ],
-  "primaryRegion": "EU",  
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Survival",  
-    "Skyblock",
-    "Minigames"
-  ],
-  "website": "https://coregame.pl",
-  "socials": {
-    "discord": "https://discord.com/invite/rBardAJx6d",
-    "youtube": "@coregame.pl_minecraft"
-  },
-  "votingLinks": [
-    "https://serwery-minecraft.pl/serwer/7023-mc-coregame-pl",
-    "https://minecraft-lista.pl/serwer/mc.coregame.plr"
-  ],
-  "crossplay": true
+    "id": "coregame",
+    "name": "CoreGame.pl",
+    "website": "https://coregame.pl",
+    "description": "CoreGame, a server made BY gamers FOR gamers. Join today!",
+    "addresses": [
+        "coregame.pl"
+    ],
+    "primaryAddress": "mc.coregame.pl",
+    "primaryColor": "#87100e",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.6",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/rBardAJx6d",
+        "youtube": "@coregame.pl_minecraft"
+    },
+    "votingLinks": [
+        "https://serwery-minecraft.pl/serwer/7023-mc-coregame-pl",
+        "https://minecraft-lista.pl/serwer/mc.coregame.plr"
+    ]
 }

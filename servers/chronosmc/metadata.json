@@ -8,6 +8,8 @@
         "chronosmc.es"
     ],
     "primaryAddress": "chronosmc.es",
+    "primaryColor": "#DF00FF",
+    "secondaryColor": "#9100FF",
     "minecraftVersions": [
         "1.8.9",
         "1.16.5",
@@ -22,8 +24,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#DF00FF",
-    "secondaryColor": "#9100FF",
     "gameTypes": [
         "Survival",
         "Adventure",

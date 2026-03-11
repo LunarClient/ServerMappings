@@ -1,6 +1,8 @@
 {
     "id": "beeblocks",
     "name": "BeeBlocks",
+    "website": "https://beeblocks.net/",
+    "store": "https://shop.beeblocks.net/",
     "description": "German Minecraft network with city builds and events.",
     "addresses": [
         "beeblocks.net",
@@ -8,27 +10,25 @@
         "beeblocks.eu"
     ],
     "primaryAddress": "beeblocks.net",
+    "primaryColor": "#FCCA00",
+    "secondaryColor": "#7BF728",
     "minecraftVersions": [
         "1.21.4"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#FCCA00",
-    "secondaryColor": "#7BF728",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
     ],
     "gameTypes": [
         "Survival",
         "Creative"
     ],
-    "crossplay": false,
-    "languages": [
-        "de"
-    ],
-    "primaryLanguage": "de",
-    "website": "https://beeblocks.net/",
-    "store": "https://shop.beeblocks.net/",
     "socials": {
         "discord": "https://discord.com/invite/rZSCj4VVYd",
         "tiktok": "@beeblocks_net",

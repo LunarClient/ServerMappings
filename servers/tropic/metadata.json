@@ -1,0 +1,34 @@
+{
+    "id": "tropic",
+    "name": "Tropic Network",
+    "website": "https://tropic.gg/",
+    "store": "https://store.tropic.gg/",
+    "crossplay": true,
+    "addresses": [
+        "tropic.gg"
+    ],
+    "primaryAddress": "tropic.gg",
+    "primaryColor": "#72ad5f",
+    "secondaryColor": "#c5f0af",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "playtropic",
+        "discord": "https://discord.gg/playtropic",
+        "instagram": "playtropicgg",
+        "tiktok": "@playtropic"
+    }
+}

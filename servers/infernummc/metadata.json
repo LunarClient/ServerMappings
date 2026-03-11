@@ -1,0 +1,25 @@
+{
+    "id": "infernummc",
+    "name": "InfernumMC",
+    "store": "https://tienda.infernummc.net/",
+    "addresses": [
+        "infernummc.net"
+    ],
+    "primaryAddress": "infernummc.net",
+    "primaryColor": "#de1010",
+    "secondaryColor": "#b63913",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7N58kVKHNH"
+    }
+}

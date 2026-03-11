@@ -6,6 +6,8 @@
         "zenithmc.net"
     ],
     "primaryAddress": "zenithmc.net",
+    "primaryColor": "#FF84D9",
+    "secondaryColor": "#FA49D8",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -15,8 +17,6 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#FF84D9",
-    "secondaryColor": "#FA49D8",
     "primaryRegion": "NA",
     "regions": [
         "NA"
