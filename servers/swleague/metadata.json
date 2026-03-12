@@ -2,7 +2,7 @@
   "id": "swleague",
   "name": "SWLeague",
   "website": "https://swleague.net",
-  "description": "Dein Server für PvP, Training, SkyWars und Duels!",
+  "description": "Dein Server fuer PvP, Training, SkyWars und Duels!",
   "addresses": [
     "swleague.net",
     "swleague.de"
@@ -25,9 +25,7 @@
   ],
   "gameTypes": [
     "PvP",
-    "Training",
-    "SkyWars",
-    "Duels"
+    "Minigames"
   ],
   "socials": {
     "discord": "https://discord.com/invite/swleague"
