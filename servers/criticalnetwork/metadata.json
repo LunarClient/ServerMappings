@@ -1,22 +1,27 @@
 {
-  "id": "criticalnetwork",
-  "name": "Critical Network",
-  "description": "Custom SMP with adventures and unique mechanics.",
-  "primaryAddress": "criticalnetwork.top",
-  "addresses": [
-    "criticalnetwork.top"
-  ],
-  "minecraftVersions": [
-    "1.21",
-    "1.21.11"
-  ],
-  "primaryColor": "#ff0000",
-  "secondaryColor": "#570000",
-  "gameTypes": [
-    "Survival",
-    "Adventure"
-  ],
-  "socials": {
-    "discord": "https://criticalnetwork.top"
-  }
+    "id": "criticalnetwork",
+    "name": "Critical Network",
+    "description": "A custom Minecraft SMP with adventures and unique mechanics.",
+    "addresses": [
+        "criticalnetwork.top"
+    ],
+    "primaryAddress": "criticalnetwork.top",
+    "minecraftVersions": [
+        "1.21",
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#570000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "SURVIVAL"
+    ],
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.gg/yourinvite"
+    }
 }
