@@ -1,0 +1,22 @@
+{
+  "id": "criticalnetwork",
+  "name": "Critical Network",
+  "description": "Custom SMP with adventures and unique mechanics.",
+  "primaryAddress": "criticalnetwork.top",
+  "addresses": [
+    "criticalnetwork.top"
+  ],
+  "minecraftVersions": [
+    "1.21",
+    "1.21.11"
+  ],
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#570000",
+  "gameTypes": [
+    "Survival",
+    "Adventure"
+  ],
+  "socials": {
+    "discord": "https://criticalnetwork.top"
+  }
+}
