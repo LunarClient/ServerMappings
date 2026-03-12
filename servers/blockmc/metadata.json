@@ -28,9 +28,9 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP",
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/blockmc",
+        "discord": "https://discord.com/invite/blockmc"
     }
 }
