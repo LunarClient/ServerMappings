@@ -1,0 +1,10 @@
+{
+  "id": "vibemc",
+  "name": "VibeMC",
+  "description": "VibeMC Survival",
+  "addresses": [
+    "play.vibemc.ro"
+  ],
+  "primaryAddress": "play.vibemc.ro",
+  "region": "EU"
+}
