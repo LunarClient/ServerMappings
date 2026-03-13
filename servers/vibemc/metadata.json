@@ -1,0 +1,45 @@
+{
+    "id": "vibemc",
+    "name": "VibeMC",
+    "description": "Home of survival ( VibeMC )",
+    "addresses": [
+        "play.vibemc.ro"
+    ],
+    "primaryAddress": "play.vibemc.ro",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://www.vibemc.ro",
+    "store": "https://store.vibemc.ro",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "twitter": "VibeMC",
+        "telegram": "VibeMC",
+        "discord": "https://discord.vibemc.ro"
+    },
+    "crossplay": false
+}
