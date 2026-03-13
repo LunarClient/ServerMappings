@@ -3,9 +3,9 @@
     "name": "VibeMC",
     "description": "Home of survival ( VibeMC )",
     "addresses": [
-        "play.vibemc.ro"
+        "vibemc.ro"
     ],
-    "primaryAddress": "play.vibemc.ro",
+    "primaryAddress": "vibemc.ro",
     "minecraftVersions": [
         "1.7.*",
         "1.20.*"
@@ -39,7 +39,7 @@
     "socials": {
         "twitter": "VibeMC",
         "telegram": "VibeMC",
-        "discord": "https://discord.vibemc.ro"
+        "discord": "https://discord.gg/vibemc"
     },
     "crossplay": false
 }
