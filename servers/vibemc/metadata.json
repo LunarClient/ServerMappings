@@ -49,10 +49,15 @@
     "socials": {
         "discord": "https://discord.gg/vibemc",
         "youtube": "@vibemcro",
-        "tiktok": "vibemcro"
+        "tiktok": "@vibemcro"
     },
     "compliance": {
         "termsOfService": "https://web.vibemc.ro/terms/",
         "rules": "https://web.vibemc.ro/rules/",
-        "support": "https://web.vibemcmc.ro/forum"
+        "support": "https://web.vibemc.ro/forum"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s349176"
+    ],
+    "merch": "https://web.vibemc.ro/store"
 }
