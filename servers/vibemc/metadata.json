@@ -1,45 +1,60 @@
 {
     "id": "vibemc",
     "name": "VibeMC",
-    "description": "Home of survival ( VibeMC )",
+    "website": "https://web.vibemc.ro/",
+    "store": "https://store.vibemc.ro/",
+    "description": "It's a Minecraft community from Romania that wants to bring unique things.",
     "addresses": [
         "vibemc.ro"
     ],
     "primaryAddress": "vibemc.ro",
+    "primaryColor": "#FF6E00",
+    "secondaryColor": "#FF4040",
     "minecraftVersions": [
-        "1.7.*",
-        "1.20.*"
+        "1.19",
+        "1.19.2",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
     ],
     "gameTypes": [
+        "PvP",
+        "Minigames",
         "Survival"
     ],
-    "website": "https://www.vibemc.ro",
-    "store": "https://store.vibemc.ro",
-    "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
-    },
-    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-        "twitter": "VibeMC",
-        "telegram": "VibeMC",
-        "discord": "https://discord.gg/vibemc"
+        "discord": "https://discord.gg/vibemc",
+        "youtube": "@vibemcro",
+        "tiktok": "vibemcro"
     },
-    "crossplay": false
+    "compliance": {
+        "termsOfService": "https://web.vibemc.ro/terms/",
+        "rules": "https://web.vibemc.ro/rules/",
+        "support": "https://web.vibemcmc.ro/forum"
+    ],
+    "merch": "https://web.vibemc.ro/store"
 }
