@@ -3,10 +3,9 @@
   "name": "KioPvP",
   "description": "Competitive UHCF server.",
   "addresses": [
-    "kiopvp.org",
-    "play.kiopvp.org"
+    "kiopvp.org"
   ],
-  "primaryAddress": "play.kiopvp.org",
+  "primaryAddress": "kiopvp.org",
   "primaryColor": "#7a3cff",
   "secondaryColor": "#2a003f",
   "minecraftVersions": [
