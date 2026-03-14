@@ -1,0 +1,21 @@
+{
+    "id": "bestpvp",
+    "name": "BestPVP",
+    "addresses": [
+        "bestpvp.hu"
+    ],
+    "primaryAddress": "bestpvp.hu",
+    "primaryColor": "#ff75c3",
+    "secondaryColor": "#ffb8e0",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}
