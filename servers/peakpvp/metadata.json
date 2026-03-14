@@ -1,0 +1,30 @@
+{
+    "id": "peakpvp",
+    "name": "PeakPVP",
+    "website": "https://peakpvp.net/",
+    "store": "https://store.peakpvp.net",
+    "addresses": [
+        "peakpvp.net"
+    ],
+    "primaryAddress": "peakpvp.net",
+    "primaryColor": "#3B9BDF",
+    "secondaryColor": "#1A1A2E",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Practice",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/peakpvp"
+    }
+}
