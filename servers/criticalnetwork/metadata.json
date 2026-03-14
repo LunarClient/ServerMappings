@@ -6,6 +6,7 @@
         "criticalnetwork.top"
     ],
     "primaryAddress": "criticalnetwork.top",
+    "website": "https://criticalnetwork.top",
     "minecraftVersions": [
         "1.21",
         "1.21.1"
@@ -25,6 +26,5 @@
         "discord": "https://discord.com/invite/ugTuDYzfew",
         "twitch": "ilycryptic",
         "youtube": "@ilycryptic",
-        "website": "https://criticalnetwork.top"
     }
 }
