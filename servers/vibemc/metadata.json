@@ -1,64 +1,36 @@
 {
     "id": "vibemc",
     "name": "VibeMC",
-    "website": "https://web.vibemc.ro/",
+    "website": "https://www.vibemc.ro/",
     "store": "https://store.vibemc.ro/",
-    "description": "It's a Minecraft community from Romania that wants to bring unique things.",
     "addresses": [
         "vibemc.ro"
     ],
     "primaryAddress": "vibemc.ro",
-    "primaryColor": "#FF6E00",
-    "secondaryColor": "#FF4040",
+    "primaryColor": "#74d4d8",
+    "secondaryColor": "#de82fa",
     "minecraftVersions": [
-        "1.19",
-        "1.19.2",
-        "1.19.4",
-        "1.20",
-        "1.20.1",
-        "1.20.2",
-        "1.20.3",
-        "1.20.4",
-        "1.20.5",
-        "1.20.6",
-        "1.21",
-        "1.21.1",
-        "1.21.2",
-        "1.21.3",
-        "1.21.4",
-        "1.21.5",
-        "1.21.6",
-        "1.21.7",
-        "1.21.8"
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "de"
+        "en"
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames",
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/vibemc",
-        "youtube": "@vibemcro",
-        "tiktok": "@vibemcro"
-    },
-    "compliance": {
-        "termsOfService": "https://web.vibemc.ro/terms/",
-        "rules": "https://web.vibemc.ro/rules/",
-        "support": "https://web.vibemc.ro/forum"
-    },
-    "votingLinks": [
-        "https://minecraft-mp.com/server-s349176"
-    ],
-    "merch": "https://web.vibemc.ro/store"
-  }
+        "discord": "https://discord.com/invite/vibemc",
+        "youtube": "@vibemcro"
+    }
 }
