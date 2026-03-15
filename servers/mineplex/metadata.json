@@ -3,18 +3,25 @@
     "name": "Mineplex",
     "website": "http://mineplex.com/",
     "store": "https://mineplex.com/store",
+    "description": "A Java & Bedrock Server known for minigames and community",
     "addresses": [
-        "mineplex.com"
+        "mineplex.com",
+        "critz.gg"
     ],
     "primaryAddress": "mineplex.com",
     "primaryColor": "#f38910",
-    "secondaryColor": "#df3a1a",
+    "secondaryColor": "#38b1dc",
     "minecraftVersions": [
-        "1.21.3",
-        "1.21.4",
-        "1.21.5"
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.3",
+    "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
     "gameTypes": [
         "Minigames",
@@ -24,8 +31,7 @@
         "twitter": "mineplex",
         "discord": "https://discord.com/invite/mineplex",
         "youtube": "MineplexGamesOfficial",
-        "instagram": "official.mineplex",
-        "twitch": "mineplex",
-        "facebook": "MineplexGames"
+        "instagram": "mineplexofficial",
+        "tiktok": "@playmineplex"
     }
 }
