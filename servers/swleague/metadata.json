@@ -1,0 +1,33 @@
+{
+  "id": "swleague",
+  "name": "SWLeague",
+  "website": "https://swleague.net",
+  "description": "Your Server for PvP, Training, SkyWars and Duels!",
+  "addresses": [
+    "swleague.net",
+    "swleague.de"
+  ],
+  "primaryAddress": "swleague.net",
+  "primaryColor": "#40E0D0",
+  "secondaryColor": "#ffffff",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "crossplay": false,
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "de",
+  "languages": [
+    "de"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "socials": {
+    "discord": "https://discord.com/invite/swleague"
+  }
+}
