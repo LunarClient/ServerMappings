@@ -1,0 +1,28 @@
+{
+    "id": "lamamc",
+    "name": "LamaMCNetwork",
+    "store": "https://shop.lamamc.net",
+    "addresses": [
+        "lamamc.net"
+    ],
+    "primaryAddress": "lamamc.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [],
+    "primaryMinecraftVersion": "",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "SURVIVAL"
+    ],
+    "socials": {
+        "youtube": "https://youtube.com/@LamaMCNetwork",
+        "discord": "https://discord.gg/ygsTjgSASY"
+    }
+}
