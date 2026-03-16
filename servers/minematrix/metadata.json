@@ -1,11 +1,15 @@
 {
     "id": "minematrix",
     "name": "MineMatrix",
+    "website": "https://minematrix.lol",
+    "store": "https://store.minematrix.lol",
     "description": "Adventure & MiniGames Server - Cracked accounts allowed, 20+ game modes",
     "addresses": [
         "minematrix.lol"
     ],
     "primaryAddress": "minematrix.lol",
+    "primaryColor": "#AA00AA",
+    "secondaryColor": "#FF55FF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,12 +21,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#AA00AA",
-    "secondaryColor": "#FF55FF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -31,20 +30,21 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Skyblock",
         "Minigames",
         "Survival"
     ],
-    "website": "https://minematrix.lol",
-    "store": "https://store.minematrix.lol",
+    "socials": {
+        "discord": "https://discord.com/invite/4UA2s9bS4T"
+    },
     "compliance": {
         "privacyPolicy": "https://minematrix.lol/privacy",
         "termsOfService": "https://minematrix.lol/terms",
         "rules": "https://minematrix.lol/rules"
-    },
-    "socials": {
-        "discord": "https://discord.com/invite/4UA2s9bS4T"
-    },
-    "crossplay": false
+    }
 }
