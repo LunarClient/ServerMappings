@@ -2,7 +2,8 @@
     "id": "tenki",
     "name": "Tenki",
     "addresses": [
-        "tenki.fr"
+        "tenki.fr",
+        "mc.tenki.fr"
     ],
     "primaryAddress": "mc.tenki.fr",
     "primaryColor": "#FF55FF",
