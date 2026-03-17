@@ -5,7 +5,7 @@
         "tenki.fr",
         "mc.tenki.fr"
     ],
-    "primaryAddress": "mc.tenki.fr",
+    "primaryAddress": "tenki.fr",
     "primaryColor": "#FF55FF",
     "secondaryColor": "#AA00AA",
     "minecraftVersions": [
