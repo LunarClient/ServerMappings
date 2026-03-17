@@ -2,10 +2,9 @@
     "id": "tenki",
     "name": "Tenki",
     "addresses": [
-        "tenki.fr",
-        "mc.tenki.fr"
+        "tenki.fr"
     ],
-    "primaryAddress": "tenki.fr",
+    "primaryAddress": "mc.tenki.fr",
     "primaryColor": "#FF55FF",
     "secondaryColor": "#AA00AA",
     "minecraftVersions": [
