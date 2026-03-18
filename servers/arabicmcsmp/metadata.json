@@ -1,39 +1,39 @@
 {
-ㅤㅤ"id": "arabicmcsmp",
-ㅤㅤ"name": "ArabicMC",
-ㅤㅤ"website": "https://store.arabicmc.org",
-ㅤㅤ"store": "https://store.arabicmc.org",
-ㅤㅤ"description": "A minecraft minigames & smp server!",
-ㅤㅤ"addresses": [
-ㅤㅤㅤㅤ"arabicmc.org"
-ㅤㅤ],
-ㅤㅤ"primaryAddress": "arabicmc.org",
-ㅤㅤ"minecraftVersions": [
-ㅤㅤㅤㅤ"1.20.*",
-ㅤㅤㅤㅤ"1.21.*"
-ㅤㅤ],
-ㅤㅤ"primaryMinecraftVersion": "1.21.11",
-ㅤㅤ"primaryColor": "#fb542b",
-ㅤㅤ"secondaryColor": "#ffd6cc",
-ㅤㅤ"primaryLanguage": "ar",
-ㅤㅤ"languages": [
-ㅤㅤㅤㅤ"en",
-ㅤㅤㅤㅤ"ar"
-ㅤㅤ],
-ㅤㅤ"primaryRegion": "EU",
-ㅤㅤ"regions": [
-ㅤㅤㅤㅤ"EU"
-ㅤㅤ],
-ㅤㅤ"gameTypes": [
-ㅤㅤㅤㅤ"SMP"
-ㅤㅤ],
-ㅤㅤ"compliance": {
-ㅤㅤㅤㅤ"privacyPolicy": "https://store.arabicmc.org/privacy",
-ㅤㅤㅤㅤ"termsOfService": "https://store.arabicmc.org/terms",
-ㅤㅤㅤㅤ"rules": "https://discord.gg/XETUSrjncx"
-ㅤㅤ},
-ㅤㅤ"socials": {
-ㅤㅤㅤㅤ"discord": "https://discord.gg/arabicmc"
-ㅤㅤ},
-ㅤㅤ"crossplay": true
+    "id": "arabicmcsmp",
+    "name": "ArabicMC",
+    "website": "https://store.arabicmc.org",
+    "store": "https://store.arabicmc.org",
+    "description": "A minecraft minigames & smp server!",
+    "addresses": [
+        "arabicmc.org"
+    ],
+    "primaryAddress": "arabicmc.org",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#fb542b",
+    "secondaryColor": "#ffd6cc",
+    "primaryLanguage": "ar",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://store.arabicmc.org/privacy",
+        "termsOfService": "https://store.arabicmc.org/terms",
+        "rules": "https://discord.gg/XETUSrjncx"
+    },
+    "socials": {
+        "discord": "https://discord.gg/arabicmc"
+    },
+    "crossplay": true
 }
