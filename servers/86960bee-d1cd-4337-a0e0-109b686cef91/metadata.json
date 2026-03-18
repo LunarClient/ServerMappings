@@ -1,48 +1,26 @@
 {
   "id": "elyoyonetwork",
   "name": "ElYoyo Network",
+  "website": "https://elyoyo.com",
+  "store": "https://elyoyo.tebex.io/",
   "description": "PvP-focused server bringing back nostalgic gameplay from past years",
-  "addresses": [
-    "elyoyo.com",
-    "mc.elyoyo.com"
-  ],
-  "primaryAddress": "mc.elyoyo.com",
+  "addresses": ["elyoyo.com"],
+  "primaryAddress": "elyoyo.com",
   "primaryColor": "#FFFFFF",
   "secondaryColor": "#FFD700",
-  "minecraftVersions": [
-    "1.8.9*",
-    "1.21.11*"
-  ],
+  "minecraftVersions": ["1.8.9","1.21.11"],
   "primaryMinecraftVersion": "1.8.9",
   "crossplay": false,
   "primaryRegion": "NA",
-  "regions": [
-    "NA",
-    "SA"
-  ],
+  "regions": ["NA","SA"],
   "primaryLanguage": "en",
-  "languages": [
-    "en",
-    "es-EN"
-  ],
-  "gameTypes": [
-    "Skywars",
-    "KitPvP",
-    "Survival",
-    "Practice",
-    "FullPvP"
-  ],
+  "languages": ["en","es-EN"],
+  "gameTypes": ["PvP","Survival","Minigames"],
   "socials": {
     "discord": "https://discord.gg/H8racy6xEA",
     "twitter": "ElYoyoOfficial",
     "youtube": "@ElYoyoOfficial",
     "instagram": "ElYoyoOfficial"
   },
-  "website": "https://elyoyo.com",
-  "store": "https://elyoyo.tebex.io/",
-  "rules": "https://discord.gg/H8racy6xEA",
-  "support": "https://discord.gg/H8racy6xEA",
-  "votingLinks": [
-    "https://minecraftservers.org/server/684695"
-  ]
+  "votingLinks": ["https://minecraftservers.org/server/684695"]
 }
