@@ -2,10 +2,10 @@
     "id": "fastermc",
     "name": "FasterMC",
     "store": "https://store.fastermc.net/",
-    "primaryAddress": "fastermc.net",
     "addresses": [
         "fastermc.net"
     ],
+    "primaryAddress": "fastermc.net",
     "primaryColor": "#00AAAA",
     "secondaryColor": "#55FFFF",
     "minecraftVersions": [

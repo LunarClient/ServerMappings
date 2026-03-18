@@ -1,8 +1,8 @@
 {
     "id": "blazonmc",
     "name": "BlazonMC Network",
-    "store": "https://store.blazonmc.com",
     "website": "https://web.blazonmc.com",
+    "store": "https://store.blazonmc.com",
     "description": "Minecraft Survival & Others",
     "addresses": [
         "blazonmc.com"

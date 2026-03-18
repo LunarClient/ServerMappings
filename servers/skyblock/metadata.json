@@ -1,6 +1,8 @@
 {
     "id": "skyblock",
     "name": "Skyblock",
+    "website": "https://skyblock.net/",
+    "store": "https://shop.skyblock.net/",
     "description": "The home of Skyblock!",
     "addresses": [
         "skyblock.net",
@@ -8,10 +10,6 @@
         "skyblock.com"
     ],
     "primaryAddress": "skyblock.net",
-    "gameTypes": [
-        "Skyblock",
-        "Survival"
-    ],
     "primaryColor": "#62b542",
     "secondaryColor": "#ffdb00",
     "minecraftVersions": [
@@ -25,9 +23,11 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "website": "https://skyblock.net/",
-    "store": "https://shop.skyblock.net/",
-    "merch": "https://merch.skyblock.net/",
+    "crossplay": true,
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
     "socials": {
         "twitter": "Skyblock",
         "discord": "https://discord.com/invite/sb",
@@ -35,17 +35,17 @@
         "tiktok": "@skyblock",
         "reddit": "Skyblock"
     },
-    "votingLinks": [
-        "https://findmcserver.com/server/skyblock",
-        "https://minecraft-mp.com/server-s188960",
-        "https://minecraft-server-list.com/server/260405/",
-        "https://minecraftservers.org/server/19809"
-    ],
     "compliance": {
         "termsOfService": "https://skyblock.net/help/terms",
         "privacyPolicy": "https://skyblock.net/privacy/",
         "rules": "https://skyblock.net/threads/skyblock-server-rules.137983/",
         "support": "https://skyblock.net/help/"
     },
-    "crossplay": true
+    "votingLinks": [
+        "https://findmcserver.com/server/skyblock",
+        "https://minecraft-mp.com/server-s188960",
+        "https://minecraft-server-list.com/server/260405/",
+        "https://minecraftservers.org/server/19809"
+    ],
+    "merch": "https://merch.skyblock.net/"
 }

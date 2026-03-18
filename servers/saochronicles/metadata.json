@@ -4,7 +4,6 @@
     "website": "https://saochronicles.fr/",
     "store": "https://saochronicles.fr/store",
     "description": "SAO Chronicles is a Minecraft MMORPG inspired by Sword Art Online.",
-    "crossplay": true,
     "addresses": [
         "saochronicles.fr",
         "saochronicles.net"
@@ -16,6 +15,7 @@
         "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"

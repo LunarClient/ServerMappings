@@ -12,7 +12,7 @@
     "secondaryColor": "#C9991A",
     "minecraftVersions": [
         "1.20.*",
-		"1.21.*"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "NA",
@@ -28,15 +28,14 @@
         "Skyblock",
         "Survival"
     ],
-    "compliance": {
-        "rules": "https://www.mememc.club/rules"
-        
- },
     "socials": {
         "discord": "https://discord.com/invite/V3SAX9udFF",
         "instagram": "MemeMCClub",
         "tiktok": "@MemeMCClub",
         "youtube": "@MemeMCClub",
         "twitter": "MemeMCClub"
+    },
+    "compliance": {
+        "rules": "https://www.mememc.club/rules"
     }
 }

@@ -1,46 +1,44 @@
 {
-  "id": "snipernetwork",
-  "name": "Sniper Network",
-  "description": "Play the best lifesteal and pvp server",
-  "addresses": [
-    "snipernetwork.fun",
-    "snipernetwork.top"
-  ],
-  "primaryAddress": "play.snipernetwork.top",
-  "gameTypes": [
-    "PvP",
-    "Minigames",
-    "Survival"
-  ],
-  "primaryColor": "#07FF00",
-  "secondaryColor": "#FF7500",
-  "minecraftVersions": [
-    "1.8.9",
-    "1.12.2",
-    "1.16.5",
-    "1.17.1",
-    "1.18.1",
-    "1.18.2",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.3",
-  "languages": [
-    "en"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "AS"
-  ],
-  "primaryRegion": "AS",
-  "website": "https://www.snipernetwork.top",
-  "store": "https://store.snipernetwork.top",
-  "socials": {
-    "discord": "https://discord.gg/snipernetwork",
-    "youtube": "@snipernetwork"
-  },
-  "crossplay": true
+    "id": "snipernetwork",
+    "name": "Sniper Network",
+    "website": "https://www.snipernetwork.top",
+    "store": "https://store.snipernetwork.top",
+    "description": "Play the best lifesteal and pvp server",
+    "addresses": [
+        "snipernetwork.fun",
+        "snipernetwork.top"
+    ],
+    "primaryAddress": "play.snipernetwork.top",
+    "primaryColor": "#07FF00",
+    "secondaryColor": "#FF7500",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.1",
+        "1.18.2",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/snipernetwork",
+        "youtube": "@snipernetwork"
+    }
 }
-
-

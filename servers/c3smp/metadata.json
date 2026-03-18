@@ -1,6 +1,7 @@
 {
     "id": "c3smp",
     "name": "C3SMP",
+    "store": "https://store.c3smp.net",
     "description": "A sharded Minecraft SMP server and PVP that allows Bedrock",
     "addresses": [
         "c3smp.net"
@@ -12,6 +13,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.7",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -25,8 +27,6 @@
         "Survival",
         "PvP"
     ],
-    "store": "https://store.c3smp.net",
-    "crossplay": true,
     "socials": {
         "discord": "https://discord.gg/c3gaming",
         "youtube": "@colin3dge",

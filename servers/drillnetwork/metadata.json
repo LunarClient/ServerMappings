@@ -1,41 +1,41 @@
 {
-  "id": "drillnetwork",
-  "name": "Drill Network",
-  "description": "Best Swedish Economy Server",
-  "addresses": [
-    "drillnetwork.net"
-  ],
-  "primaryAddress": "mc.drillnetwork.net",
-  "gameTypes": [
-    "Survival"
-  ],
-  "primaryColor": "#00FF46",
-  "secondaryColor": "#00FF46",
-  "minecraftVersions": [
-    "1.7.10",
-    "1.8.9",
-    "1.12.2",
-    "1.16.5",
-    "1.17.1",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.8",
-  "languages": [
-    "en",
-    "pl",
-    "sv-SE"
-  ],
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "website": "https://drillnetwork.net/",
-  "store": "https://shop.drillnetwork.net/",
-  "socials": {
-    "discord": "https://discord.gg/NUeURBxN",
-    "tiktok": "@drillnetwork"
-  }
+    "id": "drillnetwork",
+    "name": "Drill Network",
+    "website": "https://drillnetwork.net/",
+    "store": "https://shop.drillnetwork.net/",
+    "description": "Best Swedish Economy Server",
+    "addresses": [
+        "drillnetwork.net"
+    ],
+    "primaryAddress": "mc.drillnetwork.net",
+    "primaryColor": "#00FF46",
+    "secondaryColor": "#00FF46",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "languages": [
+        "en",
+        "pl",
+        "sv-SE"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/NUeURBxN",
+        "tiktok": "@drillnetwork"
+    }
 }

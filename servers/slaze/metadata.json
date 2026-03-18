@@ -1,9 +1,9 @@
 {
     "id": "slaze",
     "name": "Slaze",
-    "description": "Slaze is a brazilian server formed by passionate players!",
     "website": "https://slaze.net/",
     "store": "https://loja.slaze.net",
+    "description": "Slaze is a brazilian server formed by passionate players!",
     "addresses": [
         "slaze.net"
     ],
@@ -21,6 +21,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -36,6 +37,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/G5AuPpnC2E"
-    },
-    "crossplay": false
+    }
 }

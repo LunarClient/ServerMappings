@@ -6,12 +6,17 @@
         "miraimc.org"
     ],
     "primaryAddress": "miraimc.org",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#00bfff",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryColor": "#00ffff",
-    "secondaryColor": "#00bfff",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
@@ -19,16 +24,11 @@
         "ja",
         "zh-CN"
     ],
-    "primaryRegion": "AS",
-    "regions": [
-        "AS"
-    ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/N2vKqVqcVJ"
-    },
-    "crossplay": false
+    }
 }

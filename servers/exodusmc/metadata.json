@@ -1,0 +1,46 @@
+{
+    "id": "exodusmc",
+    "name": "ExodusMC",
+    "website": "https://www.exodusmc.org",
+    "store": "https://store.exodusmc.org",
+    "description": "Where your next adventure begins...",
+    "addresses": [
+        "exodusmc.org"
+    ],
+    "primaryAddress": "play.exodusmc.org",
+    "primaryColor": "#52ADFE",
+    "secondaryColor": "#8CC8FF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "exodusmcorg",
+        "discord": "https://discord.gg/exodusmc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://discord.gg/exodusmc",
+        "termsOfService": "https://discord.gg/exodusmc",
+        "rules": "https://discord.gg/exodusmc"
+    }
+}

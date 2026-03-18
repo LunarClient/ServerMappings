@@ -1,8 +1,8 @@
 {
     "id": "bonkmc",
     "name": "BonkMC",
-    "store": "https://store.bonkmc.net/",
     "website": "https://bonkmc.net/",
+    "store": "https://store.bonkmc.net/",
     "description": "Join the Best Public SMP Server!",
     "addresses": [
         "bonkmc.net"

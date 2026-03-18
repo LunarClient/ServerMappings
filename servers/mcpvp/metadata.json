@@ -1,8 +1,8 @@
 {
     "id": "mcpvp",
     "name": "PvP Club",
-    "description": "Modern practice server",
     "store": "https://store.mcpvp.club",
+    "description": "Modern practice server",
     "addresses": [
         "mcpvp.club"
     ],
