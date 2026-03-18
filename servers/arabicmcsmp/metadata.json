@@ -1,5 +1,4 @@
 {
-
 ㅤㅤ"id": "arabicmcsmp",
 ㅤㅤ"name": "ArabicMC",
 ㅤㅤ"website": "https://store.arabicmc.org",
@@ -15,11 +14,11 @@
 ㅤㅤ],
 ㅤㅤ"primaryMinecraftVersion": "1.21.11",
 ㅤㅤ"primaryColor": "#fb542b",
-ㅤㅤ"secondaryColor": "##ffd6cc",
+ㅤㅤ"secondaryColor": "#ffd6cc",
 ㅤㅤ"primaryLanguage": "ar",
 ㅤㅤ"languages": [
 ㅤㅤㅤㅤ"en",
-       "ar"
+ㅤㅤㅤㅤ"ar"
 ㅤㅤ],
 ㅤㅤ"primaryRegion": "EU",
 ㅤㅤ"regions": [
