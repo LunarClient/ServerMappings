@@ -1,0 +1,36 @@
+{
+    "id": "gapplemc",
+    "name": "GappleMC Network",
+    "website": "https://www.gapplemc.com",
+    "store": "https://store.gapplemc.net",
+    "description": "GappleMC is THE Hispanic server you're looking for.",
+    "addresses": [
+        "gapplemc.com"
+    ],
+    "primaryAddress": "gapplemc.com",
+    "primaryColor": "#F5CC27",
+    "secondaryColor": "#FFE29E",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gFVApkTfMb"
+    }
+}

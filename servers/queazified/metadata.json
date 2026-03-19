@@ -2,7 +2,6 @@
     "id": "queazified",
     "name": "Queazified Network",
     "website": "https://www.queazified.co.uk",
-    "crossplay": true,
     "addresses": [
         "queazified.co.uk"
     ],
@@ -14,6 +13,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -21,5 +21,4 @@
     "gameTypes": [
         "Survival"
     ]
-
 }

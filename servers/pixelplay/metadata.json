@@ -12,6 +12,7 @@
         "1.21.1"
     ],
     "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA",
@@ -22,9 +23,5 @@
         "Survival",
         "Skyblock",
         "Factions"
-    ],
-    "crossplay": true
+    ]
 }
-
-
-

@@ -1,0 +1,26 @@
+{
+    "id": "hyvers",
+    "name": "Hyvers",
+    "website": "https://hyvers.fr/",
+    "store": "https://boutique.hyvers.fr/",
+    "addresses": [
+        "hyvers.fr"
+    ],
+    "primaryAddress": "play.hyvers.fr",
+    "primaryColor": "#e5d4b8",
+    "secondaryColor": "#bd9157",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hyvers/"
+    }
+}
