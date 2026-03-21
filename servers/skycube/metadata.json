@@ -2,6 +2,7 @@
     "id": "skycube",
     "name": "Skycube Network",
     "description": "The Sky Network"
+    "store": "store.skycube.gg"
     "addresses": [
         "skycube.gg",
         "skycube.fun"
