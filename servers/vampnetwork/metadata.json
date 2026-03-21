@@ -19,7 +19,6 @@
     "primaryMinecraftVersion": "1.21.1",
     "crossplay": true,
     "gameTypes": [
-        "PVP",
         "Minigames",
         "Survival"
     ],
