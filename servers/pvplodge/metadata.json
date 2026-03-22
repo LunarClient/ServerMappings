@@ -5,10 +5,7 @@
 	"store": "https://store.pvplodge.com",
     "description": "Where skill is proven, ranks are earned, and every fight matters.",
     "addresses": [
-        "pvplodge.com",
-        "eu.pvplodge.com",
-		"hub.pvplodge.com",
-		"legacy.pvplodge.com"
+        "pvplodge.com"
     ],
     "primaryAddress": "pvplodge.com",
     "primaryColor": "#0004ff",
