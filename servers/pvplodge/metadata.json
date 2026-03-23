@@ -8,8 +8,8 @@
         "pvplodge.com"
     ],
     "primaryAddress": "pvplodge.com",
-    "primaryColor": "#0004ff",
-    "secondaryColor": "#6c6eff",
+    "primaryColor": "#ffa100",
+    "secondaryColor": "#ffd200",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
