@@ -22,8 +22,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Factions",
-        "Farming"
+        "Factions"
     ],
     "website": "https://www.zenithmc.it",
     "store": "https://store.zenithmc.it",
