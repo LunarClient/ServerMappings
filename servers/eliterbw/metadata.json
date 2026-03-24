@@ -1,0 +1,28 @@
+{
+    "id": "eliterbw",
+    "name": "Elite Ranked Bedwars",
+    "website": "https://eliterbw.ir/",
+    "store": "http://store.eliterbw.ir/",
+    "addresses": [
+        "eliterbw.ir"
+    ],
+    "primaryAddress": "play.eliterbw.ir",
+    "primaryColor": "#1fbede",
+    "secondaryColor": "#fafdff",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/5HVv59Xg95"
+    }
+}

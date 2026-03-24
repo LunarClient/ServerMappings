@@ -1,0 +1,43 @@
+{
+    "id": "minecuador",
+    "name": "MinEcuador NetWork",
+    "store": "https://store.minecuador.lat/",
+    "addresses": [
+        "minecuador.lat"
+    ],
+    "primaryAddress": "play.minecuador.lat",
+    "primaryColor": "#17e95e",
+    "secondaryColor": "#00c1ea",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/nNsknsg4Td",
+        "instagram": "minecuador_oficial",
+        "tiktok": "@minecuador_oficial",
+        "twitch": "minecuador_oficial"
+    }
+}

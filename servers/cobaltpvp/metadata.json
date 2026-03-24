@@ -7,15 +7,12 @@
         "cobaltpvp.com"
     ],
     "primaryAddress": "cobaltpvp.com",
-    "primaryColor": "#FFA500",
-    "secondaryColor": "#FFBF00",
+    "primaryColor": "#ed53f5",
+    "secondaryColor": "#7e0085",
     "minecraftVersions": [
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.20.6",
+    "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
@@ -30,6 +27,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/ShJAgdBD6q"
+        "discord": "https://discord.gg/cMdbHEJz5U"
     }
 }

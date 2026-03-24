@@ -1,0 +1,35 @@
+{
+    "id": "vant",
+    "name": "Vant Network",
+    "store": "https://store.vant.rip/",
+    "addresses": [
+        "vant.rip"
+    ],
+    "primaryAddress": "vant.rip",
+    "primaryColor": "#02367b",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/UUTNEr6Neb"
+    }
+}

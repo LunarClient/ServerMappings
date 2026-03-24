@@ -12,6 +12,7 @@
         "1.21.5"
     ],
     "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -21,9 +22,12 @@
         "it"
     ],
     "gameTypes": [
-        "Skyblock"
+        "Skyblock",
+        "Survival",
+        "PvP"
     ],
     "socials": {
+        "youtube": "thoramc",
         "discord": "https://discord.gg/6S8m9dHufs"
     }
 }

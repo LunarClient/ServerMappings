@@ -1,0 +1,34 @@
+{
+    "id": "flamenetwork",
+    "name": "Flame Network",
+    "website": "https://flamenetwork.ir/",
+    "addresses": [
+        "flamenetwork.ir"
+    ],
+    "primaryAddress": "mc.flamenetwork.ir",
+    "primaryColor": "#fb9409",
+    "secondaryColor": "#463f3a",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/fRk56VzCRM",
+        "telegram": "flamenetwork_0"
+    }
+}

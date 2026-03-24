@@ -1,0 +1,36 @@
+{
+    "id": "hyvel",
+    "name": "Hyvel",
+    "website": "https://hyvel.net/",
+	"store": "https://hyvel.net/store",
+    "description": "The future begins now!",
+    "addresses": [
+        "hyvel.net"
+    ],
+    "primaryAddress": "hyvel.net",
+    "primaryColor": "#02e8b5",
+    "secondaryColor": "#f0c300",
+    "minecraftVersions": [
+        "1.20.*",
+		"1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+		"EU"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/YtuGjjbZVy"
+    }
+}

@@ -1,18 +1,19 @@
 {
     "id": "alicemagic",
     "name": "Alice Magic",
-    "website": "https://alice-magic.com",
+    "website": "https://alice-magic.furimoe.com",
     "description": "This server is a SMP server open to everyone to play together",
     "addresses": [
-        "alice-magic.com"
+        "furi.moe",
+        "furimoe.com"
     ],
-    "primaryAddress": "play.alice-magic.com",
+    "primaryAddress": "play.furi.moe",
     "primaryColor": "#9933FF",
     "secondaryColor": "#b266FF",
     "minecraftVersions": [
-        "1.20.*"
+        "1.21.8"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.8",
     "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
@@ -26,6 +27,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/alice-magic"
+        "discord": "https://discord.gg/EDeCyJ4pxp"
     }
 }
