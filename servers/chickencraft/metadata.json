@@ -29,8 +29,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "CrystalPvP",
-        "Lifesteal"
+        "Survival"
     ],
     "crossplay": true,
     "presentationVideo": "SYRnzqlvv4g",
@@ -41,7 +40,7 @@
     "socials": {
         "discord": "https://discord.com/invite/crystalpvp",
         "youtube": "MC-LifestealMP",
-        "tiktok": "chickencraftsmp_"
+        "tiktok": "@chickencraftsmp_"
     },
     "compliance": {
         "termsOfService": "https://shop.chickencraft.nl/tos"
