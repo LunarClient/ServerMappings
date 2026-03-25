@@ -3,9 +3,9 @@
     "name": "elissyl",
     "store": "http://store.elissyl.eu/",
     "addresses": [
-        "play.elissy.eu"
+        "play.elissyl.eu"
     ],
-    "primaryAddress": "2b2t.org",
+    "primaryAddress": "http://store.elissyl.eu/",
     "primaryColor": "#408c1f",
     "secondaryColor": "#3fe022",
     "minecraftVersions": [
