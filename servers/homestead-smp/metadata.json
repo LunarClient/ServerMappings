@@ -19,7 +19,8 @@
     "gameTypes": [
         "Open World",
         "Survival",
-        "Lifesteal"
+        "Factions",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/wvnbHENS2j"
