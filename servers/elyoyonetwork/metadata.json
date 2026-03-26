@@ -1,0 +1,33 @@
+{
+    "id": "elyoyonetwork",
+    "name": "ElYoyo Network",
+    "website": "https://elyoyo.com/",
+    "store": "https://elyoyo.tebex.io/",
+    "addresses": [
+        "elyoyo.com"
+    ],
+    "primaryAddress": "elyoyo.com",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#FFD700",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/H8racy6xEA",
+        "twitter": "ElYoyoOfficial",
+        "youtube": "@ElYoyoOfficial",
+        "instagram": "ElYoyoOfficial"
+    }
+}
