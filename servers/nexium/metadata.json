@@ -1,30 +1,30 @@
 {
-  "id": "nexium",
-  "name": "Nexium",
-  "website": "https://www.nexium.it",
-  "store": "https://store.nexium.it",
-  "description": "Join now on nexium.it",
-  "addresses": [
-    "nexium.it"
-  ],
-  "primaryAddress": "nexium.it",
-  "minecraftVersions": [
-    "1.21.1",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.1",
-  "primaryColor": "#5454FC",
-  "secondaryColor": "#3232C9",
-  "primaryLanguage": "it",
-  "languages": [
-    "it"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Survival"
-  ],
-  "crossplay": false
+    "id": "nexium",
+    "name": "Nexium",
+    "website": "https://www.nexium.it",
+    "store": "https://store.nexium.it",
+    "description": "Join now on nexium.it",
+    "addresses": [
+        "nexium.it"
+    ],
+    "primaryAddress": "nexium.it",
+    "primaryColor": "#5454FC",
+    "secondaryColor": "#3232C9",
+    "minecraftVersions": [
+        "1.21.1",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
 }

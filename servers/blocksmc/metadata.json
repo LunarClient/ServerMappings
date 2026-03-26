@@ -7,12 +7,6 @@
     "addresses": [
         "blocksmc.com"
     ],
-    "votingLinks": [
-        "https://minecraft-server-list.com/server/378830/vote/",
-        "https://minecraft-mp.com/server/142180/vote/",
-        "https://servers-minecraft.net/server-blocksmc.24125#",
-        "https://topminecraftservers.org/vote/13548"
-    ],
     "primaryAddress": "premium.blocksmc.com",
     "primaryColor": "#001414",
     "secondaryColor": "#008cd3",
@@ -52,5 +46,11 @@
             "upperColor": "#0082ff",
             "lowerColor": "#fafafa"
         }
-    }
+    },
+    "votingLinks": [
+        "https://minecraft-server-list.com/server/378830/vote/",
+        "https://minecraft-mp.com/server/142180/vote/",
+        "https://servers-minecraft.net/server-blocksmc.24125#",
+        "https://topminecraftservers.org/vote/13548"
+    ]
 }

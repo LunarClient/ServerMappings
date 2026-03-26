@@ -1,0 +1,29 @@
+{
+    "id": "patatsmp",
+    "name": "PatatSMP",
+    "website": "https://harmserver.nl/",
+    "store": "https://store.patatsmp.nl/",
+    "addresses": [
+        "patatsmp.nl"
+    ],
+    "primaryAddress": "play.patatsmp.nl",
+    "primaryColor": "#f59d05",
+    "secondaryColor": "#f5f505",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/patat",
+        "tiktok": "@patatsmp"
+    }
+}
