@@ -1,12 +1,12 @@
 {
-    "id": "tenki",
-    "name": "Tenki",
+    "id": "sundark",
+    "name": "Sundark UHC",
     "addresses": [
-        "tenki.fr"
+        "sundark.fr"
     ],
-    "primaryAddress": "mc.tenki.fr",
-    "primaryColor": "#FF55FF",
-    "secondaryColor": "#AA00AA",
+    "primaryAddress": "mc.sundark.fr",
+    "primaryColor": "#fc8403",
+    "secondaryColor": "#121212",
     "minecraftVersions": [
         "1.8.*"
     ],
@@ -20,6 +20,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/25wvBSjhwa"
+        "discord": "https://discord.gg/NztKPThd9J"
     }
 }
