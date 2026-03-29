@@ -10,23 +10,22 @@
     "primaryColor": "#345EEB",
     "secondaryColor": "#363791",
     "minecraftVersions": [
-        "1.8.8"
+        "1.8.*"
     ],
-    "primaryMinecraftVersion": "1.8.8",
+    "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
-    "primaryRegion": "BR",
+    "primaryRegion": "SA",
     "regions": [
-        "EU"
+        "SA"
     ],
-    "primaryLanguage": "en",
+    "primaryLanguage": "pt",
     "languages": [
         "en"
     ],
     "gameTypes": [
-        "KitPvP",
-        "Bedwars",
-		"HG",
-        "Rankup Mediaval"
+        "PvP",
+        "Minigames",
+		"Prison"
     ],
     "socials": {
         "discord": "https://discord.gg/gz9SvKKSNt"
