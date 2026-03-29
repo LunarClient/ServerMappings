@@ -1,0 +1,22 @@
+{
+  "id": "elissyl",
+  "name": "Elissyl",
+  "store": "http://store.elissyl.eu",
+  "addresses": [
+    "elissyl.eu"
+  ],
+  "primaryAddress": "elissyl.eu",
+  "primaryColor": "#408c1f",
+  "secondaryColor": "#3fe022",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ]
+}
