@@ -1,0 +1,34 @@
+{
+    "id": "slower",
+    "name": "Slower",
+    "website": "http://slower.com.br",
+    "description": "KitPvP, HG, Bedwars e Rankup Mediaval",
+    "addresses": [
+        "slower.com.br"
+    ],
+    "primaryAddress": "slower.com.br",
+    "primaryColor": "#345EEB",
+    "secondaryColor": "#363791",
+    "minecraftVersions": [
+        "1.8.8"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "crossplay": true,
+    "primaryRegion": "BR",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "KitPvP",
+        "Bedwars",
+		"HG",
+        "Rankup Mediaval"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gz9SvKKSNt"
+    }
+}
