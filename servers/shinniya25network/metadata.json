@@ -1,0 +1,35 @@
+{
+    "id": "shinniya25network",
+    "name": "shinniya25 Network",
+    "description": "Japan Minecraft Network featuring PvP and Survival gameplay.",
+    "addresses": [
+        "shinniya25.network"
+    ],
+    "primaryAddress": "shinniya25.network",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#459df4",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "ja",
+    "languages": [
+        "en",
+        "ja",
+        "zh-CN",
+        "ko"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/37SfWYjqsg"
+    },
+    "crossplay": false
+}

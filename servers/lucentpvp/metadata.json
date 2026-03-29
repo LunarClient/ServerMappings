@@ -1,0 +1,31 @@
+{
+    "id": "lucentpvp",
+    "name": "LucentPvP",
+    "store": "https://lucentpvp.net/",
+    "description": "A CrystalPvP Practice Server",
+    "addresses": [
+        "lucentpvp.net"
+    ],
+    "primaryAddress": "play.lucentpvp.net",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#c296a9",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "1.18.*",
+        "1.16.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/AFfdfxBv8p",
+        "tiktok": "@lucentpvp"
+    }
+}
