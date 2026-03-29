@@ -5,8 +5,7 @@
     "store": "https://shop.venzus.net/",
     "description": "Venzus is a danish, revolutionary Prison.",
     "addresses": [
-        "venzus.net",
-        "prison.sqmmer.dk"
+        "venzus.net"
     ],
     "primaryAddress": "venzus.net",
     "primaryColor": "#FFBB50",
