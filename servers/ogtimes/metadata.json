@@ -1,0 +1,38 @@
+{
+    "id": "ogtimes",
+    "name": "OGTimes",
+    "website": "https://ogtimes.fun",
+    "store": "https://store.ogtimes.fun/",
+    "addresses": [
+        "ogtimes.fun"
+    ],
+    "primaryAddress": "play.ogtimes.fun",
+    "primaryColor": "#efb810",
+    "secondaryColor": "#ffff00",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "ogtimesgames",
+        "discord": "https://discord.gg/cg5d32vvBK",
+        "youtube": "OGTimes",
+        "twitch": "ogtimesgames"
+    }
+}
