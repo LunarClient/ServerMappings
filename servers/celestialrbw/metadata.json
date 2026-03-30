@@ -6,7 +6,7 @@
     "description": "A competitive Ranked Bedwars server designed for ME players",
     "addresses": [
         "celestialrbw.fun",
-        "alt.celestialrbw.com"
+        "celestialrbw.com"
     ],
     "primaryAddress": "celestialrbw.fun",
     "primaryColor": "#00518f",
@@ -16,9 +16,9 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
-    "primaryRegion": "ME",
+    "primaryRegion": "AS",
     "regions": [
-        "ME",
+        "AS",
         "EU"
     ],
     "gameTypes": [
