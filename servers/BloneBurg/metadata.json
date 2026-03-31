@@ -1,0 +1,44 @@
+{
+    "id": "bloneburg",
+    "name": "BloneBurg",
+    "website": "https://bloneburg.nl/",
+    "store": "https://store.bloneburg.nl/",
+    "description": "Join de grappigste Nederlands talige community!",
+    "addresses": [
+        "bloneburg.nl"
+    ],
+    "primaryAddress": "play.bloneburg.nl",
+    "primaryColor": "#95BFFA",
+    "secondaryColor": "#345BCB",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Hardcore"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/YwxnBxffHu",
+        "youtube": "BloneBurg",
+        "instagram": "bloneburg",
+        "tiktok": "@bloneburg"
+    },
+    "compliance": {
+        "privacyPolicy": "https://store.bloneburg.nl/legal/privacy",
+        "termsOfService": "https://store.bloneburg.nl/legal/terms",
+        "rules": "https://discord.bloneburg.nl/",
+        "support": "https://discord.bloneburg.nl/"
+    }
+}
