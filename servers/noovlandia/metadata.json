@@ -3,7 +3,7 @@
     "name": "Noovlandia Network",
     "description": "Explore our awesome worlds and get cool new adventures",
     "addresses": [
-        "mc.noovlandia.online"
+        "noovlandia.online"
     ],
     "primaryAddress": "mc.noovlandia.online",
     "minecraftVersions": [
