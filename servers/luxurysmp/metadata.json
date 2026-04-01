@@ -1,0 +1,43 @@
+{
+    "id": "luxurysmp",
+    "name": "MightyMC Server",
+    "description": "Survival",
+    "addresses": [
+        "play.luxurysmp.com"
+    ],
+    "primaryAddress": "play.luxurysmp.com",
+    "minecraftVersions": [
+        "1.21.11*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryColor": "#c9a227",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://luxurysmp.com",
+    "store": "https://store.",
+    "compliance": {
+        "privacyPolicy": "https://luxurysmp.com/privacypolicy",
+        "termsOfService": "https://luxurysmp.com/termsofservice",
+        "rules": "https://luxurysmp.com/rules"
+    },
+    "socials": {
+        "instagram": "mightymc.club",
+        "discord": "https://discord.gg/D7zJjgYHUV"
+    },
+    "crossplay": false
+}
