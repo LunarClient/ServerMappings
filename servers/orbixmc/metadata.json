@@ -3,7 +3,9 @@
     "name": "OrbixMC",
     "description": "Minecraft Prisons Server",
     "addresses": [
-        "play.orbixmc.com"
+        "orbixmc.com",
+        "orbixmc.net",
+        "orbixmc.org"
     ],
     "primaryAddress": "play.orbixmc.com",
     "minecraftVersions": [
@@ -26,7 +28,7 @@
         "SA"
     ],
     "gameTypes": [
-        "OG Prisons"
+        "Prison"
     ],
     "website": "https://orbixmc.com",
     "store": "https://store.orbixmc.com",
