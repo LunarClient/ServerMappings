@@ -1,27 +1,31 @@
 {
     "id": "vantix",
-    "name": "Vantix Network",
-    "store": "https://vantix.rip/store",
+    "name": "Vantix",
+    "description": "The Ultimate Hardcore Factions Experience.",
     "addresses": [
         "vantix.rip"
     ],
     "primaryAddress": "vantix.rip",
-    "primaryColor": "#fded5c",
-    "secondaryColor": "#10100b",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryRegion": "EU",
+    "primaryColor": "#e2f131",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
     "regions": [
+        "NA",
         "EU"
     ],
     "gameTypes": [
-        "UHC",
-        "PvP"
+        "PvP",
+        "HCF"
     ],
-    "socials": {
-        "twitter": "VantixRIP",
-    }
+    "store": "https://store.vantix.rip",
+    "crossplay": false
 }
