@@ -1,0 +1,27 @@
+{
+    "id": "vantix",
+    "name": "Vantix Network",
+    "store": "https://vantix.rip/store",
+    "addresses": [
+        "vantix.rip"
+    ],
+    "primaryAddress": "vantix.rip",
+    "primaryColor": "#fded5c",
+    "secondaryColor": "#10100b",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "VantixRIP",
+    }
+}
