@@ -4,9 +4,7 @@
     "website": "https://www.venturemc.club/",
     "description": "A minecraft lifesteal server",
     "addresses": [
-        "play.venturemc.club",
-        "venturemc.club",
-        "as.venturemc.club"
+        "venturemc.club"
     ],
     "primaryAddress": "venturemc.club",
     "primaryColor": "#29BAFF",
