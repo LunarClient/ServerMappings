@@ -1,0 +1,34 @@
+{
+    "id": "hexoria",
+    "name": "Hexoria Network",
+    "website": "https://store.hexoria.club/",
+    "store": "https://store.hexoria.club/",
+    "addresses": [
+        "hexoria.club"
+    ],
+    "primaryAddress": "play.hexoria.club",
+    "primaryColor": "#44a48a",
+    "secondaryColor": "#032427",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/PSaBSwEBEw"
+    }
+}
