@@ -1,37 +1,32 @@
 {
-    "id": "mineplex",
-    "name": "Mineplex",
-    "website": "http://mineplex.com/",
-    "store": "https://mineplex.com/store",
-    "description": "A Java & Bedrock Server known for minigames and community",
+    "id": "savagemc",
+    "name": "SavageMC",
+    "store": "https://loja.savagemc.net",
+    "description": "The best Bedwars gameplay: fast and flawless",
     "addresses": [
-        "mineplex.com",
-        "critz.gg"
+        "savagemc.net"
     ],
-    "primaryAddress": "mineplex.com",
-    "primaryColor": "#f38910",
-    "secondaryColor": "#38b1dc",
+    "primaryAddress": "savagemc.net",
+    "primaryColor": "#098F16",
+    "secondaryColor": "#39DB4D",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.8.*".
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": true,
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
     "gameTypes": [
-        "Minigames",
-        "PvP"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
-        "twitter": "mineplex",
-        "discord": "https://discord.com/invite/mineplex",
-        "youtube": "MineplexGamesOfficial",
-        "instagram": "mineplexofficial",
-        "tiktok": "@playmineplex"
+        "discord": "https://discord.gg/jD8hds5C"
     }
 }

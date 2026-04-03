@@ -2,6 +2,7 @@
     "id": "palmpvp",
     "name": "PalmPvP",
     "store": "https://store.palmpvp.com/",
+    "description": "Build your faction and conquer on PalmPvP.",
     "addresses": [
         "palmpvp.com"
     ],

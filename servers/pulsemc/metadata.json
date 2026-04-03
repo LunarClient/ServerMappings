@@ -2,6 +2,7 @@
     "id": "pulsemc",
     "name": "PulseMC",
     "store": "https://store.pulsemc.org/",
+    "description": "Play Skyblock and Prison on PulseMC.",
     "addresses": [
         "pulsemc.org"
     ],

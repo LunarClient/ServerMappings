@@ -1,6 +1,7 @@
 {
     "id": "extremenetwork",
     "name": "Extreme Network",
+    "description": "Play Factions, UHC, and more on Extreme Network.",
     "addresses": [
         "extreme-network.eu",
         "exmc.club"
