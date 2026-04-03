@@ -4,8 +4,7 @@
     "website": "https://www.venturemc.club/",
     "description": "A minecraft lifesteal server",
     "addresses": [
-        "as.venturemc.club",
-        "play.venturemc.club"
+        "as.venturemc.club"
     ],
     "primaryAddress": "venturemc.club",
     "primaryColor": "#29BAFF",
@@ -25,13 +24,11 @@
         "en"
     ],
     "gameTypes": [
-        "Lifesteal",
-        "PVP",
+        "Hardcore",
+        "PvP",
         "Survival"
     ],
     "socials": {
-        "website": "https://www.venturemc.club",
-        "store": "https://www.venturemc.club/store",
-        "discord": "https://www.venturemc.club/discord"
+        "discord": "https://discord.gg/xd6qZE2c7u"
     }
 }
