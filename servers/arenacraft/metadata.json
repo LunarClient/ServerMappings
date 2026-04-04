@@ -32,8 +32,6 @@
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival",
-        "Creative",
         "Skyblock"
     ],
     "socials": {
