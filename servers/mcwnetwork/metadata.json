@@ -1,0 +1,19 @@
+{
+  "id": "mcwnetwork",
+  "name": "MCW Network",
+  "description": "Competitive PvP and survival server with custom gameplay.",
+  
+  "addresses": ["mcw.network"],
+  "primaryAddress": "play.mcw.network",
+
+  "gameTypes": ["PvP", "Minigames", "Survival"],
+
+  "primaryColor": "#FF8600",
+  "secondaryColor": "#FFEE00",
+
+  "minecraftVersions": ["1.8", "1.19", "1.20"],
+  "primaryMinecraftVersion": "1.8",
+
+  "languages": ["en"],
+  "regions": ["EU"]
+}
