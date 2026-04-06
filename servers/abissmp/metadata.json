@@ -36,4 +36,8 @@
         "instagram": "AbisSMP"
     },
     "crossplay": true
+    "styles": {
+        "icon": "abissmp.png",
+        "background": "abissmp.png"
+    }
 }
