@@ -35,8 +35,5 @@
         "tiktok": "@abissmpofc",
         "instagram": "AbisSMP"
     },
-    "crossplay": true,
-    "styles": {
-        "icon": "abissmp.png"
-    }
+    "crossplay": true
 }
