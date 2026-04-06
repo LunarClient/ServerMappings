@@ -3,8 +3,7 @@
     "name": "AbisSMP",
     "description": "Join AbisSMP for new things and great community!",
     "addresses": [
-        "abissmp.eu",
-        "ghast.hostify.cz:50020"
+        "abissmp.eu"   
     ],
     "primaryAddress": "abissmp.eu",
     "minecraftVersions": [
