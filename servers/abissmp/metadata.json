@@ -37,7 +37,6 @@
     },
     "crossplay": true
     "styles": {
-        "icon": "abissmp.png",
-        "background": "background.png"
+        "icon": "abissmp.png"
     }
 }
