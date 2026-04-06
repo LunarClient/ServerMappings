@@ -4,7 +4,7 @@
     "description": "Join AbisSMP for new things and great community!",
     "addresses": [
         "abissmp.eu",
-        "ghast.hostify.cz.50020"
+        "ghast.hostify.cz:50020"
     ],
     "primaryAddress": "abissmp.eu",
     "minecraftVersions": [
@@ -17,15 +17,15 @@
     "secondaryColor": "#D7E9FA",
     "primaryLanguage": "en",
     "languages": [
+       "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
         "NA",       
         "EU",
         "OC",
         "AS",
         "SA"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
     ],
     "gameTypes": [
         "Survival"
