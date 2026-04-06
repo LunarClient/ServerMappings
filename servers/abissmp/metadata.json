@@ -27,7 +27,8 @@
         "SA"
     ],
     "gameTypes": [
-        "Survival,Pvp"
+        "Survival",
+        "Pvp"
     ],
     "socials": {
         "discord": "https://discord.gg/7TYJgfBZgA",
