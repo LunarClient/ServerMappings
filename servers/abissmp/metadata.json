@@ -38,6 +38,6 @@
     "crossplay": true
     "styles": {
         "icon": "abissmp.png",
-        "background": "abissmp.png"
+        "background": "background.png"
     }
 }
