@@ -79,16 +79,22 @@ def get_all_servers(
         if not include_inactive and server["inactive"]:
             continue
 
-        # Generate image URLS
+        # Generate image URLs
+        cdn = "https://servermappings.lunarclientcdn.com"
         server["images"] = {}
         if os.path.isfile(f"{servers_dir}/{server_id}/logo.png"):
-            server["images"]["logo"] = f"https://servermappings.lunarclientcdn.com/logos/{server_id}.png"
+            server["images"]["logo"] = f"{cdn}/cdn-cgi/image/format=auto/logos/{server_id}.png"
+            server["images"]["logo-256"] = f"{cdn}/cdn-cgi/image/width=256,height=256,format=auto/logos/{server_id}.png"
+            server["images"]["logo-128"] = f"{cdn}/cdn-cgi/image/width=128,height=128,format=auto/logos/{server_id}.png"
+            server["images"]["logo-64"] = f"{cdn}/cdn-cgi/image/width=64,height=64,format=auto/logos/{server_id}.png"
+            server["images"]["logo-32"] = f"{cdn}/cdn-cgi/image/width=32,height=32,format=auto/logos/{server_id}.png"
+
         if os.path.isfile(f"{servers_dir}/{server_id}/background.png"):
-            server["images"]["background"] = f"https://servermappings.lunarclientcdn.com/backgrounds/{server_id}.png"
+            server["images"]["background"] = f"{cdn}/cdn-cgi/image/format=auto/backgrounds/{server_id}.png"
         if os.path.isfile(f"{servers_dir}/{server_id}/banner.png"):
-            server["images"]["banner"] = f"https://servermappings.lunarclientcdn.com/banners/{server_id}.png"
+            server["images"]["banner"] = f"{cdn}/cdn-cgi/image/format=auto/banners/{server_id}.png"
         if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
-            server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
+            server["images"]["wordmark"] = f"{cdn}/cdn-cgi/image/format=auto/wordmarks/{server_id}.png"
         
         # Add translations for descriptions
         if translations and "description" in server:
