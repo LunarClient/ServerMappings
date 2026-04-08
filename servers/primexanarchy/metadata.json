@@ -12,7 +12,7 @@
   "primaryMinecraftVersion": "1.21",
   "primaryColor": "#ff0000",
   "secondaryColor": "#000000",
-  "gameTypes": ["Anarchy"],
+  "gameTypes": ["Survival"],
   "website": "https://primexanarchy.net",
   "socials": {
     "discord": "https://discord.gg/pxa"
