@@ -93,7 +93,7 @@ def get_all_servers(
         logo_path = f"{servers_dir}/{server_id}/logo.png"
         if os.path.isfile(logo_path):
             logo_asset = f"assets/{server_id}/{_file_hash(logo_path)}.png"
-            server["images"]["logo"] = f"{cdn}/cdn-cgi/image/format=auto/{logo_asset}"
+            server["images"]["logo"] = f"{cdn}/cdn-cgi/image/width=512,height=512,format=auto/{logo_asset}"
             server["images"]["logo-256"] = f"{cdn}/cdn-cgi/image/width=256,height=256,format=auto/{logo_asset}"
             server["images"]["logo-128"] = f"{cdn}/cdn-cgi/image/width=128,height=128,format=auto/{logo_asset}"
             server["images"]["logo-64"] = f"{cdn}/cdn-cgi/image/width=64,height=64,format=auto/{logo_asset}"
