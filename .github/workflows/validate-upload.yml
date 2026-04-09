@@ -124,6 +124,7 @@ jobs:
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
+          --servers_assets_output .out/assets \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
@@ -137,7 +138,6 @@ jobs:
           --translations_folder ServerMappings/locales/ \
           --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
-          --csv_output .out/servers.csv \
           --no-include_inactive
 
       - name: Sync to Crowdin
@@ -164,4 +164,4 @@ jobs:
           curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
-            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
+            --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
