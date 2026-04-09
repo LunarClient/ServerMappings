@@ -1,0 +1,30 @@
+{
+    "id": "cherrypvp",
+    "name": "CherryPVP",
+    "website": "https://www.cherrypvp.net/",
+    "addresses": [
+		"cherrypvp.net",
+        "elopvp.eu",
+        "teammlg.net"
+    ],
+    "primaryAddress": "cherrypvp.net",
+    "primaryColor": "#fdd4e0",
+    "secondaryColor": "#f7a2c6",
+    "minecraftVersions": [
+		"1.21.11",
+		"26.1"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/6b55H5A957"
+    }
+}
