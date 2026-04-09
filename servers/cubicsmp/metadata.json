@@ -5,7 +5,7 @@
     "addresses": [
         "cubicsmp.net"
     ],
-    "primaryAddress": "play.cubicsmp.net",
+    "primaryAddress": "cubicsmp.net",
     "minecraftVersions": [
         "1.21",
     ],
