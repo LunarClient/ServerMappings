@@ -7,7 +7,7 @@
     ],
     "primaryAddress": "play.cubicsmp.net",
     "minecraftVersions": [
-        "1.21.11",
+        "1.21",
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#ffffff",
@@ -21,7 +21,7 @@
         "NA"
     ],
     "gameTypes": [
-        "Economy"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/7fD2qgUq53"
