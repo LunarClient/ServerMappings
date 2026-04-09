@@ -1,0 +1,30 @@
+{
+    "id": "cubicsmp",
+    "name": "CubicSMP",
+    "store": "https://store.cubicsmp.net/",
+    "addresses": [
+        "cubicsmp.net"
+    ],
+    "primaryAddress": "play.cubicsmp.net",
+    "minecraftVersions": [
+        "1.21.11",
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#4d4c4c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Economy"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7fD2qgUq53"
+    },
+    "crossplay": true
+}
