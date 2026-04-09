@@ -12,9 +12,9 @@
     "primaryMinecraftVersion": "1.21.4",
     "primaryColor": "#7B2FBE",
     "secondaryColor": "#F0D6FF",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryRegion": "SA",
     "regions": [
@@ -29,7 +29,7 @@
     "compliance": {},
     "socials": {
         "discord": "https://discord.gg/GsfGeAYc",
-        "tiktok": "nothionmc_oficial",
+        "tiktok": "@nothionmc_oficial",
         "instagram": "nothionmc"
     }
 }
