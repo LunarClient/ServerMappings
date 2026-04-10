@@ -124,6 +124,7 @@ jobs:
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
+          --servers_assets_output .out/assets \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
@@ -137,7 +138,6 @@ jobs:
           --translations_folder ServerMappings/locales/ \
           --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
-          --csv_output .out/servers.csv \
           --no-include_inactive
 
       - name: Sync to Crowdin
@@ -155,7 +155,14 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
 
       - name: Upload to GCS
-        run: cd .out/ && gcloud storage cp --recursive . gs://servermappings-lunarclientcdn-com
+        run: |
+          cd .out/
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' backgrounds/ gs://servermappings-lunarclientcdn-com/
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' banners/ gs://servermappings-lunarclientcdn-com/
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' logos/ gs://servermappings-lunarclientcdn-com/
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' wordmarks/ gs://servermappings-lunarclientcdn-com/
+          gcloud storage cp --cache-control='public, max-age=300, s-maxage=300' servers.json gs://servermappings-lunarclientcdn-com/servers.json
+          gcloud storage cp --recursive --cache-control='public, max-age=31536000, s-maxage=31536000' assets/ gs://servermappings-lunarclientcdn-com/
 
       - name: Purge Cloudflare cache
         env:
@@ -164,4 +171,4 @@ jobs:
           curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
-            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
+            --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'

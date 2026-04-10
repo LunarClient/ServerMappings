@@ -1,0 +1,27 @@
+{
+    "id": "homesteadsmp",
+    "name": "Homestead SMP",
+    "description": "1.21+ | Lifesteal | SMP | great survival server for you & your friends!",
+    "addresses": [
+        "homesteadsmp.fun"
+    ],
+    "primaryAddress": "play.homesteadsmp.fun",
+    "primaryColor": "#2ecc71",
+    "secondaryColor": "#0515ff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Open World",
+        "Survival",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/wvnbHENS2j"
+    }
+}
