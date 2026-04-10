@@ -3,8 +3,7 @@
     "name": "FiveHood Network",
     "description": "Best Survival + Community server",
     "addresses": [
-        "mc.fivehood.club",
-        "java.fivehood.club"
+        "fivehood.club"
     ],
     "primaryAddress": "mc.fivehood.club",
     "minecraftVersions": [
@@ -24,7 +23,7 @@
     ],
     "gameTypes": [
         "Survival",
-        "Practice"
+        "PvP"
     ],
     "website": "https://store.fivehood.club",
     "store": "https://store.fivehood.club",
