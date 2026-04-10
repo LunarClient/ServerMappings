@@ -1,7 +1,7 @@
 {
     "id": "soupgg",
     "name": "SoupGG",
-    "description":"Experience true SoupPvP on soup.gg",
+    "description":"SoupGG — Defined by combat",
     "addresses": [
         "soup.gg"
     ],
@@ -11,8 +11,8 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#efac80",
-    "secondaryColor": "#5a3a2e",
+    "primaryColor": "#f9a17b",
+    "secondaryColor": "#536d16",
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -21,6 +21,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/Ugrt4tY9"
+        "discord": "https://discord.com/invite/Ra9mMzvXX3"
     }
 }
