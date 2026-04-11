@@ -1,28 +1,35 @@
 {
     "id": "blocaria",
     "name": "Blocaria",
-    "website": "https://blocaria.fr/",
-    "store": "https://store.blocaria.fr/",
-    "description": "A French Boxed server with unique gameplay and adventure features.",
+    "website": "https://blocaria.net/",
+    "store": "https://store.blocaria.net/",
+    "description": "A Boxed server with unique gameplay and adventure features.",
     "addresses": [
+        "blocaria.net",
         "blocaria.fr"
     ],
-    "primaryAddress": "lunar.blocaria.fr",
+    "primaryAddress": "lunar.blocaria.net",
     "primaryColor": "#3a1d8c",
     "secondaryColor": "#f09f19",
     "minecraftVersions": [
-        "1.20.4",
-        "1.21.5"
+        "1.21.8",
+        "1.21.11"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.8",
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
+        "NA"
     ],
     "primaryLanguage": "fr",
     "languages": [
-        "fr"
+        "fr",
+        "en",
+        "it",
+        "es",
+        "pl",
+        "de"
     ],
     "gameTypes": [
         "Factions",
@@ -30,10 +37,10 @@
         "Skyblock"
     ],
     "socials": {
-        "tiktok": "@tk.blocaria.fr",
+        "tiktok": "@tk.blocaria.net",
         "discord": "https://discord.com/invite/blocaria"
     },
     "compliance": {
-        "rules": "https://wiki.blocaria.fr/informations-importantes/reglement-ig"
+        "rules": "https://wiki.blocaria.net/informations-importantes/reglement-ig"
     }
 }
