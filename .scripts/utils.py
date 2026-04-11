@@ -102,6 +102,8 @@ def get_all_servers(
         background_path = f"{servers_dir}/{server_id}/background.png"
         if os.path.isfile(background_path):
             server["images"]["background"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+            server["images"]["background-720"] = f"{cdn}/cdn-cgi/image/width=1280,height=720,format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+            server["images"]["background-480"] = f"{cdn}/cdn-cgi/image/width=852,height=480,format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
 
         banner_path = f"{servers_dir}/{server_id}/banner.png"
         if os.path.isfile(banner_path):
