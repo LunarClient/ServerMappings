@@ -1,0 +1,32 @@
+{
+    "id": "embersmp",
+    "name": "EmberSMP",
+    "website": "https://embersmp.org/",
+    "store": "https://store.embersmp.org/",
+    "crossplay": true,
+    "addresses": [
+        "embersmp.org"
+    ],
+    "primaryAddress": "embersmp.org",
+    "primaryColor": "#ff4a05",
+    "secondaryColor": "#fec63d",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/embersmp"
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "elfemc",
+  "name": "ElfeMC",
+  "description": "SMP and PVP french server",
+  "addresses": [
+    "elfemc.fr"
+  ],
+  "primaryAddress": "play.elfemc.fr",
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "primaryColor": "#F2BF1B",
+  "secondaryColor": "#B26700",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "fr"
+  ],
+  "primaryLanguage": "fr",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://elfemc.fr",
+  "store": "https://elfemc.fr/shop",
+  "socials": {
+    "discord": "https://discord.gg/Q4erz34udm"
+  },
+  "votingLinks": [
+    "https://minecraftservers.org/server/685727"
+  ]
+}

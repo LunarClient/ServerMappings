@@ -1,22 +1,20 @@
 {
     "id": "theolympus",
     "name": "The Olympus Network",
+    "store": "https://tienda.theolympusmc.net/",
     "description": "Adventures in mythological kingdoms",
     "addresses": [
         "theolympusmc.net"
     ],
     "primaryAddress": "play.theolympusmc.net",
+    "primaryColor": "#ece0d3",
+    "secondaryColor": "#f9f0e6",
     "minecraftVersions": [
         "1.20.6",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.6",
-    "primaryColor": "#ece0d3",
-    "secondaryColor": "#f9f0e6",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -25,15 +23,17 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival"
     ],
-    "store": "https://tienda.theolympusmc.net/",
     "socials": {
         "twitter": "TheOlympusNet",
         "discord": "https://discord.gg/uQP6V4AsVH",
         "youtube": "@TheOlympusNet",
         "tiktok": "@theolympusnet"
-    },
-    "crossplay": true
+    }
 }

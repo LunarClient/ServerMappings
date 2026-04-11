@@ -1,8 +1,8 @@
 {
     "id": "hysermc",
     "name": "HyserMC Network",
-    "store": "https://store.hysermc.pro",
     "website": "https://web.hysermc.pro",
+    "store": "https://store.hysermc.pro",
     "description": "Minecraft Prison & Others",
     "addresses": [
         "hysermc.pro"

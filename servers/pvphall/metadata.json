@@ -1,12 +1,15 @@
 {
     "id": "pvphall",
     "name": "PvPHall",
-    "description": "PvP Server (Pirate and Original)",
+    "description": "South America Cool PvP Server",
     "addresses": [
+        "pvphall.net",
+        "pvphall.com",
+        "pvp.gay",
         "pvphall.com.br",
         "pvphall.club"
     ],
-    "primaryAddress": "pvphall.com.br",
+    "primaryAddress": "pvphall.net",
     "primaryColor": "#ec0909",
     "secondaryColor": "#ffd65c",
     "minecraftVersions": [
@@ -19,11 +22,10 @@
         "SA"
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames"
+        "PvP"
     ],
     "socials": {
-        "twitter": "pvphall",
+        "twitter": "https://x.com/pvphall",
         "discord": "https://discord.com/invite/mvKchxZPrx"
     }
 }
