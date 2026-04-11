@@ -1,11 +1,15 @@
 {
     "id": "hyrise",
     "name": "HyRise Network",
+    "website": "https://www.hyrise.fun",
+    "store": "https://store.hyrise.fun",
     "description": "Fight without limits.",
     "addresses": [
         "hyrise.fun"
     ],
     "primaryAddress": "hyrise.fun",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.7.*",
         "1.12.*",
@@ -13,33 +17,29 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
         "es-EN"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Minigames"
     ],
-    "website": "https://www.hyrise.fun",
-    "store": "https://store.hyrise.fun",
-    "compliance": {
-        "privacyPolicy": "https://www.hyrise.fun/privacy",
-        "termsOfService": "https://www.hyrise.fun/terms",
-        "rules": "https://www.hyrise.fun/rules"
-    },
     "socials": {
         "twitter": "HyRiseNetwork",
         "youtube": "HyRiseNetwork",
         "discord": "https://discord.gg/hyrise/"
     },
-    "crossplay": true
+    "compliance": {
+        "privacyPolicy": "https://www.hyrise.fun/privacy",
+        "termsOfService": "https://www.hyrise.fun/terms",
+        "rules": "https://www.hyrise.fun/rules"
+    }
 }

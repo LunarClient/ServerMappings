@@ -1,6 +1,7 @@
 {
     "id": "chickencraft",
     "name": "Chickencraft",
+    "description": "The #1 server for BoxPVP, CrystalPvP, PvP-prac, Lifesteal and Randomkits!",
     "store": "https://shop.chickencraft.nl/",
     "addresses": [
         "chickencraft.nl"
@@ -14,9 +15,12 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "26.1",
     "primaryRegion": "EU",
     "regions": [
         "EU",
@@ -27,9 +31,18 @@
         "PvP",
         "Survival"
     ],
+    "crossplay": true,
+    "presentationVideo": "SYRnzqlvv4g",
+    "votingLinks": [
+        "https://vote.chickencraft.nl/"
+    ],
+    "website": "https://www.chickencraft.nl",
     "socials": {
-        "discord": "https://discord.com/invite/YyKwsJS",
-        "youtube": "UCFA6TODeGAzqbsesvXMmi9Q",
+        "discord": "https://discord.com/invite/crystalpvp",
+        "youtube": "MC-LifestealMP",
         "tiktok": "@chickencraftsmp_"
+    },
+    "compliance": {
+        "termsOfService": "https://shop.chickencraft.nl/tos"
     }
 }
