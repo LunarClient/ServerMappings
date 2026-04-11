@@ -24,15 +24,15 @@
     ],
     "primaryLanguage": "fr",
     "languages": [
-        "fr",
-        "en",
-        "it",
-        "es",
-        "pl",
-        "de"
+        "fr_FR",
+        "en_US",
+        "it_IT",
+        "es_ES",
+        "pl_PL",
+        "de_DE"
     ],
     "gameTypes": [
-        "Factions",
+        "Boxe",
         "Adventure",
         "Skyblock"
     ],
