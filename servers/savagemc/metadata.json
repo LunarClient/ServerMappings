@@ -10,7 +10,7 @@
     "primaryColor": "#098F16",
     "secondaryColor": "#39DB4D",
     "minecraftVersions": [
-        "1.8.x"
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
@@ -19,8 +19,8 @@
         "SA"
     ],
     "gameTypes": [
-        "PVP",
-        "MINIGAMES"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/NCanNcgqkm"
