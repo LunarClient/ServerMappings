@@ -1,0 +1,28 @@
+{
+    "id": "savagemc",
+    "name": "SavageMC",
+    "store": "https://loja.savagemc.net",
+    "description": "The best Bedwars gameplay: fast and flawless",
+    "addresses": [
+        "savagemc.net"
+    ],
+    "primaryAddress": "savagemc.net",
+    "primaryColor": "#098F16",
+    "secondaryColor": "#39DB4D",
+    "minecraftVersions": [
+        "1.8.x"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PVP",
+        "MINIGAMES"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/NCanNcgqkm"
+    }
+}
