@@ -3,9 +3,9 @@
   "name": "Valryn Network",
   "description": "Home to the first Minecraft E-SPORTS game modes",
   "addresses": [
-    "play.valryn.net"
+    "valryn.net"
   ],
-  "primaryAddress": "play.valryn.net",
+  "primaryAddress": "valryn.net",
   "minecraftVersions": [
     "1.21.1"
   ],
@@ -13,7 +13,7 @@
   "primaryColor": "#6fba32",
   "secondaryColor": "#ffffff",
   "gameTypes": [
-    "PvP",
+    "Lifesteal",
     "Minigames"
   ]
 }
