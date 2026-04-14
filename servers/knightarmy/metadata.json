@@ -1,0 +1,30 @@
+{
+      "id": "knightarmy",
+      "name": "KNIGHTARMY.DE",
+      "description": "Custom survival with One Block and EnderDragon events. Join our beta now!",
+      "addresses": [
+              "knightarmy.de"
+      ],
+      "primaryAddress": "knightarmy.de",
+      "primaryMinecraftVersion": "1.21.1",
+      "minecraftVersions": [
+              "1.8.9",
+              "1.12.2",
+              "1.16.5",
+              "1.20.1",
+              "1.21.1"
+      ],
+      "gameTypes": [
+              "Survival"
+      ],
+      "primaryColor": "#0c1424",
+      "secondaryColor": "#ffffff",
+      "socials": {
+              "twitter": "knightarmyde",
+              "discord": "https://discord.gg/knightarmy",
+              "youtube": "@knightarmyde",
+              "instagram": "knightarmy.de",
+              "tiktok": "@knightarmy.de"
+      },
+      "website": "https://knightarmy.de"
+}
