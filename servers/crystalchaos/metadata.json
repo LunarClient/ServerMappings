@@ -1,0 +1,29 @@
+{
+    "id": "crystalchaos",
+    "name": "CrystalChaos",
+    "store": "https://store.crystalchaos.net/",
+    "addresses": [
+        "crystalchaos.net"
+    ],
+    "primaryAddress": "lunar.crystalchaos.net",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#4F81EC",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "CrystalChaosMC",
+        "discord": "https://discord.gg/HwrMhdYZNf"
+    },
+    "crossplay": true
+}
