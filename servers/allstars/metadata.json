@@ -2,10 +2,7 @@
     "id": "allstars",
     "name": "All Stars UHC",
     "addresses": [
-        "play.as-uhc.fr",
-        "mc.as-uhc.fr",
-        "backup.as-uhc.fr",
-        "backup2.as-uhc.fr"
+        "as-uhc.fr"
     ],
     "primaryAddress": "play.as-uhc.fr",
     "primaryColor": "#B0023F",
