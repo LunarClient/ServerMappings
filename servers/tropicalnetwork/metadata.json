@@ -1,0 +1,23 @@
+{
+    "id": "tropicalnetwork",
+    "name": "TropicalNetwork",
+    "addresses": [
+        "tropicalnetwork.hu"
+    ],
+    "primaryAddress": "play.tropicalnetwork.hu",
+    "primaryColor": "#ff9b00",
+    "secondaryColor": "#ffc160",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}
