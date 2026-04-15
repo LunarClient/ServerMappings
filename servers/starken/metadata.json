@@ -1,7 +1,9 @@
 {
     "id": "starken",
     "name": "StarkeN Development",
-    "description": "The Biggest Minecraft Community in Mongolia",
+    "website": "https://mc.starken.dev/",
+    "store": "https://mc.starken.dev/store/",
+    "description": "An open and reliable gaming server for everyone",
     "addresses": [
         "starken.dev"
     ],
@@ -16,9 +18,10 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.10",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
@@ -31,12 +34,12 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Factions"
+        "Prison"
     ],
     "socials": {
         "discord": "https://discord.gg/d9ecm97nc7"
     },
     "compliance": {
-        "rules": "https://www.starken.dev/rules"
+        "rules": "https://mc.starken.dev/rules"
     }
 }
