@@ -1,0 +1,20 @@
+{
+  "id": "hispanosmc",
+  "name": "HispanosMC",
+  "description": "Spanish community with Custom OP Skyblock experience",
+  "store": "https://tienda.hispanosmc.net/"
+  "addresses": ["hispanosmc.net"],
+  "primaryAddress": "hispanosmc.net",
+  "gameTypes": ["Skyblock, SurvivalOp"],
+  "primaryColor": "#9B30FF",
+  "secondaryColor": "#2E8B57",
+  "minecraftVersions": ["1.21.10"],
+  "primaryMinecraftVersion": "1.21.10",
+  "languages": ["es-EN"],
+  "primaryLanguage": "es-EN",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.gg/CBUhzSrQQy"
+  }
+}
