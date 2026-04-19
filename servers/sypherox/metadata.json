@@ -1,7 +1,7 @@
 {
     "id": "sypherox",
     "name": "Sypherox SMP",
-    "description": "A Survival Multiplayer experience for everyone",
+    "description": "A Survival Multiplayer experience on sypherox.dev",
     "addresses": ["sypherox.dev"],
     "primaryAddress": "sypherox.dev",
     "minecraftVersions": ["1.21.1"],
@@ -10,9 +10,11 @@
     "secondaryColor": "#AA0000",
     "primaryRegion": "EU",
     "regions": ["EU"],
-    "gameTypes": ["SURVIVAL"],
+    "gameTypes": ["Survival"],
     "crossplay": false,
     "website": "https://sypherox.dev",
-    "discord": "https://discord.gg/U5B7VcH5Uc",
-    "twitch": "Sypherox"
+    "socials": {
+        "discord": "https://discord.gg/DEINLINK",
+        "twitch": "Sypherox"
+    }
 }
