@@ -1,0 +1,35 @@
+{
+    "id": "volty",
+    "name": "Volty",
+    "website": "https://volty.cc/",
+    "store": "https://store.volty.cc/",
+    "addresses": [
+        "volty.cc"
+    ],
+    "primaryAddress": "volty.cc",
+    "primaryColor": "#db213a",
+    "secondaryColor": "#3f3e4c",
+    "gameTypes": [
+        "HCF",
+        "PvP",
+        "Practice"
+    ],
+    "socials": {
+        "twitter": "voltycc",
+        "discord": "https://discord.com/invite/voltycc",
+        "telegram": "voltycc"
+    },
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ]
+}
