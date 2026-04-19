@@ -1,0 +1,42 @@
+{
+    "id": "vmqsclub",
+    "name": "vmqs.club",
+    "website": "https://vmqs.club/",
+    "store": "https://store.vmqs.club/",
+    "description": "We're a Minecraft Network consisting of KitPvP, Skyblock and Survival.",
+    "addresses": [
+        "vmqs.club"
+    ],
+    "primaryAddress": "vmqs.club",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#00aaaa",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "26.*",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/HNB9XPzP4J",
+    }
+}
