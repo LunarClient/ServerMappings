@@ -1,13 +1,18 @@
 {
-  "name": "SyphiSMP",
-  "primaryAddress": "sypherox.dev",
-  "addresses": ["sypherox.dev"],
-  "gameTypes": ["SURVIVAL"],
-  "minecraftVersions": ["1.21.1"],
-  "primaryRegion": "EU",
-  "regions": ["EU"],
-  "language": "de",
-  "links": {
-    "discord": "https://sypherox.dev/discord"
-  }
+    "id": "syphismp",
+    "name": "SyphiSMP",
+    "description": "A Survival Multiplayer experience for everyone",
+    "addresses": ["sypherox.dev"],
+    "primaryAddress": "sypherox.dev",
+    "minecraftVersions": ["1.21.1"],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#AA0000",
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "gameTypes": ["SURVIVAL"],
+    "crossplay": false,
+    "website": "https://sypherox.dev",
+    "discord": "https://discord.gg/U5B7VcH5Uc",
+    "twitch": "Sypherox"
 }
