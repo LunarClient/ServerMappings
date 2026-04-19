@@ -1,0 +1,13 @@
+{
+  "name": "SyphiSMP",
+  "primaryAddress": "sypherox.dev",
+  "addresses": ["sypherox.dev"],
+  "gameTypes": ["SURVIVAL"],
+  "minecraftVersions": ["1.21.1"],
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "language": "de",
+  "links": {
+    "discord": "https://sypherox.dev/discord"
+  }
+}
