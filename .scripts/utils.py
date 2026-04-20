@@ -3,6 +3,7 @@ This is a utility module that provides various functions for handling server dat
 validating images, and converting gif images to sprite sheets.
 """
 
+import hashlib
 import json
 import requests
 import os
@@ -20,8 +21,14 @@ MAJOR_ALL: dict[str, list[str]] = {
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
     "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
     "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10", "1.21.11"],
-    "26.*": ["26.1"]
+    "26.*": ["26.1", "26.1.1", "26.1.2"]
 }
+
+
+def _file_hash(path: str) -> str:
+    """Compute SHA1 hash of a file's contents."""
+    with open(path, "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()
 
 
 def get_all_servers(
@@ -79,16 +86,32 @@ def get_all_servers(
         if not include_inactive and server["inactive"]:
             continue
 
-        # Generate image URLS
+        # Generate image URLs
+        cdn = "https://servermappings.lunarclientcdn.com"
         server["images"] = {}
-        if os.path.isfile(f"{servers_dir}/{server_id}/logo.png"):
-            server["images"]["logo"] = f"https://servermappings.lunarclientcdn.com/logos/{server_id}.png"
-        if os.path.isfile(f"{servers_dir}/{server_id}/background.png"):
-            server["images"]["background"] = f"https://servermappings.lunarclientcdn.com/backgrounds/{server_id}.png"
-        if os.path.isfile(f"{servers_dir}/{server_id}/banner.png"):
-            server["images"]["banner"] = f"https://servermappings.lunarclientcdn.com/banners/{server_id}.png"
-        if os.path.isfile(f"{servers_dir}/{server_id}/wordmark.png"):
-            server["images"]["wordmark"] = f"https://servermappings.lunarclientcdn.com/wordmarks/{server_id}.png"
+
+        logo_path = f"{servers_dir}/{server_id}/logo.png"
+        if os.path.isfile(logo_path):
+            logo_asset = f"assets/{server_id}/{_file_hash(logo_path)}.png"
+            server["images"]["logo"] = f"{cdn}/cdn-cgi/image/width=512,height=512,format=auto/{logo_asset}"
+            server["images"]["logo-256"] = f"{cdn}/cdn-cgi/image/width=256,height=256,format=auto/{logo_asset}"
+            server["images"]["logo-128"] = f"{cdn}/cdn-cgi/image/width=128,height=128,format=auto/{logo_asset}"
+            server["images"]["logo-64"] = f"{cdn}/cdn-cgi/image/width=64,height=64,format=auto/{logo_asset}"
+            server["images"]["logo-32"] = f"{cdn}/cdn-cgi/image/width=32,height=32,format=auto/{logo_asset}"
+
+        background_path = f"{servers_dir}/{server_id}/background.png"
+        if os.path.isfile(background_path):
+            server["images"]["background"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+            server["images"]["background-720"] = f"{cdn}/cdn-cgi/image/width=1280,height=720,format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+            server["images"]["background-480"] = f"{cdn}/cdn-cgi/image/width=852,height=480,format=auto/assets/{server_id}/{_file_hash(background_path)}.png"
+
+        banner_path = f"{servers_dir}/{server_id}/banner.png"
+        if os.path.isfile(banner_path):
+            server["images"]["banner"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(banner_path)}.png"
+
+        wordmark_path = f"{servers_dir}/{server_id}/wordmark.png"
+        if os.path.isfile(wordmark_path):
+            server["images"]["wordmark"] = f"{cdn}/cdn-cgi/image/format=auto/assets/{server_id}/{_file_hash(wordmark_path)}.png"
         
         # Add translations for descriptions
         if translations and "description" in server:
