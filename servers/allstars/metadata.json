@@ -1,6 +1,7 @@
 {
     "id": "allstars",
     "name": "All Stars UHC",
+    "description": "French UHC competition for the best of the best.",
     "addresses": [
         "as-uhc.fr"
     ],
