@@ -1,0 +1,24 @@
+{
+  "id": "pexserver",
+  "name": "PEXserver",
+  "website": "https://pexserver.mooo.com",
+  "description": "MiniGame / PVP Server",
+  "addresses": [
+    "pexserver.mooo.com"
+  ],
+  "primaryAddress": "pexserver.mooo.com",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#FF8C00",
+  "secondaryColor": "#FFD700",
+  "primaryLanguage": "ja",
+  "languages": ["ja", "en"],
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "gameTypes": ["MiniGame", "PvP"],
+  "socials": {
+        "discord": "https://discord.gg/RP8DPmK7cZ"
+    }
+}
