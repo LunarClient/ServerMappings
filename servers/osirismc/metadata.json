@@ -1,6 +1,7 @@
 {
     "id": "osirismc",
     "name": "OsirisMC",
+    "description": "OsirisMC NetWork - Survival",
     "store": "https://tienda.osirismc.net/",
     "addresses": [
       "osirismc.net"
