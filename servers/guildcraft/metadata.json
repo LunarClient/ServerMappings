@@ -38,5 +38,6 @@
     "socials": {
         "discord": "https://discord.com/invite/guildcraft",
         "tiktok": "@guildcraft"
-    }
+    },
+    "crossplay": false
 }
