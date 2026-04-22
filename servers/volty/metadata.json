@@ -11,8 +11,7 @@
     "secondaryColor": "#3f3e4c",
     "gameTypes": [
         "HCF",
-        "PvP",
-        "Practice"
+        "PvP"
     ],
     "socials": {
         "twitter": "voltycc",
