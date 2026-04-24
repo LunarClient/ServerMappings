@@ -3,10 +3,9 @@
   "name": "VantixMC",
   "website": "https://vantixmc.pro/",
   "store": "https://store.vantixmc.pro/",
-  "description": "Server kde najdeš hry jako: Survival, Towers Of Fortune a mnoho dalšího!",
+  "description": "Server kde najdes hry jako: Survival, Towers Of Fortune a mnoho dalsiho!",
   "addresses": [
     "vantixmc.pro",
-    "mc.vantixmc.pro"
   ],
   "primaryAddress": "vantixmc.pro",
   "primaryColor": "#7FD7E6",
@@ -21,9 +20,9 @@
   "regions": [
     "EU"
   ],
-  "primaryLanguage": "cs",
+  "primaryLanguage": "en",
   "languages": [
-    "cs"
+    "en"
   ],
   "gameTypes": [
     "Minigames",
