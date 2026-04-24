@@ -1,0 +1,35 @@
+{
+  "id": "vantixmc",
+  "name": "VantixMC",
+  "website": "https://vantixmc.pro/",
+  "store": "https://store.vantixmc.pro/",
+  "description": "Server kde najdeš hry jako: Survival, Towers Of Fortune a mnoho dalšího!",
+  "addresses": [
+    "vantixmc.pro",
+    "mc.vantixmc.pro"
+  ],
+  "primaryAddress": "vantixmc.cz",
+  "primaryColor": "#7FD7E6",
+  "secondaryColor": "#2C6371",
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": false,
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "cs",
+  "languages": [
+    "cs"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Survival"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/GjtyZvY27s"
+  }
+}
