@@ -1,0 +1,32 @@
+{
+    "id": "saintmc",
+    "name": "SaintMC",
+    "website": "https://saintmc.dk",
+    "store": "https://butik.saintmc.dk",
+    "description": "Denmark's coolest server.",
+    "addresses": [
+        "saintmc.dk"
+    ],
+    "primaryAddress": "saintmc.dk",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.saintmc.dk"
+    },
+    "compliance": {
+        "rules": "https://regler.saintmc.dk"
+    }
+}
