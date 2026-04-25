@@ -1,0 +1,36 @@
+{
+    "id": "mistyprison",
+    "name": "MistyMC",
+    "website": "https://mistymc.dk",
+    "store": "https://mistymc.dk/butik",
+    "description": "Coolest minecraft server out",
+    "addresses": [
+        "mistymc.dk"
+    ],
+    "primaryAddress": "mistymc.dk",
+    "primaryColor": "#F1860F",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/4MJmgaQ3Cx",
+        "tiktok": "@mistymcdk",
+        "twitter": "mistymcdk",
+        "youtube": "@mistymcdk"
+    },
+    "compliance": {
+        "termsOfService": "https://mistymc.dk/terms-of-service",
+        "rules": "https://mistymc.dk/rules"
+    }
+}

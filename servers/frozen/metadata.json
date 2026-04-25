@@ -1,0 +1,35 @@
+{
+    "id": "frozen",
+    "name": "Frozen Developments",
+    "website": "https://www.frozendevelopments.dk/",
+    "description": "Danish marketplace for Minecraft maps, plugins & more.",
+    "addresses": [
+        "frozendevelopments.dk",
+        "frozendevs.dk"
+    ],
+    "primaryAddress": "frozendevelopments.dk",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/NAw3s3949k",
+        "tiktok": "@frozendevelopments",
+        "twitter": "frozendevelopments",
+        "youtube": "@frozendevelopments"
+    },
+    "compliance": {
+        "termsOfService": "https://frozendevelopments.dk/terms-of-service",
+        "rules": "https://frozendevelopments.dk/rules"
+    }
+}
