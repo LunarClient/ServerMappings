@@ -1,0 +1,20 @@
+{
+    "id": "sypherox",
+    "name": "Sypherox SMP",
+    "description": "A Survival Multiplayer experience on sypherox.dev",
+    "addresses": ["sypherox.dev"],
+    "primaryAddress": "sypherox.dev",
+    "minecraftVersions": ["1.21.1"],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#AA0000",
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "gameTypes": ["Survival"],
+    "crossplay": false,
+    "website": "https://sypherox.dev",
+    "socials": {
+        "discord": "https://discord.gg/aG4QYP8u5p",
+        "twitch": "Sypherox"
+    }
+}

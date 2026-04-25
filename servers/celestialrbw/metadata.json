@@ -1,0 +1,32 @@
+{
+    "id": "celestialrbw",
+    "name": "Celestial Ranked Bedwars",
+    "website": "https://celestialrbw.com",
+    "store": "https://store.celestialrbw.fun",
+    "description": "A competitive Ranked Bedwars server designed for ME players",
+    "addresses": [
+        "celestialrbw.fun",
+        "celestialrbw.com"
+    ],
+    "primaryAddress": "celestialrbw.fun",
+    "primaryColor": "#00518f",
+    "secondaryColor": "#378dcf",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "youtube": "CelestialRBW",
+        "discord": "https://discord.gg/celestialrbw"
+    }
+}

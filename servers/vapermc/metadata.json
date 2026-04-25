@@ -1,36 +1,36 @@
 {
-  "id": "vapermc",
-  "name": "VaperMC",
-  "description": "Spanish network with SkyWars, Slimefun and OneBlock. Java & Bedrock crossplay.",
-  "addresses": [
-    "vapermc.net"
-  ],
-  "primaryAddress": "play.vapermc.net",
-  "gameTypes": [
-    "Minigames",
-    "Skyblock",
-    "Survival"
-  ],
-  "primaryColor": "#800080",
-  "secondaryColor": "#FF55FF",
-  "minecraftVersions": [
-    "1.19.4",
-    "1.20.4",
-    "1.21.4"
-  ],
-  "primaryMinecraftVersion": "1.21.4",
-  "languages": [
-    "es-EN"
-  ],
-  "primaryLanguage": "es-EN",
-  "regions": [
-    "SA"
-  ],
-  "primaryRegion": "SA",
-  "website": "https://www.vapermc.net",
-  "store": "https://tienda.vapermc.net",
-  "socials": {
-    "discord": "https://discord.gg/5WdNemJZ"
-  },
-  "crossplay": true
+    "id": "vapermc",
+    "name": "VaperMC",
+    "website": "https://www.vapermc.net",
+    "store": "https://tienda.vapermc.net",
+    "description": "Spanish network with SkyWars, Slimefun and OneBlock. Java & Bedrock crossplay.",
+    "addresses": [
+        "vapermc.net"
+    ],
+    "primaryAddress": "play.vapermc.net",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FF55FF",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.4",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/5WdNemJZ"
+    }
 }

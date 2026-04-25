@@ -2,6 +2,7 @@
     "id": "minefruit",
     "name": "MineFruit",
     "store": "https://store.minefruit.org/",
+    "description": "Play Survival, Skyblock, and more on MineFruit.",
     "addresses": [
         "minefruit.org",
         "murder.rip"

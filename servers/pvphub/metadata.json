@@ -12,17 +12,17 @@
     "minecraftVersions": [
         "1.19.4",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
-        "Survival"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/Fa7YXrB6cr"

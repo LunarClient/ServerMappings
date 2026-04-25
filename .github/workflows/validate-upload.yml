@@ -83,12 +83,12 @@ jobs:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
-      - name: Configure production AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
+      - name: Configure Google Cloud credentials
+        uses: google-github-actions/auth@v3
         with:
-          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
-          aws-region: us-east-2
-
+          workload_identity_provider: 'projects/824216268633/locations/global/workloadIdentityPools/github-actions/providers/github-actions-oidc'
+          service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
+        
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
@@ -124,6 +124,7 @@ jobs:
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
+          --servers_assets_output .out/assets \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
@@ -137,7 +138,6 @@ jobs:
           --translations_folder ServerMappings/locales/ \
           --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
-          --csv_output .out/servers.csv \
           --no-include_inactive
 
       - name: Sync to Crowdin
@@ -153,12 +153,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
-      
-      - name: Upload to S3
+
+      - name: Upload to GCS
         run: |
-          aws s3 sync .out s3://lunarclient-servermappings --cache-control "public, max-age=14400"
-          aws s3 cp .out/servers.json s3://lunarclient-servermappings/servers.json --content-type "application/json"
-          aws s3 cp .out/servers.csv s3://lunarclient-servermappings/servers.csv --content-type "text/csv"
+          cd .out/
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' backgrounds/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' banners/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' logos/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' wordmarks/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --cache-control='public, max-age=300, s-maxage=300' servers.json gs://servermappings-lunarclientcdn-com/servers.json
+          gcloud storage cp --recursive --cache-control='public, max-age=31536000, s-maxage=31536000' assets/ gs://servermappings-lunarclientcdn-com/ || true
 
       - name: Purge Cloudflare cache
         env:
@@ -167,4 +171,4 @@ jobs:
           curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
-            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
+            --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'

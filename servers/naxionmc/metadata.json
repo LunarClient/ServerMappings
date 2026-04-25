@@ -2,6 +2,7 @@
     "id": "naxionmc",
     "name": "NaxionMC Network",
     "store": "https://tienda.naxionmc.club",
+    "description": "Play PvP and Survival on NaxionMC Network.",
     "addresses": [
         "naxionmc.club"
     ],

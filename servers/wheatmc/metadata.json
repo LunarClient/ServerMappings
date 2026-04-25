@@ -1,0 +1,20 @@
+{
+    "id": "wheatmc",
+    "name": "WheatMC",
+    "website": "https://wheatmc.fr",
+    "store": "https://store.wheatmc.fr",
+    "description": "Tycoon Server 1.21.8+ French",
+    "addresses": [
+        "wheatmc.fr"
+    ],
+    "primaryAddress": "play.wheatmc.fr",
+    "primaryColor": "#ffa81b",
+    "secondaryColor": "#ffc72a",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "gameTypes": [
+        "Skyblock"
+    ]
+}

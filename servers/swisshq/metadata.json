@@ -1,6 +1,7 @@
 {
     "id": "swisshq",
     "name": "SwissHQ Network",
+    "description": "Test your combat skills on SwissHQ Network.",
     "addresses": [
         "swisshq.net"
     ],
