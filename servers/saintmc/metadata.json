@@ -24,7 +24,8 @@
         "Prison"
     ],
     "socials": {
-        "discord": "https://discord.saintmc.dk"
+        "discord": "https://discord.saintmc.dk",
+        "website": "https://saintmc.dk"
     },
     "compliance": {
         "rules": "https://regler.saintmc.dk"
