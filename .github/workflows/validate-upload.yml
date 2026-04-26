@@ -44,9 +44,13 @@ jobs:
     steps:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Merge PR servers directory
+        if: github.event_name == 'pull_request_target'
+        run: |
+          git remote add pr ${{ github.event.pull_request.head.repo.clone_url }}
+          git fetch pr ${{ github.event.pull_request.head.ref }}
+          git checkout pr/FETCH_HEAD -- servers/
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -88,7 +92,7 @@ jobs:
         with:
           workload_identity_provider: 'projects/824216268633/locations/global/workloadIdentityPools/github-actions/providers/github-actions-oidc'
           service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
-        
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
@@ -172,3 +176,4 @@ jobs:
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
             --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
+
