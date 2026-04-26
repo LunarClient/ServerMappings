@@ -38,6 +38,10 @@ jobs:
     name: Validate Servers
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: read
+      pull-requests: read
+
     steps:
       - name: Checkout from GitHub
         uses: actions/checkout@v4

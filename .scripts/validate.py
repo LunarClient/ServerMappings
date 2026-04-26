@@ -84,7 +84,7 @@ def main():
     pull_id = os.getenv("PR_ID")
     if all(len(section) == 0 for section in all_errors.values()):
         write_results(pull_id, "ready", {})
-        print("No errors occured. PR is ready for manual review.")
+        print("No errors occurred. PR is ready for manual review.")
         sys.exit(0)
     else:
         write_results(pull_id, "failed", all_errors)

@@ -205,13 +205,16 @@ def get_edited_servers():
         return edited_server_ids
 
     res = requests.get(
-            f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
-            headers={
-                "accept": "application/vnd.github+json",
-                "Authorization": f"Bearer {GITHUB_TOKEN}",
-            }
-        )
+        f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
+        headers={
+            "accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {GITHUB_TOKEN}",
+        },
+        timeout=30,
+    )
     
+    res.raise_for_status()
+
     for file in res.json():
         file_name: str = file['filename']
         if not file_name.startswith("servers/"):
