@@ -1,0 +1,43 @@
+{
+    "id": "guildcraft",
+    "name": "GuildCraft",
+    "description": "Experience a new era of Minecraft at GuildCraft with custom-built plugins.",
+    "addresses": [
+        "guildcraft.net"
+    ],
+    "primaryAddress": "play.guildcraft.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#C89A3C",
+    "secondaryColor": "#2F6F73",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Prison"
+    ],
+    "website": "https://guildcraft.net",
+    "store": "https://store.guildcraft.net",
+    "socials": {
+        "discord": "https://discord.com/invite/guildcraft",
+        "tiktok": "@guildcraft"
+    },
+    "crossplay": false
+}

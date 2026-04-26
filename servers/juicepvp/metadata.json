@@ -1,6 +1,7 @@
 {
     "id": "juicepvp",
     "name": "JuicePvP",
+    "description": "Play PvP and Survival on JuicePvP.",
     "addresses": [
         "juicepvp.eu"
     ],

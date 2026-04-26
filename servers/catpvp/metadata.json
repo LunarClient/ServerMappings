@@ -2,6 +2,7 @@
     "id": "catpvp",
     "name": "CatPvP",
     "store": "https://store.catpvp.xyz/",
+    "description": "Test your combat skills on CatPvP.",
     "addresses": [
         "catpvp.xyz"
     ],

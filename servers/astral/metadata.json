@@ -2,6 +2,7 @@
     "id": "astral",
     "name": "AstralMC",
     "store": "https://store.astralmc.cc/",
+    "description": "Play PvP and UHC on AstralMC.",
     "addresses": [
         "astralmc.cc"
     ],

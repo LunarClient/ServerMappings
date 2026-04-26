@@ -2,6 +2,7 @@
     "id": "doomland",
     "name": "Doomland",
     "store": "https://tienda.doomland.xyz/",
+    "description": "Play Survival, PvP, and more on Doomland.",
     "addresses": [
         "doomland.xyz"
     ],

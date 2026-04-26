@@ -1,7 +1,7 @@
 {
     "id": "pxrlyjuice",
     "name": "PxrlyJuice",
-    "description": "PxrlyJuice is a new in Beta Server",
+    "description": "The most refreshing experience",
     "addresses": [
         "pxrlyjuice.de"
     ],
@@ -18,7 +18,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "PvP"
+        "PvP",
+        "Open World"
     ],
     "socials": {
         "discord": "https://discord.gg/zkHhv4tBnX"

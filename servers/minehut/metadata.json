@@ -19,7 +19,8 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,

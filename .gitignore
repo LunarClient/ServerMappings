@@ -1,5 +1,6 @@
 .out
 .venv
+.claude/
 .DS_Store
 ServerMappings/locales/
 
