@@ -47,10 +47,13 @@ jobs:
 
       - name: Merge PR servers directory
         if: github.event_name == 'pull_request_target'
+        env:
+          PR_CLONE_URL: ${{ github.event.pull_request.head.repo.clone_url }}
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
         run: |
-          git remote add pr ${{ github.event.pull_request.head.repo.clone_url }}
-          git fetch pr ${{ github.event.pull_request.head.ref }}
-          git checkout pr/FETCH_HEAD -- servers/
+          git remote add pr "$PR_CLONE_URL"
+          git fetch pr "$PR_HEAD_SHA"
+          git checkout FETCH_HEAD -- servers/
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
