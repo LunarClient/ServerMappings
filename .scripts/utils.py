@@ -24,6 +24,8 @@ MAJOR_ALL: dict[str, list[str]] = {
     "26.*": ["26.1", "26.1.1", "26.1.2"]
 }
 
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+
 
 def _file_hash(path: str) -> str:
     """Compute SHA1 hash of a file's contents."""
@@ -206,7 +208,7 @@ def get_edited_servers():
             f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
             headers={
                 "accept": "application/vnd.github+json",
-                "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
+                "Authorization": f"Bearer {GITHUB_TOKEN}",
             }
         )
     

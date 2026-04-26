@@ -1,0 +1,81 @@
+name: Post validation feedback
+
+on:
+  workflow_run:
+    workflows: ["Validate and upload"]
+    types:
+      - completed
+
+jobs:
+  feedback:
+    name: Post validation feedback
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+      issues: write
+      actions: read
+
+    steps:
+      - name: Download validation results
+        id: download
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-results
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Apply label and post review
+        if: steps.download.outcome == 'success'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.BOT_PAT }}
+          script: |
+            const fs = require('fs');
+            if (!fs.existsSync('pr_results.json')) {
+              core.info('No pr_results.json in artifact — nothing to do.');
+              return;
+            }
+
+            const { pr_id, status, errors } = JSON.parse(
+              fs.readFileSync('pr_results.json', 'utf8')
+            );
+            if (!pr_id) return;
+
+            const { owner, repo } = context.repo;
+            const READY_LABEL = 'Ready for review';
+
+            if (status === 'ready') {
+              await github.rest.issues.addLabels({
+                owner, repo,
+                issue_number: pr_id,
+                labels: [READY_LABEL],
+              });
+              return;
+            }
+
+            try {
+              await github.rest.issues.removeLabel({
+                owner, repo,
+                issue_number: pr_id,
+                name: READY_LABEL,
+              });
+            } catch (e) {
+              if (e.status !== 404) throw e;
+            }
+
+            let body = '';
+            for (const [serverId, msgs] of Object.entries(errors || {})) {
+              if (!msgs || msgs.length === 0) continue;
+              body += `\n\nErrors found for **${serverId}**:\n- ${msgs.join('\n- ')}`;
+            }
+            if (!body) return;
+
+            await github.rest.pulls.createReview({
+              owner, repo,
+              pull_number: pr_id,
+              event: 'REQUEST_CHANGES',
+              body,
+            });
