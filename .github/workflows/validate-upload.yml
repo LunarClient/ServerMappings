@@ -43,8 +43,20 @@ jobs:
       pull-requests: read
 
     steps:
-      - name: Checkout from GitHub
+      # Trusted checkout: scripts and schemas come from the base ref so a PR
+      # cannot alter the validator (e.g. fabricating pr_results.json as
+      # "ready") to bypass validation in the trusted feedback workflow.
+      - name: Checkout trusted base
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref || github.ref }}
+
+      - name: Checkout PR contents (untrusted)
+        if: github.event_name == 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr-contents
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -55,12 +67,13 @@ jobs:
         run: pip install -r .scripts/requirements.txt
 
       - name: Validate Servers
+        working-directory: ${{ github.event_name == 'pull_request' && 'pr-contents' || '.' }}
         run: |
-          python .scripts/validate.py \
+          python "${GITHUB_WORKSPACE}/.scripts/validate.py" \
           --servers_dir servers \
-          --metadata_schema metadata.schema.json \
+          --metadata_schema "${GITHUB_WORKSPACE}/metadata.schema.json" \
           --inactive_file inactive.json \
-          --inactive_schema inactive.schema.json \
+          --inactive_schema "${GITHUB_WORKSPACE}/inactive.schema.json" \
           --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
@@ -72,7 +85,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: pr-results
-          path: pr_results.json
+          path: pr-contents/pr_results.json
           if-no-files-found: ignore
 
   upload-servers:

@@ -68,7 +68,7 @@ def remove_ready_label(repo: str, pr_number: int, token: str) -> None:
     res = gh_request(
         "DELETE", f"/repos/{repo}/issues/{pr_number}/labels/{encoded}", token
     )
-    if res.status_code not in (200, 404):
+    if res.status_code not in (200, 204, 404):
         res.raise_for_status()
 
 

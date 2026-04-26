@@ -124,7 +124,7 @@ def post_comment(messages: dict[str, list[str]]):
     """
     pull_id = os.getenv("PR_ID")
     if not pull_id:
-        print("Errors happened but there was no PR_ID found..?")
+        print("Errors happened but there was no PR_ID found.")
         print(messages)
         return
 
