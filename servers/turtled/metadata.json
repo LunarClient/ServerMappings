@@ -4,9 +4,7 @@
     "store": "https://turtledpvp.tebex.io/",
     "description": "A Minecraft PvP Practice server!",
     "addresses": [
-        "turtled.net",
-        "eu.turtled.net",
-        "na.turtled.net"
+        "turtled.net"
     ],
     "primaryAddress": "eu.turtled.net",
     "primaryColor": "#96f916",
