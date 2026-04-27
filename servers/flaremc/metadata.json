@@ -30,5 +30,19 @@
         "twitter": "FlareMCorg",
         "discord": "https://discord.com/invite/FlareMC"
     },
-    "crossplay": true
+    "crossplay": true,
+    "presentationVideo":"https://www.youtube.com/watch?v=lL54spfSAOM",
+    "votingLinks": [
+        "https://vote1.flaremc.org",
+        "https://vote2.flaremc.org",
+        "https://vote3.flaremc.org",
+        "https://vote4.flaremc.org",
+        "https://vote5.flaremc.org",
+        "https://vote6.flaremc.org",
+        "https://vote7.flaremc.org"
+    ],
+    "compliance": {
+        "rules": "https://rules.flaremc.org",
+        "support": "https://discord.gg/flaremc"
+    }
 }
