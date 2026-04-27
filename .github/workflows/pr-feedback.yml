@@ -1,0 +1,49 @@
+name: Post validation feedback
+
+on:
+  workflow_run:
+    workflows: ["Validate and upload"]
+    types:
+      - completed
+
+jobs:
+  feedback:
+    name: Post validation feedback
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+      issues: write
+      actions: read
+      contents: read
+
+    steps:
+      - name: Checkout from GitHub
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Python dependencies
+        run: pip install -r .scripts/requirements.txt
+
+      - name: Download validation results
+        id: download
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-results
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Post validation feedback
+        run: python .scripts/post_pr_feedback.py
+        env:
+          BOT_PAT: ${{ secrets.BOT_PAT }}
+          DOWNLOAD_OUTCOME: ${{ steps.download.outcome }}
+          WORKFLOW_RUN_CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          WORKFLOW_RUN_HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+          WORKFLOW_RUN_PULL_REQUESTS: ${{ toJSON(github.event.workflow_run.pull_requests) }}
