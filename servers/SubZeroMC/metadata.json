@@ -5,9 +5,9 @@
     "store": "https://shop.subzeromc.com",
     "description": "Java & Bedrock SMP. chill vibes, serious gameplay.",
     "addresses": [
-        "play.subzeromc.com"
+        "subzeromc.com"
     ],
-    "primaryAddress": "play.subzeromc.com",
+    "primaryAddress": "subzeromc.com",
     "primaryColor": "#4D8FDF",
     "secondaryColor": "#75a2d5",
     "minecraftVersions": [
@@ -28,6 +28,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://www.subzeromc.com/discord"
+        "discord": "https://discord.gg/AJxxMytfHR"
     }
 }
