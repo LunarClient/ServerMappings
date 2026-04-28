@@ -2,7 +2,7 @@
     "id": "flaremc",
     "name": "FlareMC",
     "store": "https://store.flaremc.org/",
-    "description": "Play Minigames, Survival, and more on FlareMC.",
+    "description": "Play Lifesteal, Survival, and 24/7 Events on FlareMC!",
     "addresses": [
         "flaremc.org",
         "vflnetwork.com"
@@ -11,11 +11,12 @@
     "primaryColor": "#f8cd0a",
     "secondaryColor": "#e65701",
     "minecraftVersions": [
-        "1.12.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -26,7 +27,22 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "FlareMC",
-        "discord": "https://discord.com/invite/PYe7xwyUr7"
+        "twitter": "FlareMCorg",
+        "discord": "https://discord.com/invite/FlareMC"
+    },
+    "crossplay": true,
+    "presentationVideo":"lL54spfSAOM",
+    "votingLinks": [
+        "https://vote1.flaremc.org",
+        "https://vote2.flaremc.org",
+        "https://vote3.flaremc.org",
+        "https://vote4.flaremc.org",
+        "https://vote5.flaremc.org",
+        "https://vote6.flaremc.org",
+        "https://vote7.flaremc.org"
+    ],
+    "compliance": {
+        "rules": "https://rules.flaremc.org",
+        "support": "https://discord.gg/flaremc"
     }
 }
