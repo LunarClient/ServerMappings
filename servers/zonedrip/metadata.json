@@ -1,0 +1,44 @@
+{
+    "id": "zonedrip",
+    "name": "Zoned",
+    "description": "The best BoxSMP Server!",
+    "addresses": [
+        "zoned.rip",
+        "play.zoned.rip",
+        "dev.zoned.rip"
+    ],
+    "primaryAddress": "zoned.rip",
+    "minecraftVersions": [
+        "1.21.*",
+        "21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#56F346",
+    "secondaryColor": "#79FA6C",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "SMP"
+    ],
+    "website": "https://www.zoned.rip/",
+    "store": "https://store.zoned.rip/",
+    "compliance": {
+        "privacyPolicy": "https://www.zoned.rip/privacy",
+        "termsOfService": "https://www.zoned.rip/terms",
+    },
+    "presentationVideo": "",
+    "socials": {
+        "discord": "https://discord.gg/zonedrip"
+    },
+    "crossplay": true
+}
