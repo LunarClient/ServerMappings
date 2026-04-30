@@ -17,7 +17,10 @@
   "languages": ["th", "en"],
   "gameTypes": ["PvP", "Hardcore", "Survival", "Skyblock", "Minigames", "Open World", "Roleplay"],
   "socials": {
-    "discord": "https://discord.gg/dojosmp"
+    "discord": "https://discord.gg/dojosmp",
+    "youtube": "https://www.youtube.com/@dojosmp",
+    "tiktok": "https://www.tiktok.com/@dojosmp",
+    "facebook": "https://www.facebook.com/dojosmp"
   },
   "votingLinks": ["https://playserver.in.th/index.php/Server/DoJoSMP-107344"]
 }
