@@ -1,0 +1,23 @@
+{
+  "id": "dojosmp",
+  "name": "DojoSMP",
+  "website": "https://www.dojosmp.net/",
+  "store": "https://store.dojosmp.net/",
+  "description": "A cross-platform network with Survival, Skyblock, Oneblock, and Minigames. Join our friendly community and experience the best of Minecraft on DojoSMP! Java & Bedrock Supported.",
+  "addresses": ["dojosmp.net"],
+  "primaryAddress": "play.dojosmp.net",
+  "primaryColor": "#A000FF",
+  "secondaryColor": "#00F7FF",
+  "minecraftVersions": ["1.21.*", "26.*"],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "primaryLanguage": "th",
+  "languages": ["th", "en"],
+  "gameTypes": ["PvP", "Hardcore", "Survival", "Skyblock", "Minigames", "Open World", "Roleplay"],
+  "socials": {
+    "discord": "https://discord.gg/dojosmp"
+  },
+  "votingLinks": ["https://playserver.in.th/index.php/Server/DoJoSMP-107344"]
+}
