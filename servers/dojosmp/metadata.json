@@ -23,5 +23,8 @@
     "facebook": "https://www.facebook.com/dojosmp",
     "instagram": "https://www.instagram.com/dojosmp"
   },
+  "compliance": {
+    "rules": "https://dojosmp.net/rules"
+  },
   "votingLinks": ["https://playserver.in.th/index.php/Server/DoJoSMP-107344"]
 }
