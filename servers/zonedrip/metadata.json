@@ -3,9 +3,7 @@
     "name": "Zoned",
     "description": "The best BoxSMP Server!",
     "addresses": [
-        "zoned.rip",
-        "play.zoned.rip",
-        "dev.zoned.rip"
+        "zoned.rip"
     ],
     "primaryAddress": "zoned.rip",
     "minecraftVersions": [
@@ -27,7 +25,7 @@
         "SA"
     ],
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "website": "https://www.zoned.rip/",
     "store": "https://store.zoned.rip/",
