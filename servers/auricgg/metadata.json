@@ -2,24 +2,15 @@
     "id": "auricgg",
     "name": "Auric Network",
     "store": "https://auric-networks.tebex.io/",
-    "addresses": [
-        "auric.gg"
-    ],
+    "addresses": ["auric.gg"],
     "primaryAddress": "auric.gg",
     "primaryColor": "#d6c20f",
     "secondaryColor": "#d6fc00",
-    "minecraftVersions": [
-        "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.18.2",
+    "minecraftVersions": ["1.21.*"],
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "OC",
-    "regions": [
-        "OC"
-    ],
-    "gameTypes": [
-        "PvP",
-        "Minigames"
-    ],
+    "regions": ["OC"],
+    "gameTypes": ["PvP", "Minigames"],
     "socials": {
         "discord": "https://discord.gg/4AzC8dG97F"
     }
