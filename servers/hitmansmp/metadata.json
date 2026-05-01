@@ -3,8 +3,13 @@
   "name": "HitmanSMP",
   "addresses": ["hitmansmp.xyz"],
   "primaryAddress": "hitmansmp.xyz",
-  "minecraftVersions": ["1.21"],
+  "minecraftVersions": ["1.21.*"],
+  "primaryMinecraftVersion": "1.21.1",
   "primaryColor": "#FF0000",
   "secondaryColor": "#1a1a2e",
-  "primaryRegion": "AS"
+  "primaryLanguage": "id",
+  "languages": ["id"],
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "gameTypes": ["SMP", "PvP"]
 }
