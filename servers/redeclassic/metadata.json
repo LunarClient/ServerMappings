@@ -2,6 +2,7 @@
     "id": "redeclassic",
     "name": "Rede Classic",
     "store": "https://loja.redeclassic.net/",
+    "description": "Test your combat skills on Rede Classic.",
     "addresses": [
         "redeclassic.net"
     ],

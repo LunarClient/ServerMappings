@@ -3,6 +3,7 @@
     "name": "BoxPvP Network",
     "website": "https://www.boxpvp.com/",
     "store": "http://store.boxpvp.net/",
+    "description": "Test your combat skills on BoxPvP Network.",
     "addresses": [
         "boxpvp.net"
     ],
