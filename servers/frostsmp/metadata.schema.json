@@ -1,0 +1,33 @@
+{
+  "id": "frostsmp",
+  "name": "frostsmp",
+  "description": "De officiele FrostSMP Minecraft server",
+  "addresses": [
+    "play.frostnetwork.nl"
+  ],
+  "primaryAddress": "play.frostnetwork.nl",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#00FBFF",
+  "secondaryColor": "#0051FF",
+  "primaryLanguage": "nl",
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "website": "https://frostnetwork.nl",
+  "store": "https://store.frostnetwork.nl",
+  "socials": {
+    "discord": "https://discord.gg/frostnetwork"
+  }
+}
