@@ -1,0 +1,27 @@
+{
+    "id": "NexusGS",
+    "name": "NexusGS",
+    "store": "https://shop.nexusgs.top/",
+    "description": "¡Explora en nuestro servidor!",
+    "addresses": [
+        "mc.nexusgs.top"
+    ],
+    "primaryAddress": "mc.nexusgs.top",
+    "primaryColor": "#7D2181",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryRegion": "ES",
+    "regions": [
+        "ES"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
