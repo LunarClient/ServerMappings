@@ -3,7 +3,7 @@
     "name": "Sunny SMP",
     "description": "Unique peaceful survival experience!",
     "addresses": [
-        "sunnysmp.net",
+        "sunnysmp.net"
     ],
     "primaryAddress": "sunnysmp.net",
     "minecraftVersions": [
@@ -19,7 +19,7 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
+        "NA"
     ],
     "gameTypes": [
         "Survival"
