@@ -2,6 +2,7 @@
     "id": "minerival",
     "name": "Minerival",
     "store": "https://store.minerival.org/",
+    "description": "Experience survival gameplay on Minerival.",
     "addresses": [
         "minerival.org"
     ],

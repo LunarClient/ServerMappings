@@ -1,6 +1,7 @@
 {
     "id": "hopemc",
     "name": "HopeMC",
+    "description": "Play exciting minigames on HopeMC.",
     "addresses": [
         "hopemc.us"
     ],

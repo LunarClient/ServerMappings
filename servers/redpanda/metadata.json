@@ -1,0 +1,35 @@
+{
+    "id": "redpanda",
+    "name": "RedPandaMC",
+    "description": "Panda supporters",
+    "addresses": [
+        "vinlandmc.fun"
+    ],
+    "primaryAddress": "play.vinlandmc.fun",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "youtube": "@redpandamcaz",
+        "instagram": "redpandamc.az",
+        "tiktok": "@redpandamc.az",
+        "discord": "https://discord.gg/redpandamc"
+    },
+    "crossplay": false
+}
