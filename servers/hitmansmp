@@ -1,0 +1,10 @@
+{
+  "id": "hitmansmp",
+  "name": "HitmanSMP",
+  "addresses": ["play.hitmansmp.com"],
+  "primaryAddress": "play.hitmansmp.com",
+  "minecraftVersions": ["1.21"],
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#1a1a2e",
+  "primaryRegion": "AS"
+}
