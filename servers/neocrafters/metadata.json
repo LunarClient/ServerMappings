@@ -18,7 +18,9 @@
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "SA",
+        "EU"
     ],
     "primaryLanguage": "es-EN",
     "languages": [
@@ -26,10 +28,11 @@
     ],
     "gameTypes": [
         "Survival",
-        "FFA"
+        "PvP"
     ],
     "socials": {
         "twitter": "neocraftersntw",
+        "tiktok": "@neocraftersntw",
         "discord": "https://discord.gg/QG5jypgjTV"
     }
 }
