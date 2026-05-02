@@ -1,6 +1,7 @@
 {
     "id": "polarismc",
     "name": "PolarisMC",
+    "description": "Play PvP and Factions on PolarisMC.",
     "addresses": [
         "polarismc.fun"
     ],

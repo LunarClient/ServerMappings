@@ -1,6 +1,7 @@
 {
     "id": "bestpvp",
     "name": "BestPVP",
+    "description": "Sharpen your skills on a Hungarian PvP battleground.",
     "addresses": [
         "bestpvp.hu"
     ],

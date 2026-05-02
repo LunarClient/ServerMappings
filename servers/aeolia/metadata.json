@@ -1,0 +1,50 @@
+{
+    "id": "aeolia",
+    "name": "Aeolia",
+    "description": "Economy SMP, creative, and KitPVP",
+    "addresses": [
+        "aeolia.xyz",
+        "asheiou.cymru",
+        "asheiou.uk"
+    ],
+    "primaryAddress": "aeolia.xyz",
+    "minecraftVersions": [
+       "1.17.*",
+       "1.18.*",
+       "1.19.*",
+       "1.20.*",
+       "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryColor": "#f63fff",
+    "secondaryColor": "#8521e2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "PvP"
+    ],
+    "website": "https://aeolia.xyz",
+    "store": "https://aeolia.craftingstore.net",
+    "compliance": {
+        "privacyPolicy": "https://aeolia.xyz/privacy",
+        "rules": "https://aeolia.xyz/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/fhaTRMerZ9"
+    },
+    "crossplay": true
+}

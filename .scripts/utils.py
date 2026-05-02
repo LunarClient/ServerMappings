@@ -24,7 +24,6 @@ MAJOR_ALL: dict[str, list[str]] = {
     "26.*": ["26.1", "26.1.1", "26.1.2"]
 }
 
-
 def _file_hash(path: str) -> str:
     """Compute SHA1 hash of a file's contents."""
     with open(path, "rb") as f:
@@ -202,14 +201,18 @@ def get_edited_servers():
         print("No pull request id found. Unable to get edited servers")
         return edited_server_ids
 
+    token = os.getenv("GITHUB_TOKEN")
     res = requests.get(
-            f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
-            headers={
-                "accept": "application/vnd.github+json",
-                "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
-            }
-        )
+        f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
+        headers={
+            "accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {token}",
+        },
+        timeout=30,
+    )
     
+    res.raise_for_status()
+
     for file in res.json():
         file_name: str = file['filename']
         if not file_name.startswith("servers/"):

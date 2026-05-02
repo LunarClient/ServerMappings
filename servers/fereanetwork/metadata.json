@@ -1,6 +1,7 @@
 {
     "id": "fereanetwork",
     "name": "Ferea Network",
+    "description": "Play Survival and Adventure on Ferea Network.",
     "addresses": [
         "ferea.net"
     ],
