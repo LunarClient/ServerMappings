@@ -18,9 +18,7 @@
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "SA",
-        "EU"
+        "NA"
     ],
     "primaryLanguage": "es-EN",
     "languages": [
