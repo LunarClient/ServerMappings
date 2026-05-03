@@ -2,6 +2,7 @@
     "id": "wildpvp",
     "name": "WildPvP",
     "store": "https://store.wildpvp.cc",
+    "description": "Hardcore factions on WildPvP.",
     "addresses": [
         "wildpvp.cc"
     ],
