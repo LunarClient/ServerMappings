@@ -1,6 +1,7 @@
 {
     "id": "snidercraftnetwork",
     "name": "SniderCraft Network",
+    "description": "A Spanish-speaking network with Survival, Prison, and Minigames.",
     "store": "https://tienda.snidermc.online/",
     "addresses": [
         "snidermc.online"

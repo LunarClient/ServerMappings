@@ -1,6 +1,7 @@
 {
     "id": "embersmp",
     "name": "EmberSMP",
+    "description": "A cross-platform Survival SMP with a passionate community.",
     "website": "https://embersmp.org/",
     "store": "https://store.embersmp.org/",
     "crossplay": true,

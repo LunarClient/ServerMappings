@@ -1,6 +1,7 @@
 {
     "id": "shysmp",
     "name": "ShySMP",
+    "description": "A cozy Survival SMP for the modern Minecraft era.",
     "store": "https://shop.shysmp.de/",
     "addresses": [
         "shysmp.de"

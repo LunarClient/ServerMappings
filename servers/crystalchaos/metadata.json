@@ -1,6 +1,7 @@
 {
     "id": "crystalchaos",
     "name": "CrystalChaos",
+    "description": "Cross-platform Survival with a chaotic crystal flair.",
     "store": "https://store.crystalchaos.net/",
     "addresses": [
         "crystalchaos.net"
