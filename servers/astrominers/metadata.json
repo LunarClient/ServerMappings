@@ -2,6 +2,7 @@
     "id": "astrominers",
     "name": "AstroMiners Network",
     "store": "https://tienda.astrominers.net/",
+    "description": "Play PvP, Survival, and more on AstroMiners Network.",
     "addresses": [
         "astrominers.net"
     ],

@@ -2,6 +2,7 @@
     "id": "oceprestige",
     "name": "Oceania Prestige",
     "store": "https://store.oceprestige.com/",
+    "description": "Test your combat skills on Oceania Prestige.",
     "addresses": [
         "oceprestige.net",
         "oceprestige.com"
