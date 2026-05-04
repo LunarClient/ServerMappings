@@ -1,11 +1,11 @@
 {
     "id": "moonbridge",
     "name": "MoonBridge",
-    "description": "Play Minigames on MoonBridge.",
+    "description": "Play Minigames and PvP on MoonBridge.",
     "addresses": [
-        "moonbridge.lightingggxd.ru"
+        "moonbridge.fun"
     ],
-    "primaryAddress": "moonbridge.lightingggxd.ru",
+    "primaryAddress": "moonbridge.fun",
     "primaryColor": "#00c5ff",
     "secondaryColor": "#000000",
     "minecraftVersions": [
@@ -22,7 +22,7 @@
     ],
     "gameTypes": [
         "Minigames",
-        "FastBuilder"
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/vCBZPu75sh"
