@@ -1,0 +1,55 @@
+{
+    "id": "ravixmc",
+    "name": "RavixMC",
+    "website": "https://ravixmc.com/",
+    "store": "https://store.ravixmc.com/",
+    "wiki": "https://ravixmc.com/support/guides",
+    "description": "RavixMC is where your next Minecraft adventure begins.",
+    "addresses": [
+        "ravixmc.com",
+        "ravixmc.net",
+        "ravix.gg"
+    ],
+    "primaryAddress": "play.ravixmc.com",
+    "primaryColor": "#1E69FF",
+    "secondaryColor": "#22D3EE",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "RavixMC",
+        "discord": "https://discord.gg/ravixmc",
+        "youtube": "@RavixMC",
+        "instagram": "ravixmc",
+        "twitch": "ravixmc",
+        "tiktok": "@ravixmc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://ravixmc.com/policies?tab=privacy",
+        "termsOfService": "https://ravixmc.com/policies?tab=tos",
+        "rules": "https://ravixmc.com/rules",
+        "support": "https://ravixmc.com/support"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#071226",
+            "upperColor": "#0E1B3D"
+        }
+    }
+}
