@@ -1,0 +1,45 @@
+{
+    "id": "vaebridge",
+    "name": "VaeBridge Oficial",
+    "description": "¡El mejor servidor latino de PvP!",
+    "addresses": [
+        "mc.vaebridge.com",
+        "vaebridge.minecraft.best"
+    ],
+    "primaryAddress": "mc.vaebridge.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#0000E5",
+    "secondaryColor": "#8d25ef",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en",
+        "pt"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://www.vaebridge.com",
+    "store": "https://vaebridge-shop.tebex.io/",
+    "compliance": {
+        "privacyPolicy": "https://www.vaebridge.com/informacion",
+        "termsOfService": "https://www.vaebridge.com/informacion",
+        "rules": "https://www.vaebridge.com/informacion"
+    },
+    "socials": {
+        "tiktok": "https://www.tiktok.com/@vaebridge?lang=es-419",
+        "discord": "https://discord.vaebridge.com"
+    },
+    "crossplay": false
+}
