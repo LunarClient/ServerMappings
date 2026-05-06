@@ -1,6 +1,7 @@
 {
     "id": "pvpsmash",
     "name": "PvPSmash",
+    "description": "Play Factions and PvP on PvPSmash.",
     "addresses": [
         "pvpsmash.xyz"
     ],

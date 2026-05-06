@@ -1,6 +1,7 @@
 {
     "id": "uti",
     "name": "UTI Network",
+    "description": "Play PvP and Survival on UTI Network.",
     "addresses": [
         "uti24.kr",
         "utipvp.kr"
