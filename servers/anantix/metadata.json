@@ -3,7 +3,7 @@
     "name": "Anantix Network",
     "website": "https://www.anantix.network/",
     "description": "Adventure, PvP, and Survival — multiple game modes await!",
-    "addresses": ["anantix.network"],
+    "addresses": ["play.anantix.network", "bedrock.anantix.network"],
     "primaryAddress": "play.anantix.network",
     "primaryColor": "#8faceb",
     "secondaryColor": "#3495eb",
