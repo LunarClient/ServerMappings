@@ -1,0 +1,35 @@
+{
+    "id": "anantix",
+    "name": "Anantix Network",
+    "website": "https://www.anantix.network/",
+    "description": "Experience multiple game modes in one server — Adventure, PvP, and Survival await you!",
+    "addresses": [
+        "play.anantix.network"
+    ],
+    "primaryAddress": "play.anantix.network",
+    "primaryColor": "#8faceb",
+    "secondaryColor": "#3495eb",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "th",
+    "languages": [
+        "th",
+        "en"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/SFWZjzxjDM",
+        "website": "https://www.anantix.network/"
+    }
+}
