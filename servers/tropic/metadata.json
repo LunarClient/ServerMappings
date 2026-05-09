@@ -1,6 +1,7 @@
 {
     "id": "tropic",
     "name": "Tropic Network",
+    "description": "A cross-platform tropical Survival experience.",
     "website": "https://tropic.gg/",
     "store": "https://store.tropic.gg/",
     "crossplay": true,
