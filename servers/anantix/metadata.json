@@ -4,7 +4,7 @@
     "website": "https://www.anantix.network/",
     "description": "Adventure, PvP, and Survival — multiple game modes await!",
     "addresses": ["play.anantix.network", "bedrock.anantix.network"],
-    "primaryAddress": "play.anantix.network",
+    "primaryAddress": "anantix.network",
     "primaryColor": "#8faceb",
     "secondaryColor": "#3495eb",
     "minecraftVersions": [
@@ -16,9 +16,8 @@
     "regions": [
         "AS"
     ],
-    "primaryLanguage": "th",
+    "primaryLanguage": "en",
     "languages": [
-        "th",
         "en"
     ],
     "gameTypes": [
