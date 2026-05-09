@@ -3,7 +3,8 @@
     "name": "Critical Network",
     "description": "A custom Minecraft SMP with adventures and unique mechanics.",
     "addresses": [
-        "criticalnetwork.top"
+        "criticalnetwork.top",
+        "192.168.1.113:19135"
     ],
     "primaryAddress": "criticalnetwork.top",
     "website": "https://criticalnetwork.top",
