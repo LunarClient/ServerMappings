@@ -1,0 +1,13 @@
+{
+  "id": "eclipsesmp",
+  "name": "Eclipse SMP",
+  "description": "Add EPSMP on bedrock to join!",
+  "addresses": [
+    "eclipsesmp.club"
+  ],
+  "primaryAddress": "eclipsesmp.club",
+  "logo": "logo.png",
+  "socials": {
+    "discord": "http://discord.com/invite/MUztNyH43a"
+  }
+}
