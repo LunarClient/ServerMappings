@@ -1,0 +1,23 @@
+{
+    "id": "smpaka",
+    "name": "smpaka",
+    "store": "",
+    "description": "Aqua & Yellow themed survival SMP experience.",
+    "addresses": [
+        "smpaka.com"
+    ],
+    "primaryAddress": "smpaka.com",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#FFFF00",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
