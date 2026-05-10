@@ -1,0 +1,29 @@
+{
+    "id": "cherrysmp",
+    "name": "CherrySMP",
+    "description": "A unique survival server with custom features",
+    "addresses": [
+        "cherrysmp.net"
+	"bedrock.cherrysmp.net
+    ],
+    "primaryAddress": "cherrysmp.net",
+    "minecraftVersions": [
+        "1.20._",
+        "1.21._"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FF70BD",
+    "secondaryColor": "#FF85C2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SMP",
+        "PvE"
+    ],
+    "crossplay": true,
+    "website": "https://cherrysmp.net",
+    "store": "https://store.cherrysmp.net"
+}
