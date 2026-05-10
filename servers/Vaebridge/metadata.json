@@ -1,9 +1,9 @@
 {
-    "id": "Vaebridge",
+    "id": "vaebridge",
     "name": "VaeSafio",
-    "description": "El mejor servidor latino de PvP!",
+    "description": "El mejor servidor latino de PvP",
     "addresses": [
-        "mc.vaebridge.com",
+        "vaebridge.com",
         "vaebridge.minecraft.best"
     ],
     "primaryAddress": "mc.vaebridge.com",
@@ -14,7 +14,7 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#0000E5",
     "secondaryColor": "#8d25ef",
-    "primaryLanguage": "es-ES",
+    "primaryLanguage": "es-419",
     "languages": [
         "es",
         "en",
@@ -38,7 +38,7 @@
         "rules": "https://www.vaebridge.com/informacion"
     },
     "socials": {
-        "tiktok": "https://www.tiktok.com/@vaebridge?is_from_webapp=1&sender_device=pc",
+        "tiktok": "https://www.tiktok.com/@vaebridge",
         "discord": "https://discord.gg/B2HQU2np"
     },
     "crossplay": false
