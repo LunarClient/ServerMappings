@@ -3,8 +3,8 @@
     "name": "CherrySMP",
     "description": "A unique survival server with custom features",
     "addresses": [
-        "cherrysmp.net"
-	"bedrock.cherrysmp.net
+        "cherrysmp.net",
+        "bedrock.cherrysmp.net"
     ],
     "primaryAddress": "cherrysmp.net",
     "minecraftVersions": [
@@ -19,9 +19,9 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival",
+        "SURVIVAL",
         "SMP",
-        "PvE"
+        "PVE"
     ],
     "crossplay": true,
     "website": "https://cherrysmp.net",
