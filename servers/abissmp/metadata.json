@@ -5,7 +5,7 @@
     "addresses": [
         "abissmp.eu"   
     ],
-    "primaryAddress": "abissmp.eu",
+    "primaryAddress": "mc.abissmp.eu",
     "minecraftVersions": [
         "1.16.*",
         "1.20.*",
