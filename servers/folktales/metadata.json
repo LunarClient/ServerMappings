@@ -9,9 +9,9 @@
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
-        "26.1.*"
+        "26.*"
     ],
-    "primaryMinecraftVersion": "26.1.1",
+    "primaryMinecraftVersion": "26.1.2",
     "primaryColor": "#FF8DEE",
     "secondaryColor": "#C47EFF",
     "primaryLanguage": "en",
