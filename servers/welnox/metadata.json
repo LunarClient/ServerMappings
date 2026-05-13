@@ -1,11 +1,15 @@
 {
     "id": "welnox",
     "name": "WelnoX",
+    "website": "https://welnox.club",
+    "store": "https://store.welnox.club",
     "description": "Home of the New players",
     "addresses": [
         "welnox.club"
     ],
     "primaryAddress": "play.welnox.club",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#ADD8E6",
     "minecraftVersions": [
         "1.16.*",
         "1.18.*",
@@ -13,8 +17,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
-    "primaryColor": "#00FFFF",
-    "secondaryColor": "#ADD8E6",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -23,11 +26,8 @@
         "PvP",
         "Skyblock"
     ],
-    "website": "https://welnox.club",
-    "store": "https://store.welnox.club",
     "socials": {
         "tiktok": "@welnox.club",
         "discord": "https://discord.com/invite/MPUJWaCjHY"
-    },
-    "crossplay": false
+    }
 }

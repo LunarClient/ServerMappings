@@ -1,7 +1,9 @@
 {
     "id": "bedfight",
     "name": "Bedfight Club",
+    "website": "https://bedfight.club",
     "store": "https://store.bedfight.club/",
+    "description": "Test your combat skills on Bedfight Club.",
     "addresses": [
         "bedfight.club"
     ],
@@ -9,10 +11,11 @@
     "primaryColor": "#00ffcd",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
-        "1.7.10", 
+        "1.7.10",
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "AS",
     "regions": [
         "AS"
@@ -24,9 +27,7 @@
     "gameTypes": [
         "PvP"
     ],
-        "website": "https://bedfight.club",
     "socials": {
         "discord": "https://discord.gg/bedfight"
-    },
-    "crossplay": false
+    }
 }

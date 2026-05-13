@@ -1,43 +1,37 @@
 {
     "id": "gratopia",
     "name": "Gratopia",
-    "description": "Vibrant Community - PG-13, Player Warps, Land Claims, Endless Fun!",
+    "store": "https://store.gratopia.gg",
+    "wiki": "https://wiki.gratopia.gg",
+    "description": "Gratopia is an economy survival server that supports both Java & Bedrock",
     "addresses": [
-      "gratopia.gg"
+        "gratopia.gg"
     ],
     "primaryAddress": "gratopia.gg",
+    "primaryColor": "#ffc940",
+    "secondaryColor": "#8c94ff",
     "minecraftVersions": [
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*",
-      "1.20.*",
-      "1.21.*"
+        "1.21.*",
+        "26.1"
     ],
-    "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#ffc048",
-    "secondaryColor": "#917acf",
-    "primaryLanguage": "en",
-    "languages": [
-      "en"
-    ],
+    "primaryMinecraftVersion": "26.1",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
-      "AF",
-      "AS",
-      "EU",
-      "NA",
-      "OC",
-      "SA"
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
-      "Survival"
+        "Survival",
+        "PvP",
+        "Adventure"
     ],
-    "wiki": "https://wiki.gratopia.gg",
-    "store": "https://store.gratopia.gg",
     "socials": {
-      "discord": "https://discord.gg/gratopia",
-      "tiktok": "@gratopia.gg"
-    },
-    "crossplay": true
-  }
+        "discord": "https://discord.gg/gratopia",
+        "tiktok": "@gratmc"
+    }
+}

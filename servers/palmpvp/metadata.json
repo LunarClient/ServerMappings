@@ -2,23 +2,24 @@
     "id": "palmpvp",
     "name": "PalmPvP",
     "store": "https://store.palmpvp.com/",
+    "description": "Build your faction and conquer on PalmPvP.",
     "addresses": [
         "palmpvp.com"
     ],
     "primaryAddress": "palmpvp.com",
+    "primaryColor": "#FFA500",
+    "secondaryColor": "#FFFF00",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFA500",
-    "secondaryColor": "#FFFF00",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Factions"

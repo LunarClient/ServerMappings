@@ -1,26 +1,26 @@
 {
     "id": "angelsky",
     "name": "AngelSky",
-    "description": "Discover Skyblock in a different way",
     "store": "https://store.angelsky.fr/",
+    "description": "Discover Skyblock in a different way",
     "addresses": [
         "angelsky.fr"
     ],
     "primaryAddress": "play.angelsky.fr",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#0dcaf0",
     "minecraftVersions": [
         "1.18.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.18.2",
-    "primaryColor": "#e67e22",
-    "secondaryColor": "#0dcaf0",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "Skyblock"

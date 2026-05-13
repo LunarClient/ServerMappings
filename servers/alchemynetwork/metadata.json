@@ -1,6 +1,7 @@
 {
     "id": "alchemynetwork",
     "name": "Alchemy Network",
+    "website": "https://www.alchemynetwork.net",
     "description": "Fun you find here!",
     "addresses": [
         "alchemynetwork.net"
@@ -20,7 +21,6 @@
     "gameTypes": [
         "Prison"
     ],
-	"website": "https://www.alchemynetwork.net",
     "socials": {
         "discord": "https://discord.gg/QmegrkypzZ"
     }

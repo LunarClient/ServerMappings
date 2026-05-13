@@ -2,11 +2,14 @@
     "id": "minebolt",
     "name": "MineBolt Network",
     "store": "https://tienda.minebolt.es/",
+    "description": "Play Survival and PvP on MineBolt Network.",
     "addresses": [
         "minebolt.es",
         "minebolt.net"
     ],
     "primaryAddress": "minebolt.es",
+    "primaryColor": "#6CF70C",
+    "secondaryColor": "#0CF7F0",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,8 +20,6 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#6CF70C",
-    "secondaryColor": "#0CF7F0",
     "gameTypes": [
         "Survival",
         "PvP"

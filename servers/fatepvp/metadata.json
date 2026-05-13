@@ -2,8 +2,8 @@
     "id": "fatepvp",
     "name": "FatePvP",
     "website": "https://fatepvp.com",
-    "description": "A Competitive Factions Server",
     "store": "https://store.fatepvp.com",
+    "description": "A Competitive Factions Server",
     "addresses": [
         "fatepvp.com"
     ],
@@ -24,12 +24,12 @@
     "regions": [
         "NA"
     ],
-    "gameTypes": [
-        "Factions"
-    ],
     "primaryLanguage": "en",
     "languages": [
         "en"
+    ],
+    "gameTypes": [
+        "Factions"
     ],
     "socials": {
         "twitter": "FatePvP",

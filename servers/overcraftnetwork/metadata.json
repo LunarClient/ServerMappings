@@ -1,0 +1,36 @@
+{
+    "id": "overcraftnetwork",
+    "name": "OverCraft Network",
+    "website": "https://overcraftmc.com/",
+    "store": "https://overcraft-store.tebex.io/",
+    "description": "Server focused on the gameplay and performance of Minecraft players",
+    "addresses": [
+        "overcraftmc.com"
+    ],
+    "primaryAddress": "play.overcraftmc.com",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "1.21.7"
+    ],
+    "primaryMinecraftVersion": "1.21.7",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "socials": {
+        "tiktok": "@overcraftntw",
+        "discord": "https://discord.gg/WGvGzZZHWH"
+    }
+}

@@ -8,6 +8,8 @@
         "westramc.fr"
     ],
     "primaryAddress": "play.westramc.fr",
+    "primaryColor": "#ff7e07",
+    "secondaryColor": "#f4ca16",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -17,15 +19,13 @@
         "1.18.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff7e07",
-    "secondaryColor": "#f4ca16",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",

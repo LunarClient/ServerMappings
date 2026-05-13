@@ -2,9 +2,8 @@
     "id": "warkannetwork",
     "name": "Warkan Network",
     "website": "https://warkan.net/",
-    "wiki": "https://wiki.warkan.net/",
     "store": "https://tienda.warkan.net/",
-    "presentationVideo": "PBzJHvGgFE8",
+    "wiki": "https://wiki.warkan.net/",
     "description": "Server focused on custom Survival modes.",
     "addresses": [
         "warkan.net"
@@ -38,6 +37,7 @@
         "tiktok": "@warkannetwork",
         "youtube": "@warkannetwork"
     },
+    "presentationVideo": "PBzJHvGgFE8",
     "votingLinks": [
         "https://www.40servidoresmc.es/warkan-network",
         "https://www.planetminecraft.com/server/warkan-network",

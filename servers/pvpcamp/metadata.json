@@ -7,21 +7,21 @@
         "pvp.camp"
     ],
     "primaryAddress": "pvp.camp",
+    "primaryColor": "#daa520",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#daa520",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"

@@ -1,8 +1,8 @@
 {
     "id": "mcsg",
     "name": "MCSG",
-    "description": "The only minecraft server of its kind in Poland!",
     "store": "https://mcsg.pl/",
+    "description": "The only minecraft server of its kind in Poland!",
     "addresses": [
         "mcsg.pl"
     ],
@@ -15,6 +15,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -32,6 +33,5 @@
         "discord": "https://discord.gg/mcsg-pl-1129896160644055186",
         "facebook": "mcsgpl",
         "tiktok": "@mcsgpl"
-    },
-    "crossplay": false
+    }
 }

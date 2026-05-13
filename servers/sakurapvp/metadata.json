@@ -19,13 +19,13 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "languages": [
-        "es-EN"
-    ],
     "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",

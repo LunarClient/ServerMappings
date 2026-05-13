@@ -1,0 +1,35 @@
+{
+    "id": "kohi",
+    "name": "Kohi",
+    "website": "https://kohi.net",
+    "description": "A PvP server like no other",
+    "addresses": [
+        "kohi.us",
+        "kohi.net"
+    ],
+    "primaryAddress": "kohi.us",
+    "primaryColor": "#4a4a4a",
+    "secondaryColor": "#262626",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "KohiNetwork",
+        "discord": "https://discord.gg/kohinetwork",
+        "reddit": "kohi"
+    }
+}

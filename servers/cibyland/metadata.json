@@ -1,11 +1,14 @@
 {
     "id": "cibyland",
     "name": "Cibyland Network",
+    "store": "https://tienda.cibyland.org/",
     "description": "play unique and amazing boxpvp",
     "addresses": [
         "cibyland.org"
     ],
     "primaryAddress": "cibyland.org",
+    "primaryColor": "#46d8ff",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.16.5",
         "1.17.*",
@@ -15,26 +18,23 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
-    "primaryColor": "#46d8ff",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
-    "store": "https://tienda.cibyland.org/",
     "socials": {
         "discord": "https://discord.com/invite/kAW4sdxQm5"
-    },
-    "crossplay": true
+    }
 }

@@ -2,6 +2,7 @@
     "id": "miguverse",
     "name": "MiguVerse",
     "store": "https://tienda.miguvt.com/",
+    "description": "Play Survival and Skyblock on MiguVerse.",
     "addresses": [
         "miguvt.com"
     ],
@@ -15,11 +16,15 @@
         "1.19.*",
         "1.20.*"
     ],
-    "crossplay": true,
     "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "Survival",
@@ -28,9 +33,5 @@
     "socials": {
         "twitter": "MiguVerse",
         "discord": "https://discord.com/invite/GQrKehchqz"
-    },
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ]
+    }
 }

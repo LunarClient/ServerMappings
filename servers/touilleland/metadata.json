@@ -1,19 +1,19 @@
 {
     "id": "touilleland",
     "name": "TouilleLand",
+    "description": "The Nat0uille community server.",
     "addresses": [
         "nat0uille.com",
         "alinium.fr"
     ],
     "primaryAddress": "play.nat0uille.com",
-    "description": "The Nat0uille community server.",
+    "primaryColor": "#124e89",
+    "secondaryColor": "#0099db",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
     "crossplay": false,
-    "primaryColor": "#124e89",
-    "secondaryColor": "#0099db",
     "primaryRegion": "EU",
     "regions": [
         "EU"

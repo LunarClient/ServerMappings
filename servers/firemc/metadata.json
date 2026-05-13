@@ -2,6 +2,7 @@
     "id": "firemc",
     "name": "FireMC Network",
     "store": "https://store.firemc.us/",
+    "description": "Play HCF and PvP on FireMC Network.",
     "addresses": [
         "firemc.us"
     ],

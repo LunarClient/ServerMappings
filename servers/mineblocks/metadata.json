@@ -1,0 +1,45 @@
+{
+    "id": "mineblocks",
+    "name": "MineBlocks",
+    "website": "https://mineblocks.fr",
+    "store": "https://store.mineblocks.fr",
+    "wiki": "https://mineblocks.fr/wiki",
+    "description": "French OneBlock, start on one block, face phases, bosses, quests.",
+    "addresses": [
+        "mineblocks.fr"
+    ],
+    "primaryAddress": "play.mineblocks.fr",
+    "primaryColor": "#e67e22",
+    "secondaryColor": "#e94560",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Roleplay",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mineblocks",
+        "youtube": "@MineblocksFR",
+        "tiktok": "@mineblocks.fr"
+    },
+    "compliance": {
+        "termsOfService": "https://mineblocks.fr/cgu"
+    },
+    "presentationVideo": "gpxtmw8sZQ0"
+}

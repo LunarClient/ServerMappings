@@ -1,43 +1,42 @@
 {
-  "id": "hypenetwork",
-  "name": "HypeNetwork",
-  "website": "https://hypenetwork.fr/",
-  "store": "https://boutique.hypenetwork.fr/",
-  "description": "Skyblock, Prison and Survival server with a custom TexturePack!",
-  "addresses": [
-    "hypenetwork.fr"
-  ],
-  "primaryAddress": "play.hypenetwork.fr",
-  "minecraftVersions": [
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*"
-  ],
-  "primaryMinecraftVersion": "1.16.5",
-  "primaryColor": "#EAE60F",
-  "secondaryColor": "#0FC5EA",
-  "primaryLanguage": "fr",
-  "languages": [
-    "fr",
-    "en"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Skyblock",
-    "Prison",
-    "Survival"
-  ],
-
-  "socials": {
-    "twitter": "HypeNetworkFR",
-    "tiktok": "@hypenetwork_",
-    "youtube": "hypenetworkfr",
-    "discord": "https://discord.gg/hypenetwork"
-  },
-  "crossplay": false
+    "id": "hypenetwork",
+    "name": "HypeNetwork",
+    "website": "https://hypenetwork.fr/",
+    "store": "https://boutique.hypenetwork.fr/",
+    "description": "Skyblock, Prison and Survival server with a custom TexturePack!",
+    "addresses": [
+        "hypenetwork.fr"
+    ],
+    "primaryAddress": "play.hypenetwork.fr",
+    "primaryColor": "#EAE60F",
+    "secondaryColor": "#0FC5EA",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.16.5",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "twitter": "HypeNetworkFR",
+        "tiktok": "@hypenetwork_",
+        "youtube": "hypenetworkfr",
+        "discord": "https://discord.gg/hypenetwork"
+    }
 }

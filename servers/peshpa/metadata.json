@@ -1,0 +1,54 @@
+{
+    "id": "peshpa",
+    "name": "Peshpa",
+    "website": "https://peshpa.eu",
+    "store": "https://shop.peshpa.eu",
+    "description": "peshpa.eu - Minecraft Practice server, made by the best for the best.",
+    "addresses": [
+        "peshpa.eu",
+        "peshpa.pl"
+    ],
+    "primaryAddress": "peshpa.eu",
+    "primaryColor": "#DE8A5C",
+    "secondaryColor": "#C8566F",
+    "minecraftVersions": [
+        "1.18.2",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/muwSR8ND53",
+        "youtube": "@peshpaeu",
+        "instagram": "peshpaeu",
+        "tiktok": "@peshpaeu"
+    },
+    "compliance": {
+        "rules": "https://peshpa.eu/rules"
+    },
+    "votingLinks": [
+        "https://minecraftservers.org/server/123456",
+        "https://topg.org/minecraft-servers/server/123456"
+    ]
+}

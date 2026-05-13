@@ -7,22 +7,22 @@
         "seiky.net"
     ],
     "primaryAddress": "seiky.net",
+    "primaryColor": "#FCA634",
+    "secondaryColor": "#FFE9b7",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.6",
-    "primaryColor": "#FCA634",
-    "secondaryColor": "#FFE9b7",
-    "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "Minigames"
-    ],
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.gg/wVQBGvhvFf"

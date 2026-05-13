@@ -1,9 +1,9 @@
 {
     "id": "skyevel",
     "name": "SkyEvel",
-    "description": "Vibrant worlds, endless possibilities.",
     "website": "https://skyevel.com/",
     "store": "https://store.skyevel.com/",
+    "description": "Vibrant worlds, endless possibilities.",
     "addresses": [
         "minezone.hu",
         "skyevel.com"

@@ -2,22 +2,21 @@
     "id": "europemc",
     "name": "EuropeMC",
     "store": "https://store.europemc.eu/",
-    "description": "Play on EuropeMC for Survival, Events & Competitive PvP!",
+    "description": "The largest European Crystal PVP survival server!",
     "addresses": [
         "europemc.eu"
     ],
     "primaryAddress": "europemc.eu",
-    "primaryColor": "#4cb5f6",
-    "secondaryColor": "#011c47",
+    "primaryColor": "#51A3E5",
+    "secondaryColor": "#79B4E4",
     "minecraftVersions": [
-        "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.4",
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
@@ -25,10 +24,13 @@
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en"
+        "en",
+        "nl"
     ],
     "gameTypes": [
-        "Survival"
+        "PvP",
+        "Survival",
+        "Open World"
     ],
     "socials": {
         "discord": "https://discord.com/invite/europemc"

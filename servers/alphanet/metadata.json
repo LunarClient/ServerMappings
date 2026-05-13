@@ -1,0 +1,39 @@
+{
+    "id": "alphanet",
+    "name": "AlphaNet",
+    "description": "AlphaNet is an international Minecraft Network",
+    "addresses": [
+        "alphanet.gg"
+    ],
+    "primaryAddress": "alphanet.gg",
+    "primaryColor": "#357A03",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/alphanetwork"
+    }
+}

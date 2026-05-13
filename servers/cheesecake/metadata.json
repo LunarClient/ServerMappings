@@ -1,13 +1,14 @@
 {
     "id": "cheesecake",
     "name": "Cheesecake SMP",
-    "website": "https://m.cheesecakemc.xyz/",
-    "store": "https://store.cheesecakemc.xyz/",
+    "website": "https://cheesecake.gg/",
+    "store": "https://store.cheesecake.gg/",
     "description": "Play on the best cross-platform SMP!",
     "addresses": [
+        "cheesecake.gg",
         "cheesecakemc.xyz"
     ],
-    "primaryAddress": "cheesecakemc.xyz",
+    "primaryAddress": "mc.cheesecake.gg",
     "primaryColor": "#E77AC0",
     "secondaryColor": "#4D1D3C",
     "minecraftVersions": [

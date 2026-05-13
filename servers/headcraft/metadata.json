@@ -2,16 +2,13 @@
     "id": "headcraft",
     "name": "HeadCraft",
     "store": "https://tienda.headcraft.es/",
+    "description": "Play PvP and Minigames on HeadCraft.",
     "addresses": [
         "headcraft.es"
     ],
+    "primaryAddress": "headcraft.es",
     "primaryColor": "#b50000",
     "secondaryColor": "#ffa6a6",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
-    "primaryAddress": "headcraft.es",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -24,6 +21,10 @@
     "regions": [
         "NA",
         "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",

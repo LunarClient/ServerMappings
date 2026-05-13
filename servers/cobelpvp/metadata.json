@@ -5,7 +5,7 @@
     "store": "https://cobelpvp.tebex.io/",
     "description": "The best 2016 PvP Experience.",
     "addresses": [
-      "cobelpvp.com"
+        "cobelpvp.com"
     ],
     "primaryAddress": "cobelpvp.com",
     "primaryColor": "#FFAA00",
@@ -15,13 +15,13 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
     ],
     "gameTypes": [
         "PvP",
@@ -29,7 +29,7 @@
         "Factions"
     ],
     "socials": {
-      "twitter": "CobelPvPNetwork",
-      "discord": "https://discord.gg/aUAKqkBkb9"
+        "twitter": "CobelPvPNetwork",
+        "discord": "https://discord.gg/aUAKqkBkb9"
     }
 }

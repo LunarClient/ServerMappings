@@ -2,6 +2,7 @@
     "id": "zerus",
     "name": "Zerus.kr",
     "website": "https://zerus.kr",
+    "description": "Play Survival and PvP on Zerus.kr.",
     "addresses": [
         "zerus.kr"
     ],
@@ -9,11 +10,10 @@
     "primaryColor": "#00DC79",
     "secondaryColor": "#00C2F6",
     "minecraftVersions": [
-        "1.19.4",
-        "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.4",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "AS",
     "regions": [
         "AS"

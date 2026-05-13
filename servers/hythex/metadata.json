@@ -1,9 +1,9 @@
 {
     "id": "hythex",
     "name": "Hythex",
-    "description": "Home of Minecraft Prison",
     "website": "https://www.hythex.net/",
     "store": "https://www.hythex.net/store",
+    "description": "Home of Minecraft Prison",
     "addresses": [
         "hythex.net"
     ],

@@ -6,7 +6,6 @@
         "redesaint.com"
     ],
     "primaryAddress": "redesaint.com",
-    "crossplay": true,
     "primaryColor": "#ffe60e",
     "secondaryColor": "#4afeff",
     "minecraftVersions": [
@@ -19,6 +18,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"

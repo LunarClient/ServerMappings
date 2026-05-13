@@ -8,21 +8,21 @@
         "valhmc.it"
     ],
     "primaryAddress": "play.valhmc.it",
+    "primaryColor": "#8BC5E4",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#8BC5E4",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "Survival",

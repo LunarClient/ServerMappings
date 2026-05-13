@@ -1,12 +1,14 @@
 {
     "id": "lokapsos",
     "name": "LOKAPSOS",
-    "description": "LOKAPSOS | Your community!",
     "store": "https://store.lokapsos.es",
+    "description": "LOKAPSOS | Your community!",
     "addresses": [
         "lokapsos.es"
     ],
     "primaryAddress": "mc.lokapsos.es",
+    "primaryColor": "#FF55FF",
+    "secondaryColor": "#55FF55",
     "minecraftVersions": [
         "1.8.*",
         "1.21.*"
@@ -17,8 +19,6 @@
         "Prison",
         "Creative"
     ],
-    "primaryColor": "#FF55FF",
-    "secondaryColor": "#55FF55",
     "socials": {
         "twitter": "mclokapsos",
         "discord": "https://discord.gg/lokapsos-network-discord-oficial-472153211613216778"

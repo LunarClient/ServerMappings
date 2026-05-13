@@ -3,9 +3,9 @@
     "name": "Cool Crafter",
     "website": "https://coolcrafter.club/",
     "store": "https://coolcrafter.club/store/",
+    "description": "Play PvP and Minigames on Cool Crafter.",
     "addresses": [
         "coolcrafter.club"
-
     ],
     "primaryAddress": "coolcrafter.club",
     "primaryColor": "#ffb133",
@@ -13,7 +13,6 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
-
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",

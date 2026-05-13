@@ -6,20 +6,21 @@
         "krapaosmp.xyz"
     ],
     "primaryAddress": "krapaosmp.xyz",
+    "primaryColor": "#36ff33",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.20.4",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#36ff33",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
         "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
@@ -27,6 +28,5 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/5Rcqa76ZCk"
-    },
-    "crossplay": true
+    }
 }

@@ -8,26 +8,26 @@
         "demonspvp.us"
     ],
     "primaryAddress": "eu.demonspvp.us",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.10",
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#FF5555",
-    "secondaryColor": "#ffffff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "NA",
         "EU"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP",
-	"UHC",
-	"HCF"
+        "UHC",
+        "HCF"
     ],
     "socials": {
         "twitter": "DemonsNetworkUS",

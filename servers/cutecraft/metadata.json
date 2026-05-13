@@ -1,0 +1,31 @@
+{
+    "id": "cutecraft",
+    "name": "CuteCraft",
+    "store": "https://shop.cutecraft.net/",
+    "description": "Start your cute adventure!",
+    "addresses": [
+        "cutecraft.net"
+    ],
+    "primaryAddress": "cutecraft.net",
+    "primaryColor": "#ffc9ee",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.7"
+    ],
+    "primaryMinecraftVersion": "1.21.7",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/2QrU9ekSec"
+    }
+}

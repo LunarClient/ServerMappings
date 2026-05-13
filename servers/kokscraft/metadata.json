@@ -3,6 +3,7 @@
     "name": "KoksCraft.pl",
     "website": "https://kokscraft.pl/",
     "store": "https://kokscraft.pl/sklep/",
+    "description": "Play Minigames, PvP, and more on KoksCraft.pl.",
     "addresses": [
         "kokscraft.pl"
     ],
@@ -28,6 +29,6 @@
         "discord": "https://discord.com/invite/kokscraft",
         "instagram": "kokscraft.mc",
         "facebook": "kokscraftpl",
-        "tiktok":"@kokscraftpl"
+        "tiktok": "@kokscraftpl"
     }
 }

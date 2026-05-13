@@ -6,24 +6,24 @@
         "miyabimc.net"
     ],
     "primaryAddress": "miyabimc.net",
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#65318e",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "AS",
-    "regions": [    
+    "regions": [
         "AS"
     ],
-    "primaryColor": "#65318e",
-    "secondaryColor": "#ffffff",
-    "socials": {
-        "discord": "https://discord.gg/aHdjnxRpaw",
-        "twitter": "onudonn",
-        "youtube": "@onudon"
-    },
     "gameTypes": [
         "PvP",
         "UHC"
     ],
-    "crossplay": false
+    "socials": {
+        "discord": "https://discord.gg/aHdjnxRpaw",
+        "twitter": "onudonn",
+        "youtube": "@onudon"
+    }
 }

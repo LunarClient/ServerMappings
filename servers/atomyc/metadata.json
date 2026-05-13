@@ -1,27 +1,31 @@
 {
-  "id": "atomyc",
-  "name": "Atomyc",
-  "description": "Minecraft server PrisonOP competitive",
-  "addresses": [
-    "atomyc.pro"
-  ],
-  "primaryAddress": "atomyc.pro",
-  "minecraftVersions": [
-    "1.8.9"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "gameTypes": [
-    "Prison"
-  ],
-  "primaryColor": "#17e605",
-  "secondaryColor": "#0e8a03",
-  "languages": ["es-EN", "en"],
-  "primaryLanguage": "es-EN",
-  "regions": ["SA"],
-  "primaryRegion": "SA",
-  
-  "store": "https://atomyc.tebex.io/",
-  "socials": {
-    "discord": "https://discord.gg/SMbZVkmcdW"
-  }
+    "id": "atomyc",
+    "name": "Atomyc",
+    "store": "https://atomyc.tebex.io/",
+    "description": "Minecraft server PrisonOP competitive",
+    "addresses": [
+        "atomyc.pro"
+    ],
+    "primaryAddress": "atomyc.pro",
+    "primaryColor": "#17e605",
+    "secondaryColor": "#0e8a03",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/SMbZVkmcdW"
+    }
 }

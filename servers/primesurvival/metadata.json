@@ -2,6 +2,7 @@
     "id": "primesurvival",
     "name": "primesurvival",
     "store": "https://store.primesurvival.net/",
+    "description": "Experience survival gameplay on primesurvival.",
     "addresses": [
         "primesurvival.net"
     ],

@@ -1,0 +1,29 @@
+{
+    "id": "sunnysmp",
+    "name": "Sunny SMP",
+    "description": "Unique peaceful survival experience!",
+    "addresses": [
+        "sunnysmp.net"
+    ],
+    "primaryAddress": "sunnysmp.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ede72b",
+    "secondaryColor": "#f59725",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.sunnysmp.net",
+    "crossplay": true
+}

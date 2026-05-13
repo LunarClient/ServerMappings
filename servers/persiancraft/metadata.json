@@ -1,7 +1,8 @@
 {
     "id": "persiancraft",
     "name": "PersianCraft",
-    "addresses": [ 
+    "description": "Immerse yourself in roleplay on PersianCraft.",
+    "addresses": [
         "persiancraft.top"
     ],
     "primaryAddress": "mc.persiancraft.top",

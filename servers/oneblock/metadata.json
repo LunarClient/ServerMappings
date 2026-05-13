@@ -1,0 +1,39 @@
+{
+    "id": "oneblock",
+    "name": "OneBlock",
+    "website": "https://oneblock.fr/",
+    "store": "https://store.oneblock.fr/",
+    "description": "A French Oneblock server with unique gameplay and adventure features.",
+    "addresses": [
+        "oneblock.fr"
+    ],
+    "primaryAddress": "lunar.oneblock.fr",
+    "primaryColor": "#29f40d",
+    "secondaryColor": "#8bf07d",
+    "minecraftVersions": [
+        "1.21.3",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Adventure",
+        "Skyblock"
+    ],
+    "socials": {
+        "tiktok": "@oneblockfr",
+        "discord": "https://discord.com/invite/oneblock"
+    },
+    "compliance": {
+        "rules": "https://oneblock-2.gitbook.io/oneblock-wiki/informations-importantes/reglement-ig"
+    }
+}

@@ -1,9 +1,9 @@
 {
     "id": "minemass",
     "name": "MineMass",
-    "description": "PvP, adventure, community, creativity. Craft your legacy with MineMass!",
     "website": "https://minemass.hu",
     "store": "https://bolt.minemass.hu",
+    "description": "PvP, adventure, community, creativity. Craft your legacy with MineMass!",
     "addresses": [
         "minemass.hu"
     ],

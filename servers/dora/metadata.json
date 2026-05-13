@@ -1,6 +1,7 @@
 {
     "id": "dora",
     "name": "Dora",
+    "description": "Experience survival gameplay on Dora.",
     "addresses": [
         "dorasmp.vip"
     ],
@@ -19,6 +20,6 @@
         "Survival"
     ],
     "socials": {
-      "discord": "https://discord.gg/carpyy"
+        "discord": "https://discord.gg/carpyy"
     }
 }

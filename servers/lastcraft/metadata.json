@@ -3,6 +3,7 @@
     "name": "LastCraft",
     "website": "https://last-craft.net/",
     "store": "https://last-craft.net/",
+    "description": "Play Minigames and PvP on LastCraft.",
     "addresses": [
         "last-craft.net",
         "lastcraft.net"
@@ -19,11 +20,11 @@
         "1.20.*",
         "1.21.*"
     ],
+    "primaryMinecraftVersion": "1.12.2",
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryMinecraftVersion": "1.12.2",
     "gameTypes": [
         "Minigames",
         "PvP"

@@ -3,10 +3,10 @@
     "name": "MikArt",
     "website": "https://www.mikart.net/",
     "store": "https://store.mikart.eu/",
+    "description": "A server offering modern survival-type experience",
     "addresses": [
         "mikart.eu"
     ],
-    "description": "A server offering modern survival-type experience",
     "primaryAddress": "play.mikart.eu",
     "primaryColor": "#2cd12c",
     "secondaryColor": "#2cd1a2",
@@ -16,11 +16,15 @@
         "1.20.6",
         "1.21.*"
     ],
-    "crossplay": true,
     "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival"
@@ -28,10 +32,6 @@
     "socials": {
         "discord": "https://discord.gg/SuXGbq24wA"
     },
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "compliance": {
         "rules": "https://www.mikart.eu/docs/minecraft/rules"
     }

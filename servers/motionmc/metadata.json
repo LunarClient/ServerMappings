@@ -1,0 +1,33 @@
+{
+    "id": "motionmc",
+    "name": "MotionMC Network",
+    "description": "Explore, survive, and battle in MotionMC Network",
+    "addresses": [
+        "motionmc.es"
+    ],
+    "primaryAddress": "motionmc.es",
+    "primaryColor": "#4498DB",
+    "secondaryColor": "#ADF3FD",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "ntmotionmc",
+        "discord": "https://discord.gg/F7gP5aPUC9"
+    }
+}
