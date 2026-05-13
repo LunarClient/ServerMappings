@@ -118,7 +118,6 @@ def main() -> None:
     head_sha = os.environ.get("WORKFLOW_RUN_HEAD_SHA", "")
     head_owner = os.environ.get("WORKFLOW_RUN_HEAD_OWNER", "")
     head_branch = os.environ.get("WORKFLOW_RUN_HEAD_BRANCH", "")
-    conclusion = os.environ.get("WORKFLOW_RUN_CONCLUSION", "")
     download_outcome = os.environ.get("DOWNLOAD_OUTCOME", "")
 
     try:
@@ -133,19 +132,12 @@ def main() -> None:
         print("No PR could be associated with this workflow run; nothing to do.")
         return
 
-    artifact_present = (
-        conclusion == "success"
-        and download_outcome == "success"
-        and os.path.isfile(RESULTS_FILE)
-    )
+    artifact_present = download_outcome == "success" and os.path.isfile(RESULTS_FILE)
 
     if not artifact_present:
         for n in trusted:
             remove_ready_label(repo, n, token)
-        print(
-            "Upstream did not succeed or artifact missing — "
-            "removed stale ready label."
-        )
+        print("Validation artifact missing — removed stale ready label.")
         return
 
     with open(RESULTS_FILE, "r", encoding="utf-8") as f:
