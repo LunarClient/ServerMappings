@@ -8,9 +8,9 @@ posts a review with the validation errors.
 
 Because pr_results.json is produced by code controlled by the PR author,
 its pr_id field cannot be trusted. The trusted PR number is derived from
-the workflow_run payload (with a head-SHA lookup as a fallback for fork
-PRs, whose pull_requests array is empty) and the artifact's pr_id is
-rejected if it doesn't match one of those numbers.
+the workflow_run payload (with a head-branch lookup as a fallback for
+fork PRs, whose pull_requests array is empty) and the artifact's pr_id
+is rejected if it doesn't match one of those numbers.
 """
 
 import json
@@ -38,7 +38,12 @@ def gh_request(method: str, path: str, token: str, **kwargs) -> requests.Respons
 
 
 def resolve_trusted_pr_numbers(
-    repo: str, head_sha: str, pr_payload: list, token: str
+    repo: str,
+    head_sha: str,
+    head_owner: str,
+    head_branch: str,
+    pr_payload: list,
+    token: str,
 ) -> set[int]:
     """Return PR numbers that are safe to act on with the privileged token."""
     numbers: set[int] = set()
@@ -46,19 +51,24 @@ def resolve_trusted_pr_numbers(
         if isinstance(pr, dict) and isinstance(pr.get("number"), int):
             numbers.add(pr["number"])
 
-    if numbers or not head_sha:
+    if numbers or not head_sha or not head_owner or not head_branch:
         return numbers
 
-    res = gh_request("GET", f"/repos/{repo}/commits/{head_sha}/pulls", token)
+    res = gh_request(
+        "GET",
+        f"/repos/{repo}/pulls",
+        token,
+        params={"head": f"{head_owner}:{head_branch}", "state": "open"},
+    )
     if not res.ok:
         print(
-            f"::warning::Failed to look up PRs for head SHA {head_sha}: "
+            f"::warning::Failed to look up PRs for {head_owner}:{head_branch}: "
             f"{res.status_code} {res.text}"
         )
         return numbers
 
     for pr in res.json():
-        if pr.get("state") == "open":
+        if pr.get("head", {}).get("sha") == head_sha:
             numbers.add(int(pr["number"]))
     return numbers
 
@@ -106,7 +116,8 @@ def main() -> None:
     token = os.environ["BOT_PAT"]
     repo = os.environ["GITHUB_REPOSITORY"]
     head_sha = os.environ.get("WORKFLOW_RUN_HEAD_SHA", "")
-    conclusion = os.environ.get("WORKFLOW_RUN_CONCLUSION", "")
+    head_owner = os.environ.get("WORKFLOW_RUN_HEAD_OWNER", "")
+    head_branch = os.environ.get("WORKFLOW_RUN_HEAD_BRANCH", "")
     download_outcome = os.environ.get("DOWNLOAD_OUTCOME", "")
 
     try:
@@ -114,24 +125,19 @@ def main() -> None:
     except json.JSONDecodeError:
         pr_payload = []
 
-    trusted = resolve_trusted_pr_numbers(repo, head_sha, pr_payload, token)
+    trusted = resolve_trusted_pr_numbers(
+        repo, head_sha, head_owner, head_branch, pr_payload, token
+    )
     if not trusted:
         print("No PR could be associated with this workflow run; nothing to do.")
         return
 
-    artifact_present = (
-        conclusion == "success"
-        and download_outcome == "success"
-        and os.path.isfile(RESULTS_FILE)
-    )
+    artifact_present = download_outcome == "success" and os.path.isfile(RESULTS_FILE)
 
     if not artifact_present:
         for n in trusted:
             remove_ready_label(repo, n, token)
-        print(
-            "Upstream did not succeed or artifact missing — "
-            "removed stale ready label."
-        )
+        print("Validation artifact missing — removed stale ready label.")
         return
 
     with open(RESULTS_FILE, "r", encoding="utf-8") as f:

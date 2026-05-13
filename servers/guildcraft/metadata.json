@@ -3,7 +3,8 @@
     "name": "GuildCraft",
     "description": "Experience a new era of Minecraft at GuildCraft with custom-built plugins.",
     "addresses": [
-        "guildcraft.net"
+        "guildcraft.net",
+        "guildcraft.nl"
     ],
     "primaryAddress": "play.guildcraft.net",
     "minecraftVersions": [
