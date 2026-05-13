@@ -37,7 +37,7 @@
         "rules": "https://www.vaebridge.com/informacion"
     },
     "socials": {
-        "tiktok": "https://www.tiktok.com/@vaebridge?lang=es-419",
+        "tiktok": "https:\\www.tiktok.com\@vaebridge?lang=es-419",
         "discord": "https://discord.gg/B2HQU2np"
     },
     "crossplay": false
