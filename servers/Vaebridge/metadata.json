@@ -1,10 +1,9 @@
 {
     "id": "vaebridge",
-    "name": "VaeBridge",
+    "name": "VaeBridge Oficial",
     "description": "El mejor servidor latino de PvP",
     "addresses": [
         "vaebridge.com",
-        "vaebridge.minecraft.best"
     ],
     "primaryAddress": "mc.vaebridge.com",
     "minecraftVersions": [
@@ -14,7 +13,7 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#0000E5",
     "secondaryColor": "#8d25ef",
-    "primaryLanguage": "es-419",
+    "primaryLanguage": "es-EN",
     "languages": [
         "es",
         "en",
@@ -38,7 +37,7 @@
         "rules": "https://www.vaebridge.com/informacion"
     },
     "socials": {
-        "tiktok": "https://www.tiktok.com/@vaebridge",
+        "tiktok": "https://www.tiktok.com/@vaebridge?lang=es-419",
         "discord": "https://discord.gg/B2HQU2np"
     },
     "crossplay": false
