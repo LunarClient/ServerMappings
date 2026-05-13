@@ -3,7 +3,8 @@
     "name": "AbisSMP",
     "description": "Join AbisSMP for new things and great community!",
     "addresses": [
-        "abissmp.eu"   
+        "abissmp.eu",
+        "mc.abissmp.eu"
     ],
     "primaryAddress": "abissmp.eu",
     "minecraftVersions": [
@@ -11,7 +12,7 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#63A1F9",
     "secondaryColor": "#D7E9FA",
     "primaryLanguage": "en",
