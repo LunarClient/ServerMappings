@@ -1,11 +1,10 @@
 {
     "id": "astryxnetwork",
     "name": "Astryx Network",
-    "store": "https://astryxnetwork.tebex.io/",
-    "description": "Astryx Network - BoxPvP y modalidades competitivas en Minecraft.",
+    "description": "Astryx Network - BoxPvP and competitive Minecraft server.",
 
     "addresses": [
-        "play.astryx.us"
+        "astryx.us"
     ],
     "primaryAddress": "play.astryx.us",
 
@@ -23,7 +22,6 @@
     "primaryMinecraftVersion": "1.21.8",
 
     "primaryRegion": "NA",
-
     "regions": [
         "NA"
     ],
