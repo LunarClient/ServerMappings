@@ -22,13 +22,10 @@
     ],
     "primaryMinecraftVersion": "1.21.8",
 
-    "primaryRegion": "SA",
+    "primaryRegion": "NA",
+
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"  
+        "NA"
     ],
 
     "gameTypes": [
