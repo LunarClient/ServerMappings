@@ -1,10 +1,10 @@
 {
     "id": "kaosmc",
     "name": "KaosMC",
-    "description": "KaosMC -  FullPvP competitivo en Minecraft.",
+    "description": "KaosMC - PvP competitive Minecraft server with KaosPvP.",
 
     "addresses": [
-        "play.kaosmc.com"
+        "kaosmc.com"
     ],
     "primaryAddress": "play.kaosmc.com",
 
