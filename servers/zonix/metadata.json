@@ -1,7 +1,7 @@
 {
     "id": "zonix",
     "name": "Zonix",
-    "description": "Zonix Network",
+    "description": "Zonix | PvP Network",
     "addresses": [
         "zonix.com.br"
     ],
@@ -35,7 +35,7 @@
     "website": "https://www.zonix.com.br/",
     "store": "https://loja.zonix.com.br/",
     "socials": {
-        "discord": "https://discord.zonix.com.br"
+        "discord": "https://discord.gg/aFZ9GpkATr"
     },
     "crossplay": true
 }
