@@ -3,14 +3,14 @@
     "name": "RedPandaMC",
     "description": "Panda supporters",
     "addresses": [
-        "vinlandmc.fun"
+        "redpandamc.com"
     ],
-    "primaryAddress": "play.vinlandmc.fun",
+    "primaryAddress": "oyna.redpandamc.com",
     "minecraftVersions": [
         "1.21.*",
         "26.1"
     ],
-    "primaryMinecraftVersion": "1.21.8",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#ff0000",
     "secondaryColor": "#ffffff",
     "primaryLanguage": "tr",
