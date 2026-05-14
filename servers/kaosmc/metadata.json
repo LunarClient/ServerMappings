@@ -1,7 +1,8 @@
 {
     "id": "kaosmc",
     "name": "KaosMC",
-    "description": "Servidor oficial de ZynKaos en Minecraft. KaosMC con KaosPvP, un modo FullPvP con combate constante.",
+    "description": "KaosMC -  FullPvP competitivo en Minecraft.",
+
     "addresses": [
         "play.kaosmc.com"
     ],
