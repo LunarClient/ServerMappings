@@ -21,8 +21,8 @@
     ],
     "gameTypes": [
         "HCF",
-        "KitMap",
-        "Practice"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
         "twitter": "astrogamesus",
