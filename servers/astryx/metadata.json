@@ -1,0 +1,42 @@
+{
+    "id": "astryxnetwork",
+    "name": "Astryx Network",
+    "store": "https://astryxnetwork.tebex.io/",
+    "description": "Astryx Network - BoxPvP y modalidades competitivas en Minecraft.",
+
+    "addresses": [
+        "play.astryx.us"
+    ],
+    "primaryAddress": "play.astryx.us",
+
+    "primaryColor": "#FF2B2B",
+    "secondaryColor": "#FF4848",
+
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"  
+    ],
+
+    "gameTypes": [
+        "BoxPvP",
+        "PvP"
+    ],
+
+    "socials": {
+        "discord": "https://discord.gg/YHunaeQzcF"
+    }
+}
