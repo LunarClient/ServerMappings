@@ -3,12 +3,13 @@
     "name": "KaosMC",
     "description": "Servidor oficial de ZynKaos en Minecraft. KaosMC con KaosPvP, un modo FullPvP con combate constante.",
     "addresses": [
-        "play.kaosmc.com",
-        "play.kaosmc.net"
+        "play.kaosmc.com"
     ],
     "primaryAddress": "play.kaosmc.com",
+
     "primaryColor": "#B151FB",
     "secondaryColor": "#CE8CFB",
+
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -18,14 +19,16 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryRegion": "NA",
+
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
+
     "gameTypes": [
-        "Events",
         "PvP"
     ],
+
     "socials": {
         "discord": "https://discord.gg/kaosmc"
     }
