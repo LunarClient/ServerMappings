@@ -32,7 +32,6 @@
     ],
 
     "gameTypes": [
-        "BoxPvP",
         "PvP"
     ],
 
