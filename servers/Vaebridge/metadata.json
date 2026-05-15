@@ -1,44 +1,43 @@
 {
     "id": "vaebridge",
-    "name": "VaeBridge Oficial",
-    "description": "El mejor servidor latino de PvP",
+    "name": "VaeBridge",
+    "website": "https://vaebridge.com/",
+    "store": "https://vaebridge-shop.tebex.io/",
+    "description": "El mejor servidor de pvp latino",
     "addresses": [
-        "vaebridge.com",
+        "mc.vaebridge.com",
     ],
     "primaryAddress": "mc.vaebridge.com",
+    "primaryColor": "#2EDFFF",
+    "secondaryColor": "#9D3DFF",
     "minecraftVersions": [
         "1.8.*",
-        "1.21.*"
+        "1.12.*",
+        "1.21.*",
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#0000E5",
-    "secondaryColor": "#8d25ef",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es",
-        "en",
-        "pt"
-    ],
-    "primaryRegion": "SA",
+    "crossplay": false,
+    "primaryRegion": "NA",
     "regions": [
-        "SA",
-        "NA",
-        "EU"
+        "NA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+        "pt-BR"
+        "es-EN"
     ],
     "gameTypes": [
+        "Minigames",
         "PvP",
-        "Minigames"
     ],
-    "website": "https://www.vaebridge.com",
-    "store": "https://vaebridge-shop.tebex.io/",
-    "compliance": {
-        "privacyPolicy": "https://www.vaebridge.com/informacion",
-        "termsOfService": "https://www.vaebridge.com/informacion",
-        "rules": "https://www.vaebridge.com/informacion"
-    },
     "socials": {
-        "tiktok": "https:\\www.tiktok.com\@vaebridge?lang=es-419",
-        "discord": "https://discord.gg/B2HQU2np"
+        "discord": "https://discord.gg/upCC5yHfuW",
+        "tiktok": "@vaebridge",
     },
-    "crossplay": false
-}
+    "compliance": {
+        "privacyPolicy": "https://vaebridge.com/informacion",
+        "termsOfService": "https://vaebridge.com/informacion",
+        "rules": "https://vaebridge.com/informacion",
+        "support": "https://vaebridge.com/informacion"
