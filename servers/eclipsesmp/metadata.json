@@ -1,13 +1,14 @@
 {
-  "id": "eclipsesmp",
-  "name": "Eclipse SMP",
-  "description": "Add EPSMP on bedrock to join!",
-  "addresses": [
-    "eclipsesmp.club"
-  ],
-  "primaryAddress": "eclipsesmp.club",
-  "logo": "logo.png",
-  "socials": {
-    "discord": "https://discord.gg/MUztNyH43a"
-  }
+    "id": "eclipsesmp",
+    "name": "Eclipse SMP",
+    "description": "Add EPSMP on bedrock to join!",
+    "addresses": [
+        "eclipsesmp.club"
+    ],
+    "primaryAddress": "eclipsesmp.club",
+    "logo": "logo.png",
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/MUztNyH43a"
+    }
 }
