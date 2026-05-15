@@ -5,7 +5,7 @@
     "store": "https://vaebridge-shop.tebex.io/",
     "description": "El mejor servidor de pvp latino",
     "addresses": [
-        "mc.vaebridge.com",
+        "mc.vaebridge.com"
     ],
     "primaryAddress": "mc.vaebridge.com",
     "primaryColor": "#2EDFFF",
@@ -24,21 +24,22 @@
     ],
     "primaryLanguage": "es",
     "languages": [
-        "es"
-        "pt-BR"
+        "es",
+        "pt-BR",
         "es-EN"
     ],
     "gameTypes": [
         "Minigames",
-        "PvP",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/upCC5yHfuW",
-        "tiktok": "@vaebridge",
+        "tiktok": "@vaebridge"
     },
     "compliance": {
         "privacyPolicy": "https://vaebridge.com/informacion",
         "termsOfService": "https://vaebridge.com/informacion",
         "rules": "https://vaebridge.com/informacion",
         "support": "https://vaebridge.com/informacion"
-}        
+    }
+}
