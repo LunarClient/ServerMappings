@@ -1,7 +1,7 @@
 {
   "id": "kingora",
   "name": "Kingora Network",
-  "description": "Vietnamese survival and minigames Minecraft server.",
+  "description": "Vietnamese survival and minigames Minecraft server",
   "addresses": [
     "play.kingora.net"
   ],
@@ -12,7 +12,7 @@
     "1.21.1",
     "1.21.4",
     "1.21.5",
-    "1.21.8"
+    "1.21.8",
     "1.21.11"
   ],
   "primaryMinecraftVersion": "1.21.11",
@@ -28,7 +28,6 @@
   "regions": [
     "AS"
   ],
-  "website": "https://store.kingora.net",
   "store": "https://store.kingora.net",
   "socials": {
     "discord": "https://discord.gg/xYg7namJYT"
