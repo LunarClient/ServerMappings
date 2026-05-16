@@ -1,63 +1,63 @@
 {
-  "id": "orinmc",
-  "name": "OrinMc Network",
-  "description": "It's a Minecraft community from Romania that wants to bring unique things.",
-  "addresses": [
-    "orinmc.ro"
-  ],
-  "primaryAddress": "orinmc.ro",
-  "gameTypes": [
-    "PvP",
-    "Minigames",
-    "Survival"
-  ],
-  "primaryColor": "#FF6E00",
-  "secondaryColor": "#FF4040",
-  "minecraftVersions": [
-    "1.19",
-    "1.19.2",
-    "1.19.4",
-    "1.20",
-    "1.20.1",
-    "1.20.2",
-    "1.20.3",
-    "1.20.4",
-    "1.20.5",
-    "1.20.6",
-    "1.21",
-    "1.21.1",
-    "1.21.2",
-    "1.21.3",
-    "1.21.4",
-    "1.21.5",
-    "1.21.6",
-    "1.21.7",
-    "1.21.8"
-  ],
-  "primaryMinecraftVersion": "1.21",
-  "languages": [
-    "en",
-    "de"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "website": "https://web.orinmc.ro/",
-  "store": "https://store.orinmc.ro/",
-  "merch": "https://web.orinmc.ro/store",
-  "socials": {
-    "discord": "https://discord.gg/n8uW6P2dFU",
-    "youtube": "@Kurama_YT_12",
-    "tiktok": "@orinmc5"
-  },
-  "votingLinks": [
-    "https://minecraft-mp.com/server-s349176"
-  ],
-  "compliance": {
-    "termsOfService": "https://web.orinmc.ro/terms/",
-    "rules": "https://web.orinmc.ro/rules/",
-    "support": "https://web.orinmc.ro/forum"
-  }
+    "id": "orinmc",
+    "name": "OrinMc Network",
+    "website": "https://web.orinmc.ro/",
+    "store": "https://store.orinmc.ro/",
+    "description": "It's a Minecraft community from Romania that wants to bring unique things.",
+    "addresses": [
+        "orinmc.ro"
+    ],
+    "primaryAddress": "orinmc.ro",
+    "primaryColor": "#FF6E00",
+    "secondaryColor": "#FF4040",
+    "minecraftVersions": [
+        "1.19",
+        "1.19.2",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/n8uW6P2dFU",
+        "youtube": "@Kurama_YT_12",
+        "tiktok": "@orinmc5"
+    },
+    "compliance": {
+        "termsOfService": "https://web.orinmc.ro/terms/",
+        "rules": "https://web.orinmc.ro/rules/",
+        "support": "https://web.orinmc.ro/forum"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s349176"
+    ],
+    "merch": "https://web.orinmc.ro/store"
 }

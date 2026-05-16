@@ -1,22 +1,21 @@
 {
-  "id": "frogmc",
-  "name": "FrogMC Network",
-  "description": "A high-quality survival network for premium and non-premium Minecraft players.",
-  "addresses": [
-    "frogmc.fun"
-  ],
-  "primaryAddress": "frogmc.fun",
-  "gameTypes": [
-    "Survival"
-  ],
-  "primaryColor": "#0dff00",
-  "secondaryColor": "#ffffff",
-  "minecraftVersions": [
-    "1.21.1"
-  ],
-  "primaryMinecraftVersion": "1.21.1",
-  "socials": {
-    "discord": "https://discord.gg/pZ4uwVvXeJ"
-  }
-
+    "id": "frogmc",
+    "name": "FrogMC Network",
+    "description": "A high-quality survival network for premium and non-premium Minecraft players.",
+    "addresses": [
+        "frogmc.fun"
+    ],
+    "primaryAddress": "frogmc.fun",
+    "primaryColor": "#0dff00",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/pZ4uwVvXeJ"
+    }
 }

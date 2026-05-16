@@ -2,6 +2,7 @@
     "id": "pvpland",
     "name": "PvP Land",
     "store": "https://store.pvp.land/",
+    "description": "Test your combat skills on PvP Land.",
     "addresses": [
         "pvp.land"
     ],

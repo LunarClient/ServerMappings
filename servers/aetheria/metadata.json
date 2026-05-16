@@ -2,6 +2,7 @@
     "id": "aetheria",
     "name": "AetheriaMC Network",
     "store": "https://tienda.aetheriamc.xyz",
+    "description": "Play PvP, Survival, and more on AetheriaMC Network.",
     "addresses": [
         "aetheriamc.xyz"
     ],

@@ -10,6 +10,8 @@
         "pvphall.club"
     ],
     "primaryAddress": "pvphall.net",
+    "primaryColor": "#ec0909",
+    "secondaryColor": "#ffd65c",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
@@ -19,8 +21,6 @@
     "regions": [
         "SA"
     ],
-    "primaryColor": "#ec0909",
-    "secondaryColor": "#ffd65c",
     "gameTypes": [
         "PvP"
     ],
