@@ -6,9 +6,27 @@
         "eclipsesmp.club"
     ],
     "primaryAddress": "eclipsesmp.club",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#0055FF",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "SMP"
+    ],
     "logo": "logo.png",
-    "crossplay": true,
     "socials": {
         "discord": "https://discord.gg/MUztNyH43a"
-    }
+    },
+    "crossplay": true
 }
