@@ -1,11 +1,11 @@
 {
   "id": "kingora",
   "name": "Kingora Network",
-  "description": "Vietnamese survival and minigames Minecraft server",
+  "description": "Vietnamese survival and skyblock Minecraft server.",
   "addresses": [
-    "play.kingora.net"
+    "kingora.net"
   ],
-  "primaryAddress": "play.kingora.net",
+  "primaryAddress": "kingora.net",
   "primaryColor": "#00AEEF",
   "secondaryColor": "#111827",
   "minecraftVersions": [
@@ -17,7 +17,7 @@
   ],
   "primaryMinecraftVersion": "1.21.11",
   "gameTypes": [
-    "Vanilla",
+    "Survival",
     "Skyblock"
   ],
   "primaryLanguage": "en",
@@ -28,7 +28,6 @@
   "regions": [
     "AS"
   ],
-  "store": "https://store.kingora.net",
   "socials": {
     "discord": "https://discord.gg/xYg7namJYT"
   }
