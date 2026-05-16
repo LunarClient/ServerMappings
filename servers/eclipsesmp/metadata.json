@@ -21,10 +21,8 @@
         "NA"
     ],
     "gameTypes": [
-        "Survival",
-        "SMP"
+        "Survival"
     ],
-    "logo": "logo.png",
     "socials": {
         "discord": "https://discord.gg/MUztNyH43a"
     },
