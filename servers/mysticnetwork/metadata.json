@@ -7,14 +7,19 @@
     "addresses": [
         "mystic-Mc.net"
     ],
+    "primaryMinecraftVersion": "1.21.11",
     "primaryAddress": "mystic-mc.net",
     "primaryColor": "#e8810c",
     "secondaryColor": "#f5f51b",
+    "primaryLanguage": "ar",
+    "languages": [
+        "ar",
+        "en"
+    ],
     "minecraftVersions": [
         "1.21.*",
         "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "EU",
     "regions": [
         "EU"
