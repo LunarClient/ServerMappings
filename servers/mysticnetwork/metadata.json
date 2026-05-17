@@ -5,7 +5,7 @@
     "store": "https://store.mystic-mc.net/",
     "description": "A cross-platform network with Survival SMP,BOXPVP and Practice",
     "addresses": [
-        "mystic-Mc.net"
+        "mystic-mc.net"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryAddress": "mystic-mc.net",
