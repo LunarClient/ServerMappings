@@ -4,7 +4,7 @@
     "website": "https://www.abyssmc.cc/",
     "description": "Italian SMP Minecraft Server",
     "addresses": [
-        "play.abyssmc.cc"
+        "abyssmc.cc"
     ],
     "primaryAddress": "play.abyssmc.cc",
     "primaryColor": "#00BFFF",
@@ -22,7 +22,7 @@
         "it"
     ],
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "crossplay": false,
     "socials": {
