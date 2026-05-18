@@ -4,7 +4,8 @@
     "store": "https://store.nitrosmp.com",
     "description": "NitroSMP is competitive minecraft server made for the best fighters.",
     "addresses": [
-        "nitrosmp.com"
+        "nitrosmp.com",
+        "nitrosmp.lol"
     ],
     "primaryAddress": "nitrosmp.com",
     "primaryColor": "#00E4FB",
