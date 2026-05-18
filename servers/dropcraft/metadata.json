@@ -7,8 +7,7 @@
     ],
 	"primaryLanguage": "en",
     "languages": [
-        "en",
-		"ru"
+        "en"
     ],
     "primaryAddress": "play.dropcraft.ru",
     "primaryColor": "#40e0d0",
@@ -32,7 +31,7 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://dsc.gg/dropcraft",
+        "discord": "https://discord.com/invite/78c7yxJk7f",
 		"telegram": "dropcraftru"
     }
 }
