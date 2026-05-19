@@ -1,6 +1,12 @@
 {
-  "serverName": "PixelHub Network",
-  "serverAddresses": [
+  "id": "pixelhubnetwork",
+  "name": "PixelHub Network",
+  "description": "Servidor de Minecraft PixelHub Network",
+  "addresses": [
     "pixelhubmc.fun"
-  ]
+  ],
+  "discord": {
+    "primaryId": "1506435388615426241",
+    "largeImageKey": "logo"
+  }
 }
