@@ -1,6 +1,6 @@
 {
     "id": "pvpleague",
-    "name": "PvP League",
+    "name": "PvPLeague",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "pvpleague.club",
@@ -10,7 +10,8 @@
     "primaryAddress": "pvpleague.club",
     "minecraftVersions": [
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#d031e1",
