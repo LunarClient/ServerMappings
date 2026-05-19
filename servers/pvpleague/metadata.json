@@ -39,10 +39,10 @@
         "rules": "https://www.pvpleague.club/rules"
     },
     "socials": {
-        "instagram": "https://instagram.com/OfficialPvPLeague",
-        "tiktok": "https://www.tiktok.com/@officialpvpleague",
-        "youtube": "https://www.youtube.com/@officialpvpleague",
-        "discord": "https://pvpleague.club/discord"
+        "instagram": "OfficialPvPLeague",
+        "tiktok": "@officialpvpleague",
+        "youtube": "@officialpvpleague",
+        "discord": "https://discord.gg/pvpleague"
     },
     "crossplay": true
 }
