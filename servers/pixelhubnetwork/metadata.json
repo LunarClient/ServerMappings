@@ -1,10 +1,24 @@
 {
-  "id": "pixelhubnetwork",
-  "name": "PixelHub Network",
-  "description": "Servidor de Minecraft PixelHub Network",
-  "addresses": ["pixelhubmc.fun"],
-  "discord": {
-    "primaryId": "1506435388615426241",
-    "largeImageKey": "logo"
-  }
+    "id": "pixelhub",
+    "name": "pixelhub",
+    "description": "Experience survival gameplay on PixelHub.",
+    "addresses": [
+        "pixelhubmc.fun"
+    ],
+    "primaryAddress": "pixelhubmc.fun",
+    "primaryColor": "#FB04DB",
+    "secondaryColor": "#500F47",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/x437pAsFnV",
+        "tiktok": "pixelhubmc"
+    }
 }
