@@ -1,11 +1,15 @@
 {
     "id": "pixelhubnetwork",
     "name": "PixelHub Network",
-    "description": "El mejor servidor para jugar con tus amigos ;)",
+    "website": "https://www.pixelhubmc.fun",
+    "store": "https://tienda.pixelhubmc.fun",
+    "description": "Spanish network with Survival Custom and BoxPvP. Java & Bedrock crossplay.",
     "addresses": [
-        "pixelhubmc.fun",
+        "pixelhubmc.fun"
     ],
     "primaryAddress": "pixelhubmc.fun",
+    "primaryColor": "#63FF14",
+    "secondaryColor": "#E5FFD8",
     "minecraftVersions": [
         "1.12.*",
         "1.13.*",
@@ -20,36 +24,16 @@
         "1.26.1",
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#63FF14",
-    "secondaryColor": "#E5FFD8",
-    "primaryLanguage": "es",
-    "languages": [
-        "es"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+        "EU"
     ],
     "gameTypes": [
         "Survival",
         "BoxPvP"
     ],
-    "website": "https://www.pixelhubmc.fun",
-    "store": "https://pixelhub.shop",
-    "compliance": {
-        "privacyPolicy": "https://www.pixelhubmc.fun/privacy",
-        "termsOfService": "https://www.pixelhubmc.fun/terms",
-        "rules": "https://www.pixelhubmc.fun/reglas"
-    },
-    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-        "twitter": "pixelhuboficial",
-        "telegram": "pixelhuboficial",
         "discord": "https://discord.pixelhubmc.fun"
-    },
-    "crossplay": false
+    }
 }
