@@ -12,16 +12,13 @@
     "secondaryColor": "#E5FFD8",
     "minecraftVersions": [
         "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "1.26.1"
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "crossplay": false,
@@ -31,9 +28,9 @@
     ],
     "gameTypes": [
         "Survival",
-        "BoxPvP"
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.pixelhubmc.fun"
+        "discord": "https://discord.gg/pixelhubmc"
     }
 }
