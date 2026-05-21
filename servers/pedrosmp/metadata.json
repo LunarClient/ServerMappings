@@ -29,8 +29,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Hardcore",
-        "SMP"
+        "Hardcore"
     ],
     "website": "https://www.pedrosmp.net",
     "store": "https://store.pedrosmp.net",
