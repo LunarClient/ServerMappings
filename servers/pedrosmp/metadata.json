@@ -27,7 +27,10 @@
         "SA"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Survival",
+        "Hardcore",
+        "SMP"
     ],
     "website": "https://www.pedrosmp.net",
     "store": "https://store.pedrosmp.net",
@@ -39,7 +42,7 @@
     "socials": {
         "twitter": "PedroSMP",
         "telegram": "pedrosmp",
-        "discord": "https://www.pedrosmp.net/discord"
+        "discord": "https://discord.gg/pedrosmp"
     },
     "crossplay": true
 }
