@@ -1,0 +1,39 @@
+{
+    "id": "pedrosmp",
+    "name": "PedroSMP",
+    "website": "https://store.pedrosmp.net/home",
+    "store": "https://store.pedrosmp.net/",
+    "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
+    "addresses": [
+        "pedrosmp.net"
+    ],
+    "primaryAddress": "pedrosmp.net",
+    "primaryColor": "#1d8ff7",
+    "secondaryColor": "#cac5be",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Hardcore",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "DrDonut099",
+        "discord": "https://discord.com/invite/pedrosmp",
+        "youtube": "DrDonutt",
+        "tiktok": "@drdonutt"
+    }
+}
