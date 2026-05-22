@@ -1,6 +1,7 @@
 {
     "id": "thoramc",
     "name": "ThoraMC",
+    "description": "Play Skyblock, Survival, and more on ThoraMC.",
     "addresses": [
         "thoramc.it"
     ],

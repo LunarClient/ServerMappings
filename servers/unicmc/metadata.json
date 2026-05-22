@@ -3,6 +3,7 @@
     "name": "UnicMC",
     "website": "https://unicmc.net/",
     "store": "https://butik.unicmc.net/",
+    "description": "Play UHC and Prison on UnicMC.",
     "addresses": [
         "unicmc.net"
     ],
