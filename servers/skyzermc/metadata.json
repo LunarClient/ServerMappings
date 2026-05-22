@@ -1,12 +1,9 @@
 {
     "id": "skyzer",
     "name": "SkyzerMC",
-    "website": "https://loja.skyzermc.com.br"
+    "website": "https://loja.skyzermc.com.br",
     "store": "https://loja.skyzermc.com.br/shop",
-    "description": "Jogue survival, minigames e practice.
-    "addresses": [
-        "3fmc.com"
-    ],
+    "description": "Jogue survival, minigames e practice.",
     "primaryAddress": "skyzermc.com.br",
     "primaryColor": "#ecf542",
     "secondaryColor": "#f5a742",
@@ -29,6 +26,6 @@
     "socials": {
         "discord": "https://discord.gg/RQWMeKCMtt",
         "youtube": "@ebenezer_77",
-        "tiktok": "@noleexy"
+        "tiktok": "@noleexy",
     }
 }
