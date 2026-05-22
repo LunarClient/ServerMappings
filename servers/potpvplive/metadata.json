@@ -2,6 +2,7 @@
     "id": "potpvplive",
     "name": "PotPvP Network",
     "store": "https://store.potpvp.live",
+    "description": "Play PvP and UHC on PotPvP Network.",
     "addresses": [
         "potpvp.live"
     ],

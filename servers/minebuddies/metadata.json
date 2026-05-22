@@ -2,6 +2,7 @@
     "id": "minebuddies",
     "name": "MineBuddies",
     "store": "https://store.minebuddies.org/",
+    "description": "Build your island empire on MineBuddies.",
     "addresses": [
         "minebuddies.org"
     ],
