@@ -2,6 +2,7 @@
     "id": "legendsnetwork",
     "name": "Legends Network",
     "store": "https://store.legends.rip/",
+    "description": "Play HCF and PvP on Legends Network.",
     "addresses": [
         "legends.rip"
     ],

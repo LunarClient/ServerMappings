@@ -2,6 +2,7 @@
     "id": "hubland",
     "name": "Hubland Network",
     "store": "https://store.hubland.gg/",
+    "description": "Play PvP and Survival on Hubland Network.",
     "addresses": [
         "hubland.gg"
     ],
