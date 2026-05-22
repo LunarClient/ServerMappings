@@ -3,9 +3,10 @@
     "name": "SkyzerMC",
     "website": "https://loja.skyzermc.com.br",
     "store": "https://loja.skyzermc.com.br/shop",
-    "description": "Jogue survival, minigames e practice.",
+    "description": "Play survival, minigames and practice.",
     "primaryAddress": "skyzermc.com.br",
     "primaryColor": "#ecf542",
+    "primaryLanguage": "pt-BR",
     "secondaryColor": "#f5a742",
     "minecraftVersions": [
         "1.17.*",
