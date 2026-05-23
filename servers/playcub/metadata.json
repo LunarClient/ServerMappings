@@ -4,7 +4,7 @@
     "website": "https://playcub.net",
     "store": "https://tienda.playcub.net",
     "description": "Join PlayCub on Lunar Client! Compete in PvP, Survival & more!",
-    "addresses": ["mc.playcub.net"],
+    "addresses": ["playcub.net"],
     "primaryAddress": "mc.playcub.net",
     "primaryColor": "#65e0dd",
     "secondaryColor": "#319401",
