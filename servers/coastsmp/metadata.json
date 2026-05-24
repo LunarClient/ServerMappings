@@ -1,0 +1,43 @@
+{
+    "id": "coastsmp",
+    "name": "CoastSMP",
+    "store": "https://store.coastsmp.net",
+    "description": "A friendly survival Minecraft server!",
+    "addresses": [
+        "coastsmp.net"
+    ],
+    "primaryAddress": "play.coastsmp.net",
+    "primaryColor": "#00C4FF",
+    "secondaryColor": "#00D2FF",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "@coastsmpmc",
+        "youtube": "@CoastSMP",
+        "instagram": "coastsmp_",
+        "discord": "https://discord.com/invite/coastsmp"
+    },
+    "votingLinks": [
+        "https://play-minecraft-servers.com/minecraft-servers/coastsmp/",
+        "https://minecraftservers.org/vote/668101",
+        "https://topg.org/minecraft-servers/server-668906",
+        "https://minecraft.buzz/vote/12647",
+        "https://www.minerank.com/coastsmp",
+        "https://minecraft-server-list.com/server/509325/vote/",
+        "https://minecraft-mp.com/server/337828/vote/"
+    ]
+}

@@ -2,6 +2,7 @@
     "id": "nusi",
     "name": "Nusi",
     "store": "https://sklep.nusi.pl/",
+    "description": "Test your combat skills on Nusi.",
     "addresses": [
         "nusi.pl"
     ],

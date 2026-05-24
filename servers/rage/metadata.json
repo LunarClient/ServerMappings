@@ -2,9 +2,9 @@
     "id": "rage",
     "name": "Rage",
     "store": "https://store.rage.rip/",
+    "description": "Play HCF, PvP, and more on Rage.",
     "addresses": [
-        "rage.rip",
-        "ranked.rip"
+        "rage.rip"
     ],
     "primaryAddress": "rage.rip",
     "primaryColor": "#db213a",

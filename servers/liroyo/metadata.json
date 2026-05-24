@@ -2,8 +2,8 @@
     "id": "liroyo",
     "name": "Liroyo Network",
     "store": "https://store.liroyo.online/",
+    "description": "Play PvP and Minigames on Liroyo Network.",
     "addresses": [
-        "topstrix.net",
         "topstrix.com",
         "liroyo.online"
     ],
