@@ -1,0 +1,41 @@
+{
+    "id": "ascendiamc",
+    "name": "AscendiaMC",
+    "website": "https://ascendiamc.it/",
+    "store": "https://store.ascendiamc.com/",
+    "description": "Discover a new Galaxy Dimension get ready for your Ascension",
+    "addresses": [
+        "ascendiamc.it"
+    ],
+    "primaryAddress": "play.ascendiamc.it",
+    "primaryColor": "#a935d4",
+    "secondaryColor": "#292828",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Prison",
+        "SMP"
+    ],
+    "socials": {
+        "discord": "https://discord.ascendiamc.it",
+        "instagram": "ascendiamcnetwork",
+        "telegram": "ascendiamc",
+        "tiktok": "ascendiamc.it"
+    },
+    "compliance": {
+        "rules": "https://ascendiamc.it/rules",
+        "support": "https://discord.ascendiamc.it"
+    }
+}
