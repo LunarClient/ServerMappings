@@ -1,13 +1,14 @@
 {
     "id": "ascendiamc",
     "name": "AscendiaMC",
-    "website": "https://ascendiamc.it/",
+    "website": "https://ascendiamc.com/",
     "store": "https://store.ascendiamc.com/",
     "description": "Discover a new Galaxy Dimension get ready for your Ascension",
     "addresses": [
-        "ascendiamc.it"
+        "ascendiamc.com",
+        "ascendiamc.it" 
     ],
-    "primaryAddress": "play.ascendiamc.it",
+    "primaryAddress": "play.ascendiamc.com",
     "primaryColor": "#a935d4",
     "secondaryColor": "#292828",
     "minecraftVersions": [
@@ -32,10 +33,10 @@
         "discord": "https://discord.com/invite/ascendiamc",
         "instagram": "ascendiamcnetwork",
         "telegram": "ascendiamc",
-        "tiktok": "@ascendiamc.it"
+        "tiktok": "@ascendiaserver"
     },
     "compliance": {
-        "rules": "https://ascendiamc.it/rules",
+        "rules": "https://ascendiamc.com/rules",
         "support": "https://discord.com/invite/ascendiamc"
     }
 }
