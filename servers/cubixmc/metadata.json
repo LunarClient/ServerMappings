@@ -1,0 +1,24 @@
+{
+    "id": "cubixmc",
+    "name": "CubixMC",
+    "description": "A classic Danish SMP with a strong community and endless adventure!",
+    "addresses": ["cubixmc.dk"],
+    "primaryAddress": "cubixmc.dk",
+    "gameTypes": ["Survival"],
+    "primaryColor": "#55FF55",
+    "secondaryColor": "#00AA00",
+    "minecraftVersions": ["1.21.11", "26.1.2"],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryLanguage": "en",
+    "languages": ["en"],
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "crossplay": true,
+    "website": "https://cubixmc.dk",
+    "socials": {
+        "discord": "https://discord.com/invite/NZkNyxPxnw"
+    },
+    "compliance": {
+        "rules": "https://cubixmc.dk/regler"
+    }
+}
