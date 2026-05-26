@@ -2,19 +2,13 @@
   "id": "ramble",
   "name": "RAMBLE",
   "website": "https://www.ramblemc.net",
-  "description": "El mejor survival islands RPG hispano",
-  "addresses": [
-    "play.ramblemc.net"
-  ],
+  "description": "The best Hispanic survival islands RPG",
+  "addresses": ["play.ramblemc.net"],
   "primaryAddress": "play.ramblemc.net",
-  "minecraftVersions": [
-    "1.21.8"
-  ],
+  "minecraftVersions": ["1.21.8"],
   "primaryMinecraftVersion": "1.21.8",
   "primaryColor": "#ea580c",
   "secondaryColor": "#C2410C",
-  "primaryLanguage": "es",
-  "languages": ["es"],
   "primaryRegion": "EU",
   "regions": ["EU"],
   "gameTypes": ["Survival", "RPG", "Skyblock"],
