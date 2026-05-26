@@ -17,7 +17,7 @@
         "1.18.*",
         "1.19.*",
         "1.21.*",
-        "2.26.*"
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
@@ -28,7 +28,7 @@
         "AS"
     ],
     "gameTypes": [
-        "boxPvP",
+        "PvP",
         "Survival"
     ],
     "socials": {
