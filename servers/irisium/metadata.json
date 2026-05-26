@@ -1,13 +1,13 @@
 {
     "id": "irisium",
     "name": "Irisium",
-    "website": "https://irisium.party/",
-    "store": "https://irisium.party/store",
+    "website": "https://irisium.fr/",
+    "store": "https://irisium.fr/store",
     "description": "A survival, skyblock server made for the french-speaking community",
     "addresses": [
-        "irisium.party"
+        "irisium.fr"
     ],
-    "primaryAddress": "play.irisium.party",
+    "primaryAddress": "play.irisium.fr",
     "primaryColor": "#9146ff",
     "secondaryColor": "#481485",
     "minecraftVersions": [
@@ -38,6 +38,6 @@
         "twitch": "IrisiumOfficiel"
     },
     "compliance": {
-        "rules": "https://irisium.party/rules"
+        "rules": "https://irisium.fr/rules"
     }
 }
