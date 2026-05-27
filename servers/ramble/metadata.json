@@ -1,11 +1,11 @@
 {
     "id": "ramble",
-    "name": "RAMBLE",
+    "name": "Ramble",
     "website": "https://www.ramblemc.net",
     "store": "https://tienda.ramblemc.net",
-    "description": "The best Hispanic survival islands RPG",
+    "description": "The best survival islands RPG",
     "addresses": [
-        "play.ramblemc.net"
+        "ramblemc.net"
     ],
     "primaryAddress": "play.ramblemc.net",
     "minecraftVersions": [
@@ -21,11 +21,12 @@
     ],
     "gameTypes": [
         "Survival",
-        "RPG",
         "Skyblock"
     ],
     "socials": {
-        "discord": "https://discord.gg/tUXqPYnr6h"
+        "discord": "https://discord.gg/tUXqPYnr6h",
+        "twitter": "ramblemcnet",
+        "tiktok": "@ramblemcnet"
     },
     "crossplay": true
 }
