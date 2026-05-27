@@ -29,8 +29,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Lifesteal",
-        "Factions"
+        "Lifesteal"
     ],
     "store": "https://store.blzemc.net",
     "compliance": {
