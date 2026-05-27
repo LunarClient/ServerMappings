@@ -39,9 +39,9 @@
         "discord": "https://www.discord.gg/unionmc",
         "youtube": "@Unioncm"
     },
-    "votingLinks" : {
-        "minecraft.buzz": "https://minecraft.buzz/vote/20224",
-        "top-mc-servers": "https://top-mc-servers.net/server/700"
-    },
+    "votingLinks" : [
+        "https://minecraft.buzz/vote/20224",
+        "https://top-mc-servers.net/server/700"
+    ],
     "crossplay": true
 }
