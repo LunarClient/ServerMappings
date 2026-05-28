@@ -1,0 +1,41 @@
+{
+    "id": "betterpvpnetwork",
+    "name": "BetterPvP",
+    "website": "https://betterpvp.net",
+    "store": "https://betterpvp.net/store",
+    "description": "A custom Clans/Factions server",
+    "addresses": [
+        "betterpvp.net"
+    ],
+    "primaryAddress": "betterpvp.net",
+    "primaryColor": "#D8DB0D",
+    "secondaryColor": "#156E08",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/xNY89VKCUD",
+        "youtube": "BTRPVP",
+        "instagram": "betterpvpclans",
+        "tiktok": "@betterpvp2"
+    },
+    "compliance":{
+        "rules": "https://betterpvp.net/rules"
+    },
+    "presentationVideo": "MpjLQJiqU1U",
+    "crossplay": false
+}
