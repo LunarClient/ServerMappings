@@ -3,10 +3,9 @@
     "name": "Singluj",
     "description": "Join our server with a great community!",
     "addresses": [
-        "play.singluj.net",
-        "mc.singluj.net"
+        "singluj.net"
     ],
-    "primaryAddress": "play.singluj.net",
+    "primaryAddress": "singluj.net",
     "minecraftVersions": [
         "1.21.*"
     ],
@@ -22,7 +21,7 @@
         "EU"
     ],
     "gameTypes": [
-        "SMP",
+        "PvP",
         "Survival"
     ],
     "socials": {
