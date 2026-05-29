@@ -1,0 +1,17 @@
+{
+  "id": "tempusgod",
+  "name": "TempusGod",
+  "description": "Unique Factions server with custom gkits, outposts, KOTHs and rewards.",
+  "addresses": ["tempusgod.net"],
+  "primaryAddress": "play.tempusgod.net",
+  "primaryMinecraftVersion": "1.8.9",
+  "minecraftVersions": ["1.7.10", "1.8.9", "1.12.2", "1.16.5", "1.17.1", "1.18.2", "1.19.4", "1.20.1", "1.21.11"],
+  "gameTypes": ["Factions"],
+  "primaryColor": "#7B2FBE",
+  "secondaryColor": "#F5C518",
+  "crossplay": true,
+  "primaryRegion": "NA",
+  "regions": ["NA", "SA"],
+  "primaryLanguage": "es-EN",
+  "languages": ["es-EN", "en"]
+}
