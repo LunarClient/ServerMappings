@@ -5,7 +5,7 @@
     "addresses": [
         "singluj.net"
     ],
-    "primaryAddress": "singluj.net",
+    "primaryAddress": "play.singluj.net",
     "minecraftVersions": [
         "1.21.*"
     ],
