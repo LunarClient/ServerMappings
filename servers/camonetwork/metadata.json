@@ -1,0 +1,46 @@
+{
+    "id": "camonetwork",
+    "name": "CamoNetwork",
+    "website": "https://camonetwork.eu/",
+    "store": "https://camonetwork.eu/webshop",
+    "wiki": "https://camonetwork.eu/articles",
+    "description": "The most fun Minetopia Roleplay server!",
+    "addresses": [
+        "camonetwork.eu"
+    ],
+    "primaryAddress": "join.camonetwork.eu",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#5aa9c3",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/K9MxefEUaG",
+        "youtube": "@CamoNetwork",
+        "instagram": "camonetworknl",
+        "tiktok": "@camonetwork"
+    }
+}

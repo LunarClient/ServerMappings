@@ -2,6 +2,7 @@
     "id": "mrproxy",
     "name": "MrProxy",
     "website": "https://mrproxy.net/",
+    "description": "Explore the open world on MrProxy.",
     "addresses": [
         "mrproxy.net",
         "mrstudios.pl"

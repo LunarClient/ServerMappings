@@ -1,0 +1,36 @@
+{
+    "id": "flowpvp",
+    "name": "FlowPvP",
+    "store": "https://store.flowpvp.gg/",
+    "description": "The number one Minecraft Duels & FFA server.",
+    "addresses": [
+        "flowpvp.gg"
+    ],
+    "primaryAddress": "flowpvp.gg",
+    "primaryColor": "#6CE4FD",
+    "secondaryColor": "#DF80FE",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS",
+        "OC"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "playFlowPvP",
+        "discord": "https://discord.com/invite/flowpvp"
+    },
+    "compliance": {
+        "rules": "https://flowpvp.gg/rules",
+        "support": "https://discord.gg/flaremc"
+    }
+}

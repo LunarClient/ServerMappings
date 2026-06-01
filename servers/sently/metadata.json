@@ -1,6 +1,7 @@
 {
     "id": "sently",
     "name": "Sently Network",
+    "description": "A Spanish-speaking network with PvP, Survival, and Minigames.",
     "store": "https://tienda.sently.us/",
     "addresses": [
         "sently.us"

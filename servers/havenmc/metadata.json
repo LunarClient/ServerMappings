@@ -1,6 +1,7 @@
 {
     "id": "havenmc",
     "name": "HavenMC",
+    "description": "A hardcore factions experience built for the true PvP grinder.",
     "store": "https://store.havenmc.cc",
     "addresses": [
         "havenmc.cc"

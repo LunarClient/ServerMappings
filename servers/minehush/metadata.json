@@ -1,46 +1,34 @@
 {
     "id": "minehush",
-    "name": "Minehush Network",
-    "store": "https://store.minehush.net",
-    "description": "Come enjoy with us!",
+    "name": "MineHush Network",
+    "description": "Server for competitive players",
     "addresses": [
-        "minehush.net"
+        "minehush.com"
     ],
-    "primaryAddress": "minehush.net",
-    "primaryColor": "#ffdf14",
-    "secondaryColor": "#b69665",
+    "primaryAddress": "minehush.com",
+    "primaryColor": "#18FF00",
+    "secondaryColor": "#86FD53",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
         "1.19.*",
-        "1.20.*"
+		"1.20.*",
+		"1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+        "NA"
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "es-EN"
+        "en"
     ],
     "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "Factions"
+        "PvP",
+        "Minigames",
+        "Survival"
     ],
     "socials": {
-        "twitter": "minehush",
-        "tiktok": "@minehushnetwork",
-        "discord": "https://discord.gg/x7Xyq63HP6"
+        "discord": "https://discord.gg/8QYCB2Q677"
     }
 }

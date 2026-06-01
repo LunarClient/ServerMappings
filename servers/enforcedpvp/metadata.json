@@ -2,6 +2,7 @@
     "id": "enforcedpvp",
     "name": "EnforcedPvP",
     "store": "https://buy.enforcedpvp.org/",
+    "description": "Build your faction and conquer on EnforcedPvP.",
     "addresses": [
         "enforcedpvp.org",
         "enforcedpvp.net"

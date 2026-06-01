@@ -2,6 +2,7 @@
     "id": "stelarmc",
     "name": "StelarMC Network",
     "store": "https://tienda.stelarmc.net/",
+    "description": "Play Survival and PvP on StelarMC Network.",
     "addresses": [
         "stelarmc.es",
         "stelarmc.net",
