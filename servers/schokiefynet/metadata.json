@@ -1,7 +1,7 @@
 {
   "id": "schokiefynet",
   "name": "SchokiefyNET",
-  "description": "Minigames, Events, Spielspaß. ",
+  "description": "Minigames, Events and fun for everyone!",
   "website": "https://www.schokiefy.net/",
   "addresses": [
     "schokiefy.net"
@@ -36,7 +36,6 @@
     "EU"
   ],
   "primaryRegion": "EU",
-
   "socials": {
     "discord": "https://discord.gg/J6eEYkth9M"
   }
