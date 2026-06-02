@@ -1,0 +1,58 @@
+{
+  "id": "brevthcraft",
+  "name": "BrevthCraft",
+  "description": "Minecraft network with unique survival and competitive gamemodes.",
+  "primaryAddress": "mc.brevthcraft.net",
+  "addresses": [
+    "brevthcraft.net",
+    "play.brevthcraft.net"
+  ],
+  "primaryColor": "#00AAFF",
+  "secondaryColor": "#0055FF",
+  "minecraftVersions": [
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "languages": [
+    "en",
+    "it"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "gameTypes": [
+    "Vanilla",
+    "SMP",
+    "SkyWars",
+    "HungerGames",
+    "BedWars",
+    "Plots",
+    "OneBlock",
+    "SkyBlock",
+    "Duels",
+    "Realistic Survival",
+    "Factions",
+    "Lifesteal"
+  ]
+}
