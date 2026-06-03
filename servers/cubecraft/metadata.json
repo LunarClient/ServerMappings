@@ -3,6 +3,7 @@
     "name": "CubeCraft Games",
     "website": "https://www.cubecraft.net/",
     "store": "https://store.cubecraft.net/",
+    "description": "Play Minigames and PvP on CubeCraft Games.",
     "addresses": [
         "cubecraft.net"
     ],
@@ -27,7 +28,7 @@
         "discord": "https://discord.com/invite/cubecraft",
         "youtube": "cubecraftgamesserver",
         "instagram": "cubecraftgames",
-        "tiktok": "cubecrafttiktok",
+        "tiktok": "@cubecrafttiktok",
         "facebook": "CubeCraftGames"
     }
 }

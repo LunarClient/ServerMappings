@@ -1,0 +1,38 @@
+{
+    "id": "wheelsg",
+    "name": "Wheel Survival Games",
+    "store": "https://store.wheelmc.org/",
+    "description": "A Survival Games server hosted by your favorite Streamers with proximity voice!",
+    "addresses": [
+        "wheelmc.org"
+    ],
+    "primaryAddress": "sg.wheelmc.org",
+    "primaryColor": "#ebc713",
+    "secondaryColor": "#13beed",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "thewheelinc",
+        "tiktok": "@thewheelmc",
+        "discord": "https://discord.com/invite/dhv8YtmZHz"
+    }
+}

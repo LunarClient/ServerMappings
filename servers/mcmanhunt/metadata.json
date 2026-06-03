@@ -2,26 +2,34 @@
     "id": "mcmanhunt",
     "name": "MCManHunt Network",
     "store": "https://store.mcmanhunt.com/",
+    "description": "A Server Network Focused on Many Minigames, Manhunt being the server's namesake",
     "addresses": [
         "mcmanhunt.com"
     ],
     "primaryAddress": "play.mcmanhunt.com",
-    "primaryColor": "#f9e11f",
+    "primaryColor": "#e8a107",
     "secondaryColor": "#2d2626",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.1"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
-        "PvP",
-        "Minigames"
+        "Minigames",
+        "Survival",
+        "PvP"
     ],
     "socials": {
         "twitter": "manhuntnetwork",
-        "discord": "https://discord.com/invite/manhunt",
+        "discord": "https://discord.gg/invite/manhunt",
         "instagram": "mcmanhunt",
-        "tiktok": "mcmanhuntnetwork"
+        "tiktok": "@4nt_mcmanhunt"
     }
 }

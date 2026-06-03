@@ -8,19 +8,15 @@
         "inferno.rip"
     ],
     "primaryAddress": "mc.inferno.rip",
+    "primaryColor": "#Ff0000",
+    "secondaryColor": "#Fbef51",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#Ff0000",
-    "secondaryColor": "#Fbef51",
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -29,12 +25,16 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
         "twitter": "infernohcf",
         "discord": "https://discord.com/invite/gM6k2EuchM"
-    },
-    "crossplay": false
+    }
 }

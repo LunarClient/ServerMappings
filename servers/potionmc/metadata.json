@@ -1,36 +1,37 @@
 {
     "id": "potionmc",
-    "name": "PotionMC Network",
+    "name": "IceLands Network",
+    "website": "https://www.icelands.cc",
+    "store": "https://store.icelands.cc",
     "description": "The Next Generation Competitive PvP Server",
     "addresses": [
-      "potionmc.com",
-      "potpvp.cc",
-      "potpvp.lol"
+        "icelands.cc",
+        "potpvp.cc",
+        "potpvp.cn",
+        "potpvp.lol"
     ],
-    "primaryAddress": "mc.potionmc.com",
-    "minecraftVersions": [
-      "1.7.*",
-      "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryAddress": "mc.potpvp.cc",
     "primaryColor": "#ff60af",
     "secondaryColor": "#ffffff",
-    "primaryLanguage": "zh-CN",
-    "languages": [
-      "en",
-      "zh-CN"
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "AS",
     "regions": [
-      "AS"
+        "AS"
+    ],
+    "primaryLanguage": "zh-CN",
+    "languages": [
+        "en",
+        "zh-CN"
     ],
     "gameTypes": [
-      "PvP",
-      "Minigames"
+        "PvP",
+        "Minigames"
     ],
-    "website": "https://www.potionmc.com",
-    "store": "https://store.potionmc.com",
     "socials": {
-      "discord": "https://discord.gg/jBa9gmX6wS"
+        "discord": "https://discord.gg/jBa9gmX6wS"
     }
 }

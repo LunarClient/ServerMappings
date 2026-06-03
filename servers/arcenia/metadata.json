@@ -1,0 +1,44 @@
+{
+    "id": "arcenia",
+    "name": "Arcenia",
+    "website": "https://www.arcenia.net",
+    "store": "https://arcenia.net/magaza",
+    "description": "Every start becomes a legend in Arcenia. Are you ready?",
+    "addresses": [
+        "arcenia.net"
+    ],
+    "primaryAddress": "arcenia.net",
+    "primaryColor": "#8f4cf5",
+    "secondaryColor": "#a376e8",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "tr",
+    "languages": [
+        "en",
+        "tr"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "Arcenianet",
+        "telegram": "lunarnetwork",
+        "discord": "https://discord.gg/x33reaDhAb"
+    },
+    "compliance": {
+        "privacyPolicy": "https://arcenia.net/gizlilik-sozlesmesi",
+        "termsOfService": "https://arcenia.net/gizlilik-sozlesmesi",
+        "rules": "https://arcenia.net/kurallar"
+    }
+}

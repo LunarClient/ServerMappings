@@ -1,0 +1,35 @@
+{
+    "id": "lunariamc",
+    "name": "LunariaMC",
+    "website": "https://lunariamc.it",
+    "store": "https://store.lunariamc.it",
+    "description": "Survival server with clans",
+    "addresses": [
+        "lunariamc.it"
+    ],
+    "primaryAddress": "play.lunariamc.it",
+    "primaryColor": "#8F00FF",
+    "secondaryColor": "#A953EC",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/BPRnTcjAqt"
+    }
+}

@@ -3,6 +3,7 @@
     "name": "InsanityCraft",
     "website": "https://insanitycraft.net/",
     "store": "https://store.insanitycraft.net/",
+    "description": "Play Survival, Skyblock, and more on InsanityCraft.",
     "addresses": [
         "insanitycraft.net"
     ],
@@ -34,7 +35,7 @@
         "youtube": "UC0oNHWiHQVnOj5ZP1zHXMEA",
         "instagram": "insanitycraftmc",
         "reddit": "InsanityCraftMC",
-        "tiktok": "insanitycraft"
+        "tiktok": "@insanitycraft"
     },
     "compliance": {
         "privacyPolicy": "https://insanitycraft.net/privacy/",

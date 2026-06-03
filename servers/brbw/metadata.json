@@ -1,0 +1,22 @@
+{
+    "id": "brbw",
+    "name": "brbw",
+    "description": "ranked bedwars server with automation that works with discord bot",
+    "addresses": [
+        "brbw.fun"
+    ],
+    "primaryAddress": "brbw.fun",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ]
+}

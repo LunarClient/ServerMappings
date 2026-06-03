@@ -2,6 +2,7 @@
     "id": "vanityempire",
     "name": "VanityEmpire",
     "website": "https://vanityempire.hu/",
+    "description": "Play Creative and Survival on VanityEmpire.",
     "addresses": [
         "vanityempire.hu"
     ],
@@ -29,7 +30,7 @@
     "socials": {
         "discord": "https://discord.com/invite/vanityempire",
         "instagram": "vanityempire.hu",
-        "tiktok": "vanityempire",
+        "tiktok": "@vanityempire",
         "facebook": "vanityempirehu"
     }
 }

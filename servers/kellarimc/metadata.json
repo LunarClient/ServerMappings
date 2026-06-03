@@ -2,6 +2,7 @@
     "id": "kellarimc",
     "name": "KellariMC",
     "website": "https://kellarimc.fi/",
+    "description": "Play Minigames, Creative, and more on KellariMC.",
     "addresses": [
         "kellarimc.fi"
     ],
@@ -27,6 +28,6 @@
         "discord": "https://discord.com/invite/U4EsJTRYdP",
         "youtube": "Jyksedi",
         "instagram": "jyksedii",
-        "tiktok": "jyksedii"
+        "tiktok": "@jyksedii"
     }
 }

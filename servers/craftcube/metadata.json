@@ -3,6 +3,7 @@
     "name": "CraftCube",
     "website": "https://craftcube.pl/",
     "store": "https://craftcube.pl/#shop",
+    "description": "Play Survival, Minigames, and more on CraftCube.",
     "addresses": [
         "craftcube.pl"
     ],
@@ -33,6 +34,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/craftcube",
-        "tiktok": "craftcube_"
+        "tiktok": "@craftcube_"
     }
 }

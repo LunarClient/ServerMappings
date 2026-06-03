@@ -1,0 +1,38 @@
+{
+    "id": "pralia",
+    "name": "Pralia",
+    "store": "https://pralia.fr/shop",
+    "description": "French PvP Server",
+    "addresses": [
+        "pralia.fr"
+    ],
+    "primaryAddress": "play.pralia.fr",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/egdhCw78m3"
+    }
+}

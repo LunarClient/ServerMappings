@@ -1,8 +1,8 @@
 {
     "id": "crystalnetwork",
     "name": "Crystal Network",
-    "description": "The ultimate cannoning server for Minecraft Factions.",
     "store": "https://store.crystaldev.co/",
+    "description": "The ultimate cannoning server for Minecraft Factions.",
     "addresses": [
         "crystaldev.co"
     ],

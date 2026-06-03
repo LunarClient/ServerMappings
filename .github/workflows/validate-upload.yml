@@ -4,9 +4,11 @@ on:
   push:
     branches:
       - master
-  pull_request_target:
+  pull_request:
     branches:
       - "*"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   changes:
@@ -35,16 +37,26 @@ jobs:
   validate-servers:
     name: Validate Servers
     runs-on: ubuntu-latest
+
     permissions:
-      pull-requests: write
-      issues: write
+      contents: read
+      pull-requests: read
 
     steps:
-      - name: Checkout from GitHub
+      # Trusted checkout: scripts and schemas come from the base ref so a PR
+      # cannot alter the validator (e.g. fabricating pr_results.json as
+      # "ready") to bypass validation in the trusted feedback workflow.
+      - name: Checkout trusted base
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ github.event.pull_request.base.ref || github.ref }}
+
+      - name: Checkout PR contents (untrusted)
+        if: github.event_name == 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr-contents
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -55,22 +67,31 @@ jobs:
         run: pip install -r .scripts/requirements.txt
 
       - name: Validate Servers
+        working-directory: ${{ github.event_name == 'pull_request' && 'pr-contents' || '.' }}
         run: |
-          python .scripts/validate.py \
+          python "${GITHUB_WORKSPACE}/.scripts/validate.py" \
           --servers_dir servers \
-          --metadata_schema metadata.schema.json \
+          --metadata_schema "${GITHUB_WORKSPACE}/metadata.schema.json" \
           --inactive_file inactive.json \
-          --inactive_schema inactive.schema.json \
+          --inactive_schema "${GITHUB_WORKSPACE}/inactive.schema.json" \
           --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
-          BOT_PAT: ${{ secrets.BOT_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USE_ARGS: "true"
+
+      - name: Upload validation results
+        if: always() && github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-results
+          path: pr-contents/pr_results.json
+          if-no-files-found: ignore
 
   upload-servers:
     name: Upload Servers
     needs: [validate-servers, changes]
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master' || github.event_name == 'schedule'
     runs-on: ubuntu-latest
 
     permissions:
@@ -81,6 +102,12 @@ jobs:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
+      - name: Configure Google Cloud credentials
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: 'projects/824216268633/locations/global/workloadIdentityPools/github-actions/providers/github-actions-oidc'
+          service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
@@ -89,8 +116,21 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r .scripts/requirements.txt
 
-      - name: Create output folder
+      - name: Create server output folder
         run: mkdir .out/
+
+      - name: Create Crowdin upload target
+        run: mkdir -p ServerMappings/locales/ && touch ServerMappings/locales/en_US.json
+
+      - name: Download translations from Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          command: "download"
+          command_args: "--source ServerMappings/locales/en_US.json --translation ServerMappings/locales/%locale%.json --export-only-approved"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "424304"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
 
       - name: Output Server Media
         run: |
@@ -103,6 +143,7 @@ jobs:
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
+          --servers_assets_output .out/assets \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
@@ -113,20 +154,34 @@ jobs:
           python .scripts/create_index.py \
           --servers_dir servers \
           --inactive_file inactive.json \
+          --translations_folder ServerMappings/locales/ \
+          --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
-          --csv_output .out/servers.csv \
           --no-include_inactive
 
-      - name: Upload to Cloudflare
+      - name: Sync to Crowdin
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: true
+          upload_translations: false
+          download_translations: false
+          upload_sources_args: "--preserve-hierarchy"
+          source: ServerMappings/locales/en_US.json
+          translation: ServerMappings/locales/%locale%.json
         env:
-          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: us-east-1
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "424304"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
+
+      - name: Upload to GCS
         run: |
-          aws s3 sync .out s3://servermappings-lunarclientcdn-com --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.json s3://servermappings-lunarclientcdn-com/servers.json --content-type "application/json" --endpoint-url $R2_ENDPOINT
-          aws s3 cp .out/servers.csv s3://servermappings-lunarclientcdn-com/servers.csv --content-type "text/csv" --endpoint-url $R2_ENDPOINT
+          cd .out/
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' backgrounds/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' banners/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' logos/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' wordmarks/ gs://servermappings-lunarclientcdn-com/ || true
+          gcloud storage cp --cache-control='public, max-age=300, s-maxage=300' servers.json gs://servermappings-lunarclientcdn-com/servers.json
+          gcloud storage cp --recursive --cache-control='public, max-age=31536000, s-maxage=31536000' assets/ gs://servermappings-lunarclientcdn-com/ || true
 
       - name: Purge Cloudflare cache
         env:
@@ -135,4 +190,5 @@ jobs:
           curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
-            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
+            --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
+

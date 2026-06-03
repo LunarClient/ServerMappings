@@ -1,0 +1,36 @@
+{
+    "id": "beehc",
+    "name": "BeeHc",
+    "store": "http://beehc.pl/",
+    "description": "Enjoy BoxPvP with friends on BeeHc!",
+    "addresses": [
+        "beehc.pl"
+    ],
+    "primaryAddress": "beehc.pl",
+    "primaryColor": "#f6e42c",
+    "secondaryColor": "#674419",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.19.3",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XeUSe3XvMN"
+    },
+    "compliance": {
+        "termsOfService": "https://vishop.pl/shop/8333/page/4071"
+    }
+}

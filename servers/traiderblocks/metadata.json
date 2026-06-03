@@ -1,0 +1,35 @@
+{
+    "id": "traiderblocks",
+    "name": "TraiderBlocks.eu",
+    "website": "https://traiderblocks.eu",
+    "description": "Czech server that offers hardcore survival with enhanced monsters and more.",
+    "addresses": [
+        "traiderblocks.eu"
+    ],
+    "primaryAddress": "mc.traiderblocks.eu",
+    "primaryColor": "#00aaaa",
+    "secondaryColor": "#0c1015",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "traiderblocks",
+        "youtube": "traiderblocks",
+        "discord": "https://discord.gg/jQmtsBqGmu"
+    }
+}

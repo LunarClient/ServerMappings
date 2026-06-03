@@ -3,6 +3,7 @@
     "name": "FreakyVille",
     "website": "https://www.freakyville.net/",
     "store": "https://freakyvillemc.buycraft.net/",
+    "description": "Play Prison, Skyblock, and more on FreakyVille.",
     "addresses": [
         "freakyville.net",
         "freakyville.dk"
@@ -25,7 +26,7 @@
     "socials": {
         "twitter": "FreakyVilleMC",
         "discord": "https://discord.com/invite/qf6F6Zz",
-        "tiktok": "freakyvillemc",
+        "tiktok": "@freakyvillemc",
         "facebook": "freakyvillemc"
     }
 }

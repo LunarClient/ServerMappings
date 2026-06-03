@@ -2,6 +2,7 @@
     "id": "nzcraft",
     "name": "NZCraft Network",
     "store": "https://tienda.nzcraft.net/",
+    "description": "Play Minigames, Survival, and more on NZCraft Network.",
     "addresses": [
         "nzcraft.net"
     ],
@@ -29,6 +30,6 @@
     "socials": {
         "twitter": "NzcraftSurvival",
         "discord": "https://discord.com/invite/9WGVngH",
-        "tiktok": "nzcraftserver"
+        "tiktok": "@nzcraftserver"
     }
 }

@@ -1,0 +1,42 @@
+{
+    "id": "cheesecake",
+    "name": "Cheesecake SMP",
+    "website": "https://cheesecake.gg/",
+    "store": "https://store.cheesecake.gg/",
+    "description": "Play on the best cross-platform SMP!",
+    "addresses": [
+        "cheesecake.gg",
+        "cheesecakemc.xyz"
+    ],
+    "primaryAddress": "mc.cheesecake.gg",
+    "primaryColor": "#E77AC0",
+    "secondaryColor": "#4D1D3C",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/CheesecakeSMP",
+        "tiktok": "@cheesecakesmp",
+        "twitter": "CheesecakeSMP",
+        "twitch": "cheesecakesmp",
+        "youtube": "CheesecakeSMP",
+        "instagram": "cheesecake.smp",
+        "reddit": "cheesecakesmp"
+    }
+}

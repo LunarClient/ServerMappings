@@ -1,12 +1,15 @@
 {
     "id": "mycraft",
     "name": "MyCraft Network",
-    "description": "Tu servidor de confianza desde 2013",
+    "website": "https://www.mycraft.es",
+    "store": "https://tienda.mycraft.es",
+    "description": "Your trusted server since 2013",
     "addresses": [
         "mycraft.es"
     ],
     "primaryAddress": "server.mycraft.es",
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#67DA40",
+    "secondaryColor": "#fca800",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,23 +19,20 @@
         "1.19.*",
         "1.20.*"
     ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival"  
+        "Survival"
     ],
-    "website": "https://www.mycraft.es",
-    "store": "https://tienda.mycraft.es",
-    "primaryColor": "#67DA40",
-    "secondaryColor": "#fca800",
     "socials": {
         "twitter": "mycraftnetwork",
         "discord": "https://discord.com/invite/mycraft-network-498336067578232832",

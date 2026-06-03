@@ -1,0 +1,21 @@
+{
+    "id": "asrbw",
+    "name": "Asian Ranked Bedwars",
+    "description": "A competitive Minecraft Bedwars experience offering various PvP modes.",
+    "addresses": [
+      "asrbw.com"
+    ],
+    "primaryAddress": "play.asrbw.com",
+    "minecraftVersions": [
+      "1.8.*"
+    ],
+  "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+      "Minigames",
+      "PvP",
+      "Parkour"
+    ],
+    "primaryColor": "#499a98",
+    "secondaryColor": "#ffffff"
+  }
+  

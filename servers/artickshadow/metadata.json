@@ -1,0 +1,34 @@
+{
+    "id": "artickshadow",
+    "name": "ArtickShadow Network",
+    "website": "https://artickshadow.net/",
+    "store": "https://artickshadow.tebex.io/",
+    "description": "The best Minecraft Server where you will have fun!",
+    "addresses": [
+        "artickshadow.net"
+    ],
+    "primaryAddress": "artickshadow.net",
+    "primaryColor": "#27F5E4",
+    "secondaryColor": "#27F5A9",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "artickshadownet",
+        "discord": "https://discord.gg/aMXwutSyDp"
+    }
+}

@@ -3,6 +3,7 @@
     "name": "VanillaHub",
     "website": "https://vanillahub.net/",
     "store": "https://store.vanillahub.net/",
+    "description": "Experience survival gameplay on VanillaHub.",
     "addresses": [
         "vanillahub.net"
     ],
@@ -25,6 +26,6 @@
         "twitter": "vanillahub",
         "discord": "https://discord.com/invite/K7WPHZ4SnV",
         "instagram": "vanillahubmc",
-        "tiktok": "vanillahubmc"
+        "tiktok": "@vanillahubmc"
     }
 }

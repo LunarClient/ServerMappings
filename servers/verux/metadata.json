@@ -1,32 +1,38 @@
 {
     "id": "verux",
     "name": "Verux Network",
+    "website": "https://www.veruxpvp.us",
+    "store": "https://store.veruxpvp.us",
     "description": "The home of competitive players",
     "addresses": [
-        "veruxhcf.us"
+        "veruxhcf.us",
+        "veruxpvp.us"
     ],
-    "primaryAddress": "veruxhcf.us",
-    "minecraftVersions": [
-        "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryAddress": "veruxpvp.us",
     "primaryColor": "#e22424",
     "secondaryColor": "#a92929",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*",
+        "1.21.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "gameTypes": [
-        "PvP"
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
     ],
-    "website": "https://www.veruxhcf.us",
-    "store": "https://store.veruxhcf.us",
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Minigames"
+    ],
     "socials": {
         "twitter": "VeruxNet",
-        "discord": "https://discord.gg/r7epvY4DVw"
+        "discord": "https://discord.gg/dNyGH6aS2M"
     }
 }

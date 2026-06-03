@@ -3,6 +3,7 @@
     "name": "MineStar",
     "website": "https://minestar.pl/",
     "store": "https://minestar.pl/shop",
+    "description": "Play Minigames, PvP, and more on MineStar.",
     "addresses": [
         "minestar.pl"
     ],
@@ -29,7 +30,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/V7MEnGJdWM",
-        "tiktok": "minestar.pl",
+        "tiktok": "@minestar.pl",
         "facebook": "minestarpl"
     },
     "compliance": {

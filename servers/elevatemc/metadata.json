@@ -1,25 +1,45 @@
 {
     "id": "elevatemc",
-    "name": "ElevateMC Network",
+    "name": "ElevateMC",
     "website": "https://elevatemc.com/",
     "store": "https://store.elevatemc.com/",
+    "description": "PotPvP practice and teamfight server on legacy minecraft",
     "addresses": [
         "elevatemc.com"
     ],
     "primaryAddress": "elevatemc.com",
-    "primaryColor": "#494949",
-    "secondaryColor": "#1BDDCB",
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#55FFFF",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA",
+        "AF"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "HCF"
     ],
     "socials": {
-        "twitter": "ElevateMCNet",
-        "discord": "https://discord.com/invite/GkqtzCYCvF",
+        "discord": "https://discord.com/invite/hctranked",
         "telegram": "ElevateMC"
-    }
+    },
+    "compliance": {
+        "support": "https://elevatemc.com/tickets"
+    },
+    "votingLinks": [
+        "https://namemc.com/server/elevatemc.com"
+    ]
 }

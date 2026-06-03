@@ -1,7 +1,8 @@
 {
     "id": "verseuhc",
     "name": "Verse UHC",
-    "addresses":[
+    "description": "Play UHC, Minigames, and more on Verse UHC.",
+    "addresses": [
         "verseuhc.fr"
     ],
     "primaryAddress": "play.verseuhc.fr",
@@ -20,7 +21,7 @@
         "Minigames",
         "PvP"
     ],
-    "socials":{
+    "socials": {
         "discord": "https://discord.gg/verseuhc"
     }
 }

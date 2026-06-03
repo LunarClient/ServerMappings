@@ -1,0 +1,36 @@
+{
+    "id": "arcomc",
+    "name": "ArcoMC",
+    "website": "https://www.arcomc.net/",
+    "store": "https://store.arcomc.net/",
+    "description": "Competitive Spanish Server.",
+    "addresses": [
+        "arcomc.net"
+    ],
+    "primaryAddress": "arcomc.net",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "arcomcnetwork",
+        "discord": "https://discord.gg/Y6bkWcyEdy"
+    }
+}

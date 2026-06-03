@@ -3,6 +3,7 @@
     "name": "UnicMC",
     "website": "https://unicmc.net/",
     "store": "https://butik.unicmc.net/",
+    "description": "Play UHC and Prison on UnicMC.",
     "addresses": [
         "unicmc.net"
     ],
@@ -26,6 +27,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/UETmqhccq7",
-        "tiktok": "unicmc.net"
+        "tiktok": "@unicmc.net"
     }
 }

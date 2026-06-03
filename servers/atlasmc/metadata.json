@@ -2,6 +2,7 @@
     "id": "atlasmc",
     "name": "AtlasMC",
     "store": "https://store.atlasmc.it/",
+    "description": "Play Survival and PvP on AtlasMC.",
     "addresses": [
         "atlasmc.it"
     ],
@@ -29,6 +30,6 @@
     "socials": {
         "discord": "https://discord.com/invite/HmgVaVkj2d",
         "instagram": "atlasmc_official",
-        "tiktok": "atlasmcnet"
+        "tiktok": "@atlasmcnet"
     }
 }

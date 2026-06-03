@@ -20,7 +20,8 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21"
+        "1.21.*",
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
@@ -43,7 +44,7 @@
         "youtube": "Hypixel",
         "instagram": "hypixelofficial",
         "reddit": "hypixel",
-        "tiktok": "hypixel",
+        "tiktok": "@hypixel",
         "facebook": "Hypixel"
     },
     "compliance": {

@@ -1,0 +1,36 @@
+{
+    "id": "blackmc",
+    "name": "BlackMC",
+    "website": "https://blackmc.com.pl/",
+    "store": "https://blackmc.com.pl/shop.php",
+    "description": "Join our Polish Minecraft survival server with factions!",
+    "addresses": [
+        "blackmc.pl"
+    ],
+    "primaryAddress": "blackmc.pl",
+    "primaryColor": "#4a4351",
+    "secondaryColor": "#d609da",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/blackmc-607489658095665192",
+        "tiktok": "@blackmc_server",
+        "facebook": "BlackMCserver"
+    }
+}

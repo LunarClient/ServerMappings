@@ -3,6 +3,7 @@
     "name": "Airidale Network",
     "website": "https://www.airidale.com/",
     "store": "https://store.airidale.net/",
+    "description": "Play Prison and Survival on Airidale Network.",
     "addresses": [
         "airidale.com"
     ],
@@ -34,6 +35,6 @@
     "socials": {
         "twitter": "AiridaleMC",
         "discord": "https://discord.com/invite/kxd8RVW",
-        "tiktok": "airidalemc"
+        "tiktok": "@airidalemc"
     }
 }

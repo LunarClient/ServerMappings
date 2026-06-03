@@ -2,6 +2,7 @@
     "id": "snowycraft",
     "name": "Snowycraft",
     "store": "https://tienda.snowycraft.net/",
+    "description": "Play PvP and Survival on Snowycraft.",
     "addresses": [
         "snowycraft.net"
     ],
@@ -25,6 +26,6 @@
     ],
     "socials": {
         "discord": "http://discord.gg/snowycraft",
-        "tiktok": "snowycraft1"
+        "tiktok": "@snowycraft1"
     }
 }

@@ -6,17 +6,14 @@
         "plunder.rip"
     ],
     "primaryAddress": "plunder.rip",
+    "primaryColor": "#b21b00",
+    "secondaryColor": "#f89c1c",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#b21b00",
-    "secondaryColor": "#f89c1c",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -25,13 +22,15 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-
     "socials": {
         "twitter": "PlunderRIP",
         "discord": "https://discord.gg/plunder"
-    },
-    "crossplay": false
+    }
 }

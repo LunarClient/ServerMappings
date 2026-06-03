@@ -2,6 +2,7 @@
     "id": "deluxezone",
     "name": "Deluxe Network",
     "store": "https://tienda.deluxezone.net/",
+    "description": "Play Survival, Skyblock, and more on Deluxe Network.",
     "addresses": [
         "deluxezone.net"
     ],
@@ -31,7 +32,7 @@
         "discord": "https://discord.com/invite/q9enwe7v48",
         "youtube": "UCaIpLKARUmD2xlvlDg2KKVw",
         "instagram": "deluxezonemc",
-        "tiktok": "deluxezonemc",
+        "tiktok": "@deluxezonemc",
         "facebook": "DeluxeNETWORK"
     }
 }

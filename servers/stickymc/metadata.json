@@ -3,6 +3,7 @@
     "name": "StickyMC",
     "website": "https://stickymc.com/",
     "store": "https://store.stickymc.com/",
+    "description": "Immerse yourself in roleplay on StickyMC.",
     "addresses": [
         "stickymc.com"
     ],
@@ -25,6 +26,6 @@
     ],
     "socials": {
         "instagram": "stickyminecraft",
-        "tiktok": "stickyminecraft"
+        "tiktok": "@stickyminecraft"
     }
 }

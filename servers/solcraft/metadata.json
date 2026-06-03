@@ -1,0 +1,40 @@
+{
+    "id": "solcraft",
+    "name": "solcraft",
+    "website": "http://tienda.solcraft.games",
+    "description": "Survival server to have fun with friends!",
+    "addresses": [
+        "solcraft.games"
+    ],
+    "primaryAddress": "solcraft.games",
+    "primaryColor": "#FD8C00",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.1",
+        "1.20.6",
+        "1.21.7"
+    ],
+    "primaryMinecraftVersion": "1.21.7",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/MsUx6V6YCq"
+    }
+}

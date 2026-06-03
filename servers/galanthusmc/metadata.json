@@ -1,0 +1,27 @@
+{
+    "id": "galanthusmc",
+    "name": "GalanthusMC",
+    "description": "Minecraft HCF & Other",
+    "addresses": [
+        "galanthusmc.net"
+    ],
+    "primaryAddress": "galanthusmc.net",
+    "primaryColor": "#34bd34",
+    "secondaryColor": "#17a417",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dcB8dvaCUZ"
+    }
+}

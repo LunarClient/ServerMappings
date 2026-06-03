@@ -2,6 +2,7 @@
     "id": "coffeewcream",
     "name": "CoffeewCream SMP",
     "store": "http://shop.coffeewcream.com/",
+    "description": "Experience survival gameplay on CoffeewCream SMP.",
     "addresses": [
         "coffeewcream.com"
     ],
@@ -24,6 +25,6 @@
         "discord": "https://discord.com/invite/coffeewcream",
         "youtube": "coffeewcreamsmp",
         "instagram": "coffeewcreamsmp",
-        "tiktok": "coffeewithcreamsmp"
+        "tiktok": "@coffeewithcreamsmp"
     }
 }

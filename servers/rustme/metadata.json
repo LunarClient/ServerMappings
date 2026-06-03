@@ -3,6 +3,7 @@
     "name": "RustME",
     "website": "https://rustme.net/",
     "store": "https://rustme.net/donate/vanilla",
+    "description": "Play Minigames and PvP on RustME.",
     "addresses": [
         "rustme.net"
     ],
@@ -29,6 +30,6 @@
     "socials": {
         "discord": "https://discord.com/invite/rustme",
         "youtube": "UCVzDbwD5nEab4IndekBJNrQ",
-        "tiktok": "play.rustme.net"
+        "tiktok": "@play.rustme.net"
     }
 }

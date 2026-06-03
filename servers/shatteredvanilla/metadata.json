@@ -2,6 +2,7 @@
     "id": "shatteredvanilla",
     "name": "Shattered Vanilla",
     "store": "https://store.shatteredvanilla.net/",
+    "description": "Play Survival and PvP on Shattered Vanilla.",
     "addresses": [
         "shatteredvanilla.net"
     ],
@@ -26,6 +27,6 @@
     "socials": {
         "discord": "https://discord.com/invite/shattered",
         "youtube": "ETVGaming",
-        "tiktok": "shatteredvanilla"
+        "tiktok": "@shatteredvanilla"
     }
 }

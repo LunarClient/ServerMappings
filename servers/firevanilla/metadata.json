@@ -2,6 +2,7 @@
     "id": "firevanilla",
     "name": "Fire Vanilla",
     "store": "https://store.firevanilla.net/",
+    "description": "Play Survival, PvP, and more on Fire Vanilla.",
     "addresses": [
         "firevanilla.net"
     ],
@@ -14,7 +15,7 @@
         "1.18.*",
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.19.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"

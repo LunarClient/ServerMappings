@@ -1,0 +1,32 @@
+{
+    "id": "nitrosmp",
+    "name": "NitroSMP",
+    "store": "https://store.nitrosmp.com",
+    "description": "NitroSMP is competitive minecraft server made for the best fighters.",
+    "addresses": [
+        "nitrosmp.com"
+    ],
+    "primaryAddress": "nitrosmp.com",
+    "primaryColor": "#00E4FB",
+    "secondaryColor": "#55CEFB",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+        
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/nitrosmp"
+    }
+}

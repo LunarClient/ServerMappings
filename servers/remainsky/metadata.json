@@ -3,6 +3,7 @@
     "name": "RemainSky",
     "website": "https://remainsky.fr/",
     "store": "https://boutique.remainsky.fr",
+    "description": "Play Minigames and Skyblock on RemainSky.",
     "addresses": [
         "remainsky.fr"
     ],
@@ -24,6 +25,6 @@
     "socials": {
         "discord": "https://discord.gg/remainsky",
         "youtube": "RemainSky",
-        "tiktok": "Remainsky"
+        "tiktok": "@Remainsky"
     }
 }

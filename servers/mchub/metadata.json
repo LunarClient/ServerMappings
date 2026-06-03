@@ -1,7 +1,9 @@
 {
     "id": "mchub",
     "name": "MCHub",
+    "website": "https://mchub.com/",
     "store": "https://buy.mchub.com/",
+    "description": "The hub for the ultimate SkyBlock, Prison, and Survival experience.",
     "addresses": [
         "mchub.com"
     ],
@@ -9,15 +11,10 @@
     "primaryColor": "#a8b5b7",
     "secondaryColor": "#78b36f",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -30,5 +27,10 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/mchub"
+    },
+    "modpack": {
+        "id": "fYyK8OQu",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }

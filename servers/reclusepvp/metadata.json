@@ -2,11 +2,14 @@
     "id": "reclusepvp",
     "name": "Recluse PvP",
     "store": "https://store.reclusepvp.com/",
+    "description": "Build your faction and conquer on Recluse PvP.",
     "addresses": [
         "reclusepvp.com",
         "minesplice.com"
     ],
     "primaryAddress": "play.reclusepvp.com",
+    "primaryColor": "#19B5FE",
+    "secondaryColor": "#FFF7EF",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -14,15 +17,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.16.5",
-    "primaryColor": "#19B5FE",
-    "secondaryColor": "#FFF7EF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Factions"

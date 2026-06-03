@@ -1,19 +1,30 @@
 {
-    "id": "kiopvp",
-    "name": "KioPvP Network",
-    "addresses": [
-        "kiopvp.com"
-    ],
-    "primaryAddress": "kiopvp.com",
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "gameTypes": [
-        "Minigames",
-        "PvP"
-    ],
-    "primaryColor": "#9d3df6",
-    "secondaryColor": "#80480f"
+  "id": "kiopvp",
+  "name": "KioPvP",
+  "description": "Competitive UHCF server.",
+  "addresses": [
+    "kiopvp.org"
+  ],
+  "primaryAddress": "kiopvp.org",
+  "primaryColor": "#7a3cff",
+  "secondaryColor": "#2a003f",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "gameTypes": [
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/uhcf"
+  },
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en"
 }

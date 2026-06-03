@@ -1,13 +1,17 @@
 {
     "id": "skycraftbr",
     "name": "SkyCraft Network",
-    "description": "O melhor servidor brasileiro de Minigames e SkyBlock!",
+    "website": "https://skycraft.com.br",
+    "store": "https://loja.skycraft.com.br",
+    "description": "The best Brazilian Minigames and SkyBlock server!",
     "addresses": [
         "skycraft.com.br",
         "skycraft.network",
         "skycraft.games"
     ],
     "primaryAddress": "original.skycraft.com.br",
+    "primaryColor": "#e09500",
+    "secondaryColor": "#168891",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -18,13 +22,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#e09500",
-    "secondaryColor": "#168891",
-    "primaryLanguage": "pt-BR",
-    "languages": [
-        "pt-BR",
-        "pt-PT"
-    ],
+    "crossplay": false,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -33,25 +31,27 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
     "gameTypes": [
         "Minigames",
         "Skyblock",
         "Creative"
     ],
-    "website": "https://skycraft.com.br",
-    "store": "https://loja.skycraft.com.br",
-    "compliance": {
-        "rules": "https://skycraft.com.br/regras"
-    },
-    "presentationVideo": "WhITZG25Go8",
     "socials": {
         "twitter": "NetworkSkycraft",
         "discord": "https://discord.gg/skycraft",
         "youtube": "@SkyCraftOficial",
         "instagram": "networkskycraft",
         "twitch": "networkskycraft",
-        "tiktok": "networkskycraft",
+        "tiktok": "@networkskycraft",
         "facebook": "NetworkSkycraft"
     },
-    "crossplay": false
+    "compliance": {
+        "rules": "https://skycraft.com.br/regras"
+    },
+    "presentationVideo": "WhITZG25Go8"
 }

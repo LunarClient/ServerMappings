@@ -3,6 +3,7 @@
     "name": "mcstyles",
     "website": "https://mcstyles.pl/",
     "store": "https://mcstyles.pl/servers",
+    "description": "Oficjalny sklep serwera mcstyles.pl",
     "addresses": [
         "mcstyles.pl"
     ],
@@ -25,6 +26,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/c39mKSTw8A",
-        "tiktok": "cotam102"
+        "tiktok": "@cotam102"
     }
 }

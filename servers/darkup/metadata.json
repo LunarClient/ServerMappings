@@ -3,6 +3,7 @@
     "name": "Darkup",
     "website": "https://darkup.cz/",
     "store": "https://darkup.cz/obchod",
+    "description": "Join 360,000+ players on Darkup.cz! Best CZ/SK Minecraft server for PC.",
     "addresses": [
         "darkup.cz"
     ],
@@ -25,13 +26,13 @@
     ],
     "gameTypes": [
         "Survival",
-        "Minigames",    
+        "Minigames",
         "PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/UjDGaTm7yp",
         "instagram": "darkup.cz",
-        "tiktok": "darkup.cz",
+        "tiktok": "@darkup.cz",
         "facebook": "darkup.cz"
     }
 }

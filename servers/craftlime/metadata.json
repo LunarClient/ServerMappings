@@ -3,6 +3,7 @@
     "name": "CraftLime",
     "website": "https://craftlime.net/",
     "store": "https://craftlime.net/giris-yap?redirect=/sepet",
+    "description": "Play Skyblock and PvP on CraftLime.",
     "addresses": [
         "craftlime.net"
     ],
@@ -14,7 +15,7 @@
         "1.17.*",
         "1.18.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.16.5",
     "primaryRegion": "EU",
     "regions": [
         "EU"

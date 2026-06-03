@@ -3,6 +3,7 @@
     "name": "ArcherMC",
     "website": "https://archermc.net/",
     "store": "https://buy.archermc.net/",
+    "description": "Welcome to ArcherMC. We are a Minecraft server that has been online since 2016.",
     "addresses": [
         "archermc.net",
         "archermc.org",
@@ -36,8 +37,7 @@
     "socials": {
         "discord": "https://discord.com/invite/archer",
         "youtube": "Archernetwork",
-        "tiktok": "archernetwork"
-
+        "tiktok": "@archernetwork"
     },
     "presentationVideo": "79iSDvBBOpI"
 }

@@ -2,6 +2,7 @@
     "id": "bankmc",
     "name": "BankMC",
     "store": "https://bankmc.pl/",
+    "description": "Play Skyblock and Survival on BankMC.",
     "addresses": [
         "bankmc.pl"
     ],
@@ -27,6 +28,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/ZKPYRrm6tb",
-        "tiktok": "bankmcpl"
+        "tiktok": "@bankmcpl"
     }
 }

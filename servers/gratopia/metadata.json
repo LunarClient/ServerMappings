@@ -1,0 +1,37 @@
+{
+    "id": "gratopia",
+    "name": "Gratopia",
+    "store": "https://store.gratopia.gg",
+    "wiki": "https://wiki.gratopia.gg",
+    "description": "Gratopia is an economy survival server that supports both Java & Bedrock",
+    "addresses": [
+        "gratopia.gg"
+    ],
+    "primaryAddress": "gratopia.gg",
+    "primaryColor": "#ffc940",
+    "secondaryColor": "#8c94ff",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1"
+    ],
+    "primaryMinecraftVersion": "26.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gratopia",
+        "tiktok": "@gratmc"
+    }
+}

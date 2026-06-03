@@ -1,0 +1,39 @@
+{
+    "id": "wasdmc",
+    "name": "WasdMC",
+    "store": "https://loja.wasdmc.com/",
+    "description": "The best Practice BR server",
+    "addresses": [
+        "wasdmc.com"
+    ],
+    "primaryAddress": "wasdmc.com",
+    "primaryColor": "#2737e8",
+    "secondaryColor": "#e8eaff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/wasdmc"
+    }
+}

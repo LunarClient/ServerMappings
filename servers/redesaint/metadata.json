@@ -1,12 +1,11 @@
 {
     "id": "redesaint",
     "name": "Rede Saint",
-    "description": "A Rede Saint é o melhor Survival com textura e skyblock da comunidade",
+    "description": "Saint Network is the best Survival with texture and skyblock in the community",
     "addresses": [
         "redesaint.com"
     ],
     "primaryAddress": "redesaint.com",
-    "crossplay": true,
     "primaryColor": "#ffe60e",
     "secondaryColor": "#4afeff",
     "minecraftVersions": [
@@ -19,6 +18,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"

@@ -1,0 +1,42 @@
+{
+    "id": "minecub",
+    "name": "Minecub",
+    "website": "https://www.minecub.es",
+    "store": "https://tienda.minecub.net",
+    "description": "The house of Destroy the Nexus",
+    "addresses": [
+        "minecub.net",
+        "minecub.es"
+    ],
+    "primaryAddress": "mc.minecub.net",
+    "primaryColor": "#75d32c",
+    "secondaryColor": "#979c96",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minecub",
+        "tiktok": "@minecubtv",
+        "youtube": "@Minecub",
+        "twitter": "@Minecub"
+    }
+}

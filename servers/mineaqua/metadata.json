@@ -1,0 +1,61 @@
+{
+    "id": "mineaqua",
+    "name": "MineAqua Network",
+    "website": "https://mineaqua.net/",
+    "store": "https://tienda.mineaqua.net/",
+    "wiki": "https://mineaqua.net/foro/",
+    "description": "Premium experience for everyone!",
+    "addresses": [
+        "mineaqua.us",
+        "mineaqua.net",
+        "mineaqua.es"
+    ],
+    "primaryAddress": "mc.mineaqua.net",
+    "primaryColor": "#2196f3",
+    "secondaryColor": "#2F63AB",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "MineAquaNetwork",
+        "discord": "https://discord.gg/XvemNRr",
+        "youtube": "mineaquanet",
+        "instagram": "mineaquanetwork",
+        "tiktok": "@mineaquanetwork"
+    },
+    "compliance": {
+        "privacyPolicy": "https://mineaqua.net/privacy",
+        "termsOfService": "https://mineaqua.net/terms",
+        "rules": "https://mineaqua.net/reglas",
+        "support": "https://mineaqua.net/soporte"
+    },
+    "presentationVideo": "GIPEhBajR6E",
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#2196f3",
+            "upperColor": "#2F63AB"
+        }
+    }
+}

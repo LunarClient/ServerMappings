@@ -10,17 +10,13 @@
         "apollo.lunarclient.com"
     ],
     "primaryAddress": "lunar.gg",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -28,6 +24,10 @@
         "OC",
         "AS",
         "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"
