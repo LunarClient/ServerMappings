@@ -4,7 +4,7 @@
   "description": "Minecraft network with unique survival and competitive gamemodes.",
   "primaryAddress": "mc.brevthcraft.net",
   "addresses": [
-    "mc.brevthcraft.net"
+    "brevthcraft.net"
   ],
   "primaryColor": "#00AAFF",
   "secondaryColor": "#0055FF",
@@ -28,9 +28,5 @@
     "Minigames",
     "PvP"
   ],
-  "website": "https://brevthcraft.net",
-  "discord": "https://discord.com/invite/brevth-craft",
-  "youtube": "BrevthCraft",
-  "instagram": "brevthcraft",
-  "tiktok": "brevthcraft"
+  "website": "https://brevthcraft.net"
 }
