@@ -1,6 +1,8 @@
 {
   "id": "cpvp",
   "name": "CPvP",
+  "website": "https://cpvp.gg",
+  "store": "https://store.cpvp.gg",
   "description": "A Crystal PvP Battle royale server with custom features and a unique experience.",
   "primaryAddress": "play.cpvp.gg",
   "addresses": [
@@ -29,7 +31,7 @@
     "PvP",
     "Minigames"
   ],
-  "website": "https://cpvp.gg",
-  "discord": "https://discord.gg/invite/royale",
-  "store": "https://store.cpvp.gg"
+  "socials": {
+      "discord": "https://discord.gg/invite/royale"
+  }
 }
