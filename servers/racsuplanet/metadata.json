@@ -1,0 +1,29 @@
+{
+    "id": "racsuplanet",
+    "name": "Racsu Planet",
+    "store": "https://tienda.racsu.com/",
+    "description": "Racsu Planet - Lands and Wars SMP",
+    "addresses": [
+        "racsu.com"
+    ],
+    "primaryAddress": "play.racsu.com",
+    "primaryColor": "#ff1c4d",
+    "secondaryColor": "#5c0014",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/c9BGhDMd2J"
+    }
+}

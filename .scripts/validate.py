@@ -11,10 +11,11 @@ import os
 import sys
 
 import jsonschema
-import requests
 from tld.utils import get_tld
 from collections import defaultdict
 from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark, get_all_versions
+
+RESULTS_FILE = "pr_results.json"
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -36,6 +37,16 @@ FILE_WHITELIST = [
     "docs",
 ]
 
+HOSTING_DOMAIN_BLACKLIST = [
+    # https://apexminecrafthosting.com/
+    "mc.gg",
+    "apexmc.co",
+    # https://lilypad.gg/
+    "smp.fan",
+    "modpack.lol",
+    "minecraft.vodka",
+    "minecraft.horse"
+]
 
 
 
@@ -70,79 +81,54 @@ def main():
     metadata_errors = check_metadata(arguments)
     all_errors = check_media(arguments, metadata_errors)
 
-    # If no errors happened for anything above add ready for review tag.
     pull_id = os.getenv("PR_ID")
     if all(len(section) == 0 for section in all_errors.values()):
-        if pull_id:
-            res = requests.post(
-                f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
-                json={"labels": ["Ready for review"]},
-                headers={
-                    "Accept": "application/vnd.github+json",
-                    "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
-                },
-                timeout=30,
-            )
-
-            res.raise_for_status()
-
-        print("No errors occured. PR is ready for manual review.")
+        write_results(pull_id, "ready", {})
+        print("No errors occurred. PR is ready for manual review.")
         sys.exit(0)
     else:
-        # Remove previously added labels if there is a pull_id
-        if pull_id:
-            res = requests.delete(
-                f"https://api.github.com/repos/LunarClient/ServerMappings/issues/{pull_id}/labels",
-                headers={
-                    "Accept": "application/vnd.github+json",
-                    "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
-                },
-                timeout=30,
-            )
-
-            res.raise_for_status()
-
-        # Post Feedback
-        post_comment(all_errors)
+        write_results(pull_id, "failed", all_errors)
         print(all_errors)
         sys.exit(1)
 
 
+def write_results(pull_id, status: str, messages: dict[str, list[str]]):
+    """
+    Persist validation results to a JSON artifact for the post-validation feedback
+    workflow to consume. The validation job runs untrusted PR code without secrets,
+    so it cannot post to the GitHub API directly — a separate workflow_run-triggered
+    job in the trusted base repo context reads this file and posts the comment/label.
+    """
+    if not pull_id:
+        return
+
+    try:
+        pr_id = int(pull_id)
+    except (TypeError, ValueError):
+        return
+
+    payload = {
+        "pr_id": pr_id,
+        "status": status,
+        "errors": messages,
+    }
+    with open(RESULTS_FILE, "w", encoding="UTF-8") as results_file:
+        json.dump(payload, results_file)
+
+
 def post_comment(messages: dict[str, list[str]]):
     """
-    This method posts the validation errors from the servers as a comment on the pull request with
-    the author being LunarClientBot.
-
-    Parameters:
-        messages (dict[str, list[str]]): A dictionary containing the validation errors. The keys
-                                         are server IDs and the values are lists of error messages.
+    Records validation errors so the feedback workflow can post them as a review
+    comment on the PR. Kept as a thin wrapper around write_results so existing
+    callers in validate_root continue to work.
     """
-
-    # Check for Pull Request ID, wont be present if running locally
     pull_id = os.getenv("PR_ID")
     if not pull_id:
-        print("Errors happened but there was no PR_ID found..?")
+        print("Errors happened but there was no PR_ID found.")
         print(messages)
-        exit(1)
+        return
 
-    # Build comment
-    comment = ""
-    for server_id, errors in messages.items():
-        if len(errors) == 0:
-            continue
-
-        comment += f"\n\nErrors found for **{server_id}**:\n- " + "\n- ".join(errors)
-
-    # Request changes
-    requests.post(
-        f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/reviews",
-        json={"body": comment, "event": "REQUEST_CHANGES"},
-        headers={
-            "Accept": "application/vnd.github.v3+json",
-            "Authorization": f"Token {os.getenv('BOT_PAT')}",
-        },
-        timeout=30,
-    )
+    write_results(pull_id, "failed", messages)
 
 
 def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
@@ -218,6 +204,7 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
             messages[server_id] = [f"{server_id} is being edited but is in the inactive file!"]
 
     # Looping over each server folder
+    seen_domains = defaultdict(set)
     for root, _, _ in os.walk(args.servers_dir):
         server_id = root.split(os.path.sep)[-1]
         if (
@@ -241,12 +228,15 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                     primary_domain = get_tld(server.get("primaryAddress", ""), as_object=True, fail_silently=True, fix_protocol=True)
                     if primary_domain is not None and primary_domain.fld not in server["addresses"]:
                         messages[server_id].append(f"The primary address' domain ({primary_domain.fld}) is not in the addresses list. Or the primary address is not a valid domain.")
+                    elif primary_domain is None:
+                        messages[server_id].append(f"The primary address `{server.get('primaryAddress', '')}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
 
 
                     all_versions = get_all_versions(server["minecraftVersions"])
                     if server["primaryMinecraftVersion"] not in all_versions:
                         ver = server["primaryMinecraftVersion"].split(".")
-                        messages[server_id].append(f"The primary minecraft version (`{server['primaryMinecraftVersion']}` or `{ver[0]}.{ver[1]}.*`) is not in the minecraftVersions list.")
+                        wildcard = f"{ver[0]}.*" if len(ver) == 2 else f"{ver[0]}.{ver[1]}.*"
+                        messages[server_id].append(f"The primary minecraft version (`{server['primaryMinecraftVersion']}` or `{wildcard}`) is not in the minecraftVersions list.")
 
                     
                     for address in server["addresses"]:
@@ -254,8 +244,19 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                             continue
 
                         domain = get_tld(address, as_object=True, fail_silently=True, fix_protocol=True)
+
+                        if domain is not None and domain.fld in HOSTING_DOMAIN_BLACKLIST:
+                            messages[server_id].append(f"The domain {domain.fld} belongs to a hosting provider. You must use a custom domain that you fully own (e.g. myserver.com instead of myserver.hosting.com). Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata#addresses).")
+                        
                         if domain is not None and domain.subdomain:
                             messages[server_id].append(f"{address} does not follow the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata). Please make sure the address is a valid domain, and does not have a subdomain.")
+                        
+                        if domain is not None and domain.fld in seen_domains:
+                            messages[server_id].append(f"The domain {domain.fld} is also present in {', '.join(map(lambda s: f"`{s}`", seen_domains[domain.fld]))}. Please ensure each server has a unique domain(s).")
+                        elif domain is not None:
+                            seen_domains[domain.fld].add(server_id)
+                        else:
+                            messages[server_id].append(f"`{address}` is not a valid domain. Please review the [documentation](https://lunarclient.dev/server-mappings/adding-servers/metadata).")
                     
                     if primary_region := server.get("primaryRegion"):
                         if not (regions := server.get("regions")) or primary_region not in regions:

@@ -5,7 +5,6 @@
     "store": "https://tienda.exodiamc.net",
     "description": "A Spanish-speaking server that offers fair gameplay for everyone.",
     "addresses": [
-        "gamesmadeinpola.com",
         "exodiamc.net"
     ],
     "primaryAddress": "exodiamc.net",

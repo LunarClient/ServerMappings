@@ -2,6 +2,7 @@
     "id": "clunith",
     "name": "Clunith Nodes",
     "store": "https://store.clunith.com/",
+    "description": "Play HCF, PvP, and more on Clunith Nodes.",
     "addresses": [
         "clunith.com"
     ],

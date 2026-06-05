@@ -5,17 +5,20 @@
     "description": "One of the biggest servers in Brazil!",
     "addresses": [
         "redescreen.com",
-        "redereset.com"
+        "redereset.com",
+        "minecraftdev.com"
     ],
     "primaryAddress": "redescreen.com",
     "primaryColor": "#EF6C00",
     "secondaryColor": "#F9A825",
     "minecraftVersions": [
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.21.8", 
+        "1.21.9", 
+        "1.21.10", 
+        "1.21.11",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.5",
+    "primaryMinecraftVersion": "1.21.8",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [

@@ -1,0 +1,33 @@
+{
+    "id": "tenshimc",
+    "name": "TenshiMC",
+    "description": "A french new generation Skyblock server.",
+    "addresses": [
+        "tenshimc.fr"
+    ],
+    "primaryAddress": "beta.tenshimc.fr",
+    "primaryColor": "#C27BA0",
+    "secondaryColor": "#2E303F",
+    "minecraftVersions": [
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "tenshiskyblock",
+        "tiktok": "@tenshimc.skyblock",
+        "discord": "https://discord.gg/tenshimc"
+    }
+}

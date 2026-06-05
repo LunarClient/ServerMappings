@@ -1,7 +1,7 @@
 {
     "id": "hoplite",
     "name": "Hoplite",
-    "website": "https://hoplite.gg/",
+    "website": "https://www.hoplite.gg/",
     "store": "https://store.hoplite.gg/",
     "description": "A Minecraft PvP network with innovative new gamemodes and proximity voice chat",
     "addresses": [
@@ -11,24 +11,40 @@
     "primaryColor": "#fcc694",
     "secondaryColor": "#fa3635",
     "minecraftVersions": [
-        "1.21.8",
-        "1.21.9",
-        "1.21.10",
-        "1.21.11"
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2"
     ],
-    "primaryMinecraftVersion": "1.21.8",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
-        "NA"
+        "NA",
+        "EU",
+        "AS"
     ],
     "primaryLanguage": "en",
     "languages": [
-        "en"
+        "en",
+        "es-EN",
+        "it",
+        "tr",
+        "ar",
+        "zh-CN",
+        "nl",
+        "fr",
+        "de",
+        "el",
+        "ja",
+        "pl",
+        "pt-BR",
+        "sv-SE"
     ],
     "gameTypes": [
-        "Minigames",
-        "PvP"
+        "PvP",
+        "Hardcore",
+        "UHC"
     ],
     "socials": {
         "twitter": "hoplitenetwork",
@@ -39,5 +55,11 @@
         "id": "oVn5uNcU",
         "promptBeforeGameJoin": true,
         "promptBeforeLauncherJoin": true
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.hoplite.gg/privacy",
+        "termsOfService": "https://www.hoplite.gg/terms-of-service",
+        "rules": "https://www.hoplite.gg/rules",
+        "support": "https://www.hoplite.gg/contact-us"
     }
 }
