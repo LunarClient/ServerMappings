@@ -13,8 +13,8 @@
   "crossplay": true,
   "primaryRegion": "AS",
   "regions": ["AS"],
-  "primaryLanguage": "th",
-  "languages": ["th", "en"],
+  "primaryLanguage": "en",
+  "languages": ["en"],
   "gameTypes": ["Survival"],
   "socials": {
     "discord": "https://discord.gg/zJvqw9B3r3"
