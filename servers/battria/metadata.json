@@ -1,11 +1,11 @@
 {
-    "id": "Battria",
+    "id": "battria",
     "name": "Battria",
     "description": "Home of the most immersive Towny experience",
     "addresses": [
-        "Battria.net"
+        "battria.net"
     ],
-    "primaryAddress": "Battria.net",
+    "primaryAddress": "battria.net",
     "primaryColor": "#FF00CC",
     "secondaryColor": "#951AD9",
     "minecraftVersions": [
