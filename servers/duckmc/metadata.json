@@ -1,0 +1,45 @@
+{
+    "id": "duckmc",
+    "name": "DuckMC",
+    "website": "https://www.duckmc.com.br/",
+    "store": "https://www.duckmc.com.br/loja",
+    "description": "Formed by passionate players who venture into Minigames!",
+    "addresses": [
+        "duckmc.com.br"
+    ],
+    "primaryAddress": "duckmc.com.br",
+    "primaryColor": "#f1c40f",
+    "secondaryColor": "#cc681c",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://duckmc.com.br/discord",
+        "youtube": "@JogueDuckMC",
+        "instagram": "jogueduckmc",
+        "tiktok": "@jogueduckmc"
+    }
+}
