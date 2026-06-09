@@ -11,9 +11,9 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
-    "primaryColor": "#55ff55",
-    "secondaryColor": "#55ffff",
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ff5555",
+    "secondaryColor": "#aa0000",
     "primaryLanguage": "en",
     "languages": [
         "nl",
@@ -28,7 +28,8 @@
         "Beastfactions",
         "Economy",
         "custom_gamemodes",
-        "BeastTopia".
+        "BeastTopia_Apocalypse",
+        ""
     
     ],
     "website": "https://plumomc.nl",
