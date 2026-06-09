@@ -1,47 +1,41 @@
-{
-    "id": "lunarnetwork",
-    "name": "Lunar Network",
-    "description": "Home of Competitive Minecraft PvP",
+{{
+    "id": "plumomc",
+    "name": "PlumoMC",
+    "description": "De gezelligste Belgiese Minecraft community!",
     "addresses": [
-        "lunar.gg",
-        "lunargg.dev",
-        "mcteams.com"
+        "play.plumomc.nl",
+        "plumomc.nl"
     ],
-    "primaryAddress": "lunar.gg",
+    "primaryAddress": "play.plumomc.nl",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
-    "primaryLanguage": "en",
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#55ff55",
+    "secondaryColor": "#55ffff",
+    "primaryLanguage": "nl",
     "languages": [
+        "nl",
         "en"
     ],
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+        "EU"
     ],
     "gameTypes": [
-        "PvP"
+        "Survival",
+        "SkyBlock",
+        "Economy"
     ],
-    "website": "https://www.lunar.gg",
-    "store": "https://store.lunar.gg",
+    "website": "https://plumomc.nl",
+    "store": "https://store.plumomc.nl",
     "compliance": {
-        "privacyPolicy": "https://www.lunar.gg/privacy",
-        "termsOfService": "https://www.lunar.gg/terms",
-        "rules": "https://www.lunar.gg/rules"
+        "privacyPolicy": "https://plumomc.nl/privacy",
+        "termsOfService": "https://plumomc.nl/terms"
     },
-    "presentationVideo": "7EV4cPuJvXE",
     "socials": {
-        "twitter": "LunarNetwork",
-        "telegram": "lunarnetwork",
-        "discord": "https://www.lunar.gg/discord"
+        "discord": "https://discord.gg/haTbGXnw7g"
     },
     "crossplay": false
 }
