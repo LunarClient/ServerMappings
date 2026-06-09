@@ -11,35 +11,25 @@
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#ff5555",
-    "secondaryColor": "#aa0000",
-    "primaryLanguage": "en",
+    "secondaryColor": "#55ffff",
+    "primaryLanguage": "nl",
     "languages": [
-        "nl",
-        "en"
+        "nl"
     ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "Plumo_smp",
-        "Beastfactions",
-        "Economy",
-        "custom_gamemodes",
-        "BeastTopia_Apocalypse",
-        ""
-    
+        "Survival",
+        "Factions"
     ],
     "website": "https://plumomc.com",
-    "store": "https://store.plumomc.com",
-    "compliance": {
-        "privacyPolicy": "https://plumomc.com/privacy",
-        "termsOfService": "https://plumomc.com/terms"
-    },
+    "compliance": {},
     "socials": {
-        "discord": "https://discord.gg/haTbGXnw7g"
+        "discord": "https://discord.gg/invite/4ceEJuH"
     },
     "crossplay": false
 }
