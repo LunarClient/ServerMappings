@@ -1,7 +1,7 @@
 {{
     "id": "plumomc",
     "name": "PlumoMC",
-    "description": "De gezelligste BE/NL Minecraft community!",
+    "description": "The coziest BE/NL Minecraft server with Plumo_SMP, Beast_Factions, and more coming soon!",
     "addresses": [
         "play.plumomc.com",
         "plumomc.com"
@@ -32,11 +32,11 @@
         ""
     
     ],
-    "website": "https://plumomc.nl",
-    "store": "https://store.plumomc.nl",
+    "website": "https://plumomc.com",
+    "store": "https://store.plumomc.com",
     "compliance": {
-        "privacyPolicy": "https://plumomc.nl/privacy",
-        "termsOfService": "https://plumomc.nl/terms"
+        "privacyPolicy": "https://plumomc.com/privacy",
+        "termsOfService": "https://plumomc.com/terms"
     },
     "socials": {
         "discord": "https://discord.gg/haTbGXnw7g"
