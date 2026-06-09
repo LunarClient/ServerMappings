@@ -26,8 +26,10 @@
     "gameTypes": [
         "Plumo_smp",
         "Beastfactions",
-        "Economy"
-        "beast
+        "Economy",
+        "custom_gamemodes",
+        "BeastTopia".
+    
     ],
     "website": "https://plumomc.nl",
     "store": "https://store.plumomc.nl",
