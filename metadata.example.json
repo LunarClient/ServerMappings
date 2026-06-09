@@ -1,12 +1,12 @@
 {{
     "id": "plumomc",
     "name": "PlumoMC",
-    "description": "De gezelligste Belgiese Minecraft community!",
+    "description": "De gezelligste BE/NL Minecraft community!",
     "addresses": [
-        "play.plumomc.nl",
-        "plumomc.nl"
+        "play.plumomc.com",
+        "plumomc.com"
     ],
-    "primaryAddress": "play.plumomc.nl",
+    "primaryAddress": "play.plumomc.com",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
@@ -14,7 +14,7 @@
     "primaryMinecraftVersion": "1.20.4",
     "primaryColor": "#55ff55",
     "secondaryColor": "#55ffff",
-    "primaryLanguage": "nl",
+    "primaryLanguage": "en",
     "languages": [
         "nl",
         "en"
