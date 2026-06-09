@@ -1,11 +1,10 @@
-{
+{{
     "id": "plumomc",
     "name": "PlumoMC",
     "description": "The coziest BE/NL Minecraft server with Plumo_SMP, Beast_Factions, and more coming soon!",
     "addresses": [
         "play.plumomc.com",
         "plumomc.com"
-
     ],
     "primaryAddress": "play.plumomc.com",
     "minecraftVersions": [
@@ -15,8 +14,9 @@
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#ff5555",
     "secondaryColor": "#aa0000",
-    "primaryLanguage": "nl",
+    "primaryLanguage": "en",
     "languages": [
+        "nl",
         "en"
     ],
     "primaryRegion": "EU",
@@ -29,9 +29,17 @@
         "Economy",
         "custom_gamemodes",
         "BeastTopia_Apocalypse",
-        
+        ""
+    
+    ],
     "website": "https://plumomc.com",
+    "store": "https://store.plumomc.com",
+    "compliance": {
+        "privacyPolicy": "https://plumomc.com/privacy",
+        "termsOfService": "https://plumomc.com/terms"
+    },
     "socials": {
         "discord": "https://discord.gg/haTbGXnw7g"
     },
     "crossplay": false
+}
