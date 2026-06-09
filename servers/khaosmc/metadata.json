@@ -1,45 +1,28 @@
 {
-  "id": "khaosmc",
-  "name": "KHAOSMC Network",
-  "description": "Network hispana enfocada en Survival OP, PvP y eventos personalizados.",
-
-  "addresses": [
-    "khaosmc.net"
-  ],
-  "primaryAddress": "khaosmc.net",
-
-  "website": "https://khaosmc.net",
-
-  "minecraftVersions": [
-    "1.21.8",
-    "1.21.9",
-    "1.21.10",
-    "1.21.11"
-  ],
-
-  "primaryColor": "#FF0000",
-  "secondaryColor": "#1A1A1A",
-
-  "primaryLanguage": "es",
-  "languages": [
-    "es"
-  ],
-
-  "primaryRegion": "SA",
-  "regions": [
-    "SA"
-  ],
-
-  "crossplay": true,
-
-  "socials": {
-    "discord": "https://discord.gg/khaosmc",
-    "tiktok": "https://www.tiktok.com/@khaosmc"
-  },
-
-  "gameTypes": [
-    "Survival",
-    "PvP",
-    "Events"
-  ]
+    "id": "khaosmc",
+    "name": "KHAOSMC Network",
+    "store": "https://tienda.khaosmc.net/",
+    "description": "Network hispana enfocada en Survival OP, PvP y eventos personalizados.",
+    "addresses": [
+        "khaosmc.net"
+    ],
+    "primaryAddress": "khaosmc.net",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/khaosmc",
+        "tiktok": "@khaosmc"
+    }
 }
