@@ -4,6 +4,7 @@
     "description": "De gezelligste BE/Nl Minecraft server met SMP, Factions.",
     "addresses": [
         "play.plumomc.com",
+        "plumomc.com"
 
     ],
     "primaryAddress": "play.plumomc.com",
