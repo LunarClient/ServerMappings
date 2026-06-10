@@ -26,11 +26,10 @@
     "gameTypes": [
         "KitMap",
         "Practice",
-        "SkyWars",
-        "BedWars",
-        "Survival"
+        "BedWars"
     ],
+    "crossplay": true,
     "socials": {
-        "discord": "https://discord.gg//YXSweW28HU"
+        "discord": "https://discord.gg/YXSweW28HU"
     }
 }
