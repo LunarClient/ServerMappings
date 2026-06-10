@@ -1,7 +1,7 @@
 {
     "id": "koruh",
     "name": "Koruh",
-    "description": "Join Koruh and enjoy SkyWars, BedWars, KitMap, Practice, Survival, and many other unique experiences with friends.",
+    "description": "Play SkyWars, BedWars, Survival and more on Koruh.",
     "addresses": [
         "koruh.rip"
     ],
@@ -24,9 +24,9 @@
         "NA"
     ],
     "gameTypes": [
-        "KitMap",
-        "Practice",
-        "BedWars"
+        "PvP",
+        "Minigames",
+        "Survival"
     ],
     "crossplay": true,
     "socials": {
