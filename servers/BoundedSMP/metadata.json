@@ -1,0 +1,28 @@
+{
+    "id": "boundedsmp",
+    "name": "Bounded SMP",
+    "description": "A scripted Minecraft SMP.",
+    "addresses": [
+        "boundedsmp.xyz"
+    ],
+    "primaryAddress": "boundedsmp.xyz",
+    "website": "https://boundedsmp.xyz/",
+    "minecraftVersions": [
+        "1.21",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#5500ff",
+    "secondaryColor": "#1e0057",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.com/invite/2GTKDkaPsp"
+    }
+}
