@@ -1,0 +1,14 @@
+{
+    "id": "redecanary",
+    "name": "Rede Canary",
+    "website": "https://redecanary.net/",
+    "addresses": [
+        "redecanary.net"
+    ],
+    "primaryColor": "#eca603",
+    "secondaryColor": "#414c4b",
+    "socials": {
+        "twitter": "redecanaryoficial",
+        "discord": "https://discord.gg/RxXTKBTrsw"
+    }
+}
