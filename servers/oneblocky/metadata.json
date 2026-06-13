@@ -6,7 +6,6 @@
     "addresses": [
         "oneblocky.com"
     ],
-    "crossplay": true,
     "primaryAddress": "play.oneblocky.com",
     "primaryColor": "#50D5FF",
     "secondaryColor": "#F44952",
@@ -20,6 +19,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"

@@ -2,6 +2,7 @@
     "id": "exem",
     "name": "Exem Network",
     "store": "https://store.exempvp.es/",
+    "description": "Play HCF and PvP on Exem Network.",
     "addresses": [
         "exempvp.es"
     ],

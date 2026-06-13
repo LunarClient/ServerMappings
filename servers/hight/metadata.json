@@ -1,6 +1,7 @@
 {
     "id": "hight",
     "name": "Hight",
+    "description": "Play Minigames and PvP on Hight.",
     "addresses": [
         "hightmc.com"
     ],

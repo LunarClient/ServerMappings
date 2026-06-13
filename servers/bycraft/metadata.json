@@ -2,6 +2,7 @@
     "id": "bycraft",
     "name": "ByCraft Network",
     "store": "https://tienda.bycraft.net/",
+    "description": "Play Survival, Skyblock, and more on ByCraft Network.",
     "addresses": [
         "bycraft.net"
     ],

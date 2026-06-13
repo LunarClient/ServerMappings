@@ -1,32 +1,32 @@
 {
     "id": "cobaltpvp",
     "name": "CobaltPvP",
+    "website": "https://www.cobaltpvp.com",
     "description": "The ultimate PvP experience",
     "addresses": [
         "cobaltpvp.com"
     ],
     "primaryAddress": "cobaltpvp.com",
+    "primaryColor": "#ed53f5",
+    "secondaryColor": "#7e0085",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ed53f5",
-    "secondaryColor": "#7e0085",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
-    "website": "https://www.cobaltpvp.com",
     "socials": {
         "discord": "https://discord.gg/cMdbHEJz5U"
-    },
-    "crossplay": false
+    }
 }

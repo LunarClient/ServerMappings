@@ -1,11 +1,15 @@
 {
     "id": "staily",
     "name": "Staily",
+    "website": "https://www.staily.net",
+    "store": "https://staily.net/store",
     "description": "The place of reimagination and endless fun.",
     "addresses": [
         "staily.net"
     ],
     "primaryAddress": "staily.net",
+    "primaryColor": "#aa00aa",
+    "secondaryColor": "#ff55ff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,28 +20,20 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#aa00aa",
-    "secondaryColor": "#ff55ff",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
     "primaryLanguage": "pt-BR",
     "languages": [
         "pt-BR",
         "en"
     ],
-    "primaryRegion": "SA",
-    "regions": [
-        "SA"
-    ],
     "gameTypes": [
         "Minigames",
         "PvP"
     ],
-    "website": "https://www.staily.net",
-    "store": "https://staily.net/store",
-    "compliance": {
-        "privacyPolicy": "https://www.staily.net/privacy",
-        "termsOfService": "https://www.staily.net/terms",
-        "rules": "https://www.staily.net/rules"
-    },
     "socials": {
         "twitter": "stailynetwork",
         "discord": "https://discord.com/invite/anECNePmRF",
@@ -48,5 +44,9 @@
         "facebook": "stailynetwork",
         "reddit": "staily"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://www.staily.net/privacy",
+        "termsOfService": "https://www.staily.net/terms",
+        "rules": "https://www.staily.net/rules"
+    }
 }
