@@ -1,0 +1,16 @@
+{
+    "id": "redecanary",
+    "name": "Rede Canary",
+    "description": "Brazilian Minecraft network with minigames and PvP.",
+    "website": "https://redecanary.net/",
+    "addresses": [
+        "redecanary.net"
+    ],
+    "primaryAddress": "redecanary.net",
+    "primaryColor": "#eca603",
+    "secondaryColor": "#414c4b",
+    "socials": {
+        "twitter": "redeskyoficial",
+        "discord": "https://discord.gg/RxXTKBTrsw"
+    }
+}
