@@ -1,11 +1,9 @@
 {
-    "id": "plumsmp",
+    "id": "PlumSMP",
     "name": "PlumSMP",
     "description": "Play Survival, Practice, BoxPvP, Lifesteal and more on PlumSMP.",
     "addresses": [
         "totemmc.net",
-        "play.totemmc.fun",
-        "play.totemmc.com",
         "craftorium.fun",
         "plumsmp.net"
     ],
@@ -18,8 +16,7 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.0.*",
-        "26.1.*"
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
