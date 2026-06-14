@@ -19,7 +19,7 @@
         "1.20.*",
         "1.21.*",
         "26.0.*",
-        "26.1.*",
+        "26.1.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
