@@ -1,0 +1,42 @@
+{
+    "id": "rbw",
+    "name": "Ranked Bedwars",
+    "description": "RBW is the #1 competitive Minecraft server for Bedwars, practice, and PvP.",
+    "primaryAddress": "rbw.gg",
+    "addresses": [
+        "rbw.gg"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryColor": "#8e51ff",
+    "secondaryColor": "#51b1ff",
+    "website": "https://rbw.gg",
+    "store": "https://rbw.gg/store",
+    "presentationVideo": "A8rDujoExVA",
+    "socials": {
+        "discord": "https://discord.gg/rankedbedwars",
+        "youtube": "@RankedBedwarsOfficial",
+        "instagram": "rankedbedwarsofficial",
+        "tiktok": "@rankedbedwarsofficial"
+    },
+    "compliance": {
+        "privacyPolicy": "https://rbw.gg/privacy",
+        "termsOfService": "https://rbw.gg/terms",
+        "rules": "https://rbw.gg/rules"
+    }
+}
