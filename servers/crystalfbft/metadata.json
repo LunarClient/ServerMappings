@@ -1,0 +1,46 @@
+{
+    "id": "crystalfbft",
+    "name": "crystalfbft",
+    "website": "http://crystalfbft.org",
+    "description": "The longest running server on mcsh!",
+    "addresses": [
+        "play.crystalfbft.org"
+    ],
+    "primaryAddress": "play.crystalfbft.org",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#00008B",
+    "minecraftVersions": [
+      "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "SMP",
+        "Survival",
+        "PVP"
+    ],
+    "socials": {
+        "discord": "https://crystalfbft.org/discord"
+    }
+}
