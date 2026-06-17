@@ -1,0 +1,38 @@
+{
+  "id": "squidmc",
+  "name": "SquidMC",
+  "description": "Server PvP più competitivo. BedWars realistiche e sfide epiche su Minecraft",
+  "addresses": [
+    "squidmc.it"
+  ],
+  "primaryAddress": "play.squidmc.it",
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Roleplay"
+  ],
+  "primaryColor": "#3A62F2",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21.8"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://squidmc.it/",
+  "wiki": "https://squidmc.it/guida",
+  "store": "https://squidmc.it/store",
+  "socials": {
+    "discord": "https://discord.gg/squidmc"
+  },
+  "compliance": {
+    "rules": "https://squidmc.it/regolamento",
+    "support": "https://discord.gg/squidmc"
+  }
+}
