@@ -25,8 +25,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Survival",
-        "Skywars"
+        "Survival"
     ],
     "store": "https://tienda.astreosmc.net",
     "presentationVideo": "jxKG6d7LqqQ",
