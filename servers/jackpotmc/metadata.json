@@ -4,8 +4,8 @@
   "website": "https://store.jackpotmc.com/",
   "store": "https://store.jackpotmc.com/",
   "description": "Play Survival and PvP on JackpotMC.",
-  "addresses": ["play.jackpotmc.com"],
-  "primaryAddress": "play.jackpotmc.com",
+  "addresses": ["jackpotmc.com"],
+  "primaryAddress": "jackpotmc.com",
   "primaryColor": "#ffd200",
   "secondaryColor": "#ff8000",
   "minecraftVersions": ["1.20.*", "1.21.*", "26.*"],
@@ -17,6 +17,6 @@
   "socials": {
     "twitter": "JackpotNetwork",
     "discord": "https://discord.com/invite/jackpotmc",
-    "youtube": "https://www.youtube.com/@Jackpot_MC"
+    "youtube": "@Jackpot_MC"
   }
 }
