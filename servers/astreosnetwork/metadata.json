@@ -1,7 +1,7 @@
 {
     "id": "astreosnetwork",
     "name": "Astreos Network",
-    "description": "Servidor de Minecraft con modalidades KitPvP, Survival RPG y eventos competitivos",
+    "description": "Servidor de Minecraft con varias modalidades y eventos competitivos",
     "addresses": [
         "astreosmc.net"
     ],
@@ -15,10 +15,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#44a1e3",
     "secondaryColor": "#a854de",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
-        "en"
+        "es-EN"
     ],
     "primaryRegion": "NA",
     "regions": [
@@ -27,8 +26,7 @@
     "gameTypes": [
         "PvP",
         "Survival",
-        "Skywars",
-        "Pronto mas modalidades"
+        "Skywars"
     ],
     "store": "https://tienda.astreosmc.net",
     "presentationVideo": "jxKG6d7LqqQ",
