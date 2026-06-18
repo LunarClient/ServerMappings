@@ -1,0 +1,32 @@
+{
+    "id": "kazusmp",
+    "name": "Kazu SMP",
+    "description": "Forge your legend on a community survival SMP with personal gardens",
+    "addresses": [
+        "kazusmp.fr"
+    ],
+    "primaryAddress": "play.kazusmp.fr",
+    "minecraftVersions": [
+        "26.1"
+    ],
+    "primaryMinecraftVersion": "26.1",
+    "primaryColor": "#fe8602",
+    "secondaryColor": "#4f9100",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "website": "https://kazusmp.fr",
+    "store": "https://kazusmp.fr",
+    "socials": {
+        "discord": "https://discord.gg/QFaeNAhhJr"
+    },
+    "crossplay": false
+}
