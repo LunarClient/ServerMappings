@@ -10,8 +10,8 @@
     "Survival",
     "Minigames"
   ],
-  "primaryColor": "#3B82F6",
-  "secondaryColor": "#8B5CF6",
+  "primaryColor": "#fcd52a",
+  "secondaryColor": "#1F89FF",
   "minecraftVersions": [
     "1.21.4"
   ],
@@ -26,6 +26,6 @@
   ],
   "website": "https://skyplex.cz",
   "socials": {
-    "discord": "https://dc.skyplex.cz"
+    "discord": "https://discord.gg/gWyt3nThhB"
   }
 }
