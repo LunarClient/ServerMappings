@@ -22,5 +22,7 @@
     ],
     "primaryRegion": "NA",
     "store": "https://store.lampnetwork.xyz",
-    "discord": "https://discord.com/invite/nUAtpDK9p9"
+    "socials": {
+        "discord": "https://discord.com/invite/nUAtpDK9p9"
+    }
 }
