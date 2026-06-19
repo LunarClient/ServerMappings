@@ -6,25 +6,20 @@
     "play.dreamnetwork.it"
   ],
   "primaryAddress": "play.dreamnetwork.it",
-
   "gameTypes": [
     "Survival",
-    "SMP"
+    "Open World"
   ],
-
   "primaryColor": "#4FC3F7",
   "secondaryColor": "#FFFFFF",
-
   "minecraftVersions": [
     "1.21.*"
   ],
   "primaryMinecraftVersion": "1.21.8",
-
   "primaryLanguage": "it",
   "languages": [
     "it"
   ],
-
   "primaryRegion": "EU",
   "regions": [
     "EU"
