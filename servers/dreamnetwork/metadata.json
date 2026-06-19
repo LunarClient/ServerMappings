@@ -3,7 +3,7 @@
   "name": "DreamNetwork",
   "description": "Italian SMP network featuring the unique custom Chunked progression mode.",
   "addresses": [
-    "play.dreamnetwork.it"
+    "dreamnetwork.it"
   ],
   "primaryAddress": "play.dreamnetwork.it",
   "gameTypes": [
