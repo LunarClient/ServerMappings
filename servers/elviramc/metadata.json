@@ -1,0 +1,27 @@
+{
+    "id": "elviramc",
+    "name": "ElviraMC",
+    "website": "https://elviramc.tebex.io/",
+    "addresses": [
+        "elviramc.dev"
+    ],
+    "primaryAddress": "mc.elviramc.dev",
+    "primaryColor": "#FF7000",
+    "secondaryColor": "#993D00",
+    "gameTypes": [
+        "PVP"
+    ],
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "socials": {
+        "discord": "https://discord.com/invite/U6dNMz3gXk"
+    }
+}
