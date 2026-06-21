@@ -9,7 +9,7 @@
     "primaryColor": "#FF7000",
     "secondaryColor": "#993D00",
     "gameTypes": [
-        "PVP"
+        "PvP"
     ],
     "minecraftVersions": [
         "1.8.*",
