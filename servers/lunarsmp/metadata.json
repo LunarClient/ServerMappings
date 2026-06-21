@@ -12,7 +12,7 @@
     "minecraftVersions": [
         "26.*"
     ],
-    "primaryMinecraftVersion": "26",
+    "primaryMinecraftVersion": "26.1",
     "primaryRegion": "NA",
     "regions": [
         "NA"
