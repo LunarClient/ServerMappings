@@ -1,0 +1,27 @@
+{
+  "id": "myra",
+  "name": "Myra FFA",
+  "description": "South American Practice PvP server.",
+  "addresses": [
+    "sa.myraffa.xyz"
+  ],
+  "primaryColor": "#0C1F6C",
+  "secondaryColor": "#CA2721",
+  "gameTypes": [
+    "Practice",
+    "PvP"
+  ],
+  "languages": [
+    "es-AR",
+    "en-US"
+  ],
+  "primaryLanguage": "es-AR",
+  "regions": [
+    "SA"
+  ],
+  "primaryRegion": "SA",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11"
+}
