@@ -1,14 +1,12 @@
 {
   "id": "squidmc",
   "name": "SquidMC",
-  "description": "Unisciti anche te su SquidMC e domina il mondo delle armi. Che aspetti?",
+  "description": "Join SquidMC and rise to the top of the smuggling world. What are you waiting for?",
   "addresses": [
     "squidmc.it"
   ],
   "primaryAddress": "play.squidmc.it",
   "gameTypes": [
-    "PvP",
-    "Minigames",
     "Roleplay"
   ],
   "primaryColor": "#3A62F2",
@@ -30,9 +28,11 @@
   "store": "https://squidmc.it/store",
   "socials": {
     "discord": "https://discord.gg/squidmc"
+    "telegram": "SquidNetworkMC"
   },
   "compliance": {
     "rules": "https://squidmc.it/regolamento",
     "support": "https://discord.gg/squidmc"
+    
   }
 }
