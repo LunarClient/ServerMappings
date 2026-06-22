@@ -24,10 +24,9 @@
   ],
   "primaryRegion": "EU",
   "website": "https://squidmc.it/",
-  "wiki": "https://squidmc.it/guida",
   "store": "https://squidmc.it/store",
   "socials": {
-    "discord": "https://discord.gg/squidmc"
+    "discord": "https://discord.gg/squidmc",
     "telegram": "SquidNetworkMC"
   },
   "compliance": {
