@@ -1,13 +1,11 @@
 {
-    "id": "plumsmp",
-    "name": "PlumSMP",
-    "description": "Play Survival, Practice, BoxPvP, Lifesteal and more on PlumSMP.",
+    "id": "cloudberry",
+    "name": "CloudBerry",
+    "description": "CloudBerry: GenPvP with game-changing abilities. Survival, minigames, and more.",
     "addresses": [
-        "totemmc.net",
-        "craftorium.fun",
-        "plumsmp.net"
+        "mc-cloudberry.net"
     ],
-    "primaryAddress": "plumsmp.net",
+    "primaryAddress": "mc-cloudberry.net",
     "primaryColor": "#ff0b0b",
     "secondaryColor": "#600101",
     "minecraftVersions": [
@@ -20,7 +18,7 @@
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
@@ -32,6 +30,6 @@
         "PvE"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/Xc8cRqYtsU"
+        "discord": "https://discord.com/invite/cloudberry"
     }
 }
