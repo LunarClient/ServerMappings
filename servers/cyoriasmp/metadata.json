@@ -8,7 +8,7 @@
   "primaryAddress": "play.cyoriasmp.com",
   "primaryColor": "#00AAFF", 
   "secondaryColor": "#000000",
-  "minecraftVersions": ["1.21.*", "26.*"],
+  "minecraftVersions": ["1.21.*", "26.1.*", "26.2.*"],
   "primaryMinecraftVersion": "1.21.11",
   "crossplay": true,
   "primaryRegion": "AS",
