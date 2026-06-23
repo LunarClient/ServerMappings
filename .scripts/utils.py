@@ -71,9 +71,11 @@ def get_all_servers(
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
 
-        # Add primary game type
+        # Add primary game type, defaulting to the first listed if not set
         game_types = server.get("gameTypes", [])
-        server["primaryGameType"] = game_types[0] if game_types else None
+        server["primaryGameType"] = server.get("primaryGameType") or (
+            game_types[0] if game_types else None
+        )
 
         # Enrich server data
         if "id" not in server:
