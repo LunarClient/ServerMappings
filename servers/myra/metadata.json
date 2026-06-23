@@ -3,7 +3,7 @@
     "name": "Myra FFA",
     "description": "South American Practice PvP server",
     "addresses": [
-        "sa.myraffa"
+        "myraffa"
     ],
     "primaryAddress": "sa.myraffa.xyz",
     "minecraftVersions": [
@@ -15,6 +15,7 @@
     "secondaryColor": "#CA2721",
     "primaryLanguage": "en",
     "languages": [
+        "es_EN",
         "en"
     ],
     "primaryRegion": "SA",
@@ -23,7 +24,8 @@
         "SA"
     ],
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "UHC"
     ],
     "socials": {
         "discord": "https://discord.gg/Mk2vYZu2QR"
