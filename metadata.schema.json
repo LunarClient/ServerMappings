@@ -195,6 +195,9 @@
         "crossplay": {
             "type": "boolean"
         },
+        "offline": {
+            "type": "boolean"
+        },
         "tebexStore": {
             "type": "object",
             "additionalProperties": false,
