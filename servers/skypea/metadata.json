@@ -3,7 +3,7 @@
     "name": "SkyPea Network",
     "description": "New Era of Civilization",
     "addresses": [
-        "play.skypea.it"
+        "skypea.it"
     ],
     "primaryAddress": "play.skypea.it",
     "minecraftVersions": [
@@ -30,7 +30,7 @@
     "website": "https://www.skypea.it",
     "socials": {
         "telegram": "skypea_network",
-        "discord": "https://discord.skypea.it", 
+        "discord": "https://discord.gg/sjpDbeZb9F", 
         "youtube": "@SkyPea_Network", 
         "tiktok": "@skypea_network"
     },
