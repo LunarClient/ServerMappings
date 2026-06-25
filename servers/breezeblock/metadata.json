@@ -1,0 +1,13 @@
+{
+  "id": "breezeblock",
+  "name": "BreezeBlock",
+  "description": "BreezeBlock.pl - Premium OneBlock Minecraft server with custom upgrades.",
+  "addresses": [
+    "breezeblock.pl",
+    "play.breezeblock.pl"
+  ],
+  "socials": {
+    "website": "https://breezeblock.pl",
+    "discord": "https://dsc.gg/breezeblock"
+  }
+}
