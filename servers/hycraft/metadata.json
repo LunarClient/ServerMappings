@@ -8,6 +8,7 @@
         "hycraft.us"
     ],
     "primaryAddress": "mc.hycraft.us",
+    "offline": true,
     "primaryColor": "#2f7cdb",
     "secondaryColor": "#e9aa65",
     "minecraftVersions": [
@@ -25,10 +26,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
+        "Survival",
         "Minigames",
         "PvP",
-        "PvE"
+        "PvE",
+        "Tycoon"
     ],
     "socials": {
         "twitter": "hycraftnw",
