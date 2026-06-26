@@ -1,5 +1,5 @@
 {
-    "id": "naturemc",
+    "id": "naturemcserver",
     "name": "NatureMC",
     "store": "https://tienda.naturemc.site/",
     "description": "Play Minigames and PvP on NatureMC.",
@@ -24,6 +24,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "discord.gg/naturemc"
+        "discord": "https://discord.com/invite/ET27KFPbt"
     }
 }
