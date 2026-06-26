@@ -29,11 +29,18 @@
         "AS",
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
-        "Survival"
+        "Practice",
+        "KitPvP",
+        "BoxPvP",
+        "Lifesteal",
+        "Survival",
+        "Crystal PvP"
     ],
     "crossplay": true,
+    "offline": true,
     "presentationVideo": "SYRnzqlvv4g",
     "votingLinks": [
         "https://vote.chickencraft.nl/"

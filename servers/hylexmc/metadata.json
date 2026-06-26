@@ -21,14 +21,19 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Minigames",
         "PvP",
-        "Survival"
+        "Survival",
+        "Practice",
+        "OneBlock"
+        "Lifesteal"
     ],
     "socials": {
         "discord": "https://discord.com/invite/XMJZ3hh"

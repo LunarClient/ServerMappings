@@ -6,7 +6,7 @@
     "addresses": [
         "crystalchaos.net"
     ],
-    "primaryAddress": "lunar.crystalchaos.net",
+    "primaryAddress": "crystalchaos.net",
     "primaryColor": "#ecb94f",
     "secondaryColor": "#4F81EC",
     "minecraftVersions": [
@@ -20,8 +20,12 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Crystal PvP",
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Crystal PvP",
+        "PvP",
+        "KitPvP"
     ],
     "socials": {
         "twitter": "CrystalChaosMC",
