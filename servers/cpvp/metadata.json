@@ -27,8 +27,10 @@
     "EU"
   ],
   "primaryRegion": "NA",
+  "primaryGameType": "Crystal PvP",
   "gameTypes": [
     "PvP",
+    "Crystal PvP",
     "Minigames"
   ],
   "socials": {

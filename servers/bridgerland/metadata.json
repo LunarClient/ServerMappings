@@ -25,8 +25,11 @@
         "EU",
         "AS"
     ],
+    "primaryGameType": "Parkour",
     "gameTypes": [
         "PvP",
+        "Parkour",
+        "Prison",
         "Minigames"
     ],
     "socials": {

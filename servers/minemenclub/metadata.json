@@ -28,8 +28,13 @@
         "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Practice",
     "gameTypes": [
+        "Practice",
         "PvP",
+        "Competitive",
+        "Crystal PvP",
+        "Soup PvP",
         "Minigames"
     ],
     "socials": {

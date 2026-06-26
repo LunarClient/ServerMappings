@@ -16,6 +16,7 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
+    "offline": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -25,8 +26,10 @@
         "en",
         "ar"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Minigames",
+        "Prison",
         "PvP"
     ],
     "socials": {

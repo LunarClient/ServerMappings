@@ -25,9 +25,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "Parkour"
     ],
     "socials": {
         "twitter": "mccisland_",

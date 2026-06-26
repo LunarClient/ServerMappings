@@ -34,10 +34,15 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
+        "Skyblock",
         "PvP",
-        "Skyblock"
+        "PvE",
+        "Creative",
+        "Practice",
+        "Casual"
     ],
     "socials": {
         "twitter": "HypixelNetwork",

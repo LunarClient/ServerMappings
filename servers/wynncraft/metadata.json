@@ -18,7 +18,9 @@
         "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21",
+    "primaryGameType": "MMORPG",
     "gameTypes": [
+        "MMORPG",
         "Adventure",
         "PvE",
         "Open World"

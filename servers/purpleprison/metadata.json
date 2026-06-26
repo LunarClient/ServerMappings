@@ -35,8 +35,10 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
-        "Prison"
+        "Prison",
+        "PvP"
     ],
     "socials": {
         "twitter": "PurplePrison",
