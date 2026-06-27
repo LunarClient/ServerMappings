@@ -12,5 +12,9 @@
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#FF0000",
-  "secondaryColor": "#000000"
+  "secondaryColor": "#000000",
+  "gameTypes": [
+    "BEDWARS",
+    "GENS"
+  ]
 }
