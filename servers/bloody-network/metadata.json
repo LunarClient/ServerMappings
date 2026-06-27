@@ -4,5 +4,13 @@
   "description": "Gens 1.21.X Bedwars 1.8",
   "addresses": [
     "bloody.holy.gg"
-  ]
+  ],
+  "primaryAddress": "bloody.holy.gg",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.21"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#000000"
 }
