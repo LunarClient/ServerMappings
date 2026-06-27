@@ -24,9 +24,14 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "Minigames",
         "PvP",
+        "BoxPvP",
+        "Lifesteal",
+        "KitPvP",
+        "Practice",
         "Skyblock"
     ],
     "socials": {

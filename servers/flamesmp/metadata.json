@@ -32,8 +32,10 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "Survival",
+        "Practice",
         "PvP"
     ],
     "website": "https://flamesmp.gg",

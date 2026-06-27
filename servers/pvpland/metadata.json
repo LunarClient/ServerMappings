@@ -14,7 +14,10 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Practice",
     "gameTypes": [
+        "Practice",
+        "Competitive",
         "PvP"
     ],
     "socials": {

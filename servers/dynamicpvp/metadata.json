@@ -23,9 +23,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "HCF",
     "gameTypes": [
         "HCF",
-        "PvP"
+        "PvP",
+        "KitPvP",
+        "Practice",
+        "Competitive"
     ],
     "socials": {
         "twitter": "dynamicpvpnet",

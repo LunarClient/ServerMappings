@@ -29,7 +29,11 @@
         "OC",
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
+        "Practice",
+        "Competitive",
+        "Crystal PvP",
         "PvP"
     ],
     "socials": {

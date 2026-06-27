@@ -32,9 +32,11 @@
         "OC",
         "SA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Prison",
-        "Skyblock"
+        "Skyblock",
+        "Casual"
     ],
     "socials": {
         "twitter": "AkumaMC_Net",

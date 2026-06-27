@@ -19,9 +19,11 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "Casual"
     ],
     "socials": {
         "twitter": "mineplex",

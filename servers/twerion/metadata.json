@@ -20,14 +20,19 @@
     ],
     "primaryMinecraftVersion": "1.19.4",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
         "PvP",
-        "Skyblock"
+        "Practice",
+        "OneBlock",
+        "Skyblock",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "twerionnetwork",
