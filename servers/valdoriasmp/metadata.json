@@ -3,13 +3,16 @@
     "name": "ValdoriaSMP",
     "website": "https://www.valdoriasmp.com/",
     "store": "https://store.valdoriasmp.com/",
-    "description": "Italian Minecraft network with Headless SMP, join our community and have fun!",
+    "description": "ValdoriaSMP is an Italian Minecraft network with Headless SMP, join our community and have fun!",
     "addresses": [
-        "valdoriasmp.com"
+        "valdoriasmp.com",
+        "valdoriasmp.eu",
+        "valdoriasmp.net"
     ],
     "primaryAddress": "play.valdoriasmp.com",
-    "primaryColor": "#5100ff",
-    "secondaryColor": "#eae1fc",
+    "offline": true,
+    "primaryColor": "#5500ff",
+    "secondaryColor": "#ece3ff",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
@@ -25,15 +28,15 @@
         "en",
         "it"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Survival",
         "PvP",
-        "Minigames"
+        "Minigames",
+        "Survival",
+        "Practice"
     ],
     "socials": {
         "discord": "https://discord.gg/rFTstSB3xW",
-        "instagram": "https://www.instagram.com/valdoriasmp.com",
-        "telegram": "https://t.me/ValdoriaSMP",
-        "tiktok": "https://www.tiktok.com/@valdoriasmp.com"
+        "tiktok": "@valdoriasmp.com"
     }
 }
