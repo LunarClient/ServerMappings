@@ -29,6 +29,7 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Prison",
         "Survival",

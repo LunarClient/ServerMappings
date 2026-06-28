@@ -20,9 +20,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "OneBlock",
+        "Practice",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "FreshSMP",

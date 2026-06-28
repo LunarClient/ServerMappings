@@ -23,8 +23,12 @@
         "AS",
         "OC"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
-        "PvP"
+        "Practice",
+        "PvP",
+        "Crystal PvP",
+        "Competitive"
     ],
     "socials": {
         "twitter": "playFlowPvP",

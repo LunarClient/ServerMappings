@@ -35,10 +35,14 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Skyblock",
     "gameTypes": [
         "Survival",
         "Factions",
-        "Skyblock"
+        "Skyblock",
+        "Creative",
+        "Prison",
+        "Lifesteal"
     ],
     "socials": {
         "discord": "https://discord.gg/ComplexVanilla"

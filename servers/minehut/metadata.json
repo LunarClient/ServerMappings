@@ -33,10 +33,13 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Roleplay"
+        "Roleplay",
+        "Survival",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "minehut",

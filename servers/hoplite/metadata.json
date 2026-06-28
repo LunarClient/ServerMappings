@@ -41,10 +41,13 @@
         "pt-BR",
         "sv-SE"
     ],
+    "primaryGameType": "UHC",
     "gameTypes": [
+        "UHC",
         "PvP",
-        "Hardcore",
-        "UHC"
+        "Practice",
+        "Competitive",
+        "Hardcore"
     ],
     "socials": {
         "twitter": "hoplitenetwork",
