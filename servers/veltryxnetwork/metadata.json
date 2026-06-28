@@ -5,9 +5,7 @@
   "store": "https://store.veltryx.net",
   "description": "Begin your best survival experience",
   "addresses": [
-    "veltryx.net",
-    "play.veltryx.net",
-    "mc.veltryx.net"
+    "veltryx.net"
   ],
   "primaryAddress": "veltryx.net",
   "primaryColor": "#FF3535",
