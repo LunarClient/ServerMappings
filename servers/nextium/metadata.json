@@ -2,7 +2,7 @@
     "id": "nextium",
     "name": "Nextium Network",
     "store": "https://tienda.nextium.site/",
-    "description": "Play Survival Custom on Nextium Network.",
+    "description": "Play Survival and Minigames on Nextium Network.",
     "addresses": [
         "nextium.bean.pe"
     ],
@@ -21,7 +21,7 @@
     "primaryMinecraftVersion": "1.19.2",
     "gameTypes": [
         "Survival",
-        "Survival Custom"
+        "Minigames"
     ],
     "socials": {
         "discord": "https://discord.com/invite/FYhw57uNd"
