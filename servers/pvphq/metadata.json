@@ -1,0 +1,43 @@
+{
+    "id": "pvphq",
+    "name": "PvPHQ",
+    "description": "The best competitive Minecraft PvP server, powered by Lunar Client",
+    "addresses": [
+        "pvphq.com"
+    ],
+    "primaryAddress": "pvphq.com",
+    "primaryColor": "#f1d93c",
+    "secondaryColor": "#111111",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "playPvPHQ",
+        "discord": "https://discord.com/invite/pvphq"
+    }
+}

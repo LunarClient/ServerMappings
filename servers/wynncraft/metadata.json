@@ -7,17 +7,20 @@
     "addresses": [
         "wynncraft.com"
     ],
-    "primaryAddress": "lunar.wynncraft.com",
+    "primaryAddress": "wynncraft.com",
     "primaryColor": "#64a030",
     "secondaryColor": "#2b3d1f",
     "minecraftVersions": [
         "1.20.5",
         "1.20.6",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21",
+    "primaryGameType": "MMORPG",
     "gameTypes": [
+        "MMORPG",
         "Adventure",
         "PvE",
         "Open World"

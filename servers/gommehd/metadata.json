@@ -24,9 +24,14 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Creative",
     "gameTypes": [
+        "Creative",
         "Minigames",
-        "PvP"
+        "PvP",
+        "Practice",
+        "KitPvP",
+        "Casual"
     ],
     "socials": {
         "twitter": "GommeHDnet",

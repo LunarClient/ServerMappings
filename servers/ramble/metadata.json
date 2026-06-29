@@ -10,7 +10,8 @@
     "primaryAddress": "play.ramblemc.net",
     "minecraftVersions": [
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
     "primaryColor": "#ea580c",

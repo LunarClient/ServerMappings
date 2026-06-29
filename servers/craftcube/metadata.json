@@ -8,6 +8,7 @@
         "craftcube.pl"
     ],
     "primaryAddress": "craftcube.pl",
+    "offline": true,
     "primaryColor": "#ffd503",
     "secondaryColor": "#652002",
     "minecraftVersions": [
@@ -27,8 +28,12 @@
     "languages": [
         "pl"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
+        "OneBlock",
+        "KitPvP",
+        "Practice",
         "Minigames",
         "PvP"
     ],

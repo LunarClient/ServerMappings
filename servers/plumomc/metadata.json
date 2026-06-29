@@ -1,0 +1,41 @@
+{
+    "id": "plumomc",
+    "name": "PlumoMC",
+    "description": "The coziest Minecraft server with PlumoSMP, BeastFactions, and more coming soon!",
+    "addresses": [
+        "plumomc.com"
+    ],
+    "primaryAddress": "play.plumomc.com",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#cc0000",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Survival",
+        "Open World"
+    ],
+    "website": "https://www.plumomc.com/",
+    "store": "https://store.plumomc.com/",
+    "socials": {
+        "youtube": "@PlumoMC",
+        "discord": "https://discord.gg/j6r4P5nQpS"
+    },
+    "crossplay": true
+}

@@ -18,8 +18,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Earth",
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Earth",
+        "PvP",
+        "Towny",
+        "Open World"
     ],
     "socials": {
         "twitter": "OfficialEarthMC",
