@@ -29,10 +29,10 @@
     "gameTypes": [
         "Survival",
         "SMP",
-	"PvP
+        "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/V96rBF3Tyv",
+        "discord": "https://discord.gg/V96rBF3Tyv"
     },
     "crossplay": true
 }
