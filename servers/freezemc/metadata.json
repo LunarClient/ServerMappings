@@ -3,13 +3,14 @@
     "name": "FreezeMC",
     "description": "FreezeMC is the chillest Minecraft Network out there!",
     "addresses": [
-        "play.freezemc.net"   
+        "freezemc.net"   
     ],
-    "primaryAddress": "play.freezemc.net",
+    "primaryAddress": "freezemc.net",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "26.1.2",
     "primaryColor": "#0099ff",
@@ -28,7 +29,6 @@
     ],
     "gameTypes": [
         "Survival",
-        "SMP",
         "PvP"
     ],
     "socials": {
