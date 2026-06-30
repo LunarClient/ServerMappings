@@ -1,0 +1,38 @@
+{
+    "id": "skypea",
+    "name": "SkyPea Network",
+    "description": "New Era of Civilization",
+    "addresses": [
+        "skypea.it"
+    ],
+    "primaryAddress": "play.skypea.it",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1", 
+        "26.1.1"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#cf180e",
+    "secondaryColor": "#f7f7f7",
+    "primaryLanguage": "it",
+    "languages": [
+        "it", 
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival", 
+        "PvP"
+    ],
+    "website": "https://www.skypea.it",
+    "socials": {
+        "telegram": "skypea_network",
+        "discord": "https://discord.gg/sjpDbeZb9F", 
+        "youtube": "@SkyPea_Network", 
+        "tiktok": "@skypea_network"
+    },
+    "crossplay": true
+}
