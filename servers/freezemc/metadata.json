@@ -1,0 +1,38 @@
+{
+    "id": "freezemc",
+    "name": "FreezeMC",
+    "description": "FreezeMC is the chillest Minecraft Network out there!",
+    "addresses": [
+        "freezemc.net"   
+    ],
+    "primaryAddress": "freezemc.net",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#0099ff",
+    "secondaryColor": "#add6ff",
+    "primaryLanguage": "en",
+    "languages": [
+       "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",       
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/V96rBF3Tyv"
+    },
+    "crossplay": true
+}
