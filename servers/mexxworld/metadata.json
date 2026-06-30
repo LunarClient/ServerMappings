@@ -12,11 +12,11 @@
 
   "addresses": [
 
-    "mexxworld.com"
+    "mexxworld.org"
 
   ],
 
-  "primaryAddress": "mc.mexxworld.com", 
+  "primaryAddress": "mc.mexxworld.org", 
 
   "primaryColor": "#8b5cf6",
 
@@ -34,7 +34,7 @@
 
   "regions": [
 
-    "EU" 
+    "NA" 
 
   ],
 
@@ -44,13 +44,15 @@
 
     "Survival",
 
-    "RPG"
+    "Adventure"
 
   ],
-
+  "primaryGameType": "PvP",
+  "crossplay": false,
+  
   "socials": {
 
-    "telegram": "mexxworld"
+    "telegram": "mexxworld",
     "discord": "https://discord.gg/NsHGwzvJvT"
 
   }
