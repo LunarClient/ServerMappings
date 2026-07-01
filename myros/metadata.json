@@ -5,7 +5,7 @@
     "addresses": [
         "myros.gg"
     ],
-    "primaryAddress": "myros.gg",
+    "primaryAddress": "play.myros.gg",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
