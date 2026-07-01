@@ -1,0 +1,47 @@
+{
+    "id": "lumamc",
+    "name": "LumaMC",
+    "description": "A Towny server focused on high-quality gameplay with a vibrant, welcoming community.",
+    "website": "https://lumamc.net/",
+    "store": "https://store.lumamc.net/",
+    "wiki": "https://wiki.lumamc.net/",
+    "crossplay": true,
+    "offline": false,
+    "addresses": [
+        "lumamc.net",
+        "lumas.dev"
+    ],
+    "primaryAddress": "play.lumamc.net",
+    "primaryColor": "#AC8EFF",
+    "secondaryColor": "#7D9AFF",
+    "minecraftVersions": [
+        "26.2.*",
+        "26.1.*",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Towny",
+    "gameTypes": [
+        "Towny",
+        "Survival",
+        "Vanilla"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/zMKEAhHHac",
+        "youtube": "PlayLumaSMP",
+        "tiktok": "@playlumamc"
+    },
+    "compliance": {
+        "rules": "https://lumamc.net/rules"
+    }
+}
