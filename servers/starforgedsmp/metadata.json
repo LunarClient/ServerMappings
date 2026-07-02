@@ -1,0 +1,35 @@
+{
+    "id": "starforgedsmp",
+    "name": "StarForgedSMP",
+    "description": "Fair survival SMP with skills, claims, cosmetics, and player markets.",
+    "addresses": [
+        "starforgedsmp.net"
+    ],
+    "primaryAddress": "starforgedsmp.net",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#0d8dff",
+    "secondaryColor": "#d0142f",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": true
+}
