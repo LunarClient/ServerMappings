@@ -1,7 +1,7 @@
 {
   "id": "ttcm",
   "name": "TLCM",
-  "description": "TLCM is an Italian tier list, and the server also includes a Practice mode to help players get better.",
+  "description": "TLCM is an Italian tier list server with Practice mode to help players improve.",
   "addresses": ["ttcm.it"],
   "primaryAddress": "play.ttcm.it",
   "gameTypes": ["PvP", "Practice"],
