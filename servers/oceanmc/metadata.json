@@ -1,34 +1,34 @@
 {
     "id": "oceanmc",
-    "name": "OceanMC Network",
-    "website": "http://oceanmc.es/",
-    "store": "https://tienda.oceanmc.es/",
+    "name": "OceanMC",
+    "description": "Ocean-themed Survival network",
     "addresses": [
-        "oceanmc.es"
+        "oceanmc.net"
     ],
-    "primaryAddress": "oceanmc.es",
+    "primaryAddress": "oceanmc.net",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#00FFF7",
-    "secondaryColor": "#003A9E",
-    "primaryLanguage": "es-EN",
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#0083FF",
+    "secondaryColor": "#0083FF",
+    "primaryLanguage": "en",
     "languages": [
-        "es-EN"
+        "en"
     ],
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
+        "NA",
         "EU"
     ],
     "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "Prison"
-    ]
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://store.oceanmc.net",
+    "store": "https://store.oceanmc.net",
+    "socials": {
+        "discord": "https://discord.gg/oceanmc"
+    },
+    "crossplay": false
 }
