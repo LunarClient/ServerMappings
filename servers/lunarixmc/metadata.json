@@ -18,5 +18,6 @@
   "socials": {
     "discord": "https://discord.gg/dTgqaDZmZ8"
   },
+  "crossplay": true,
   "offline": true
 }
