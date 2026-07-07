@@ -1,7 +1,7 @@
 {
     "id": "larpsmp",
     "name": "LARPSMP",
-    "description": "Deutscher Survival SMP mit Crates, Kits und Ranks.",
+    "description": "German survival SMP with Mace PvP, crates, kits and ranks.",
     "website": "https://larpsmp.store",
     "addresses": [
         "larpsmp.de"
@@ -25,6 +25,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/5sWG2wNm9a"
+        "discord": "https://discord.gg/larpsmp"
     }
 }
