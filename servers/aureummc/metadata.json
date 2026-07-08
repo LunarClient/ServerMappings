@@ -1,0 +1,37 @@
+{
+  "id": "aureummc",
+  "name": "AureumMC",
+  "description": "A modern Dutch Survival server with land claiming, economy, custom features and exciting community events.",
+  "addresses": [
+    "aureummc.net"
+  ],
+  "primaryAddress": "aureummc.net",
+  "primaryColor": "#D4A017",
+  "secondaryColor": "#F5D76E",
+  "minecraftVersions": [
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "nl",
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "Open World",
+    "PvP",
+    "PvE",
+    "Economy"
+  ],
+  "primaryGameType": "Survival",
+  "store": "https://store.aureummc.net",
+  "socials": {
+    "discord": "https://discord.aureummc.net"
+  }
+}
