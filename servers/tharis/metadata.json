@@ -5,7 +5,7 @@
     "store": "https://store.tharis.it/",
     "description": "Join our server to play our Competitive Lifesteal!",
     "addresses": [
-        "tharis.it",
+        "tharis.it"
     ],
     "primaryAddress": "play.tharis.it",
     "primaryColor": "#be2528",
