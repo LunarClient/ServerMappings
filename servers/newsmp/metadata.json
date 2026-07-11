@@ -14,9 +14,9 @@
     ],
     "primaryMinecraftVersion": "26.1.2",
     "crossplay": false,
-    "primaryRegion": "UE",
+    "primaryRegion": "EU",
     "regions": [
-        "UE"
+        "EU"
     ],
     "primaryLanguage": "fr",
     "languages": [
