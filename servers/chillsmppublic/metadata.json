@@ -1,0 +1,31 @@
+{
+    "id": "chillsmppublic",
+    "name": "ChillSMP Public",
+    "description": "ChillSMP Public - Serveur Minecraft SMP Public de TomLWSM et Hvenz",
+    "addresses": [
+        "tomlwsm.fr"
+    ],
+    "primaryAddress": "chillpublic.tomlwsm.fr",
+    "primaryColor": "#2FA3E6",
+    "secondaryColor": "#F53D68",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9k62Fd8xcz"
+    }
+}
