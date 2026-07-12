@@ -2,6 +2,7 @@
     "id": "avoxelianetwork",
     "name": "Voxelia",
     "store": "https://voxelianet.tebex.io/",
+    "description": "Test your combat skills on Voxelia.",
     "addresses": [
         "voxelia.lat"
     ],

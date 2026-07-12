@@ -2,6 +2,7 @@
     "id": "holymc",
     "name": "HolyMC",
     "website": "https://www.holymc.uk/",
+    "description": "Play PvE and Survival on HolyMC.",
     "addresses": [
         "holymc.uk"
     ],

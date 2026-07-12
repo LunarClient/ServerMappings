@@ -1,6 +1,7 @@
 {
     "id": "magicmc",
     "name": "MagicMC Network",
+    "description": "Play PvP and PvE on MagicMC Network.",
     "addresses": [
         "magicmc.us"
     ],

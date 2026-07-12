@@ -1,0 +1,39 @@
+{
+  "id": "cpvp",
+  "name": "CPvP",
+  "website": "https://cpvp.gg",
+  "store": "https://store.cpvp.gg",
+  "description": "A Crystal PvP Battle royale server with custom features and a unique experience.",
+  "primaryAddress": "play.cpvp.gg",
+  "addresses": [
+    "cpvp.gg"
+  ],
+  "primaryColor": "#FF4ACF",
+  "secondaryColor": "#FF4ACF",
+  "minecraftVersions": [
+    "1.21.11", 
+    "1.21.10",
+    "1.21.9",
+    "1.21.8"
+    ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": false,
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "primaryRegion": "NA",
+  "primaryGameType": "Crystal PvP",
+  "gameTypes": [
+    "PvP",
+    "Crystal PvP",
+    "Minigames"
+  ],
+  "socials": {
+      "discord": "https://discord.gg/invite/royale"
+  }
+}

@@ -2,6 +2,7 @@
     "id": "minespazio",
     "name": "MineSpazio Network",
     "store": "https://tienda.minespazio.com/",
+    "description": "Play Survival, PvP, and more on MineSpazio Network.",
     "addresses": [
         "minespazio.com",
         "epicserver.biz"

@@ -1,6 +1,7 @@
 {
     "id": "kenkyo",
     "name": "Kenkyo",
+    "description": "Play UHC, Minigames, and more on Kenkyo.",
     "addresses": [
         "kenkyo.eu"
     ],

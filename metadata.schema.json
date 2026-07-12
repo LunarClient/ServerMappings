@@ -4,6 +4,7 @@
     "required": [
         "id",
         "name",
+        "description",
         "addresses",
         "primaryAddress",
         "minecraftVersions",
@@ -75,10 +76,12 @@
         "gameTypes": {
             "type": "array",
             "uniqueItems": true,
-            "maxItems": 3,
             "items": {
                 "$ref": "#/definitions/GameType"
             }
+        },
+        "primaryGameType": {
+            "$ref": "#/definitions/GameType"
         },
         "website": {
             "$ref": "#/definitions/WebAddress"
@@ -192,6 +195,9 @@
         "crossplay": {
             "type": "boolean"
         },
+        "offline": {
+            "type": "boolean"
+        },
         "tebexStore": {
             "type": "object",
             "additionalProperties": false,
@@ -231,7 +237,8 @@
                 "1.19.*",
                 "1.20.*",
                 "1.21.*",
-                "26.*",
+                "26.1.*",
+                "26.2.*",
                 "1.7.10",
                 "1.8.9",
                 "1.12.2",
@@ -262,7 +269,10 @@
                 "1.21.9",
                 "1.21.10",
                 "1.21.11",
-                "26.1"
+                "26.1",
+                "26.1.1",
+                "26.1.2",
+                "26.2"
             ]
         },
         "MinecraftSubversion": {
@@ -298,7 +308,10 @@
                 "1.21.9",
                 "1.21.10",
                 "1.21.11",
-                "26.1"
+                "26.1",
+                "26.1.1",
+                "26.1.2",
+                "26.2"
             ]
         },
         "Region": {
@@ -342,22 +355,40 @@
         "GameType": {
             "type": "string",
             "enum": [
-                "PvP",
-                "PvE",
-                "HCF",
-                "Factions",
-                "Minigames",
-                "Skyblock",
-                "Parkour",
-                "UHC",
-                "Hardcore",
-                "Survival",
-                "Open World",
-                "Prison",
-                "Creative",
-                "Roleplay",
                 "Adventure",
-                "Pixelmon"
+                "Anarchy",
+                "BoxPvP",
+                "Casual",
+                "Cobblemon",
+                "Competitive",
+                "Creative",
+                "Crystal PvP",
+                "Earth",
+                "Factions",
+                "FTB",
+                "Hardcore",
+                "HCF",
+                "KitPvP",
+                "Lifesteal",
+                "Minigames",
+                "MMORPG",
+                "Modded",
+                "OneBlock",
+                "Open World",
+                "Parkour",
+                "Pixelmon",
+                "Practice",
+                "Prison",
+                "PvE",
+                "PvP",
+                "Roleplay",
+                "Skyblock",
+                "Soup PvP",
+                "Survival",
+                "Towny",
+                "Tycoon",
+                "UHC",
+                "Vanilla"
             ]
         },
         "TebexStoreBackground": {

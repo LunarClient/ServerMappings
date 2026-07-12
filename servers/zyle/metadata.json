@@ -1,6 +1,7 @@
 {
     "id": "zyle",
     "name": "Zyle Network",
+    "description": "Experience survival gameplay on Zyle Network.",
     "addresses": [
         "zyle.us"
     ],

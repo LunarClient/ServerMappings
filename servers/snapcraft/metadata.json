@@ -3,6 +3,7 @@
     "name": "Snapcraft",
     "website": "https://snapcraft.net/",
     "store": "https://store.snapcraft.net/",
+    "description": "The Official Snapcraft Website",
     "addresses": [
         "snapcraft.net"
     ],

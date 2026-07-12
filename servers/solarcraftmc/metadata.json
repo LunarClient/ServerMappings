@@ -1,6 +1,7 @@
 {
   "id": "solarcraftmc",
   "name": "SolarCraftMc",
+  "description": "A Spanish-speaking PvP network with a fiery competitive spirit.",
   "store": "https://tienda.solarcraftmc.net/",
   "addresses": [
       "solarcraftmc.net"

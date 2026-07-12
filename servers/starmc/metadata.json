@@ -2,6 +2,7 @@
     "id": "starmc",
     "name": "StarMC Network",
     "store": "https://starmcv1.tebex.io/",
+    "description": "Experience survival gameplay on StarMC Network.",
     "addresses": [
         "starmhz.online"
     ],

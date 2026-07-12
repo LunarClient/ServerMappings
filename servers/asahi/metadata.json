@@ -1,6 +1,7 @@
 {
     "id": "asahi",
     "name": "Asahi",
+    "description": "Play UHC, Minigames, and more on Asahi.",
     "addresses": [
         "asahimc.fr"
     ],

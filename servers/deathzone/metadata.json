@@ -2,6 +2,7 @@
     "id": "deathzone",
     "name": "DeathZone Network",
     "store": "https://tienda.deathzone.net/",
+    "description": "Play Prison, Skyblock, and more on DeathZone Network.",
     "addresses": [
         "deathzone.net"
     ],

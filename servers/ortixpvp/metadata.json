@@ -2,6 +2,7 @@
     "id": "ortixpvp",
     "name": "OrtixPVP",
     "store": "https://store.ortixpvp.com/",
+    "description": "Play HCF and PvP on OrtixPVP.",
     "addresses": [
         "ortixpvp.com"
     ],

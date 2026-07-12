@@ -1,0 +1,50 @@
+{
+    "id": "flamesmp",
+    "name": "FlameSMP",
+    "description": "Competitive PvP, Survival & Events!",
+    "addresses": [
+        "flamesmp.gg",
+        "flamesmp.org",
+        "flamefrags.com",
+        "flamefrags.net"
+    ],
+    "primaryAddress": "play.flamesmp.gg",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "1.21.11",
+        "1.21.10",
+        "1.21.9",
+        "1.21.8",
+        "1.21.7",
+        "1.21.6",
+        "1.21.5",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ff7000",
+    "secondaryColor": "#f92228",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "Survival",
+        "Practice",
+        "PvP"
+    ],
+    "website": "https://flamesmp.gg",
+    "store": "https://store.flamesmp.gg",
+    "compliance": {
+        "rules": "https://flamesmp.gg/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/flamegg"
+    },
+    "crossplay": true
+}

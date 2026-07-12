@@ -2,6 +2,7 @@
     "id": "skittlemc",
     "name": "SkittleMC",
     "store": "https://buy.skittlemc.com/",
+    "description": "Play Survival and Roleplay on SkittleMC.",
     "addresses": [
         "skittlemc.org"
     ],

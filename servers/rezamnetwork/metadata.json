@@ -1,0 +1,44 @@
+{
+    "id": "rezamnetwork",
+    "name": "Rezam Network",
+    "description": "A Japanese Minecraft server with Survival and Minigames.",
+    "addresses": [
+        "rezam.xyz"
+    ],
+    "primaryAddress": "mc.rezam.xyz",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://site.rezam.xyz",
+    "store": "https://site.rezam.xyz/store",
+    "compliance": {
+        "rules": "https://site.rezam.xyz/rules"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/AecXEDgJGt"
+    },
+    "crossplay": false
+}

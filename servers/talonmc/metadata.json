@@ -19,7 +19,9 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.6",
     "crossplay": true,
@@ -27,8 +29,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
-        "Prison"
+        "Prison",
+        "Survival",
+        "Skyblock"
     ],
     "socials": {
         "twitter": "TalonMCNet",

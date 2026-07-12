@@ -2,6 +2,7 @@
     "id": "pvpland",
     "name": "PvP Land",
     "store": "https://store.pvp.land/",
+    "description": "Test your combat skills on PvP Land.",
     "addresses": [
         "pvp.land"
     ],
@@ -13,7 +14,10 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Practice",
     "gameTypes": [
+        "Practice",
+        "Competitive",
         "PvP"
     ],
     "socials": {

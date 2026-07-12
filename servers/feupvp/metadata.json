@@ -2,6 +2,7 @@
     "id": "feupvp",
     "name": "FeuPvP",
     "website": "https://feupvp.net/",
+    "description": "FeuPvP is currently in heavy development, coming soon!",
     "addresses": [
         "feupvp.net"
     ],
@@ -14,15 +15,15 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-	"crossplay": false,
-	"primaryRegion": "AS",
-	"regions": [
-	    "AS"
-	],
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames",
-		"UHC"
+        "UHC"
     ],
     "socials": {
         "twitter": "feupvp",

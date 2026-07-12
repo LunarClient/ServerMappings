@@ -3,6 +3,7 @@
     "name": "LemonCloud",
     "website": "https://lemoncloud.org/",
     "store": "https://store.lemoncloud.org/",
+    "description": "LemonCloud is a feature-packed Minecraft server which offers unique gamemodes",
     "addresses": [
         "lemoncloud.org"
     ],

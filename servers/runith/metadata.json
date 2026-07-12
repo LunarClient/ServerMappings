@@ -3,6 +3,7 @@
     "name": "Runith",
     "website": "https://www.runith.net/",
     "store": "https://store.runith.net",
+    "description": "Play Prison and PvP on Runith.",
     "addresses": [
         "runith.net"
     ],
@@ -28,6 +29,6 @@
         "tiktok": "@runithmc"
     },
     "compliance": {
-      "termsOfService": "https://store.runith.net/tos"
+        "termsOfService": "https://store.runith.net/tos"
     }
 }

@@ -3,6 +3,7 @@
     "name": "JartexNetwork",
     "website": "https://jartexnetwork.com/",
     "store": "https://store.jartexnetwork.com/",
+    "description": "Play Minigames, Factions, and more on JartexNetwork.",
     "addresses": [
         "jartexnetwork.com",
         "jartex.fun",
@@ -22,10 +23,18 @@
     ],
     "primaryMinecraftVersion": "1.19.4",
     "crossplay": true,
+    "offline": true,
+    "primaryGameType": "Skyblock",
     "gameTypes": [
+        "Skyblock",
         "Minigames",
+        "KitPvP",
+        "Prison",
+        "Survival",
         "Factions",
-        "Survival"
+        "Tycoon",
+        "OneBlock",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "JartexNetwork",

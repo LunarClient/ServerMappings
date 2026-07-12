@@ -2,6 +2,7 @@
     "id": "nucleoid",
     "name": "Nucleoid",
     "website": "https://nucleoid.xyz/",
+    "description": "Nucleoid is an effort to build a fully open-source Minecraft minigames server",
     "addresses": [
         "nucleoid.xyz"
     ],

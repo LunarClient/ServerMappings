@@ -2,6 +2,7 @@
     "id": "sagepvpcc",
     "name": "SagePvP",
     "store": "https://store.sagepvp.cc",
+    "description": "Hardcore factions on SagePvP.",
     "addresses": [
         "sagepvp.cc"
     ],

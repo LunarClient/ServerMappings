@@ -1,6 +1,7 @@
 {
     "id": "gunmax",
     "name": "GunMax",
+    "description": "Play Roleplay and Survival on GunMax.",
     "addresses": [
         "gunmax.org"
     ],

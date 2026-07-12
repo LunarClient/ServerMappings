@@ -3,6 +3,7 @@
     "name": "BEEMC",
     "website": "https://beemc.pl/",
     "store": "https://sklep.beemc.pl/",
+    "description": "Play Survival and Skyblock on BEEMC.",
     "addresses": [
         "beemc.pl"
     ],
@@ -32,4 +33,3 @@
         "discord": "https://discord.com/invite/x76HVVnCHX"
     }
 }
-

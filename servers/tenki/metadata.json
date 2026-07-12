@@ -1,6 +1,7 @@
 {
     "id": "tenki",
     "name": "Tenki",
+    "description": "French UHC and PvP action on a competitive stage.",
     "addresses": [
         "tenki.fr"
     ],

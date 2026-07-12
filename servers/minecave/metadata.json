@@ -2,6 +2,7 @@
     "id": "minecave",
     "name": "MineCave",
     "store": "https://store.minecave.in",
+    "description": "Play Survival and PvP on MineCave.",
     "addresses": [
         "minecave.in"
     ],

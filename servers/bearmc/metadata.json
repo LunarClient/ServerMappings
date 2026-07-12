@@ -3,6 +3,7 @@
     "name": "BearMC Network",
     "website": "https://bearmc.cc/",
     "store": "https://store.bearmc.cc/",
+    "description": "Play PvP and Survival on BearMC Network.",
     "addresses": [
         "bearmc.cc"
     ],

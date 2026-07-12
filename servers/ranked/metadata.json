@@ -2,6 +2,7 @@
     "id": "ranked",
     "name": "Ranked Games",
     "store": "https://store.ranked.rip/",
+    "description": "Play PvP and Factions on Ranked Games.",
     "addresses": [
         "ranked.rip"
     ],

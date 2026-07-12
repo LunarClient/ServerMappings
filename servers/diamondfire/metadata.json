@@ -23,6 +23,7 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
         "Creative",

@@ -1,0 +1,31 @@
+{
+  "id": "skyplex",
+  "name": "SkyPlex",
+  "description": "Czech Minecraft server with survival and community gameplay.",
+  "addresses": [
+    "skyplex.cz"
+  ],
+  "primaryAddress": "mc.skyplex.cz",
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "primaryColor": "#fcd52a",
+  "secondaryColor": "#1F89FF",
+  "minecraftVersions": [
+    "1.21.4"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "website": "https://skyplex.cz",
+  "socials": {
+    "discord": "https://discord.gg/gWyt3nThhB"
+  }
+}

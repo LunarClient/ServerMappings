@@ -28,9 +28,12 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "PvP",
-        "HCF"
+        "HCF",
+        "Competitive",
+        "Practice"
     ],
     "socials": {
         "discord": "https://discord.com/invite/hctranked",

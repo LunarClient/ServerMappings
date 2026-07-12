@@ -1,0 +1,36 @@
+{
+    "id": "neocrafters",
+    "name": "Neocrafters",
+    "website": "https://neocrafters.es/",
+    "store": "https://tienda.neocrafters.es/",
+    "description": "Survival and FFA Minecraft network",
+    "addresses": [
+        "neocrafters.es"
+    ],
+    "primaryAddress": "mc.neocrafters.es",
+    "primaryColor": "#fdc32f",
+    "secondaryColor": "#57c827",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "neocraftersntw",
+        "tiktok": "@neocraftersntw",
+        "discord": "https://discord.gg/QG5jypgjTV"
+    }
+}

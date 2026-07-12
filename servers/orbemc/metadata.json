@@ -1,6 +1,7 @@
 {
     "id": "orbemc",
     "name": "OrbeMC",
+    "description": "Play PvP, UHC, and more on OrbeMC.",
     "addresses": [
         "orbemc.net",
         "orbemc.es",

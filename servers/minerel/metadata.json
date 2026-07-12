@@ -2,6 +2,7 @@
     "id": "minerel",
     "name": "Minerel",
     "store": "https://store.minerel.net/",
+    "description": "Play PvP, Minigames, and more on Minerel.",
     "addresses": [
         "minerel.net",
         "allayrival.net"

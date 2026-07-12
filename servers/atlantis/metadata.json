@@ -3,7 +3,7 @@
     "name": "Atlantis",
     "website": "https://www.atlantismc.net",
     "store": "https://store.atlantismc.net/",
-    "description": "Home to the ALU gamemode.",
+    "description": "Home to the most unique game-play ever seen.",
     "addresses": [
         "atlantismc.net"
     ],
@@ -13,13 +13,13 @@
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.3",
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
     "gameTypes": [
-        "PvP"
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.gg/ewa6eg52pM"
