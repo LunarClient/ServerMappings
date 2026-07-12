@@ -27,10 +27,7 @@
         "AS"
     ],
     "gameTypes": [
-        "boxPvP",
-        "practice",
-        "wildkit",
-        "smp",
+        "PvP",
         "Survival"
     ],
     "socials": {
