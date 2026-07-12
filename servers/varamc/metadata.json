@@ -1,0 +1,40 @@
+{
+    "id": "goldmc",
+    "name": "GoldMc",
+    "website": "https://www.varamc.xyz/",
+    "description": "Play BoxPvP and Survival on Varamc Network!",
+    "addresses": [
+        "goldmc.xyz"
+    ],
+    "primaryAddress": "varamc.xyz",
+    "primaryColor": "#F861FF",
+    "secondaryColor": "#F861FF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.21.*",
+        "2.26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "boxPvP",
+        "practice",
+        "wildkit",
+        "smp",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dxx"
+    }
+}
