@@ -19,7 +19,8 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.20.1",
     "crossplay": true,
@@ -34,10 +35,14 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Skyblock",
     "gameTypes": [
         "Survival",
         "Factions",
-        "Skyblock"
+        "Skyblock",
+        "Creative",
+        "Prison",
+        "Lifesteal"
     ],
     "socials": {
         "discord": "https://discord.gg/ComplexVanilla"

@@ -33,9 +33,12 @@
         "en",
         "de"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
+        "Practice",
         "PvP",
-        "UHC"
+        "UHC",
+        "Competitive"
     ],
     "socials": {
         "twitter": "PvPGymOfficial",

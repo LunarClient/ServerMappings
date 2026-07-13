@@ -8,6 +8,7 @@
         "survival-games.cz"
     ],
     "primaryAddress": "play.survival-games.cz",
+    "offline": true,
     "primaryColor": "#38a05c",
     "secondaryColor": "#c4c6c6",
     "minecraftVersions": [
@@ -24,8 +25,11 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
-        "Minigames"
+        "Minigames",
+        "Practice",
+        "Creative"
     ],
     "socials": {
         "instagram": "survival.games.cz",

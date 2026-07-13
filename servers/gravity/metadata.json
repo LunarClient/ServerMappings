@@ -1,0 +1,35 @@
+{
+  "id": "gravity",
+  "name": "GravityMC",
+  "description": "GravityMC is a server lifesteal! ",
+  "addresses": [
+    "gravitymc.eu"
+  ],
+  "primaryAddress": "play.gravitymc.eu",
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryColor": "#9A00FF",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21.5",
+    "1.21.8"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://www.gravitymc.eu",
+  "store": "https://store.gravitymc.eu",
+  "socials": {
+    "discord": "https://discord.gg/5tgtVDZm6"
+  },
+  "votingLinks": [
+    "https://minecraft-italia.net/lista/server/gravity"
+  ]
+}

@@ -24,6 +24,7 @@
     ],
     "primaryMinecraftVersion": "1.21",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -33,10 +34,15 @@
         "pt-BR",
         "pt-PT"
     ],
+    "primaryGameType": "Anarchy",
     "gameTypes": [
         "PvP",
+        "Anarchy",
         "Minigames",
-        "Survival"
+        "Survival",
+        "BoxPvP",
+        "Practice",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/bawmc",

@@ -24,10 +24,15 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Lifesteal",
     "gameTypes": [
         "Minigames",
         "Survival",
-        "PvP"
+        "PvP",
+        "Lifesteal",
+        "OneBlock",
+        "Prison",
+        "BoxPvP"
     ],
     "socials": {
         "twitter": "AppleMCSMP",

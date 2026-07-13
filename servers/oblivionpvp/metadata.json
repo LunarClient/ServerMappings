@@ -1,0 +1,31 @@
+{
+    "id": "oblivionpvp",
+    "name": "OblivionPvP",
+    "store": "https://store.oblivionpvp.net/",
+    "description": "OblivionPvP is a competitive HCF and PvP network featuring custom content.",
+    "addresses": [
+        "oblivionpvp.net"
+    ],
+    "primaryAddress": "play.oblivionpvp.net",
+    "primaryColor": "#7F3AE5",
+    "secondaryColor": "#9863E7",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/oblivionpvp"
+    }
+}

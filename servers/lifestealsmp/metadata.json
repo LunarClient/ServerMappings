@@ -23,10 +23,13 @@
         "NA",
         "EU"
     ],
+    "primaryGameType": "Lifesteal",
     "gameTypes": [
         "Survival",
+        "Lifesteal",
         "PvP",
-        "PvE"
+        "PvE",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/lifestealsmp"

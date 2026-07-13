@@ -32,10 +32,14 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "PvP",
         "Skyblock",
-        "Survival"
+        "Survival",
+        "KitPvP",
+        "Soup PvP",
+        "Minigames"
     ],
     "socials": {
         "twitter": "invadedlands",
