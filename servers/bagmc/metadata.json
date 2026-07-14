@@ -3,6 +3,7 @@
     "name": "BagMC",
     "website": "https://bagmc.pl/",
     "store": "https://bagmc.pl/servers",
+    "description": "Play Minigames, PvP, and more on BagMC.",
     "addresses": [
         "bagmc.pl"
     ],

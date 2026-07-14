@@ -1,0 +1,38 @@
+{
+    "id": "diosesmc",
+    "name": "DiosesMC",
+    "website": "https://diosesmc.net/",
+    "store": "https://tienda.diosesmc.net/",
+    "description": "DiosesMC - Official Minecraft server of Willyrex and Vegetta.",
+    "addresses": [
+        "diosesmc.net",
+        "diosesmc.com"
+    ],
+    "primaryAddress": "diosesmc.net",
+    "offline": true,
+    "primaryColor": "#fcd600",
+    "secondaryColor": "#fcc267",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "DiosesMcOficial",
+        "discord": "https://discord.gg/diosesmc"
+    }
+}

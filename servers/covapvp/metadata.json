@@ -1,0 +1,25 @@
+{
+    "id": "covapvp",
+    "name": "CovaPvP Network",
+    "store": "https://store.covapvp.com/",
+    "description": "Network dedicated to competitive PvP gamemodes!",
+    "addresses": [
+        "covapvp.com"
+    ],
+    "primaryAddress": "covapvp.com",
+    "primaryColor": "#ff0015",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "covapvp",
+        "discord": "https://discord.gg/RyHtrk8wbh"
+    }
+}

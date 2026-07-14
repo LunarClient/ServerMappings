@@ -1,35 +1,32 @@
 {
     "id": "nitrosmp",
     "name": "NitroSMP",
-    "website": "https://www.nitrosmp.net",
-    "description": "A German SMP Server",
+    "store": "https://store.nitrosmp.com",
+    "description": "NitroSMP is competitive minecraft server made for the best fighters.",
     "addresses": [
-        "nitrosmp.net"
+        "nitrosmp.com"
     ],
-    "primaryAddress": "nitrosmp.net",
-    "primaryColor": "#00C1FE",
-    "secondaryColor": "#FFFFFF",
+    "primaryAddress": "nitrosmp.com",
+    "primaryColor": "#00E4FB",
+    "secondaryColor": "#55CEFB",
     "minecraftVersions": [
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.7",
-    "crossplay": true,
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "de",
+    "primaryLanguage": "en",
     "languages": [
-        "de"
+        "en"
+        
     ],
     "gameTypes": [
-        "Open World",
-        "Survival",
-        "PvP"
+        "Survival"
     ],
     "socials": {
-        "tiktok": "@nitrosmp.net",
-        "youtube": "@NitroSMPnet",
-        "discord": "https://discord.gg/invite/nitrosmp"
+        "discord": "https://discord.com/invite/nitrosmp"
     }
 }

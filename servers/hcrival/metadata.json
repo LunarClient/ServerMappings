@@ -1,0 +1,36 @@
+{
+    "id": "hcrival",
+    "name": "HCRival",
+    "description": "The Ultimate Hardcore Factions Experience.",
+    "addresses": [
+        "hcrival.net"
+    ],
+    "primaryAddress": "hcrival.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#F13134",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "store": "https://store.hcrival.net",
+    "socials": {
+        "twitter": "HCRival_NET",
+        "telegram": "HCRivalNetwork",
+        "discord": "https://discord.gg/hcrival"
+    },
+    "crossplay": false
+}

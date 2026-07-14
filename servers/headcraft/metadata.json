@@ -2,6 +2,7 @@
     "id": "headcraft",
     "name": "HeadCraft",
     "store": "https://tienda.headcraft.es/",
+    "description": "Play PvP and Minigames on HeadCraft.",
     "addresses": [
         "headcraft.es"
     ],

@@ -1,0 +1,32 @@
+{
+    "id": "ghostcube",
+    "name": "GhostCube Network",
+    "website": "https://ghostcube.it",
+    "description": "The best Italian vanilla server",
+    "addresses": [
+        "ghostcube.it"
+    ],
+    "primaryAddress": "play.ghostcube.it",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mnjmkzdgAD"
+    }
+}

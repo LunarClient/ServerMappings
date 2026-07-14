@@ -2,6 +2,7 @@
     "id": "azure",
     "name": "Azure Network",
     "store": "https://store.azurepvp.cc",
+    "description": "Play PvP and UHC on Azure Network.",
     "addresses": [
         "azurepvp.cc"
     ],

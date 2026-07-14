@@ -1,6 +1,7 @@
 {
     "id": "thoramc",
     "name": "ThoraMC",
+    "description": "Play Skyblock, Survival, and more on ThoraMC.",
     "addresses": [
         "thoramc.it"
     ],
@@ -12,6 +13,7 @@
         "1.21.5"
     ],
     "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -21,9 +23,12 @@
         "it"
     ],
     "gameTypes": [
-        "Skyblock"
+        "Skyblock",
+        "Survival",
+        "PvP"
     ],
     "socials": {
+        "youtube": "thoramc",
         "discord": "https://discord.gg/6S8m9dHufs"
     }
 }

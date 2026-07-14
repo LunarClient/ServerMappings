@@ -2,6 +2,7 @@
     "id": "widowmc",
     "name": "WidowMC Network",
     "store": "https://store.widowmc.net",
+    "description": "Play PvP and Survival on WidowMC Network.",
     "addresses": [
         "widowmc.net"
     ],

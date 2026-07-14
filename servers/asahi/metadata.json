@@ -1,10 +1,11 @@
 {
     "id": "asahi",
     "name": "Asahi",
+    "description": "Play UHC, Minigames, and more on Asahi.",
     "addresses": [
-        "82.23.190.130"
+        "asahimc.fr"
     ],
-    "primaryAddress": "82.23.190.130",
+    "primaryAddress": "play.asahimc.fr",
     "primaryColor": "#FFA955",
     "secondaryColor": "#EFEEEA",
     "minecraftVersions": [

@@ -1,0 +1,34 @@
+{
+    "id": "neanetwork",
+    "name": "Nea Network",
+    "website": "https://nea-network.tebex.io/",
+    "description": "Explore a new world and new experiences",
+    "addresses": [
+        "neantw.fun"
+    ],
+    "primaryAddress": "neantw.fun",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/668TSTw4hS"
+    }
+}

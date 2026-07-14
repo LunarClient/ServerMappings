@@ -1,0 +1,40 @@
+{
+    "id": "drakense",
+    "name": "Drakense",
+    "description": "The best SA server to practice",
+    "addresses": [
+        "drakense.top"
+    ],
+    "primaryAddress": "drakense.top",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#F54927",
+    "secondaryColor": "#FA9100",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+    "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://tierlist.drakense.top",
+    "store": "https://tienda.drakense.top",
+    "socials": {
+        "discord": "https://discord.gg/Tj97YJwxYw"
+    },
+    "crossplay": true
+}

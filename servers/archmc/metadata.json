@@ -19,16 +19,22 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
+    "offline": true,
     "primaryRegion": "NA",
     "regions": [
         "AS",
         "NA",
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
+        "Practice",
+        "KitPvP",
         "Survival",
-        "PvP"
+        "Lifesteal",
+        "PvP",
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.gg/archmc"

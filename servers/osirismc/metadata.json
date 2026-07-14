@@ -1,0 +1,27 @@
+{
+    "id": "osirismc",
+    "name": "OsirisMC",
+    "description": "OsirisMC NetWork - Survival",
+    "store": "https://tienda.osirismc.net/",
+    "addresses": [
+      "osirismc.net"
+    ],
+    "primaryAddress": "osirismc.net",
+    "primaryColor": "#e5be01",
+    "secondaryColor": "#e5be70",
+    "minecraftVersions": [
+      "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "NA",
+    "regions": [
+      "NA"
+    ],
+    "gameTypes": [
+      "Survival"
+    ],
+    "socials": {
+      "discord": "https://discord.gg/AQc6xGUj3A"
+    },
+    "crossplay": true
+  }

@@ -2,6 +2,7 @@
     "id": "regorland",
     "name": "Regorland",
     "store": "https://tienda.regorland.net/",
+    "description": "Play Minigames and PvP on Regorland.",
     "addresses": [
         "regorland.net"
     ],

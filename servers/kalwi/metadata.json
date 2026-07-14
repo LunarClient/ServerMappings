@@ -1,12 +1,12 @@
 {
     "id": "kalwi",
     "name": "Kandang Alwi",
-    "website": "https://kandangalwi.me",
-    "store": "https://kandangalwi.me",
+    "website": "https://kalwi.net",
+    "store": "https://store.kalwi.net",
     "description": "Survival server with a variety of features.",
     "addresses": [
         "kalwi.id",
-        "kandangalwi.id"
+        "kalwi.cc"
     ],
     "primaryAddress": "kalwi.id",
     "primaryColor": "#4180F4",
@@ -18,9 +18,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.2",
+    "primaryMinecraftVersion": "1.21.2",
     "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
@@ -36,8 +37,8 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/kandangalwi",
-        "tiktok": "@kandangalwi.me",
+        "discord": "https://discord.gg/kalwi",
+        "tiktok": "@kalwi.net",
         "instagram": "kandangalwi.me",
         "youtube": "kandangalwi"
     }

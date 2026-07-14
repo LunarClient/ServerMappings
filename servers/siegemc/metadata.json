@@ -1,0 +1,35 @@
+{
+    "id": "siegemc",
+    "name": "SiegeMC",
+    "website": "https://www.siegemc.it/",
+    "store": "https://store.siegemc.it/",
+    "description": "SiegeMc the best server to chill and have fun!",
+    "addresses": [
+        "siegemc.it",
+        "shardanacraft.it"
+    ],
+    "primaryAddress": "play.siegemc.it",
+    "primaryColor": "#CD0808",
+    "secondaryColor": "#FFF5E1",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/X9hV3hS4Kh"
+    }
+}

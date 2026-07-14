@@ -2,6 +2,7 @@
     "id": "minebolt",
     "name": "MineBolt Network",
     "store": "https://tienda.minebolt.es/",
+    "description": "Play Survival and PvP on MineBolt Network.",
     "addresses": [
         "minebolt.es",
         "minebolt.net"

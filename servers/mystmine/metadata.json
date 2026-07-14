@@ -2,6 +2,7 @@
     "id": "mystmine",
     "name": "MystMine Network",
     "store": "https://tienda.mystmine.com/",
+    "description": "Experience survival gameplay on MystMine Network.",
     "addresses": [
         "mystmine.com"
     ],

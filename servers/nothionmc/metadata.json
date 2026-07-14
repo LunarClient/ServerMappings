@@ -1,0 +1,34 @@
+{
+    "id": "nothionmc",
+    "name": "Nothion MC",
+    "description": "Classic Hardcore Prison server in Spanish. How long will you last?",
+    "addresses": [
+        "nothionmc.com"
+    ],
+    "primaryAddress": "nothionmc.com",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#7B2FBE",
+    "secondaryColor": "#F0D6FF",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "crossplay": false,
+    "website": "https://www.nothionmc.com",
+    "store": "https://www.nothionmc.com/tienda",
+    "socials": {
+        "discord": "https://discord.gg/GsfGeAYc",
+        "tiktok": "@nothionmc_oficial",
+        "instagram": "nothionmc"
+    }
+}

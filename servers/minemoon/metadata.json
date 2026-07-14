@@ -1,0 +1,40 @@
+{
+    "id": "minemoon",
+    "name": "Minemoon",
+    "store": "https://store.minemoon.live/",
+    "description": "Come play and have fun on MineMoon.",
+    "addresses": [
+        "minemoon.live"
+    ],
+    "primaryAddress": "minemoon.live",
+    "primaryColor": "#C68CF2",
+    "secondaryColor": "#9D39EA",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Survival",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/minemoon",
+        "tiktok": "@minemoonl"
+    }
+}

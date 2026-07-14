@@ -1,0 +1,29 @@
+{
+    "id": "yugtosmp",
+    "name": "Yugto SMP",
+    "description": "Unique survival experience!",
+    "addresses": [
+        "kaeel.dev"
+    ],
+    "primaryAddress": "yugto.kaeel.dev",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#7CFFB2",
+    "secondaryColor": "#C8FFD9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Hardcore",
+        "Survival",
+        "PvP"
+    ],
+    "crossplay": true
+}
