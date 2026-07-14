@@ -2,16 +2,15 @@
     "id": "uranocraft",
     "name": "Uranocraft",
     "store": "https://tienda.uranocraft.net/",
-    "description": "UranoCraft es un servidor hispano de Minecraft (versión 1.21) especializado en modalidad Survival Custom, compatible con jugadores Premium y No Premium.",
+    "description": "UranoCraft es un servidor hispano de Minecraft versión 1.21 especializado en modalidad Survival Custom, compatible con jugadores Premium y No Premium.",
     "addresses": [
         "mc.uranocraft.net"
     ],
-    "primaryAddress": "mc.uranocraft.net",
+    "primaryAddress": "uranocraft.net",
     "primaryColor": "#5adfee",
     "secondaryColor": "#dbe3e7",
     "minecraftVersions": [
-        "1.21.*",
-        "1.22.*"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
     "primaryRegion": "NA",
