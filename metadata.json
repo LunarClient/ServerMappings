@@ -10,7 +10,7 @@
         "1.21.8",
         "1.21.9",
         "1.21.10",
-        "1.21.11",
+        "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.8",
     "primaryColor": "#36b7fb",
@@ -37,5 +37,5 @@
         "discord": "https://discord.com/invite/VcRjkjZkbS"
     },
     "crossplay": false,
-    "offline": "true"
+    "offline": true
 }
