@@ -1,12 +1,13 @@
 {
     "id": "houpcuy",
-    "name": "Houpcuy Network",
+    "name": "Lutein.cc",
     "website": "https://houpcuy.cc",
     "store": "https://houpcuy.cc/store",
-    "description": "The Next Best PvP Server",
+    "description": "The next best PvP server",
     "addresses": [
         "houpcuy.cc",
         "neverminds.cc",
+        "lutein.cc",
         "1i.hk",
         "5i.hk"
     ],
@@ -16,7 +17,7 @@
     "minecraftVersions": [
         "1.8.*",
         "1.7.*",
-        "1.21.*"
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
