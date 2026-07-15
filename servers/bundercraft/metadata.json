@@ -2,20 +2,22 @@
     "id": "bundercraft",
     "name": "Bundercraft Network",
     "store": "https://tienda.bundercraft.xyz/",
-    "description": "Competitive minecraft boxpvp server.",
+    "description": "Competitive spanish minecraft boxpvp server.",
     "addresses": [
-        "bundercraft.xyz"
+        "mc.bundercraft.us",
+        "bundercraft.us"
     ],
-    "primaryAddress": "bundercraft.xyz",
+    "primaryAddress": "mc.bundercraft.us",
     "primaryColor": "#07FF00",
     "secondaryColor": "#058700",
     "minecraftVersions": [
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.20.6",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
