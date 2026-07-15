@@ -1,14 +1,13 @@
 {
     "id": "houpcuy",
-    "name": "Houpcuy Network",
+    "name": "Lutein.cc",
     "website": "https://houpcuy.cc",
     "store": "https://houpcuy.cc/store",
     "description": "The Next Best PvP Server",
     "addresses": [
         "houpcuy.cc",
         "neverminds.cc",
-        "1i.hk",
-        "5i.hk"
+        "Lutein.cc",
     ],
     "primaryAddress": "neverminds.cc",
     "primaryColor": "#ff60af",
