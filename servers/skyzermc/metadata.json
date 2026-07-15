@@ -1,0 +1,33 @@
+{
+    "id": "skyzermc",
+    "name": "SkyzerMC",
+    "website": "https://skyzermc.com.br",
+    "store": "https://skyzermc.com.br/shop",
+    "description": "Play bedwars and kitpvp.",
+    "primaryAddress": "skyzermc.com.br",
+    "primaryColor": "#ecf542",
+    "primaryLanguage": "pt-BR",
+    "secondaryColor": "#f5a742",
+    "crossplay": true,
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.8",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/RQWMeKCMtt",
+        "youtube": "@ebenezer_77",
+        "tiktok": "@noleexy"
+    }
+}
