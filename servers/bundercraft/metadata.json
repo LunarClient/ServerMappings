@@ -4,7 +4,6 @@
     "store": "https://tienda.bundercraft.us/",
     "description": "Competitive spanish minecraft boxpvp server.",
     "addresses": [
-        "mc.bundercraft.us",
         "bundercraft.us"
     ],
     "primaryAddress": "bundercraft.us",
