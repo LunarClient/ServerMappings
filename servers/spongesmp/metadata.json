@@ -4,9 +4,10 @@
   "website": "https://www.spongesmp.it",
   "description": "Entra ora nella SpongeSMP!",
   "addresses": [
+    "spongesmp.it",
     "play.spongesmp.it"
   ],
-  "primaryAddress": "play.spongesmp.it",
+  "primaryAddress": "spongesmp.it",
   "minecraftVersions": [
     "1.19.*",
     "1.20.*",
@@ -14,6 +15,7 @@
   ],
   "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#FFE827",
+  "secondaryColor": "#BAA707",
   "primaryLanguage": "it",
   "languages": [
     "it"
@@ -23,10 +25,10 @@
     "EU"
   ],
   "gameTypes": [
-    "SMP"
+    "Survival"
   ],
   "socials": {
-    "discord": "http://discord.spongesmp.it"
+    "discord": "https://discord.gg/phUb49waKP"
   },
   "crossplay": true
 }
