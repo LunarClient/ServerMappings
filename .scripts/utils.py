@@ -270,8 +270,8 @@ def validate_logo(path, server_name) -> list[str]:
     errors = []
     logo_image = image.open(path)
 
-    # Check image format is a PNG (allow JPEG data disguised as PNG filename)
-    if logo_image.format not in ["PNG", "JPEG"]:
+    # Check image format is a PNG
+    if logo_image.format not in ["PNG"]:
         errors.append(
             f"{server_name}'s server logo is not a PNG (currently {logo_image.format})..."
         )
@@ -315,8 +315,8 @@ def validate_background(path, server_name) -> list[str]:
     errors = []
     background_image = image.open(path)
 
-    # Check image format is a PNG (allow JPEG data disguised as PNG filename)
-    if background_image.format not in ["PNG", "JPEG"]:
+    # Check image format is a PNG
+    if background_image.format not in ["PNG"]:
         errors.append(
             f"{server_name}'s server background is not a PNG (currently {background_image.format})..."
         )
@@ -360,8 +360,8 @@ def validate_banner(path: str, server_name: str) -> list[str]:
     banner_image = image.open(path)
     errors = []
 
-    # Incorrect input format (allow JPEGs as well)
-    if banner_image.format not in {"PNG", "GIF", "JPEG"}:
+    # Incorrect input format
+    if banner_image.format not in {"PNG", "GIF"}:
         errors.append(
             f"{server_name}'s server banner is not a PNG or GIF (currently {banner_image.format})..."
         )
@@ -425,8 +425,8 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
     wordmark_image = image.open(path)
     errors = []
 
-    # Check image format is a PNG (allow JPEG data disguised as PNG filename)
-    if wordmark_image.format not in ["PNG", "JPEG"]:
+    # Check image format is a PNG
+    if wordmark_image.format not in ["PNG"]:
         errors.append(
             f"{server_name}'s server wordmark is not a PNG (currently {wordmark_image.format})..."
         )
