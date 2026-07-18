@@ -1,0 +1,67 @@
+{
+  "id": "wavemcitalia",
+  "name": "WaveMC",
+  "description": "Entra nel nostro server per giocare le migliori modalità",
+  "addresses": [
+    "wavemc.me"
+  ],
+  "primaryAddress": "play.wavemc.me",
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "primaryColor": "#00A2FF",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.12.2",
+    "1.16.5",
+    "1.17.1",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://www.wavemc.me",
+  "store": "https://store.wavemc.me",
+  "socials": {
+    "discord": "https://discord.com/invite/c4TvwdJwg6",
+    "youtube": "@wavemcitalia",
+    "tiktok": "@wavemc.me"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.wavemc.me/privacy/",
+    "termsOfService": "https://www.wavemc.me/terms/",
+    "rules": "https://www.wavemc.me/forum/topic/2-regolamento-wavemc/#post-2"
+  }
+}
