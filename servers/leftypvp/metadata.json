@@ -28,9 +28,8 @@
         "EU"
     ],
     "gameTypes": [
-        "SkyBlock",
+        "Skyblock",
         "KitPvP",
-        "DodgeBall",
         "Parkour"
     ],
     "store": "https://store.leftypvp.net",
