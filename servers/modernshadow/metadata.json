@@ -1,13 +1,12 @@
 {
     "id": "modernshadow",
     "name": "ModernShadow",
-    "description": "A Survival with Slimefun system",
+    "description": "A Survival SMP with custom shadow abilities and leveling system",
     "addresses": [
         "modernshadow.ir"
     ],
     "primaryAddress": "modernshadow.ir",
     "minecraftVersions": [
-        "1.13.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
