@@ -1,0 +1,35 @@
+{
+    "id": "islandmc",
+    "name": "IslandMC",
+    "website": "https://www.islandmc.it/",
+    "store": "https://store.islandmc.it/",
+    "description": "IslandMC, dive into Italy's ultimate experience.",
+    "addresses": [
+        "islandmc.it"
+    ],
+    "primaryAddress": "play.islandmc.it",
+    "primaryColor": "#4FB9D3",
+    "secondaryColor": "#ADF3FD",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/jrBcpUg7ZV",
+        "telegram": "IslandMC",
+        "tiktok": "@islandmc.it"
+    }
+}

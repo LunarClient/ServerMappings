@@ -1,0 +1,53 @@
+{
+    "id": "boatosta",
+    "name": "BoaTosta",
+    "website": "https://boatosta.net/",
+    "store": "https://store.boatosta.net/",
+    "description": "Join BoaTosta Network: build, explore, play and have fun with us!",
+    "addresses": [
+        "boatosta.net",
+        "tostamc.it"
+    ],
+    "primaryAddress": "play.boatosta.net",
+    "primaryColor": "#5DD420",
+    "secondaryColor": "#FFE259",
+    "minecraftVersions": [
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "PvP"
+    ],
+    "socials": {
+        "telegram": "BoaTostaStudios",
+        "discord": "https://discord.com/invite/Yxw4NpU2qc",
+        "instagram": "boatostastudios"
+    },
+    "compliance": {
+        "rules": "https://boatosta.net/rules.html",
+        "support": "https://discord.com/invite/Yxw4NpU2qc"
+    },
+    "votingLinks": [
+        "https://minecraftservers.org/server/672102",
+        "https://topminecraftservers.org/server/40272",
+        "https://minecraft-server-list.com/server/510828",
+        "https://servers-minecraft.net/server-boatosta-network.41276",
+        "https://minecraft-mp.com/server-s341929",
+        "https://play-minecraft-servers.com/minecraft-servers/boatosta-network",
+        "https://minecraftbestservers.com/server-boatosta-network.4722",
+        "https://www.planetminecraft.com/server/boatosta-network"
+    ]
+}

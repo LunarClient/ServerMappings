@@ -1,0 +1,36 @@
+{
+    "id": "horu",
+    "name": "Horu Games",
+    "website": "https://horu.us",
+    "store": "http://store.horu.us",
+    "description": "Community oriented PvP server",
+    "addresses": [
+        "horu.us"
+    ],
+    "primaryAddress": "horu.us",
+    "primaryColor": "#0d9005",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/horu"
+    }
+}

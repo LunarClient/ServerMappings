@@ -1,0 +1,36 @@
+{
+    "id": "brumsmp",
+    "name": "BrumSMP",
+    "website": "https://info.brumsmp.net",
+    "store": "https://store.brumsmp.net/",
+    "description": "A popular Minecraft Server and SMP featuring unique survival and PvP experiences",
+    "addresses": [
+        "brumsmp.net"
+    ],
+    "primaryAddress": "brumsmp.net",
+    "primaryColor": "#ffaa00",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/brumsmp",
+        "youtube": "BrumSMP",
+        "tiktok": "@brumsmp"
+    }
+}

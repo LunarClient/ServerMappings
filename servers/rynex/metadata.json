@@ -1,0 +1,35 @@
+{
+    "id": "rynex",
+    "name": "Rynex",
+    "website": "https://www.rynex.hu",
+    "store": "https://shop.rynex.hu",
+    "description": "A network that provides a variety of game modes, including PvP and Minigames.",
+    "addresses": [
+        "rynex.hu"
+    ],
+    "primaryAddress": "play.rynex.hu",
+    "primaryColor": "#45B2F5",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FdB9HbwhK9"
+    }
+}

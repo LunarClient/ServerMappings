@@ -3,6 +3,7 @@
     "name": "Arefy Network",
     "website": "https://arefy.net/",
     "store": "https://buy.arefy.net/",
+    "description": "Welcome to Arefy Network, the best Spanish Minecraft server.",
     "addresses": [
         "arefy.net"
     ],
@@ -27,12 +28,12 @@
     "gameTypes": [
         "Skyblock",
         "Prison",
-	    "Survival"
+        "Survival"
     ],
     "socials": {
         "twitter": "ArefyNetwork",
         "discord": "https://discord.com/invite/arefy",
-        "tiktok": "arefynet",
-	    "instagram": "arefynet"
+        "tiktok": "@arefynet",
+        "instagram": "arefynet"
     }
 }

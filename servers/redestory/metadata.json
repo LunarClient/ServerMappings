@@ -2,6 +2,7 @@
     "id": "redestory",
     "name": "Rede Story",
     "store": "https://loja.redestory.com/",
+    "description": "Play Survival, Skyblock, and more on Rede Story.",
     "addresses": [
         "redestory.com"
     ],
@@ -33,6 +34,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/redestory",
-        "tiktok": "redestory"
+        "tiktok": "@redestory"
     }
 }

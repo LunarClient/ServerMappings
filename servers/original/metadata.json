@@ -2,6 +2,7 @@
     "id": "original",
     "name": "Original Network",
     "store": "https://store.original.gg/",
+    "description": "Play Survival and PvP on Original Network.",
     "addresses": [
         "original.gg"
     ],
@@ -27,6 +28,6 @@
     "socials": {
         "discord": "https://discord.com/invite/t88SKxt",
         "instagram": "original.gg__",
-        "tiktok": "original.gg__"
+        "tiktok": "@original.gg__"
     }
 }

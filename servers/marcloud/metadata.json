@@ -1,0 +1,43 @@
+{
+    "id": "marcloud",
+    "name": "marCloud",
+    "website": "https://mc.marcloud.net",
+    "store": "https://mc.marcloud.net/store",
+    "description": "A passion project created with the player experience in mind",
+    "addresses": [
+        "marcloud.net"
+    ],
+    "primaryAddress": "marcloud.net",
+    "primaryColor": "#0082c9",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/yaftWcn"
+    },
+    "compliance": {
+        "privacyPolicy": "https://mc.marcloud.net/privacy",
+        "termsOfService": "https://mc.marcloud.net/tos",
+        "rules": "https://mc.marcloud.net/rules",
+        "support": "https://mc.marcloud.net/support"
+    }
+}

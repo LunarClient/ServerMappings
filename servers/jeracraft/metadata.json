@@ -1,0 +1,39 @@
+{
+    "id": "jeracraft",
+    "name": "Jeracraft Network",
+    "website": "https://www.jeracraft.net/",
+    "store": "https://store.jeracraft.net/",
+    "description": "An MMORPG experience featuring builds from Jeracraft!",
+    "addresses": [
+        "jeracraft.net"
+    ],
+    "primaryAddress": "mc.jeracraft.net",
+    "primaryColor": "#D88E25",
+    "secondaryColor": "#2A2A30",
+    "minecraftVersions": [
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "Survival",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "JeremyJeracraft",
+        "discord": "https://discord.com/invite/jeracraft",
+        "youtube": "Jeracraft",
+        "instagram": "jeracraftyt",
+        "tiktok": "@jeracraftyt"
+    }
+}

@@ -24,16 +24,19 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Prison",
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "Cobblemon",
+        "Creative"
     ],
     "socials": {
         "twitter": "opblocks",
         "discord": "https://discord.com/invite/tXPUtSPTMN",
         "youtube": "UC3uucqNHTcwadJKG2Hrnfow",
-        "tiktok": "opblocks"
+        "tiktok": "@opblocks"
     },
     "compliance": {
         "rules": "https://opblocks.com/rules/"

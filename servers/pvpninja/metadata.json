@@ -1,0 +1,42 @@
+{
+    "id": "pvpninja",
+    "name": "PvP Ninja",
+    "website": "http://pvp.ninja",
+    "description": "PvP Server Available in 6 continents across the globe!",
+    "addresses": [
+        "pvp.ninja"
+    ],
+    "primaryAddress": "pvp.ninja",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "NA",
+        "AS",
+        "EU",
+        "SA",
+        "OC",
+        "AF"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/pvpninja",
+        "twitter": "PvPNinjaNetwork",
+        "youtube": "@PvPNinjaNetwork",
+        "instagram": "pvpninjanetwork"
+    }
+}

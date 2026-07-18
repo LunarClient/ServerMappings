@@ -1,0 +1,43 @@
+{
+    "id": "solarisemc",
+    "name": "SolariseMC",
+    "store": "https://store.solarisemc.com",
+    "description": "Home of Competitive Minecraft Factions",
+    "addresses": [
+        "solarisemc.com",
+        "warlockmc.org"
+    ],
+    "primaryAddress": "solarisemc.com",
+    "primaryColor": "#9d00ff",
+    "secondaryColor": "#3c0061",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/solarisemc"
+    }
+}

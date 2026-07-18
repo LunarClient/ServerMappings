@@ -1,0 +1,39 @@
+{
+    "id": "juicymc",
+    "name": "JuicyMC",
+    "store": "https://store.juicymc.net/",
+    "description": "Welcome to JuicyMC, the ultimate Skyblock x Generator tycoon server!",
+    "addresses": [
+        "juicymc.net"
+    ],
+    "primaryAddress": "play.juicymc.net",
+    "primaryColor": "#FCA800",
+    "secondaryColor": "#FCFC54",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/53FruSEyy4"
+    },
+    "votingLinks": [
+        "https://minecraftservers.org/server/667125",
+        "https://minecraft-server-list.com/server/507657/",
+        "https://blockatlas.net/server-JuicyMC.305/about",
+        "https://topminecraftservers.org/server/39061",
+        "https://minecraft-server.net/details/JuicyMC/"
+    ]
+}

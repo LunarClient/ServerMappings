@@ -1,32 +1,32 @@
 {
     "id": "tenshi",
     "name": "Tenshi Network",
+    "website": "https://tenshi.gg",
+    "store": "https://store.tenshi.gg",
     "description": "Competitive Minecraft Practice, a new way.",
     "addresses": [
         "tenshi.gg"
     ],
     "primaryAddress": "tenshi.gg",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
     "minecraftVersions": [
         "1.7.10",
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.7.10",
-    "primaryColor": "#FFAA00",
-    "secondaryColor": "#FFFF55",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-	"website": "https://tenshi.gg",
-    "store": "https://store.tenshi.gg",
-	"socials": {
+    "socials": {
         "twitter": "TenshiNetwork",
         "discord": "https://discord.com/invite/puUGePxz3u"
     }

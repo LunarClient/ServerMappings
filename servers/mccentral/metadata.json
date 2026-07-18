@@ -9,6 +9,8 @@
         "mc-central.net"
     ],
     "primaryAddress": "mccentral.org",
+    "primaryColor": "#e3b34a",
+    "secondaryColor": "#1a1c20",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -22,8 +24,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#e3b34a",
-    "secondaryColor": "#1a1c20",
     "gameTypes": [
         "Survival",
         "Skyblock",
@@ -34,7 +34,7 @@
         "discord": "https://discord.com/invite/9jzwQDQ",
         "youtube": "UCMjWosxS3lQY5JhwcvnoHWw",
         "instagram": "mccentral_official",
-        "tiktok": "mccentral_official",
+        "tiktok": "@mccentral_official",
         "facebook": "mccentral.official"
     }
 }

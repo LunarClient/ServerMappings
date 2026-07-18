@@ -3,9 +3,12 @@
     "name": "OG Network",
     "website": "https://www.og-network.net/",
     "store": "https://shop.og-network.net/",
+    "description": "Play Survival, Minigames, and more on OG Network.",
     "addresses": [
         "og-network.net",
-        "og-sg.net"
+        "og-sg.net",
+        "ognetwork.net",
+        "og-factions.net"
     ],
     "primaryAddress": "og-network.net",
     "primaryColor": "#65bf75",
@@ -26,8 +29,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "UHC",
-        "Minigames"
+        "Minigames",
+        "Factions"
     ],
     "socials": {
         "twitter": "playognetwork",

@@ -1,37 +1,52 @@
 {
     "id": "asakamc",
-    "name": "AsakaMC",
-    "website": "https://asakamc.xyz/",
-    "description": "A Vietnamese 1.8 PvP Practice & Survival Minecraft Server",
+    "name": "AsakaMC Network",
+    "website": "https://asakamc.vn",
+    "store": "https://store.asakamc.vn",
+    "wiki": "https://docs.asakamc.vn",
+    "description": "A Vietnamese Minecraft server network, provides high-quality and fun game modes ",
     "addresses": [
-        "asakamc.xyz"
+        "asakamc.vn"
     ],
-    "primaryAddress": "asakamc.xyz",
-    "primaryColor": "#caeefa",
-    "secondaryColor": "#fcc386",
+    "primaryAddress": "asakamc.vn",
+    "primaryColor": "#FE4C59",
+    "secondaryColor": "#BBBDBB",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21"
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.1",
+        "1.18.2",
+        "1.19",
+        "1.19.2",
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
     "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
     "gameTypes": [
-        "Minigames",
         "PvP",
+        "Minigames",
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/asakamc",
-        "youtube": "@AsakaMC",
-        "facebook": "asakamc"
+        "discord": "https://discord.gg/asakamc"
     }
 }

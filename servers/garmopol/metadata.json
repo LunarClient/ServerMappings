@@ -3,7 +3,7 @@
     "name": "Garmopol",
     "website": "https://www.garmopol.de",
     "store": "https://shop.garmopol.de",
-    "description": "Garmopol: Ein deutschsprachiger Server mit vielen Modi wie Citybuild seit 2022!",
+    "description": "Garmopol: A German-speaking server with many modes like Citybuild since 2022!",
     "addresses": [
         "garmopol.de"
     ],
@@ -31,7 +31,7 @@
     "socials": {
         "discord": "https://discord.gg/KQ2MnZQvVG",
         "youtube": "garmopol",
-        "tiktok": "garmopol",
+        "tiktok": "@garmopol",
         "instagram": "garmopol"
     }
 }

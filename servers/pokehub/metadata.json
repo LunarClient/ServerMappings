@@ -2,6 +2,7 @@
     "id": "pokehub",
     "name": "PokeHub",
     "store": "https://store.pokehub.org/",
+    "description": "Immerse yourself in roleplay on PokeHub.",
     "addresses": [
         "pokehub.org"
     ],

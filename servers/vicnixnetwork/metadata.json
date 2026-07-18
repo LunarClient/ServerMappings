@@ -2,6 +2,7 @@
     "id": "vicnixnetwork",
     "name": "VicNix Network",
     "store": "https://tienda.vicnix.net",
+    "description": "Play PvE and PvP on VicNix Network.",
     "addresses": [
         "vicnix.net"
     ],

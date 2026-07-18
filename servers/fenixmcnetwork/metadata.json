@@ -2,7 +2,7 @@
     "id": "fenixmcnetwork",
     "name": "Fenix Network",
     "store": "https://tienda.fenixmc.net",
-    "description": "El imperio renace",
+    "description": "Play PvP, Survival, and more on Fenix Network.",
     "addresses": [
         "fenixmc.net"
     ],
@@ -41,6 +41,6 @@
     "socials": {
         "twitter": "fenixmcnett",
         "discord": "https://discord.com/invite/REGvVEazT7",
-        "tiktok": "fenixmcnet"
+        "tiktok": "@fenixmcnet"
     }
 }

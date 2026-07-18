@@ -1,0 +1,33 @@
+{
+    "id": "suurvaal",
+    "name": "Suurvaal",
+    "website": "https://suurvaal.ee/",
+    "description": "Eesti/Estonian minecraft server with cool features",
+    "addresses": [
+        "suurvaal.ee"
+    ],
+    "primaryAddress": "mc.suurvaal.ee",
+    "primaryColor": "#45b3d1",
+    "secondaryColor": "#2897b5",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7a6DtNv4tD"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s324149"
+    ]
+}

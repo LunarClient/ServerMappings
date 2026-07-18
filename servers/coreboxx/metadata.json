@@ -1,0 +1,33 @@
+{
+    "id": "coreboxx",
+    "name": "CoreBoxx",
+    "store": "http://box.coreboxx.store",
+    "description": "Boxmining done right, and much much more to come.",
+    "addresses": [
+        "thdr.me"
+    ],
+    "primaryAddress": "coreboxx.thdr.me",
+    "primaryColor": "#CF69FF",
+    "secondaryColor": "#C0E6D5",
+    "minecraftVersions": [
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/9n2EeWa22N"
+    }
+}

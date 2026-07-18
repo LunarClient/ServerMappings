@@ -2,6 +2,7 @@
     "id": "minetop",
     "name": "MineTop",
     "store": "https://store.minetop.fun/",
+    "description": "Experience survival gameplay on MineTop.",
     "addresses": [
         "minetop.fun"
     ],

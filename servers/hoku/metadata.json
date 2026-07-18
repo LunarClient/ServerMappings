@@ -1,0 +1,34 @@
+{
+    "id": "hoku",
+    "name": "Hoku PvP",
+    "website": "https://www.hoku.rip",
+    "store": "https://store.hoku.rip",
+    "description": "An old competitive PvP server dedicated to UHC (1.7-1.21+).",
+    "addresses": [
+        "hoku.rip"
+    ],
+    "primaryAddress": "hoku.rip",
+    "primaryColor": "#50be30",
+    "secondaryColor": "#00b213",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/b9742Jq9jM"
+    }
+}

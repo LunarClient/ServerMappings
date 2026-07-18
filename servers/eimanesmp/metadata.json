@@ -1,0 +1,36 @@
+{
+    "id": "eimanesmp",
+    "name": "EI MANÉ SMP",
+    "website": "https://eimanesmp.shop",
+    "store": "https://pixcd.shop/eimanesmp",
+    "description": "Custom survival in a 1:543 earth map with town and nation building and roleplay",
+    "addresses": [
+        "eimanesmp.shop"
+    ],
+    "primaryAddress": "jogar.eimanesmp.shop",
+    "primaryColor": "#ec008d",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Hardcore"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/eWJQN77GTJ",
+        "tiktok": "@eimanesmp",
+        "youtube": "UCVUMbsBSDOt1p1OlNT8QTBA"
+    }
+}

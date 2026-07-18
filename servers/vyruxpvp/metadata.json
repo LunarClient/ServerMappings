@@ -1,26 +1,26 @@
 {
     "id": "vyruxpvp",
     "name": "VyruxPvP Network",
-    "description": "Best old minecraft pvp",
+    "description": "Best old Minecraft pvp",
     "addresses": [
         "vyruxpvp.com"
     ],
     "primaryAddress": "vyruxpvp.com",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ffd700",
-    "secondaryColor": "#ffffff",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "es-EN",
         "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "PvP",

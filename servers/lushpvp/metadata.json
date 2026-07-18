@@ -2,7 +2,7 @@
     "id": "lushpvp",
     "name": "LushPvP",
     "store": "https://store.lushpvp.com/",
-    "description": "We're your home with the Hardcore Factions and the PotPvP gamemodes!",
+    "description": "We're your home with multiple gamemodes!",
     "addresses": [
         "lushpvp.com"
     ],
@@ -24,7 +24,6 @@
     ],
     "socials": {
         "twitter": "LushPvP",
-        "discord": "https://discord.com/invite/lushgames",
-        "tiktok": "LushPvP"
+        "discord": "https://discord.gg/lushgames"
     }
 }

@@ -2,6 +2,7 @@
     "id": "paulberger",
     "name": "Paulberger",
     "store": "https://shopmc.paulberger.gg/",
+    "description": "Unleash your creativity on Paulberger.",
     "addresses": [
         "paulberger.gg"
     ],
@@ -9,6 +10,7 @@
     "primaryColor": "#ffffff",
     "secondaryColor": "#0e99c9",
     "minecraftVersions": [
+        "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",

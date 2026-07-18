@@ -1,0 +1,37 @@
+{
+    "id": "dropcraft",
+    "name": "Dropcraft",
+    "description": "Pvp and Training Minecraft Server",
+    "addresses": [
+	    "dropcraft.ru"
+    ],
+	"primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryAddress": "play.dropcraft.ru",
+    "primaryColor": "#40e0d0",
+    "secondaryColor": "#555555",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/78c7yxJk7f",
+		"telegram": "dropcraftru"
+    }
+}

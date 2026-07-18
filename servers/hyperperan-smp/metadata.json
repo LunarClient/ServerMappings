@@ -1,0 +1,38 @@
+{
+    "id": "hyperperan-smp",
+    "name": "HyperPeran SMP",
+    "website": "https://hyperperan-smp.com",
+    "store": "https://hypermarketplace.mysellix.io",
+    "description": "HyperPeran SMP - Epic Java & Bedrock survival server!",
+    "addresses": [
+        "hyperperan.world"
+    ],
+    "primaryAddress": "play.hyperperan.world",
+    "primaryColor": "#f3b600",
+    "secondaryColor": "#262d37",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hyperperan",
+        "instagram": "hyperperan",
+        "tiktok": "@hyperperan"
+    }
+}

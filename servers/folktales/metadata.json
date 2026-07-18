@@ -1,0 +1,39 @@
+{
+    "id": "folktales",
+    "name": "Folktales",
+    "description": "Folktales - Choose your class, explore, and thrive in a balanced world!",
+    "addresses": [
+        "folktalesmc.net"
+    ],
+    "primaryAddress": "folktalesmc.net",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#FF8DEE",
+    "secondaryColor": "#C47EFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.folktalesmc.net/",
+    "socials": {
+        "discord": "https://discord.gg/q5tnZKEye2"
+    },
+    "crossplay": true
+}

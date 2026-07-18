@@ -1,0 +1,32 @@
+{
+    "id": "sekaimc",
+    "name": "SekaiMC",
+    "description": "A UHC and minigame server",
+    "addresses": [
+        "sekaimc.fr"
+    ],
+    "primaryAddress": "play.sekaimc.fr",
+    "primaryColor": "#86000D",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/RND8swpB"
+    }
+}

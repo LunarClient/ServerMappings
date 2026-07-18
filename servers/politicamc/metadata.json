@@ -2,7 +2,7 @@
     "id": "politicamc",
     "name": "PoliticaMC",
     "website": "https://www.politicamc.com.br",
-    "description": "O verdadeiro Towny geopolítico.",
+    "description": "The real geopolitical Towny.",
     "addresses": [
         "politicamc.com.br"
     ],
@@ -33,7 +33,7 @@
     "socials": {
         "discord": "https://discord.com/invite/yqDkRMfADS"
     },
-        "compliance": {
+    "compliance": {
         "privacyPolicy": "https://www.politicamc.com.br/privacy",
         "termsOfService": "https://www.politicamc.com.br/terms",
         "rules": "https://www.politicamc.com.br/rules"

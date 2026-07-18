@@ -2,6 +2,7 @@
     "id": "bedlessmc",
     "name": "BedlessMC Network",
     "store": "https://bedlessmc.com/store",
+    "description": "Play PvP, Skyblock, and more on BedlessMC Network.",
     "addresses": [
         "bedlessmc.com"
     ],
@@ -24,6 +25,6 @@
         "Minigames"
     ],
     "socials": {
-      "discord": "https://discord.com/invite/dssSUZQ7Ee"
+        "discord": "https://discord.com/invite/dssSUZQ7Ee"
     }
 }

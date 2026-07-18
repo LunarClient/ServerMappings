@@ -1,6 +1,7 @@
 {
     "id": "renga",
     "name": "Renga Network",
+    "description": "Test your combat skills on Renga Network.",
     "addresses": [
         "renga.zip"
     ],

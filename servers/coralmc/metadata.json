@@ -11,6 +11,7 @@
         "quarantena.rip"
     ],
     "primaryAddress": "play.coralmc.it",
+    "offline": true,
     "primaryColor": "#1387ca",
     "secondaryColor": "#262d37",
     "minecraftVersions": [
@@ -32,15 +33,19 @@
     "languages": [
         "it"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Survival"
+        "Survival",
+        "Practice",
+        "KitPvP",
+        "Roleplay"
     ],
     "socials": {
         "discord": "https://discord.com/invite/MGW42TXHBd",
         "instagram": "coralmc.it",
         "telegram": "CoralMC",
-        "tiktok": "coralmc.it"
+        "tiktok": "@coralmc.it"
     }
 }

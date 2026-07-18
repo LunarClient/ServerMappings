@@ -2,6 +2,7 @@
     "id": "sunblock",
     "name": "Sunblock",
     "store": "https://store.sunblock.gg/",
+    "description": "Build your island empire on Sunblock.",
     "addresses": [
         "sunblock.gg"
     ],
@@ -24,6 +25,6 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/sunblock",
-        "tiktok": "playsunblock"
+        "tiktok": "@playsunblock"
     }
 }

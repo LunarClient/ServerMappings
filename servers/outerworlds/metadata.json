@@ -3,6 +3,7 @@
     "name": "OuterWorlds",
     "website": "https://outerworlds.us/",
     "store": "https://store.outerworlds.us/",
+    "description": "Play PvP, Survival, and more on OuterWorlds.",
     "addresses": [
         "outerworlds.us"
     ],
@@ -12,13 +13,13 @@
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
-		"1.8.*",
-		"1.7.10"
+        "1.8.*",
+        "1.7.10"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "PvP",
-		"Survival",
-		"Skyblock"
+        "Survival",
+        "Skyblock"
     ]
 }

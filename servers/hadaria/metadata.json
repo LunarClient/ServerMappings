@@ -3,7 +3,7 @@
     "name": "Hadaria",
     "website": "https://hadaria.fr/",
     "store": "https://boutique.hadaria.fr/",
-    "description": "Le meilleur serveur PVP Factions de France",
+    "description": "France's best PVP Factions server",
     "addresses": [
         "hadaria.fr",
         "hadaria.net",
@@ -11,6 +11,7 @@
         "hadaria.com"
     ],
     "primaryAddress": "play.hadaria.fr",
+    "offline": true,
     "primaryColor": "#BA291E",
     "secondaryColor": "#F1CE4C",
     "minecraftVersions": [
@@ -30,6 +31,7 @@
     "languages": [
         "fr"
     ],
+    "primaryGameType": "Factions",
     "gameTypes": [
         "PvP",
         "Factions"

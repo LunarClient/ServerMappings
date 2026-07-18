@@ -3,6 +3,7 @@
     "name": "Erisium",
     "website": "https://erisium.com/",
     "store": "https://store.erisium.com/",
+    "description": "Play PvP, Minigames, and more on Erisium.",
     "addresses": [
         "erisium.com"
     ],
@@ -28,7 +29,7 @@
         "discord": "https://discord.com/invite/cRJckZc",
         "youtube": "Erisium",
         "instagram": "erisium",
-        "tiktok": "Erisium",
+        "tiktok": "@Erisium",
         "facebook": "erisium"
     }
 }

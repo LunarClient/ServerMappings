@@ -1,0 +1,34 @@
+{
+    "id": "mineverse",
+    "name": "mineverse",
+    "store": "https://mineverse.pl/",
+    "description": "Play MineVerse.PL!",
+    "addresses": [
+        "mineverse.pl"
+    ],
+    "primaryAddress": "mineverse.pl",
+    "primaryColor": "#82b2ff",
+    "secondaryColor": "#5526e0",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "UHC",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/4hWhVth4BQ"
+    }
+}

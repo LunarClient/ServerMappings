@@ -2,6 +2,7 @@
     "id": "harlon",
     "name": "Harlon City Server",
     "website": "http://harlonserver.net/",
+    "description": "Explore the open world on Harlon City Server.",
     "addresses": [
         "harlonserver.net"
     ],
@@ -23,6 +24,6 @@
         "discord": "https://discord.com/invite/qMmk8MuEBz",
         "youtube": "UCUsBniuYo4fKNWy-PcAoDNg",
         "instagram": "harlonserver",
-        "tiktok": "harlonserver"
+        "tiktok": "@harlonserver"
     }
 }

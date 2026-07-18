@@ -2,7 +2,7 @@
     "id": "enderhc",
     "name": "EnderHC",
     "website": "https://enderhc.pl/",
-    "description": "Serwer w Polsce skupiający się na trybach PVP.",
+    "description": "A server in Poland focusing on PVP modes.",
     "addresses": [
         "enderhc.pl"
     ],
@@ -32,6 +32,6 @@
     ],
     "socials": {
         "discord": "https://discord.gg/enderhc/",
-        "tiktok": "enderhc_pl"
+        "tiktok": "@enderhc_pl"
     }
 }

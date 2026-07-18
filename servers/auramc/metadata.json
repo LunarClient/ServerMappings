@@ -1,0 +1,48 @@
+{
+    "id": "auramc",
+    "name": "AuraMC",
+    "store": "https://store.auramc.eu/",
+    "description": "Italian network developed by a team always looking for unique gameplay!",
+    "addresses": [
+        "auramc.it",
+        "auramc.eu"
+    ],
+    "primaryAddress": "play.auramc.eu",
+    "primaryColor": "#DC67EE",
+    "secondaryColor": "#6DCFCB",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en",
+        "fr",
+        "es-EN",
+        "de",
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/auramc",
+        "tiktok": "@auramc.it",
+        "youtube": "@auramcit"
+    }
+}

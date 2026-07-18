@@ -2,38 +2,38 @@
     "id": "rebornmc",
     "name": "RebornMC",
     "website": "https://www.rebornmc.it",
-    "store": "https://store.rebornmc.it",    
+    "store": "https://store.rebornmc.it",
     "description": "RebornMC, the best Lifesteal in Italy, and more...",
     "addresses": [
         "rebornmc.it"
     ],
     "primaryAddress": "play.rebornmc.it",
+    "primaryColor": "#ee3615",
+    "secondaryColor": "#e6978a",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#ee3615",
-    "secondaryColor": "#e6978a",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Survival"
     ],
+    "socials": {
+        "discord": "https://discord.com/invite/BAAbDzv5VG"
+    },
     "compliance": {
         "termsOfService": "https://store.rebornmc.it/tos",
         "rules": "https://store.rebornmc.it/regolamento"
-    },
-    "socials": {
-        "discord": "https://discord.com/invite/BAAbDzv5VG"
     }
 }

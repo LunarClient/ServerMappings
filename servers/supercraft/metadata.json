@@ -3,9 +3,7 @@
     "name": "SuperCraft",
     "website": "https://www.supercraft.com.es/",
     "store": "https://tienda.supercraft.es/",
-    "compliance": {
-        "rules": "https://www.supercraft.com.es/reglas/"
-    },
+    "description": "Play Survival, Prison, and more on SuperCraft.",
     "addresses": [
         "supercraft.es",
         "supercraft.fun"
@@ -41,6 +39,9 @@
         "twitter": "Supercraft2020",
         "discord": "https://discord.com/invite/mzQhMNXvhH",
         "youtube": "UCLzU8w7SMbqHL_D1ewpKLBw",
-        "tiktok": "supercraftes"
+        "tiktok": "@supercraftes"
+    },
+    "compliance": {
+        "rules": "https://www.supercraft.com.es/reglas/"
     }
 }

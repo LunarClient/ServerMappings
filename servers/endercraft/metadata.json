@@ -2,6 +2,7 @@
     "id": "endercraft",
     "name": "EnderCraft Network",
     "store": "https://tienda.endercraft.lat/",
+    "description": "Experience survival gameplay on EnderCraft Network.",
     "addresses": [
         "endercraft.lat"
     ],

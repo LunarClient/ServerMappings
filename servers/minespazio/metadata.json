@@ -2,6 +2,7 @@
     "id": "minespazio",
     "name": "MineSpazio Network",
     "store": "https://tienda.minespazio.com/",
+    "description": "Play Survival, PvP, and more on MineSpazio Network.",
     "addresses": [
         "minespazio.com",
         "epicserver.biz"
@@ -36,6 +37,6 @@
         "twitter": "MinespazioNT",
         "discord": "https://discord.com/invite/tWNe7vkwaE",
         "youtube": "UCe8TFqy23ReYse_wswjdGoA",
-        "tiktok": "minespazio"
+        "tiktok": "@minespazio"
     }
 }

@@ -2,9 +2,9 @@
     "id": "battleadventure",
     "name": "Battle Adventure",
     "website": "https://www.battle-adventure.eu/",
-    "store": "https://www.battle-adventure.eu/store/4/pvpfaction",
-    "wiki": "https://www.battle-adventure.eu/wiki/",
-    "description": "Serveur Minecraft PvP Faction Farm2Win sur le thème de Wakfu !",
+    "store": "https://store.battle-adventure.eu/",
+    "wiki": "https://wiki.battle-adventure.eu/",
+    "description": "Farm2Win Faction PvP server on the theme of Wakfu!",
     "addresses": [
         "battle-adventure.eu",
         "eliacube.eu"
@@ -19,7 +19,8 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.12.2",
     "primaryRegion": "EU",
@@ -37,9 +38,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/7TcBMcU",
-        "twitter": "Ba_Officiel",
         "youtube": "battleadventure4053",
         "instagram": "battleadventure_mc",
-        "tiktok": "battleadventure_mc"
+        "tiktok": "@battleadventure_mc"
     }
 }

@@ -2,6 +2,7 @@
     "id": "theloftmc",
     "name": "The Loft MC",
     "store": "https://store.theloftmc.com/",
+    "description": "Experience survival gameplay on The Loft MC.",
     "addresses": [
         "theloftmc.com"
     ],
@@ -25,6 +26,6 @@
         "discord": "https://discord.com/invite/loft",
         "youtube": "theloftmc",
         "instagram": "theloftmc",
-        "tiktok": "theloftmc"
+        "tiktok": "@theloftmc"
     }
 }

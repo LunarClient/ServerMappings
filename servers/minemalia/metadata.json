@@ -3,6 +3,7 @@
     "name": "Minemalia",
     "website": "https://minemalia.org/",
     "store": "https://store.minemalia.com/",
+    "description": "Play Minigames, Prison, and more on Minemalia.",
     "addresses": [
         "minemalia.com"
     ],
@@ -31,6 +32,6 @@
         "twitter": "minemalia_mc",
         "discord": "https://discord.com/invite/Z34d9xF",
         "instagram": "minemalia_mc",
-        "tiktok": "minemalia_mc"
+        "tiktok": "@minemalia_mc"
     }
 }

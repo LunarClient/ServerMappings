@@ -1,35 +1,34 @@
 {
-    "id": "jackpotmc",
-    "name": "JackpotMC",
-    "website": "https://www.jackpotmc.com/",
-    "store": "https://store.jackpotmc.com/",
-    "addresses": [
-        "jackpotmc.com"
-    ],
-    "primaryAddress": "play.jackpotmc.com",
-    "primaryColor": "#ffd200",
-    "secondaryColor": "#ff8000",
-    "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "crossplay": true,
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
-    "gameTypes": [
-        "Survival",
-        "PvP"
-    ],
-    "socials": {
-        "twitter": "JackpotNetwork",
-        "discord": "https://discord.com/invite/jackpotmc",
-        "youtube": "jackpotmcYT"
-    }
+  "id": "jackpotmc",
+  "name": "JackpotMC",
+  "website": "https://store.jackpotmc.com/",
+  "store": "https://store.jackpotmc.com/",
+  "description": "Play Survival and PvP on JackpotMC.",
+  "addresses": [
+    "jackpotmc.com"
+  ],
+  "primaryAddress": "jackpotmc.com",
+  "primaryColor": "#ffd200",
+  "secondaryColor": "#ff8000",
+  "minecraftVersions": [
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "socials": {
+    "twitter": "JackpotNetwork",
+    "discord": "https://discord.com/invite/jackpotmc",
+    "youtube": "@Jackpot_MC"
+  }
 }

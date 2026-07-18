@@ -2,16 +2,16 @@
     "id": "maxicraft",
     "name": "Maxicraft",
     "description": "Maxicraft is a unique custom minigames server to play with your friends.",
-    "primaryAddress": "play.maxicraft.net",
     "addresses": [
         "maxicraft.net"
     ],
+    "primaryAddress": "play.maxicraft.net",
     "primaryColor": "#eb5454",
     "secondaryColor": "#ff8c00",
-    "primaryMinecraftVersion": "1.20.1",
     "minecraftVersions": [
         "1.20.*"
     ],
+    "primaryMinecraftVersion": "1.20.1",
     "crossplay": false,
     "primaryRegion": "OC",
     "regions": [
@@ -29,6 +29,6 @@
     "socials": {
         "discord": "https://discord.gg/XneC58n6u3",
         "youtube": "maxicraftmc",
-        "tiktok": "play.maxicraft.net"
+        "tiktok": "@play.maxicraft.net"
     }
 }

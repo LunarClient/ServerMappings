@@ -3,7 +3,7 @@
     "name": "Barbercraft",
     "website": "https://mc-barbercraft.com/",
     "store": "https://store.mc-barbercraft.com/",
-    "description": "Award winning minecraft server with minigames and survival!",
+    "description": "Award winning Minecraft server with minigames and survival!",
     "addresses": [
         "mc-barbercraft.com"
     ],
@@ -37,11 +37,11 @@
         "youtube": "barbercraft",
         "instagram": "mc.barbercraft",
         "reddit": "barbercraft",
-        "tiktok": "barbercraft",
+        "tiktok": "@barbercraft",
         "facebook": "mc.barbercraft"
     },
     "compliance": {
         "privacyPolicy": "https://mc-barbercraft.com/legal/privacy",
         "termsOfService": "https://mc-barbercraft.com/legal/tos"
-	}
+    }
 }

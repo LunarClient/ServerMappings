@@ -3,6 +3,7 @@
     "name": "Landania",
     "website": "https://landania.net/",
     "store": "https://landania.net/shop/",
+    "description": "Experience survival gameplay on Landania.",
     "addresses": [
         "landania.net"
     ],
@@ -23,6 +24,6 @@
     "socials": {
         "twitter": "LandaniaNET",
         "discord": "https://discord.com/invite/t34pJZh8QF",
-        "tiktok": "landanianet"
+        "tiktok": "@landanianet"
     }
 }

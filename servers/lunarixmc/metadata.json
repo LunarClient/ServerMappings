@@ -1,0 +1,23 @@
+{
+  "id": "lunarixmc",
+  "name": "LunarixMC",
+  "description": "Italian network with KitPvP and SMP modes, for Java 1.8-1.21.",
+  "addresses": ["lunarixmc.com"],
+  "primaryAddress": "play.lunarixmc.com",
+  "minecraftVersions": ["1.8.*", "1.12.*", "1.16.*", "1.17.*", "1.18.*", "1.19.*", "1.20.*", "1.21.*"],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FFC61E",
+  "secondaryColor": "#16357A",
+  "primaryLanguage": "it",
+  "languages": ["it", "en"],
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "gameTypes": ["KitPvP", "Survival"],
+  "primaryGameType": "KitPvP",
+  "store": "https://shop.lunarixmc.com",
+  "socials": {
+    "discord": "https://discord.gg/dTgqaDZmZ8"
+  },
+  "crossplay": true,
+  "offline": true
+}

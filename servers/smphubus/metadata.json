@@ -1,0 +1,37 @@
+{
+    "id": "smphubus",
+    "name": "SMP HUB",
+    "website": "https://smphub.us/",
+    "description": "A collection of Minecraft SMPs, all in one place.",
+    "addresses": [
+        "smphub.us"
+    ],
+    "primaryAddress": "play.smphub.us",
+    "primaryColor": "#f71919",
+    "secondaryColor": "#363434",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/nTCbJ4fxRC"
+    },
+    "compliance": {
+        "privacyPolicy": "https://smphub.us/privacy/",
+        "termsOfService": "https://smphub.us/terms/",
+        "rules": "https://smphub.us/"
+    }
+}

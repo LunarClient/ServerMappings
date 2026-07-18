@@ -2,12 +2,14 @@
     "id": "liroyo",
     "name": "Liroyo Network",
     "store": "https://store.liroyo.online/",
+    "description": "Play PvP and Minigames on Liroyo Network.",
     "addresses": [
-        "topstrix.net",
         "topstrix.com",
         "liroyo.online"
     ],
     "primaryAddress": "liroyo.online",
+    "primaryColor": "#6b6968",
+    "secondaryColor": "#1a130e",
     "minecraftVersions": [
         "1.20.*"
     ],
@@ -15,7 +17,5 @@
     "gameTypes": [
         "PvP",
         "Minigames"
-    ],
-    "primaryColor": "#6b6968",
-    "secondaryColor": "#1a130e"
+    ]
 }

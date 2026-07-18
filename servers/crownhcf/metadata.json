@@ -1,0 +1,42 @@
+{
+    "id": "crownhcf",
+    "name": "Crown Network",
+    "website": "https://www.crownhcf.com/",
+    "store": "https://store.crownhcf.com/",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "crownhcf.com"
+    ],
+    "primaryAddress": "crownhcf.com",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#e6b511",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/EYdXSVqzMC"
+    },
+    "compliance": {
+        "rules": "https://www.crownhcf.com/rules"
+    }
+}

@@ -2,6 +2,7 @@
     "id": "trykit",
     "name": "Trykit",
     "website": "https://trykit.net",
+    "description": "Play Survival and PvP on Trykit.",
     "addresses": [
         "trykit.net"
     ],
@@ -19,10 +20,10 @@
     ],
     "gameTypes": [
         "Survival",
-	"PvP"
+        "PvP"
     ],
     "socials": {
-	"discord": "https://discord.gg/E74brwUCwK",
-	"tiktok": "@trykitmc"
-    }	
+        "discord": "https://discord.gg/E74brwUCwK",
+        "tiktok": "@trykitmc"
+    }
 }

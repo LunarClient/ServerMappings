@@ -2,7 +2,8 @@
     "id": "bearmc",
     "name": "BearMC Network",
     "website": "https://bearmc.cc/",
-    "store": "https://store.bearmc.cc/",    
+    "store": "https://store.bearmc.cc/",
+    "description": "Play PvP and Survival on BearMC Network.",
     "addresses": [
         "bearmc.cc"
     ],
@@ -26,7 +27,7 @@
         "PvP",
         "Survival"
     ],
-    "socials": {    
+    "socials": {
         "discord": "https://discord.gg/RYmqRbREkY"
     }
-}    
+}

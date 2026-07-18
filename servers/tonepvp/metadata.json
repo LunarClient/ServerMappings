@@ -1,23 +1,22 @@
 {
     "id": "tonepvp",
     "name": "TonePvP",
+    "website": "https://www.tonepvp.net",
+    "store": "https://store.tonepvp.net",
     "description": "Server for KitPvP, Practice, and 1.16 pvp also!",
     "addresses": [
         "tonepvp.net"
     ],
     "primaryAddress": "play.tonepvp.net",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#AA00AA",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFAA00",
-    "secondaryColor": "#AA00AA",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -26,13 +25,14 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://www.tonepvp.net",
-    "store": "https://store.tonepvp.net",
     "socials": {
         "twitter": "tonepvp"
-    },
-    "crossplay": false
+    }
 }

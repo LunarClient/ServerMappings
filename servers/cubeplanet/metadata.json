@@ -1,0 +1,39 @@
+{
+    "id": "cubeplanet",
+    "name": "CubePlanet",
+    "website": "http://cubeplanet.eu/",
+    "description": "CzechoSlovakian survival server",
+    "addresses": [
+        "cubeplanet.eu"
+    ],
+    "primaryAddress": "play.cubeplanet.eu",
+    "primaryColor": "#6bc225",
+    "secondaryColor": "#04a1d9",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "cubeplanet.eu",
+        "discord": "https://discord.gg/H3M9bc3K9P",
+        "tiktok": "@cubeplanet.eu"
+    }
+}

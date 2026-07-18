@@ -1,0 +1,32 @@
+{
+    "id": "plutonia",
+    "name": "Plutonia",
+    "store": "https://plutonia-mc.fr/shop",
+    "description": "The brand-new French-speaking modded SMP Minecraft community. Join now!",
+    "addresses": [
+        "plutonia.fr"
+    ],
+    "primaryAddress": "play.plutonia.fr",
+    "primaryColor": "#DCAF3A",
+    "secondaryColor": "#3C454C",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/plutonia",
+        "youtube": "@PlutoniaServer"
+    }
+}

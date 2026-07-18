@@ -1,0 +1,35 @@
+{
+    "id": "aspiramc",
+    "name": "Aspira MC",
+    "description": "A fun minecraft server with a unique concept full of roleplay!",
+    "addresses": [
+        "aspiramc.nl"
+    ],
+    "primaryAddress": "play.aspiramc.nl",
+    "primaryColor": "#3BAEFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Roleplay",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/esvAQVkd"
+    }
+}

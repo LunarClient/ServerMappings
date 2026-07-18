@@ -1,0 +1,38 @@
+{
+    "id": "cyremc",
+    "name": "Cyre Network",
+    "website": "https://www.cyremc.us/",
+    "store": "https://store.cyremc.us/",
+    "description": "A competitive PvP server striving to give the best player experience possible.",
+    "addresses": [
+        "cyremc.us"
+    ],
+    "primaryAddress": "cyremc.us",
+    "primaryColor": "#dedede",
+    "secondaryColor": "#1c44b4",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "UHC",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/XRn2AbW6SM"
+    },
+    "compliance": {
+        "rules": "https://www.cyremc.us/rules"
+    }
+}

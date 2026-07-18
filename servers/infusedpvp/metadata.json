@@ -1,8 +1,8 @@
 {
     "id": "infusedpvp",
     "name": "InfusedPvP",
-    "description": "A casual faction server.",
     "store": "https://store.infusedpvp.org/",
+    "description": "A casual faction server.",
     "addresses": [
         "infusedpvp.org"
     ],
@@ -13,7 +13,7 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,    
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"

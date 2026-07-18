@@ -2,18 +2,18 @@
     "id": "masuru",
     "name": "Masuru",
     "description": "Masuru is a Minecraft server that is a part of the Lilia Network!",
-    "primaryAddress": "play.masuru.in.th",
     "addresses": [
         "masuru.in.th",
         "masuru.moe",
         "masuru.live"
     ],
+    "primaryAddress": "play.masuru.in.th",
     "primaryColor": "#ff3ff9",
     "secondaryColor": "#ff9ff3",
-    "primaryMinecraftVersion": "1.20.1",
     "minecraftVersions": [
         "1.20.*"
     ],
+    "primaryMinecraftVersion": "1.20.1",
     "crossplay": true,
     "primaryRegion": "AS",
     "regions": [

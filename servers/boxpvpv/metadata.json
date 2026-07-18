@@ -2,6 +2,7 @@
     "id": "boxpvpv",
     "name": "BoxPvPV",
     "store": "https://boxpvpv.tebex.io/",
+    "description": "Test your combat skills on BoxPvPV.",
     "addresses": [
         "boxpvpv.net"
     ],

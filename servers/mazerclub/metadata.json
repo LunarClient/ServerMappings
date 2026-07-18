@@ -2,6 +2,7 @@
     "id": "mazerclub",
     "name": "MazerClub",
     "store": "https://store.mazerclub.com/",
+    "description": "Play Survival, PvP, and more on MazerClub.",
     "addresses": [
         "mazerclub.com"
     ],
@@ -25,7 +26,7 @@
         "discord": "https://discord.com/invite/Rpfecpuuzf",
         "youtube": "mazer-club5697",
         "telegram": "mazer_club",
-        "tiktok": "mazerclub",
+        "tiktok": "@mazerclub",
         "facebook": "mazerclub"
     }
 }

@@ -3,6 +3,7 @@
     "name": "GalaxyCraft Network",
     "website": "https://www.mcgalaxycraft.com/",
     "store": "https://tienda.mcgalaxycraft.com/",
+    "description": "Play Survival, PvP, and more on GalaxyCraft Network.",
     "addresses": [
         "mcgalaxycraft.com"
     ],
@@ -31,6 +32,6 @@
     "socials": {
         "discord": "https://discord.com/invite/Z5H5Gd22xK",
         "youtube": "mcgalaxycraftcom",
-        "tiktok": "mcgalaxycraft.com"
+        "tiktok": "@mcgalaxycraft.com"
     }
 }

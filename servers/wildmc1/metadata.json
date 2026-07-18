@@ -1,0 +1,38 @@
+{
+    "id": "wildmc1",
+    "name": "WildMC",
+    "website": "https://www.wildmc.it",
+    "store": "https://store.wildmc.it",
+    "description": "Kitpvp, Boxpvp and much more",
+    "addresses": [
+        "wildmc.it"
+    ],
+    "primaryAddress": "wildmc.it",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/wildmc"
+    }
+}

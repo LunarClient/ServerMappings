@@ -2,6 +2,7 @@
     "id": "hostgier",
     "name": "HostGier.pl Build Battle",
     "store": "https://hostgier.pl",
+    "description": "Unleash your creativity on HostGier.pl Build Battle.",
     "addresses": [
         "hostgier.pl"
     ],

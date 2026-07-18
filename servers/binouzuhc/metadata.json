@@ -1,7 +1,8 @@
 {
     "id": "binouzuhc",
     "name": "BinouzUHC",
-    "addresses":[
+    "description": "Play UHC, Minigames, and more on BinouzUHC.",
+    "addresses": [
         "binouzuhc.eu"
     ],
     "primaryAddress": "play.binouzuhc.eu",
@@ -20,7 +21,7 @@
         "Minigames",
         "PvP"
     ],
-    "socials":{
+    "socials": {
         "twitter": "BINOUZUHC",
         "discord": "https://discord.gg/MGgZ9ZUAuR"
     }

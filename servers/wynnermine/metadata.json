@@ -1,0 +1,34 @@
+{
+    "id": "wynnermine",
+    "name": "WynnerMine",
+    "website": "https://wynnermine.com",
+    "description": "WynnerMine is a SMP Minecraft server",
+    "addresses": [
+        "wynnermine.com"
+    ],
+    "primaryAddress": "play.wynnermine.com",
+    "primaryColor": "#FFC300",
+    "secondaryColor": "#CFA300",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "youtube": "@WynnerMine",
+        "instagram": "wynnermine",
+        "discord": "https://discord.gg/KjsYUBNC9U",
+        "telegram": "WynnerMine"
+    }
+}

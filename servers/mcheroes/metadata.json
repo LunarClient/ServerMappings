@@ -1,0 +1,37 @@
+{
+    "id": "mcheroes",
+    "name": "The Heroes",
+    "website": "https://mcheroes.net/",
+    "store": "https://mcheroes.paynow.store/",
+    "description": "Play the Next-Generation of Minecraft Servers, With Dungeons & Skyblock!",
+    "addresses": [
+        "mcheroes.net"
+    ],
+    "primaryAddress": "mcheroes.net",
+    "primaryColor": "#001414",
+    "secondaryColor": "#008cd3",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "playmcheroes",
+        "discord": "https://discord.gg/jfkD2MH5tD",
+        "youtube": "playmcheroes",
+        "instagram": "playmcheroes",
+        "tiktok": "@playmcheroes"
+    }
+}

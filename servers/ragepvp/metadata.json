@@ -3,6 +3,7 @@
     "name": "RagePvP",
     "website": "https://ragepvp.net/",
     "store": "https://ragenetwork.tebex.io/",
+    "description": "Play PvP and Minigames on RagePvP.",
     "addresses": [
         "ragepvp.net",
         "ragepvp.org"
@@ -10,16 +11,16 @@
     "primaryAddress": "ragepvp.org",
     "primaryColor": "#d41a43",
     "secondaryColor": "#3d3325",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames"

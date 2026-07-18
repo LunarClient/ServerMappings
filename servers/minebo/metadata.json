@@ -1,0 +1,40 @@
+{
+    "id": "minebo",
+    "name": "Minebo",
+    "website": "https://www.minebo.net/",
+    "store": "https://buy.minebo.net/",
+    "description": "The new home of competitive pvp.",
+    "addresses": [
+        "minebo.net"
+    ],
+    "primaryAddress": "minebo.net",
+    "primaryColor": "#F8F374",
+    "secondaryColor": "#FBB442",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "PlayMinebo",
+        "discord": "https://discord.gg/fczNbC8V9p",
+        "telegram": "minebonews"
+    }
+}

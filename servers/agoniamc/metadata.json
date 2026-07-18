@@ -3,6 +3,7 @@
     "name": "Agonia SMP",
     "website": "https://agoniamc.eu/",
     "store": "https://butik.agoniamc.eu/",
+    "description": "Experience survival gameplay on Agonia SMP.",
     "addresses": [
         "agoniamc.eu"
     ],
@@ -27,6 +28,6 @@
         "youtube": "agoniasmp",
         "instagram": "agoniaprivat",
         "reddit": "AgoniaSMP",
-        "tiktok": "agoniasmpminecraft"
+        "tiktok": "@agoniasmpminecraft"
     }
 }

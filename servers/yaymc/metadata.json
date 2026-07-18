@@ -1,8 +1,8 @@
 {
     "id": "yaymc",
     "name": "YayMC",
-	"description": "Unique Factions Experience",
     "store": "https://store.yaymc.com/",
+    "description": "Unique Factions Experience",
     "addresses": [
         "yaymc.com"
     ],

@@ -2,6 +2,7 @@
     "id": "benderil",
     "name": "BenderIL",
     "store": "https://store.benderil.com/",
+    "description": "Play Roleplay, PvP, and more on BenderIL.",
     "addresses": [
         "benderil.com"
     ],
@@ -26,6 +27,6 @@
     "socials": {
         "discord": "https://discord.com/invite/benderil",
         "youtube": "BenderIL",
-        "tiktok": "benderil.com"
+        "tiktok": "@benderil.com"
     }
 }

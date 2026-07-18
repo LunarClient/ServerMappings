@@ -1,0 +1,28 @@
+{
+    "id": "aqualy",
+    "name": "Aqualy",
+    "store": "https://tienda.aqualy.live",
+    "description": "Minecraft Survival & Others",
+    "addresses": [
+        "aqualy.live"
+    ],
+    "primaryAddress": "aqualy.live",
+    "primaryColor": "#75cae3",
+    "secondaryColor": "#3883a7",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/fvjTW8K5Qx"
+    }
+}

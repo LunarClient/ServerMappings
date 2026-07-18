@@ -3,6 +3,7 @@
     "name": "SpotGames",
     "website": "https://spotgames.net/",
     "store": "https://spotgames.net/store",
+    "description": "Spot Games - The most fun Minecraft server in Brazil.",
     "addresses": [
         "spotgames.net"
     ],
@@ -31,6 +32,6 @@
         "discord": "https://discord.com/invite/spotgames",
         "youtube": "spotgamesoficial",
         "instagram": "spotgames_net",
-        "tiktok": "spotgames.net"
+        "tiktok": "@spotgames.net"
     }
 }

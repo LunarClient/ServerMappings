@@ -3,6 +3,7 @@
     "name": "MineGlobe Network",
     "website": "https://mineglobe.org/",
     "store": "https://store.mineglobe.org/",
+    "description": "Play Survival and Skyblock on MineGlobe Network.",
     "addresses": [
         "mineglobe.org"
     ],
@@ -22,6 +23,6 @@
     "socials": {
         "twitter": "MineGlobe",
         "discord": "https://discord.com/invite/mineglobe",
-        "tiktok": "headedog"
+        "tiktok": "@headedog"
     }
 }

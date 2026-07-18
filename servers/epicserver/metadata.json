@@ -1,0 +1,46 @@
+{
+    "id": "epicserver",
+    "name": "EpicServer",
+    "store": "https://tienda.epicserver.es",
+    "description": "Explore, fight and survive. Join now!",
+    "addresses": [
+      "epicserver.es"
+    ],
+    "primaryAddress": "mc.epicserver.es",
+    "primaryColor": "#FFCF00",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+      "1.21.4",
+	  "1.21.3",
+	  "1.21.1",
+	  "1.21",
+	  "1.20.6",
+	  "1.20.5",
+	  "1.20.4",
+	  "1.20.3",
+	  "1.20.2",
+	  "1.20.1",
+	  "1.20",
+	  "1.19.4",
+	  "1.19.3",
+	  "1.19.2"
+	  
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+      "Survival",
+      "Skyblock"
+    ],
+    "socials": {
+      "discord": "https://discord.com/invite/W6dNB3ZVRw"
+    }
+}

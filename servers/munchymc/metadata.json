@@ -3,6 +3,7 @@
     "name": "MunchyMC",
     "website": "https://www.munchymc.com/",
     "store": "https://shop.munchymc.com/",
+    "description": "The Official MunchyMC website that is home to the very best Minecraft minigames.",
     "addresses": [
         "munchymc.com",
         "kitpvp.us"
@@ -35,6 +36,6 @@
         "discord": "https://discord.com/invite/munchymc",
         "youtube": "UCN4LdcieqEuK8P3S_qyJgjQ",
         "reddit": "MunchyMC",
-        "tiktok": "munchy_mc"
+        "tiktok": "@munchy_mc"
     }
 }

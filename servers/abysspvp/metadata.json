@@ -1,8 +1,8 @@
 {
     "id": "abysspvp",
     "name": "AbyssPvP Network",
-    "description": "An PrisonOP competitive server.",
     "store": "https://tienda.abysspvp.com/",
+    "description": "An PrisonOP competitive server.",
     "addresses": [
         "abysspvp.com"
     ],
@@ -13,15 +13,15 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,    
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es-EN",  
+    "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
-    ],      
+    ],
     "gameTypes": [
         "Prison"
     ],

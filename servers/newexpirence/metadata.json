@@ -1,29 +1,30 @@
 {
     "id": "newexpirence",
-    "name": "NewExpirence",
-    "website": "https://newexpirence.it/",
-    "store": "https://newexpirence.it/shop",
-    "description": "PeterNetwork is a Server known for its SMP+. Join Now!",
+    "name": "NewExp",
+    "website": "https://newexp.it/",
+    "store": "https://newexp.it/shop",
+    "description": "NewExp is a Server known for its SMP+. Join Now!",
     "addresses": [
-        "newexpirence.it"
+        "newexp.it"
     ],
-    "primaryAddress": "newexpirence.it",
+    "primaryAddress": "newexp.it",
+    "primaryColor": "#FF8000",
+    "secondaryColor": "#ff0000",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
-    "primaryColor": "#FF8000",
-    "secondaryColor": "#ff0000",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
+    "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
@@ -31,8 +32,8 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/newexp",
-        "instagram": "newexpirence",
-        "telegram": "newexpirence",
-        "tiktok": "newexpirence"
+        "instagram": "newexp",
+        "telegram": "newexp",
+        "tiktok": "@newexp"
     }
 }

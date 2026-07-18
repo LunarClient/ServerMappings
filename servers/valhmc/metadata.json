@@ -1,0 +1,37 @@
+{
+    "id": "valhmc",
+    "name": "ValhMC",
+    "website": "https://valhmc.it/",
+    "store": "https://store.valhmc.it/",
+    "description": "ValhMC. Join our Network and enjoy all our modes!",
+    "addresses": [
+        "valhmc.it"
+    ],
+    "primaryAddress": "play.valhmc.it",
+    "primaryColor": "#8BC5E4",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/6FChdVVXhQ",
+        "tiktok": "@play.valhmc.it",
+        "instagram": "play.valhmc.it"
+    }
+}

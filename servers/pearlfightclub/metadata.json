@@ -1,20 +1,20 @@
 {
     "id": "pearlfightclub",
     "name": "Pearl Fight Club",
-    "description": "An innovative practice server with brand new gamemodes and cash prizes.",
     "website": "https://pearlfight.club/",
     "store": "https://store.pearlfight.club/",
+    "description": "An innovative practice server with brand new gamemodes and cash prizes.",
     "addresses": [
         "pearlfight.club"
     ],
     "primaryAddress": "pearlfight.club",
+    "primaryColor": "#55ffff",
+    "secondaryColor": "#ff55ff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#55ffff",
-    "secondaryColor": "#ff55ff",
     "gameTypes": [
         "PvP",
         "Minigames"

@@ -1,0 +1,41 @@
+{
+    "id": "chubbys",
+    "name": "Chubbys Network",
+    "website": "https://chubbys.club",
+    "store": "https://store.chubbys.club",
+    "description": "Semi-anarchic survival with PvP, events and total freedom. Join us!",
+    "addresses": [
+        "chubbys.club"
+    ],
+    "primaryAddress": "mc.chubbys.club",
+    "primaryColor": "#ff007f",
+    "secondaryColor": "#8e3a59",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/59a7mpFb8u"
+    },
+    "votingLinks": [
+        "https://minecraftservers.org/server/676097"
+    ]
+}

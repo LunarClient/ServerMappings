@@ -1,0 +1,30 @@
+{
+    "id": "ascendmc",
+    "name": "AscendMC",
+    "description": "Play Prison, Skyblock and more.",
+    "website": "https://ascendmc.net",
+    "store": "https://store.ascendmc.net",
+    "addresses": [
+        "ascendmc.net"
+    ],
+    "primaryAddress": "play.ascendmc.net",
+    "primaryColor": "#0055ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "NA",
+    "crossplay": true,
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ascendmc"
+    }
+}

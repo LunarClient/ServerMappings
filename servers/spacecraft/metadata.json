@@ -8,6 +8,8 @@
         "spacecraftnetwork.it"
     ],
     "primaryAddress": "play.spacecraftnetwork.it",
+    "primaryColor": "#4B39AA",
+    "secondaryColor": "#edaf51",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -16,16 +18,14 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.17.1",
-    "primaryColor": "#4B39AA",
-    "secondaryColor": "#edaf51",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ], 
     "gameTypes": [
         "Roleplay"
     ],

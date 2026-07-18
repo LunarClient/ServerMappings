@@ -3,6 +3,7 @@
     "name": "ImagineFun",
     "website": "https://imaginefun.net/",
     "store": "https://buy.imaginefun.net/",
+    "description": "Experience Disneyland as never before, recreated in a realistic scale with",
     "addresses": [
         "imaginefun.net",
         "imagineeringfun.net",
@@ -32,6 +33,6 @@
         "youtube": "imaginefun",
         "instagram": "imaginefun",
         "twitch": "ImagineFunLive",
-        "tiktok": "imagine_fun"
+        "tiktok": "@imagine_fun"
     }
 }

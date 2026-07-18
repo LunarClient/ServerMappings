@@ -1,0 +1,42 @@
+{
+    "id": "archmc",
+    "name": "ArchMC",
+    "website": "https://arch.mc/",
+    "store": "https://store.arch.mc/",
+    "description": "Rule Your Own Game.",
+    "addresses": [
+        "arch.mc",
+        "arch.lol"
+    ],
+    "primaryAddress": "arch.mc",
+    "primaryColor": "#f50217",
+    "secondaryColor": "#787373",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "offline": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "AS",
+        "NA",
+        "EU"
+    ],
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Minigames",
+        "Practice",
+        "KitPvP",
+        "Survival",
+        "Lifesteal",
+        "PvP",
+        "Creative"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/archmc"
+    }
+}

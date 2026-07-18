@@ -25,15 +25,18 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Hardcore",
         "Survival",
-        "PvP"
+        "Crystal PvP",
+        "Open World",
+        "PvP",
+        "Hardcore"
     ],
     "socials": {
         "twitter": "DrDonut099",
         "discord": "https://discord.com/invite/donutsmp",
         "youtube": "DrDonutt",
-        "tiktok": "drdonutt"
+        "tiktok": "@drdonutt"
     }
 }

@@ -1,0 +1,32 @@
+{
+    "id": "brotherspvp",
+    "name": "BrothersPvP",
+    "store": "https://brotherspvp.tebex.io/",
+    "description": "Minecraft server PrisonOP and Survival",
+    "addresses": [
+        "brotherspvp.net"
+    ],
+    "primaryAddress": "play.brotherspvp.net",
+    "primaryColor": "#FFB600",
+    "secondaryColor": "#B89C00",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/xNQUa5vnHH"
+    }
+}
