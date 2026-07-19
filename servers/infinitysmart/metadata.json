@@ -5,7 +5,7 @@
     "website": "https://www.infinitysmart.eu",
     "store": "https://www.infinitysmart.eu/store",
     "addresses": [
-        "play.infinitysmart.eu"
+        "infinitysmart.eu"
     ],
     "primaryAddress": "play.infinitysmart.eu",
     "primaryColor": "#3a0c57",
@@ -26,12 +26,13 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
+    "offline": true,
     "gameTypes": [
         "Minigames",
         "Survival",
-        "SMP",
-        "Competitive"
+        "SMP"
     ],
+    "primaryGameType": "Minigames",
     "socials": {
         "discord": "https://discord.infinitysmart.eu",
         "instagram": "infinitysmart.mc",
