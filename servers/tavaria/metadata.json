@@ -1,0 +1,42 @@
+{
+  "id": "tavaria",
+  "name": "Tavaria",
+  "description": "Tavaria is a German network focusing on older game modes and classic old PvP.",
+  "addresses": [
+    "tavaria.de"
+  ],
+  "primaryAddress": "tavaria.de",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#ffb300",
+  "secondaryColor": "#ffffff",
+  "primaryLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "PvP",
+    "Parkour"
+  ],
+  "website": "https://tavaria.de",
+  "store": "https://tavaria.de/shop",
+  "compliance": {
+    "support": "https://tavaria.de/support"
+  },
+  "presentationVideo": "Yj5H4803m5Y",
+  "socials": {
+    "twitter": "TavariaDE",
+    "discord": "https://discord.gg/55n8Z2uf2a",
+    "youtube": "@tavariade",
+    "instagram": "tavaria.de",
+    "tiktok": "@tavaria.de"
+  }
+}

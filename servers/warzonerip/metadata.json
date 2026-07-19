@@ -3,6 +3,7 @@
     "name": "WarzoneRIP",
     "website": "https://warzone.rip/",
     "store": "https://store.warzone.rip/",
+    "description": "Play PvP, HCF, and more on WarzoneRIP.",
     "addresses": [
         "warzone.rip"
     ],

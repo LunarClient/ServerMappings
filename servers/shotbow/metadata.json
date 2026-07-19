@@ -27,7 +27,10 @@
         "EU",
         "AS"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
+        "Survival",
+        "Open World",
         "Minigames",
         "PvP",
         "PvE"

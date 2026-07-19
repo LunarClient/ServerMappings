@@ -2,10 +2,12 @@
     "id": "astral",
     "name": "AstralMC",
     "store": "https://store.astralmc.cc/",
+    "description": "Play PvP and UHC on AstralMC.",
     "addresses": [
         "astralmc.cc"
     ],
     "primaryAddress": "astralmc.cc",
+    "offline": true,
     "primaryColor": "#ff5af0",
     "secondaryColor": "#060627",
     "minecraftVersions": [
@@ -22,9 +24,13 @@
         "es-EN",
         "en"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "PvP",
-        "UHC"
+        "UHC",
+        "HCF",
+        "Practice",
+        "KitPvP"
     ],
     "socials": {
         "twitter": "AstralNetworkCC",

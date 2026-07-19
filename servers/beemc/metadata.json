@@ -3,9 +3,9 @@
     "name": "BEEMC",
     "website": "https://beemc.pl/",
     "store": "https://sklep.beemc.pl/",
+    "description": "Play Survival and Skyblock on BEEMC.",
     "addresses": [
-        "beemc.pl",
-        "193.41.226.236"
+        "beemc.pl"
     ],
     "primaryAddress": "mc.beemc.pl",
     "primaryColor": "#FFD700",
@@ -33,4 +33,3 @@
         "discord": "https://discord.com/invite/x76HVVnCHX"
     }
 }
-

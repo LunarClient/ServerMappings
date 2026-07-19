@@ -3,12 +3,14 @@
     "name": "PikaNetwork",
     "website": "https://pika-network.net/",
     "store": "https://store.pika-network.net/",
+    "description": "Play exciting minigames on PikaNetwork.",
     "addresses": [
         "pika-network.net",
         "pika.host",
         "pikanetwork.net"
     ],
     "primaryAddress": "pika-network.net",
+    "offline": true,
     "primaryColor": "#d2d42d",
     "secondaryColor": "#b83d18",
     "minecraftVersions": [
@@ -25,7 +27,18 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
+        "Survival",
+        "Factions",
+        "PvP",
+        "Practice",
+        "BoxPvP",
+        "Prison",
+        "Skyblock",
+        "KitPvP",
+        "OneBlock",
+        "Lifesteal",
         "Minigames"
     ],
     "socials": {

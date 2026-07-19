@@ -2,6 +2,7 @@
     "id": "funcube",
     "name": "TRAO DEVELOPMENT SERVER",
     "website": "https://www.funcube.ovh/",
+    "description": "Play Minigames and PvP on TRAO DEVELOPMENT SERVER.",
     "addresses": [
         "funcube.ovh"
     ],

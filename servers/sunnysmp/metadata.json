@@ -1,0 +1,39 @@
+{
+    "id": "sunnysmp",
+    "name": "Sunny SMP",
+    "description": "Unique peaceful survival experience!",
+    "addresses": [
+        "sunnysmp.net"
+    ],
+    "primaryAddress": "sunnysmp.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ede72b",
+    "secondaryColor": "#f59725",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.sunnysmp.net",
+    "votingLinks": [
+        "https://minecraft.buzz/server/15700",
+        "https://minecraft-server-list.com/server/512427",
+        "https://minecraftservers.org/server/650120",
+        "https://minecraftserver.buzz/servers/sunnysmp"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sunnysmp"
+    },
+    "crossplay": true
+}

@@ -2,6 +2,7 @@
     "id": "aresmc",
     "name": "AresMC",
     "store": "https://aresmc.eu/",
+    "description": "Play PvP, Minigames, and more on AresMC.",
     "addresses": [
         "aresmc.eu"
     ],

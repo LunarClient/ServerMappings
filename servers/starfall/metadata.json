@@ -1,6 +1,7 @@
 {
     "id": "starfall",
     "name": "Starfall",
+    "description": "Experience survival gameplay on Starfall.",
     "addresses": [
         "starfall.pt"
     ],

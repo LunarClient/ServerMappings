@@ -1,0 +1,38 @@
+{
+    "id": "plumsmp",
+    "name": "PlumSMP",
+    "description": "Play Survival, Practice, BoxPvP, Lifesteal and more on PlumSMP.",
+    "addresses": [
+        "totemmc.net",
+        "craftorium.fun",
+        "plumsmp.net"
+    ],
+    "primaryAddress": "plumsmp.net",
+    "primaryColor": "#ff0b0b",
+    "secondaryColor": "#600101",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/Xc8cRqYtsU"
+    }
+}

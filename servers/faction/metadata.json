@@ -2,6 +2,7 @@
     "id": "faction",
     "name": "Faction Network",
     "store": "https://tienda.faction.es",
+    "description": "Play Survival, PvP, and more on Faction Network.",
     "addresses": [
         "faction.es"
     ],

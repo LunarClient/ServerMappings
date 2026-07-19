@@ -3,6 +3,7 @@
     "name": "QuackMC",
     "website": "https://quackmc.net/",
     "store": "https://quackmc.net/topup-card",
+    "description": "QuackMC offers diverse Minecraft gameplay with survival, minigames, and PvP.",
     "addresses": [
         "quackmc.net"
     ],

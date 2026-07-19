@@ -2,6 +2,7 @@
     "id": "sharkcraft",
     "name": "SharkCraft",
     "store": "https://sharkcraft-tienda.tebex.io",
+    "description": "Play PvP, Minigames, and more on SharkCraft.",
     "addresses": [
         "sharkcraft.us",
         "sharkcraft.pro"

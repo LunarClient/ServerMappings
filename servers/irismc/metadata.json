@@ -2,6 +2,7 @@
     "id": "irismc",
     "name": "IrisMC",
     "store": "https://irismc.tebex.io/",
+    "description": "Play Factions and PvP on IrisMC.",
     "addresses": [
         "irismc.it"
     ],

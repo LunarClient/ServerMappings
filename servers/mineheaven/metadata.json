@@ -1,6 +1,7 @@
 {
     "id": "mineheaven",
-    "name": "MineHeaven",
+    "name": "MineHeaven Network",
+    "description": "Play Survival, PvP, and more on MineHeaven Network.",
     "addresses": [
         "mineheaven.ir"
     ],
@@ -25,6 +26,6 @@
         "Roleplay"
     ],
     "socials": {
-        "discord": "https://discord.gg/6Vahf8U3rx"
+        "discord": "https://discord.gg/mineheaven-1078620514467205130"
     }
 }

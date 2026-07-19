@@ -1,0 +1,42 @@
+{
+    "id": "quickkgens",
+    "name": "QuickkGens",
+    "website": "http://quickkgens.net/",
+    "description": "A mix between the generic Gens server and a Survival SMP",
+    "addresses": [
+        "quickkgens.net"
+    ],
+    "primaryAddress": "play.quickkgens.net",
+    "primaryColor": "#F5A327",
+    "secondaryColor": "#FFD594",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*",
+        "1.8.*",
+        "1.7.*"
+
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/hbZ3FkVg8S"
+    }
+}

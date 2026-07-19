@@ -1,0 +1,30 @@
+{
+    "id": "kiersmp",
+    "name": "Kier SMP",
+    "description": "Competitive Player-Driven SMP.",
+    "addresses": [
+        "kiersmp.net"
+    ],
+    "primaryAddress": "kiersmp.net",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#55FF55",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/YsaGMqq38H"
+    },
+    "crossplay": true
+}

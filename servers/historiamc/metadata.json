@@ -3,9 +3,9 @@
     "name": "HistoriaMC",
     "description": "An innovative french minigames Minecraft server.",
     "addresses": [
-        "historiamc.com"
+        "historiamc.fr"
     ],
-    "primaryAddress": "play.historiamc.com",
+    "primaryAddress": "play.historiamc.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -34,12 +34,12 @@
         "Minigames",
         "PvP"
     ],
-    "website": "https://historiamc.com",
-    "store": "https://store.historiamc.com",
+    "website": "https://historiamc.fr",
+    "store": "https://www.historiamc.fr/store",
     "socials": {
         "discord": "https://discord.gg/M6FHh3GtHk",
-        "youtube": "historiaMC_",
-        "tiktok": "historiamc_",
+        "youtube": "HistoriaMC_",
+        "tiktok": "@historiamc_",
         "twitter": "historiamc_"
     },
     "crossplay": false

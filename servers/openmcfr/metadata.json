@@ -29,5 +29,8 @@
     "socials": {
         "youtube": "aywenvideos",
         "discord": "https://discord.gg/aywen-communaute-1161296442577653802"
+    },
+    "compliance": {
+        "rules": "https://wiki.openmc.fr/reglement"
     }
 }

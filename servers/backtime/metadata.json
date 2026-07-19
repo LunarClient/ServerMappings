@@ -1,6 +1,7 @@
 {
     "id": "backtime",
     "name": "Backtime",
+    "description": "Test your combat skills on Backtime.",
     "addresses": [
         "backtime.xyz"
     ],
