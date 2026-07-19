@@ -1,12 +1,12 @@
 {
-    "id": "abbysspvp",
-    "name": "AbbyssPvP Network",
-    "store": "https://tienda.abbysspvp.com/",
+    "id": "abbyspvp",
+    "name": "AbbysPvP Network",
+    "store": "https://tienda.abbyspvp.com/",
     "description": "Competitive Prison server.",
     "addresses": [
-        "abbysspvp.com"
+        "abbyspvp.com"
     ],
-    "primaryAddress": "abbysspvp.com",
+    "primaryAddress": "abbyspvp.com",
     "primaryColor": "#990000",
     "secondaryColor": "#e60000",
     "minecraftVersions": [
@@ -26,6 +26,6 @@
         "Prison"
     ],
     "socials": {
-        "discord": "https://discord.gg/abbysspvp"
+        "discord": "https://discord.gg/abbyspvp"
     }
 }
