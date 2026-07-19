@@ -13,9 +13,8 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#39FF14",
     "secondaryColor": "#111827",
-    "primaryLanguage": "ru",
+    "primaryLanguage": "en",
     "languages": [
-        "ru",
         "en"
     ],
     "primaryRegion": "EU",
@@ -30,6 +29,6 @@
     ],
     "primaryGameType": "Practice",
     "socials": {
-        "discord": "https://discord.gg/toxicink"
+        "discord": "https://discord.gg/your_discord_invite"
     }
 }
