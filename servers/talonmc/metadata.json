@@ -6,9 +6,9 @@
     "store": "https://store.talonmc.net/",
     "description": "The premier Minecraft network featuring Prison, Skyblock, Survival, Dungeons and Cobblemon.",
     "addresses": [
-        "play.talonmc.net"
+        "talonmc.net"
     ],
-    "primaryAddress": "play.talonmc.net",
+    "primaryAddress": "talonmc.net",
     "primaryColor": "#ffd950",
     "secondaryColor": "#ffac44",
     "minecraftVersions": [
