@@ -12,7 +12,7 @@
     "primaryColor": "#528dba",
     "secondaryColor": "#f37d20",
     "minecraftVersions": [
-        "1.21.*",
+        "1.21.11",
         "26.1.*",
         "26.2.*"
     ],
