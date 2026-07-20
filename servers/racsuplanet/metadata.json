@@ -2,25 +2,24 @@
     "id": "racsuplanet",
     "name": "Racsu Planet",
     "store": "https://tienda.racsu.com/",
-    "description": "Racsu Planet - Lands and Wars SMP",
+    "description": "Racsu Planet - Skyblock Plaza",
     "addresses": [
         "racsu.com"
     ],
     "primaryAddress": "play.racsu.com",
-    "primaryColor": "#ff1c4d",
-    "secondaryColor": "#5c0014",
+    "primaryColor": "#32AADF",
+    "secondaryColor": "#08E5FE",
     "minecraftVersions": [
-        "1.21.*",
         "26.1.*",
         "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "26.1.2",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "Survival",
+        "Skyblock",
         "PvP",
         "Adventure"
     ],
