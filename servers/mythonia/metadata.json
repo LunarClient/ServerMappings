@@ -5,7 +5,7 @@
   "addresses": [
     "mythonia.net"
   ],
-  "primaryAddress": "lunar.mythonia.net",
+  "primaryAddress": "mythonia.net",
   "minecraftVersions": [
     "1.8.*",
     "1.12.*",

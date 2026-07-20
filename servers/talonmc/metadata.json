@@ -1,9 +1,10 @@
+ 
 {
     "id": "talonmc",
     "name": "TalonMC",
     "website": "https://store.talonmc.net/",
     "store": "https://store.talonmc.net/",
-    "description": "A Java and Bedrock compatible server with Prison gamemode",
+    "description": "The premier Minecraft network: Prison, Skyblock, Survival, Dungeons, Cobblemon.",
     "addresses": [
         "talonmc.net"
     ],
@@ -20,7 +21,8 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.6",
     "crossplay": true,
@@ -28,10 +30,15 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Skyblock",
     "gameTypes": [
-        "Prison",
+        "Skyblock",
         "Survival",
-        "Skyblock"
+        "Prison", 
+        "Cobblemon", 
+        "PvE", 
+        "Competitive", 
+        "Casual"
     ],
     "socials": {
         "twitter": "TalonMCNet",

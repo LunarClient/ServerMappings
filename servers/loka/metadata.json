@@ -18,10 +18,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "MMORPG",
     "gameTypes": [
         "PvP",
         "PvE",
-        "Survival"
+        "Survival",
+        "MMORPG",
+        "Adventure"
     ],
     "socials": {
         "twitter": "LokaMinecraft",

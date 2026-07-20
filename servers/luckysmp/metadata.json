@@ -1,0 +1,20 @@
+{
+  "id": "luckysmp",
+  "name": "LuckySMP",
+  "description": "Economy survival server with PvP, teams, and seasonal resets.",
+  "addresses": ["luckysmp.net"],
+  "primaryAddress": "play.luckysmp.net",
+  "gameTypes": ["Survival", "PvP", "Open World"],
+  "primaryGameType": "Survival",
+  "primaryColor": "#FEE300",
+  "secondaryColor": "#A303F9",
+  "minecraftVersions": ["1.21.4", "1.21.5", "1.21.6", "1.21.8", "1.21.11", "26.1.2"],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "crossplay": true,
+  "website": "https://luckysmp.net",
+  "socials": {
+    "discord": "https://discord.gg/luckysmp"
+  }
+}

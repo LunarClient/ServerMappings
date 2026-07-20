@@ -1,0 +1,16 @@
+{
+  "id": "survietiktok",
+  "name": "SurvieTikTok",
+  "description": "French TikTok community survival server.",
+  "addresses": ["survietiktok.fr"],
+  "primaryAddress": "mc.survietiktok.fr",
+  "primaryGameType": "Survival",
+  "gameTypes": ["Survival"],
+  "primaryColor": "#8CD633",
+  "secondaryColor": "#1B0E33",
+  "primaryMinecraftVersion": "1.21.1",
+  "minecraftVersions": ["1.20.*", "1.21.*"],
+  "regions": ["EU"], "primaryRegion": "EU",
+  "languages": ["fr"], "primaryLanguage": "fr",
+  "socials": { "tiktok": "@gabinpriv" }
+}

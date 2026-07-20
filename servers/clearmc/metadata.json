@@ -20,8 +20,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "Minigames",
+        "Practice",
+        "KitPvP",
         "PvP",
         "Survival"
     ],

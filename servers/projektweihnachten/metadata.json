@@ -1,0 +1,38 @@
+{
+    "id": "projektweihnachten",
+    "name": "Projekt Weihnachten",
+    "description": "German Minecraft network with seasonal minigames and a Christmas survival world",
+    "addresses": [
+        "projektweihnachten.de",
+        "projekt-weihnachten.de"
+    ],
+    "primaryAddress": "projekt-weihnachten.de",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#128FD0",
+    "secondaryColor": "#0A112D",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Open World",
+        "Minigames",
+        "Vanilla"
+    ],
+    "primaryGameType": "Vanilla",
+    "website": "https://projekt-weihnachten.de",
+    "socials": {
+        "discord": "https://discord.com/invite/gUcJQ27fky"
+    },
+    "crossplay": false,
+    "offline": false
+}
