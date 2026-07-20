@@ -1,0 +1,33 @@
+{
+  "id": "acquamc",
+  "name": "AcquaMC",
+  "website": "https://www.acquamc.eu/",
+  "store": "https://store.acquamc.eu/",
+  "description": "Italian PvP and Practice network.",
+  "addresses": [
+    "acquamc.eu"
+  ],
+  "primaryAddress": "acquamc.eu",
+  "primaryColor": "#00f5d4",
+  "secondaryColor": "#00b4d8",
+  "primaryMinecraftVersion": "1.20.4",
+  "minecraftVersions": [
+    "1.20.*"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryGameType": "PvP",
+  "gameTypes": [
+    "PvP",
+    "Practice"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/RFMayeCvuE"
+  }
+}
