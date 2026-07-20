@@ -3,14 +3,14 @@
   "name": "AquaticMC",
   "description": "Network Minecraft Survival",
   "addresses": [
-    "play.aquatic-mc.com",
     "aquatic-mc.com"
   ],
   "primaryAddress": "play.aquatic-mc.com",
   "minecraftVersions": [
-    "1.20._"
+    "1.21.*",
+    "1.21.11"
   ],
-  "primaryMinecraftVersion": "1.20.1",
+  "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#00AEFF",
   "secondaryColor": "#0055FF",
   "primaryRegion": "EU",
