@@ -3,7 +3,8 @@
     "name": "Sunny SMP",
     "description": "Unique peaceful survival experience!",
     "addresses": [
-        "sunnysmp.net"
+        "sunnysmp.net",
+        "sonnysmp.net"
     ],
     "primaryAddress": "sunnysmp.net",
     "minecraftVersions": [
