@@ -1,0 +1,40 @@
+{
+    "id": "zenavia",
+    "name": "Zenavia",
+    "description": "French Minigames server with huge content",
+    "addresses": [
+        "zenavia.net"
+    ],
+    "primaryAddress": "play.zenavia.net",
+    "gameTypes": [
+        "MiniGames",
+        "PvP",
+        "Creative",
+        "Parkour",
+    ],
+    "primaryGameType": "Minigames",
+    "primaryColor": "#00DDFF",
+    "secondaryColor": "#236FEA",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "languages": [
+        "fr",
+    ],
+    "primaryLanguage": "fr",
+    "regions": [
+        "EU"
+    ],
+    "primaryRegion": "EU",
+    "crossplay": true,
+    "website": "https://zenavia.net",
+    "store": "https://store.zenavia.net",
+    "socials": {
+        "discord": "https://discord.gg/zenavia"
+        "twitter": "ZenaviaMC"
+        "youtube": "@Zenavia"
+        "instragram": "zenaviamc"
+        "tiktok": "@zenaviamc"
+    }
+}
