@@ -1,0 +1,48 @@
+{
+    "id": "swacrew",
+    "name": "SwacrewNET",
+    "description": "Custom events, exclusive minigames and a creator-driven community",
+    "addresses": [
+        "swacrew.net"
+    ],
+    "primaryAddress": "swacrew.net",
+    "minecraftVersions": [
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1",
+    "primaryColor": "#0196EF",
+    "secondaryColor": "#0444B1",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Casual"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://www.swacrew.net/",
+    "store": "https://www.swacrew.net/shop/",
+    "compliance": {
+        "privacyPolicy": "https://www.swacrew.net/datenschutzerklaerung/",
+        "termsOfService": "https://www.swacrew.net/agb/",
+        "rules": "https://www.swacrew.net/regelwerk/",
+        "support": "https://www.swacrew.net/kontakt/"
+    },
+    "socials": {
+        "discord": "https://discord.gg/4F9dSRandy",
+        "youtube": "@SwacrewNET",
+        "tiktok": "@swacrew",
+        "twitch": "swaco7"
+    },
+    "crossplay": false
+}

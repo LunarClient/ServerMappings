@@ -1,0 +1,34 @@
+{
+    "id": "crazycombat",
+    "name": "CrazyCombat",
+    "website": "https://crazycombat.net",
+    "store": "https://store.crazycombat.net/",
+    "description": "Discover new wonders on CrazyCombat",
+    "addresses": [
+        "crazycombat.net"
+    ],
+    "primaryAddress": "play.crazycombat.net",
+    "primaryColor": "#00FFEA",
+    "secondaryColor": "#FF00F3",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/donutsmp",
+        "youtube": "crazycombatmc",
+        "tiktok": "@crazycombatmc",
+        "instagram": "crazycombatmc"
+    }
+}
