@@ -14,7 +14,7 @@
     "primaryMinecraftVersion": "26.1.2",
     "primaryColor": "#30D050",
     "secondaryColor": "#109030",
-    "primaryLanguage": "de",
+    "primaryLanguage": "en",
     "languages": [
         "en",
         "de",
@@ -36,5 +36,5 @@
     "socials": {
         "discord": "https://discord.gg/vincentvanilla"
     },
-    "crossplay": false
+    "crossplay": true
 }
