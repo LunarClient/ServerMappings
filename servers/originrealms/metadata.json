@@ -16,7 +16,10 @@
     ],
     "primaryMinecraftVersion": "1.19.2",
     "gameTypes": [
-        "Hardcore"
+        "Survival",
+        "Open World",
+        "PvE",
+        "Casual"
     ],
     "socials": {
         "twitter": "originrealms",
