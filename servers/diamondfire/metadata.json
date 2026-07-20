@@ -12,9 +12,10 @@
     "primaryColor": "#528dba",
     "secondaryColor": "#f37d20",
     "minecraftVersions": [
-        "1.21.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -34,6 +35,7 @@
         "youtube": "@DiamondFireMC"
     },
     "compliance": {
-        "rules": "https://mcdiamondfire.com/server-rules/"
-    }
+        "rules": "https://mcdiamondfire.com/rules/"
+    },
+    "presentationVideo": "https://youtu.be/SnahMFEgvRI"
 }
