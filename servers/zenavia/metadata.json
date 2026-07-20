@@ -7,10 +7,10 @@
     ],
     "primaryAddress": "play.zenavia.net",
     "gameTypes": [
-        "MiniGames",
+        "Minigames",
         "PvP",
         "Creative",
-        "Parkour",
+        "Parkour"
     ],
     "primaryGameType": "Minigames",
     "primaryColor": "#00DDFF",
@@ -18,9 +18,9 @@
     "minecraftVersions": [
         "26.2"
     ],
-    "primaryMinecraftVersion": "1.21.4",
+    "primaryMinecraftVersion": "26.2",
     "languages": [
-        "fr",
+        "fr"
     ],
     "primaryLanguage": "fr",
     "regions": [
@@ -31,10 +31,10 @@
     "website": "https://zenavia.net",
     "store": "https://store.zenavia.net",
     "socials": {
-        "discord": "https://discord.gg/zenavia"
-        "twitter": "ZenaviaMC"
-        "youtube": "@Zenavia"
-        "instragram": "zenaviamc"
+        "discord": "https://discord.gg/zenavia",
+        "twitter": "ZenaviaMC",
+        "youtube": "@Zenavia",
+        "instagram": "zenaviamc",
         "tiktok": "@zenaviamc"
     }
 }
