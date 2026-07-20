@@ -45,10 +45,10 @@
     "socials": {
         "twitter": "https://x.com/seaven_games",
         "discord": "https://discord.gg/seaven",
-        "youtube": "https://www.youtube.com/@seaven_games",
-        "instagram": "https://www.instagram.com/seaven.games",
-        "twitch": "https://www.twitch.tv/seaven_games",
-        "tiktok": "https://www.tiktok.com/@seaven.games"
+        "youtube": "@seaven_games",
+        "instagram": "seaven.games",
+        "twitch": "seaven_games",
+        "tiktok": "@seaven.games"
     },
     "crossplay": false,
     "presentationVideo": "Ub9ThCLM9NA"
