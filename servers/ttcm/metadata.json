@@ -1,0 +1,22 @@
+{
+  "id": "ttcm",
+  "name": "TLCM",
+  "description": "TLCM is an Italian tier list server with Practice mode to help players improve.",
+  "addresses": ["ttcm.it"],
+  "primaryAddress": "play.ttcm.it",
+  "gameTypes": ["PvP", "Practice"],
+  "primaryGameType": "Practice",
+  "primaryColor": "#0099FF",
+  "secondaryColor": "#FF0000",
+  "minecraftVersions": ["1.8.*", "1.12.*", "1.16.*", "1.17.*", "1.18.*", "1.19.*", "1.20.*", "1.21.*"],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": ["it", "en"],
+  "primaryLanguage": "it",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://www.ttcm.it/",
+  "socials": {
+    "tiktok": "@tierlistcoralmc",
+    "youtube": "@TierlistCoralMC"
+  }
+}

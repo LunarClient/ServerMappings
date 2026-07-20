@@ -1,0 +1,43 @@
+{
+    "id": "blzemc",
+    "name": "BlzeMC",
+    "description": "BlzeMC is a competitive modern Minecraft PvP network.",
+    "primaryAddress": "blzemc.net",
+    "addresses": [
+        "blzesteal.net",
+        "blzemc.net"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryColor": "#F980EB",
+    "secondaryColor": "#FF4CF1",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Factions"
+    ],
+    "store": "https://store.blzemc.net",
+    "compliance": {
+        "termsOfService": "https://store.blzemc.net/terms",
+        "privacyPolicy": "https://store.blzemc.net/terms/privacy",
+        "rules": "https://blze.net/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/blzesteal"
+    },
+    "crossplay": false
+}

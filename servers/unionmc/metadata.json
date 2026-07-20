@@ -1,0 +1,47 @@
+{
+    "id": "unionmc",
+    "name": "UnionMC",
+    "description": "Home for lifesteal, smp and minigames",
+    "addresses": [
+        "unionmc.fun"
+    ],
+    "primaryAddress": "unionmc.fun",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FF1F3D",
+    "secondaryColor": "#FFCC00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://www.unionmc.fun",
+    "store": "https://store.unionmc.fun",
+    "compliance": {
+        "privacyPolicy": "https://unionmc.fun/privacy",
+        "termsOfService": "https://unionmc.fun/tos",
+        "rules": "https://unionmc.fun/rules"
+    },
+    "socials": {
+        "twitter": "unionmcfun",
+        "discord": "https://www.discord.gg/unionmc",
+        "youtube": "@Unioncm"
+    },
+    "votingLinks" : [
+        "https://minecraft.buzz/vote/20224",
+        "https://top-mc-servers.net/server/700"
+    ],
+    "crossplay": true
+}
