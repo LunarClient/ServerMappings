@@ -5,9 +5,9 @@
     "website": "https://www.infinitysmart.eu",
     "store": "https://www.infinitysmart.eu/store",
     "addresses": [
-        "play.infinitysmart.eu"
+        "infinitysmart.eu"
     ],
-    "primaryAddress": "infinitysmart.eu",
+    "primaryAddress": "play.infinitysmart.eu",
     "primaryColor": "#3a0c57",
     "secondaryColor": "#808589",
     "primaryRegion": "EU",
