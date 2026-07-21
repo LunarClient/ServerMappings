@@ -1,8 +1,9 @@
 {
     "id": "racsuplanet",
     "name": "Racsu Planet",
+    "website": "http://racsu.com/",
     "store": "https://tienda.racsu.com/",
-    "description": "Racsu Planet - Skyblock Plaza",
+    "description": "Skyblock Crossplay",
     "addresses": [
         "racsu.com"
     ],
@@ -14,16 +15,15 @@
         "26.2.*"
     ],
     "primaryMinecraftVersion": "26.1.2",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
+    "crossplay": true,
+    "primaryGameType": "Skyblock",
     "gameTypes": [
         "Skyblock",
         "PvP",
         "Adventure"
     ],
     "socials": {
-        "discord": "https://discord.gg/c9BGhDMd2J"
+        "discord": "https://discord.gg/c9BGhDMd2J",
+        "youtube": "RacsuPlanet"
     }
 }
