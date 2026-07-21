@@ -50,6 +50,6 @@
     },
     "votingLinks": {
         "minecraftservers": "https://minecraftservers.org/server/690468",
-        "NameMC": "https://namemc.com/server/vixnet.lat",
+        "namemc": "https://namemc.com/server/vixnet.lat",
     }
 }
