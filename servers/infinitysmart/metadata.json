@@ -7,7 +7,7 @@
     "addresses": [
         "play.infinitysmart.eu"
     ],
-    "primaryAddress": "play.infinitysmart.eu",
+    "primaryAddress": "infinitysmart.eu",
     "primaryColor": "#3a0c57",
     "secondaryColor": "#808589",
     "primaryRegion": "EU",
@@ -22,7 +22,8 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1*",
+        "26.2*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
@@ -30,13 +31,12 @@
     "gameTypes": [
         "Minigames",
         "Survival",
-        "SMP"
+        "Adventure"
     ],
     "primaryGameType": "Minigames",
     "socials": {
-        "discord": "https://discord.infinitysmart.eu",
+        "discord": "https://discord.gg/pvKPgBHYVZ",
         "instagram": "infinitysmart.mc",
-        "tiktok": "infinity_smart",
         "youtube": "UC2E0DyNbme4NBMcOoA8mBrQ"
     }
 }
