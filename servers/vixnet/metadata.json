@@ -40,7 +40,8 @@
     "gameTypes": [
         "Minigames",
         "Survival",
-        "UHC"
+        "UHC",
+        "PvP"
     ],
     "socials": {
         "twitter": "StrafePvPorg",
@@ -50,6 +51,6 @@
     },
     "votingLinks": {
         "minecraftservers": "https://minecraftservers.org/server/690468",
-        "namemc": "https://namemc.com/server/vixnet.lat",
+        "namemc": "https://namemc.com/server/vixnet.lat"
     }
 }
