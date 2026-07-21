@@ -6,5 +6,4 @@ ServerMappings/locales/
 
 # JetBrains configuration files
 .idea/*
-*.iml
 __pycache__
