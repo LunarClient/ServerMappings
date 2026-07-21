@@ -2,19 +2,23 @@
     "id": "seiky",
     "name": "Seiky Network",
     "store": "https://store.seiky.net/",
-    "description": "Unique balkan server experience!",
+    "description": "Unique Balkan server experience!",
     "addresses": [
-        "seiky.net"
+        "seiky.net",
+        "kupiruke.com",
+        "smitesmp.lol",
+        "starsmp.lol"
     ],
     "primaryAddress": "seiky.net",
-    "primaryColor": "#FCA634",
-    "secondaryColor": "#FFE9b7",
+    "primaryColor": "#00B2FF",
+    "secondaryColor": "#17FBFC",
     "minecraftVersions": [
-        "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.20.6",
-    "crossplay": false,
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -22,9 +26,18 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
+        "OneBlock",
+        "Competitive",
+        "UHC",
+        "PvP",
+        "Casual",
+        "Practice",
+        "Crystal PvP",
         "Minigames"
     ],
+    "primaryGameType": "Crystal PvP",
     "socials": {
+        "tiktok": "@seikynetwork",
         "discord": "https://discord.gg/wVQBGvhvFf"
     }
 }
