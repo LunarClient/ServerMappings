@@ -31,18 +31,21 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "PvP",
-        "UHC"
+        "UHC",
+        "Competitive",
+        "Practice"
     ],
     "socials": {
         "twitter": "PvPRivalsNet",
         "discord": "https://discord.gg/pvprivals"
     },
-    "votingLinks": [
-        "https://de.namemc.com/server/pvpgym.net?q=pvprivals.net"
-    ],
     "compliance": {
         "rules": "https://pvprivals.net/rules"
-    }
+    },
+    "votingLinks": [
+        "https://de.namemc.com/server/pvpgym.net?q=pvprivals.net"
+    ]
 }

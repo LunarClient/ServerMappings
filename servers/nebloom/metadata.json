@@ -1,11 +1,14 @@
 {
     "id": "nebloom",
     "name": "Nebloom",
+    "store": "https://tienda.nebloom.net",
     "description": "Your trusted SMP server, come, build, and have fun!",
     "addresses": [
         "nebloom.net"
     ],
     "primaryAddress": "mc.nebloom.net",
+    "primaryColor": "#00ff91",
+    "secondaryColor": "#006036",
     "minecraftVersions": [
         "1.21.*",
         "1.21.1",
@@ -20,13 +23,7 @@
         "1.21.10"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#00ff91",
-    "secondaryColor": "#006036",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -35,19 +32,22 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "Survival"
     ],
-    "store": "https://tienda.nebloom.net",
-    "compliance": {
-        "privacyPolicy": "https://tienda.nebloom.net/terms/privacy",
-        "termsOfService": "https://tienda.nebloom.net/terms/checkout"
-    },
     "socials": {
         "twitter": "NebloomSMP",
         "tiktok": "@NebloomSMP",
         "discord": "https://discord.com/invite/mNcvtWCcXQ"
     },
-    "crossplay": true
+    "compliance": {
+        "privacyPolicy": "https://tienda.nebloom.net/terms/privacy",
+        "termsOfService": "https://tienda.nebloom.net/terms/checkout"
+    }
 }

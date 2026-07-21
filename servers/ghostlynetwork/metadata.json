@@ -26,10 +26,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "UHC",
     "gameTypes": [
         "PvP",
         "UHC",
-        "HCF"
+        "HCF",
+        "Practice",
+        "Minigames"
     ],
     "socials": {
         "twitter": "GhostlyLive",

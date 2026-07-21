@@ -1,6 +1,7 @@
 {
     "id": "rededark",
     "name": "Rede Dark",
+    "description": "Play Minigames and Prison on Rede Dark.",
     "addresses": [
         "rededark.com"
     ],

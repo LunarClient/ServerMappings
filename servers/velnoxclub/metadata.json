@@ -2,6 +2,7 @@
     "id": "velnoxclub",
     "name": "Velnox Network",
     "store": "https://store.velnox.club/",
+    "description": "Play Survival and PvP on Velnox Network.",
     "addresses": [
         "velnox.club"
     ],

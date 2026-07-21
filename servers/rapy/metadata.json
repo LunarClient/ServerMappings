@@ -3,9 +3,11 @@
     "name": "Rapy",
     "website": "https://rapy.pl/",
     "store": "https://rapy.pl/",
+    "description": "Play Survival and Minigames on Rapy.",
     "addresses": [
         "rapy.pl",
-        "jjsmp.pl"
+        "jjsmp.pl",
+        "rapy.gg"
     ],
     "primaryAddress": "rapy.pl",
     "primaryColor": "#ffcc00",

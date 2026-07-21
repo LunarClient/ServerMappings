@@ -1,0 +1,28 @@
+{
+    "id": "battlemc",
+    "name": "Battle Games",
+    "store": "https://store.battle.lat",
+    "description": "PotPvP competitive based server",
+    "addresses": [
+        "battle.lat"
+    ],
+    "primaryAddress": "battle.lat",
+    "primaryColor": "#ffb800",
+    "secondaryColor": "#ffe900",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XNpJvW3GYm"
+    }
+}

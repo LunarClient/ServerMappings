@@ -1,0 +1,29 @@
+{
+    "id": "racsuplanet",
+    "name": "Racsu Planet",
+    "website": "http://racsu.com/",
+    "store": "https://tienda.racsu.com/",
+    "description": "Skyblock Crossplay",
+    "addresses": [
+        "racsu.com"
+    ],
+    "primaryAddress": "play.racsu.com",
+    "primaryColor": "#32AADF",
+    "secondaryColor": "#08E5FE",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": true,
+    "primaryGameType": "Skyblock",
+    "gameTypes": [
+        "Skyblock",
+        "PvP",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/c9BGhDMd2J",
+        "youtube": "RacsuPlanet"
+    }
+}

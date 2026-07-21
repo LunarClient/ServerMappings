@@ -2,6 +2,7 @@
     "id": "straypvp",
     "name": "StrayPvP",
     "store": "https://store.straypvp.us/",
+    "description": "Play PvP and UHC on StrayPvP.",
     "addresses": [
         "straypvp.us"
     ],
@@ -10,7 +11,8 @@
     "secondaryColor": "#060627",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.9"
+        "1.8.9",
+        "26.1"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",

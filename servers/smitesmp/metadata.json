@@ -1,6 +1,7 @@
 {
     "id": "smitesmp",
     "name": "SmiteSMP",
+    "description": "Play PvP and Survival on SmiteSMP.",
     "addresses": [
         "smitesmp.lol"
     ],

@@ -24,10 +24,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Prison",
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "Cobblemon",
+        "Creative"
     ],
     "socials": {
         "twitter": "opblocks",

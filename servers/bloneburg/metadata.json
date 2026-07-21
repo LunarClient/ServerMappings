@@ -1,0 +1,36 @@
+{
+    "id": "bloneburg",
+    "name": "Bloneburg",
+    "website": "https://bloneburg.nl/",
+    "description": "Bloneburg is a Dutch server focused on survival, Skyblock, and more!",
+    "addresses": [
+        "bloneburg.nl"
+    ],
+    "primaryAddress": "play.bloneburg.nl",
+    "primaryColor": "#7dacff",
+    "secondaryColor": "#375bc8",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/kvswa6K9pn",
+        "youtube": "BloneBurg",
+        "instagram": "bloneburg",
+        "tiktok": "@bloneburg"
+    }
+}

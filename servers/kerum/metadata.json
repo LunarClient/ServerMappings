@@ -1,0 +1,25 @@
+{
+    "id": "kerum",
+    "name": "Kerum Network",
+    "store": "https://store-kerum.tebex.io/",
+    "description": "Network dedicated to competitive PvP gamemodes!",
+    "addresses": [
+        "kerum.us"
+    ],
+    "primaryAddress": "kerum.us",
+    "primaryColor": "#ff0015",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.7.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "kerumoficialmc",
+        "discord": "https://discord.gg/jfQTuC8W5f"
+    }
+}

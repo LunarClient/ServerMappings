@@ -2,6 +2,7 @@
     "id": "speedcubing",
     "name": "SpeedCubing",
     "website": "https://speedcubing.top/",
+    "description": "Play Minigames and PvP on SpeedCubing.",
     "addresses": [
         "speedcubing.top"
     ],

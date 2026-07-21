@@ -1,0 +1,33 @@
+{
+    "id": "hyplexmc",
+    "name": "HyplexMC",
+    "website": "https://www.hyplexmc.net",
+    "store": "https://store.hyplexmc.net",
+    "description": "HyplexMC is a server skyblock!",
+    "addresses": [
+        "hyplexmc.net"
+    ],
+    "primaryAddress": "hyplexmc.net",
+    "primaryColor": "#FFB000",
+    "secondaryColor": "#FFDF29",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/v8r6ChanPY",
+        "tiktok": "@hyplexofficialaccount"
+    }
+}

@@ -6,8 +6,9 @@
     "addresses": [
         "craftymc.fr"
     ],
-
     "primaryAddress": "craftymc.fr",
+    "primaryColor": "#fdd24d",
+    "secondaryColor": "#fffeff",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,16 +18,14 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#fdd24d",
-    "secondaryColor": "#fffeff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "fr",
     "languages": [
         "fr",
         "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
     ],
     "gameTypes": [
         "PvP",

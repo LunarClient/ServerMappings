@@ -1,0 +1,34 @@
+{
+    "id": "venturemc",
+    "name": "VentureMC",
+    "website": "https://www.venturemc.club/",
+    "description": "A minecraft lifesteal server",
+    "addresses": [
+        "venturemc.club"
+    ],
+    "primaryAddress": "venturemc.club",
+    "primaryColor": "#29BAFF",
+    "secondaryColor": "#47DAFF",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Hardcore",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/xd6qZE2c7u"
+    }
+}

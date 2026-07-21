@@ -2,6 +2,7 @@
     "id": "mineluxe",
     "name": "MineLuxe Network",
     "store": "https://tienda.mineluxe.us",
+    "description": "Play Survival and PvP on MineLuxe Network.",
     "addresses": [
         "mineluxe.us"
     ],

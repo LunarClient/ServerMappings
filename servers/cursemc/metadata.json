@@ -2,6 +2,7 @@
     "id": "cursemc",
     "name": "CurseMC Network",
     "store": "https://tienda.cursemc.club",
+    "description": "Play PvP and Survival on CurseMC Network.",
     "addresses": [
         "cursemc.club"
     ],

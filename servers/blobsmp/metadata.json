@@ -2,6 +2,7 @@
     "id": "blobsmp",
     "name": "BlobSMP",
     "store": "https://store.blobsmp.net/",
+    "description": "Experience survival gameplay on BlobSMP.",
     "addresses": [
         "blobsmp.net"
     ],

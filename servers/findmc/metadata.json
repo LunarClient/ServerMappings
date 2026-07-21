@@ -3,6 +3,7 @@
     "name": "FindMC",
     "website": "https://findmc.pl",
     "store": "https://findmc.pl/modes",
+    "description": "Experience survival gameplay on FindMC.",
     "addresses": [
         "findmc.pl"
     ],

@@ -3,9 +3,9 @@
     "name": "PixelHaven.pro",
     "website": "https://pixelhaven.pro/",
     "store": "https://sklep.pixelhaven.pro/",
+    "description": "Play Survival and Creative on PixelHaven.pro.",
     "addresses": [
-        "pixelhaven.pro",
-        "193.41.226.236"
+        "pixelhaven.pro"
     ],
     "primaryAddress": "mc.pixelhaven.pro",
     "primaryColor": "#00FF26",

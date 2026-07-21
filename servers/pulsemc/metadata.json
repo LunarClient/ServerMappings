@@ -1,11 +1,12 @@
 {
     "id": "pulsemc",
     "name": "PulseMC",
-    "store": "https://veikals.pulsemc.lv/",
+    "store": "https://store.pulsemc.org/",
+    "description": "Play Skyblock and Prison on PulseMC.",
     "addresses": [
-        "pulsemc.lv"
+        "pulsemc.org"
     ],
-    "primaryAddress": "pulsemc.lv",
+    "primaryAddress": "play.pulsemc.org",
     "primaryColor": "#FFD700",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
@@ -17,8 +18,7 @@
         "EU"
     ],
     "gameTypes": [
-        "Factions",
         "Skyblock",
-        "PvP"
+        "Prison"
     ]
 }

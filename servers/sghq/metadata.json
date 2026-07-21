@@ -1,0 +1,31 @@
+{
+    "id": "sghq",
+    "name": "SGHQ Network",
+    "website": "https://sghq.eu",
+    "store": "https://shop.sghq.eu",
+    "description": "Classic Survival Games and PvP Minigames",
+    "addresses": [
+        "sghq.eu"
+    ],
+    "primaryAddress": "sghq.eu",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FF6600",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sghq"
+    }
+}

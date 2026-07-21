@@ -1,0 +1,34 @@
+{
+"id": "inkysplanet",
+"name": "Inkys Planet",
+"description": "Survival, Anarchy, Skyblock, and more soon.",
+"website": "https://inkysplanet.com",
+"addresses": [
+"inkysplanet.com"
+],
+"primaryAddress": "inkysplanet.com",
+"minecraftVersions": [
+"26.1.2"
+],
+"primaryMinecraftVersion": "26.1.2",
+"primaryColor": "#8EDBFF",
+"secondaryColor": "#7CFFB2",
+"primaryLanguage": "en",
+"languages": [
+"en",
+"es-EN"
+],
+"primaryRegion": "NA",
+"regions": [
+"NA",
+"EU"
+],
+"gameTypes": [
+"Survival",
+"Anarchy",
+"Skyblock",
+"Casual"
+],
+"primaryGameType": "Survival",
+"crossplay": true
+}

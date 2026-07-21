@@ -1,13 +1,13 @@
 {
     "id": "mine_via",
     "name": "Minevia",
-    "website": "https://minevia.fun",
-    "store": "https://store.minevia.fun",
-    "description": "Minevia is a competitive Practice 1.8.9 server for premium and cracked players",
+    "website": "https://web.minevia.club",
+    "store": "https://web.minevia.club/store",
+    "description": "Practice 1.8.9 & Ranked Bedwars server for both premium and cracked players",
     "addresses": [
-        "minevia.fun"
+        "minevia.club"
     ],
-    "primaryAddress": "play.minevia.fun",
+    "primaryAddress": "play.minevia.club",
     "primaryColor": "#F54927",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
