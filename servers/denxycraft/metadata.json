@@ -3,7 +3,7 @@
     "name": "DenxyCraft",
     "description": "Family-friendly survival SMP with jobs, economy, claims, and quests.",
     "addresses": [
-        "play.denxycraft.org"
+        "denxycraft.org"
     ],
     "primaryAddress": "play.denxycraft.org",
     "minecraftVersions": [
@@ -27,9 +27,9 @@
     ],
     "primaryGameType": "Survival",
     "socials": {
-        "twitter": "https://x.com/denxycraft",
-        "youtube": "https://www.youtube.com/@DenxyCraft",
-        "discord": "https://discord.gg/gcBQYTcAJ3"
+        "twitter": "denxycraft",
+        "discord": "https://discord.gg/gcBQYTcAJ3",
+        "youtube": "@DenxyCraft"
     },
     "crossplay": true
 }
