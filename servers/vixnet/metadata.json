@@ -1,7 +1,7 @@
 {
   "id": "vixnet",
   "name": "Vix Network",
-  "description": "The ultimate anarchy experience without rules.",
+  "description": "The ultimate server pvp experience.",
   
   "addresses": [
     "vixnet.lat"
@@ -9,22 +9,23 @@
   "primaryAddress": "vixnet.lat",
   
   "gameTypes": [
-    "Anarchy"
+    "Minigames",
+    "Survival"
   ],
-  "primaryGameType": "Anarchy",
+  "primaryGameType": "Minigames",
   
   "primaryColor": "#FFCC38",
   "secondaryColor": "#FFFFFF",
   
   "minecraftVersions": [
-    "1.8.9",
-    "1.12.2",
-    "1.16.5",
-    "1.19.4",
-    "1.20.4",
-    "1.21"
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
   ],
-  "primaryMinecraftVersion": "1.21",
+  "primaryMinecraftVersion": "1.21.5",
   
   "primaryLanguage": "es-EN",
   "languages": [
@@ -44,6 +45,10 @@
     "discord": "https://discord.gg/XTvwQrQkFP",
     "youtube": "@TheVixNetwork",
     "tiktok": "@thevixnetwork"
+  },
+  
+  "votingLinks": {
+    "namemc": "https://namemc.com/server/vixnet.lat"
   },
   
   "offline": true,
