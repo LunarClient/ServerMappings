@@ -1,0 +1,35 @@
+{
+  "id": "tunnelmc",
+  "name": "TunnelMC",
+  "description": "1.21 Factions with custom raiding, quests, and seasonal content.",
+  "addresses": [
+    "tunnelmc.com"
+  ],
+  "primaryAddress": "play.tunnelmc.com",
+  "minecraftVersions": [
+    "1.8",
+    "1.21"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "gameTypes": [
+    "Factions",
+    "PvP"
+  ],
+  "primaryGameType": "Factions",
+  "primaryColor": "#D9A441",
+  "secondaryColor": "#1E1E1E",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/MmYYVBVDV",
+    "tiktok": "https://www.tiktok.com/@tunnelmcofficial"
+  },
+  "crossplay": false,
+  "offline": false
+}
