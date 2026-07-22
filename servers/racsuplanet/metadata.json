@@ -3,7 +3,7 @@
     "name": "Racsu Planet",
     "website": "http://racsu.com/",
     "store": "https://tienda.racsu.com/",
-    "description": "Skyblock Crossplay",
+    "description": "Skyblock Crossplay de habla hispana: Economía, misiones y más",
     "addresses": [
         "racsu.com"
     ],
@@ -15,6 +15,14 @@
         "26.2.*"
     ],
     "primaryMinecraftVersion": "26.1.2",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
     "crossplay": true,
     "primaryGameType": "Skyblock",
     "gameTypes": [
