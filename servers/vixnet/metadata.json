@@ -24,7 +24,8 @@
     "1.19.*",
     "1.20.*",
     "1.21.*",
-    "26.1.2"
+    "26.1.*",
+    "26.2.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryLanguage": "es-EN",
