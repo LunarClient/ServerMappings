@@ -32,7 +32,8 @@
 ㅤㅤ"primaryRegion": "EU",
 ㅤㅤ"regions": [
 ㅤㅤㅤㅤ"NA",
-ㅤㅤㅤㅤ"EU"
+ㅤㅤㅤㅤ"EU",
+       "AF"
 ㅤㅤ],
 ㅤㅤ"gameTypes": [
 ㅤㅤㅤㅤ"Survival"
@@ -42,5 +43,16 @@
 ㅤㅤㅤㅤ"tiktok": "@playRiveMC",
 ㅤㅤㅤㅤ"discord": "https://discord.rivemc.xyz"
 ㅤㅤ},
-ㅤㅤ"crossplay": true
+    "votingLinks": [
+        "https://minecraftservers.org/server/689432",
+        "https://best-minecraft-servers.co/server-rivemc.33010",
+        "https://minecraft-mp.com/server-s360068",
+        "https://topg.org/minecraft-servers/server-683689",
+        "https://serveur-minecraft.com/5765",
+        "https://www.minerank.com/rivemc",
+        "https://minecraft.buzz/server/rivemc",
+        "https://minecraft-server-list.com/server/521355/"
+    ],
+ㅤㅤ"crossplay": true,
+    "offline": true,
 }
