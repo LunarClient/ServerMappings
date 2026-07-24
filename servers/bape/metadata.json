@@ -1,5 +1,5 @@
 {
-    "id": "bape",
+    "id": "bape"
     "name": "Bape Network",
     "store": "https://store.bape.pro/",
     "description": "A classic survival server.",
@@ -12,11 +12,11 @@
     "minecraftVersions": [
         "1.19.*"
     ],
-    "primaryMinecraftVersion": "26.2",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": false,
-    "primaryRegion": "RO",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "gameTypes": [
         "Survival"
