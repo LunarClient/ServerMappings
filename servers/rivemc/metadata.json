@@ -1,24 +1,22 @@
 {
   "id": "rivemc",
   "name": "RiveMC",
-  "description": "RiveMC is a modern Minecraft network offering a unique and feature-rich SMP experience.",
+  "description": "RiveMC is a modern Minecraft network offering a unique SMP experience.",
   "addresses": [
     "rivemc.xyz"
   ],
   "primaryAddress": "rivemc.xyz",
   "minecraftVersions": [
-    "1.13.*",
-    "1.14.*",
-    "1.15.*",
     "1.16.*",
     "1.17.*",
     "1.18.*",
     "1.19.*",
     "1.20.*",
     "1.21.*",
-    "26.*"
+    "26.1.*",
+    "26.2.*"
   ],
-  "primaryMinecraftVersion": "26.2",
+  "primaryMinecraftVersion": "26.1.2",
   "primaryColor": "#FFD701",
   "secondaryColor": "#BFA52D",
   "primaryLanguage": "en",
@@ -40,7 +38,7 @@
   "socials": {
     "youtube": "@playRiveMC",
     "tiktok": "@playRiveMC",
-    "discord": "https://discord.rivemc.xyz"
+    "discord": "https://discord.com/invite/uFWqzeCckU"
   },
   "votingLinks": [
     "https://minecraftservers.org/server/689432",
