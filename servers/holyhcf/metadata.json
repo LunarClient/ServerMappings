@@ -5,9 +5,10 @@
    "store":"https://store.holypvp.net/",
    "description":"The #1 Spanish-speaking Minecraft PvP server for more than 6 years",
    "addresses":[
-      "holypvp.net"
+      "holypvp.net",
+      "holyhcf.com"
    ],
-   "primaryAddress":"holypvp.net",
+   "primaryAddress":"holyhcf.com",
    "primaryColor":"#dedede",
    "secondaryColor":"#e6b511",
    "minecraftVersions":[
