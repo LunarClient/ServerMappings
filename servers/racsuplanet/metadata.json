@@ -21,7 +21,9 @@
     ],
     "primaryLanguage": "es-EN",
     "languages": [
-        "es-EN"
+        "es-EN",
+        "pt-BR",
+        "en"
     ],
     "crossplay": true,
     "primaryGameType": "Skyblock",
