@@ -1,1 +1,23 @@
-
+{
+  "id": "aurelismc",
+  "name": "AurelisMC",
+  "addresses": [
+    "play.aurelismc.it"
+  ],
+  "primaryAddress": "play.aurelismc.it",
+  "minecraftVersions": [
+    "1.21.8"
+  ],
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "socials": {
+    "discord": "https://dsc.gg/aurelis"
+  },
+  "description": "Server Minecraft italiano con modalità personalizzate e una community attiva."
+}
