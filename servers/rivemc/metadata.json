@@ -4,8 +4,7 @@
 ㅤㅤ"name": "RiveMC",
 ㅤㅤ"description": "RiveMC is a modern Minecraft network offering a unique and feature-rich SMP experience.",
 ㅤㅤ"addresses": [
-ㅤㅤㅤㅤ"rivemc.xyz",
-ㅤㅤㅤㅤ"be.rivemc.xyz:28644"
+ㅤㅤㅤㅤ"rivemc.xyz"
 ㅤㅤ],
 ㅤㅤ"primaryAddress": "rivemc.xyz",
 ㅤㅤ"minecraftVersions": [
