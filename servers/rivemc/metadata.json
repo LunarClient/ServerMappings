@@ -1,0 +1,46 @@
+{
+
+ㅤㅤ"id": "rivemc",
+ㅤㅤ"name": "RiveMC",
+ㅤㅤ"description": "RiveMC is a modern Minecraft network offering a unique and feature-rich SMP experience.",
+ㅤㅤ"addresses": [
+ㅤㅤㅤㅤ"rivemc.xyz",
+ㅤㅤㅤㅤ"be.rivemc.xyz:28644"
+ㅤㅤ],
+ㅤㅤ"primaryAddress": "rivemc.xyz",
+ㅤㅤ"minecraftVersions": [
+ㅤㅤㅤㅤ"1.13.*",
+ㅤㅤㅤㅤ"1.14.*",
+ㅤㅤㅤㅤ"1.15.*",
+ㅤㅤㅤㅤ"1.16.*",
+ㅤㅤㅤㅤ"1.17.*",
+ㅤㅤㅤㅤ"1.18.*",
+ㅤㅤㅤㅤ"1.19.*",
+ㅤㅤㅤㅤ"1.20.*",
+ㅤㅤㅤㅤ"1.21.*",
+ㅤㅤㅤㅤ"26.*"
+ㅤㅤ],
+ㅤㅤ"primaryMinecraftVersion": "26.1.2",
+ㅤㅤ"primaryColor": "#FFD701",
+ㅤㅤ"secondaryColor": "#BFA52D",
+ㅤㅤ"primaryLanguage": "en",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤ"en",
+       "ar",
+       "fr"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "EU",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"NA",
+ㅤㅤㅤㅤ"EU"
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"Survival"
+ㅤㅤ],
+ㅤㅤ"socials": {
+ㅤㅤㅤㅤ"youtube": "@playRiveMC",
+ㅤㅤㅤㅤ"tiktok": "@playRiveMC",
+ㅤㅤㅤㅤ"discord": "https://discord.rivemc.xyz"
+ㅤㅤ},
+ㅤㅤ"crossplay": true
+}
