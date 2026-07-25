@@ -3,8 +3,7 @@
   "name": "AurelisMC",
   "description": "Italian Minecraft server with Survival and seasonal events.",
   "addresses": [
-    "aurelismc.it",
-    "play.aurelismc.it"
+    "aurelismc.it"
   ],
   "primaryAddress": "play.aurelismc.it",
   "minecraftVersions": [
