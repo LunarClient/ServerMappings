@@ -1,0 +1,18 @@
+{
+  "displayName": "MineShard",
+  "addresses": [
+    "MineShard.SnowMC.ir",
+    "MC.MineShard.Top"
+  ],
+  "primaryColor": "#1E90FF",
+  "secondaryColor": "#0B3D91",
+  "minecraftVersions": [
+    "1.8.x",
+    "1.9+"
+  ],
+  "gameTypes": [
+    "SURVIVAL"
+  ],
+  "socials": {},
+  "primaryLanguage": "en"
+}
