@@ -1,0 +1,10 @@
+{
+  "id": "zinoxcraft",
+  "name": "ZynoxCraft",
+  "website": "https://zynoxcraft.net",
+  "store": "https://zynoxcraft.tebex.io/",
+  "description": "Servidor de Minecraft | Survival | Java & Bedrock",
+  "addresses": [
+    "mc.zynoxcraft.net|25565",
+  ]
+}
