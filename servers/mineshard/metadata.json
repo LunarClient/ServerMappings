@@ -3,33 +3,21 @@
     "name": "MineShard",
     "description": "A competitive Minecraft PvP network featuring Bridge Training and Practice PvP.",
     "addresses": [
-        "MineShard.SnowMC.ir",
-        "MC.MineShard.Top"
+        "snowmc.ir"
     ],
-    "primaryAddress": "MineShard.SnowMC.ir",
+    "primaryAddress": "snowmc.ir",
     "minecraftVersions": [
-        "1.8.*",
-        "1.9.*",
-        "1.10.*",
-        "1.11.*",
-        "1.12.*",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.21"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#00A8FF",
     "secondaryColor": "#0066FF",
     "primaryLanguage": "en",
     "languages": [
-        "en",
-        "fa"
+        "en"
     ],
     "primaryRegion": "AS",
     "regions": [
@@ -37,8 +25,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Practice",
-        "Bridge"
+        "Practice"
     ],
     "primaryGameType": "PvP",
     "crossplay": false
