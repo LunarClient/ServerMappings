@@ -8,10 +8,9 @@
   ],
   "primaryAddress": "play.aurelismc.it",
   "minecraftVersions": [
-    "1.21.*",
-    "1.21.8"
+    "1.21._"
   ],
-  "primaryMinecraftVersion": "1.21.8",
+  "primaryMinecraftVersion": "1.21.1",
   "primaryColor": "#F59E0B",
   "secondaryColor": "#8B5CF6",
   "primaryLanguage": "it",
