@@ -3,7 +3,7 @@
   "name": "ZynoxCraft",
   "description": "Servidor de Minecraft Survival, Java & Bedrock",
   "addresses": [
-    "mc.zynoxcraft.net"
+    "zynoxcraft.net"
   ],
   "primaryAddress": "mc.zynoxcraft.net",
   "minecraftVersions": [
