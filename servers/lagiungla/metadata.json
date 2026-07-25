@@ -1,12 +1,26 @@
 {
-  "id": "lagiungla",
-  "name": "La Giungla",
-  "description": "ServerSMP Italiano",
-  "addresses": [
-    "lagiungla.ultramc.co"
-  ],
-  "primaryAddress": "lagiungla.ultramc.co",
-  "socials": {
-    "discord": "https://discord.gg/FDfDMqtW2"
-  }
+    "id": "lagiungla",
+    "name": "La Giungla",
+    "description": "Server Survival SMP Italiano",
+    "addresses": [
+        "lagiungla.ultramc.co"
+    ],
+    "primaryAddress": "lagiungla.ultramc.co",
+    "primaryColor": "#228b22",
+    "secondaryColor": "#006400",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FDfDMqtW2"
+    }
 }
