@@ -1,11 +1,11 @@
 {
   "id": "zynoxcraft",
   "name": "ZynoxCraft",
-  "description": "Servidor de Minecraft | Survival | Java & Bedrock",
+  "description": "Servidor de Minecraft Survival, Java & Bedrock",
   "addresses": [
-    "mc.zynoxcraft.net | 25565"
+    "mc.zynoxcraft.net"
   ],
-  "primaryAddress": "mc.zynoxcraft.net | 25565",
+  "primaryAddress": "mc.zynoxcraft.net",
   "minecraftVersions": [
     "1.21.11"
   ],
@@ -23,6 +23,8 @@
   "primaryGameType": "Survival",
   "crossplay": true,
   "website": "https://zynoxcraft.net",
-  "store": "https://zynoxcraft.tebex.io/",
-  "discord": "https://discord.com/invite/3quCfTaFAV"
+  "store": "https://zynoxcraft.tebex.io",
+  "socials": {
+    "discord": "https://discord.com/invite/3quCfTaFAV"
+  }
 }
