@@ -1,4 +1,5 @@
 {
+  "$schema": "../metadata.schema.json",
   "id": "aurelismc",
   "name": "AurelisMC",
   "description": "Italian Minecraft server with Survival and seasonal events.",
