@@ -1,0 +1,12 @@
+{
+  "name": "Aurenix Network",
+  "addresses": [
+    "play.aurenixnw.com"
+  ],
+  "primaryAddress": "play.aurenixnw.com",
+  "gameTypes": [
+    "BoxPvP"
+  ],
+  "description": "Aurenix Network BoxPvP",
+  "icon": "logo.png"
+}
