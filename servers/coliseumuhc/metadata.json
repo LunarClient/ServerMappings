@@ -20,11 +20,7 @@
     ],
     "primaryRegion": "NA",
     "regions": [
-        "NA",
-        "EU",
-        "OC",
-        "AS",
-        "SA"
+        "NA"
     ],
     "gameTypes": [
         "UHC"
