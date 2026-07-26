@@ -3,8 +3,7 @@
     "name": "megaskywars.com",
     "description": "The most advanced form of Minecraft PvP (Mega Skywars)",
     "addresses": [
-        "megaskywars.com",
-        "bedrock.megaskywars.com"
+        "megaskywars.com"
     ],
     "primaryAddress": "megaskywars.com",
     "minecraftVersions": [
@@ -17,8 +16,8 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-		    "26.1.*",
-	    	"26.2.*"
+		"26.1.*",
+	    "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#00FFFF",
@@ -35,7 +34,7 @@
         "PvP",
         "Minigames",
         "Roleplay",
-		    "Practice"
+	    "Practice"
     ],
     "primaryGameType": "PvP",
     "crossplay": true
