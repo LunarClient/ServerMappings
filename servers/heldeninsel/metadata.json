@@ -37,5 +37,8 @@
         "discord": "https://discord.gg/heldeninsel",
         "youtube": "@heldeninselnet",
         "tiktok": "@heldeninsel"
+    },
+    "compliance": {
+        "privacyPolicy": "https://heldeninsel.net/legal/privacy-policy"
     }
 }
