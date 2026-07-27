@@ -1,17 +1,17 @@
 {
   "id": "pixymc",
   "name": "PixyMC",
-  "description": "The best Minecraft server experience",
+  "description": "Entra su PixyMC, il tuo network Minecraft con Survival, KitPvP e molto altro"
   "addresses": [
     "play.pixymc.it"
   ],
   "primaryAddress": "play.pixymc.it",
   "minecraftVersions": [
-    "1.20.4"
+    "1.21.11"
   ],
-  "primaryMinecraftVersion": "1.20.4",
-  "primaryColor": "#FF0000",
-  "secondaryColor": "#00FF00",
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#FFFF00",
+  "secondaryColor": "#00BFFF",
   "primaryRegion": "EU",
   "regions": [
     "EU"
