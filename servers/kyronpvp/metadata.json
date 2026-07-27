@@ -1,0 +1,27 @@
+{
+    "id": "kyronpvp",
+    "name": "KyronPvP",
+    "description": "Minecraft HCF & Other",
+    "addresses": [
+        "kyronpvp.com"
+    ],
+    "primaryAddress": "kyronpvp.com",
+    "primaryColor": "#FF69B4",
+    "secondaryColor": "#FF1493"
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/J8EfkUrH4c"
+    }
+}
