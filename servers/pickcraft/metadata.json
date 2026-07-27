@@ -27,5 +27,11 @@
   "regions": [
     "NA"
   ],
-  "crossplay": true
+  "crossplay": true,
+
+  "socials": {
+    "discord": "https://discord.gg/zzhXqZ2SKd",
+    "youtube": "https://www.youtube.com/@pickcraft-us",
+    "tiktok": "https://www.tiktok.com/@pickcraft.us"
+  }
 }
