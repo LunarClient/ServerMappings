@@ -1,12 +1,29 @@
 {
+  "id": "pixymc",
   "name": "PixyMC",
-  "addresses": [ 
+  "description": "The best Minecraft server experience",
+  "addresses": [
     "play.pixymc.it"
   ],
-  "region": "Europe",
+  "primaryAddress": "play.pixymc.it",
+  "minecraftVersions": [
+    "1.20.4"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#00FF00",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "crossplay": false,
   "socials": {
     "discord": "https://discord.gg/K8ncxm2b5G",
-    "website": "store.pixymc.it"
-    "tiktok": "https://www.tiktok.com/@pixymc_official"
+    "website": "https://store.pixymc.it",
+    "tiktok": "pixymc_official"
   }
 }
