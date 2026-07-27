@@ -1,0 +1,40 @@
+{
+    "id": "pvphouse",
+    "name": "PvPHouse",
+    "description": "Skyblock denince akla...",
+    "addresses": [
+        "pvphouse.net"
+    ],
+    "primaryAddress": "pvphouse.net",
+    "minecraftVersions": [
+        "1.21.11",
+        "1.19.4"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryColor": "#D20FD9",
+    "secondaryColor": "#99249E",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "website": "https://www.pvphouse.net",
+    "store": "https://www.pvphouse.net",
+    "compliance": {
+        "rules": "https://pvphouse.net/rules"
+    },
+    "socials": {
+        "instagram": "pvphouse_mc"
+    },
+    "crossplay": false
+}
