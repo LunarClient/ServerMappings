@@ -1,0 +1,61 @@
+{
+  "id": "asellus",
+  "name": "Asellus Survival",
+  "store": "https://asellus-survival.tebex.io/category/3263652",
+  "description": "Custom survival featuring races, bosses, economy, quests, and unique content.",
+  "addresses": [
+    "asellus.mc.gg"
+  ],
+  "primaryAddress": "asellus.mc.gg",
+  "languages": [
+    "en"
+  ],
+  "primaryColor": "#8F00FF",
+  "secondaryColor": "#bF00FF",
+  "minecraftVersions": [
+  "1.21",
+  "1.21.1",
+  "1.21.2",
+  "1.21.3",
+  "1.21.4",
+  "1.21.5",
+  "1.21.6",
+  "1.21.7",
+  "1.21.8",
+  "1.21.9",
+  "1.21.10",
+  "1.21.11",
+  "26.1",
+  "26.2"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "primaryRegion": "NA",
+  "website": "https://asellus-survival.tebex.io",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "Towny",
+    "PvE",
+    "PvP"
+  ],
+  "primaryGameType": "Survival",
+  "compliance": {
+    "rules": "https://asellus-survival.tebex.io/rules",
+    "support": "https://discord.gg/wqZGRAG5uk"
+  },
+  "socials": {
+    "discord": "https://discord.gg/wqZGRAG5uk"
+  },
+  "votingLinks": {
+    "minecraft-serverlist": "https://minecraft-serverlist.com/server/4541/vote",
+    "minebrowse": "https://minebrowse.com/server/7010",
+    "planetminecraft": "https://www.planetminecraft.com/server/loop-de-loop-towny-economy-free-loot-crates/vote/",
+    "minecraftservers": "https://minecraftservers.org/vote/684793",
+    "minecraft-server-list": "https://minecraft-server-list.com/server/518415/vote/",
+    "topg": "https://topg.org/minecraft-servers/server-680386"
+  }
+}
