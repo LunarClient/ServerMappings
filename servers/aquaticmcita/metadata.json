@@ -1,0 +1,54 @@
+{
+  "id": "aquaticmc",
+  "name": "AquaticMC",
+  "website": "https://aquaticmc.it",
+  "description": "Entra su AquaticMC, il server Minecraft italiano a tema acquatico. SMP, eventi, community attiva su Discord.",
+  "addresses": [
+    "play.aquaticmc.it",
+    "aquaticmc.it"
+  ],
+  "primaryAddress": "play.aquaticmc.it",
+
+  "minecraftVersions": [
+    "1.21.*",
+    "1.22.*",
+    "1.23.*",
+    "1.24.*",
+    "1.25.*",
+    "1.26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+
+  "gameTypes": [
+    "SMP"
+  ],
+
+  "primaryColor": "#7EE3F7",
+  "secondaryColor": "#4D5AB5",
+
+  "crossplay": true,
+
+  "socials": {
+    "discord": "https://discord.aquaticmc.it"
+  },
+
+  "compliance": {
+    "privacyPolicy": "https://www.aquaticmc.it/privacy.html",
+    "termsOfService": "https://www.aquaticmc.it/terms.html",
+    "rules": "https://www.aquaticmc.it/regolamento.html"
+  },
+
+  "store": {
+    "url": "https://store.aquaticmc.it"
+  }
+}
