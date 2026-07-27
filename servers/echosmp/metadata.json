@@ -1,1 +1,31 @@
-
+{
+  "id": "echosmp",
+  "name": "Echo SMP",
+  "description": "A modern survival SMP with custom gameplay.",
+  "addresses": [
+    "85.155.102.83"
+  ],
+  "primaryAddress": "85.155.102.83:25401",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#00BFFF",
+  "secondaryColor": "#1E90FF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Vanilla",
+    "Casual"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/YOURINVITE"
+  },
+  "crossplay": false
+}
