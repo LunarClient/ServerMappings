@@ -7,9 +7,9 @@
   ],
   "primaryAddress": "pickcraft.us",
   "minecraftVersions": [
-    "1.21.11, 26.1, 26.1.2"
+    "26.1.2"
   ],
-  "primaryMinecraftVersion": "1.21.10",
+  "primaryMinecraftVersion": "26.1.2",
   "gameTypes": [
     "Survival",
     "Minigames",
