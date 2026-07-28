@@ -2,7 +2,7 @@
   "id": "aquaticmcita",
   "name": "AquaticMC",
   "website": "https://aquaticmc.it",
-  "description": "Server Minecraft italiano con Survival, Eventi e community acquatica.",
+  "description": "Italian Minecraft server with Survival, events and an active community.",
   "addresses": [
     "aquaticmc.it"
   ],
@@ -10,7 +10,7 @@
 
   "minecraftVersions": [
     "1.21.*",
-    "26.2"
+    "26.2.*"
   ],
   "primaryMinecraftVersion": "1.21.11",
 
@@ -27,6 +27,7 @@
   "gameTypes": [
     "Survival"
   ],
+  "primaryGameType": "Survival",
 
   "primaryColor": "#7EE3F7",
   "secondaryColor": "#4D5AB5",
