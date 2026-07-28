@@ -3,7 +3,7 @@
     "name": "JartexNetwork",
     "website": "https://jartexnetwork.com/",
     "store": "https://store.jartexnetwork.com/",
-    "description": "Play Minigames, Factions, and more on JartexNetwork.",
+    "description": "Play BedWars, Factions & more on JartexNetwork.",
     "addresses": [
         "jartexnetwork.com",
         "jartex.fun",
@@ -19,29 +19,30 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*",
+        "26.1"
     ],
     "primaryMinecraftVersion": "1.19.4",
     "crossplay": true,
     "offline": true,
-    "primaryGameType": "Skyblock",
+    "primaryGameType": "BedWars",
     "gameTypes": [
+        "Factions",
         "Skyblock",
-        "Minigames",
-        "KitPvP",
         "Prison",
         "Survival",
-        "Factions",
+        "KitPvP",
+        "Lifesteal",
         "Tycoon",
-        "OneBlock",
-        "Lifesteal"
+        "BedWars",
+        "OneBlock"
     ],
     "socials": {
         "twitter": "JartexNetwork",
-        "discord": "https://discord.com/invite/bkPMrVp",
+        "discord": "https://discord.gg/buVY59eQyz",
         "youtube": "UCfDU_v9ky0rK2Pndf5v88oA",
         "instagram": "jartex.network",
-        "reddit": "JartexNetwork",
         "facebook": "JartexNetwork"
     }
 }
