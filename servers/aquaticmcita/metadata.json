@@ -2,16 +2,15 @@
   "id": "aquaticmcita",
   "name": "AquaticMC",
   "website": "https://aquaticmc.it",
-  "description": "Entra su AquaticMC, il server Minecraft italiano a Tema Acquatico. SMP, Eventi, Community attiva su Discord.",
+  "description": "Server Minecraft italiano con Survival, Eventi e community acquatica.",
   "addresses": [
-    "play.aquaticmc.it",
     "aquaticmc.it"
   ],
-  "primaryAddress": "play.aquaticmc.it",
+  "primaryAddress": "aquaticmc.it",
 
   "minecraftVersions": [
     "1.21.*",
-    "26.*"
+    "26.2"
   ],
   "primaryMinecraftVersion": "1.21.11",
 
@@ -26,7 +25,7 @@
   ],
 
   "gameTypes": [
-    "SMP"
+    "Survival"
   ],
 
   "primaryColor": "#7EE3F7",
@@ -35,7 +34,7 @@
   "crossplay": true,
 
   "socials": {
-    "discord": "https://discord.aquaticmc.it"
+    "discord": "https://discord.gg/aquaticmc"
   },
 
   "compliance": {
