@@ -26,7 +26,7 @@
     "primaryMinecraftVersion": "1.19.4",
     "crossplay": true,
     "offline": true,
-    "primaryGameType": "BedWars",
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Factions",
         "Skyblock",
