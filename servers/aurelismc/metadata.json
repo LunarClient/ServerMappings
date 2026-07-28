@@ -1,13 +1,18 @@
 {
+  "$schema": "../metadata.schema.json",
   "id": "aurelismc",
   "name": "AurelisMC",
+  "description": "Italian Minecraft server with Survival and seasonal events.",
   "addresses": [
-    "play.aurelismc.it"
+    "aurelismc.it"
   ],
   "primaryAddress": "play.aurelismc.it",
   "minecraftVersions": [
-    "1.21.8"
+    "1.21._"
   ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#F59E0B",
+  "secondaryColor": "#8B5CF6",
   "primaryLanguage": "it",
   "languages": [
     "it"
@@ -16,8 +21,14 @@
   "regions": [
     "EU"
   ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "primaryGameType": "Survival",
+  "crossplay": false,
   "socials": {
-    "discord": "https://dsc.gg/aurelis"
+    "discord": "https://discord.gg/Nyf694Ze84"
   },
-  "description": "Server Minecraft italiano con modalità personalizzate e una community attiva."
+  "website": "https://aurelismc.lovable.app/"
 }
