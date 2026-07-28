@@ -1,0 +1,55 @@
+{
+    "id": "rivemc",
+    "name": "RiveMC",
+    "description": "RiveMC is a modern Minecraft network offering a unique SMP experience.",
+    "addresses": [
+      "rivemc.xyz"
+    ],
+    "primaryAddress": "rivemc.xyz",
+    "minecraftVersions": [
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*",
+      "1.21.*",
+      "26.1.*",
+      "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#FFD701",
+    "secondaryColor": "#BFA52D",
+    "primaryLanguage": "en",
+    "languages": [
+      "en",
+      "ar",
+      "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+      "NA",
+      "EU",
+      "AF"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+      "Survival"
+    ],
+    "socials": {
+      "youtube": "@playRiveMC",
+      "tiktok": "@playRiveMC",
+      "discord": "https://discord.com/invite/uFWqzeCckU"
+    },
+    "votingLinks": [
+      "https://minecraftservers.org/server/689432",
+      "https://best-minecraft-servers.co/server-rivemc.33010",
+      "https://minecraft-mp.com/server-s360068",
+      "https://topg.org/minecraft-servers/server-683689",
+      "https://serveur-minecraft.com/5765",
+      "https://www.minerank.com/rivemc",
+      "https://minecraft.buzz/server/rivemc",
+      "https://minecraft-server-list.com/server/521355/"
+    ],
+    "crossplay": true,
+    "offline": true
+}
