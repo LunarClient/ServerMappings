@@ -3,29 +3,32 @@
     "name": "ImagineFun",
     "website": "https://imaginefun.net/",
     "store": "https://buy.imaginefun.net/",
-    "description": "Experience Disneyland as never before, recreated in a realistic scale with",
+    "description": "Experience Disneyland in Minecraft with realistic rides, live shows and more!",
     "addresses": [
         "imaginefun.net",
         "imagineeringfun.net",
         "minecraftdisneyland.com"
     ],
-    "primaryAddress": "mc.imaginefun.net",
+    "primaryAddress": "lunar.imaginefun.net",
     "primaryColor": "#e1cc31",
     "secondaryColor": "#515382",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "26.2",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
+        "Casual",
         "Minigames",
-        "Roleplay",
-        "Adventure"
+        "Adventure",
+        "Open World"
     ],
     "socials": {
         "twitter": "imagine_fun",
