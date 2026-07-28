@@ -2,10 +2,11 @@
   "id": "pixymc",
   "name": "PixyMC",
   "description": "Entra su PixyMC, il tuo network Minecraft con Survival, OneBlock e molto altro",
+  "website": "https://store.pixymc.it",
   "addresses": [
-    "play.pixymc.it"
+    "pixymc.it"
   ],
-  "primaryAddress": "play.pixymc.it",
+  "primaryAddress": "pixymc.it",
   "minecraftVersions": [
     "1.8.*",
     "1.9.*",
@@ -22,7 +23,7 @@
     "1.20.*",
     "1.21.*"
   ],
-  "primaryMinecraftVersion": "1.21.1",
+  "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#FFFF00",
   "secondaryColor": "#00BFFF",
   "primaryRegion": "EU",
@@ -36,7 +37,6 @@
   "crossplay": false,
   "socials": {
     "discord": "https://discord.gg/K8ncxm2b5G",
-    "website": "https://store.pixymc.it",
-    "tiktok": "pixymc_official"
+    "tiktok": "@pixymc_official"
   }
 }
