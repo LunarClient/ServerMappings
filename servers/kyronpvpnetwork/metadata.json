@@ -5,5 +5,10 @@
   "addresses": [
     "kyronpvp.com"
   ],
-  "primaryAddress": "kyronpvp.com"
+  "primaryAddress": "kyronpvp.com",
+  "minecraftVersions": [
+    "1.7.10",
+    "1.8.9"
+  ],
+  "primaryMinecraftVersion": "1.8.9"
 }
