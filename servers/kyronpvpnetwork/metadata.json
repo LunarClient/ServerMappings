@@ -4,7 +4,7 @@
     "description": "Server Kitmap and HCF 1.7 - 1.8.9",
     "addresses": [
         "kyronpvp.com",
-        "://kyronpvp.com"
+        "kyronpvp.com"
     ],
     "primaryAddress": "kyronpvp.com",
     "minecraftVersions": [
@@ -16,6 +16,6 @@
         "Hardcore",
         "PvP"
     ],
-    "primaryColor": "#9863E7",
-    "secondaryColor": "#FF6AE9"
+    "primaryColor": "#1a1a1a",
+    "secondaryColor": "#ff0000"
 }
