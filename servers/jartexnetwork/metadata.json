@@ -23,7 +23,7 @@
         "1.21.*",
         "26.1"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.8.9",
     "crossplay": true,
     "offline": true,
     "primaryGameType": "Minigames",
