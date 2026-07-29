@@ -11,5 +11,11 @@
         "1.7.10",
         "1.8.9"
     ],
-    "primaryMinecraftVersion": "1.8.9"
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "Hardcore",
+        "PvP"
+    ],
+    "primaryColor": "#9863E7",
+    "secondaryColor": "#FF6AE9"
 }
