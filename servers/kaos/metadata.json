@@ -1,5 +1,5 @@
 {
-    "id": "kaosmc",
+    "id": "kaos",
     "name": "KaosMC Network",
     "website": "https://kaosmc.xyz",
     "store": "https://kaosmc.xyz",
@@ -12,9 +12,11 @@
     "secondaryColor": "#112233",
     "minecraftVersions": [
         "1.8.*",
-        "26.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "26.2",
+    "primaryMinecraftVersion": "26.1.2",
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
@@ -30,6 +32,6 @@
         "Practice"
     ],
     "socials": {
-        "discord": "https://discord.kaosmc.xyz"
+        "discord": "https://discord.gg/XzBGr5GVzN"
     }
 }
