@@ -29,7 +29,7 @@
     "regions": [
         "EU"
     ],
-    "primaryGameType": "Survival",
+    "primaryGameType": "KitPvP",
     "gameTypes": [
         "Survival",
         "Factions",
