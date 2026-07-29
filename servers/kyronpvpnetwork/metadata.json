@@ -1,15 +1,15 @@
 {
-  "id": "kyronpvpnetwork",
-  "name": "Kyron Network",
-  "description": "Server Kitmap and HCF 1.7 - 1.8.9",
-  "addresses": [
-    "kyronpvp.com",
-    "://kyronpvp.com"
-  ],
-  "primaryAddress": "kyronpvp.com",
-  "minecraftVersions": [
-    "1.7.10",
-    "1.8.9"
-  ],
-  "primaryMinecraftVersion": "1.8.9"
+    "id": "kyronpvpnetwork",
+    "name": "Kyron Network",
+    "description": "Server Kitmap and HCF 1.7 - 1.8.9",
+    "addresses": [
+        "kyronpvp.com",
+        "://kyronpvp.com"
+    ],
+    "primaryAddress": "kyronpvp.com",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9"
 }
