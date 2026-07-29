@@ -4,7 +4,7 @@
   "website": "https://bloodmc.net/",
   "description": "BloodMC is an Indian Minecraft network featuring competitive PvP and minigames.",
   "addresses": [
-    "bloodmc.net"
+    "play.bloodmc.net"
   ],
   "primaryAddress": "play.bloodmc.net",
   "primaryColor": "#ff0000",
@@ -37,6 +37,6 @@
     "privacyPolicy": "https://bloodmc.net/legal/privacy"
   },
   "socials": {
-    "discord": "https://discord.com/invite/BloodMC"
+    "discord": "https://discord.gg/BloodMC"
   }
 }
