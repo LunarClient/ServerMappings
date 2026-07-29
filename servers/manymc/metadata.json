@@ -26,7 +26,6 @@
   "primaryGameType": "Survival",
   "gameTypes": [
     "Survival",
-    "EarthSMP",
     "Minigames"
   ],
   "socials": {
