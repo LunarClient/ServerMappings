@@ -31,9 +31,12 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "PvP",
-        "UHC"
+        "UHC",
+        "Competitive",
+        "Practice"
     ],
     "socials": {
         "twitter": "PvPRivalsNet",

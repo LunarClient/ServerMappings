@@ -21,7 +21,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Anarchy",
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Anarchy",
+        "Hardcore",
+        "PvP"
     ]
 }

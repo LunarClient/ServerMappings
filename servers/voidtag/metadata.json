@@ -1,0 +1,32 @@
+{
+    "id": "voidtag",
+    "name": "Void Tag",
+    "website": "https://voidtag.net",
+    "store": "https://store.voidtag.net",
+    "description": "A unique twist on TNT Tag, where players are on a map suspended over the void",
+    "addresses": [
+        "voidtag.net"
+    ],
+    "primaryAddress": "voidtag.net",
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "primaryColor": "#ff00a8",
+    "secondaryColor": "#9600ff",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/PPNMtpRn4q"
+    }
+}

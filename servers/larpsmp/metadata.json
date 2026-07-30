@@ -1,0 +1,30 @@
+{
+    "id": "larpsmp",
+    "name": "LARPSMP",
+    "description": "German survival SMP with Mace PvP, crates, kits and ranks.",
+    "website": "https://larpsmp.store",
+    "addresses": [
+        "larpsmp.de"
+    ],
+    "primaryAddress": "larpsmp.de",
+    "primaryColor": "#B15CFF",
+    "secondaryColor": "#1A0B2E",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/larpsmp"
+    }
+}

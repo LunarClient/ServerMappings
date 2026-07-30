@@ -1,0 +1,32 @@
+{
+    "id": "swordmc",
+    "name": "SwordMC",
+    "description": "sword4000's Community Minecraft Server!",
+    "addresses": [
+        "swordmc.gg"
+    ],
+    "primaryAddress": "swordmc.gg",
+    "primaryColor": "#f7c737",
+    "secondaryColor": "#cececd",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sword4000"
+    }
+}

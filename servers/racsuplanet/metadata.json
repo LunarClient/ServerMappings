@@ -1,29 +1,29 @@
 {
     "id": "racsuplanet",
     "name": "Racsu Planet",
+    "website": "http://racsu.com/",
     "store": "https://tienda.racsu.com/",
-    "description": "Racsu Planet - Lands and Wars SMP",
+    "description": "Skyblock Crossplay",
     "addresses": [
         "racsu.com"
     ],
     "primaryAddress": "play.racsu.com",
-    "primaryColor": "#ff1c4d",
-    "secondaryColor": "#5c0014",
+    "primaryColor": "#32AADF",
+    "secondaryColor": "#08E5FE",
     "minecraftVersions": [
-        "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": true,
+    "primaryGameType": "Skyblock",
     "gameTypes": [
-        "Survival",
+        "Skyblock",
         "PvP",
         "Adventure"
     ],
     "socials": {
-        "discord": "https://discord.gg/c9BGhDMd2J"
+        "discord": "https://discord.gg/c9BGhDMd2J",
+        "youtube": "RacsuPlanet"
     }
 }
