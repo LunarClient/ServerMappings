@@ -1,12 +1,13 @@
 {
     "id": "lencraft",
     "name": "Lencraft Network",
-    "website": "https://lencraft.me",
+    "website": "https://lencraft.net",
     "description": "The best FullPvP and BedWars 1.8.9 server",
     "addresses": [
-        "lencraft.me"
+        "mc.lencraft.net",
+        "lencraft.net"
     ],
-    "primaryAddress": "mc.lencraft.me",
+    "primaryAddress": "mc.lencraft.net",
     "primaryColor": "#FF5555",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
