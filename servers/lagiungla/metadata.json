@@ -3,8 +3,7 @@
     "name": "LaGiungla",
     "description": "Un server Minecraft SMP compatibile con Java e Bedrock",
     "addresses": [
-        "lagiungla.it",
-        "play.lagiungla.it"
+        "lagiungla.it"
     ],
     "primaryAddress": "lagiungla.it",
     "offline": true,
@@ -22,9 +21,9 @@
     "languages": [
         "it"
     ],
-    "primaryGameType": "SMP",
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/FDfDMqtW2"
