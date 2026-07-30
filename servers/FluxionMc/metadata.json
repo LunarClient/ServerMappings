@@ -1,0 +1,28 @@
+{
+  "id": "fluxionmc",
+  "name": "FluxionMc",
+  "description": "Fight, steal hearts, and survive in FluxionMc's Lifesteal world.",
+  "addresses": ["PENDIENTE_DOMINIO.net"],
+  "primaryAddress": "play.PENDIENTE_DOMINIO.net:20286",
+  "minecraftVersions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.1",
+    "1.20.4",
+    "1.20.6",
+    "1.21.1"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#51A5CE",
+  "secondaryColor": "#FF3D3D",
+  "gameTypes": ["Lifesteal", "Survival", "PvP"],
+  "primaryGameType": "Lifesteal",
+  "primaryLanguage": "es-EN",
+  "languages": ["es-EN", "en"],
+  "primaryRegion": "SA",
+  "regions": ["SA", "NA"],
+  "crossplay": false,
+  "offline": false
+}
