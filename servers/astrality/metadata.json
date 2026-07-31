@@ -1,8 +1,8 @@
 {
   "id": "astrality",
   "name": "Astrality",
-  "website": "https://tienda.astrality.net/",
-  "description": "Servidor survival enfocado a la experiencia MMO, con sistema de economía, misiones, dungeons y mucho más!",
+  "website": "https://www.astrality.net/",
+  "description": "A survival server focused on the MMO experience, featuring an economy system, quests, dungeons, and much more!",
   "addresses": [
     "astrality.net"
   ],
@@ -27,7 +27,6 @@
   ],
   "crossplay": true,
   "socials": {
-    "discord": "https://discord.gg/jR9nhWJfJ4",
-    "tikTok": "https://www.tiktok.com/@astralitynet"
+    "discord": "https://discord.gg/jR9nhWJfJ4"
   }
 }
