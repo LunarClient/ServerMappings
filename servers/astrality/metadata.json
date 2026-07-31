@@ -1,0 +1,33 @@
+{
+  "id": "astrality",
+  "name": "Astrality",
+  "website": "https://tienda.astrality.net/",
+  "description": "Servidor survival enfocado a la experiencia MMO, con sistema de economía, misiones, dungeons y mucho más!",
+  "addresses": [
+    "astrality.net"
+  ],
+  "primaryAddress": "astrality.net",
+  "primaryColor": "#3F63FF",
+  "secondaryColor": "#95D4FF",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "primaryLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "crossplay": true,
+  "socials": {
+    "discord": "https://discord.gg/jR9nhWJfJ4",
+    "tikTok": "https://www.tiktok.com/@astralitynet"
+  }
+}
