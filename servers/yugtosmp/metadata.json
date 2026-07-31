@@ -8,7 +8,7 @@
     "primaryAddress": "play.yugtosmp.xyz",
     "minecraftVersions": [
         "1.21.*",
-        "26.*"
+        "26.2"
     ],
     "primaryMinecraftVersion": "26.2",
     "primaryColor": "#7CFFB2",
