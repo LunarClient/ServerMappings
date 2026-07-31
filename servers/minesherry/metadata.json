@@ -6,11 +6,10 @@
   "addresses": [
     "minesherry.fun"
   ],
-  "primaryAddress": "minesherry.fun",
+  "primaryAddress": "play.minesherry.fun",
   "primaryColor": "#ff1e56",
   "secondaryColor": "#ff7eb3",
   "minecraftVersions": [
-    "1.7.*",
     "1.8.*",
     "1.12.*",
     "1.16.*",
@@ -18,10 +17,11 @@
     "1.18.*",
     "1.19.*",
     "1.20.*",
-    "1.21.*"
-	"26.*"
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
   ],
-  "primaryMinecraftVersion": "1.16.5",
+  "primaryMinecraftVersion": "1.8.9",
   "crossplay": true,
   "offline": true,
   "primaryRegion": "SA",
@@ -38,12 +38,11 @@
   "gameTypes": [
     "BoxPvP",
     "Survival",
-	"BedWars",
     "Minigames",
     "PvP"
   ],
   "socials": {
-    "discord": "https://discord.gg/eHhSFNzvBA",
+    "discord": "https://discord.gg/PGYv88dujM",
     "tiktok": "@minesherrynetwork"
   }
 }
