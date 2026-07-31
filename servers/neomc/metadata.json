@@ -1,0 +1,24 @@
+{
+  "id": "neomc",
+  "name": "NeoMC",
+  "description": "NeoMC is an Indian Minecraft network featuring Survival and Practice PvP.",
+  "addresses": [
+    "play.neomc.in"
+  ],
+  "primaryAddress": "play.neomc.in",
+  "gameTypes": [
+    "Survival",
+    "Practice",
+    "PvP"
+  ],
+  "platforms": [
+    "JAVA",
+    "BEDROCK"
+  ],
+  "location": {
+    "country": "IN"
+  },
+  "socials": {
+    "discord": "https://discord.gg/neomcgg"
+  }
+}
