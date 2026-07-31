@@ -11,23 +11,22 @@
   "secondaryColor": "#95D4FF",
   "minecraftVersions": [
     "1.21.*",
-    "26.*"
+    "26.1.*"
   ],
   "primaryMinecraftVersion": "1.21",
   "primaryRegion": "SA",
   "regions": [
     "SA"
   ],
-  "primaryLanguage": "es",
+  "primaryLanguage": "es-EN",
   "languages": [
-    "es"
+    "es-EN"
   ],
   "gameTypes": [
     "Survival"
   ],
   "crossplay": true,
   "socials": {
-    "discord": "https://discord.gg/jR9nhWJfJ4",
-    "tiktok": "https://tiktok.com/@astrality.net"
+    "discord": "https://discord.gg/jR9nhWJfJ4"
   }
 }
