@@ -1,18 +1,39 @@
 {
   "id": "mineduck",
   "name": "MineDuck",
-  "description": "Servidor español de Minecraft con Survival, SkyBlock y más.",
+  "website": "https://mineduck.es/",
+  "store": "https://tienda.mineduck.es/",
+  "description": "Welcome to MineDuck, the Spanish Minecraft server.",
   "addresses": [
-    "play.mineduck.es"
+    "mineduck.es"
   ],
   "primaryAddress": "play.mineduck.es",
-  "regions": [
-    "eu"
+  "primaryColor": "#E79124",
+  "secondaryColor": "#EFB66C",
+  "minecraftVersions": [
+    "1.8.*", 
+    "1.12.*", 
+    "1.16.*", 
+    "1.17.*", 
+    "1.18.*", 
+    "1.19.*", 
+    "1.20.*",
+    "1.21.*"
   ],
-  "website": "https://mineduck.es",
-  "store": "https://tienda.mineduck.es",
+  "primaryMinecraftVersion": "1.21",
+  "crossplay": true,
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "Minigames"
+  ],
   "socials": {
-    "discord": "https://discord.mineduck.es"
-  },
-  "crossplay": true
+    "twitter": "MineduckNetWork",
+    "instagram": "mineducknt",
+    "discord": "https://discord.com/invite/wr6jFda"
+  }
 }
