@@ -2,7 +2,6 @@
   "id": "manymc",
   "name": "ManyMC",
   "website": "https://manymc.pl",
-  "store": "https://manymc.pl",
   "description": "Play Survival, EarthSMP, and more on ManyMC.",
   "addresses": [
     "manymc.pl"
@@ -29,7 +28,7 @@
     "Minigames"
   ],
   "socials": {
-    "discord": "https://discord.gg/manymc",
+    "discord": "https://discord.gg/CxJNgKJMRy",
     "tiktok": "@manymc.pl"
   }
 }
