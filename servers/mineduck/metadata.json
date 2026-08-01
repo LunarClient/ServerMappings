@@ -1,0 +1,18 @@
+{
+  "id": "mineduck",
+  "name": "MineDuck",
+  "description": "Servidor español de Minecraft con Survival, SkyBlock y más.",
+  "addresses": [
+    "play.mineduck.es"
+  ],
+  "primaryAddress": "play.mineduck.es",
+  "regions": [
+    "eu"
+  ],
+  "website": "https://mineduck.es",
+  "store": "https://tienda.mineduck.es",
+  "socials": {
+    "discord": "https://discord.mineduck.es"
+  },
+  "crossplay": true
+}
