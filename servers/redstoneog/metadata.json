@@ -1,35 +1,40 @@
 {
-  "id": "redstoneog",
-  "name": "RedStoneOG Network",
-  "description": "A competitive Minecraft network featuring classic PvP and survival",
-  "addresses": [
-    "redstoneog.com"
-  ],
-  "primaryAddress": "mc.redstoneog.com",
-  "minecraftVersions": [
-    "1.8.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#E53935",
-  "secondaryColor": "#111827",
-  "primaryLanguage": "en",
-  "languages": [
-    "ar",
-    "en"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "PvP",
-    "RedstonePvP",
-    "KitPvP",
-    "Survival"
-  ],
-  "primaryGameType": "PvP",
-  "store": "https://store.redstoneog.com",
-  "crossplay": false,
-  "offline": true
+    "id": "redstoneog",
+    "name": "RedStoneOG Network",
+    "website": "https://store.redstoneog.com/",
+    "store": "https://redstonenetwork.tebex.store/",
+    "description": "Play Practice, PvP, Survival, and more on RedStoneOG Network.",
+    "addresses": [
+        "redstoneog.com"
+    ],
+    "primaryAddress": "mc.redstoneog.com",
+    "primaryColor": "#E53935",
+    "secondaryColor": "#111827",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "offline": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "PvP",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Practice",
+        "SkyMines",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sm7vaQ7fst"
+    }
 }
