@@ -1,7 +1,6 @@
 {
     "id": "redstoneog",
     "name": "RedStoneOG Network",
-    "website": "",
     "store": "https://redstonenetwork.tebex.store/",
     "description": "Play Practice, PvP, Survival, and more on RedStoneOG Network.",
     "addresses": [
@@ -31,7 +30,7 @@
         "Minigames",
         "PvP",
         "Practice",
-        "SkyMines",
+        "Prison",
         "Survival"
     ],
     "socials": {
