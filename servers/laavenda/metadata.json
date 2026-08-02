@@ -4,8 +4,6 @@
     "description": "A crystal pvp network",
     "addresses": [
         "laavenda.de",
-        "cavefight.de",
-        "ave.rip",
         "unionmc.fun"
     ],
     "primaryAddress": "laavenda.de",
