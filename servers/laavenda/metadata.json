@@ -3,8 +3,7 @@
     "name": "Laavenda",
     "description": "A crystal pvp network",
     "addresses": [
-        "laavenda.de",
-        "unionmc.fun"
+        "laavenda.de"
     ],
     "primaryAddress": "laavenda.de",
     "minecraftVersions": [
