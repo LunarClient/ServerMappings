@@ -5,6 +5,7 @@
     "store": "https://crashsmp.ro/",
     "description": "It's a Minecraft community from Romania that wants to bring unique things.",
     "addresses": [
+        "crashsmp.ro",
         "play.crashsmp.ro"
     ],
     "primaryAddress": "play.crashsmp.ro",
@@ -29,8 +30,7 @@
         "1.21.8",
         "1.21.9",
         "1.21.10",
-        "1.21.11",
-        "1.26"
+        "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "EU",
