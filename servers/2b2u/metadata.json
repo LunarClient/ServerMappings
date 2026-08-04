@@ -1,7 +1,14 @@
 {
     "id": "2b2t",
     "name": "2b2t",
+    "offline": true,
+    "crossplay": true,
+
     "store": "https://2b2u.craftingstore.net/",
+    "discord": "https://discord.gg/56ZJFKvmK2",
+    "wiki": "https://2b2u.net/wiki",
+    
+    
     "description": "Play 2b2u for the real anarchy experience",
     "addresses": [
         "2b2u.net"
