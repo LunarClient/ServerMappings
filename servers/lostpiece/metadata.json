@@ -3,7 +3,7 @@
     "name": "LostPiece",
     "description": "Lostpiece is An MMORPG minecraft server based on Onepiece",
     "addresses": [
-        "play.lostpiece.net"
+        "lostpiece.net"
     ],
     "primaryAddress": "play.lostpiece.net",
     "minecraftVersions": [
