@@ -1,6 +1,0 @@
-Pillow
-webptools
-jsonschema
-mcstatus
-requests
-tld
