@@ -43,6 +43,7 @@
         "support": "https://discord.gg/mindofneo"
     },
     "modpack": {
+        "provider": "curseforge",
         "id": "1622906",
         "promptBeforeGameJoin": true,
         "promptBeforeLauncherJoin": true
