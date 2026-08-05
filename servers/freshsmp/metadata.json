@@ -2,6 +2,7 @@
     "id": "freshsmp",
     "name": "FreshSMP",
     "store": "https://store.freshsmp.fun/",
+    "description": "Play Survival and Skyblock on FreshSMP.",
     "addresses": [
         "freshsmp.fun"
     ],
@@ -11,16 +12,21 @@
     "minecraftVersions": [
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "OneBlock",
+        "Practice",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "FreshSMP",

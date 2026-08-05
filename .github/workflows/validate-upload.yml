@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-  pull_request_target:
+  pull_request:
     branches:
       - "*"
   schedule:
@@ -37,16 +37,26 @@ jobs:
   validate-servers:
     name: Validate Servers
     runs-on: ubuntu-latest
+
     permissions:
-      pull-requests: write
-      issues: write
+      contents: read
+      pull-requests: read
 
     steps:
-      - name: Checkout from GitHub
+      # Trusted checkout: scripts and schemas come from the base ref so a PR
+      # cannot alter the validator (e.g. fabricating pr_results.json as
+      # "ready") to bypass validation in the trusted feedback workflow.
+      - name: Checkout trusted base
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ github.event.pull_request.base.ref || github.ref }}
+
+      - name: Checkout PR contents (untrusted)
+        if: github.event_name == 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr-contents
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -57,17 +67,26 @@ jobs:
         run: pip install -r .scripts/requirements.txt
 
       - name: Validate Servers
+        working-directory: ${{ github.event_name == 'pull_request' && 'pr-contents' || '.' }}
         run: |
-          python .scripts/validate.py \
+          python "${GITHUB_WORKSPACE}/.scripts/validate.py" \
           --servers_dir servers \
-          --metadata_schema metadata.schema.json \
+          --metadata_schema "${GITHUB_WORKSPACE}/metadata.schema.json" \
           --inactive_file inactive.json \
-          --inactive_schema inactive.schema.json \
+          --inactive_schema "${GITHUB_WORKSPACE}/inactive.schema.json" \
           --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
-          BOT_PAT: ${{ secrets.BOT_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USE_ARGS: "true"
+
+      - name: Upload validation results
+        if: always() && github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-results
+          path: pr-contents/pr_results.json
+          if-no-files-found: ignore
 
   upload-servers:
     name: Upload Servers
@@ -88,7 +107,7 @@ jobs:
         with:
           workload_identity_provider: 'projects/824216268633/locations/global/workloadIdentityPools/github-actions/providers/github-actions-oidc'
           service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
-        
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
@@ -172,3 +191,4 @@ jobs:
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
             --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
+

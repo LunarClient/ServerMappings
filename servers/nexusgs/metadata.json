@@ -1,0 +1,29 @@
+{
+  "id": "nexusgs",
+  "name": "NexusGS",
+  "store": "https://shop.nexusgs.top/",
+  "description": "Spanish Minecraft server with custom survival gameplay.",
+  "addresses": [
+    "nexusgs.top"
+  ],
+  "primaryAddress": "mc.nexusgs.top",
+  "primaryColor": "#7D2181",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.10",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ]
+}

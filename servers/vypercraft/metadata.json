@@ -2,6 +2,7 @@
     "id": "vypercraft",
     "name": "VyperCraft Network",
     "store": "https://shop.vypercraft.net/",
+    "description": "Play Survival, PvP, and more on VyperCraft Network.",
     "addresses": [
         "vypercraft.net"
     ],

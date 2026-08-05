@@ -3,10 +3,12 @@
     "name": "Gamster",
     "website": "https://www.gamster.org/",
     "store": "https://web.gamster.org/",
+    "description": "We have ensured that we offer you the utmost secure systems&comma; enabling you",
     "addresses": [
         "gamster.org"
     ],
     "primaryAddress": "mc.gamster.org",
+    "offline": true,
     "primaryColor": "#7b4900",
     "secondaryColor": "#394246",
     "minecraftVersions": [
@@ -23,10 +25,21 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Creative",
         "Survival",
         "Skyblock",
-        "Prison"
+        "Prison",
+        "Factions",
+        "Anarchy",
+        "BoxPvP",
+        "KitPvP",
+        "Parkour",
+        "Practice",
+        "Soup PvP"
     ],
     "socials": {
         "twitter": "GamsterOrg",

@@ -1,8 +1,7 @@
 {
     "id": "turtled",
-    "name": "turtled",
-    "website": "https://turtled.net",
-    "store": "https://turtled.net/store",
+    "name": "Turtled",
+    "store": "https://turtledpvp.tebex.io/",
     "description": "A Minecraft PvP Practice server!",
     "addresses": [
         "turtled.net"
@@ -11,13 +10,26 @@
     "primaryColor": "#96f916",
     "secondaryColor": "#27dcc4",
     "minecraftVersions": [
-        "1.19",
-        "1.20"
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2"
     ],
-    "primaryMinecraftVersion": "1.20",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
+        "NA"
     ],
     "primaryLanguage": "en",
     "languages": [
@@ -27,6 +39,7 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/TmC9WcQR5f"
+        "discord": "https://discord.gg/e2YHaKKnQq",
+        "youtube": "UCXqAD0nXbK_0anc8PHVGBsA"
     }
 }

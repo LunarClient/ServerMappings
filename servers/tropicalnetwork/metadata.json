@@ -1,6 +1,7 @@
 {
     "id": "tropicalnetwork",
     "name": "TropicalNetwork",
+    "description": "Competitive PvP with a tropical twist.",
     "addresses": [
         "tropicalnetwork.hu"
     ],

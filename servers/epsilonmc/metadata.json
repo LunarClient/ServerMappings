@@ -3,6 +3,7 @@
     "name": "epsilonmc",
     "website": "https://epsilonmc.fr/",
     "store": "https://epsilonmc.fr/shop",
+    "description": "Play Factions and PvP on epsilonmc.",
     "addresses": [
         "epsilonmc.fr"
     ],

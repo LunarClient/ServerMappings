@@ -1,6 +1,7 @@
 {
     "id": "cherrypvp",
     "name": "CherryPVP",
+    "description": "Competitive PvP, UHC, and Survival all in one network.",
     "website": "https://www.cherrypvp.net/",
     "addresses": [
 		"cherrypvp.net",

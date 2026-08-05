@@ -2,6 +2,7 @@
     "id": "valon",
     "name": "Valon",
     "store": "https://store.valon.rip",
+    "description": "Test your combat skills on Valon.",
     "addresses": [
         "valon.rip"
     ],

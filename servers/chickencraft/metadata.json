@@ -3,6 +3,7 @@
     "name": "Chickencraft",
     "description": "The #1 server for BoxPVP, CrystalPvP, PvP-prac, Lifesteal and Randomkits!",
     "store": "https://shop.chickencraft.nl/",
+    "description": "Play PvP and Survival on Chickencraft.",
     "addresses": [
         "chickencraft.nl"
     ],
@@ -18,7 +19,8 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "26.1",
     "primaryRegion": "EU",
@@ -27,11 +29,18 @@
         "AS",
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
-        "Survival"
+        "Practice",
+        "KitPvP",
+        "BoxPvP",
+        "Lifesteal",
+        "Survival",
+        "Crystal PvP"
     ],
     "crossplay": true,
+    "offline": true,
     "presentationVideo": "SYRnzqlvv4g",
     "votingLinks": [
         "https://vote.chickencraft.nl/"

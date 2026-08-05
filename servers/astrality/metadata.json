@@ -1,0 +1,32 @@
+{
+  "id": "astrality",
+  "name": "Astrality",
+  "website": "https://www.astrality.net/",
+  "description": "MMO server with economy, quests, dungeons, and more features to explore online!",
+  "addresses": [
+    "astrality.net"
+  ],
+  "primaryAddress": "astrality.net",
+  "primaryColor": "#3F63FF",
+  "secondaryColor": "#95D4FF",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.1.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "crossplay": true,
+  "socials": {
+    "discord": "https://discord.gg/jR9nhWJfJ4"
+  }
+}

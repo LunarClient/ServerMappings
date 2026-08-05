@@ -21,9 +21,9 @@ MAJOR_ALL: dict[str, list[str]] = {
     "1.19.*": ["1.19", "1.19.2", "1.19.3", "1.19.4"],
     "1.20.*": ["1.20", "1.20.1", "1.20.2", "1.20.3", "1.20.4", "1.20.5", "1.20.6"],
     "1.21.*": ["1.21", "1.21.1", "1.21.2", "1.21.3", "1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10", "1.21.11"],
-    "26.*": ["26.1"]
+    "26.1.*": ["26.1", "26.1.1", "26.1.2"],
+    "26.2.*": ["26.2"],
 }
-
 
 def _file_hash(path: str) -> str:
     """Compute SHA1 hash of a file's contents."""
@@ -71,9 +71,11 @@ def get_all_servers(
         if "minecraftVersions" in server:
             server["minecraftVersions"] = get_all_versions(server["minecraftVersions"])
 
-        # Add primary game type
+        # Add primary game type, defaulting to the first listed if not set
         game_types = server.get("gameTypes", [])
-        server["primaryGameType"] = game_types[0] if game_types else None
+        server["primaryGameType"] = server.get("primaryGameType") or (
+            game_types[0] if game_types else None
+        )
 
         # Enrich server data
         if "id" not in server:
@@ -202,14 +204,18 @@ def get_edited_servers():
         print("No pull request id found. Unable to get edited servers")
         return edited_server_ids
 
+    token = os.getenv("GITHUB_TOKEN")
     res = requests.get(
-            f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
-            headers={
-                "accept": "application/vnd.github+json",
-                "Authorization": f"Bearer {os.getenv('BOT_PAT')}",
-            }
-        )
+        f"https://api.github.com/repos/LunarClient/ServerMappings/pulls/{pull_id}/files",
+        headers={
+            "accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {token}",
+        },
+        timeout=30,
+    )
     
+    res.raise_for_status()
+
     for file in res.json():
         file_name: str = file['filename']
         if not file_name.startswith("servers/"):

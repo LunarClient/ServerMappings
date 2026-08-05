@@ -1,0 +1,42 @@
+{
+    "id": "zonix",
+    "name": "Zonix",
+    "description": "Zonix | PvP Network",
+    "addresses": [
+        "zonix.com.br"
+    ],
+    "primaryAddress": "zonix.com.br",
+    "minecraftVersions": [
+        "1.7.*",
+		"1.8.*",
+		"1.12.*",
+		"1.16.*",
+		"1.17.*",
+		"1.18.*",
+		"1.19.*",
+		"1.20.*",
+		"1.21.*",
+		"26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryColor": "#960000",
+    "secondaryColor": "#820028",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.zonix.com.br/",
+    "store": "https://loja.zonix.com.br/",
+    "socials": {
+        "discord": "https://discord.gg/aFZ9GpkATr"
+    },
+    "crossplay": true
+}
