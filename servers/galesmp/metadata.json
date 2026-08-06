@@ -1,14 +1,14 @@
 {
-    "id": "voltsmp",
-    "name": "VoltSMP",
-    "store": "https://store.voltsmp.net/",
+    "id": "galesmp",
+    "name": "GaleSMP",
+    "store": "https://store.galesmp.net.net/",
     "description": "A Hardcore Minecraft SMP",
     "addresses": [
-        "voltsmp.net"
+        "galesmp.net"
     ],
-    "primaryAddress": "voltsmp.net",
-    "primaryColor": "#E7CE8E",
-    "secondaryColor": "#E7C66F",
+    "primaryAddress": "galesmp.net",
+    "primaryColor": "#9BB2DE",
+    "secondaryColor": "#7E89E5",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -38,7 +38,7 @@
     ],
     "socials": {
         "discord": "https://discord.com/invite/D74NzpSaSp",
-        "youtube": "playvoltsmp",
-        "tiktok": "@playvoltsmp"
+        "youtube": "galesmp",
+        "tiktok": "@galesmp"
     }
 }
