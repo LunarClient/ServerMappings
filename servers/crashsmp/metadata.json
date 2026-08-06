@@ -1,12 +1,9 @@
 {
     "id": "crashsmp",
     "name": "CRASH SMP NETWORK",
-    "website": "https://crashsmp.ro/",
-    "store": "https://crashsmp.ro/",
     "description": "It's a Minecraft community from Romania that wants to bring unique things.",
     "addresses": [
-        "crashsmp.ro",
-        "play.crashsmp.ro"
+        "crashsmp.ro"
     ],
     "primaryAddress": "play.crashsmp.ro",
     "primaryColor": "#D532D7",
@@ -52,13 +49,7 @@
         "youtube": "@BandanaaMC",
         "tiktok": "@play.crashsmp.ro"
     },
-    "compliance": {
-        "termsOfService": "https://crashsmp.ro/terms/",
-        "rules": "https://crashsmp.ro/rules/",
-        "support": "https://crashsmp.ro/forum"
-    },
     "votingLinks": [
         "https://minecraft-mp.com/server-s361669"
-    ],
-    "merch": "https://crashsmp./store"
+    ]
 }
