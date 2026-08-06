@@ -1,0 +1,51 @@
+{
+  "id": "voidcraftnetwork",
+  "name": "VoidCraft Network",
+  "website": "https://www.voidcraft.it",
+  "store": "https://store.voidcraft.it",
+  "description": "✨ Survival • Events • Crates • Community",
+  "addresses": [
+    "voidcraft.it"
+  ],
+  "primaryAddress": "play.voidcraft.it",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#680aff",
+  "secondaryColor": "#ffffff",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "LifeSteal"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://www.voidcraft.it/privacy",
+    "termsOfService": "https://www.voidcraft.it/terms",
+    "rules": "https://www.voidcraft.it/regole"
+  },
+  "socials": {
+    "discord": "https://discord.com/invite/voidcraft",
+    "twitch": "@VoidCraftNetwork",
+    "tiktok": "@voidcraftmcofficial",
+    "youtube": "@VoidCraftMCOfficial",
+    "instagram": "@VoidCraftMCOfficial"
+  },
+  "votingLinks": [
+    "https://minecraft-italia.net/lista/server/voidcraft"
+  ],
+  "crossplay": true,
+  "offline": true
+}
