@@ -41,5 +41,11 @@
         "termsOfService": "https://mindofneo.com/terms-of-service",
         "rules": "https://mindofneo.com/rules",
         "support": "https://discord.gg/mindofneo"
+    },
+    "modpack": {
+        "provider": "curseforge",
+        "id": "1622906",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }
