@@ -22,10 +22,15 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Tycoon",
     "gameTypes": [
         "PvP",
+        "Tycoon",
+        "Prison",
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "Parkour",
+        "PvE"
     ],
     "socials": {
         "twitter": "rinaorc",
