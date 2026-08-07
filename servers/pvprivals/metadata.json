@@ -34,6 +34,7 @@
     "primaryGameType": "PvP",
     "gameTypes": [
         "PvP",
+        "Soup PvP",
         "UHC",
         "Competitive",
         "Practice"
