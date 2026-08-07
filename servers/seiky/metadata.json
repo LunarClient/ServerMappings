@@ -24,15 +24,14 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "OneBlock",
-        "Competitive",
+        "Crystal PvP",
         "UHC",
+        "Competitive",
+        "Survival",
         "PvP",
         "Casual",
         "Practice",
-        "Crystal PvP",
+        "OneBlock",
         "Minigames"
     ],
     "primaryGameType": "Crystal PvP",
