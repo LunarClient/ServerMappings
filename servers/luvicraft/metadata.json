@@ -2,6 +2,7 @@
     "id": "luvicraft",
     "name": "LuviCraft",
     "store": "https://store.luvicraft.net/",
+    "description": "Play PvP and Survival on LuviCraft.",
     "addresses": [
         "luvicraft.net"
     ],

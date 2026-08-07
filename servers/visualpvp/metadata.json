@@ -1,6 +1,7 @@
 {
     "id": "visualpvp",
     "name": "VisualPvP",
+    "description": "European PvP practice spanning 1.7 to modern versions.",
     "website": "https://visualpvp.com/",
     "store": "https://store.visualpvp.com/",
     "addresses": [

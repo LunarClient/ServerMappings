@@ -3,6 +3,7 @@
     "name": "NanoMC",
     "website": "https://nanomc.pl/",
     "store": "https://nanomc.pl/#modes",
+    "description": "Play Survival and PvP on NanoMC.",
     "addresses": [
         "nanomc.pl"
     ],

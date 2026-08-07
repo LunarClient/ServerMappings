@@ -7,7 +7,9 @@
     "addresses": [
         "realcraftmc.nl",
         "hardcoresmp.eu",
-        "hardcoremc.nl"
+        "hardcoresmp.nl",
+        "hardcoremc.nl",
+        "mcpvp.nl"
     ],
     "primaryAddress": "play.realcraftmc.nl",
     "primaryColor": "#4f8910",
@@ -16,7 +18,7 @@
         "1.21.10",
         "1.21.11"
     ],
-    "primaryMinecraftVersion": "1.21.10",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [

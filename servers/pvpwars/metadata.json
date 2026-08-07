@@ -3,6 +3,7 @@
     "name": "PvPWars",
     "website": "https://pvpwars.net/",
     "store": "https://shop.pvpwars.net/",
+    "description": "Step into PvPWars, the ultimate Minecraft server for both Java and Bedrock",
     "addresses": [
         "pvpwars.net"
     ],

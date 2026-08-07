@@ -2,6 +2,7 @@
     "id": "infernummc",
     "name": "InfernumMC",
     "store": "https://tienda.infernummc.net/",
+    "description": "Test your combat skills on InfernumMC.",
     "addresses": [
         "infernummc.net"
     ],

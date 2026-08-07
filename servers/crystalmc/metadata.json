@@ -3,6 +3,7 @@
     "name": "CrystalMC",
     "website": "https://crystalmc.fr/",
     "store": "https://boutique.crystalmc.fr",
+    "description": "Play Factions and PvP on CrystalMC.",
     "addresses": [
         "crystalmc.fr"
     ],

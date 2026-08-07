@@ -2,6 +2,7 @@
     "id": "zenithmcnetwork",
     "name": "Zenith Network",
     "store": "https://tienda.zenithmc.net/",
+    "description": "Play PvP, Survival, and more on Zenith Network.",
     "addresses": [
         "zenithmc.net"
     ],

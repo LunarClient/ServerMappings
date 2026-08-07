@@ -2,6 +2,7 @@
     "id": "blockmania",
     "name": "BlockMania",
     "store": "http://shop.blockmania.com",
+    "description": "Play Parkour and PvP on BlockMania.",
     "addresses": [
         "blockmania.com",
         "ezpvp.com",

@@ -1,6 +1,7 @@
 {
     "id": "sundark",
     "name": "Sundark UHC",
+    "description": "Intense French UHC battles on a classic 1.8 PvP server.",
     "addresses": [
         "sundark.fr"
     ],

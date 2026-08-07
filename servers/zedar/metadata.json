@@ -2,6 +2,7 @@
     "id": "zedar",
     "name": "ZedarMC",
     "store": "https://shop.zedarmc.com/",
+    "description": "Experience survival gameplay on ZedarMC.",
     "addresses": [
         "zedar.xyz"
     ],

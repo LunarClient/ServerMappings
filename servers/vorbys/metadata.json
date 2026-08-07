@@ -1,0 +1,32 @@
+{
+    "id": "vorbys",
+    "name": "Vorbys",
+    "description": "Italian Skyblock and Survival server with the unique BorderBlock gamemode",
+    "addresses": [
+        "vorbys.it"
+    ],
+    "primaryAddress": "play.vorbys.it",
+    "minecraftVersions": [
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#7A3FB5",
+    "secondaryColor": "#E8B45C",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Survival"
+    ],
+    "primaryGameType": "Skyblock",
+    "store": "https://store.vorbys.it",
+    "socials": {
+        "discord": "https://discord.gg/7QWeMfPmcp"
+    }
+}

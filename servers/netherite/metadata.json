@@ -7,7 +7,7 @@
     "addresses": [
         "netherite.gg"
     ],
-    "primaryAddress": "lc.netherite.gg",
+    "primaryAddress": "netherite.gg",
     "primaryColor": "#d34047",
     "secondaryColor": "#191515",
     "minecraftVersions": [
@@ -29,10 +29,11 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Lifesteal",
     "gameTypes": [
         "Skyblock",
-        "Prison",
-        "Survival"
+        "Survival",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "PlayNetherite",

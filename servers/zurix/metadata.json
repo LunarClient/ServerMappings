@@ -2,6 +2,7 @@
     "id": "zurix",
     "name": "Zurix Network",
     "store": "https://www.zurix.us/store/",
+    "description": "Play HCF and PvP on Zurix Network.",
     "addresses": [
         "zurix.us"
     ],

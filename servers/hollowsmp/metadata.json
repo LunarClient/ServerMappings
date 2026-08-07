@@ -1,0 +1,30 @@
+{
+  "id": "hollowsmp",
+  "name": "HollowSMP",
+  "description": "Semi-hardcore survival focused on PvP, exploration, and player conflict.",
+  "addresses": [
+    "hollowsmp.pro"
+  ],
+  "primaryAddress": "play.hollowsmp.pro",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#6F3CC3",
+  "secondaryColor": "#D9F4F2",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Open World"
+  ],
+  "primaryGameType": "Survival",
+  "crossplay": false
+}

@@ -2,6 +2,7 @@
     "id": "parraland",
     "name": "Parraland Network",
     "store": "https://tienda.parraland.es",
+    "description": "Play PvP and Survival on Parraland Network.",
     "addresses": [
         "parraland.es"
     ],

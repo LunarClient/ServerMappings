@@ -2,6 +2,7 @@
     "id": "redmc",
     "name": "RedMC Network",
     "store": "https://tienda.red-mc.net/",
+    "description": "Play PvP and Survival on RedMC Network.",
     "addresses": [
         "red-mc.net"
     ],

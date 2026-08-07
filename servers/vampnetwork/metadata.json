@@ -1,6 +1,7 @@
 {
     "id": "vampnetwork",
     "name": "VAMP Network",
+    "description": "Minigames and Survival for Java and Bedrock players alike.",
     "addresses": [
         "vampmc.fun"
     ],

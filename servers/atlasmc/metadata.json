@@ -2,6 +2,7 @@
     "id": "atlasmc",
     "name": "AtlasMC",
     "store": "https://store.atlasmc.it/",
+    "description": "Play Survival and PvP on AtlasMC.",
     "addresses": [
         "atlasmc.it"
     ],

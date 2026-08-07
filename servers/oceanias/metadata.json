@@ -32,10 +32,13 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
         "UHC",
-        "Survival"
+        "Survival",
+        "Practice",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "oceaniasnetwork",
