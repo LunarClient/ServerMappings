@@ -44,7 +44,5 @@
     "rules": "https://www.aquaticmc.it/regolamento.html"
   },
 
-  "store": {
-    "url": "https://store.aquaticmc.it"
-  }
+  "store": "https://store.aquaticmc.it"
 }
