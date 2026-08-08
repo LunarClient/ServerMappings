@@ -1,13 +1,13 @@
 {
-    "id": "hopemc",
-    "name": "HopeMC",
-    "description": "Play exciting minigames on HopeMC.",
+    "id": "kekesmc",
+    "name": "KekesMC",
+    "description": "Play exciting minigames on KekesMC.",
     "addresses": [
-        "hopemc.us"
+        "keke.live"
     ],
-    "primaryAddress": "hopemc.us",
-    "primaryColor": "#a6050d",
-    "secondaryColor": "#2007e3",
+    "primaryAddress": "keke.live",
+    "primaryColor": "#D89047",
+    "secondaryColor": "#3B95EA",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -26,6 +26,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/cjcdUGP2p3"
+        "discord": "https://discord.gg/zHVgq3u6hH"
     }
 }
