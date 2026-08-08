@@ -1,0 +1,37 @@
+{
+    "id": "signalsmp",
+    "name": "SignalSMP",
+    "website": "https://signalsmp.com",
+    "store": "https://store.signalsmp.com/",
+    "description": "A crystal shop survival server for the base raiding community.",
+    "addresses": [
+        "signalsmp.com",
+        "signalsmp.net",
+        "signalsmp.org"
+    ],
+    "primaryAddress": "signalsmp.com",
+    "primaryColor": "#B7BCC4",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA East"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/signalsmp",
+        "youtube": "https://www.youtube.com/@signalsmp",
+        "tiktok": "https://www.tiktok.com/@signal_smp"
+    }
+}
