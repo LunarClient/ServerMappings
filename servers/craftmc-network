@@ -1,0 +1,32 @@
+{
+  "id": "craftmc-network",
+  "name": "CraftMC Network",
+  "website": "https://shop.craftmc.eu",
+  "description": "CraftMC Network - RiftWars | Kingdoms",
+  "addresses": [
+    "play.craftmc.eu"
+  ],
+  "primaryAddress": "play.craftmc.eu",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#55FF55",
+  "secondaryColor": "#E53935",
+  "primaryLanguage": "hu",
+  "languages": [
+    "hu",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/eFPSbHaMXs"
+  }
+}
