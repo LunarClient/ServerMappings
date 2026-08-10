@@ -6,9 +6,7 @@
         "criticalnetwork.top"
     ],
     "primaryAddress": "criticalnetwork.top",
-    "website": "https://criticalnetwork.top",
     "minecraftVersions": [
-        "1.21",
         "1.21.*",
         "26.1.*",
         "26.2"        
@@ -18,7 +16,7 @@
     "secondaryColor": "#570000",
     "primaryLanguage": "en",    
     "languages": [
-        "en",    
+        "en"
     ],        
     "primaryRegion": "NA",
     "regions": [
@@ -40,7 +38,7 @@
         "youtube": "@ilycryptic"
     },
     "votingLinks": [
-        "https://www.criticalnetwork.top/vote/"
-    },
+        "https://criticalnetwork.top/vote",
+    ],
     "crossplay": true
 }
