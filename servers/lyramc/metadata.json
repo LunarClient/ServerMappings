@@ -9,7 +9,8 @@
     "secondaryColor": "#F3D88F",
     "minecraftVersions": [
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryLanguage": "en",

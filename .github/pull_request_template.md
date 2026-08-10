@@ -23,8 +23,10 @@
     -   [ ] `secondaryColor`: a hexademical color code that accompanies the `primaryColor` of the server _(ex. `#FF0000`)_
     -   [ ] `primaryRegion`: the primary region where your server operates in _(ex. `NA`)_
     -   [ ] `regions`: a list of regions where you have servers located that service your players _(ex. `["NA", "EU", "AS"]`)_
-    -   [ ] `gameTypes`: a list of games that describe the content on your server, must be a max of 3 listed _(ez. `["PVP", "UHC", "HCF"]`)_
+    -   [ ] `gameTypes`: a list of games that describe the content on your server _(ex. `["PvP", "UHC", "HCF"]`)_
+    -   [ ] (optional) `primaryGameType`: the single game type that best represents your server, must be one of your `gameTypes` _(ex. `PvP`)_
     -   [ ] `crossplay`: whether the server has support for Bedrock Edition players (through proxies such as [GeyserMC](https://geysermc.org/))
+    -   [ ] (optional) `offline`: whether the server accepts offline connections
     -   [ ] (optional) `presentationVideo`: YouTube video ID (in slug) to server trailer / introduction _(ex. `7EV4cPuJvXE`)_
     -   [ ] (optional) `votingLinks`: an array of urls to your server's listing on voting websites _(ex. `["https://minecraft-mp.com/server-s179012"]`)_
     -   [ ] (optional) `website`: url of server website, must include URL schema (http:// or https://) _(ex. `https://www.your-server.com`)_

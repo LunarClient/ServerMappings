@@ -1,0 +1,38 @@
+
+{
+    "id": "astralmc",
+    "name": "Astral Network",
+    "description": "Astral is the chillest Minecraft Network out there!",
+    "addresses": [
+        "astralmc.sbs"   
+    ],
+    "primaryAddress": "play.astralmc.sbs",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#0099ff",
+    "secondaryColor": "#add6ff",
+    "primaryLanguage": "en",
+    "languages": [
+       "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",       
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/BwfCu6YBga"
+    },
+    "crossplay": false
+}

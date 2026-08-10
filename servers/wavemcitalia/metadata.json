@@ -1,0 +1,43 @@
+{
+  "id": "wavemcitalia",
+  "name": "WaveMC",
+  "description": "Join our server to play the best gamemodes",
+  "addresses": [
+    "wavemc.me"
+  ],
+  "primaryAddress": "play.wavemc.me",
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "primaryColor": "#00A2FF",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://www.wavemc.me",
+  "store": "https://store.wavemc.me",
+  "socials": {
+    "discord": "https://discord.com/invite/c4TvwdJwg6",
+    "youtube": "@wavemcitalia",
+    "tiktok": "@wavemc.me"
+  },
+  "compliance": {
+    "privacyPolicy": "https://www.wavemc.me/privacy/",
+    "termsOfService": "https://www.wavemc.me/terms/",
+    "rules": "https://www.wavemc.me/forum/topic/2-regolamento-wavemc/#post-2"
+  }
+}
