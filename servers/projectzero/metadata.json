@@ -27,6 +27,11 @@
     "26.*.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "IL",
+  "regions": [
+    "IL"
+  ],
+  "crossplay": false,
   "primaryGameType": "BedWars",
   "gameTypes": [
     "Minigames",
