@@ -10,9 +10,8 @@
   "primaryAddress": "projectzero.co.il",
   "primaryColor": "#00AA00",
   "secondaryColor": "#55FF55",
-  "primaryLanguage": "he",
+  "primaryLanguage": "en",
   "languages": [
-    "he",
     "en"
   ],
   "minecraftVersions": [
