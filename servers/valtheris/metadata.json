@@ -1,0 +1,28 @@
+{
+    "id": "valtheris",
+    "name": "Valtheris Network",
+    "store": "https://store.valtheris.ro/",
+    "description": "New modern network with unique features",
+    "addresses": [
+        "valtheris.ro"
+    ],
+    "primaryAddress": "play.valtheris.ro",
+    "primaryColor": "#FF7A18",
+    "secondaryColor": "#FFB347",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "BoxPvP",
+    "gameTypes": [
+        "Survival",
+        "Tycoon",
+        "Hardcore",
+        "PvP"
+    ]
+}
