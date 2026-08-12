@@ -19,7 +19,8 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU"
+        "EU",
+        "NA"
     ],
     "primaryGameType": "Survival",
     "gameTypes": [
