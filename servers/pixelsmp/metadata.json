@@ -1,0 +1,23 @@
+{
+  "id": "pixelsmp",
+  "name": "Pixel SMP",
+  "description": "PvP-based Semi-Vanilla Minecraft SMP",
+  "addresses": [
+    "PixelSMP.purpify.host"
+  ],
+  "primaryAddress": "PixelSMP.purpify.host",
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "crossplay": false
+}
