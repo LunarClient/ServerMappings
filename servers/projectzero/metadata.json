@@ -1,0 +1,44 @@
+{
+  "id": "projectzero",
+  "name": "ProjectZero",
+  "website": "https://projectzero.co.il/",
+  "description": "Custom Hypixel-inspired BedWars community",
+  "addresses": [
+    "projectzero.co.il",
+    "project0.co.il"
+  ],
+  "primaryAddress": "projectzero.co.il",
+  "primaryColor": "#00AA00",
+  "secondaryColor": "#55FF55",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "crossplay": false,
+  "primaryGameType": "Minigames",
+  "gameTypes": [
+    "Minigames",
+    "PvP"
+  ],
+  "socials": {
+    "youtube": "apartium",
+    "discord": "https://discord.com/invite/4gfk48gv9z"
+  }
+}
