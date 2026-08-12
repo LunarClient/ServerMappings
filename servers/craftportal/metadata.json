@@ -1,0 +1,34 @@
+{
+  "id": "craftportal",
+  "name": "Craftportal",
+  "description": "German Minecraft Citybuild network with CITYBUILD1 and CITYBUILD2.",
+  "addresses": [
+    "craftportal.net"
+  ],
+  "primaryAddress": "craftportal.net",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#00bf00",
+  "secondaryColor": "#000000",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "de"
+  ],
+  "primaryLanguage": "de",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://craftportal.net/",
+  "socials": {
+    "discord": "https://discord.com/invite/JNgaGA6Wgv",
+    "youtube": "@craftportal_net",
+    "tiktok": "@craftportal_net"
+  },
+  "crossplay": true
+}
