@@ -19,5 +19,8 @@
     "PvP",
     "Survival"
   ],
+  "socials": {
+    "discord": "https://discord.gg/kw5jkJ2m3M"
+  },
   "crossplay": false
 }
