@@ -8,7 +8,7 @@
         "typemc.com"
     ],
     "primaryAddress": "play.typemc.com",
-    "primaryColor": "##3480eb",
+    "primaryColor": "#3480eb",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.21.*",
