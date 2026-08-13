@@ -1,0 +1,39 @@
+{
+  "id": "repeatsmp",
+  "name": "Repeat SMP",
+  "website": "https://repeatsmp.com",
+  "store": "https://store.repeatsmp.com",
+  "description": "Community-driven survival with seasonal content and custom features.",
+  "addresses": [
+    "repeatsmp.com"
+  ],
+  "primaryAddress": "repeatsmp.com",
+  "minecraftVersions": [
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryColor": "#D64040",
+  "secondaryColor": "#1A1A1A",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Vanilla"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://repeatsmp.com/privacy",
+    "termsOfService": "https://repeatsmp.com/terms",
+    "rules": "https://repeatsmp.com/rules"
+  },
+  "socials": {
+    "discord": "https://discord.gg/YvFUNCBSjB",
+    "youtube": "@RepeatSMP"
+  },
+  "crossplay": false
+}
