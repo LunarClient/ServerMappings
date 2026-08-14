@@ -21,10 +21,11 @@
   "regions": [
     "EU"
   ],
-  "gameTypes": [
-    "SMP",
-    "Skyblock",
-    "BedWars"
-  ],
+"gameTypes": [
+  "Survival",
+  "Skyblock",
+  "Minigames",
+  "PvP"
+],
   "crossplay": false
 }
