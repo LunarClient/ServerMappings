@@ -1,0 +1,62 @@
+{
+  "id": "apexsmp",
+  "name": "ApexSMP",
+  "description": "Competitive Survival with PvP, events and custom content.",
+  "addresses": [
+    "apexsmp.bbmc.fun"
+  ],
+  "primaryAddress": "apexsmp.bbmc.fun",
+  "minecraftVersions": [
+    "1.12.2",
+    "1.16.5",
+    "1.17.1",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Competitive"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#00BFFF",
+  "secondaryColor": "#0066FF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "website": "https://storeapex.base44.app/",
+  "store": "https://storeapex.base44.app/",
+  "socials": {
+    "discord": "https://discord.gg/33nxYGHBHS",
+    "youtube": "@officialapexsmp",
+    "tiktok": "@official_apexsmp"
+  },
+  "crossplay": true,
+  "offline": true
+}
