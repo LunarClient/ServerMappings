@@ -1,6 +1,7 @@
 {
     "id": "astralixmc",
     "name": "AstralixMC",
+    "description": "Play fun Gamemodes on AstralixMC",
     "addresses": [
         "astralixmc.hu"
     ],
