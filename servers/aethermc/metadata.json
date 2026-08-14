@@ -1,8 +1,32 @@
 {
   "id": "aethermc",
   "name": "AetherMC",
-  "description": "AetherMC Minecraft Server",
+  "description": "A Minecraft server offering exciting BoxPvP gameplay.",
   "addresses": [
-    "aethermc.minecraftjoin.xyz"
-  ]
+    "minecraftjoin.xyz"
+  ],
+  "primaryAddress": "aethermc.minecraftjoin.xyz",
+  "gameTypes": [
+    "BoxPvP"
+  ],
+  "primaryGameType": "BoxPvP",
+  "primaryColor": "#8000FF",
+  "secondaryColor": "#B000FF",
+  "minecraftVersions": [
+    "1.20.4",
+    "1.21.11",
+    "26.1"
+  ],
+  "primaryMinecraftVersion": "1.20.4",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.gg/eaxhJq4JaZ"
+  }
 }
