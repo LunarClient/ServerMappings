@@ -1,6 +1,7 @@
 {
     "id": "hexalon",
     "name": "Hexalon",
+    "description": "Play fun Gamemodes on Hexalon",
     "addresses": [
         "hexalon.eu"
     ],
