@@ -1,0 +1,28 @@
+{
+    "id": "nordical",
+    "name": "Nordical Network",
+    "store": "https://tienda.noridcal.net/",
+    "description": "Spanish-speaking Minecraft network focused on Survival OP, PvP",
+    "addresses": [
+        "nordical.net"
+    ],
+    "primaryAddress": "nordical.net",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/nordical",
+        "tiktok": "@khaosmc"
+    }
+}

@@ -1,18 +1,19 @@
 {
     "id": "cursemc",
     "name": "CurseMC Network",
-    "store": "https://tienda.cursemc.club",
+    "store": "https://tienda.cursemc.com",
     "description": "Play PvP and Survival on CurseMC Network.",
     "addresses": [
-        "cursemc.club"
+        "cursemc.com"
     ],
-    "primaryAddress": "cursemc.club",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#ff0000",
+    "primaryAddress": "cursemc.com",
+    "primaryColor": "#A500F8",
+    "secondaryColor": "#A500F8",
     "minecraftVersions": [
-        "1.21.*"
+        "1.21.*",
+        "1.20.*"
     ],
-    "primaryMinecraftVersion": "1.21.4",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -27,6 +28,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/pzaNeSVPKx"
+        "discord": "https://discord.gg/ctn9uFT8nr",
+        "twitter": "cursemcnet"
     }
 }

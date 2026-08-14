@@ -1,27 +1,29 @@
 {
     "id": "airdale",
-    "name": "Airidale Network",
-    "website": "https://www.airidale.com/",
-    "store": "https://store.airidale.net/",
-    "description": "Play Prison and Survival on Airidale Network.",
+    "name": "Airidale",
+    "website": "https://airidale.net",
+    "store": "https://store.airidale.net",
+    "compliance": {
+        "termsOfService": "https://store.airidale.net/terms/checkout",
+        "privacyPolicy": "https://store.airidale.net/terms/privacy"
+    },
+    "description": "A classic prison server rebuilt for a new era.",
     "addresses": [
+        "airidale.net",
         "airidale.com"
     ],
-    "primaryAddress": "play.airidale.com",
+    "primaryAddress": "play.airidale.net",
     "primaryColor": "#1b7198",
     "secondaryColor": "#4a5458",
     "minecraftVersions": [
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.21.*",
+        "26.1.*"
     ],
-    "primaryMinecraftVersion": "1.19.3",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": false,
-    "primaryRegion": "EU",
+    "primaryRegion": "NA",
     "regions": [
+        "NA",
         "EU"
     ],
     "primaryLanguage": "en",
@@ -29,12 +31,12 @@
         "en"
     ],
     "gameTypes": [
-        "Prison",
-        "Survival"
+        "Prison"
     ],
+    "primaryGameType": "Prison",
     "socials": {
         "twitter": "AiridaleMC",
-        "discord": "https://discord.com/invite/kxd8RVW",
+        "discord": "https://discord.gg/airidale",
         "tiktok": "@airidalemc"
     }
 }

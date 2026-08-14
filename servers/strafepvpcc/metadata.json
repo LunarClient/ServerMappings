@@ -1,17 +1,17 @@
 {
     "id": "strafepvpcc",
     "name": "StrafePvP",
-    "description": "Magical world of both HCFactions and BoxPvP.",
+    "description": "Magical world of both HCFactions.",
     "addresses": [
-        "strafepvp.cc"
+        "strafepvp.cc",
+        "strafe.rip"
     ],
     "primaryAddress": "strafepvp.cc",
     "primaryColor": "#e67e26",
     "secondaryColor": "#fff000",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*",
-        "1.21.*"
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
@@ -30,6 +30,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/strafepvp"
+        "discord": "https://discord.gg/jh636CGwCQ"
     }
 }
