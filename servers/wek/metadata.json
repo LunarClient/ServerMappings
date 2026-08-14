@@ -1,13 +1,13 @@
 {
-    "id": "Wek",
+    "id": "wek",
     "name": "Wek Network",
-    "store": "https://store.Wek.gg",
+    "store": "https://store.wek.gg",
     "description": "A mysterious Server",
     "addresses": [
-        "Wek.gg"
+        "wek.gg"
     ],
-    "primaryAddress": "Wek.gg",
-    "primaryColor": "＃00FFFF",
+    "primaryAddress": "wek.gg",
+    "primaryColor": "#00FFFF",
     "secondaryColor": "#808080",
     "minecraftVersions": [
         "1.7.*",
@@ -27,6 +27,7 @@
         "PvP",
         "Minigames"
     ],
+    "primaryGameType": "PvP",
     "socials": {
         "discord": "https://discord.gg/JZ6pTARAK"
     }
