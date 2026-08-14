@@ -1,0 +1,29 @@
+{
+    "id": "jwlyrivals",
+    "name": "Jwlyrivals",
+    "description": "Survival.",
+    "addresses": [
+        "jwlyrivals.de",
+        "dev.jwlyrivals.de"
+    ],
+    "primaryAddress": "jwlyrivals.de",
+    "primaryColor": "#AAAAAA",
+    "secondaryColor": "#AA0000",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7Mm5yewgJf",
+        "twitch": "jjwlyy",
+        "tiktok": "@jjwlyy"
+    }
+}
