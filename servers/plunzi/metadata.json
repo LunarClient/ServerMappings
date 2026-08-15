@@ -10,7 +10,7 @@
     "primaryColor": "#e53630",
     "secondaryColor": "#ffaa00",
     "minecraftVersions": [
-        "1.21.*"
+        "26.2"
     ],
     "primaryMinecraftVersion": "26.2",
     "crossplay": false,
@@ -27,6 +27,7 @@
         "Minigames",
         "Parkour"
     ],
+    "offline": false,
     "socials": {
         "discord": "https://discord.gg/2tz9nPJuhb",
         "twitter": "plunzish",
