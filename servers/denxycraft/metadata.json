@@ -1,30 +1,35 @@
 {
-  "id": "denxycraft",
-  "name": "DenxyCraft",
-  "description": "Family-friendly survival SMP with jobs, economy, claims, and quests.",
-  "addresses": [
-    "denxycraft.org"
-  ],
-  "primaryAddress": "play.denxycraft.org",
-  "minecraftVersions": [
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.8",
-  "primaryColor": "#FF69B4",
-  "secondaryColor": "#FFFFFF",
-  "primaryLanguage": "en",
-  "languages": [
-    "en"
-  ],
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "gameTypes": [
-    "Survival",
-    "Casual",
-    "Open World"
-  ],
-  "primaryGameType": "Survival",
-  "crossplay": true
+    "id": "denxycraft",
+    "name": "DenxyCraft",
+    "description": "Family-friendly survival SMP with jobs, economy, claims, and quests.",
+    "addresses": [
+        "denxycraft.org"
+    ],
+    "primaryAddress": "play.denxycraft.org",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#FF69B4",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Casual",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "twitter": "denxycraft",
+        "discord": "https://discord.gg/gcBQYTcAJ3",
+        "youtube": "@DenxyCraft"
+    },
+    "crossplay": true
 }
