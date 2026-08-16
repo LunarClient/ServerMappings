@@ -1,0 +1,38 @@
+{
+    "id": "plunzi",
+    "name": "Plunzi Network",
+    "website": "https://plunzi.net",
+    "description": "A server that cares about you, offering Bridge, Parkour, PunchOut and more",
+    "addresses": [
+        "plunzi.net"
+    ],
+    "primaryAddress": "plunzi.net",
+    "primaryColor": "#e53630",
+    "secondaryColor": "#ffaa00",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Parkour"
+    ],
+    "offline": false,
+    "socials": {
+        "discord": "https://discord.gg/2tz9nPJuhb",
+        "twitter": "plunzish",
+        "youtube": "@plunzish",
+        "instagram": "plunzish",
+        "tiktok": "@plunzish"
+    }
+}
