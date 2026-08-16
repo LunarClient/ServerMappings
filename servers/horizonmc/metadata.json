@@ -2,8 +2,9 @@
     "id": "horizonmc",
     "name": "HorizonMC",
     "description": "Hungary's best minecraft server!",
-    "addresses": []
-    ],
+    "addresses": [
+        "horizonmc.hu"
+    ]
     "primaryAddress": "play.horizonmc.hu",
     "minecraftVersions": [
         "1.20.*",
@@ -22,5 +23,5 @@
     "primaryGameType": "PvP",
     },
     "crossplay": false
-    ]
+    }
 }
