@@ -20,10 +20,6 @@
     "gameTypes": [
         "PvP"
     ],
-    "primaryGameType": "PvP",
-    },
-    "crossplay": false
-    }
     "socials": {
         "discord": "https://discord.gg/Mc92zFJEtU",
     }
