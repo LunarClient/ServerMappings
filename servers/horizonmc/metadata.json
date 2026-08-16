@@ -1,7 +1,7 @@
 {
     "id": "horizonmc",
     "name": "HorizonMC",
-    "description": "Magyarország legjobb hálózata!",
+    "description": "Hungary's best minecraft server!",
     "addresses": []
     ],
     "primaryAddress": "play.horizonmc.hu",
@@ -20,15 +20,6 @@
         "PvP"
     ],
     "primaryGameType": "PvP",
-    "website": "https://horizonmc.hu",
-    "store": "https://bolt.horizonmc.hu",
-    "compliance": {
-        "privacyPolicy": "https://bolt.horizonmc.hu/legal/privacy",
-        "termsOfService": "https://bolt.horizonmc.hu/legal/terms",
-        "rules": "https://horizonmc.hu#Szabályzat"
-    },
-    "socials": {
-        "discord": "https://discord.gg/Mc92zFJEtU"
     },
     "crossplay": false
 }
