@@ -1,34 +1,34 @@
 {
     "id": "lencraft",
-    "name": "Lencraft Network",
-    "website": "https://lencraft.me",
+    "name": "Lencraft",
     "description": "The best FullPvP and BedWars 1.8.9 server",
     "addresses": [
-        "lencraft.me"
+        "lencraft.net"
     ],
-    "primaryAddress": "mc.lencraft.me",
-    "primaryColor": "#FF5555",
-    "secondaryColor": "#FFFFFF",
+    "primaryAddress": "lencraft.net",
     "minecraftVersions": [
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "es",
+    "languages": [
+        "es",
+        "en"
+    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Hardcore"
     ],
+    "website": "https://lencraft.net",
     "socials": {
         "discord": "https://discord.gg/SBK5MsYwYm"
-    }
+    },
+    "crossplay": false
 }
