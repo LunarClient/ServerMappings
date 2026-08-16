@@ -1,6 +1,6 @@
 {
     "id": "lencraft",
-    "name": "Lencraft",
+    "name": "LenCraft",
     "description": "The best FullPvP and BedWars 1.8.9 server",
     "addresses": [
         "lencraft.net"
@@ -12,9 +12,9 @@
     "primaryMinecraftVersion": "1.8.9",
     "primaryColor": "#FF5555",
     "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es",
+        "es-EN",
         "en"
     ],
     "primaryRegion": "NA",
