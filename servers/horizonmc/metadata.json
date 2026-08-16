@@ -1,0 +1,38 @@
+{
+    "id": "horizonmc",
+    "name": "HorizonMC",
+    "description": "Magyarország legjobb hálózata!",
+    "addresses": []
+    ],
+    "primaryAddress": "play.horizonmc.hu",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#B148FA",
+    "secondaryColor": "#8639FF",
+    "primaryLanguage": "hu",
+    "languages": [
+        "hu"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://horizonmc.hu",
+    "store": "https://bolt.horizonmc.hu",
+    "compliance": {
+        "privacyPolicy": "https://bolt.horizonmc.hu/legal/privacy",
+        "termsOfService": "https://bolt.horizonmc.hu/legal/terms",
+        "rules": "https://horizonmc.hu#Szabályzat"
+    },
+    "socials": {
+        "discord": "https://discord.gg/Mc92zFJEtU"
+    },
+    "crossplay": false
+}
