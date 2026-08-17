@@ -2,7 +2,7 @@
     "id": "mastersmp",
     "name": "MasterSMP",
     "store": "https://store.mastersmp.net/",
-    "description": "A Minecraft Server where you try to become the best player by grinding to get loot and by fighting others.",
+    "description": "Grind for loot, build your power, and fight to become the best player.",
     "addresses": [
         "mastersmp.net"
     ],
@@ -31,8 +31,8 @@
     "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
-        "CPvP",
-        "Semi-Anarchy",
+        "Crystal PvP",
+        "Anarchy",
         "PvP"
     ],
     "crossplay": true,
