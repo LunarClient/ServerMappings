@@ -34,5 +34,7 @@
         "CPvP",
         "Semi-Anarchy",
         "PvP"
-    ]
+    ],
+    "crossplay": true,
+    "offline": true
 }
