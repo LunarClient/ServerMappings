@@ -1,0 +1,35 @@
+{
+    "id": "globmc",
+    "name": "GlobMC",
+    "store": "https://sklep.globmc.pl/",
+    "description": "The best Polish survival server!",
+    "addresses": [
+        "globmc.pl"
+    ],
+    "primaryAddress": "globmc.pl",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#B8860B",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Casual",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "offline": true,
+    "socials": {
+        "discord": "https://discord.com/invite/ApygwthSup"
+    }
+}

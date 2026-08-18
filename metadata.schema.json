@@ -126,13 +126,19 @@
             "type": "object",
             "additionalProperties": false,
             "properties": {
+                "provider": {
+                    "type": "string",
+                    "enum": ["modrinth", "curseforge"],
+                    "default": "modrinth",
+                    "description": "The platform hosting the modpack. If blank, defaults to Modrinth."
+                },
                 "id": {
                     "type": "string",
-                    "description": "The Modrinth Modpack ID."
+                    "description": "The Modpack ID on the given provider (Modrinth project ID or CurseForge mod ID)."
                 },
                 "recommendedVersion": {
                     "type": "string",
-                    "description": "The recommended Modrinth Modpack version. If blank, will use latest version."
+                    "description": "The recommended Modpack version. If blank, will use latest version."
                 },
                 "recommendedReleaseChannel": {
                     "type": "string",

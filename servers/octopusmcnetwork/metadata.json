@@ -1,0 +1,39 @@
+{
+    "id": "octopusmcnetwork",
+    "name": "OctopusMC Network",
+    "description": "Home of Italian LifeSteal players.",
+    "addresses": [
+        "octopusmc.it"
+    ],
+    "primaryAddress": "play.octopusmc.it",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#20c7cc",
+    "secondaryColor": "#b7fdff",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Lifesteal"
+    ],
+    "primaryGameType": "Lifesteal",
+    "website": "https://octopusmc.it",
+    "compliance": {
+        "privacyPolicy": "https://octopusmc.it/privacy",
+        "termsOfService": "https://octopusmc.it/terms",
+        "rules": "https://octopusmc.it/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/5SVu5hTHFH"
+    },
+    "crossplay": false
+}

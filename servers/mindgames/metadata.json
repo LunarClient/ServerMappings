@@ -1,0 +1,51 @@
+{
+    "id": "mindgames",
+    "name": "Mind Games",
+    "website": "https://mindofneo.com/",
+    "store": "https://mindofneo.com/shop",
+    "description": "Massive 100-player UHC tournaments, custom events, scrims and more.",
+    "addresses": [
+        "mindofneo.com"
+    ],
+    "primaryAddress": "mindofneo.com",
+    "primaryColor": "#ff00ff",
+    "secondaryColor": "#7f00ff",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "UHC",
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Practice",
+        "Competitive",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "themindgamesmc",
+        "discord": "https://discord.gg/mindofneo",
+        "youtube": "@NeosMindMc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://mindofneo.com/privacy",
+        "termsOfService": "https://mindofneo.com/terms-of-service",
+        "rules": "https://mindofneo.com/rules",
+        "support": "https://discord.gg/mindofneo"
+    },
+    "modpack": {
+        "provider": "curseforge",
+        "id": "1622906",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
+    }
+}
