@@ -3,9 +3,9 @@
   "name": "Bhaichara",
   "description": "Bhaichara Minecraft Network",
   "addresses": [
-    "play.bhaichara.fun"
+    "bhaichara.fun"
   ],
-  "primaryAddress": "play.bhaichara.fun",
+  "primaryAddress": "bhaichara.fun",
   "minecraftVersions": [
   "1.8.9",
   "26.1.2"
@@ -25,10 +25,9 @@
   ],
   "gameTypes": [
     "Survival",
-    "Classic-PvP",
-    "Modern-PvP",
     "Bedwars",
-    "Pillars"
+    "Pillars",
+    "Practice"
   ],
   "primaryGameType": "Survival",
   "socials": {
