@@ -1,0 +1,10 @@
+{
+    "id": "pillage",
+    "name": "Pillage",
+    "description": "Pillage is a Minecraft anarchy server focused on player-driven survival, PvP, raiding, griefing, and exploration.",
+    "addresses": [
+        "pillage.net"
+    ],
+    "primaryAddress": "pillage.net",
+    "website": "https://pillage.net"
+}
