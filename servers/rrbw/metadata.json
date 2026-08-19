@@ -1,0 +1,29 @@
+{
+  "id": "rrbw",
+  "name": "RRBW",
+  "description": "Competitive BedWars, BuildFFA, Housing, SpeedBuilders and GunGame.",
+  "addresses": [
+    "rrbw.pro"
+  ],
+  "primaryAddress": "rrbw.pro",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#D35C9A",
+  "secondaryColor": "#F7D7EA",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Competitive",
+    "Minigames",
+    "PvP",
+    "Creative"
+  ],
+  "primaryGameType": "Competitive",
+  "socials": {
+    "discord": "https://discord.com/invite/rurbw"
+  }
+}
