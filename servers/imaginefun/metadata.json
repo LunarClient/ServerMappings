@@ -37,5 +37,10 @@
         "instagram": "imaginefun",
         "twitch": "ImagineFunLive",
         "tiktok": "@imagine_fun"
+    },
+    "modpack": {
+        "id": "vcHANb0O",
+        "promptBeforeGameJoin": true,
+        "promptBeforeLauncherJoin": true
     }
 }
