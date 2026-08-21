@@ -1,0 +1,43 @@
+{
+    "id": "TierPractice",
+    "name": "Tier Practice",
+    "description": "The #1 LT3+ Practice Server",
+    "addresses": [
+        "tierprac.xyz"
+    ],
+    "primaryAddress": "tierprac.xyz",
+    "minecraftVersions": [
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#91a0bf",
+    "secondaryColor": "#becbe6",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Practice"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://discord.gg/NeNzxBAZzN",
+    "crossplay": false
+}
