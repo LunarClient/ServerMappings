@@ -1,0 +1,42 @@
+{
+  "id": "exilemc",
+  "name": "ExileMC",
+  "website": "https://www.lunar.gg",
+  "store": "https://store.lunar.gg",
+  "description": "Prison Server",
+  "addresses": [
+    "Play.ExileMC.co"
+  ],
+  "primaryAddress": "Play.ExileMC.co",
+  "minecraftVersions": [
+    "1.21.*",
+    "1.20.*"
+  ],
+  "primaryMinecraftVersion": "1.21.10",
+  "primaryColor": "#FC9738",
+  "secondaryColor": "#FFD936",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "EU",
+    "OC",
+    "AS",
+    "SA"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://www.lunar.gg/privacy",
+    "termsOfService": "https://www.lunar.gg/terms",
+    "rules": "https://www.lunar.gg/rules"
+  },
+  "socials": {
+    "discord": "https://discord.gg/bemfRrng39"
+  },
+  "crossplay": false
+}
