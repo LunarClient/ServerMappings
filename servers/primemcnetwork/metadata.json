@@ -1,0 +1,20 @@
+{
+  "id": "primemc",
+  "name": "PrimeMC",
+  "description": "Equipaggiamenti potenziati, battaglie frenetiche e adrenalina pura! Sconfiggi gli altri giocatori e scala la classifica.",
+  "store": "https://store.primemc.it",
+  "discord": "https://discord.gg/primemcnetwork",
+  "addresses": [
+    "primemc.it"
+  ],
+  "primaryAddress": "play.primemc.it",
+  "primaryColor": "#e8a13c",
+  "secondaryColor": "#3a2a1a",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "gameTypes": [
+    "KitPvP"
+  ]
+}
