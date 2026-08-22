@@ -1,0 +1,38 @@
+{
+    ㅤㅤ"id": "karanteeni",
+    ㅤㅤ"name": "Karanteeni",
+    ㅤㅤ"website": "https://www.karanteeni.net/",
+    ㅤㅤ"description": "Finnish Minecraft server that encaptures you! >w<",
+    ㅤㅤ"addresses": [
+        ㅤㅤㅤㅤ"karanteeni.net"
+    ㅤㅤ],
+    ㅤㅤ"primaryAddress": "mc.karanteeni.net",
+    ㅤㅤ"minecraftVersions": [
+        ㅤㅤㅤㅤ"26.*"
+    ㅤㅤ],
+    ㅤㅤ"primaryMinecraftVersion": "26.2",
+    ㅤㅤ"primaryColor": "#FFAA00",
+    ㅤㅤ"secondaryColor": "#FFFF55",
+    ㅤㅤ"primaryLanguage": "en",
+    ㅤㅤ"languages": [
+        ㅤㅤㅤㅤ"en"
+    ㅤㅤ],
+    ㅤㅤ"primaryRegion": "EU",
+    ㅤㅤ"regions": [
+        ㅤㅤㅤㅤ"EU"
+    ㅤㅤ],
+    ㅤㅤ"gameTypes": [
+        ㅤㅤㅤㅤ"Casual", "Creative", "KitPvP", "Minigames", "Survival"
+    ㅤㅤ],
+    "primaryGameType": "Survival"
+    ㅤㅤ"compliance": {
+        "rules": "https://www.karanteeni.net/saannot"
+    ㅤㅤ},
+    ㅤㅤ"socials": {
+    ㅤㅤㅤㅤ"discord": "https://discord.gg/fZqqysM",
+        "youtube": "@Karanteeni",
+        "twitch": "KaranteeniServer",
+        "tiktok": "@karanteeniserver"
+    ㅤㅤ},
+    ㅤㅤ"crossplay": true
+}
