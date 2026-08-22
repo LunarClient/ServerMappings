@@ -1,0 +1,41 @@
+{
+    "id": "mythicmcnetwork",
+    "name": "MythicMC Network",
+    "description": "Build your own games inside Minecraft. No mods, no code.",
+    "addresses": [
+        "mythicmc.net"
+    ],
+    "primaryAddress": "play.mythicmc.net",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FF266E",
+    "secondaryColor": "#FF518E",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Creative",
+        "Survival"
+    ],
+    "primaryGameType": "Creative",
+    "website": "https://mythicmc.net",
+    "store": "https://store.mythicmc.net",
+    "wiki": "https://wiki.mythicmc.net",
+    "socials": {
+        "twitter": "mythicmcdotnet",
+        "discord": "https://discord.gg/sqscMsQDPZ",
+        "youtube": "mythicmcnetwork",
+        "instagram": "mythicmcnetwork",
+        "reddit": "mythicmcnetwork",
+        "tiktok": "@mythicmcnetwork"
+    },
+    "crossplay": true
+}
