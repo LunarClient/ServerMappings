@@ -1,16 +1,16 @@
 {
     "id": "zzn",
     "name": "ZickZackNetwork",
-    "description": "Home of Competitive Minecraft PvP",
+    "description": "Home of Megacraft, a Survival Community Project",
     "addresses": [
         "zickzacknetwork.de"
     ],
     "primaryAddress": "zickzacknetwork.de",
     "minecraftVersions": [
-        "1.21.*",
-        "26.*"
+        "1.21.11",
+        "26.2"
     ],
-    "primaryMinecraftVersion": "26.1",
+    "primaryMinecraftVersion": "26.2",
     "primaryColor": "#da088d",
     "secondaryColor": "#a0218e",
     "primaryLanguage": "de",
@@ -24,7 +24,8 @@
     ],
     "gameTypes": [
         "Survival",
-        "Vanilla"
+        "Vanilla",
+        "Minigames"
     ],
     "primaryGameType": "Survival",
     "website": "https://zickzacknetwork.de",
@@ -33,7 +34,7 @@
         "rules": "https://zickzacknetwork.de/megacraft"
     },
     "socials": {
-        "discord": "http://zickzacknetwork.de/discord",
+        "discord": "https://discord.com/invite/ckYDYAVzb2",
         "tiktok":  "@zickzacknetwork",
         "instagram": "zickzacknetwork",
         "twitter": "ZickZackNetwork"
