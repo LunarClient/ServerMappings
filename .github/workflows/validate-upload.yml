@@ -198,3 +198,4 @@ jobs:
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
             --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
+
