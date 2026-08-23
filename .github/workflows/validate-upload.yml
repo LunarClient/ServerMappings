@@ -108,6 +108,29 @@ jobs:
           workload_identity_provider: 'projects/824216268633/locations/global/workloadIdentityPools/github-actions/providers/github-actions-oidc'
           service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
 
+      - name: Refuse to publish an older index
+        run: |
+          SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
+
+          if ! LIVE_METADATA="$(gcloud storage objects describe gs://servermappings-lunarclientcdn-com/servers.json --raw --format=json)"; then
+            echo "::error::Unable to read metadata of the published servers.json."
+            exit 1
+          fi
+
+          LIVE_COMMITTED_AT="$(printf '%s' "$LIVE_METADATA" | python3 -c 'import json, sys; print(json.load(sys.stdin).get("metadata", {}).get("sourceCommittedAt", ""))')"
+
+          if [ -z "$LIVE_COMMITTED_AT" ]; then
+            echo "::warning::Published servers.json has no sourceCommittedAt; skipping freshness check."
+            exit 0
+          fi
+
+          if [ "$(date -u -d "$LIVE_COMMITTED_AT" +%s)" -gt "$(date -u -d "$SOURCE_COMMITTED_AT" +%s)" ]; then
+            echo "::error::Refusing to publish: this build is from ${SOURCE_COMMITTED_AT}, older than the published index (${LIVE_COMMITTED_AT}). This usually means an old workflow run was re-run; re-run the latest master run instead."
+            exit 1
+          fi
+
+          echo "Publishing ${SOURCE_COMMITTED_AT} over ${LIVE_COMMITTED_AT}."
+
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
         with:
