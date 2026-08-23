@@ -1,9 +1,8 @@
 {
-  "id": "primemc",
+  "id": "primemcnetwork",
   "name": "PrimeMC",
-  "description": "Equipaggiamenti potenziati, battaglie frenetiche e adrenalina pura! Sconfiggi gli altri giocatori e scala la classifica.",
+  "description": "Sconfiggi gli altri giocatori e scala la classifica.",
   "store": "https://store.primemc.it",
-  "discord": "https://discord.gg/primemcnetwork",
   "addresses": [
     "primemc.it"
   ],
