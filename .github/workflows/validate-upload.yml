@@ -175,12 +175,19 @@ jobs:
 
       - name: Upload to GCS
         run: |
+          SOURCE_COMMIT="$(git show -s --format=%H HEAD)"
+          SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
+          GENERATED_AT="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          SERVER_COUNT="$(python -c 'import json; print(len(json.load(open(".out/servers.json"))))')"
           cd .out/
           gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' backgrounds/ gs://servermappings-lunarclientcdn-com/ || true
           gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' banners/ gs://servermappings-lunarclientcdn-com/ || true
           gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' logos/ gs://servermappings-lunarclientcdn-com/ || true
           gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' wordmarks/ gs://servermappings-lunarclientcdn-com/ || true
-          gcloud storage cp --cache-control='public, max-age=300, s-maxage=300' servers.json gs://servermappings-lunarclientcdn-com/servers.json
+          gcloud storage cp \
+            --cache-control='public, max-age=300, s-maxage=300' \
+            --custom-metadata="sourceCommit=${SOURCE_COMMIT},sourceCommittedAt=${SOURCE_COMMITTED_AT},generatedAt=${GENERATED_AT},serverCount=${SERVER_COUNT},githubRunId=${{ github.run_id }},githubRunAttempt=${{ github.run_attempt }}" \
+            servers.json gs://servermappings-lunarclientcdn-com/servers.json
           gcloud storage cp --recursive --cache-control='public, max-age=31536000, s-maxage=31536000' assets/ gs://servermappings-lunarclientcdn-com/ || true
 
       - name: Purge Cloudflare cache
@@ -191,4 +198,3 @@ jobs:
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
             --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
-
