@@ -1,0 +1,26 @@
+{
+  "id": "ljkits",
+  "name": "LJKITS",
+  "description": "French Soup PvP server with 1.8 knockback, no cooldown and 29 kits.",
+  "addresses": ["ljkits.eu"],
+  "primaryAddress": "mc.ljkits.eu",
+  "gameTypes": ["Soup PvP", "KitPvP", "PvP"],
+  "primaryGameType": "Soup PvP",
+  "primaryColor": "#FE9301",
+  "secondaryColor": "#E92813",
+  "minecraftVersions": ["1.8.9"],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": ["fr", "en"],
+  "primaryLanguage": "fr",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://www.ljkits.eu",
+  "store": "https://www.ljkits.eu/boutique",
+  "socials": {
+    "discord": "https://discord.com/invite/ljkits",
+    "tiktok": "@ljkits"
+  },
+  "compliance": {
+    "rules": "https://www.ljkits.eu/reglement"
+  }
+}
