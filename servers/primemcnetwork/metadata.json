@@ -1,7 +1,7 @@
 {
   "id": "primemcnetwork",
   "name": "PrimeMC",
-  "description": "Sconfiggi gli altri giocatori e scala la classifica.",
+  "description": "Defeat other players and climb the leaderboard.",
   "store": "https://store.primemc.it",
   "addresses": [
     "primemc.it"
