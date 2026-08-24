@@ -10,8 +10,18 @@
     "1.21.1"
   ],
   "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#2A91FF",
+  "secondaryColor": "#FFFFFF",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://store.untitledsmp.net",
   "socials": {
-    "discord": "https://discord.gg/untitledsmp",
-    "website": "https://store.untitledsmp.net"
+    "discord": "https://discord.gg/untitledsmp"
   }
 }
