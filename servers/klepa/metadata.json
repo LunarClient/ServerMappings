@@ -12,6 +12,11 @@
     "offline": true,
     "primaryColor": "#fc3629",
     "secondaryColor": "#2b2b2b",
+    "primaryRegion": "EU",
+    "regions": [
+      "EU"
+    ],
+	"crossplay": false,
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -27,6 +32,7 @@
         "Minigames",
         "PvP"
     ],
+	
     "socials": {
         "discord": "https://discord.com/invite/vTFgNz5Hez",
         "tiktok": "@klepa.gg"
