@@ -1,0 +1,37 @@
+{
+    "id": "arespvp",
+    "name": "Ares Network",
+    "description": "Ares is the best HCF server!",
+    "addresses": [
+        "arespvp.us"
+    ],
+    "primaryAddress": "arespvp.us",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.7.10"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff7700",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryGameType": "HCF",
+    "gameTypes": [
+        "HCF",
+        "Practice"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/arespvp"
+    },
+    "crossplay": false
+}
