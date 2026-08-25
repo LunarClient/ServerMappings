@@ -6,7 +6,7 @@
     "description": "Play Minigames, PvP, and more on Klepa.GG",
     "addresses": [
         "klepa.gg",
-		"klepa.pl"
+        "klepa.pl"
     ],
     "primaryAddress": "klepa.gg",
     "offline": true,
@@ -14,9 +14,9 @@
     "secondaryColor": "#2b2b2b",
     "primaryRegion": "EU",
     "regions": [
-      "EU"
+        "EU"
     ],
-	"crossplay": false,
+    "crossplay": false,
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -32,7 +32,6 @@
         "Minigames",
         "PvP"
     ],
-	
     "socials": {
         "discord": "https://discord.com/invite/vTFgNz5Hez",
         "tiktok": "@klepa.gg"
