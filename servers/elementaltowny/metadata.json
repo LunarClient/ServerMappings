@@ -2,6 +2,8 @@
   "id": "elementaltowny",
   "name": "Elemental Towny",
   "description": "Build your town, fight with elements, and conquer the world!",
+  "website": "http://store.elementaltowny.site/",
+  "store": "http://store.elementaltowny.site/",
   "addresses": [
     "elementaltowny.site",
     "elementaltowny.site:12003"
@@ -9,9 +11,9 @@
   "primaryAddress": "elementaltowny.site",
   "primaryColor": "#e74c3c",
   "secondaryColor": "#1e1e2e",
-  "primaryRegion": "ASIA",
+  "primaryRegion": "AS",
   "regions": [
-    "ASIA"
+    "AS"
   ],
   "crossplay": true,
   "minecraftVersions": [
@@ -25,10 +27,6 @@
     "PvE",
     "PvP"
   ],
-  "links": {
-    "website": "http://store.elementaltowny.site/",
-    "store": "http://store.elementaltowny.site/"
-  },
   "socials": {
     "discord": "https://discord.gg/5w3U9w6kQg"
   }
