@@ -5,8 +5,7 @@
   "website": "http://store.elementaltowny.site/",
   "store": "http://store.elementaltowny.site/",
   "addresses": [
-    "elementaltowny.site",
-    "elementaltowny.site:12003"
+    "elementaltowny.site"
   ],
   "primaryAddress": "elementaltowny.site",
   "primaryColor": "#e74c3c",
@@ -23,7 +22,7 @@
   "primaryGameType": "Towny",
   "gameTypes": [
     "Towny",
-    "RPG",
+    "MMORPG",
     "PvE",
     "PvP"
   ],
