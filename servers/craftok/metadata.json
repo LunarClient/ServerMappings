@@ -4,6 +4,7 @@
     "website": "https://craftok.fr",
     "store": "https://store.craftok.fr",
     "description": "A French Minigames server: BedWars, PartyGames, Ranked Duels & more!",
+    "crossplay": false,
     "addresses": [
         "craftok.fr",
         "crafttok.fr"
