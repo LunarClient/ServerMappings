@@ -1,0 +1,54 @@
+{
+    "id": "ugis",
+    "name": "Ugis",
+    "description": "Free parkour practice, plots and rankup server",
+    "addresses": [
+        "ugis.pro"
+    ],
+    "primaryAddress": "ugis.pro",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#a34c05",
+    "secondaryColor": "#c9aa91",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN",
+        "it",
+        "tr",
+        "ar",
+        "zh-CN",
+        "nl",
+        "fr",
+        "de",
+        "el",
+        "ja",
+        "ko",
+        "lt",
+        "no",
+        "pl",
+        "pt-PT",
+        "pt-BR",
+        "sv-SE"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "Creative"
+    ],
+    "primaryGameType": "Parkour",
+    "socials": {
+        "discord": "https://discord.com/invite/hKJdGJU7xs"
+    },
+    "crossplay": false
+}

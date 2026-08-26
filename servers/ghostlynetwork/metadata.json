@@ -1,11 +1,17 @@
 {
     "id": "ghostlynetwork",
     "name": "Ghostly Network",
+    "website": "https://ghostly.live/",
     "store": "https://store.ghostly.live/",
     "description": "A popular PvP network which specialises in many competitive gamemodes",
+    "offline": true,
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryLanguage": "en",
     "addresses": [
-        "gamefack.me",
-        "gamefack.us",
+        "edaters.live",
         "ghostly.live"
     ],
     "primaryAddress": "ghostly.live",
@@ -19,14 +25,17 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*",        
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "primaryGameType": "UHC",
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
         "UHC",
@@ -36,6 +45,7 @@
     ],
     "socials": {
         "twitter": "GhostlyLive",
-        "discord": "https://discord.com/invite/ghostly"
+        "discord": "https://discord.com/invite/ghostly",
+        "instagram": "ghostlypvp"
     }
 }
