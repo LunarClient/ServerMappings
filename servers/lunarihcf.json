@@ -1,0 +1,16 @@
+{
+  "name": "LunariHCF",
+  "addresses": [
+    "lunarihcf.cc",
+    "*.lunarihcf.cc"
+  ],
+  "primaryAddress": "lunarihcf.cc",
+  "minecraftVersions": [
+    "1.7",
+    "1.8"
+  ],
+  "primaryMinecraftVersion": "1.8",
+  "socials": {
+    "discord": "https://discord.gg/TU_INVITACION"
+  }
+}
