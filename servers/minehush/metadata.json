@@ -1,6 +1,6 @@
 {
     "id": "minehush",
-    "name": "MineHush Network",
+    "name": "MineHush",
     "description": "Server for competitive players",
     "addresses": [
         "minehush.com"
@@ -29,6 +29,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/8QYCB2Q677"
+        "discord": "https://discord.gg/q7CTZSBSx7"
     }
 }
