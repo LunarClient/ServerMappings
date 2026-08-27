@@ -17,6 +17,10 @@
     "en",
     "sv-SE"
   ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
   "gameTypes": [
     "Prison",
     "Skyblock",
