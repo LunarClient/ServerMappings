@@ -157,6 +157,14 @@ jobs:
 
       - name: Output Server Media
         run: |
+          # A dry run converts every server regardless, and its changed file
+          # list is too large to pass as a single argument.
+          if [ '${{ needs.changes.outputs.dry }}' = 'true' ]; then
+            set --
+          else
+            set -- --changed_files '${{ needs.changes.outputs.servers_files }}'
+          fi
+
           python .scripts/convert_media.py \
           --servers_dir servers \
           --inactive_file inactive.json \
@@ -167,8 +175,8 @@ jobs:
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
           --servers_assets_output .out/assets \
-          --changed_files '${{ needs.changes.outputs.servers_files }}' \
-          --dry_upload ${{ needs.changes.outputs.dry }}
+          --dry_upload '${{ needs.changes.outputs.dry }}' \
+          "$@"
         env:
           USE_ARGS: "true"
 
