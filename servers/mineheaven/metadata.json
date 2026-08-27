@@ -1,6 +1,7 @@
 {
     "id": "mineheaven",
     "name": "MineHeaven Network",
+    "description": "Play Survival, PvP, and more on MineHeaven Network.",
     "addresses": [
         "mineheaven.ir"
     ],

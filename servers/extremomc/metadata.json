@@ -1,40 +1,40 @@
 {
-  "id": "extremomc",
-  "name": "Raideado Land",
-  "description": "network studio x",
-  "addresses": [
-    "extremomc.site"
-  ],
-  "primaryAddress": "extremomc.site",
-  "gameTypes": [
-    "Parkour",
-    "UHC",
-    "Survival"
-  ],
-  "primaryColor": "#FFFFFF",
-  "secondaryColor": "#000000",
-  "minecraftVersions": [
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.5",
-  "languages": [
-    "en",
-    "es-EN",
-    "pt-PT"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "AF",
-    "AS",
-    "EU",
-    "NA",
-    "OC",
-    "SA"
-  ],
-  "primaryRegion": "NA"
+    "id": "extremomc",
+    "name": "Raideado Land",
+    "description": "network studio x",
+    "addresses": [
+        "extremomc.site"
+    ],
+    "primaryAddress": "extremomc.site",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Parkour",
+        "UHC",
+        "Survival"
+    ]
 }

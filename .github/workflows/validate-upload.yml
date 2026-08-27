@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-  pull_request_target:
+  pull_request:
     branches:
       - "*"
   schedule:
@@ -37,16 +37,26 @@ jobs:
   validate-servers:
     name: Validate Servers
     runs-on: ubuntu-latest
+
     permissions:
-      pull-requests: write
-      issues: write
+      contents: read
+      pull-requests: read
 
     steps:
-      - name: Checkout from GitHub
+      # Trusted checkout: scripts and schemas come from the base ref so a PR
+      # cannot alter the validator (e.g. fabricating pr_results.json as
+      # "ready") to bypass validation in the trusted feedback workflow.
+      - name: Checkout trusted base
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ github.event.pull_request.base.ref || github.ref }}
+
+      - name: Checkout PR contents (untrusted)
+        if: github.event_name == 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr-contents
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -57,17 +67,26 @@ jobs:
         run: pip install -r .scripts/requirements.txt
 
       - name: Validate Servers
+        working-directory: ${{ github.event_name == 'pull_request' && 'pr-contents' || '.' }}
         run: |
-          python .scripts/validate.py \
+          python "${GITHUB_WORKSPACE}/.scripts/validate.py" \
           --servers_dir servers \
-          --metadata_schema metadata.schema.json \
+          --metadata_schema "${GITHUB_WORKSPACE}/metadata.schema.json" \
           --inactive_file inactive.json \
-          --inactive_schema inactive.schema.json \
+          --inactive_schema "${GITHUB_WORKSPACE}/inactive.schema.json" \
           --no-validate_inactive
         env:
           PR_ID: ${{ github.event.pull_request.number }}
-          BOT_PAT: ${{ secrets.BOT_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USE_ARGS: "true"
+
+      - name: Upload validation results
+        if: always() && github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pr-results
+          path: pr-contents/pr_results.json
+          if-no-files-found: ignore
 
   upload-servers:
     name: Upload Servers
@@ -76,18 +95,41 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      id-token: write
       contents: read
+
+    env:
+      AWS_ENDPOINT_URL: ${{ secrets.CF_R2_ENDPOINT }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
 
     steps:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
-      - name: Configure production AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          role-to-assume: ${{ secrets.ARTIFACTS_ROLE_ARN }}
-          aws-region: us-east-2
+      - name: Refuse to publish an older index
+        run: |
+          SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
+
+          if ! LIVE_METADATA="$(aws s3api head-object --bucket servermappings-lunarclientcdn-com --key servers.json)"; then
+            echo "::error::Unable to read metadata of the published servers.json."
+            exit 1
+          fi
+
+          # S3 lowercases user metadata keys
+          LIVE_COMMITTED_AT="$(printf '%s' "$LIVE_METADATA" | python3 -c 'import json, sys; print(json.load(sys.stdin).get("Metadata", {}).get("sourcecommittedat", ""))')"
+
+          if [ -z "$LIVE_COMMITTED_AT" ]; then
+            echo "::warning::Published servers.json has no sourceCommittedAt; skipping freshness check."
+            exit 0
+          fi
+
+          if [ "$(date -u -d "$LIVE_COMMITTED_AT" +%s)" -gt "$(date -u -d "$SOURCE_COMMITTED_AT" +%s)" ]; then
+            echo "::error::Refusing to publish: this build is from ${SOURCE_COMMITTED_AT}, older than the published index (${LIVE_COMMITTED_AT}). This usually means an old workflow run was re-run; re-run the latest master run instead."
+            exit 1
+          fi
+
+          echo "Publishing ${SOURCE_COMMITTED_AT} over ${LIVE_COMMITTED_AT}."
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -124,6 +166,7 @@ jobs:
           --servers_backgrounds_sizes 1280x720 852x480 \
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
+          --servers_assets_output .out/assets \
           --changed_files '${{ needs.changes.outputs.servers_files }}' \
           --dry_upload ${{ needs.changes.outputs.dry }}
         env:
@@ -137,7 +180,6 @@ jobs:
           --translations_folder ServerMappings/locales/ \
           --translations_output ServerMappings/locales/en_US.json \
           --json_output .out/servers.json \
-          --csv_output .out/servers.csv \
           --no-include_inactive
 
       - name: Sync to Crowdin
@@ -153,12 +195,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
-      
-      - name: Upload to S3
+
+      - name: Upload to R2
         run: |
-          aws s3 sync .out s3://lunarclient-servermappings --cache-control "public, max-age=14400"
-          aws s3 cp .out/servers.json s3://lunarclient-servermappings/servers.json --content-type "application/json"
-          aws s3 cp .out/servers.csv s3://lunarclient-servermappings/servers.csv --content-type "text/csv"
+          SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
+          cd .out/
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' backgrounds/ s3://servermappings-lunarclientcdn-com/backgrounds/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' banners/ s3://servermappings-lunarclientcdn-com/banners/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' logos/ s3://servermappings-lunarclientcdn-com/logos/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' wordmarks/ s3://servermappings-lunarclientcdn-com/wordmarks/ || true
+          aws s3 cp \
+            --cache-control 'public, max-age=300, s-maxage=300' \
+            --metadata "sourceCommittedAt=${SOURCE_COMMITTED_AT}" \
+            servers.json s3://servermappings-lunarclientcdn-com/servers.json
+          aws s3 cp --recursive --cache-control 'public, max-age=31536000, s-maxage=31536000' assets/ s3://servermappings-lunarclientcdn-com/assets/ || true
 
       - name: Purge Cloudflare cache
         env:
@@ -167,4 +217,5 @@ jobs:
           curl -X POST "https://api.cloudflare.com/client/v4/zones/6ec53997a971431c0d92ac795f35502b/purge_cache" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer $CLOUDFLARE_PURGE_TOKEN" \
-            --data '{"hosts":["servermappings.lunarclientcdn.com"]}'
+            --data '{"files":["https://servermappings.lunarclientcdn.com/servers.json"]}'
+

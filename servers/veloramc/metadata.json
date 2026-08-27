@@ -1,0 +1,46 @@
+{
+    "id": "veloramc",
+    "name": "VeloraMC",
+    "store": "https://veloramc-store.tebex.store/",
+    "description": "PvP 1.21 26.2 with Survival, Gens, OP Survival & more!",
+    "addresses": [
+        "veloramc.xyz"
+    ],
+    "primaryAddress": "play.veloramc.xyz",
+    "primaryColor": "#800080",
+    "secondaryColor": "#E4A0F7",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/PQ5sKKpRh"
+    }
+}

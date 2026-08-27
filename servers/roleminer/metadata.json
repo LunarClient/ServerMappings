@@ -1,0 +1,31 @@
+{
+  "id": "roleminer",
+  "name": "RoleMiner MC",
+  "description": "Italian Minecraft network with custom game modes and events",
+  "addresses": [
+    "roleminer.it"
+  ],
+  "primaryAddress": "mc.roleminer.it",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#00BFFF",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+"gameTypes": [
+  "Survival",
+  "Skyblock",
+  "Minigames",
+  "PvP"
+],
+  "crossplay": false
+}

@@ -1,0 +1,31 @@
+{
+    "id": "legacymc",
+    "name": "LegacyMC",
+    "website": "https://legacymc.hu",
+    "description": "Hungarian Minecraft server with PvP & SkyBlock.",
+    "addresses": [
+        "legacymc.hu"
+    ],
+    "primaryAddress": "play.legacymc.hu",
+    "primaryColor": "#FAD500",
+    "secondaryColor": "#FFA500",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/NBgGkxQaFz",
+        "tiktok": "@legacymchu"
+    }
+}

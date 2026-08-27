@@ -8,6 +8,8 @@
         "refmc.pl"
     ],
     "primaryAddress": "refmc.pl",
+    "primaryColor": "#9adf2b",
+    "secondaryColor": "#123aec",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -20,26 +22,24 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#9adf2b",
-    "secondaryColor": "#123aec",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "pl",
         "en"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
     "gameTypes": [
         "Survival",
         "Minigames"
     ],
-    "compliance": {
-        "rules": "https://www.refmc.pl/"
-    },
     "socials": {
         "discord": "https://discord.gg/EtCZmqn5fj"
     },
-    "crossplay": true
+    "compliance": {
+        "rules": "https://www.refmc.pl/"
+    }
 }

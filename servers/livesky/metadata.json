@@ -1,0 +1,39 @@
+{
+    "id": "livesky",
+    "name": "Livesky",
+    "website": "https://livesky.pl/",
+    "store": "https://livesky.pl/shop",
+    "description": "A Polish server with many modern features focused on EarthSMP and Survival",
+    "addresses": [
+        "livesky.pl"
+    ],
+    "primaryAddress": "livesky.pl",
+    "primaryColor": "#FA8613",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.20.2",
+        "26.1.2"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World"
+    ],
+    "socials": {
+        "tiktok": "@freebanan6",
+        "discord": "https://discord.com/invite/mA3D2xRYEc"
+    },
+    "compliance": {
+        "rules": "https://wiki.livesky.pl/informacje/regulaminy/regulamin-minecraft"
+    }
+}

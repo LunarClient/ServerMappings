@@ -1,53 +1,53 @@
 {
-  "id": "godsrealm",
-  "name": "Gods-Realm",
-  "description": "A minecraft server based in Romania with a lot of gamemodes!",
-  "addresses": [
-    "gods-realm.ro"
-  ],
-  "primaryAddress": "play.gods-realm.ro",
-  "minecraftVersions": [
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.8",
-  "primaryColor": "#FFC624",
-  "secondaryColor": "#FED348",
-  "primaryLanguage": "en",
-  "languages": [
-    "en"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "PvP",
-    "Survival",
-    "Skyblock"
-  ],
-  "website": "https://gods-realm.ro/",
-  "store": "https://magazin.gods-realm.ro/",
-  "wiki": "https://gods-realm.ro/ghid-survival-classic",
-  "compliance": {
-    "privacyPolicy": "https://magazin.gods-realm.ro/terms/privacy",
-    "termsOfService": "https://magazin.gods-realm.ro/terms/checkout",
-    "rules": "https://gods-realm.ro/reguli"
-  },
-  "votingLinks": [
-    "https://minecraft-mp.com/server/352455/vote/",
-    "https://topminecraftservers.org/vote/42656/",
-    "https://topg.org/ro/servere-minecraft/server-678923"
-  ],
-"socials": {
-    "twitter": "GodsRealm.Network",
-    "youtube": "@GodsRealm.Network",
-    "tiktok": "@godsrealm.network",
-    "discord": "https://discord.gg/gods-realm"
-  },
-  "crossplay": true
+    "id": "godsrealm",
+    "name": "Gods-Realm",
+    "website": "https://gods-realm.ro/",
+    "store": "https://magazin.gods-realm.ro/",
+    "wiki": "https://gods-realm.ro/ghid-survival-classic",
+    "description": "A minecraft server based in Romania with a lot of gamemodes!",
+    "addresses": [
+        "gods-realm.ro"
+    ],
+    "primaryAddress": "play.gods-realm.ro",
+    "primaryColor": "#FFC624",
+    "secondaryColor": "#FED348",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "GodsRealm.Network",
+        "youtube": "@GodsRealm.Network",
+        "tiktok": "@godsrealm.network",
+        "discord": "https://discord.gg/gods-realm"
+    },
+    "compliance": {
+        "privacyPolicy": "https://magazin.gods-realm.ro/terms/privacy",
+        "termsOfService": "https://magazin.gods-realm.ro/terms/checkout",
+        "rules": "https://gods-realm.ro/reguli"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server/352455/vote/",
+        "https://topminecraftservers.org/vote/42656/",
+        "https://topg.org/ro/servere-minecraft/server-678923"
+    ]
 }

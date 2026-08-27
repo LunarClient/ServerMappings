@@ -1,0 +1,41 @@
+{
+    "id": "acquaticmc",
+    "name": "AcquaticMC",
+    "description": "Weapon PvP & Semiroleplay minecraft server.",
+    "addresses": [
+        "acquaticmc.it"
+    ],
+    "primaryAddress": "acquaticmc.it",
+    "minecraftVersions": [
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#36b7fb",
+    "secondaryColor": "#277ceb",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Roleplay"
+    ],
+    "primaryGameType": "PvP",
+    "socials": {
+        "telegram": "AcquaticMC",
+        "discord": "https://discord.com/invite/VcRjkjZkbS"
+    },
+    "crossplay": false,
+    "offline": true
+}

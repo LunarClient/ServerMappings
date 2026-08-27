@@ -2,6 +2,7 @@
     "id": "holyworld",
     "name": "HolyWorld",
     "store": "https://holyworld.ru/",
+    "description": "Experience survival gameplay on HolyWorld.",
     "addresses": [
         "holyworld.ru",
         "holyworld.me"

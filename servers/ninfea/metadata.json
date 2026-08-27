@@ -1,6 +1,7 @@
 {
     "id": "ninfea",
     "name": "Ninfea Network",
+    "description": "Play PvP, Parkour, and more on Ninfea Network.",
     "addresses": [
         "ninfea.fun"
     ],

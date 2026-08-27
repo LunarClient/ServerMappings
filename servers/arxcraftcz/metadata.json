@@ -1,22 +1,31 @@
 {
-  "id": "arxcraftcz",
-  "name": "Arxcraft.cz",
-  "description": "Czech survival with PvP, economy, quests, and custom RPG features.",
-  "website": "https://arxcraft.cz/",
-  "store": "https://store.arxcraft.cz/",
-  "addresses": ["arxcraft.cz"],
-  "primaryAddress": "mc.arxcraft.cz",
-  "primaryColor": "#FCE040",
-  "secondaryColor": "#111111",
-  "minecraftVersions": ["1.21.4"],
-  "primaryMinecraftVersion": "1.21.4",
-  "primaryRegion": "EU",
-  "regions": ["EU"],
-  "gameTypes": ["Survival", "PvP"],
-  "socials": {
-    "discord": "https://discord.com/invite/h6N4aJNfAt",
-    "youtube": "@arxcraftcz",
-    "instagram": "arxcraftcz",
-    "tiktok": "@arxcraftcz"
-  }
+    "id": "arxcraftcz",
+    "name": "Arxcraft.cz",
+    "website": "https://arxcraft.cz/",
+    "store": "https://store.arxcraft.cz/",
+    "description": "Czech survival with PvP, economy, quests, and custom RPG features.",
+    "addresses": [
+        "arxcraft.cz"
+    ],
+    "primaryAddress": "mc.arxcraft.cz",
+    "primaryColor": "#FCE040",
+    "secondaryColor": "#111111",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/h6N4aJNfAt",
+        "youtube": "@arxcraftcz",
+        "instagram": "arxcraftcz",
+        "tiktok": "@arxcraftcz"
+    }
 }

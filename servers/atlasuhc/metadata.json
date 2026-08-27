@@ -1,6 +1,9 @@
 {
     "id": "atlasuhc",
     "name": "Atlas",
+    "website": "https://atlasmc.fr/",
+    "store": "https://atlasmc.fr/shop",
+    "wiki": "https://doc.atlasmc.fr/",
     "description": "French competitive UHC and Arena server featuring unique game modes and events.",
     "addresses": [
         "atlasmc.fr"
@@ -8,7 +11,7 @@
     "primaryAddress": "play.atlasmc.fr",
     "primaryColor": "#FDE658",
     "secondaryColor": "#44C9EE",
-    "minecraftVersions": [     
+    "minecraftVersions": [
         "1.8.9",
         "1.12.2",
         "1.16.5",
@@ -35,9 +38,6 @@
         "PvP",
         "Minigames"
     ],
-    "website": "https://atlasmc.fr/",
-    "store": "https://atlasmc.fr/shop",
-    "wiki": "https://doc.atlasmc.fr/",
     "socials": {
         "discord": "https://discord.gg/atlasmc",
         "twitter": "UHC_Atlas",

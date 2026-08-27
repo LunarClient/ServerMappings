@@ -1,39 +1,39 @@
 {
-  "id": "jmanmc",
-  "name": "Jman MC",
-  "description": "JmanMC is a Minecraft network with SMP, events, and active streams.",
-  "addresses": [
-    "jmanmc.net"
-  ],
-  "primaryAddress": "play.jmanmc.net",
-  "gameTypes": [
-    "PvP",
-    "Minigames",
-    "Survival"
-  ],
-  "primaryColor": "#313A93",
-  "secondaryColor": "#35B1EE",
-  "minecraftVersions": [
-    "1.21",
-    "1.21.1",
-    "1.21.8"
-  ],
-  "primaryMinecraftVersion": "1.21.1",
-  "languages": [
-    "en"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "EU",
-    "NA",
-    "OC"
-  ],
-  "primaryRegion": "EU",
-  "website": "https://jmanmc.net",
-  "store": "https://store.jmanmc.net",
-  "socials": {
-    "discord": "https://discord.gg/zhKG6v6UC4",
-    "twitter": "Jmannumber101",
-    "youtube": "@Jmannumber101"
-  }
+    "id": "jmanmc",
+    "name": "Jman MC",
+    "website": "https://jmanmc.net",
+    "store": "https://store.jmanmc.net",
+    "description": "JmanMC is a Minecraft network with SMP, events, and active streams.",
+    "addresses": [
+        "jmanmc.net"
+    ],
+    "primaryAddress": "play.jmanmc.net",
+    "primaryColor": "#313A93",
+    "secondaryColor": "#35B1EE",
+    "minecraftVersions": [
+        "1.21",
+        "1.21.1",
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zhKG6v6UC4",
+        "twitter": "Jmannumber101",
+        "youtube": "@Jmannumber101"
+    }
 }

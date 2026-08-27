@@ -2,6 +2,7 @@
     "id": "minecreators",
     "name": "MineCreators",
     "store": "https://store.minecreators.xyz",
+    "description": "Test your combat skills on MineCreators.",
     "addresses": [
         "minecreators.xyz"
     ],

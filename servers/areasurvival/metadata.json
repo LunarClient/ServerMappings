@@ -1,0 +1,42 @@
+{
+    "id": "areasurvival",
+    "name": "AreaSurvival",
+    "description": "A network with survival, creative and more!",
+    "addresses": [
+        "cedlabs.net"
+    ],
+    "primaryAddress": "areasurvival.cedlabs.net",
+    "primaryColor": "#4CAF50",
+    "secondaryColor": "#8B5A2B",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Vanilla",
+        "Creative",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "discord": "https://discord.gg/pjrsWtc42k"
+    },
+    "crossplay": true,
+    "offline": false
+}

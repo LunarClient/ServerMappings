@@ -1,11 +1,15 @@
 {
     "id": "mcnebula",
     "name": "Project Nebula",
+    "website": "https://www.mcnebula.net/",
+    "store": "https://www.mcnebula.net/store",
     "description": "The faithful MCZone/Avicus revival of Nebula — a Minecraft PvP gamemode",
     "addresses": [
         "mcnebula.net"
     ],
     "primaryAddress": "play.mcnebula.net",
+    "primaryColor": "#10b71b",
+    "secondaryColor": "#232b2b",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,27 +21,23 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#10b71b",
-    "secondaryColor": "#232b2b",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
-    "website": "https://www.mcnebula.net/",
-    "store": "https://www.mcnebula.net/store",
-    "compliance": {
-        "rules": "https://www.mcnebula.net/rules"
-    },
     "socials": {
         "discord": "https://discord.gg/kgWvJGKkt8"
     },
-    "crossplay": false
+    "compliance": {
+        "rules": "https://www.mcnebula.net/rules"
+    }
 }

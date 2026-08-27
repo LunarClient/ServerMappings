@@ -1,38 +1,38 @@
 {
-  "id": "sourmc",
-  "name": "SourMC",
-  "website": "https://www.sourmc.net/",
-  "store": "https://store.sourmc.net/",
-  "addresses": [
-    "sourmc.net"
-  ],
-  "primaryAddress": "play.sourmc.net",
-  "primaryColor": "#BE6DDB",
-  "secondaryColor": "#1D1462",
-  "minecraftVersions": [
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21",
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "primaryLanguage": "en",
-  "languages": [
-    "en"
-  ],
-  "gameTypes": [
-    "Survival",
-    "PvP"
-  ],
-  "socials": {
-    "discord": "https://discord.com/invite/sourmc"
-  },
-  "description": "Public EU-based Survival / PvP server.",
-  "crossplay": true
+    "id": "sourmc",
+    "name": "SourMC",
+    "website": "https://www.sourmc.net/",
+    "store": "https://store.sourmc.net/",
+    "description": "Public EU-based Survival / PvP server.",
+    "addresses": [
+        "sourmc.net"
+    ],
+    "primaryAddress": "play.sourmc.net",
+    "primaryColor": "#BE6DDB",
+    "secondaryColor": "#1D1462",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/sourmc"
+    }
 }

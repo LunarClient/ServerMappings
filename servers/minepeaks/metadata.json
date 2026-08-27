@@ -2,6 +2,7 @@
     "id": "minepeaks",
     "name": "MinePeaks",
     "store": "https://store.minepeaks.com/",
+    "description": "Play HCF, Survival, and more on MinePeaks.",
     "addresses": [
         "minepeaks.com"
     ],

@@ -2,6 +2,7 @@
     "id": "articpvp",
     "name": "ArticPvP",
     "store": "https://store.articpvp.net/",
+    "description": "Play HCF and PvP on ArticPvP.",
     "addresses": [
         "articpvp.net"
     ],

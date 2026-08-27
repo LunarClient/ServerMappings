@@ -2,6 +2,7 @@
     "id": "bliteria",
     "name": "Bliteria",
     "store": "https://bliteria.fr/shop",
+    "description": "Play Minigames and PvP on Bliteria.",
     "addresses": [
         "bliteria.fr"
     ],

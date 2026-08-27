@@ -2,6 +2,7 @@
     "id": "pixelplay",
     "name": "Pixel Play",
     "website": "https://pixelplay.gg/",
+    "description": "Play Survival, Skyblock, and more on Pixel Play.",
     "addresses": [
         "pixelplay.gg"
     ],
@@ -12,6 +13,7 @@
         "1.21.1"
     ],
     "primaryMinecraftVersion": "1.21.1",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA",
@@ -22,9 +24,5 @@
         "Survival",
         "Skyblock",
         "Factions"
-    ],
-    "crossplay": true
+    ]
 }
-
-
-

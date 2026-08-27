@@ -1,22 +1,22 @@
 {
-   "id": "moonsmp",
-   "name": "MoonSMP",
-   "description": "Moon SMP is a Minecraft server with fun twists and active community",
-   "addresses": [
-     "moonsmp.fun"
-   ],
-   "primaryAddress": "play.moonsmp.fun",
-   "primaryColor": "#6900bf",
-   "secondaryColor": "#003cff",
-   "gameTypes": [
+    "id": "moonsmp",
+    "name": "MoonSMP",
+    "description": "Moon SMP is a Minecraft server with fun twists and active community",
+    "addresses": [
+        "moonsmp.fun"
+    ],
+    "primaryAddress": "play.moonsmp.fun",
+    "primaryColor": "#6900bf",
+    "secondaryColor": "#003cff",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "gameTypes": [
         "Survival",
         "Adventure"
     ],
-   "minecraftVersions": [
-        "1.21.*"
-    ],
-   "primaryMinecraftVersion": "1.21.4",
-   "socials": {
+    "socials": {
         "discord": "https://discord.com/invite/moonsmp"
     }
 }

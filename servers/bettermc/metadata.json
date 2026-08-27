@@ -1,31 +1,31 @@
 {
-  "id": "bettermc",
-  "name": "bettermc",
-  "description": "Polish Minecraft Server",
-  "addresses": [
-    "bettermc.eu"
-  ],
-  "primaryAddress": "bettermc.eu",
-  "gameTypes": [
-    "PvP",
-    "Skyblock",
-    "Survival"
-  ],
-  "primaryColor": "#FFAB00",
-  "secondaryColor": "#FFAB00",
-  "minecraftVersions": [
-    "1.21.10"
-  ],
-  "primaryMinecraftVersion": "1.21.10",
-  "languages": [
-    "pl"
-  ],
-  "regions": [
-    "EU"
-  ],
-  "website": "https://www.bettermc.eu",
-  "store": "https://www.bettermc.eu",
-  "socials": {
-    "discord": "https://discord.gg/tcabTn3KA4"
-  }
+    "id": "bettermc",
+    "name": "bettermc",
+    "website": "https://www.bettermc.eu",
+    "store": "https://www.bettermc.eu",
+    "description": "Polish Minecraft Server",
+    "addresses": [
+        "bettermc.eu"
+    ],
+    "primaryAddress": "bettermc.eu",
+    "primaryColor": "#FFAB00",
+    "secondaryColor": "#FFAB00",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "regions": [
+        "EU"
+    ],
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/tcabTn3KA4"
+    }
 }
