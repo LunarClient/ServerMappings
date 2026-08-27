@@ -1,0 +1,38 @@
+{
+  "id": "narena",
+  "name": "N Arena",
+  "description": "Competitive Practice PvP - ranked duels, FFA, and kit training.",
+  "addresses": [
+    "example.com"
+  ],
+  "primaryAddress": "play.example.com",
+  "minecraftVersions": [
+    "1.21.1",
+    "1.21.3",
+    "1.21.4",
+    "1.21.8",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#55FFFF",
+  "secondaryColor": "#7DD3FC",
+  "primaryLanguage": "ja",
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Practice",
+    "PvP",
+    "Competitive",
+    "KitPvP",
+    "Crystal PvP"
+  ],
+  "primaryGameType": "Practice",
+  "crossplay": true
+}
