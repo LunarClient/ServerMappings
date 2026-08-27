@@ -1,0 +1,49 @@
+{
+    "id": "heeph",
+    "name": "HEEPH CLUB",
+    "store": "https://loja.heeph.club/",
+    "description": "The best Brazilian Minecraft practice server, Train, improve, have fun!",
+    "addresses": [
+        "heeph.club"
+    ],
+    "primaryAddress": "heeph.club",
+    "primaryColor": "#2737e8",
+    "secondaryColor": "#e8eaff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "PvP",
+        "Practice",
+        "Competitive",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "servidorheeph",
+        "discord": "https://discord.gg/heeph",
+        "instagram": "servidorheeph",
+        "tiktok": "@servidorheeph",
+        "youtube": "@servidorheeph"
+    }
+}
