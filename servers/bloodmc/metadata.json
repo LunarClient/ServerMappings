@@ -1,7 +1,7 @@
 {
     "id": "bloodmc",
     "name": "BloodMC",
-    "description": "Play Roleplay, PvP, SMP, Survival and Empire on BloodMC.",
+    "description": "Play Roleplay, PvP and Survival on BloodMC",
     "addresses": [
         "bloodmc.top"
     ],
@@ -26,9 +26,7 @@
     "gameTypes": [
         "Roleplay",
         "PvP",
-        "SMP",
-        "Survival",
-        "Empire"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/KdTWg8DU9Y"
