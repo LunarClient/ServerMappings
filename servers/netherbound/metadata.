@@ -1,0 +1,34 @@
+{
+  "id": "netherbound",
+  "name": "Netherbound SMP",
+  "description": "A survival SMP where you make the story.",
+  "addresses": [
+    "mc.netherbound.cc"
+  ],
+  "primaryAddress": "mc.netherbound.cc",
+  "minecraftVersions": [
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "primaryColor": "#C63B24",
+  "secondaryColor": "#FF7A24",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "SMP",
+    "Survival"
+  ],
+  "primaryGameType": "SMP",
+  "website": "https://www.netherbound.cc",
+  "socials": {
+    "discord": "https://discord.gg/CR4atgngTC",
+    "youtube": "http://www.youtube.com/@sirgeek_"
+  },
+  "crossplay": false
+}
