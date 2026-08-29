@@ -1,0 +1,34 @@
+{
+  "id": "softymc",
+  "name": "SoftyMC",
+  "description": "SoftyMC is an server with smp e lifesteal!",
+  "addresses": [
+    "softymc.eu"
+  ],
+  "primaryAddress": "play.softymc.eu",
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Roleplay"
+  ],
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21.8",
+    "1.21.10"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://www.softymc.eu",
+  "store": "https://store.softymc.eu",
+  "socials": {
+    "discord": "https://discord.gg/uhjpnfaD9"
+  }
+}

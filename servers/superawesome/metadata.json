@@ -23,6 +23,7 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
         "PvP",

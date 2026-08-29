@@ -1,0 +1,35 @@
+{
+    "id": "newsmp",
+    "name": "NewSMP",
+    "website": "https://newsmp.fr",
+    "description": "NewSMP is a public SMP open to everyone, the actual season is v4.5",
+    "addresses": [
+        "newsmp.fr"
+    ],
+    "primaryAddress": "play.newsmp.fr",
+    "primaryColor": "#cd00ff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "26.1.2"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/zecUG8YvuK"
+    },
+    "compliance": {
+        "rules": "https://docs.google.com/document/d/1uhLYyZgnG25HHzMuhIZO4ZS0xee7mfZ_zdcnJnFiRcY/"
+    }
+}

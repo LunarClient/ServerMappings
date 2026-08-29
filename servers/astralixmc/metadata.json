@@ -1,0 +1,26 @@
+{
+    "id": "astralixmc",
+    "name": "AstralixMC",
+    "description": "Play fun Gamemodes on AstralixMC",
+    "addresses": [
+        "astralixmc.hu"
+    ],
+    "primaryAddress": "play.astralixmc.hu",
+    "primaryColor": "#73C4FC",
+    "secondaryColor": "#95DEFB",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

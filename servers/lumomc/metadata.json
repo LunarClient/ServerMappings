@@ -1,0 +1,38 @@
+{
+    "id": "lumomc",
+    "name": "LumoMC",
+    "website": "https://www.lumomc.pl/",
+    "store": "https://www.lumomc.pl/#shop",
+    "description": "Jump in and start your adventure on top-tier game modes!",
+    "addresses": [
+        "lumomc.pl"
+    ],
+    "primaryAddress": "lumomc.pl",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#b347ff",
+    "secondaryColor": "#cb81ff",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE"
+    ],
+    "primaryGameType": "PvP",
+    "socials": {
+        "tiktok": "@LumoMC",
+        "youtube": "LumoMC",
+        "discord": "https://discord.com/invite/FzJ8w8KjCV"
+    }
+}
