@@ -1,0 +1,33 @@
+{
+  "id": "prismarinesmp",
+  "name": "PrismarineSMP",
+  "description": "A Minecraft survival SMP focused on community and fun.",
+  "addresses": [
+    "prismarinesmp.pro"
+  ],
+  "primaryAddress": "mc.prismarinesmp.pro",
+  "gameTypes": [
+    "Survival",
+    "SMP"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#8B2CFF",
+  "secondaryColor": "#000000",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://prismarinesmp.pro",
+  "socials": {
+    "discord": "https://discord.gg/prismarine"
+  }
+}
