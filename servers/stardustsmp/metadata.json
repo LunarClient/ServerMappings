@@ -18,6 +18,7 @@
     "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "EU",
     "regions": [
+        "EU",
         "NA",
         "AS",
         "SA",
