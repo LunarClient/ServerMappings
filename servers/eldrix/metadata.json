@@ -9,10 +9,11 @@
   "primaryColor": "#249DFF",
   "secondaryColor": "#0B4F9C",
   "minecraftVersions": [
-    "1.21.*"
+    "1.21.11"
   ],
-  "primaryMinecraftVersion": "1.21.6",
+  "primaryMinecraftVersion": "1.21.11",
   "crossplay": false,
+  "offline": true,
   "primaryRegion": "EU",
   "regions": [
     "EU"
