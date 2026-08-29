@@ -1,0 +1,49 @@
+{
+  "id": "battlecraft",
+  "name": "BattleCraft",
+  "website": "https://www.battlecraft.eu/",
+  "store": "https://www.battlecraft.eu/store",
+  "description": "BattleCraft is a unique Minecraft network featuring intelligent bots, exciting game modes, and a new multiplayer experience.",
+  "addresses": [
+    "battlecraft.eu"
+  ],
+  "primaryAddress": "battlecraft.eu",
+  "primaryColor": "#3fa3dc",
+  "secondaryColor": "#3a5c2d",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "offline": true,
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryGameType": "Minigames",
+  "gameTypes": [
+    "MineWars",
+    "SkyPvP",
+    "GTA",
+    "FastBuilders",
+    "BedWars",
+    "SkyWars",
+    "QSG",
+    "BattleRoyale",
+    "GunGame",
+    "Bingo"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/battlecraft",
+    "tiktok": "https://www.tiktok.com/@battlecraft_netzwerk",
+    "youtube": "https://www.youtube.com/@battlecraft9772"
+  }
+}
