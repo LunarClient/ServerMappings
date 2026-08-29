@@ -18,9 +18,9 @@
     "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "EU",
     "regions": [
-        "NA"
-        "AS"
-        "SA"
+        "NA",
+        "AS",
+        "SA",
         "OC"
     ],
     "primaryGameType": "Survival",
@@ -30,6 +30,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/P3UhWxyZZK",
+        "discord": "https://discord.com/invite/P3UhWxyZZK"
     }
 }
