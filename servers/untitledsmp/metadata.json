@@ -1,0 +1,27 @@
+{
+  "id": "untitledsmp",
+  "name": "UntitledSMP",
+  "description": "untitledsmp.net By Xelvc & Strive",
+  "addresses": [
+    "untitledsmp.net"
+  ],
+  "primaryAddress": "untitledsmp.net",
+  "minecraftVersions": [
+    "1.21.1"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#2A91FF",
+  "secondaryColor": "#FFFFFF",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://store.untitledsmp.net",
+  "socials": {
+    "discord": "https://discord.gg/untitledsmp"
+  }
+}
