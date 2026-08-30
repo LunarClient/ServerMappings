@@ -11,7 +11,8 @@
     "primaryColor": "#EB1C1A",
     "secondaryColor": "#DC74FA",
     "minecraftVersions": [
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "26.2",
     "crossplay": true,
