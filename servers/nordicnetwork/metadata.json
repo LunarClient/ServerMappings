@@ -11,10 +11,9 @@
     "primaryColor": "#4498DB",
     "secondaryColor": "#4498DB",
     "minecraftVersions": [
-        "26.1",
-        "26.1.2"
+        "1.21.11"
     ],
-    "primaryMinecraftVersion": "26.2",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
@@ -25,8 +24,8 @@
         "Survival"
     ],
     "socials": {
-        "tiktok": "@nordicnetowrk",
-        "discord": "https://discord.gg/nGV7ett7mU",
-        "youtube": "@nordicnetowrk"
+        "tiktok": "@realnordicmc",
+        "discord": "https://discord.gg/B9vj8HdjEj",
+        "youtube": "@nordicminecraft"
     }
 }
