@@ -126,13 +126,24 @@
             "type": "object",
             "additionalProperties": false,
             "properties": {
+                "provider": {
+                    "type": "string",
+                    "enum": ["modrinth", "curseforge"],
+                    "default": "modrinth",
+                    "description": "The platform hosting the modpack. If blank, defaults to Modrinth."
+                },
                 "id": {
                     "type": "string",
-                    "description": "The Modrinth Modpack ID."
+                    "description": "The Modpack ID on the given provider (Modrinth project ID or CurseForge mod ID)."
+                },
+                "required": {
+                    "type": "boolean",
+                    "default": false,
+                    "description": "If true, the Modpack must be installed to join the server. The user is always prompted, and can only install it or cancel the join."
                 },
                 "recommendedVersion": {
                     "type": "string",
-                    "description": "The recommended Modrinth Modpack version. If blank, will use latest version."
+                    "description": "The recommended Modpack version. If blank, will use latest version."
                 },
                 "recommendedReleaseChannel": {
                     "type": "string",

@@ -1,29 +1,54 @@
 {
     "id": "regorland",
     "name": "Regorland",
+    "description": "Custom gamemodes, PvP, events, and endless adventures.",
+    "website": "https://www.regorland.net/",
     "store": "https://tienda.regorland.net/",
-    "description": "Play Minigames and PvP on Regorland.",
     "addresses": [
-        "regorland.net"
+        "regorland.net",
+        "regorland.com",
+        "regorland.es"
     ],
-    "primaryAddress": "play.regorland.net",
-    "primaryColor": "#b51e1b",
-    "secondaryColor": "#251715",
+    "primaryAddress": "regorland.net",
+    "primaryColor": "#CF0F08",
+    "secondaryColor": "#EEAE2A",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
+        "1.16.5",
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*",
+        "26.1",
+        "26.2"
     ],
-    "primaryMinecraftVersion": "1.19.2",
+    "primaryMinecraftVersion": "1.21.11",
     "gameTypes": [
+        "Earth",
+        "Adventure",
+        "Anarchy",
+        "BoxPvP",
+        "Crystal PvP",
+        "Lifesteal",
         "Minigames",
-        "PvP"
+        "OneBlock",
+        "Parkour",
+        "Practice",
+        "Skyblock",
+        "Survival",
+        "PvP",
+        "Tycoon"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "compliance": {
+        "rules": "https://www.regorland.net/reglas"
+    },
     "socials": {
-        "discord": "https://discord.com/invite/keFuwGCa5t"
-    }
+        "twitter": "RegorlandMC",
+        "discord": "https://discord.com/invite/regorland"
+    },
+    "crossplay": true
 }
