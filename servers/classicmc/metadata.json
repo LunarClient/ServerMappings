@@ -23,10 +23,11 @@
         "SMP"
     ],
     "crossplay": false,
+    "offline": true,
     "website": "https://classicmc.top/en-us",
     "socials": {
         "discord": "https://classicmc.top/discord",
-        "tiktok": "classicmc.top"
+        "tiktok": "@classicmc.top"
     },
     "compliance": {
         "rules": "https://classicmc.top/en-us/#rules"
