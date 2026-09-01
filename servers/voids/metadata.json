@@ -3,7 +3,7 @@
     "name": "VoidSMP",
     "description": "A arabic SMP lifesteal server.",
     "addresses": [
-        "voidsmp.minetro.net"
+        "minetro.net"
     ],
     "primaryAddress": "voidsmp.minetro.net",
     "primaryColor": "#9F2B68",
