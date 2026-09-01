@@ -1,8 +1,6 @@
 {
   "id": "eeviumsmp",
   "name": "EeviumSMP",
-  "website": "",
-  "store": "",
   "description": "Server Survival EeviumSMP",
   "addresses": [
     "eeviumsmp.mcsh.io"
@@ -16,8 +14,7 @@
   "secondaryColor": "#007FAA",
   "primaryLanguage": "it",
   "languages": [
-    "it",
-    "en"
+    "it"
   ],
   "primaryRegion": "EU",
   "regions": [
@@ -28,14 +25,7 @@
     "PvE",
     "Vanilla",
   ],
-  "compliance": {
-    "privacyPolicy": "",
-    "termsOfService": "",
-    "rules": ""
-  },
   "socials": {
-    "twitter": "",
-    "telegram": "",
     "discord": "https://discord.gg/spfZrMk7vS"
   },
   "crossplay": true
