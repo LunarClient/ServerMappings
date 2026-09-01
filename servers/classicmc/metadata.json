@@ -20,13 +20,18 @@
     "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
-        "SMP"
+        "Vanilla"
     ],
     "crossplay": false,
     "offline": true,
     "website": "https://classicmc.top/en-us",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl",
+        "en"
+    ],
     "socials": {
-        "discord": "https://classicmc.top/discord",
+        "discord": "https://discord.com/invite/q6QM7TtCDw",
         "tiktok": "@classicmc.top"
     },
     "compliance": {
