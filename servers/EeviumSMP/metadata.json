@@ -9,7 +9,7 @@
   ],
   "primaryAddress": "eeviumsmp.mcsh.io",
   "minecraftVersions": [
-    "1.26.*"
+    "26.2.*"
   ],
   "primaryMinecraftVersion": "1.26.2",
   "primaryColor": "#55ff55",
