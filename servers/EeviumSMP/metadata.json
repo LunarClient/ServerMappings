@@ -1,0 +1,41 @@
+{
+  "id": "eeviumsmp",
+  "name": "EeviumSMP",
+  "website": "",
+  "store": "",
+  "description": "Server Survival EeviumSMP",
+  "addresses": [
+    "eeviumsmp.mcsh.io"
+  ],
+  "primaryAddress": "eeviumsmp.mcsh.io",
+  "minecraftVersions": [
+    "1.26.*"
+  ],
+  "primaryMinecraftVersion": "1.26.2",
+  "primaryColor": "#55ff55",
+  "secondaryColor": "#00aa00",
+  "primaryLanguage": "it",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "SMP",
+    "Survival"
+  ],
+  "compliance": {
+    "privacyPolicy": "",
+    "termsOfService": "",
+    "rules": ""
+  },
+  "socials": {
+    "twitter": "",
+    "telegram": "",
+    "discord": "https://discord.gg/spfZrMk7vS"
+  },
+  "crossplay": true
+}
