@@ -11,7 +11,7 @@
   "minecraftVersions": [
     "26.2.*"
   ],
-  "primaryMinecraftVersion": "1.26.2",
+  "primaryMinecraftVersion": "26.2",
   "primaryColor": "#55ff55",
   "secondaryColor": "#00aa00",
   "primaryLanguage": "it",
