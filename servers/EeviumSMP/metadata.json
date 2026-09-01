@@ -25,6 +25,7 @@
   ],
   "gameTypes": [
     "SMP",
+    "pvp",
     "Survival"
   ],
   "compliance": {
