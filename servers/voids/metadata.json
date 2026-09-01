@@ -23,8 +23,8 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival"
-        "Lifesteal"
+        "Survival",
+        "Lifesteal",
         "PvP"
     ],
     "socials": {
