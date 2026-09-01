@@ -12,8 +12,8 @@
     "26.2.*"
   ],
   "primaryMinecraftVersion": "26.2",
-  "primaryColor": "#55ff55",
-  "secondaryColor": "#00aa00",
+  "primaryColor": "#000100",
+  "secondaryColor": "#007FAA",
   "primaryLanguage": "it",
   "languages": [
     "it",
