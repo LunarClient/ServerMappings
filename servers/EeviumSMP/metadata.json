@@ -24,9 +24,9 @@
     "EU"
   ],
   "gameTypes": [
-    "SMP",
-    "pvp",
-    "Survival"
+    "PvP",
+    "PvE",
+    "Vanilla",
   ],
   "compliance": {
     "privacyPolicy": "",
