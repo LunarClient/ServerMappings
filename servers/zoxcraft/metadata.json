@@ -3,19 +3,21 @@
   "name": "ZoxCraft Network",
   "website": "https://zoxcraft.lat/",
   "store": "https://tienda.zoxcraft.lat",
-  "description": "Survival Custom único: mundo propio, biomas exclusivos y skills.",
+  "description": "Survival Custom unico: mundo propio, biomas exclusivos y skills.",
   "addresses": [
     "zoxcraft.lat"
   ],
   "primaryAddress": "mc.zoxcraft.lat",
   "crossplay": true,
+  "primaryColor": "#4CAF50",
+  "secondaryColor": "#1B1B1B",
   "primaryRegion": "NA",
   "regions": [
     "NA"
   ],
-  "primaryLanguage": "es",
+  "primaryLanguage": "es-EN",
   "languages": [
-    "es"
+    "es-EN"
   ],
   "primaryGameType": "Survival",
   "gameTypes": [
@@ -24,13 +26,7 @@
   ],
   "minecraftVersions": [
     "1.8.*",
-    "1.9.*",
-    "1.10.*",
-    "1.11.*",
     "1.12.*",
-    "1.13.*",
-    "1.14.*",
-    "1.15.*",
     "1.16.*",
     "1.17.*",
     "1.18.*",
