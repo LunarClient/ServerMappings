@@ -1,0 +1,54 @@
+{
+  "id": "zoxcraft",
+  "name": "ZoxCraft Network",
+  "website": "https://zoxcraft.lat/",
+  "store": "https://tienda.zoxcraft.lat",
+  "description": "Servidor de Minecraft con una experiencia Survival Custom única: mundo creado desde cero, biomas exclusivos y cosméticos. En un futuro, más modalidades.",
+  "addresses": [
+    "zoxcraft.lat"
+  ],
+  "primaryAddress": "mc.zoxcraft.lat",
+  "crossplay": true,
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "minecraftVersions": [
+    "1.8.*",
+    "1.9.*",
+    "1.10.*",
+    "1.11.*",
+    "1.12.*",
+    "1.13.*",
+    "1.14.*",
+    "1.15.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "socials": {
+    "discord": "https://discord.gg/zoxcraft",
+    "instagram": "zoxcraft.network",
+    "tiktok": "@zoxcraft_",
+    "youtube": "@ZoxCraftNetwork"
+  },
+  "compliance": {
+    "privacyPolicy": "https://zoxcraft.lat/privacidad.html",
+    "termsOfService": "https://zoxcraft.lat/terminos.html",
+    "rules": "https://zoxcraft.lat/reglas.html"
+  }
+}
