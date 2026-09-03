@@ -4,8 +4,7 @@
     "website": "https://pitschonix.eu/",
     "description": "Play HG, PvP, Survival, Minigames, and KitPvP on Pitschonix.",
     "addresses": [
-        "pitschonix.eu",
-        "play.pitschonix.eu"
+        "pitschonix.eu"
     ],
     "primaryAddress": "pitschonix.eu",
     "primaryColor": "#AA00AA",
