@@ -1,0 +1,49 @@
+{
+  "id": "NexVionMC",
+  "name": "NexVionMC",
+  "description": "An Italian Minecraft server with a welcoming community and balanced gameplay.",
+  "addresses": [
+    "nexvion.it"
+  ],
+  "primaryAddress": "play.nexvion.it",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#20C96B",
+  "secondaryColor": "#0B6B3A",
+  "minecraftVersions": [
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.2"
+  ],
+  "primaryMinecraftVersion": "1.20",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "crossplay": false,
+  "offline": false
+}
