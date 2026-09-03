@@ -3,7 +3,7 @@
   "name": "BattleCraft",
   "website": "https://www.battlecraft.eu/",
   "store": "https://www.battlecraft.eu/store",
-  "description": "BattleCraft is a unique Minecraft network featuring intelligent bots, exciting game modes, and a new multiplayer experience.",
+  "description": "Unique Minecraft network featuring intelligent bots and exciting game modes.",
   "addresses": [
     "battlecraft.eu"
   ],
@@ -30,20 +30,14 @@
   ],
   "primaryGameType": "Minigames",
   "gameTypes": [
-    "MineWars",
-    "SkyPvP",
-    "GTA",
-    "FastBuilders",
-    "BedWars",
-    "SkyWars",
-    "QSG",
-    "BattleRoyale",
-    "GunGame",
-    "Bingo"
+    "PvP",
+    "Minigames",
+    "Skyblock",
+    "FastBuilders"
   ],
   "socials": {
     "discord": "https://discord.gg/battlecraft",
-    "tiktok": "https://www.tiktok.com/@battlecraft_netzwerk",
-    "youtube": "https://www.youtube.com/@battlecraft9772"
+    "tiktok": "battlecraft_netzwerk",
+    "youtube": "battlecraft9772"
   }
 }
