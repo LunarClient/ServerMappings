@@ -3,7 +3,7 @@
     "name": "LerouxCraft",
     "website": "https://lerouxcraft.com/",
     "store": "https://lerouxcraft.com/store",
-    "description": "Play Skyblock, SMP, Towny and Special Dungeons modes in LerouxCraft.",
+    "description": "Skyblock, SMP and Towny adventures on LerouxCraft.",
     "addresses": [
         "lerouxcraft.com"
     ],
@@ -16,7 +16,7 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.20.4",
-    "crossplay": false,
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -28,8 +28,9 @@
     "gameTypes": [
         "Skyblock",
         "SMP",
-        "Towny",
+        "Towny"
     ],
+    "primaryGameType": "Skyblock",
     "socials": {
         "discord": "https://discord.com/invite/Auc4TFaKAy"
     }
