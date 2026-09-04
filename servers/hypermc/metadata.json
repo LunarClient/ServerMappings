@@ -2,7 +2,7 @@
 "id": "hypermc",
 "name": "HyperMC",
 "description": "Il server italiano di riferimento per la competizione e i survival custom.",
-"website": "https://www.hyper-mc.it",
+"website": "https://discord.gg/Bgut9vVz8X",
 "addresses": [
 "hyper-mc.it"
 ],
@@ -15,8 +15,9 @@
 "primaryMinecraftVersion": "1.21.8",
 "gameTypes": [
 "PvP",
-"SMP",
-"Knockout"
+"Survival",
+"KitPvP",
+"Minigames"
 ],
 "socials": {
 "discord": "https://discord.hyper-mc.it"
