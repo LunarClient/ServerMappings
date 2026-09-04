@@ -11,9 +11,8 @@
     "Survival",
     "Factions",
     "Minigames",
-    "SMP"
   ],
-  "primaryGameType": "SMP",
+  "primaryGameType": "Survival",
   "primaryColor": "#8B5CF6",
   "secondaryColor": "#1F1F1F",
   "minecraftVersions": [
