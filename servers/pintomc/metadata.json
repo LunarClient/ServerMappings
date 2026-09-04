@@ -1,0 +1,29 @@
+{
+  "id": "pintomc",
+  "name": "PintoMC",
+  "description": "Servidor brasileiro de Minecraft BedWars.",
+  "addresses": [
+    "pintomc.com"
+  ],
+  "primaryAddress": "jogar.pintomc.com",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#00FFFF",
+  "secondaryColor": "#00AAAA",
+  "primaryLanguage": "pt-BR",
+  "languages": [
+    "pt-BR"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "primaryGameType": "PvP",
+  "crossplay": false
+}
