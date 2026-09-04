@@ -1,0 +1,25 @@
+{
+  "id": "eldrix",
+  "name": "Eldrix",
+  "description": "Czech survival server with unique features and custom content.",
+  "addresses": [
+    "eldrix.eu"
+  ],
+  "primaryAddress": "mc.eldrix.eu",
+  "primaryColor": "#249DFF",
+  "secondaryColor": "#0B4F9C",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": false,
+  "offline": true,
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival"
+}
