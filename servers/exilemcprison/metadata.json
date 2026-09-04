@@ -4,7 +4,7 @@
   "store": "https://exile-webshop.tebex.io/",
   "description": "Modern Prison Server",
   "addresses": [
-    "play.exilemc.co"
+    "exilemc.co"
   ],
   "primaryAddress": "play.exilemc.co",
   "minecraftVersions": [
