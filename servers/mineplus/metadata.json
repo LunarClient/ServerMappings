@@ -3,11 +3,7 @@
   "name": "MinePlus",
   "description": "Modern Turkish Minecraft network for Survival, Practice and Parkour.",
   "addresses": [
-    "mc.mineplus.network",
-    "mineplus.network",
-    "play.mineplus.network",
-    "smp.mineplus.network",
-    "oyna.mineplus.network"
+    "mineplus.network"
   ],
   "primaryAddress": "mc.mineplus.network",
   "minecraftVersions": [
@@ -23,21 +19,11 @@
   "primaryColor": "#FFFFFF",
   "secondaryColor": "#000000",
   "primaryLanguage": "tr",
-  "languages": [
-    "tr"
-  ],
+  "languages": ["tr"],
   "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
+  "regions": ["EU"],
   "primaryGameType": "Survival",
-  "gameTypes": [
-    "Survival",
-    "Practice",
-    "Parkour",
-    "PvP",
-    "Minigames"
-  ],
+  "gameTypes": ["Survival", "Practice", "Parkour", "PvP", "Minigames"],
   "website": "https://mineplus.network/",
   "store": "https://mineplus.network/store",
   "compliance": {
