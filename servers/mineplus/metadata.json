@@ -3,7 +3,11 @@
   "name": "MinePlus",
   "description": "Modern Turkish Minecraft network for Survival, Practice and Parkour.",
   "addresses": [
-    "mineplus.network"
+    "mc.mineplus.network",
+    "mineplus.network",
+    "play.mineplus.network",
+    "smp.mineplus.network",
+    "oyna.mineplus.network"
   ],
   "primaryAddress": "mc.mineplus.network",
   "minecraftVersions": [
