@@ -1,0 +1,31 @@
+{
+  "id": "voidednetwork",
+  "name": "VoidedNetwork",
+  "description": "A custom Minecraft network built around unique gameplay experiences.",
+  "addresses": [
+    "voidednetwork.uk"
+  ],
+  "primaryAddress": "play.voidednetwork.uk",
+  "gameTypes": [
+    "Prison",
+    "Survival",
+    "Factions",
+    "Minigames",
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#8B5CF6",
+  "secondaryColor": "#1F1F1F",
+  "minecraftVersions": [
+    "1.8.9",
+    "1.12.2"
+  ],
+  "primaryMinecraftVersion": "1.12.2",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU"
+}
