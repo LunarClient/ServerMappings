@@ -1,0 +1,52 @@
+{
+    "id": "bedcraftmc",
+    "name": "BedCraftMC",
+    "store": "https://store.bedcraftmc.eu/",
+    "description": "BedCraftMC is a Swiss Minecraft network offering a variety of minigames including BedWars, SkyWars, and Survival.",
+    "addresses": [
+        "play.bedcraftmc.eu"
+    ],
+    "primaryAddress": "play.bedcraftmc.eu",
+    "primaryColor": "#4252ff",
+    "secondaryColor": "#dfe1f7",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9",
+        "1.9.*",
+        "1.10.*",
+        "1.11.*",
+        "1.12.*",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "fr",
+        "it"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Lifesteal",
+        "SMP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bedcraftmc"
+    }
+}
