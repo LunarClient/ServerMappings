@@ -1,0 +1,32 @@
+{
+    "id": "SmartMC",
+    "name": "SmartMC",
+    "website": "https://www.smartmc.it",
+    "store": "https://store.smartmc.it",
+    "description": "Join SmartMC and enjoy our fun and friendly Minecraft community!",
+    "addresses": [
+        "smartmc.it"
+    ],
+    "primaryAddress": "smartmc.it",
+    "primaryColor": "#7b1fa2",
+    "secondaryColor": "#d9d9d9",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/smartmc"
+    }
+}
