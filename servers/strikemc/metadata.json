@@ -1,0 +1,40 @@
+{
+  "id": "strikemc",
+  "name": "StrikeMC",
+  "website": "https://www.strikemc.pl/",
+  "store": "https://sklep.strikemc.pl/",
+  "description": "Play the amazing new BoxPvP experience on StrikeMC!",
+  "addresses": [
+    "strikemc.pl"
+  ],
+  "primaryAddress": "strikemc.pl",
+  "offline": true,
+  "primaryColor": "#5e88d3",
+  "secondaryColor": "#ffffff",
+  "minecraftVersions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryGameType": "BoxPvP",
+  "gameTypes": [
+    "BoxPvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/HZmYCxZMGr"
+  }
+}
