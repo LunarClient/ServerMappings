@@ -4,6 +4,7 @@
   "offline": true,
   "crossplay": false,
   "store": "https://mytheriamc.net",
+  "discord": "https://discord.mytheriamc.net",
   "description": "Play MytheriaMC for the premium Skyblock and Oneblock experience",
   "addresses": [
     "play.mytheriamc.net"
