@@ -2,6 +2,7 @@
     "id": "watermcnetwork",
     "name": "WaterMC Network",
     "store": "https://store.watermc.gg/",
+    "description": "Play PvP and HCF on WaterMC Network.",
     "addresses": [
         "watermc.gg"
     ],

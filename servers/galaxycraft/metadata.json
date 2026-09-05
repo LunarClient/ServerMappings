@@ -1,6 +1,7 @@
 {
     "id": "galaxycraft",
     "name": "GalaxyCraft",
+    "description": "Experience survival gameplay on GalaxyCraft.",
     "addresses": [
         "galaxycraft.lat"
     ],

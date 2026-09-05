@@ -1,0 +1,42 @@
+{
+  "id": "cookieclickerv2",
+  "name": "Cookie Clicker V2",
+  "description": "A Minecraft cookie-based minigame with upgrades and economy.",
+  "addresses": [
+    "cookieclickermc.fr"
+  ],
+  "primaryAddress": "play.cookieclickermc.fr",
+  "gameTypes": [
+    "Minigames",
+    "Creative"
+  ],
+  "primaryGameType": "Minigames",
+  "primaryColor": "#D2691E",
+  "secondaryColor": "#FFD700",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": [
+    "fr"
+  ],
+  "primaryLanguage": "fr",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.gg/BdZf2YVW4w"
+  },
+  "crossplay": false,
+  "offline": false
+}

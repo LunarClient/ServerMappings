@@ -1,7 +1,7 @@
 {
     "id": "soupgg",
     "name": "SoupGG",
-    "description": "Soup Practice, Kit, and more",
+    "description":"SoupGG — Defined by combat",
     "addresses": [
         "soup.gg"
     ],
@@ -11,17 +11,16 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ffce4b",
-    "secondaryColor": "#664400",
-    "regions": [
-        "NA"
+    "primaryColor": "#f9a17b",
+    "secondaryColor": "#536d16",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
-    "primaryRegion": "NA",
     "gameTypes": [
         "PvP"
     ],
-    "store": "https://store.soup.gg",
     "socials": {
-        "discord": "https://www.soup.gg/discord"
+        "discord": "https://discord.com/invite/Ra9mMzvXX3"
     }
 }

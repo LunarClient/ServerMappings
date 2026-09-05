@@ -1,0 +1,33 @@
+{
+    "id": "ramble",
+    "name": "Ramble",
+    "website": "https://www.ramblemc.net",
+    "store": "https://tienda.ramblemc.net",
+    "description": "The best survival islands RPG",
+    "addresses": [
+        "ramblemc.net"
+    ],
+    "primaryAddress": "play.ramblemc.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#ea580c",
+    "secondaryColor": "#C2410C",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/tUXqPYnr6h",
+        "twitter": "ramblemcnet",
+        "tiktok": "@ramblemcnet"
+    },
+    "crossplay": true
+}

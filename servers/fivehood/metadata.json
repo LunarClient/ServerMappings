@@ -1,0 +1,33 @@
+{
+    "id": "fivehood",
+    "name": "FiveHood Network",
+    "description": "#1 Arab Community Survival && PvP",
+    "addresses": [
+        "fivehood.club"
+    ],
+    "primaryAddress": "mc.fivehood.club",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#E140F7",
+    "secondaryColor": "#B175BD",
+    "primaryLanguage": "ar",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://store.fivehood.club",
+    "socials": {
+        "discord": "https://discord.gg/fivehood"
+    },
+    "crossplay": true
+}

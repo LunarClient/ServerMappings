@@ -27,9 +27,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Prison",
-        "Skyblock"
+        "Skyblock",
+        "Survival"
     ],
     "socials": {
         "twitter": "wild_prison",

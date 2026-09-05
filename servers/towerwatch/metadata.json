@@ -1,6 +1,7 @@
 {
     "id": "towerwatch",
     "name": "TowerWatch",
+    "description": "Play Skyblock and PvP on TowerWatch.",
     "addresses": [
         "towerwatch.top"
     ],

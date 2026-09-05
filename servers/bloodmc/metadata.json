@@ -1,7 +1,8 @@
 {
     "id": "bloodmc",
     "name": "BloodMC",
-    "addresses": [ 
+    "description": "Play Roleplay and PvP on BloodMC.",
+    "addresses": [
         "bloodmc.com"
     ],
     "primaryAddress": "play.bloodmc.com",
@@ -25,7 +26,6 @@
     "gameTypes": [
         "Roleplay",
         "PvP"
-
     ],
     "socials": {
         "discord": "https://discord.gg/KdTWg8DU9Y"

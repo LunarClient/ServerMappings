@@ -1,0 +1,37 @@
+ {
+  "id": "squidmc",
+  "name": "SquidMC",
+  "description": "SquidMC is Italy's only server with innovative, never-seen-before modes.",
+  "addresses": [
+    "squidmc.it"
+  ],
+  "primaryAddress": "play.squidmc.it",
+  "gameTypes": [
+    "Open World"
+  ],
+  "primaryColor": "#3A62F2",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21.8"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://squidmc.it/",
+  "store": "https://squidmc.it/store",
+  "socials": {
+    "discord": "https://discord.gg/squidmc",
+    "telegram": "SquidNetworkMC"
+  },
+  "compliance": {
+    "rules": "https://squidmc.it/regolamento",
+    "support": "https://discord.gg/squidmc"
+    
+  }
+}

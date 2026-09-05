@@ -1,0 +1,16 @@
+{
+  "id": "hitmansmp",
+  "name": "HitmanSMP",
+  "description": "Indonesian Survival Multiplayer Server",
+  "addresses": ["hitmansmp.xyz"],
+  "primaryAddress": "hitmansmp.xyz",
+  "minecraftVersions": ["1.21.*"],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#1a1a2e",
+  "primaryLanguage": "en",
+  "languages": ["en"],
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "gameTypes": ["Survival", "PvP"]
+}

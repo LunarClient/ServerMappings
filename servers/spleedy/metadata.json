@@ -1,6 +1,7 @@
 {
     "id": "spleedy",
     "name": "SpleeDY",
+    "description": "Play Parkour and PvP on SpleeDY.",
     "addresses": [
         "spleedy.net"
     ],
@@ -26,6 +27,4 @@
     "socials": {
         "discord": "https://discord.gg/t9t9YdzcNb"
     }
-
 }
-

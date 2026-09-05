@@ -2,6 +2,7 @@
     "id": "fantamc",
     "name": "FantaMC",
     "store": "https://fantamc.tebex.io/",
+    "description": "Play Survival and PvP on FantaMC.",
     "addresses": [
         "fantamc.com"
     ],

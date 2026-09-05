@@ -2,6 +2,7 @@
     "id": "dynamicpvp",
     "name": "Dynamic Network",
     "store": "https://store.dynamicpvp.net/",
+    "description": "Play HCF and PvP on Dynamic Network.",
     "addresses": [
         "dynamicpvp.net"
     ],
@@ -22,9 +23,13 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "HCF",
     "gameTypes": [
         "HCF",
-        "PvP"
+        "PvP",
+        "KitPvP",
+        "Practice",
+        "Competitive"
     ],
     "socials": {
         "twitter": "dynamicpvpnet",

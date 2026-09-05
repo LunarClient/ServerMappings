@@ -1,0 +1,27 @@
+{
+  "id": "dreamnetwork",
+  "name": "DreamNetwork",
+  "description": "Italian SMP network featuring the unique custom Chunked progression mode.",
+  "addresses": [
+    "dreamnetwork.it"
+  ],
+  "primaryAddress": "play.dreamnetwork.it",
+  "gameTypes": [
+    "Survival",
+    "Open World"
+  ],
+  "primaryColor": "#4FC3F7",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ]
+}

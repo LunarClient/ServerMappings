@@ -2,6 +2,7 @@
     "id": "lushmc",
     "name": "LushMC",
     "store": "https://store.lushmc.fun/",
+    "description": "Play Skyblock and Survival on LushMC.",
     "addresses": [
         "lushmc.fun"
     ],

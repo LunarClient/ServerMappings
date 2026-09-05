@@ -1,6 +1,7 @@
 {
     "id": "onlygoats",
     "name": "OnlyGoats",
+    "description": "Play exciting minigames on OnlyGoats.",
     "addresses": [
         "ogoats.club"
     ],

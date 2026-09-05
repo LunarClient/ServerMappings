@@ -2,6 +2,7 @@
     "id": "gelic",
     "name": "Gelic",
     "store": "https://store.gelic.us/",
+    "description": "Play PvP, HCF, and more on Gelic.",
     "addresses": [
         "gelic.us"
     ],

@@ -2,6 +2,7 @@
     "id": "nokbox",
     "name": "NokBox",
     "store": "https://tienda.nokbox.net/",
+    "description": "Play PvP and PvE on NokBox.",
     "addresses": [
         "nokbox.org",
         "nokbox.es",
