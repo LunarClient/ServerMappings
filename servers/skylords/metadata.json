@@ -1,0 +1,32 @@
+{
+    "id": "skylords",
+    "name": "Skylords Network",
+    "website": "https://skylords.org",
+    "description": "Play a new style of Generators!",
+    "addresses": [
+        "skylords.org"
+    ],
+    "primaryAddress": "play.skylords.org",
+    "primaryColor": "#7df325",
+    "secondaryColor": "#e6e9e8",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Gens",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dw5MVxfEFE"
+    }
+}
