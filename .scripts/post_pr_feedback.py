@@ -20,7 +20,7 @@ import requests
 
 API_ROOT = "https://api.github.com"
 READY_LABEL = "Ready for review"
-RESULTS_FILE = "pr_results.json"
+RESULTS_FILE = os.environ["RESULTS_FILE"]
 
 
 def gh_request(method: str, path: str, token: str, **kwargs) -> requests.Response:
