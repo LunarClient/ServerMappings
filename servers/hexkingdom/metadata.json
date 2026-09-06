@@ -3,7 +3,7 @@
     "name": "HexKingdom",
     "description": "Italian Minecraft network with Survival, SMP and Minigames",
     "addresses": [
-        "mc.hexkingdommc.it"
+        "hexkingdommc.it"
     ],
     "primaryAddress": "mc.hexkingdommc.it",
     "minecraftVersions": [
@@ -33,5 +33,6 @@
     "socials": {
         "discord": "https://discord.gg/MTt9jUAF67"
     },
-    "crossplay": true
+    "crossplay": true,
+    "offline": true
 }
