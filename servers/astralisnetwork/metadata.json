@@ -35,6 +35,8 @@
         "Factions"
     ],
     "store": "https://tienda.astralisnet.com",
+    "crossplay" : true
+    "offline": true
     "socials": {
         "discord": "https://discord.gg/thnqZ5VjgQ",
          "youtube": "astralisnetwork"
