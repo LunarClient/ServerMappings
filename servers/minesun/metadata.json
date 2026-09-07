@@ -1,0 +1,42 @@
+{
+  "id": "minesun",
+  "name": "Minesun Network",
+  "offline": true,
+  "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/minesun"
+    },
+  "store": "https://tienda.minesun.xyz/",
+  "description": "Minecraft server dedicated to BoxPvP",
+  "addresses": [
+    "minesun.xyz",
+    "chowbox.us",
+    "summerblock.net"
+  ],
+  "primaryAddress": "minesun.xyz",
+  "primaryColor": "#FFC43A",
+  "secondaryColor": "#FFBE00",
+  "minecraftVersions": [
+    "1.13.*",
+    "1.14.*",
+    "1.15.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryGameType": "BoxPvP",
+  "gameTypes": [
+    "BoxPvP",
+    "PvP"
+  ]
+}
