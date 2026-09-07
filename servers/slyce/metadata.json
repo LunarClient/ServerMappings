@@ -2,8 +2,6 @@
     "id": "slyce",
     "name": "Slyce",
     "description": "France's competitive 1.8.9 BedWars server — ranked 4v4, ELO and tournaments",
-    "website": "https://www.slyce.fr/",
-    "description": "Join Slyce, the new era of Minecraft competition in France",
     "addresses": [
         "slycemc.eu",
         "slycemc.com",
@@ -14,17 +12,12 @@
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#f29001",
-    "secondaryColor": "#6d617d",
+    "primaryColor": "#43b49f",
+    "secondaryColor": "#0f6155",
     "primaryLanguage": "fr",
     "languages": [
         "fr",
         "en"
-    ],
-    "gameTypes": [
-        "PvP",
-        "Minigames"
-    ],
     ],
     "primaryRegion": "EU",
     "regions": [
