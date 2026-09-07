@@ -1,42 +1,41 @@
 {
-  "id": "crewmate",
-  "name": "CrewMate",
-  "description": "CrewMate, the best survival game in Italy!",
-  "addresses": [
-    "crewmate.it"
-  ],
-  "primaryAddress": "mc.crewmate.it",
-  "gameTypes": [
-    "Survival"
-  ],
-  "primaryColor": "#0E43EB",
-  "secondaryColor": "#0E43EB",
-  "minecraftVersions": [
-    "1.21.5"
-  ],
-  "primaryMinecraftVersion": "1.21.5",
-  "languages": [
-    "it"
-  ],
-  "primaryLanguage": "it",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "website": "https://sito.crewmate.it",
-  "wiki": "https://sito.crewmate.it/wiki",
-  "store": "https://sito.crewmate.it/store",
-  "socials": {
-    "discord": "https://discord.gg/UEgTHadT4B",
-    "tiktok": "@crewmate"
-  },
-  "votingLinks": [
-    "https://minecraft-italia.net/lista/server/crewmate"
-  ],
-  "compliance": {
-    "privacyPolicy": "https://sito.crewmate.it/index.php?route=/privacy/",
-    "termsOfService": "https://sito.crewmate.it/index.php?route=/terms/",
-    "rules": "https://sito.crewmate.it/index.php?route=/forum/topic/2-regolamento/"
-  }
-
+    "id": "crewmate",
+    "name": "CrewMate",
+    "website": "https://sito.crewmate.it",
+    "store": "https://sito.crewmate.it/store",
+    "wiki": "https://sito.crewmate.it/wiki",
+    "description": "CrewMate, the best survival game in Italy!",
+    "addresses": [
+        "crewmate.it"
+    ],
+    "primaryAddress": "mc.crewmate.it",
+    "primaryColor": "#0E43EB",
+    "secondaryColor": "#0E43EB",
+    "minecraftVersions": [
+        "1.21.5"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/UEgTHadT4B",
+        "tiktok": "@crewmate"
+    },
+    "compliance": {
+        "privacyPolicy": "https://sito.crewmate.it/index.php?route=/privacy/",
+        "termsOfService": "https://sito.crewmate.it/index.php?route=/terms/",
+        "rules": "https://sito.crewmate.it/index.php?route=/forum/topic/2-regolamento/"
+    },
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/crewmate"
+    ]
 }

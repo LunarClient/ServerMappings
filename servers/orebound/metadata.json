@@ -1,0 +1,40 @@
+{
+    "id": "orebound",
+    "name": "OreBound",
+    "description": "Build your raft, fish the seas, and sail with your crew!",
+    "addresses": [
+        "orebound.net"
+    ],
+    "primaryAddress": "lnr.orebound.net",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#fdb700",
+    "secondaryColor": "#fee60c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Open World",
+        "PvE"
+    ],
+    "website": "https://orebound.net",
+    "store": "https://orebound.net/store",
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/orebound",
+        "tiktok": "@vertcode",
+        "instagram": "vertcodemc"
+    }
+}

@@ -6,17 +6,13 @@
         "landofparks.eu"
     ],
     "primaryAddress": "landofparks.eu",
+    "primaryColor": "#c29a0a",
+    "secondaryColor": "#fffefc",
     "minecraftVersions": [
         "1.21.5"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#c29a0a",
-    "secondaryColor": "#fffefc",
-    "primaryLanguage": "en",
-    "languages": [
-        "en",
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "NA",
@@ -25,9 +21,13 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "fr"
+    ],
     "gameTypes": [
         "Minigames",
         "Open World"
-    ],
-    "crossplay": false
+    ]
 }

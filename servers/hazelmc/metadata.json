@@ -2,6 +2,7 @@
     "id": "hazelmc",
     "name": "HazelMC",
     "store": "https://store.hazelmc.com/",
+    "description": "Play HCF and PvP on HazelMC.",
     "addresses": [
         "hazelmc.com"
     ],

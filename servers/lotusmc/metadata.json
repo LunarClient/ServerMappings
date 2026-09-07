@@ -2,6 +2,7 @@
     "id": "lotusmc",
     "name": "LotusMC",
     "store": "https://store.lotusmc.net/",
+    "description": "Play PvP and UHC on LotusMC.",
     "addresses": [
         "lotusmc.net"
     ],

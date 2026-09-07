@@ -1,6 +1,7 @@
 {
     "id": "wildya",
     "name": "Wildya",
+    "description": "Play PvP and Minigames on Wildya.",
     "addresses": [
         "wildya.fr"
     ],

@@ -1,0 +1,40 @@
+{
+    "id": "cavefight",
+    "name": "CaveFight",
+    "description": "Your cavefight network",
+    "addresses": [
+        "cavefight.de"
+    ],
+    "primaryAddress": "cavefight.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Crystal PvP",
+        "PvP",
+        "Minigames",
+        "UHC",
+        "Practice",
+        "KitPvP"
+    ],
+    "primaryGameType": "PvP",
+    "store": "https://shop.cavefight.de",
+    "socials": {
+        "youtube": "@cavefight",
+        "tiktok": "@cavefightde",
+        "discord": "https://www.discord.gg/cavefight"
+    },
+    "crossplay": false
+}

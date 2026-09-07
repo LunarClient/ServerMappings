@@ -2,6 +2,7 @@
     "id": "minearg",
     "name": "MineARG Network",
     "store": "https://tienda.minearg.com/",
+    "description": "Play Survival and PvP on MineARG Network.",
     "addresses": [
         "minearg.net"
     ],

@@ -9,14 +9,16 @@
         "manacube.com",
         "manacube.net"
     ],
-    "primaryAddress": "lunar.manacube.com",
+    "primaryAddress": "play.manacube.com",
     "primaryColor": "#1b96a8",
     "secondaryColor": "#124656",
     "minecraftVersions": [
         "1.8.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21",
     "crossplay": true,
@@ -24,10 +26,15 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Skyblock",
     "gameTypes": [
         "PvP",
         "Parkour",
-        "Skyblock"
+        "Skyblock",
+        "Prison",
+        "KitPvP",
+        "Creative",
+        "Survival"
     ],
     "socials": {
         "twitter": "ManaCubeMC",

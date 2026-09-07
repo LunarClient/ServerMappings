@@ -2,6 +2,7 @@
     "id": "rage",
     "name": "Rage",
     "store": "https://store.rage.rip/",
+    "description": "Play HCF, PvP, and more on Rage.",
     "addresses": [
         "rage.rip"
     ],

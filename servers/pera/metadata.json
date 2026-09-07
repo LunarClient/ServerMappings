@@ -1,11 +1,15 @@
 {
     "id": "pera",
     "name": "Pera Network",
+    "website": "https://www.pera.mom",
+    "store": "https://tienda.pera.mom",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
         "pera.mom"
     ],
     "primaryAddress": "pera.mom",
+    "primaryColor": "#74FF2D",
+    "secondaryColor": "#B6FF91",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -14,36 +18,32 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
-    "primaryColor": "#74FF2D",
-    "secondaryColor": "#B6FF91",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "en",
-        "es-EN"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Hardcore"
     ],
-    "website": "https://www.pera.mom",
-    "store": "https://tienda.pera.mom",
-    "compliance": {
-        "privacyPolicy": "https://tienda.pera.mom/terms/privacy",
-        "termsOfService": "https://tienda.pera.mom/terms/checkout",
-        "rules": "https://tienda.pera.mom/terms/impressum"
-    },
     "socials": {
         "discord": "https://discord.gg/peranet",
         "twitter": "PeraNetwork",
         "youtube": "@peramom",
         "tiktok": "@pera.network"
     },
-    "crossplay": true
+    "compliance": {
+        "privacyPolicy": "https://tienda.pera.mom/terms/privacy",
+        "termsOfService": "https://tienda.pera.mom/terms/checkout",
+        "rules": "https://tienda.pera.mom/terms/impressum"
+    }
 }

@@ -2,6 +2,7 @@
     "id": "pyrocraft",
     "name": "Pyrocraft Network",
     "store": "https://tienda.pyrocraft.es/",
+    "description": "Play Minigames and PvP on Pyrocraft Network.",
     "addresses": [
         "pyrocraft.es"
     ],

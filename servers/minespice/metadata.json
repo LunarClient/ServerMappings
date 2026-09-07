@@ -2,6 +2,7 @@
     "id": "minespice",
     "name": "MineSpice",
     "store": "https://store.minespice.net/",
+    "description": "Play Survival, Skyblock, and more on MineSpice.",
     "addresses": [
         "minespice.net"
     ],

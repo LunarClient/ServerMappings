@@ -1,11 +1,14 @@
 {
     "id": "astralisnetwork",
     "name": "Astralis Network",
+    "store": "https://tienda.astralisnet.com",
     "description": "Minecraft Survival Server 1.17-1.21!",
     "addresses": [
         "astralisnet.com"
     ],
     "primaryAddress": "astralisnet.com",
+    "primaryColor": "#ff80c0",
+    "secondaryColor": "#ff0080",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -21,6 +24,7 @@
         "es-EN",
         "en"
     ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -28,6 +32,11 @@
         "OC",
         "AS",
         "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
     ],
     "gameTypes": [
         "PvP",
@@ -42,4 +51,8 @@
          "youtube": "astralisnetwork"
     },
     "crossplay": true
+    "socials": {
+        "discord": "https://discord.gg/thnqZ5VjgQ",
+        "youtube": "astralisnetwork"
+    }
 }

@@ -2,6 +2,7 @@
     "id": "legendsmc",
     "name": "LegendsMC Network",
     "store": "https://tienda.legendsmc.es/",
+    "description": "Play Survival and Minigames on LegendsMC Network.",
     "addresses": [
         "legendsmc.es"
     ],

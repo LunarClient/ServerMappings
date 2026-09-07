@@ -1,0 +1,46 @@
+{
+    "id": "laavenda",
+    "name": "Laavenda",
+    "description": "A crystal pvp network",
+    "addresses": [
+        "laavenda.de"
+    ],
+    "primaryAddress": "laavenda.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#D0A8F5",
+    "secondaryColor": "#8B44E0",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Crystal PvP",
+        "PvP",
+        "Minigames",
+        "UHC",
+        "Practice",
+        "KitPvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://laavenda.de",
+    "store": "https://store.laavenda.de",
+    "compliance": {
+        "privacyPolicy": "https://laavenda.de/datenschutz",
+        "termsOfService": "https://laavenda.de/agb"
+    },
+    "socials": {
+        "youtube": "@laavenda",
+        "tiktok": "@laavendade",
+        "twitter": "laavendade",
+        "discord": "https://www.discord.gg/vVdHTb7PFd"
+    },
+    "crossplay": false
+}

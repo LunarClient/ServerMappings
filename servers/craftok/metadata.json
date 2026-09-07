@@ -3,7 +3,8 @@
     "name": "Craftok",
     "website": "https://craftok.fr",
     "store": "https://store.craftok.fr",
-    "description": "A French Minigames server: BedWars, KitPvP, Ranked Duels & more!",
+    "description": "A French Minigames server: BedWars, PartyGames, Ranked Duels & more!",
+    "crossplay": false,
     "addresses": [
         "craftok.fr",
         "crafttok.fr"
@@ -19,7 +20,9 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
@@ -28,12 +31,12 @@
     ],
     "primaryLanguage": "fr",
     "languages": [
-        "fr"
+        "fr",
+        "en"
     ],
     "gameTypes": [
         "PvP",
-        "Minigames",
-        "UHC"
+        "Minigames"
     ],
     "socials": {
         "twitter": "CraftokMC",

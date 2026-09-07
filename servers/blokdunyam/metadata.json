@@ -3,6 +3,7 @@
     "name": "BlokDunyam",
     "website": "https://blokdunyam.com/",
     "store": "https://blokdunyam.com/store",
+    "description": "Minecraft server built with blocks, offering various game modes.",
     "addresses": [
         "blokdunyam.com"
     ],

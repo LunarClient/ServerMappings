@@ -1,0 +1,41 @@
+{
+  "id": "crypticmc",
+  "name": "CrypticMC",
+  "website": "https://www.crypticmc.it",
+  "store": "https://store.crypticmc.it",
+  "description": "CrypticMC is an Italian Minecraft server focused on competition.",
+  "addresses": [
+    "crypticmc.it"
+  ],
+  "primaryAddress": "play.crypticmc.it",
+  "primaryColor": "#9D38FB",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "socials": {
+    "tiktok": "@crypticmc_server",
+    "discord": "https://discord.gg/4eeUutCrtB"
+  }
+}

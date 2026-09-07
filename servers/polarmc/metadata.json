@@ -1,0 +1,39 @@
+{
+  "id": "polarmc",
+  "name": "PolarMC Network",
+  "store": "https://store.polarmc.lat/",
+  "description": "PolarMC - Survival",
+  "addresses": [
+    "polarmc.lat"
+  ],
+  "primaryAddress": "polarmc.lat",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#3BB9FF",
+  "secondaryColor": "#7B5CFF",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://www.polarmc.lat/privacy",
+    "termsOfService": "https://www.polarmc.lat/terms",
+    "rules": "https://www.polarmc.lat/rules"
+  },
+  "socials": {
+    "twitter": "PolarMC",
+    "telegram": "PolarMC",
+    "discord": "https://discord.gg/MyMhtyfvHM"
+  },
+  "crossplay": true
+}

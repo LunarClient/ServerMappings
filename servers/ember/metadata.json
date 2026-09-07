@@ -2,6 +2,7 @@
     "id": "ember",
     "name": "Ember",
     "store": "https://store.emberpvp.es/",
+    "description": "Play PvP and Factions on Ember.",
     "addresses": [
         "emberpvp.es",
         "emberpvp.club",

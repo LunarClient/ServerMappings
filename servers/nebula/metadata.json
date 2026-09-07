@@ -1,0 +1,45 @@
+{
+  "id": "nebula",
+  "name": "NebulaMC",
+  "website": "https://www.nebulamc.net",
+  "store": "https://store.nebulamc.net/",
+  "description": "Network made for the players, by the players",
+  "addresses": [
+    "nebulamc.net"
+  ],
+  "primaryAddress": "nebulamc.net",
+  "primaryColor": "#A147B3",
+  "secondaryColor": "#E5ADEF",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames",
+    "Survival"
+  ],
+  "socials": {
+    "twitter": "nebulamc_net",
+    "discord": "https://discord.gg/enderman",
+    "youtube": "@nebulamcnet",
+    "instagram": "nebulamcnet",
+    "tiktok": "@nebulamc.net"
+  },
+  "votingLinks": [
+    "https://es.namemc.com/server/nebulamc.net"
+  ],
+  "compliance": {
+    "rules": "https://www.nebulamc.net/rules",
+    "support": "https://www.nebulamc.net/blog"
+  }
+}

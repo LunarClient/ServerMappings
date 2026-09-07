@@ -1,0 +1,32 @@
+{
+    "id": "empiremc",
+    "name": "EmpireMC Network",
+    "description": "EmpireMC Network is focused on bringing original gamemodes.",
+    "store": "https://tienda.empiremc.cc/",
+    "addresses": [
+        "empiremc.cc"
+    ],
+    "primaryAddress": "play.empiremc.cc",
+    "primaryColor": "#ad0006",
+    "secondaryColor": "#f83a09",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.5",
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "empiremc_cc",
+        "discord": "https://discord.gg/decJVdFEfH",
+        "youtube": "UCAszhWeMT9tK66-hxbkJM8w",
+        "tiktok": "@empiremc_cc"
+    }
+}

@@ -2,6 +2,7 @@
     "id": "obsilion",
     "name": "Obsilion Network",
     "store": "https://tienda.obsilion.es/",
+    "description": "Play Survival and PvP on Obsilion Network.",
     "addresses": [
         "obsilion.es"
     ],

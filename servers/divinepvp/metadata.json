@@ -2,6 +2,7 @@
     "id": "divinepvp",
     "name": "DivinePvP",
     "store": "https://bolt.divinepvp.hu",
+    "description": "Hardcore factions on DivinePvP.",
     "addresses": [
         "divinepvp.hu"
     ],

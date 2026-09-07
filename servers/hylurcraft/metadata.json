@@ -2,6 +2,7 @@
     "id": "hylurcraft",
     "name": "HylurCraft Network",
     "store": "https://tienda.hylurcraft.art/",
+    "description": "Play Survival, PvP, and more on HylurCraft Network.",
     "addresses": [
         "hylurcraft.art"
     ],

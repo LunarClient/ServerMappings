@@ -2,10 +2,12 @@
     "id": "dexland",
     "name": "DexLand",
     "website": "https://dexland.org/",
+    "description": "Play Survival, Minigames, and more on DexLand.",
     "addresses": [
         "dexland.org"
     ],
     "primaryAddress": "mc.dexland.org",
+    "offline": true,
     "primaryColor": "#ffff33",
     "secondaryColor": "#52cca0",
     "minecraftVersions": [
@@ -21,9 +23,14 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
-        "Survival",
         "Minigames",
-        "PvP"
+        "PvP",
+        "KitPvP",
+        "Anarchy",
+        "Survival",
+        "Practice",
+        "Competitive"
     ]
 }

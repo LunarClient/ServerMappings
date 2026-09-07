@@ -3,6 +3,7 @@
     "name": "ColdNetwork",
     "website": "https://coldnetwork.net/",
     "store": "https://store.coldnetwork.net/",
+    "description": "Play PvP and Minigames on ColdNetwork.",
     "addresses": [
         "coldnetwork.net",
         "coldpvp.com"

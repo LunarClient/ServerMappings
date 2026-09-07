@@ -1,0 +1,41 @@
+{
+  "id": "blockysmp",
+  "name": "BlockySMP",
+  "description": "A feature-packed economy SMP with custom features, PvP, and community events.",
+  "addresses": [
+    "blockysmp.net"
+  ],
+  "primaryAddress": "play.blockysmp.net",
+  "primaryColor": "#F4BE25",
+  "secondaryColor": "#FF8000",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "website": "https://blockysmp.net",
+  "store": "https://store.blockysmp.net",
+  "socials": {
+    "discord": "https://discord.gg/blockysmp",
+    "youtube": "@officialblockysmp",
+    "instagram": "officialblockysmp",
+    "tiktok": "@official_blockysmp"
+  },
+  "compliance": {
+    "support": "https://discord.gg/blockysmp"
+  }
+}

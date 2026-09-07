@@ -1,0 +1,35 @@
+{
+  "id": "pickcraft",
+  "name": "PickCraft",
+  "description": "A Java & Bedrock Minecraft network with Survival and unique minigames.",
+  "addresses": [
+    "pickcraft.us"
+  ],
+  "primaryAddress": "pickcraft.us",
+  "minecraftVersions": [
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP",
+    "PvE"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#fbb03b",
+  "secondaryColor": "#16125b",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "crossplay": true,
+
+  "socials": {
+    "discord": "https://discord.gg/zzhXqZ2SKd"
+  }
+}

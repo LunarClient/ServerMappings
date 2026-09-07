@@ -1,6 +1,7 @@
 {
     "id": "tfgames",
     "name": "TFGames",
+    "description": "Test your combat skills on TFGames.",
     "addresses": [
         "tfgames.com.br"
     ],

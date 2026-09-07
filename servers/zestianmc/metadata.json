@@ -7,6 +7,7 @@
         "zestian.co"
     ],
     "primaryAddress": "mc.zestian.co",
+    "offline": true,
     "primaryColor": "#fbbf6d",
     "secondaryColor": "#cf331c",
     "minecraftVersions": [
@@ -25,10 +26,14 @@
     "languages": [
         "es-EN"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
+        "Practice",
         "Minigames",
-        "Skyblock"
+        "Skyblock",
+        "Survival",
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.gg/d7UqmZ4V7D"

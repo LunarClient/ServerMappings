@@ -1,0 +1,50 @@
+{
+  "id": "zoxcraft",
+  "name": "ZoxCraft Network",
+  "website": "https://zoxcraft.lat/",
+  "store": "https://tienda.zoxcraft.lat",
+  "description": "Survival Custom unico: mundo propio, biomas exclusivos y skills.",
+  "addresses": [
+    "zoxcraft.lat"
+  ],
+  "primaryAddress": "mc.zoxcraft.lat",
+  "crossplay": true,
+  "primaryColor": "#4CAF50",
+  "secondaryColor": "#1B1B1B",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "socials": {
+    "discord": "https://discord.gg/zoxcraft",
+    "instagram": "zoxcraft.network",
+    "tiktok": "@zoxcraft_",
+    "youtube": "@ZoxCraftNetwork"
+  },
+  "compliance": {
+    "privacyPolicy": "https://zoxcraft.lat/privacidad.html",
+    "termsOfService": "https://zoxcraft.lat/terminos.html",
+    "rules": "https://zoxcraft.lat/reglas.html"
+  }
+}

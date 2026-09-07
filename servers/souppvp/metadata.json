@@ -1,0 +1,25 @@
+{
+    "id": "souppvp",
+    "name": "SoupPvP",
+    "description":"SoupPvP — Modernised.",
+    "addresses": [
+        "souppvp.org"
+    ],
+    "primaryAddress": "souppvp.org",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#489DBA",
+    "secondaryColor": "#479AB8",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ANM2mUqR4F"
+    }
+}

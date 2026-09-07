@@ -1,0 +1,41 @@
+{
+  "id": "pixymc",
+  "name": "PixyMC",
+  "description": "PixyMC Network — Survival, KitPvP and endless adventures",
+  "website": "https://store.pixymc.it",
+  "addresses": [
+    "pixymc.it"
+  ],
+  "primaryAddress": "pixymc.it",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryColor": "#FFFF00",
+  "secondaryColor": "#00BFFF",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "crossplay": false,
+  "socials": {
+    "discord": "https://discord.gg/K8ncxm2b5G",
+    "tiktok": "@pixymc_official"
+  }
+}

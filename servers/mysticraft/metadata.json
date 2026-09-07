@@ -1,0 +1,48 @@
+{
+    "id": "mysticraft",
+    "name": "MystiCraft",
+    "description": "A Minecraft network with Lifesteal, Practice, Survival, and Vanilla gamemodes!",
+    "addresses": [
+        "mysticraft.xyz"
+    ],
+    "primaryAddress": "play.mysticraft.xyz",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "gameTypes": [
+        "Lifesteal",
+        "Survival",
+        "Crystal PvP",
+        "Practice",
+        "Vanilla",
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "primaryColor": "#13B7ED",
+    "secondaryColor": "#8FE0F2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "website": "https://www.mysticraft.xyz",
+    "store": "https://store.mysticraft.xyz",
+    "socials": {
+        "twitter": "playmysticraft",
+        "discord": "https://discord.com/invite/mysticraft",
+        "instagram": "playmysticraft"
+    },
+    "crossplay": true
+}

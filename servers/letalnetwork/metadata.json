@@ -1,0 +1,30 @@
+{
+  "id": "letalnetwork",
+  "name": "Letal Network",
+  "description": "Spanish-speaking Survival server with custom PvP events",
+  "addresses": [
+    "letal.net"
+  ],
+  "primaryAddress": "letal.net",
+  "minecraftVersions": [
+    "1.21.1"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#C21B2E",
+  "secondaryColor": "#1A0508",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "socials": {
+    "discord": "https://discord.gg/letal"
+  }
+}

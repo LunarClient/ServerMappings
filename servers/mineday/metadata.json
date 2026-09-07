@@ -1,6 +1,7 @@
 {
     "id": "mineday",
     "name": "MineDay Network",
+    "description": "Play PvP and PvE on MineDay Network.",
     "addresses": [
         "mineday.us",
         "mineday.xyz"

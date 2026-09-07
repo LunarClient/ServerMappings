@@ -1,0 +1,46 @@
+{
+    "id": "bedwarslol",
+    "name": "BedwarsLOL",
+    "website": "https://www.bedwars.lol/",
+    "description": "Your favorite  1.8 Bedwars network in India. Play for free!",
+    "addresses": [
+        "bedwars.lol"
+    ],
+    "primaryAddress": "mc.bedwars.lol",
+    "primaryColor": "#DC2626",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/r5CZXeR4AX",
+        "youtube": "@mcbedwarslol"
+    },
+    "compliance": {
+        "rules": "https://www.bedwars.lol/rules"
+    },
+    "presentationVideo": "_yOCV3HU38Y"
+}

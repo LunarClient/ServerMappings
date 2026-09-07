@@ -22,10 +22,13 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Lifesteal",
     "gameTypes": [
+        "Lifesteal",
         "Survival",
         "PvP",
-        "Hardcore"
+        "Hardcore",
+        "Practice"
     ],
     "socials": {
         "discord": "https://discord.com/invite/lifestealnet",

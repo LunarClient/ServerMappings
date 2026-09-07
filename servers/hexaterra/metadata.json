@@ -2,6 +2,7 @@
     "id": "hexaterra",
     "name": "Hexaterra Network",
     "store": "https://hexaterra.tebex.io/",
+    "description": "Play Survival, Skyblock, and more on Hexaterra Network.",
     "addresses": [
         "hexaterra.net"
     ],

@@ -3,6 +3,7 @@
     "name": "CurseFight",
     "website": "https://cursefight.fr/",
     "store": "https://cursefight.fr/shop",
+    "description": "Play Factions and PvP on CurseFight.",
     "addresses": [
         "cursefight.fr"
     ],

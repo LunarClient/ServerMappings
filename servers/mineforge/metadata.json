@@ -3,6 +3,7 @@
     "name": "MineForge",
     "website": "https://www.mineforge.net/",
     "store": "https://store.mineforge.id/",
+    "description": "Play Survival and Skyblock on MineForge.",
     "addresses": [
         "mineforge.club",
         "mineforge.id"

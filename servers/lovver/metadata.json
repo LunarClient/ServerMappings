@@ -2,6 +2,7 @@
     "id": "lovver",
     "name": "lovvermc",
     "store": "https://lovver.tebex.io/",
+    "description": "Experience survival gameplay on lovvermc.",
     "addresses": [
         "lovver.lat"
     ],

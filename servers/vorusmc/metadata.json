@@ -3,6 +3,7 @@
     "name": "VorusMC",
     "website": "https://vorusmc.net/",
     "store": "https://store.vorusmc.net/",
+    "description": "Play HCF and PvP on VorusMC.",
     "addresses": [
         "vorusmc.net",
         "vorusmc.club"

@@ -2,6 +2,7 @@
     "id": "fantasycloud",
     "name": "Fantasy Cloud",
     "store": "https://store.fantasycloud.org/",
+    "description": "Build your faction and conquer on Fantasy Cloud.",
     "addresses": [
         "fantasycloud.org"
     ],

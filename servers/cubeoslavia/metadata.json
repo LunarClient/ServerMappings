@@ -1,11 +1,14 @@
 {
     "id": "cubeoslavia",
     "name": "Cube-O-Slavia Network",
+    "store": "http://shop.cube-o-slavia.eu/",
     "description": "F2P Balkan Minecraft Network",
     "addresses": [
         "cube-o-slavia.eu"
     ],
     "primaryAddress": "cube-o-slavia.eu",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -14,16 +17,13 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.10",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#a854de",
+    "crossplay": true,
     "gameTypes": [
         "PvP",
         "Survival",
         "Skyblock"
     ],
-    "store": "http://shop.cube-o-slavia.eu/",
     "socials": {
         "discord": "https://discord.gg/GzuFfrsyJQ"
-    },
-    "crossplay": true
+    }
 }

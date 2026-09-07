@@ -2,6 +2,7 @@
     "id": "riftmystic",
     "name": "RiftMystic Network",
     "store": "https://store.riftmystic.com/",
+    "description": "Play Minigames, PvP, and more on RiftMystic Network.",
     "addresses": [
         "riftmystic.com"
     ],
