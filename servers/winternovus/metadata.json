@@ -1,0 +1,32 @@
+{
+    "id": "winternovus",
+    "name": "WinterNovus",
+    "store": "https://www.winternovus.com/",
+    "description": "The best 1.8 Faction server.",
+    "addresses": [
+        "winternovus.com"
+    ],
+    "primaryAddress": "winternovus.com",
+    "primaryColor": "#0055FF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/winternovus"
+    }
+}

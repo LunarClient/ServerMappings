@@ -1,0 +1,39 @@
+{
+    "id": "hymine",
+    "name": "HyMine Network",
+    "description": "Survival with custom bosses, events and a growing community",
+    "addresses": [
+        "hymine.us"
+    ],
+    "primaryAddress": "hymine.us",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#67F61E",
+    "secondaryColor": "#FFC400",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.hymine.us",
+    "store": "https://tienda.hymine.us",
+    "socials": {
+        "discord": "https://discord.com/invite/75dKWyqRvN",
+        "youtube": "@Hyminemc",
+        "tiktok": "@hyminemcnw"
+    },
+    "crossplay": true
+}

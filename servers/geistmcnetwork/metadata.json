@@ -1,0 +1,45 @@
+{
+    "id": "geistmcnetwork",
+    "name": "GeistMC Network",
+    "description": "GeistMC is a group server focusing on PvP training and mini games.",
+    "addresses": [
+        "geistmc.cc",
+        "wihar.cyou"
+    ],
+    "primaryAddress": "geistmc.cc",
+    "primaryColor": "#FF00FF",
+    "secondaryColor": "#8B008B",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*",
+        "1.17.*",
+        "1.16.*",
+        "1.12.*",
+        "1.8.*",
+        "1.7.10"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "zh-CN",
+        "en",
+        "ja"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Parkour"
+    ],
+    "votingLinks": [
+        "https://minecraftservers.org/server/684020"
+    ]
+
+}

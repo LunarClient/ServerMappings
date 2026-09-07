@@ -1,38 +1,38 @@
 {
     "id": "mccade",
     "name": "MCCade Games",
+    "website": "https://www.mccade.net",
+    "store": "https://store.mccade.net",
     "description": "Boundless excitement, where every block holds a game.",
     "addresses": [
         "mccade.net"
     ],
     "primaryAddress": "play.mccade.net",
+    "primaryColor": "#E6A900",
+    "secondaryColor": "#495bb3",
     "minecraftVersions": [
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#E6A900",
-    "secondaryColor": "#495bb3",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "Minigames"
     ],
-    "website": "https://www.mccade.net",
-    "store": "https://store.mccade.net",
-    "compliance": {
-        "privacyPolicy": "https://www.mccade.net/privacy",
-        "termsOfService": "https://www.mccade.net/terms",
-        "rules": "https://www.mccade.net/rules"
-    },
     "socials": {
         "twitter": "playmccade",
         "discord": "https://discord.com/invite/playmccade"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://www.mccade.net/privacy",
+        "termsOfService": "https://www.mccade.net/terms",
+        "rules": "https://www.mccade.net/rules"
+    }
 }

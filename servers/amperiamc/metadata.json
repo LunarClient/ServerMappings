@@ -6,6 +6,8 @@
         "amperiamc.fr"
     ],
     "primaryAddress": "play.amperiamc.fr",
+    "primaryColor": "#ffc900",
+    "secondaryColor": "#ffea00",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -13,17 +15,15 @@
         "1.17.*",
         "1.18.*",
         "1.19.*"
-      ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ffc900",
-    "secondaryColor": "#ffea00",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "PvP",

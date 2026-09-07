@@ -1,0 +1,40 @@
+{
+    "id": "evoramc",
+    "name": "EvoraMC",
+    "website": "https://evoramc.fr",
+    "store": "https://evoramc.fr/tebex",
+    "description": "French Minecraft server with PvP, Factions & more!",
+    "addresses": [
+        "evoramc.fr"
+    ],
+    "primaryAddress": "play.evoramc.fr",
+    "primaryColor": "#941C45",
+    "secondaryColor": "#6B1E74",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.20",
+        "1.20.1",
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/FVJNx6g74V"
+    },
+    "votingLinks": [
+        "https://evoramc.fr/vote"
+    ]
+}

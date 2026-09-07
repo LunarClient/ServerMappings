@@ -2,6 +2,7 @@
     "id": "borealmc",
     "name": "BorealMC",
     "store": "https://store.borealmc.club/",
+    "description": "Test your combat skills on BorealMC.",
     "addresses": [
         "borealmc.club",
         "borealmc.com"

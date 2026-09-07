@@ -2,10 +2,13 @@
     "id": "wopixel",
     "name": "WoPixel Network",
     "website": "https://wopixel.mn/",
+    "description": "Play Survival and Minigames on WoPixel Network.",
     "addresses": [
         "wopixel.mn"
     ],
     "primaryAddress": "mc.wopixel.mn",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.16.*",
@@ -15,15 +18,13 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.20.2",
-    "primaryColor": "#FF5555",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "AS",
     "regions": [
         "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "Survival",

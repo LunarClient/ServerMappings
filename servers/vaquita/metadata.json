@@ -1,0 +1,33 @@
+{
+    "id": "vaquita",
+    "name": "Vaquita",
+    "website": "https://www.vaquita.lol",
+    "store": "https://store.vaquita.lol",
+    "description": "Competitive Minecraft PvP Server.",
+    "addresses": [
+        "vaquita.lol"
+    ],
+    "primaryAddress": "vaquita.lol",
+    "primaryColor": "#04c1f9",
+    "secondaryColor": "#22cbf0",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jbRVYm59p4"
+    }
+}

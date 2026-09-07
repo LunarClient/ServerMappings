@@ -1,0 +1,31 @@
+{
+    "id": "nordicnetwork",
+    "name": "Nordic Network",
+    "website": "https://nordicnetwork.es",
+    "store": "https://tienda.nordicnetwork.es/",
+    "description": "Java Minecraft Server, with survival mode",
+    "addresses": [
+        "nordicnetwork.es"
+    ],
+    "primaryAddress": "mc.nordicnetwork.es",
+    "primaryColor": "#4498DB",
+    "secondaryColor": "#4498DB",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "tiktok": "@realnordicmc",
+        "discord": "https://discord.gg/B9vj8HdjEj",
+        "youtube": "@nordicminecraft"
+    }
+}

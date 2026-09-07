@@ -1,23 +1,23 @@
 {
     "id": "zenith",
     "name": "Zenith",
-    "description": "Survival Multiplayer server with custom enchants, terrain and more!",
-    "website": "https://www.zenithsmp.com/",
+    "website": "https://zenithsmp.com/",
     "store": "https://store.zenithsmp.com/",
+    "description": "Survival Multiplayer server with custom enchants, terrain and more!",
     "addresses": [
         "zenithsmp.com"
     ],
     "primaryAddress": "mc.zenithsmp.com",
-    "primaryColor": "#4FD3FF",
-    "secondaryColor": "#FF8A2A",
+    "primaryColor": "#49ADFF",
+    "secondaryColor": "#FA8426",
     "minecraftVersions": [
-        "1.16.*",
-        "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU",
@@ -28,15 +28,22 @@
         "SA"
     ],
     "gameTypes": [
+        "Survival",
         "PvP",
-        "PvE",
-        "Survival"
+        "PvE"
     ],
     "socials": {
         "instagram": "zenithsmp",
         "discord": "https://discord.com/invite/edvQWPp",
-        "youtube": "zenithsmp",
+        "youtube": "@zenithsmp",
         "tiktok": "@playzenithsmp"
     },
-    "crossplay": true
+    "votingLinks": [
+        "https://mc-server-list.com/server/1111-zenithsmp---cracked/",
+        "https://www.planetminecraft.com/server/zenithsmp-recently-reset/",
+        "https://mclist.io/server/62818-mc-zenithsmp-com",
+        "https://topg.org/minecraft-servers/server-614676",
+        "https://topminecraftservers.org/server/37715",
+        "https://serverlist.net/server/zenith-smp"
+    ]
 }

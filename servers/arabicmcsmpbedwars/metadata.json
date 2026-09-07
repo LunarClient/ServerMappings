@@ -1,0 +1,44 @@
+{
+    "id": "arabicmcsmpbedwars",
+    "name": "ArabicMC Network",
+    "description": "ArabicMC: SMP adventures and fast-paced BedWars battles",
+    "addresses": [
+        "arabicmc.org"
+    ],
+    "primaryAddress": "arabicmc.org",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#fb542b",
+    "secondaryColor": "#f9d0c6",
+    "primaryLanguage": "ar",
+    "languages": [
+        "ar",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "website": "https://web.arabicmc.org",
+    "store": "https://store.arabicmc.org",
+    "compliance": {
+        "privacyPolicy": "https://web.arabicmc.org/privacy",
+        "termsOfService": "https://web.arabicmc.org/terms",
+        "rules": "https://web.arabicmc.org/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/arabicmc"
+    },
+    "crossplay": true
+}

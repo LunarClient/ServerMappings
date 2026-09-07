@@ -1,0 +1,44 @@
+{
+    "id": "mightymc",
+    "name": "MightyMC Server",
+    "website": "https://mightymc.club",
+    "store": "https://mightymc.club/store",
+    "description": "Practice, Bedwars, Skywars, PvP",
+    "addresses": [
+        "mightymc.club"
+    ],
+    "primaryAddress": "mightymc.club",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "instagram": "mightymc.club",
+        "discord": "https://discord.gg/Ur2bZbuHhc"
+    },
+    "compliance": {
+        "privacyPolicy": "https://mightymc.club/privacypolicy",
+        "termsOfService": "https://mightymc.club/termsofservice",
+        "rules": "https://mightymc.club/rules"
+    }
+}

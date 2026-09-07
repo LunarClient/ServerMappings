@@ -1,0 +1,32 @@
+{
+    "id": "pvplounge",
+    "name": "PvPLounge",
+    "website": "https://pvplounge.eu",
+    "description": "Experience legacy Minecraft PvP again.",
+    "addresses": [
+        "pvplounge.eu"
+    ],
+    "primaryAddress": "pvplounge.eu",
+    "primaryColor": "#FFEC73",
+    "secondaryColor": "#2E2E2E",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/54GchtwNum"
+    }
+}

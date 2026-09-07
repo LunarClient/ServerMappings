@@ -2,6 +2,7 @@
     "id": "asteroid",
     "name": "Asteroid Network",
     "store": "https://store.asteroid.rip/",
+    "description": "Play HCF and PvP on Asteroid Network.",
     "addresses": [
         "asteroid.rip"
     ],

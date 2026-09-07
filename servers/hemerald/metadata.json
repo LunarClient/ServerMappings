@@ -8,6 +8,8 @@
         "hemerald.net"
     ],
     "primaryAddress": "play.hemerald.net",
+    "primaryColor": "#e617e2",
+    "secondaryColor": "#318fe0",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,22 +19,20 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#e617e2",
-    "secondaryColor": "#318fe0",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU",
-		"NA",
-		"SA"
-    ],
     "gameTypes": [
         "PvP",
         "Minigames",
-		"Skyblock"
+        "Skyblock"
     ],
     "socials": {
         "discord": "https://discord.gg/hemerald",

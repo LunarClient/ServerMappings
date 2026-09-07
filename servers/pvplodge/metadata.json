@@ -1,0 +1,40 @@
+{
+    "id": "pvplodge",
+    "name": "PvPLodge",
+    "website": "https://pvplodge.com",
+	"store": "https://store.pvplodge.com",
+    "description": "Where skill is proven, ranks are earned, and every fight matters.",
+    "addresses": [
+        "pvplodge.com"
+    ],
+    "primaryAddress": "pvplodge.com",
+    "primaryColor": "#ffa100",
+    "secondaryColor": "#ffd200",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+	"primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/pvplodge"
+    }
+}

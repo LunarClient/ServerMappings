@@ -8,6 +8,8 @@
         "nautilusmc.it"
     ],
     "primaryAddress": "play.nautilusmc.it",
+    "primaryColor": "#FFB741",
+    "secondaryColor": "#FFDC41",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,22 +21,20 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFB741",
-    "secondaryColor": "#FFDC41",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "SA"
+    ],
     "primaryLanguage": "it",
     "languages": [
         "it"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU",
-	"NA",
-	"SA"
-    ],
     "gameTypes": [
         "Creative",
         "Minigames",
-	"Survival"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/g9K4ZwGrBX",

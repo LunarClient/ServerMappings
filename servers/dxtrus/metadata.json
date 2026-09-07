@@ -1,8 +1,8 @@
 {
     "id": "dxtrus",
     "name": "DXTRUS",
-    "description": "DXTRUS Network, Just a Stateless Minecraft Server",
     "store": "https://store.dxtrus.net/",
+    "description": "DXTRUS Network, Just a Stateless Minecraft Server",
     "addresses": [
         "dxtrus.net"
     ],

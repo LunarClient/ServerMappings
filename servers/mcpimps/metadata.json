@@ -1,0 +1,35 @@
+{
+    "id": "mcpimps",
+    "name": "MCPimps",
+    "description": "Competitive survival PvP with a deep economy, events, and custom progression.",
+    "addresses": [
+        "mcpimps.com"
+    ],
+    "primaryAddress": "mcpimps.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Open World",
+        "Competitive"
+    ],
+    "primaryGameType": "PvP",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#AAAAAA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "store": "https://buy.mcpimps.com",
+    "socials": {
+        "discord": "https://discord.gg/uSMmp7vZdB"
+    },
+    "crossplay": false
+}

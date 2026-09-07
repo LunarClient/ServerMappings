@@ -1,11 +1,15 @@
 {
     "id": "wasdmc",
-    "name": "WasdMC",
-    "description": "The best Practice BR server",
+    "name": "WASDMC",
+    "store": "https://loja.wasdmc.com/",
+    "description": "The best Brazilian Minecraft practice server, Train, improve, have fun!",
     "addresses": [
-        "wasdmc.com"
+        "wasdmc.com",
+        "wasdmc.club"
     ],
     "primaryAddress": "wasdmc.com",
+    "primaryColor": "#2737e8",
+    "secondaryColor": "#e8eaff",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -15,25 +19,32 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#2737e8",
-    "secondaryColor": "#e8eaff",
-    "primaryLanguage": "pt-BR",
-    "languages": [
-        "pt-BR"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
-    "gameTypes": [
-        "PvP"
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
     ],
-    "store": "https://loja.wasdmc.com/",
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "PvP",
+        "Practice",
+        "Competitive",
+        "Minigames"
+    ],
     "socials": {
-        "discord": "https://discord.gg/wasdmc"
-    },
-    "crossplay": false
+        "twitter": "servidorwasd",
+        "discord": "https://discord.gg/wasdmc",
+        "instagram": "servidorwasd",
+        "tiktok": "@servidorwasdmc",
+        "youtube": "@servidorwasdmc"
+    }
 }

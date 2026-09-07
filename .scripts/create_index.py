@@ -1,10 +1,9 @@
 """
-This module creates index files in various formats (JSON, NDJSON, CSV) from server data.
+This module creates a JSON index file from server data.
 It takes in a directory of server files, an inactive file, and output file paths as arguments.
 """
 
 import argparse
-import csv
 import os
 import json
 
@@ -21,7 +20,6 @@ def main():
     parser.add_argument("--json_output", required=True, type=str)
     parser.add_argument("--translations_output", required=True, type=str)
     parser.add_argument("--translations_folder", required=False, type=str)
-    parser.add_argument("--csv_output", required=True, type=str)
     parser.add_argument("--include_inactive", action=argparse.BooleanOptionalAction)
     args = parser.parse_args()
 
@@ -61,52 +59,6 @@ def main():
             outfile.write(json_object)
     except Exception as e:
         print("Error writing to JSON Index: ", e)
-        raise
-
-    # Write to CSV file
-    try:
-        with open(args.csv_output, "w", newline="", encoding="utf-8") as outfile:
-            writer = csv.DictWriter(
-                outfile,
-                fieldnames=[
-                    "id",
-                    "name",
-                    "description",
-                    "addresses",
-                    "primaryAddress",
-                    "minecraftVersions",
-                    "primaryMinecraftVersion",
-                    "primaryColor",
-                    "secondaryColor",
-                    "primaryLanguage",
-                    "languages",
-                    "primaryRegion",
-                    "regions",
-                    "primaryGameType",
-                    "gameTypes",
-                    "website",
-                    "wiki",
-                    "merch",
-                    "store",
-                    "socials",
-                    "crossplay",
-                    "enriched",
-                    "inactive",
-                    "discordLogoUploaded",
-                    "compliance",
-                    "presentationVideo",
-                    "modpack",
-                    "tebexStore",
-                    "images",
-                    "votingLinks",
-                    "localizedDescriptions",
-                ],
-            )
-            writer.writeheader()
-            for server in servers:
-                writer.writerow(server)
-    except Exception as e:
-        print("Error writing to CSV Index: ", e)
         raise
 
     print("Successfully written index files!")

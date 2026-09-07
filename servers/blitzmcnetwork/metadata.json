@@ -1,6 +1,8 @@
 {
     "id": "blitzmcnetwork",
     "name": "BlitzMC Network",
+    "website": "https://www.blitzmc.us",
+    "store": "https://tienda.blitzmc.us",
     "description": "The premium experience, in non-premium! Est. 2017",
     "addresses": [
         "blitzmc.us",
@@ -8,6 +10,8 @@
         "lospapus.lol"
     ],
     "primaryAddress": "blitzmc.us",
+    "primaryColor": "#52d7f7",
+    "secondaryColor": "#f3f3f3",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -20,32 +24,23 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#52d7f7",
-    "secondaryColor": "#f3f3f3",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "EU",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Survival"
     ],
-    "website": "https://www.blitzmc.us",
-    "store": "https://tienda.blitzmc.us",
-    "compliance": {
-        "privacyPolicy": "https://www.blitzmc.us/privacyPolicy",
-        "termsOfService": "https://www.blitzmc.us/terms",
-        "rules": "https://www.blitzmc.us/rules"
-    },
-    "presentationVideo": "kVdMru9WWbU",
     "socials": {
         "twitter": "BlitzMCNT",
         "telegram": "blitzmcnetwork",
@@ -53,5 +48,10 @@
         "instagram": "blitzmcnetwork",
         "youtube": "blitzmcnetwork"
     },
-    "crossplay": true
+    "compliance": {
+        "privacyPolicy": "https://www.blitzmc.us/privacyPolicy",
+        "termsOfService": "https://www.blitzmc.us/terms",
+        "rules": "https://www.blitzmc.us/rules"
+    },
+    "presentationVideo": "kVdMru9WWbU"
 }

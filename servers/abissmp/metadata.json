@@ -1,0 +1,39 @@
+{
+    "id": "abissmp",
+    "name": "AbisSMP",
+    "description": "Join AbisSMP for new things and great community!",
+    "addresses": [
+        "abissmp.eu"   
+    ],
+    "primaryAddress": "abissmp.eu",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#63A1F9",
+    "secondaryColor": "#D7E9FA",
+    "primaryLanguage": "en",
+    "languages": [
+       "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",       
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/7TYJgfBZgA",
+        "tiktok": "@abissmpofc",
+        "instagram": "AbisSMP"
+    },
+    "crossplay": true
+}

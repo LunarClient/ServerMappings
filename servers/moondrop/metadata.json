@@ -3,6 +3,7 @@
     "name": "Moondrop",
     "website": "https://moondrop.club",
     "store": "https://store.moondrop.club",
+    "description": "Play PvP, Survival, and more on Moondrop.",
     "addresses": [
         "moondrop.club"
     ],
@@ -20,9 +21,7 @@
         "Survival",
         "Minigames"
     ],
-
     "socials": {
         "discord": "https://discord.gg/zN48g9vkCq"
     }
-
 }

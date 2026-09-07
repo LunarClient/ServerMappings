@@ -16,13 +16,14 @@
         "1.21"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "AS",
     "regions": [
         "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "HCF",
@@ -31,6 +32,5 @@
     ],
     "socials": {
         "discord": "https://discord.gg/MwAnFQ8NQ6"
-    },
-    "crossplay": false
+    }
 }

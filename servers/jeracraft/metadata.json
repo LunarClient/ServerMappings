@@ -8,6 +8,8 @@
         "jeracraft.net"
     ],
     "primaryAddress": "mc.jeracraft.net",
+    "primaryColor": "#D88E25",
+    "secondaryColor": "#2A2A30",
     "minecraftVersions": [
         "1.20.2",
         "1.20.3",
@@ -22,8 +24,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#D88E25",
-    "secondaryColor": "#2A2A30",
     "gameTypes": [
         "Adventure",
         "Survival",

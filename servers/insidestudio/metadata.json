@@ -1,29 +1,22 @@
 {
     "id": "insidestudio",
     "name": "Inside Studio",
+    "store": "https://tienda.insidestudio.org",
     "description": "We love to help others build their servers",
     "addresses": [
         "insidestudio.org"
     ],
     "primaryAddress": "insidestudio.org",
+    "primaryColor": "#8cfd88",
+    "secondaryColor": "#009e0b",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
         "1.18.*",
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#4dff60",
-    "secondaryColor": "#009e0b",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -32,14 +25,17 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "Survival",
-        "Roleplay"
+        "PvE"
     ],
-    "store": "https://tienda.insidestudio.org",
     "socials": {
         "discord": "https://discord.gg/3H2jxSxcvN"
-    },
-    "crossplay": true
+    }
 }

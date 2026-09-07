@@ -1,0 +1,35 @@
+{
+  "id": "bhaichara",
+  "name": "Bhaichara",
+  "description": "Bhaichara Minecraft Network",
+  "addresses": [
+    "bhaichara.fun"
+  ],
+  "primaryAddress": "play.bhaichara.fun",
+  "minecraftVersions": [
+  "1.8.9",
+  "26.1.2"
+
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FF5555",
+  "primaryLanguage": "en",
+  "languages": [
+  "en"
+
+  ],
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Practice"
+  ],
+  "primaryGameType": "Survival",
+  "socials": {
+    "discord": "https://discord.gg/u7Pms6tAmC"
+  },
+  "crossplay": true
+}

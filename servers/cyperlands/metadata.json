@@ -1,12 +1,16 @@
 {
     "id": "cyperlands",
     "name": "Cyperlands",
+    "website": "https://www.cyperlands.net",
+    "store": "https://shop.cyperlands.net",
     "description": "Cyperlands is THE Survival minecraft server that will never disappoint you.",
     "addresses": [
         "cyperlands.net",
         "ham5teak.xyz"
     ],
     "primaryAddress": "play.cyperlands.net",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#9ee3ff",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*",
@@ -16,25 +20,21 @@
         "1.16.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#44a1e3",
-    "secondaryColor": "#9ee3ff",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
+    "crossplay": false,
     "primaryRegion": "AS",
     "regions": [
         "AS",
         "NA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival",
         "PvP"
     ],
-    "website": "https://www.cyperlands.net",
-    "store": "https://shop.cyperlands.net",
     "socials": {
         "discord": "https://discord.gg/cyperlands"
-    },
-    "crossplay": false
+    }
 }

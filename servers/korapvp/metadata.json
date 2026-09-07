@@ -2,25 +2,26 @@
     "id": "korapvp",
     "name": "KoraPvP",
     "store": "https://store.korapvp.org/",
+    "description": "Play PvP and HCF on KoraPvP.",
     "addresses": [
         "korapvp.org"
     ],
     "primaryAddress": "korapvp.org",
+    "primaryColor": "#ff5af0",
+    "secondaryColor": "#060627",
     "minecraftVersions": [
         "1.7.*",
         "1.8.9"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff5af0",
-    "secondaryColor": "#060627",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
     ],
     "gameTypes": [
         "PvP",

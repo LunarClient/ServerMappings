@@ -1,9 +1,6 @@
 {
     "id": "luminion",
     "name": "Luminion",
-    "website": "https://luminion.net",
-    "store": "https://luminion.net/store",
-    "wiki": "https://wiki.luminion.net",
     "description": "A true Minecraft experience without P2W elements.",
     "addresses": [
         "luminion.net"
@@ -12,16 +9,9 @@
     "primaryColor": "#4af7fd",
     "secondaryColor": "#05aef2",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
     "regions": [
         "EU",
@@ -34,7 +24,7 @@
     ],
     "socials": {
         "twitter": "Luminion_net",
-        "discord": "https://discord.gg/JkZ4WNCKdm",
+        "discord": "https://discord.gg/ZYARzvCT64",
         "youtube": "Luminion_net",
         "instagram": "mc.luminion",
         "tiktok": "@luminion.net",

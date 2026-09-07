@@ -1,0 +1,34 @@
+{
+  "id": "exilemc",
+  "name": "ExileMC",
+  "description": "Brazilian competitive Minecraft network for BedWars, Duels, and The Bridge.",
+  "addresses": [
+    "exilemc.com.br"
+  ],
+  "primaryAddress": "exilemc.com.br",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "gameTypes": [
+    "Minigames",
+    "Competitive",
+    "Practice",
+    "PvP"
+  ],
+  "primaryGameType": "Minigames",
+  "primaryColor": "#18B6F4",
+  "secondaryColor": "#073A84",
+  "primaryLanguage": "pt-BR",
+  "languages": [
+    "pt-BR"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/dYxw9wdzm7"
+  },
+  "crossplay": false
+}

@@ -3,16 +3,17 @@
     "name": "CurseFight",
     "website": "https://cursefight.fr/",
     "store": "https://cursefight.fr/shop",
+    "description": "Play Factions and PvP on CurseFight.",
     "addresses": [
         "cursefight.fr"
     ],
     "primaryAddress": "play.cursefight.fr",
     "primaryColor": "#0fff04",
     "secondaryColor": "#ffc500",
-    "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Factions",
         "PvP"

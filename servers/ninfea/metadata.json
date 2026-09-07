@@ -1,10 +1,13 @@
 {
     "id": "ninfea",
     "name": "Ninfea Network",
+    "description": "Play PvP, Parkour, and more on Ninfea Network.",
     "addresses": [
         "ninfea.fun"
     ],
     "primaryAddress": "play.ninfea.fun",
+    "primaryColor": "#d433ff",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -14,18 +17,17 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#d433ff",
-    "secondaryColor": "#FFFFFF",
-    "primaryLanguage": "it",
-    "languages": [
-        "it"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
     ],
     "gameTypes": [
         "PvP",
@@ -33,7 +35,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/SgJYRaaWcx",
+        "discord": "https://discord.gg/hx3nbvb4UC",
         "youtube": "@NinfeaNetwork",
         "telegram": "NinfeaNetwork"
     }

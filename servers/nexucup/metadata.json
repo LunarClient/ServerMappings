@@ -1,12 +1,17 @@
 {
     "id": "nexucup",
     "name": "NexuCup",
+    "website": "https://nexuria.fr",
+    "store": "https://nexuria.fr/shop",
+    "wiki": "https://nexuria.fr/wiki",
     "description": "NexuCup is a PvP and Faction oriented Minecraft server.",
     "addresses": [
         "nexuria.fr",
         "nexucup.fr"
     ],
     "primaryAddress": "play.nexucup.fr",
+    "primaryColor": "#cb68c8",
+    "secondaryColor": "#8c3c89",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -18,25 +23,20 @@
         "1.21"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#cb68c8",
-    "secondaryColor": "#8c3c89",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
     "gameTypes": [
         "PvP"
     ],
-    "website": "https://nexuria.fr",
-    "wiki": "https://nexuria.fr/wiki",
-    "store": "https://nexuria.fr/shop",
-    "presentationVideo": "NA",
     "socials": {
         "discord": "https://discord.com/invite/fWcGNA4fHa"
     },
-    "crossplay": false
+    "presentationVideo": "NA"
 }

@@ -1,12 +1,12 @@
 {
     "id": "vealypvp",
-    "name": "Vealy Network",
+    "name": "Vealy",
     "store": "https://store.vealy.us/",
+    "description": "Play HCF, PvP, and more on Vealy.",
     "addresses": [
-        "vealy.us",
         "vealypvp.us"
     ],
-    "primaryAddress": "vealy.us",
+    "primaryAddress": "vealypvp.us",
     "primaryColor": "#279cd6",
     "secondaryColor": "#dc7eed",
     "minecraftVersions": [

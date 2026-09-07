@@ -1,0 +1,34 @@
+{
+    "id": "darkheaven",
+    "name": "DarkHeaven",
+    "website": "http://darkheaven.eu/",
+    "description": "Dark survival server",
+    "addresses": [
+        "darkheaven.eu"
+    ],
+    "primaryAddress": "mc.darkheaven.eu",
+    "primaryColor": "#6b37de",
+    "secondaryColor": "#f5d8fc",
+    "minecraftVersions": [
+        "1.21.10"
+
+        
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "instagram": "DarkHeaven.eu",
+        "discord": "https://discord.gg/7FsAhcpfqM"
+    }
+}

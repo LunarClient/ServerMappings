@@ -2,6 +2,7 @@
     "id": "xdmc",
     "name": "xdmc",
     "store": "https://xdmc.pl/",
+    "description": "Test your combat skills on xdmc.",
     "addresses": [
         "xdmc.pl"
     ],

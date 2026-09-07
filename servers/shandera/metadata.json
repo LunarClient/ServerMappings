@@ -3,6 +3,7 @@
     "name": "Shandera",
     "website": "https://shandera.fr/",
     "store": "https://shandera.fr/shop",
+    "description": "Play Factions and PvP on Shandera.",
     "addresses": [
         "shandera.fr"
     ],
@@ -23,7 +24,8 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "Shandera_FR",
-        "discord": "https://discord.com/invite/shandera"
+        "discord": "https://discord.com/invite/shandera",
+        "youtube": "@Shandera-PvP",
+        "tiktok": "@shanderapvp"
     }
 }

@@ -1,0 +1,37 @@
+{
+    "id": "fenyxmcnetwork",
+    "name": "Fenyx MC Network",
+    "website": "https://fenyxnetwork.com",
+    "description": "PvP, bosses, and adventure on a custom Minecraft world.",
+    "addresses": [
+        "fenyxnetwork.com"
+    ],
+    "primaryAddress": "fenyxnetwork.com",
+    "primaryColor": "#00C3FF",
+    "secondaryColor": "#0F1117",
+    "minecraftVersions": [
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.6",
+        "1.21.7"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/fenyxnetwork"
+    }
+}

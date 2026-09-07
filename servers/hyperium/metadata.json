@@ -1,0 +1,43 @@
+{
+    "id": "hyperium",
+    "name": "Hyperium",
+    "website": "https://hyperium.pl/",
+    "description": "Hyperium is a Minecraft server created by players for players!",
+    "addresses": [
+        "hyperium.pl"
+    ],
+    "primaryAddress": "hyperium.pl",
+    "primaryColor": "#4897eb",
+    "secondaryColor": "#cdd0d9",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.2",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/vG6gC4H3mp",
+        "tiktok": "@hyperium.pl",
+        "facebook": "61571672626141"
+    },
+    "compliance": {
+        "privacyPolicy": "https://hyperium.pl/subpage/2839",
+        "termsOfService": "https://hyperium.pl/subpage/2838"
+    }
+}

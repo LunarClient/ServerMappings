@@ -1,0 +1,38 @@
+{
+    "id": "fadeblocks",
+    "name": "Fadeblocks",
+    "website": "https://fadeblocks.com/",
+    "description": "Community-driven gameplay shaped by player feedback and ideas.",
+    "addresses": [
+        "fadeblocks.com"
+    ],
+    "primaryAddress": "play.fadeblocks.com",
+    "primaryColor": "#2ed8fb",
+    "secondaryColor": "#326dcd",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Adventure"
+    ],
+    "socials": {
+        "twitter": "FadeBlocks",
+        "discord": "https://discord.com/invite/KtZbQshydJ",
+        "youtube": "FadeblocksNetwork",
+        "instagram": "fadeblocks",
+        "reddit": "fadeblocks",
+        "tiktok": "@fadeblocks"
+    }
+}

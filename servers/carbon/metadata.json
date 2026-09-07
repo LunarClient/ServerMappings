@@ -1,9 +1,9 @@
 {
     "id": "carbon",
     "name": "Carbon",
-    "description": "Carbon is an EarthSMP Minecraft Server",
     "website": "https://carbonmc.net/",
     "store": "https://store.carbonmc.net/",
+    "description": "Carbon is an EarthSMP Minecraft Server",
     "addresses": [
         "carbonmc.net"
     ],

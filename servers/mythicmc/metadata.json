@@ -3,6 +3,7 @@
     "name": "MythicMC",
     "website": "https://mythicmc.cc/",
     "store": "https://mythicmc.tebex.io/",
+    "description": "Play HCF and PvP on MythicMC.",
     "addresses": [
         "mythicmc.cc"
     ],

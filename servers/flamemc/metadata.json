@@ -2,6 +2,7 @@
     "id": "flamemc",
     "name": "FlameMC",
     "store": "https://loja.flamemc.com.br/",
+    "description": "Test your combat skills on FlameMC.",
     "addresses": [
         "flamemc.com.br"
     ],

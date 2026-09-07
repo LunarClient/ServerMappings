@@ -15,9 +15,7 @@
         "bteuk.net",
         "btefrance.fr",
         "bteoce.com",
-        "139.99.91.188",
         "btehkmu.net",
-        "142.202.222.202",
         "btemexca.net",
         "bteconosur.com",
         "bteromania.ro",
@@ -37,6 +35,15 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
@@ -54,15 +61,6 @@
         "lt",
         "no",
         "pl"
-    ],
-    "primaryRegion": "NA",
-    "regions": [
-        "AF",
-        "AS",
-        "EU",
-        "NA",
-        "OC",
-        "SA"
     ],
     "gameTypes": [
         "Creative"

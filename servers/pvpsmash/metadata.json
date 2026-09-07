@@ -1,16 +1,17 @@
 {
     "id": "pvpsmash",
     "name": "PvPSmash",
+    "description": "Play Factions and PvP on PvPSmash.",
     "addresses": [
         "pvpsmash.xyz"
     ],
     "primaryAddress": "pvpsmash.xyz",
     "primaryColor": "#FF9700",
     "secondaryColor": "#130B76",
-    "primaryMinecraftVersion": "1.8.9",
     "minecraftVersions": [
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
     "gameTypes": [
         "Factions",
         "PvP"

@@ -1,9 +1,9 @@
 {
     "id": "silvergate",
     "name": "Silvergate",
-    "description": "Beyond adventure.",
     "website": "http://www.silvergate-mc.eu/",
     "store": "http://www.silvergate-mc.store/",
+    "description": "Beyond adventure.",
     "addresses": [
         "silvergate-mc.eu"
     ],
@@ -20,7 +20,6 @@
     ],
     "gameTypes": [
         "Adventure"
-
     ],
     "socials": {
         "discord": "https://discord.gg/tF2nkMa2zj",

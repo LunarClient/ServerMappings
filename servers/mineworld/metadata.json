@@ -3,6 +3,7 @@
     "name": "MineWorld",
     "website": "https://www.mineworld.lat/",
     "store": "https://mineworld.tebex.io/",
+    "description": "Rise through the ranks on MineWorld.",
     "addresses": [
         "mineworld.lat"
     ],
@@ -17,20 +18,19 @@
         "1.18.*",
         "1.19.*",
         "1.20.*"
-
     ],
     "primaryMinecraftVersion": "1.20.4",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
-    "gameTypes": [
-        "Prison"
-    ],
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
         "en"
+    ],
+    "gameTypes": [
+        "Prison"
     ],
     "socials": {
         "twitter": "MineWorld",

@@ -28,12 +28,12 @@
         "PvP",
         "Survival"
     ],
-    "compliance": {
-        "privacyPolicy": "https://www.gemoria.net/privacy",
-        "rules": "https://www.gemoria.net/regolamento"
-    },
     "socials": {
         "telegram": "gemoria_official",
         "discord": "https://discord.com/invite/AZXqPFxZMh"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.gemoria.net/privacy",
+        "rules": "https://www.gemoria.net/regolamento"
     }
 }

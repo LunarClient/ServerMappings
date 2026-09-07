@@ -2,11 +2,14 @@
     "id": "vanillamc",
     "name": "VanillaMC",
     "store": "https://vanillacraft.tebex.io",
+    "description": "Play Survival, Factions, and more on VanillaMC.",
     "addresses": [
         "vanillamc.me",
         "vanillamc.tech"
     ],
     "primaryAddress": "vanillamc.me",
+    "primaryColor": "#5555FF",
+    "secondaryColor": "#FFFF55",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,8 +20,6 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#5555FF",
-    "secondaryColor": "#FFFF55",
     "gameTypes": [
         "Survival",
         "Factions",

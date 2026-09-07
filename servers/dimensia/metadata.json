@@ -1,0 +1,34 @@
+{
+    "id": "dimensia",
+    "name": "Dimensia",
+    "website": "https://dimensia.fr/",
+    "description": "A server from an other dimension",
+    "addresses": [
+        "dimensia.fr"
+    ],
+    "primaryAddress": "play.dimensia.fr",
+    "primaryColor": "#642DE9",
+    "secondaryColor": "#B393FF",
+    "minecraftVersions": [
+        "1.21.3",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.3",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/yRvbJmgGzY"
+    }
+}

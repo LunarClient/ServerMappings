@@ -4,7 +4,7 @@
     "website": "http://minecraft-romania.ro",
     "description": "Official Minecraft Romania server with Survival, SkyBlock, and Captive gameplay.",
     "addresses": [
-      "minecraft-romania.ro"
+        "minecraft-romania.ro"
     ],
     "primaryAddress": "play.minecraft-romania.ro",
     "primaryColor": "#007BFF",
@@ -29,11 +29,11 @@
         "en"
     ],
     "gameTypes": [
-      "Survival",
-      "Skyblock"
+        "Survival",
+        "Skyblock"
     ],
     "socials": {
-      "discord": "https://discord.gg/xDgFTqy9Sa",
-      "tiktok": "@minecraftromania14"
+        "discord": "https://discord.gg/xDgFTqy9Sa",
+        "tiktok": "@minecraftromania14"
     }
 }

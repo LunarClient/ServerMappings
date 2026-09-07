@@ -1,0 +1,24 @@
+{
+  "id": "aquatic-mc",
+  "name": "AquaticMC",
+  "description": "Network Minecraft Survival",
+  "addresses": [
+    "aquatic-mc.com"
+  ],
+  "primaryAddress": "play.aquatic-mc.com",
+  "minecraftVersions": [
+    "1.21.*",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#00AEFF",
+  "secondaryColor": "#0055FF",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "crossplay": false
+}

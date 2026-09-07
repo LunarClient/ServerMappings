@@ -2,17 +2,16 @@
     "id": "oraclesmp",
     "name": "OracleSMP",
     "website": "https://web.oraclesmp.org/",
+    "description": "Play Survival, Open World, and more on OracleSMP.",
     "addresses": [
         "oraclesmp.org"
     ],
-
     "primaryAddress": "oraclesmp.org",
     "primaryColor": "#ECB920",
     "secondaryColor": "#a1ced8",
     "minecraftVersions": [
         "1.20.*"
     ],
-    
     "primaryMinecraftVersion": "1.20.1",
     "primaryRegion": "EU",
     "regions": [

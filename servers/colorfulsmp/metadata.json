@@ -1,0 +1,23 @@
+{
+  "id": "colorfulsmp",
+  "name": "ColorfulSMP",
+  "description": "A fun and engaging Spanish survival multiplayer server.",
+  "addresses": [
+    "liric.xyz"
+  ],
+  "primaryAddress": "mc.liric.xyz",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#FF0000", 
+  "secondaryColor": "#0000FF",
+  "minecraftVersions": [
+    "1.21.4"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryLanguage": "es-EN"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "exorium",
+    "name": "Exorium",
+    "description": "PvP Factions 1.21.4 for Java and Bedrock",
+    "addresses": [
+        "exorium.fr"
+    ],
+    "primaryAddress": "play.exorium.fr",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#6614b8",
+    "secondaryColor": "#791cf8",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions"
+    ],
+    "primaryGameType": "Factions",
+    "website": "https://www.exorium.fr",
+    "store": "https://www.exorium.fr/shop/categories/grades",
+    "compliance": {
+        "privacyPolicy": "https://www.exorium.fr/cgucgv",
+        "termsOfService": "https://www.exorium.fr/cgucgv",
+        "rules": "https://www.exorium.fr/reglement"
+    },
+    "socials": {
+        "discord": "https://discord.gg/QCkVU6sYEW"
+    },
+    "crossplay": true
+}

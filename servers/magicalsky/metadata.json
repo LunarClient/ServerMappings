@@ -1,0 +1,36 @@
+{
+    "id": "magicalsky",
+    "name": "MagicalSky",
+    "website": "https://www.magicalsky.fr/",
+    "store": "https://www.magicalsky.fr/boutique",
+    "description": "MagicalSky is a skyblock mixing magic, complex machines and exciting quests",
+    "addresses": [
+        "magicalsky.fr"
+    ],
+    "primaryAddress": "play.magicalsky.fr",
+    "primaryColor": "#7C0FC8",
+    "secondaryColor": "#D929F9",
+    "minecraftVersions": [
+        "1.20.4"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "socials": {
+        "twitter": "magicalskymc",
+        "discord": "https://discord.gg/bAJSn6XMJu",
+        "youtube": "@magical_sky",
+        "instagram": "magicalskymc",
+        "tiktok": "@magicalskymc"
+    }
+}

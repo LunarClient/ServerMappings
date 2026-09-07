@@ -1,0 +1,35 @@
+{
+    "id": "salmobox",
+    "name": "SalmoBox",
+    "store": "https://tienda.salmobox.net/",
+    "description": "By the SalmoBox Studios",
+    "addresses": [
+        "salmobox.net"
+    ],
+    "primaryAddress": "salmobox.net",
+    "primaryColor": "#4eb4ff",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/ZU3SZVCx2Q"
+    }
+}

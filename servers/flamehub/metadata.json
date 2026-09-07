@@ -1,0 +1,42 @@
+{
+    "id": "flamehub",
+    "name": "Flamehub",
+    "website": "https://flamehub.pl/",
+    "store": "https://flamehub.pl/shop/kupno-doladowania",
+    "description": "Join the world of adventure today",
+    "addresses": [
+        "flamehub.pl"
+    ],
+    "primaryAddress": "flamehub.pl",
+    "primaryColor": "#ca280c",
+    "secondaryColor": "#f9db75",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/XUG4YJ8aqp"
+    },
+    "compliance": {
+        "privacyPolicy": "https://flamehub.pl/policy",
+        "rules": "https://flamehub.pl/regulamin"
+    }
+}

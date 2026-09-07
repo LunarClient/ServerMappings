@@ -11,17 +11,17 @@
     "primaryColor": "#458BEF",
     "secondaryColor": "#164072",
     "minecraftVersions": [
-        "1.20.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.4",
+    "primaryMinecraftVersion": "1.21.4",
     "crossplay": false,
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

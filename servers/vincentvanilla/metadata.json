@@ -1,0 +1,40 @@
+{
+    "id": "vincentvanilla",
+    "name": "VincentVanilla",
+    "description": "Vanilla+ survival with teams, player economy, duels and shops",
+    "addresses": [
+        "vincentvanilla.net"
+    ],
+    "primaryAddress": "vincentvanilla.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#30D050",
+    "secondaryColor": "#109030",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "nl",
+        "fr",
+        "pl",
+        "sv-SE"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "store": "https://store.vincentvanilla.net",
+    "socials": {
+        "discord": "https://discord.gg/vincentvanilla"
+    },
+    "crossplay": true
+}

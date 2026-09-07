@@ -3,10 +3,13 @@
     "name": "InkMC",
     "website": "https://inkmc.pl/servers",
     "store": "https://inkmc.pl/servers",
+    "description": "Play Minigames, PvP, and more on InkMC.",
     "addresses": [
         "inkmc.pl"
     ],
     "primaryAddress": "inkmc.pl",
+    "primaryColor": "#ff3232",
+    "secondaryColor": "#650000",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
@@ -18,8 +21,6 @@
     "regions": [
         "EU"
     ],
-    "primaryColor": "#ff3232",
-    "secondaryColor": "#650000",
     "gameTypes": [
         "Minigames",
         "PvP",

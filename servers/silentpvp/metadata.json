@@ -1,0 +1,27 @@
+{
+    "id": "silentpvp",
+    "name": "SilentPvP",
+    "description": "1.8 to 1.20 Competitive Server",
+    "addresses": [
+        "silentpvp.xyz"
+    ],
+    "primaryAddress": "silentpvp.xyz",
+    "primaryColor": "#9b4dff",
+    "secondaryColor": "#6a2f99",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/5arKzADUx2"
+    }
+}

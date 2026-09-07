@@ -1,13 +1,14 @@
 {
     "id": "strawhats",
     "name": "Strawhats Network",
-    "website": "https://www.strawhatspvp.us/",
-    "store": "https://store.strawhatspvp.us/",
+    "website": "https://www.strawhatspvp.net/",
+    "store": "https://store.strawhatspvp.net/",
     "description": "Home of Competitive Minecraft PvP",
     "addresses": [
+        "strawhatspvp.net",
         "strawhatspvp.us"
     ],
-    "primaryAddress": "strawhatspvp.us",
+    "primaryAddress": "strawhatspvp.net",
     "primaryColor": "#FFAA00",
     "secondaryColor": "#DEDEDE",
     "minecraftVersions": [

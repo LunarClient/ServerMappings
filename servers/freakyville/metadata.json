@@ -3,11 +3,13 @@
     "name": "FreakyVille",
     "website": "https://www.freakyville.net/",
     "store": "https://freakyvillemc.buycraft.net/",
+    "description": "Play Prison, Skyblock, and more on FreakyVille.",
     "addresses": [
         "freakyville.net",
         "freakyville.dk"
     ],
     "primaryAddress": "mc.freakyville.net",
+    "offline": true,
     "primaryColor": "#fdc713",
     "secondaryColor": "#aa5c16",
     "minecraftVersions": [
@@ -17,10 +19,12 @@
         "1.17.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Prison",
     "gameTypes": [
         "Prison",
         "Skyblock",
-        "Creative"
+        "Creative",
+        "PvP"
     ],
     "socials": {
         "twitter": "FreakyVilleMC",

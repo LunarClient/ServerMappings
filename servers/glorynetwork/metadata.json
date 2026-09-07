@@ -3,6 +3,7 @@
     "name": "GloryNetwork",
     "website": "https://glory-network.net/",
     "store": "https://store.glory-network.net/",
+    "description": "Play Minigames and PvP on GloryNetwork.",
     "addresses": [
         "glory-network.net",
         "rbw.world"

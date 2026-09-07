@@ -1,12 +1,14 @@
 {
     "id": "tryfight",
     "name": "TryFight",
-    "description": "French Mini-Games Server",
     "website": "https://tryfight.fr/",
+    "description": "French Mini-Games Server",
     "addresses": [
         "tryfight.fr"
     ],
     "primaryAddress": "play.tryfight.fr",
+    "primaryColor": "#C74613",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -16,16 +18,14 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#C74613",
-    "secondaryColor": "#FFFFFF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "fr",
     "languages": [
         "fr",
         "en"
-    ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
     ],
     "gameTypes": [
         "PvP",

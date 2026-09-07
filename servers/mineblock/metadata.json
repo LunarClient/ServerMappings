@@ -1,8 +1,8 @@
 {
     "id": "mineblock",
     "name": "Mineblock Network",
-    "description": "Home of the most exciting modern minigames!",
     "store": "https://store.mineblock.gg/",
+    "description": "Home of the most exciting modern minigames!",
     "addresses": [
         "mineblock.gg"
     ],

@@ -1,6 +1,7 @@
 {
     "id": "nemesis",
     "name": "Nemesis",
+    "description": "Play Parkour and PvP on Nemesis.",
     "addresses": [
         "nemesismc.fun"
     ],

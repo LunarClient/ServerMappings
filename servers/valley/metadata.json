@@ -1,12 +1,38 @@
 {
     "id": "valley",
     "name": "Valley Network",
+    "website": "https://www.valleypvp.us",
+    "store": "https://store.valleypvp.us",
+    "description": "A community dedicated to pvp",
     "addresses": [
         "valleypvp.us"
     ],
-    "gameTypes": [
-        "Factions"
-    ],
+    "primaryAddress": "valleypvp.us",
     "primaryColor": "#fa69b8",
-    "secondaryColor": "#00ca01"
+    "secondaryColor": "#00ca01",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/TQmDG5skqM",
+        "tiktok": "@ValleyNetwork"
+    }
 }

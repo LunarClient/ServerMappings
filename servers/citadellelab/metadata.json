@@ -1,0 +1,31 @@
+{
+    "id": "citadellelab",
+    "name": "Citadelle Lab",
+    "description": "Minecraft event network, Cities and other minigames.",
+    "addresses": [
+        "citadellelab.fr"
+    ],
+    "primaryAddress": "play.citadellelab.fr",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#10182B",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Competitive"
+    ],
+    "website": "https://citadellelab.fr",
+    "socials": {
+        "discord": "https://discord.gg/uD5wWEbrfJ"
+    }
+}

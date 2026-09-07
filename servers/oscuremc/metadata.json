@@ -8,6 +8,8 @@
         "oscuremc.net"
     ],
     "primaryAddress": "play.oscuremc.net",
+    "primaryColor": "#800080",
+    "secondaryColor": "#FFC0CB",
     "minecraftVersions": [
         "1.8.*",
         "1.16.*",
@@ -21,8 +23,6 @@
     "regions": [
         "NA"
     ],
-    "primaryColor": "#800080",
-    "secondaryColor": "#FFC0CB",
     "gameTypes": [
         "Survival",
         "Adventure",

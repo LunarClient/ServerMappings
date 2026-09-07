@@ -1,11 +1,14 @@
 {
     "id": "paxciamc",
     "name": "PaxciaMC",
+    "website": "https://paxcia.net",
     "description": "Bringing back old memories",
     "addresses": [
         "paxcia.net"
     ],
     "primaryAddress": "mc.paxcia.net",
+    "primaryColor": "#f4c035",
+    "secondaryColor": "#0296b8",
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -16,27 +19,24 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.1",
-    "primaryColor": "#f4c035",
-    "secondaryColor": "#0296b8",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "primaryLanguage": "en",
     "languages": [
         "en",
         "fr"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
-    "website": "https://paxcia.net",
     "socials": {
         "twitter": "PaxciaMC",
         "instagram": "paxciamc",
         "tiktok": "@paxciamc",
         "discord": "https://discord.com/invite/ZwyDhHq7xM"
-    },
-    "crossplay": false
+    }
 }

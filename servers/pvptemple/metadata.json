@@ -3,6 +3,7 @@
     "name": "PvPTemple",
     "website": "https://pvptemple.net/",
     "store": "https://store.pvptemple.net/",
+    "description": "Play PvP, HCF, and more on PvPTemple.",
     "addresses": [
         "pvptemple.net",
         "teamunit.de",
@@ -11,10 +12,6 @@
     "primaryAddress": "pvptemple.net",
     "primaryColor": "#ffa500",
     "secondaryColor": "#ffff00",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -29,6 +26,10 @@
     "regions": [
         "EU",
         "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",

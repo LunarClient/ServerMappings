@@ -1,0 +1,48 @@
+{
+    "id": "mctrainer",
+    "name": "McTrainer",
+    "website": "https://mctrainer.club",
+    "description": "Ranked PvP, training exercises, leaderboards, and bot duels.",
+    "addresses": [
+      "mctrainer.club"
+    ],
+    "primaryAddress": "mctrainer.club",
+    "primaryColor": "#00D9FF",
+    "secondaryColor": "#007BFF",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive",
+        "Crystal PvP",
+        "KitPvP",
+        "UHC",
+        "Casual"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KWbWY8RA8t",
+        "youtube": "@mctrainerclub",
+        "instagram": "mctrainerclub",
+        "tiktok": "@mctrainerclub"
+    }
+}

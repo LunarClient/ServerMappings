@@ -1,8 +1,8 @@
 {
     "id": "diaworlds",
     "name": "DiaWorlds",
-    "description": "CZSK Survival server.",
     "store": "https://store.diaworlds.eu/",
+    "description": "CZSK Survival server.",
     "addresses": [
         "diaworlds.eu"
     ],

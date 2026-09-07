@@ -1,0 +1,26 @@
+{
+    "id": "hexalon",
+    "name": "Hexalon",
+    "description": "Play fun Gamemodes on Hexalon",
+    "addresses": [
+        "hexalon.eu"
+    ],
+    "primaryAddress": "play.hexalon.eu",
+    "primaryColor": "#8446E0",
+    "secondaryColor": "#9060DF",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

@@ -10,30 +10,30 @@
         "mintmc.dk"
     ],
     "primaryAddress": "mintmc.dk",
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryColor": "#55FFFF",
-    "secondaryColor": "#FFFFFF",
+    "gameTypes": [
+        "PvP",
+        "Prison"
+    ],
     "socials": {
         "discord": "https://discord.gg/mintmc",
         "tiktok": "@mintprison",
         "twitter": "mintprisondk",
         "youtube": "@mintprison"
     },
-    "gameTypes": [
-        "PvP",
-        "Prison"
-    ],
-    "crossplay": false,
-    "presentationVideo": "BCZVcf1atfU",
     "compliance": {
         "termsOfService": "https://mintmc.dk/terms-of-service",
         "rules": "https://mintmc.dk/rules"
-    }
+    },
+    "presentationVideo": "BCZVcf1atfU"
 }

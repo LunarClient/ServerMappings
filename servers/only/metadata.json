@@ -1,0 +1,34 @@
+{
+    "id": "only",
+    "name": "OnlyMC",
+    "website": "https://onlymc.xyz/",
+    "description": "There is no pay-to-win here.",
+    "addresses": [
+        "onlymc.xyz"
+    ],
+    "primaryAddress": "onlymc.xyz",
+    "primaryColor": "#77008A",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jyxkREAZdZ",
+        "twitter": "OnlyMC_Network"
+    }
+}

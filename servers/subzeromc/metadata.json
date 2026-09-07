@@ -1,0 +1,33 @@
+{
+    "id": "subzeromc",
+    "name": "SubZeroMC",
+    "website": "https://subzeromc.com",
+    "store": "https://shop.subzeromc.com",
+    "description": "Java & Bedrock SMP. chill vibes, serious gameplay.",
+    "addresses": [
+        "subzeromc.com"
+    ],
+    "primaryAddress": "subzeromc.com",
+    "primaryColor": "#4D8FDF",
+    "secondaryColor": "#75a2d5",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/AJxxMytfHR"
+    }
+}

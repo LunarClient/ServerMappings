@@ -26,17 +26,17 @@
     "regions": [
         "NA"
     ],
+    "gameTypes": [
+        "Survival"
+    ],
     "socials": {
         "discord": "https://discord.gg/EAEM9Td6Xh",
         "twitter": "ArcticForestMC",
         "youtube": "@ArcticForestMC",
         "instagram": "arcticforestmc_net"
     },
-    "gameTypes": [
-        "Survival"
-    ],
-    "presentationVideo": "A3Y4F2yi7oo",
     "compliance": {
         "rules": "http://arcticforestmc.net/rules"
-    }
+    },
+    "presentationVideo": "A3Y4F2yi7oo"
 }

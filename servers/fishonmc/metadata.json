@@ -1,0 +1,42 @@
+{
+    "id": "fishonmc",
+    "name": "FishOnMC",
+    "website": "https://fishonmc.net/",
+    "store": "https://store.fishonmc.net/",
+    "wiki": "https://wiki.fishonmc.net/",
+    "description": "Minecraft's best fishing experience.",
+    "addresses": [
+        "fishonmc.net"
+    ],
+    "primaryAddress": "play.fishonmc.net",
+    "primaryColor": "#41b482",
+    "secondaryColor": "#0863c7",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.5",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "FishOnMinecraft",
+        "discord": "https://discord.com/invite/c5aMSkYSBp",
+        "youtube": "FishOnMinecraft",
+        "instagram": "fishonminecraft",
+        "tiktok": "@fishonminecraft"
+    },
+    "compliance": {
+        "rules": "https://fishonmc.net/rules/"
+    },
+    "presentationVideo": "6wR_RpGMwt4"
+}

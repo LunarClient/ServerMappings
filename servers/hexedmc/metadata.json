@@ -1,0 +1,46 @@
+{
+    "id": "hexedmc",
+    "name": "HexedMC",
+    "website": "https://hexedmc.net/",
+    "store": "https://shop.hexedmc.net/",
+    "description": "HexedMC offers unique player experience for you to explore!",
+    "addresses": [
+        "hexedmc.net",
+        "hexedmc.com",
+        "hexedmc.org",
+        "hexedmc.xyz"
+    ],
+    "primaryAddress": "play.hexedmc.net",
+    "primaryColor": "#cf70fa",
+    "secondaryColor": "#b82ff5",
+    "minecraftVersions": [
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "HexedMC",
+        "discord": "https://discord.gg/hexedmc",
+        "youtube": "UCyWWESPYke4awJL4xyUPYFQ",
+        "instagram": "hexedmc",
+        "tiktok": "@hexedmc.net"
+    }
+}

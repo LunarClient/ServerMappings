@@ -1,6 +1,8 @@
 {
     "id": "minelibre",
     "name": "Minelibre Games",
+    "website": "https://minelibre.es",
+    "store": "https://tienda.minelibre.es",
     "description": "Latin server specialized in Survival.",
     "addresses": [
         "minelibre.es",
@@ -8,6 +10,8 @@
         "minelibre.net"
     ],
     "primaryAddress": "mc.minelibre.es",
+    "primaryColor": "#3aba3d",
+    "secondaryColor": "#d9452e",
     "minecraftVersions": [
         "1.17.*",
         "1.18.*",
@@ -15,13 +19,7 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#3aba3d",
-    "secondaryColor": "#d9452e",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -30,21 +28,23 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "Survival",
         "Adventure",
         "Parkour"
     ],
-    "website": "https://minelibre.es",
-    "store": "https://tienda.minelibre.es",
-    "compliance": {
-        "rules": "https://docs.minelibre.es/servidor/reglas"
-    },
     "socials": {
         "twitter": "minelibregames",
         "instagram": "minelibregames",
         "tiktok": "@minelibregames",
         "discord": "https://discord.gg/minelibre"
     },
-    "crossplay": true
+    "compliance": {
+        "rules": "https://docs.minelibre.es/servidor/reglas"
+    }
 }

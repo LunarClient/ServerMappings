@@ -1,0 +1,32 @@
+{
+    "id": "warpion",
+    "name": "Warpion",
+    "store": "https://loja.warpion.net",
+    "description": "Warpion is a Minecraft 1.8.9 PvP server network.",
+    "addresses": [
+        "warpion.net"
+    ],
+    "primaryAddress": "warpion.net",
+    "primaryColor": "#F5C527",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/qtHMEdpPUn"
+    } 
+}

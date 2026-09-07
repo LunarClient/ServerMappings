@@ -1,11 +1,14 @@
 {
     "id": "zapcon",
     "name": "ZapCon Network",
+    "website": "https://zapcon.net",
     "description": "We are a community that seeks tranquility.",
     "addresses": [
         "zapcon.net"
     ],
     "primaryAddress": "zapcon.net",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ff8a00",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
@@ -17,27 +20,24 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.19.2",
-    "primaryColor": "#ff0000",
-    "secondaryColor": "#ff8a00",
+    "crossplay": true,
     "primaryLanguage": "es-EN",
     "languages": [
-      "es-EN",
-      "en"
+        "es-EN",
+        "en"
     ],
     "gameTypes": [
-      "PvP",
-      "Minigames",
-      "Survival"
+        "PvP",
+        "Minigames",
+        "Survival"
     ],
-    "website": "https://zapcon.net",
-    "compliance": {
-        "privacyPolicy": "https://zapcon.net/privacy/",
-        "termsOfService": "https://zapcon.net/terms/",
-        "support": "https://zapcon.net/forum/"
-    },
     "socials": {
         "twitter": "ZapConNetwork",
         "discord": "https://discord.com/invite/zueqYc66aB"
     },
-    "crossplay": true
+    "compliance": {
+        "privacyPolicy": "https://zapcon.net/privacy/",
+        "termsOfService": "https://zapcon.net/terms/",
+        "support": "https://zapcon.net/forum/"
+    }
 }

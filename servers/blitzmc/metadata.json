@@ -1,8 +1,8 @@
 {
     "id": "blitzmc",
     "name": "BlitzMC",
-    "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
     "store": "https://store.blitzmc.net/",
+    "description": "A 1.7.10 and 1.8.9 UHC and Practice server.",
     "addresses": [
         "blitzmc.net"
     ],

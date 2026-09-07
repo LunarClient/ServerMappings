@@ -1,26 +1,57 @@
 {
     "id": "hibiscusmc",
-    "name": "HibiscusMC",
+    "name": "HibiscusMC: Awakened",
     "store": "https://store.hibiscusmc.com/",
+    "wiki": "https://hibiscuscreative.notion.site/HibiscusMC-Wiki-4667d3aeccaf4367b453d88c0bb26bbc",
+    "description": "A revolutionary experience filled with custom mobs, blocks, and so much more",
     "addresses": [
         "hibiscusmc.com"
     ],
     "primaryAddress": "play.hibiscusmc.com",
-    "primaryColor": "#ef84c9",
-    "secondaryColor": "#ff2c46",
+    "primaryColor": "#d24c9f",
+    "secondaryColor": "#8af213",
     "minecraftVersions": [
-        "1.19.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Adventure",
+        "Open World"
     ],
     "socials": {
-        "twitter": "hibiscusmc",
-        "discord": "https://discord.gg/cGcyHccPJ6"
-    }
+        "discord": "https://discord.gg/cGcyHccPJ6",
+        "youtube": "@HibiscusMC",
+        "tiktok": "@HibiscusMC",
+        "instagram": "hibiscusmc"
+    },
+    "compliance": {
+        "rules": "https://hibiscuscreative.notion.site/Rules-5eeaa8813233418da13ffb63c23ede20",
+        "support": "https://feedback.hibiscusmc.com/"
+    },
+    "tebexStore": {
+        "background": {
+            "upperColor": "#d24c9f",
+            "lowerColor": "#fc77ca"
+        }
+    },
+    "votingLinks": [
+        "https://servers-minecraft.net/server-hibiscusmc.11661",
+        "https://minecraftbestservers.com/server-hibiscusmc.250",
+        "https://minecraftservers.org/server/634112",
+        "https://www.planetminecraft.com/server/hibiscusmc-5537518/",
+        "https://minecraft.buzz/server/4698",
+        "https://best-minecraft-servers.co/server-hibiscusmc.7345",
+        "https://www.curseforge.com/servers/server/hibiscusmc",
+        "https://findmcserver.com/server/hibiscusmc"
+    ]
 }

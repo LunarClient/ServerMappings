@@ -1,0 +1,41 @@
+{
+    "id": "megaskywars",
+    "name": "megaskywars.com",
+    "description": "The most advanced form of Minecraft PvP (Mega Skywars)",
+    "addresses": [
+        "megaskywars.com"
+    ],
+    "primaryAddress": "megaskywars.com",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+		"26.1.*",
+	    "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#00AAAA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "Roleplay",
+	    "Practice"
+    ],
+    "primaryGameType": "PvP",
+    "crossplay": true
+}
