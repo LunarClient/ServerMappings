@@ -1,0 +1,40 @@
+{
+    "id": "classicmc",
+    "name": "ClassicMC.top",
+    "description": "Semi-Vanilla SMP with no map resets, griefing, or cheating.",
+    "addresses": [
+        "classicmc.top"
+    ],
+    "primaryAddress": "classicmc.top",
+    "primaryColor": "#4CAF50",
+    "secondaryColor": "#1B5E20",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Vanilla"
+    ],
+    "crossplay": false,
+    "offline": true,
+    "website": "https://classicmc.top/en-us",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/q6QM7TtCDw",
+        "tiktok": "@classicmc.top"
+    },
+    "compliance": {
+        "rules": "https://classicmc.top/en-us/#rules"
+    }
+}

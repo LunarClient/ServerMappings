@@ -35,6 +35,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: pr-results
+          path: ${{ runner.temp }}/pr-results
           run-id: ${{ github.event.workflow_run.id }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
@@ -43,6 +44,7 @@ jobs:
         run: python .scripts/post_pr_feedback.py
         env:
           BOT_PAT: ${{ secrets.BOT_PAT }}
+          RESULTS_FILE: ${{ runner.temp }}/pr-results/pr_results.json
           DOWNLOAD_OUTCOME: ${{ steps.download.outcome }}
           WORKFLOW_RUN_HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
           WORKFLOW_RUN_HEAD_OWNER: ${{ github.event.workflow_run.head_repository.owner.login }}
