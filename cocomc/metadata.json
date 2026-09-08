@@ -1,0 +1,15 @@
+{
+  "id": "cocomc",
+  "name": "CocoMC",
+  "description": "Benvenuto su CocoMC! Entra nel nostro server per giocare insieme.",
+  "addresses": [
+    "cocomc.ddns.net"
+  ],
+  "primaryAddress": "cocomc.ddns.net",
+  "regions": [
+    "EU"
+  ],
+  "socials": {
+    "discord": "https://dsc.gg/cocomcit"
+  }
+}
