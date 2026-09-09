@@ -1,0 +1,30 @@
+{
+  "id": "hsfmc",
+  "name": "HsfMC",
+  "description": "A competitive Lifesteal Minecraft server with intense PvP.",
+  "addresses": [
+    "hsfmc.fun"
+  ],
+  "primaryAddress": "play.hsfmc.fun",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#00FFFF",
+  "secondaryColor": "#0B2239",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Lifesteal",
+    "PvP"
+  ],
+  "primaryGameType": "Lifesteal",
+  "website": "https://store.hsfmc.lol",
+  "store": "https://store.hsfmc.lol",
+  "socials": {
+    "discord": "https://discord.gg/hsfmc"
+  },
+  "crossplay": false
+}
