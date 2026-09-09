@@ -1,0 +1,32 @@
+{
+  "id": "nexornmc",
+  "name": "NEXORNMC",
+  "store": "https://tienda.nexornmc.com/",
+  "description": "NEXORNMC Survival - Build, explore, and thrive in an amazing Minecraft community.",
+  "addresses": [
+    "nexornmc.com"
+  ],
+  "primaryAddress": "play.nexornmc.com",
+  "offline": false,
+  "primaryColor": "#FFD25B",
+  "secondaryColor": "#FF9C1B",
+  "minecraftVersions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/nexornmc"
+  }
+}
