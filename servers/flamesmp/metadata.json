@@ -4,9 +4,7 @@
     "description": "Competitive PvP, Survival & Events!",
     "addresses": [
         "flamesmp.gg",
-        "flamesmp.org",
-        "flamefrags.com",
-        "flamefrags.net"
+        "flamesmp.org"
     ],
     "primaryAddress": "play.flamesmp.gg",
     "minecraftVersions": [
@@ -44,7 +42,7 @@
         "rules": "https://flamesmp.gg/rules"
     },
     "socials": {
-        "discord": "https://discord.gg/flamegg"
+        "discord": "https://discord.gg/flamesmp"
     },
     "crossplay": true
 }
