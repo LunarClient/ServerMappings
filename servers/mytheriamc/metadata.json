@@ -28,10 +28,8 @@
     "Skyblock",
     "OneBlock"
   ],
-  "links": {
-    "store": "https://mytheriamc.net"
-  },
+  "store": "https://mytheriamc.net",
   "socials": {
-    "discord": "https://discord.gg/XN68fJYrkw"
+    "discord": "https://discord.mytheriamc.net"
   }
 }
