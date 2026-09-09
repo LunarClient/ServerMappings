@@ -1,7 +1,7 @@
 {
   "id": "nexornmc",
   "name": "NEXORNMC",
-  "description": "NEXORNMC Survival - Build, explore, and thrive in an amazing Minecraft community.",
+  "description": "NEXORNMC - Join our Minecraft community and enjoy a unique network experience.",
   "addresses": [
     "nexornmc.com"
   ],
@@ -21,9 +21,9 @@
   "regions": [
     "NA"
   ],
-  "primaryGameType": "Survival",
+  "primaryGameType": "Casual",
   "gameTypes": [
-    "Survival"
+    "Casual"
   ],
   "socials": {
     "discord": "https://discord.gg/xpeeNpZkcb"
