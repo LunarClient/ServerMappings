@@ -1,7 +1,6 @@
 {
   "id": "nexornmc",
   "name": "NEXORNMC",
-  "store": "https://tienda.nexornmc.com/",
   "description": "NEXORNMC Survival - Build, explore, and thrive in an amazing Minecraft community.",
   "addresses": [
     "nexornmc.com"
@@ -27,6 +26,6 @@
     "Survival"
   ],
   "socials": {
-    "discord": "https://discord.gg/nexornmc"
+    "discord": "https://discord.gg/xpeeNpZkcb"
   }
 }
