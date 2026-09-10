@@ -14,11 +14,10 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+				"26.*"
     ],
-    "primaryMinecraftVersion": "1.21.8",
-    "primaryColor": "#ff80c0",
-    "secondaryColor": "#ff0080",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN",
@@ -33,26 +32,14 @@
         "AS",
         "SA"
     ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Factions"
     ],
-    "store": "https://tienda.astralisnet.com",
-    "crossplay" : true,
     "offline": true,
     "socials": {
         "discord": "https://discord.gg/thnqZ5VjgQ",
          "youtube": "astralisnetwork"
-    },
-    "crossplay": true
-    "socials": {
-        "discord": "https://discord.gg/thnqZ5VjgQ",
-        "youtube": "astralisnetwork"
     }
 }
