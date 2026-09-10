@@ -3,6 +3,7 @@
   "name": "NexVionMC",
   "description": "Italian Minecraft Survival Network",
   "addresses": [
+    "nexvion.it",
     "play.nexvion.it"
   ],
   "primaryAddress": "play.nexvion.it",
