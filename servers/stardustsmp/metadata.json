@@ -1,0 +1,36 @@
+{
+    "id": "stardustsmp",
+    "name": "StardustSMP",
+    "store": "https://stardustsmp.tebex.io",
+    "description": "A space-themed survival experience!",
+    "addresses": [
+        "stardustsmp.com"
+    ],
+    "primaryAddress": "stardustsmp.com",
+    "primaryColor": "#4da8ff",
+    "secondaryColor": "#b14fff",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA",
+        "AS",
+        "SA",
+        "OC"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/P3UhWxyZZK"
+    }
+}
