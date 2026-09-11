@@ -29,11 +29,13 @@
     "languages": [
         "en"
     ],
-    "primaryGameType": "Hardcore",
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Hardcore",
         "Survival",
         "PvP",
+        "Open World",
+        "Crystal PvP",
         "Casual"
     ],
     "socials": {
