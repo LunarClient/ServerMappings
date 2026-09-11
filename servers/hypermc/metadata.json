@@ -2,7 +2,7 @@
 "id": "hypermc",
 "name": "HyperMC",
 "description": "The leading Italian server for competitive play and custom survival modes.",
-"website": "www.hyper-mc.it",
+"website": "https://www.hyper-mc.it",
 "addresses": [
 "hyper-mc.it"
 ],
@@ -23,7 +23,7 @@
 "socials": {
 "discord": "https://discord.gg/Bgut9vVz8X",
 "youtube": "HyperMC Official",
-"tiktok": "hypermc_official",
+"tiktok": "@hypermc_official",
 "twitch": "HyperMC_Network"
 }
 }
