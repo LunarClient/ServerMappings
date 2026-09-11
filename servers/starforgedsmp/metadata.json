@@ -1,7 +1,7 @@
 {
     "id": "starforgedsmp",
     "name": "StarForgedSMP",
-    "description": "Fair survival SMP with skills, claims, cosmetics, and player markets.",
+    "description": "Crossplay Survival and Creative with skills, claims, cosmetics, and markets.",
     "addresses": [
         "starforgedsmp.net"
     ],
@@ -17,7 +17,7 @@
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#0d8dff",
-    "secondaryColor": "#d0142f",
+    "secondaryColor": "#d5aa45",
     "primaryLanguage": "en",
     "languages": [
         "en"
@@ -28,6 +28,7 @@
     ],
     "gameTypes": [
         "Survival",
+        "Creative",
         "PvP"
     ],
     "primaryGameType": "Survival",
