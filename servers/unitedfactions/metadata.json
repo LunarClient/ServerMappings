@@ -30,6 +30,11 @@
     "website": "https://unitedfactions.net/",
     "store": "https://unitedfactions.net/store/",
     "votingLinks": [
+        "https://www.planetminecraft.com/server/unitedfactions-pvp-100-slots-247-no-lag-mcmmo-plugins/",
+        "https://mclike.com/minecraft-server-189966",
+        "https://minecraft-server-list.com/server/479493/",
+        "https://topg.org/minecraft-servers/server-685210",
+        "https://www.minerank.com/united-factions",
         "https://www.curseforge.com/servers/minecraft/game/united-factions"
     ],
     "compliance": {
@@ -38,11 +43,14 @@
         "rules": "https://unitedfactions.net/rules/",
         "support": "https://unitedfactions.net/support/"
     },
+    "presentationVideo": "FYO4yHmeWic",
     "socials": {
         "twitter": "unitedfactions",
         "discord": "https://discord.com/invite/TKU8uQU",
+        "youtube": "@united_factions",
         "instagram": "ufactions",
         "twitch": "united_factions",
+        "tiktok": "@unitedfactions.net",
         "facebook": "UnitedFactions"
     },
     "crossplay": true,
