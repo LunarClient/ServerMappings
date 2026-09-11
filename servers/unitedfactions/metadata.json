@@ -1,0 +1,50 @@
+{
+    "id": "unitedfactions",
+    "name": "United Factions",
+    "description": "Competitive non-P2W Factions with raiding and a gold economy.",
+    "addresses": [
+        "unitedfactions.net"
+    ],
+    "primaryAddress": "play.unitedfactions.net",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#dc5360",
+    "secondaryColor": "#3fd0ee",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Survival",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Factions",
+    "website": "https://unitedfactions.net/",
+    "store": "https://unitedfactions.net/store/",
+    "votingLinks": [
+        "https://www.curseforge.com/servers/minecraft/game/united-factions"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://unitedfactions.net/privacy/",
+        "termsOfService": "https://unitedfactions.net/terms/",
+        "rules": "https://unitedfactions.net/rules/",
+        "support": "https://unitedfactions.net/support/"
+    },
+    "socials": {
+        "twitter": "unitedfactions",
+        "discord": "https://discord.com/invite/TKU8uQU",
+        "instagram": "ufactions",
+        "twitch": "united_factions",
+        "facebook": "UnitedFactions"
+    },
+    "crossplay": true,
+    "offline": false
+}
