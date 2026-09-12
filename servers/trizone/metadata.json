@@ -1,0 +1,33 @@
+{
+  "id": "trizone",
+  "name": "Trizone",
+  "description": "French Minecraft Survival, Lifesteal, PvP and Minigames network",
+  "addresses": [
+    "play.trizone.club"
+  ],
+  "primaryAddress": "play.trizone.club",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#8B5CF6",
+  "secondaryColor": "#4C1D95",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Lifesteal",
+    "PvP",
+    "Practice",
+    "Minigames"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://trizone.club",
+  "crossplay": true
+}
