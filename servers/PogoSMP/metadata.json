@@ -20,8 +20,9 @@
   "primaryMinecraftVersion": "1.21.11",
   "primaryGameType": "SMP",
   "gameTypes": [
-    "SMP",
-    "PvE",
+    "Survival",
+    "Adventure",
+    "Lifesteal",
     "PvP"
   ],
   "socials": {
