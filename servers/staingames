@@ -1,15 +1,15 @@
 {
   "id": "staingames",
   "name": "StainGames",
-  "description": "StainGames Minecraft Network",
+  "description": "Stain Games Network",
   "addresses": [
     "play.staingames.org"
   ],
   "primaryAddress": "play.staingames.org",
   "minecraftVersions": [
-    "1.8.*"
+    "1.21.*"
   ],
-  "primaryMinecraftVersion": "1.8.9",
+  "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#5e0000",
   "secondaryColor": "#ff2a2a",
   "primaryLanguage": "en",
