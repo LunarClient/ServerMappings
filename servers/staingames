@@ -1,0 +1,33 @@
+{
+  "id": "staingames",
+  "name": "StainGames",
+  "description": "StainGames Minecraft Network",
+  "addresses": [
+    "play.staingames.org"
+  ],
+  "primaryAddress": "play.staingames.org",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#5e0000",
+  "secondaryColor": "#ff2a2a",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryGameType": "PvP",
+  "website": "https://staingames.org",
+  "store": "https://store.staingames.org",
+  "socials": {
+    "discord": "https://discord.gg/staingames"
+  },
+  "crossplay": false
+}
