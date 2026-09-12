@@ -3,7 +3,7 @@
     "name": "Trizone",
     "description": "French Minecraft Survival, Lifesteal, PvP and Minigames network",
     "addresses": [
-        "play.trizone.club"
+        "trizone.club"
     ],
     "primaryAddress": "play.trizone.club",
     "minecraftVersions": [
