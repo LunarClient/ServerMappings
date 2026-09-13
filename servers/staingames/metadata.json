@@ -1,0 +1,32 @@
+{
+  "id": "staingames",
+  "name": "StainGames",
+  "description": "Stain Games creates a fresh style of PvP.",
+  "addresses": [
+    "staingames.org"
+  ],
+  "primaryAddress": "play.staingames.org",
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryGameType": "PvP",
+  "primaryColor": "#5e0000",
+  "secondaryColor": "#ff2a2a",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "website": "https://staingames.org",
+  "socials": {
+    "discord": "https://discord.gg/staingames"
+  },
+  "crossplay": false
+}
