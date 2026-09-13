@@ -1,0 +1,9 @@
+{
+  "id": "cartofiasmp",
+  "name": "CartofiaSmp",
+  "description": "CartofiaSmp Minecraft Server",
+  "addresses": [
+    "cartofiasmp.tkmc.net"
+  ],
+  "primaryAddress": "cartofiasmp.tkmc.net:50418"
+}
