@@ -1,0 +1,9 @@
+{
+  "id": "cartofiasmp",
+  "name": "CartofiaSmp",
+  "description": "The most potato Minecraft server in the world!",
+  "addresses": [
+    "tkmc.net"
+  ],
+  "primaryAddress": "cartofiasmp.tkmc.net:50418"
+}
