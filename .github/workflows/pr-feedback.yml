@@ -43,7 +43,7 @@ jobs:
       - name: Post validation feedback
         run: python .scripts/post_pr_feedback.py
         env:
-          BOT_PAT: ${{ secrets.BOT_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RESULTS_FILE: ${{ runner.temp }}/pr-results/pr_results.json
           DOWNLOAD_OUTCOME: ${{ steps.download.outcome }}
           WORKFLOW_RUN_HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
