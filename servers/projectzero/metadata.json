@@ -5,7 +5,8 @@
   "description": "Custom Hypixel-inspired BedWars community",
   "addresses": [
     "projectzero.co.il",
-    "project0.co.il"
+    "project0.co.il",
+    "bedwars.co.il"
   ],
   "primaryAddress": "projectzero.co.il",
   "primaryColor": "#00AA00",
