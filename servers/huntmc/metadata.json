@@ -21,7 +21,8 @@
     "primaryLanguage": "pt-BR",
     "languages": [
         "pt-BR",
-        "pt-PT"
+        "pt-PT",
+        "en"
     ],
     "primaryGameType": "Hardcore",
     "gameTypes": [
