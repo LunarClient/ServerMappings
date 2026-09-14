@@ -1,0 +1,27 @@
+{
+  "id": "astrumlux",
+  "name": "AstrumLux Network",
+  "description": "The Server that travels through the stars, set in the shattered Stratas.",
+  "addresses": [
+    "astrumlux.net"
+  ],
+  "primaryAddress": "astrumlux.net",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#8147f2",
+  "secondaryColor": "#FF9C2B",
+  "primaryLanguage": "es-EN",
+  "languages": ["es-EN"],
+  "primaryRegion": "NA",
+  "regions": ["NA"],
+  "gameTypes": ["Survival"],
+  "primaryGameType": "Survival",
+  "website": "https://www.astrumlux.net",
+  "socials": {
+    "discord": "https://discord.gg/QWKQUPrqzq"
+  },
+  "crossplay": true,
+  "offline": true
+}
