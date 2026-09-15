@@ -18,12 +18,13 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "26.2",
-    "primaryRegion": "US",
+    "primaryRegion": "NA",
     "regions": [
-        "US"
+        "NA"
     ],
     "primaryLanguage": "en",
     "languages": [
