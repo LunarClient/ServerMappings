@@ -1,0 +1,37 @@
+{
+  "id": "fantasyblock",
+  "name": "FantasyBlock",
+  "description": "An extensive Skyblock MMORPG experience, playable in English and Hungarian.",
+  "addresses": [
+    "fantasyblock.hu"
+  ],
+  "primaryAddress": "play.fantasyblock.hu",
+  "website": "https://fantasyblock.hu",
+  "store": "https://store.fantasyblock.hu",
+  "socials": {
+    "discord": "https://discord.com/invite/ppmzMJF5KY"
+  },
+  "primaryColor": "#F2B01E",
+  "secondaryColor": "#7B4DFF",
+  "minecraftVersions": [
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "gameTypes": [
+    "Skyblock",
+    "MMORPG"
+  ],
+  "primaryGameType": "Skyblock",
+  "crossplay": true,
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en"
+}
