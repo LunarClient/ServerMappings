@@ -3,8 +3,7 @@
   "name": "SkyFFA",
   "description": "Free For All PvP server",
   "addresses": [
-    "skyffa.club",
-    "skyffa.serv.nu"
+    "skyffa.club"
   ],
   "primaryAddress": "skyffa.club",
   "minecraftVersions": [
