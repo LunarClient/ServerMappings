@@ -3,8 +3,7 @@
     "name": "UnderCity",
     "description": "Enter the underground. Build an empire, take risks, and rule the criminal world.",
     "addresses": [
-        "undercitymc.it",
-        "squidmc.it"
+        "undercitymc.it"
     ],
     "primaryAddress": "play.undercitymc.it",
     "minecraftVersions": [
