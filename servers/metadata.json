@@ -1,0 +1,41 @@
+{
+
+ㅤㅤ"id": "magmacraft",
+ㅤㅤ"name": "MagmaCraft Network",
+ㅤㅤ"website": "https://magmacraft.eu",
+ㅤㅤ"store": "https://store.magmacraft.eu",
+ㅤㅤ"description": "Classical Minecraft PvP Experience",
+ㅤㅤ"addresses": [
+ㅤㅤㅤㅤ"play.magmacraft.eu",
+ㅤㅤㅤㅤ"mc.magmacraft.eu",
+ㅤㅤㅤㅤ"magmacraft.eu"
+ㅤㅤ],
+ㅤㅤ"primaryAddress": "play.magmacraft.eu",
+ㅤㅤ"minecraftVersions": [
+ㅤㅤㅤㅤ"1.7.*",
+ㅤㅤㅤㅤ"1.8.*"
+ㅤㅤ],
+    "primaryColor": "#D01818",
+    "secondaryColor": "#FFAA00",
+ㅤㅤ"primaryLanguage": "bg",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤen"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "EU",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"EU"
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"PvP"
+ㅤㅤ],
+ㅤㅤ"compliance": {
+ㅤㅤㅤㅤ"privacyPolicy": "https://www.lunar.gg/privacy",
+ㅤㅤㅤㅤ"termsOfService": "https://www.lunar.gg/terms",
+ㅤㅤㅤㅤ"rules": "https://www.lunar.gg/rules"
+ㅤㅤ},
+ㅤㅤ"socials": {
+ㅤㅤㅤㅤ"tiktok": "magmacrafteu",
+ㅤㅤㅤㅤ"discord": "https://discord.magmacraft.eu"
+ㅤㅤ},
+ㅤㅤ"crossplay": false
+}
