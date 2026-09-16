@@ -1,0 +1,32 @@
+{
+  "id": "magmacraft",
+  "name": "MagmaCraft",
+  "description": "Classic Survival with competitive PvP, clans, events and progression.",
+  "addresses": [
+    "magmacraft.eu"
+  ],
+  "primaryAddress": "play.magmacraft.eu",
+
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+
+  "primaryColor": "#D01818",
+  "secondaryColor": "#FFAA00",
+
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+
+  "website": "https://magmacraft.eu",
+  "store": "https://magmacraft.eu/store",
+
+  "crossplay": false
+}
