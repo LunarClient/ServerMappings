@@ -3,9 +3,7 @@
     "name": "RRBW",
     "description": "Ranked BedWars, RBW Practice, ClanWars, BuildFFA, Housing and SpeedBuilders.",
     "addresses": [
-        "mc.rrbw.pro",
-        "msk2.rrbw.pro",
-        "hel.rrbw.pro"
+        "rrbw.pro"
     ],
     "primaryAddress": "mc.rrbw.pro",
     "minecraftVersions": [
