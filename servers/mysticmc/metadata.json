@@ -1,0 +1,26 @@
+{
+  "id": "mysticmc",
+  "name": "MysticMC",
+  "description": "Network Minecraft italiano con Survival Custom.",
+  "addresses": [
+    "mysticmc.it"
+  ],
+  "primaryAddress": "play.mysticmc.it",
+  "minecraftVersions": [
+    "1.21.*",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#C77D3E",
+  "secondaryColor": "#D4A574",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "crossplay": false
+}
