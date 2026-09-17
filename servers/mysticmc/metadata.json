@@ -31,9 +31,7 @@
     ],
     "primaryGameType": "Survival",
     "gameTypes": [
-        "Survival",
-        "PvP",
-        "Minigames",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/RfqM9mXHzJ",
