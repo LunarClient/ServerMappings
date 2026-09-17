@@ -1,0 +1,30 @@
+{
+    "id": "potlounge",
+    "name": "PotLounge",
+    "description": "Competitive Minecraft Practice PvP",
+    "addresses": [
+        "potlounge.net"
+    ],
+    "primaryAddress": "potlounge.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7B2CBF",
+    "secondaryColor": "#C77DFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "socials": {},
+    "crossplay": false
+}
