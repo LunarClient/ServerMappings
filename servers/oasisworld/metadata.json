@@ -1,0 +1,64 @@
+{
+    "id": "oasisworld",
+    "name": "Oasis World",
+    "description": "Multiple game modes, one community. Survive, compete, and explore.",
+    "addresses": [
+        "mc.oasisworld.net"
+    ],
+    "primaryAddress": "play.oasisworld.net",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.12.2",
+        "1.13.*",
+        "1.14.*",
+        "1.15.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#F59E0B",
+    "secondaryColor": "#FB923C",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Adventure",
+        "Creative",
+        "KitPvP",
+        "Minigames",
+        "Parkour",
+        "Practice",
+        "Roleplay"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://oasisworld.net",
+    "store": "https://store.oasisworld.net",
+    "compliance": {
+        "privacyPolicy": "https://oasisworld.net/services/server/privacy",
+        "termsOfService": "https://oasisworld.net/services/server/terms",
+        "rules": "https://oasisworld.net/page/server-rules"
+    },
+    "presentationVideo": "oOV6T4u0_84",
+    "socials": {
+        "twitter": "oasisworldofficial",
+        "discord": "https://discord.oasisworld.net",
+        "youtube": "https://www.youtube.com/@oasisworldofficial",
+        "instagram": "https://instagram.com/@oasisworldofficial",
+        "tiktok": "https://www.tiktok.com/@oasisworldofficial"
+    },
+    "crossplay": false
+}
