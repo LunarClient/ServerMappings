@@ -25,6 +25,8 @@
         "PvP"
     ],
     "primaryGameType": "PvP",
-    "socials": {},
+    "socials": {
+        "discord": "https://discord.gg/potlounge",
+    }
     "crossplay": false
 }
