@@ -13,20 +13,20 @@
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": false,
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
     "gameTypes": [
-        "Minigames",
+        "Survival",
         "PvP",
-        "Skyblock"
+        "Practice"
     ],
     "socials": {
-        "discord": "https://discord.gg/sword4000"
+        "discord": "https://discord.gg/swordmc"
     }
 }

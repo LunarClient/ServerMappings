@@ -45,6 +45,7 @@
     "modpack": {
         "provider": "curseforge",
         "id": "1622906",
+        "required": true,
         "promptBeforeGameJoin": true,
         "promptBeforeLauncherJoin": true
     }

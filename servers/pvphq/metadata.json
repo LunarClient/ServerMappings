@@ -34,8 +34,13 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
-        "PvP"
+        "Practice",
+        "PvP",
+        "Crystal PvP",
+        "Competitive",
+        "Casual"
     ],
     "socials": {
         "twitter": "playPvPHQ",

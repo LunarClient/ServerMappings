@@ -136,6 +136,11 @@
                     "type": "string",
                     "description": "The Modpack ID on the given provider (Modrinth project ID or CurseForge mod ID)."
                 },
+                "required": {
+                    "type": "boolean",
+                    "default": false,
+                    "description": "If true, the Modpack must be installed to join the server. The user is always prompted, and can only install it or cancel the join."
+                },
                 "recommendedVersion": {
                     "type": "string",
                     "description": "The recommended Modpack version. If blank, will use latest version."

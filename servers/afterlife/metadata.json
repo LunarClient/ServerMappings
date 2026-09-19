@@ -1,0 +1,49 @@
+{
+    "id": "afterlife",
+    "name": "AfterLife Network",
+    "description": "Play PvP, Roleplay, Faction and more on AfterLife Network.",
+    "addresses": [
+        "afterlifenetwork.it"
+    ],
+    "primaryAddress": "mc.afterlifenetwork.it",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.7.10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Roleplay",
+        "Factions",
+        "Competitive",
+        "Parkour",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/afterlifenetwork",
+        "tiktok": "@networkafterlife",
+        "telegram": "AfterLife"
+    },
+    "crossplay": true,
+    "offline": true,
+    "website": "https://afterlifenetwork.it/",
+    "store": "https://store.afterlifenetwork.it/"
+}

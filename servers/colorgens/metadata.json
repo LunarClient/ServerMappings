@@ -1,0 +1,35 @@
+{
+    "id": "colorgens",
+    "name": "ColorGens",
+    "description": "Minecraft's #1 Tycoon Server",
+    "addresses": [
+        "colorgens.com",
+        "colorgens.net",
+        "colorgens.org"
+    ],
+    "primaryAddress": "play.colorgens.com",
+    "primaryColor": "#EB1C1A",
+    "secondaryColor": "#DC74FA",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Skyblock",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/colorgens"
+    }
+}
