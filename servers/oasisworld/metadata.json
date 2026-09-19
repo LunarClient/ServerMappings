@@ -3,15 +3,12 @@
     "name": "Oasis World",
     "description": "Multiple game modes, one community. Survive, compete, and explore.",
     "addresses": [
-        "mc.oasisworld.net"
+        "oasisworld.net"
     ],
     "primaryAddress": "play.oasisworld.net",
     "minecraftVersions": [
         "1.8.9",
         "1.12.2",
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
@@ -55,10 +52,10 @@
     "presentationVideo": "oOV6T4u0_84",
     "socials": {
         "twitter": "oasisworldofficial",
-        "discord": "https://discord.oasisworld.net",
-        "youtube": "https://www.youtube.com/@oasisworldofficial",
-        "instagram": "https://instagram.com/@oasisworldofficial",
-        "tiktok": "https://www.tiktok.com/@oasisworldofficial"
+        "discord": "https://discord.gg/oasismc",
+        "youtube": "@oasisworldofficial",
+        "instagram": "oasisworldofficial",
+        "tiktok": "@oasisworldofficial"
     },
     "crossplay": false
 }
