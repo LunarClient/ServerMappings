@@ -1,10 +1,10 @@
 {
-    "id": "MineX",
+    "id": "minex",
     "name": "MineX",
     "website": "https://scan.minex.gg/explorer",
-    "description": "Experience Minecraft with a player-owned economy where your time actually matters!",
+    "description": "A player-owned Minecraft economy where your time actually matters!",
     "addresses": [
-        "play.minex.gg"
+        "minex.gg"
     ],
     "primaryAddress": "play.minex.gg",
     "primaryColor": "#FEC30E",
@@ -14,16 +14,16 @@
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
-    "primaryRegion": "US",
+    "primaryRegion": "AS",
     "regions": [
-        "US"
+        "AS"
     ],
     "primaryLanguage": "en",
     "languages": [
         "en"
     ],
     "gameTypes": [
-        "SMP"
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.gg/8vvvaJxCNF"
