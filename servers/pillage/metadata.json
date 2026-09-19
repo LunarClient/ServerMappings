@@ -1,41 +1,44 @@
 {
-    "id": "pillage",
-    "name": "Pillage",
-    "store": "https://pillage.net",
-    "description": "An open-world Minecraft anarchy server focused on survival, PvP, and raiding.",
-    "addresses": [
-        "pillage.net"
-    ],
-    "primaryAddress": "pillage.net",
-    "primaryColor": "#63FF63",
-    "secondaryColor": "#000000",
-    "minecraftVersions": [
-        "1.21.*"
-    ],
-    "primaryMinecraftVersion": "1.21.11",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
-    "primaryGameType": "Anarchy",
-    "gameTypes": [
-        "Survival",
-        "Anarchy",
-        "Open World",
-        "PvP"
-    ],
-    "socials": {
-        "twitter": "pillageofficial",
-        "discord": "https://discord.gg/pillage",
-        "youtube": "pillageofficial",
-        "twitch": "pillagemc",
-        "instagram": "pillagemc",
-        "tiktok": "@pillagemc",
-        "reddit": "PillageMC"
-    },
-    "crossplay": false
+  "id": "pillage",
+  "name": "Pillage",
+  "website": "https://pillage.net",
+  "description": "A community-driven Minecraft survival server with exploration, PvP, and progression.",
+  "addresses": [
+    "pillage.net"
+  ],
+  "primaryAddress": "pillage.net",
+  "primaryColor": "#63FF63",
+  "secondaryColor": "#000000",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "EU"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival",
+    "Open World",
+    "PvP",
+    "Casual"
+  ],
+  "socials": {
+    "twitter": "pillageofficial",
+    "discord": "https://discord.gg/pillage",
+    "youtube": "@pillageofficial",
+    "twitch": "pillageofficial",
+    "instagram": "pillageofficial",
+    "tiktok": "@pillageofficial",
+    "reddit": "PillageOfficial"
+  },
+  "crossplay": true
 }
