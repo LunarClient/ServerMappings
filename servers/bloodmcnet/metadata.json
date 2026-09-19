@@ -1,0 +1,42 @@
+{
+  "id": "bloodmcnet",
+  "name": "BloodMC",
+  "website": "https://bloodmc.net/",
+  "description": "An Indian competitive PvP and minigames.",
+  "addresses": [
+    "bloodmc.net"
+  ],
+  "primaryAddress": "play.bloodmc.net",
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#1a1a1a",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "AS",
+  "regions": [
+    "AS"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "compliance": {
+    "termsOfService": "https://bloodmc.net/legal/terms",
+    "privacyPolicy": "https://bloodmc.net/legal/privacy"
+  },
+  "socials": {
+    "discord": "https://discord.gg/BloodMC"
+  }
+}
