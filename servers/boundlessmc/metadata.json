@@ -3,9 +3,7 @@
     "name": "Boundess MC",
     "description": "ArcherGames, PvP, Survival, Minigames and ZombieMania!",
     "addresses": [
-        "boundlessmc.com",
-        "na.boundlessmc.com",
-        "ag1.boundlessmc.com"
+        "boundlessmc.com"
     ],
     "primaryAddress": "boundlessmc.com",
     "minecraftVersions": [
@@ -15,7 +13,7 @@
         "26.1.*",
         "26.2.*"
     ],
-    "primaryMinecraftVersion": "26.3",
+    "primaryMinecraftVersion": "26.2",
     "primaryColor": "#FF5555",
     "secondaryColor": "#FFFF55",
     "primaryLanguage": "en",
@@ -31,10 +29,7 @@
         "PvE",
         "PvP",
         "Competitive",
-        "HungerGames",
         "Survival",
-        "SurvivalGames",
-        "Zombies",
         "Minigames"
     ],
     "primaryGameType": "Minigames",
