@@ -25,5 +25,7 @@
         "Survival",
         "OneBlock"
     ],
-    "primaryGameType": "Survival"
+    "primaryGameType": "Survival",
+    "crossplay": true,
+    "offline": true
 }
