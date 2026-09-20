@@ -41,7 +41,13 @@
     "primaryGameType": "Survival",
     "store": "https://tienda.satelitecraft.com",
     "socials": {
-        "discord": "https://discord.com/invite/qCRZ6JMUnq"
+        "discord": "https://discord.com/invite/qCRZ6JMUnq",
+        "twitter": "satelitecraft",
+        "youtube": "@satelitecraft",
+        "instagram": "satelitecraft",
+        "facebook": "satelitecraft",
+        "reddit": "satelitecraft",
+        "tiktok": "@satelitecraft"
     },
     "crossplay": true,
     "offline": true
