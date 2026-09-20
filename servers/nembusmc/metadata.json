@@ -1,39 +1,38 @@
 {
-
-ㅤㅤ"id": "nembusmc",
-ㅤㅤ"name": "NembusMC",
-ㅤㅤ"website": "https://nembusmc.it/",
-ㅤㅤ"store": "https://nembussmp.tebex.store/",
-ㅤㅤ"description": "Network con Modalità a diversi temi anime",
-ㅤㅤ"addresses": [
-ㅤㅤㅤㅤ"play.nembusmc.it"
-ㅤㅤ],
-ㅤㅤ"primaryAddress": "play.nembusmc.it",
-ㅤㅤ"minecraftVersions": [
-ㅤㅤㅤㅤ"1.21.*"
-ㅤㅤ],
-ㅤㅤ"primaryMinecraftVersion": "1.21.11",
-ㅤㅤ"primaryColor": "#0083FF",
-ㅤㅤ"secondaryColor": "#999999",
-ㅤㅤ"primaryLanguage": "it",
-ㅤㅤ"languages": [
-ㅤㅤㅤㅤit"
-ㅤㅤ],
-ㅤㅤ"primaryRegion": "EU",
-ㅤㅤ"regions": [
-ㅤㅤㅤㅤ"EU",
-ㅤㅤ],
-ㅤㅤ"gameTypes": [
-ㅤㅤㅤㅤ"SMP"
-ㅤㅤ],
-ㅤㅤ"compliance": {
-ㅤㅤㅤㅤ"privacyPolicy": "https://nembusmc.it/privacy",
-ㅤㅤㅤㅤ"termsOfService": "https://nembusmc.it/termini",
-ㅤㅤㅤㅤ"rules": "https://nembusmc.it/"
-ㅤㅤ},
-ㅤㅤ"socials": {
-ㅤㅤㅤㅤ"youtube": "NembusMC",
-ㅤㅤㅤㅤ"discord": "http://discord.nembusmc.it"
-ㅤㅤ},
-ㅤㅤ"crossplay": true
+  "id": "nembusmc",
+  "name": "NembusMC",
+  "website": "https://nembusmc.it/",
+  "store": "https://nembussmp.tebex.store/",
+  "description": "Network con Modalità a diversi temi anime",
+  "addresses": [
+    "play.nembusmc.it"
+  ],
+  "primaryAddress": "play.nembusmc.it",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#0083FF",
+  "secondaryColor": "#999999",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "SMP"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://nembusmc.it/privacy",
+    "termsOfService": "https://nembusmc.it/termini",
+    "rules": "https://nembusmc.it/"
+  },
+  "socials": {
+    "youtube": "NembusMC",
+    "discord": "http://discord.nembusmc.it"
+  },
+  "crossplay": true
 }
