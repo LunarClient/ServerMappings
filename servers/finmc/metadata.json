@@ -1,0 +1,36 @@
+{
+    "id": "finmc",
+    "name": "FinMC",
+    "website": "https://finmc.pl",
+    "store": "https://finmc.pl",
+    "description": "Play BoxPvP and more on FinMC.",
+    "addresses": [
+        "finmc.pl"
+    ],
+    "primaryAddress": "finmc.pl",
+    "primaryColor": "#00d0ff",
+    "secondaryColor": "#00d0ff",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "gameTypes": [
+        "BoxPvP",
+        "PvP",
+        "Anarchy"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/es9QWvCURn"
+    }
+}
