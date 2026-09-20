@@ -5,11 +5,11 @@
     "store": "https://store.marauge.net/",
     "description": "1.26.3 Duels network!",
     "addresses": [
-        "play.marauge.net"
+        "marauge.net"
     ],
     "primaryAddress": "marauge.net",
     "primaryColor": "#FF3B5C",
-    "secondaryColor": "FF8A2A",
+    "secondaryColor": "#FF8A2A",
     "minecraftVersions": [
         "26.3",
         "26.2",
@@ -25,9 +25,9 @@
     "languages": [
         "en"
     ],
-    "primaryGameType": "Duels",
+    "primaryGameType": "PvP",
     "gameTypes": [
-        "Duels",
+        "PvP",
         "Survival"
     ],
     "socials": {
