@@ -3,7 +3,7 @@
     "name": "FinMC",
     "website": "https://finmc.pl",
     "store": "https://finmc.pl",
-    "description": "Play BoxPVP and more on FinMC.",
+    "description": "Play BoxPvP and more on FinMC.",
     "addresses": [
         "finmc.pl"
     ],
@@ -26,7 +26,7 @@
         "pl"
     ],
     "gameTypes": [
-        "BoxPVP",
+        "BoxPvP",
         "PvP",
         "Anarchy"
     ],
