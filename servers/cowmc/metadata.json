@@ -1,1 +1,28 @@
-
+{
+  "id": "cowmc",
+  "name": "CowMC",
+  "description": "Italian Minecraft survival network with custom gameplay.",
+  "addresses": [
+    "cowmc.it"
+  ],
+  "primaryAddress": "play.cowmc.it",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#A8D5A2",
+  "secondaryColor": "#F4D6A0",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "offline": true
+}
