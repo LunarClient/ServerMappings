@@ -1,0 +1,43 @@
+{
+    "id": "boundlessmc",
+    "name": "Boundess MC",
+    "description": "ArcherGames, PvP, Survival, Minigames and ZombieMania!",
+    "addresses": [
+        "boundlessmc.com"
+    ],
+    "primaryAddress": "boundlessmc.com",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.12.2",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvE",
+        "PvP",
+        "Competitive",
+        "Survival",
+        "Minigames"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://www.boundlessmc.com",
+    "compliance": {
+    },
+    "socials": {
+        "discord": "https://discord.gg/eMKSRd46UH"
+    },
+    "crossplay": false
+}
