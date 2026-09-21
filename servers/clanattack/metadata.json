@@ -18,15 +18,14 @@
   "regions": [
     "NA"
   ],
-  "primaryLanguage": "de",
+  "primaryLanguage": "en",
   "languages": [
-    "en"
+    "es-EN"
   ],
   "gameTypes": [
-    "ClanWar",
-    "Kingdom of Clans",
-    "Knockout Loot Game",
-    "World of Clans"
+    "Competitive",
+    "Minigames",
+    "PvP"
   ],
   "socials": {
     "discord": "https://discord.gg/89x63xW4Ye"
