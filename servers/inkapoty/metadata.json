@@ -1,31 +1,31 @@
 {
-  "id": "inkapoty",
-  "name": "InkaPoty",
-  "description":"Protect The Core 1.8 ."
-  "addresses": [
-    "Inkapoty.com"
-  ],
-  "primaryAddress": "inkapoty.com",
-  "minecraftVersions": [
-    "1.8.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#8A2BE2",
-  "secondaryColor": "#000000",
-  "primaryLanguage": "es",
-  "languages": [
-    "es"
-  ],
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "gameTypes": [
-    "PvP"
-  ],
-  "primaryGameType": "PvP",
-  "socials": {
-    "discord": "https://discord.gg/py4KshHtv"
-  },
-  "crossplay": false
+    "id": "inkapoty",
+    "name": "InkaPoty",
+    "description": "Protect The Core 1.8.",
+    "addresses": [
+        "inkapoty.com"
+    ],
+    "primaryAddress": "inkapoty.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#8A2BE2",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "socials": {
+        "discord": "https://discord.gg/py4KshHtv"
+    },
+    "crossplay": false
 }
