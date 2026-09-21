@@ -1,23 +1,28 @@
 {
-  "id": "vmqsclub",
-  "name": "vmqs.club",
+  "id": "velocitypvp",
+  "name": "Velocity PvP",
   "description": "We're a Minecraft Network consisting of KitPvP, Skyblock and Survival.",
-  "website": "https://vmqs.club",
-  "store": "https://store.vmqs.club",
+  "website": "https://velocitypvp.net",
+  "store": "https://store.velocitypvp.net",
   "addresses": [
-    "vmqs.club"
+    "velocitypvp.net"
   ],
-  "primaryAddress": "vmqs.club",
+  "primaryAddress": "velocitypvp.net",
   "primaryColor": "#55ffff",
   "secondaryColor": "#00aaaa",
   "minecraftVersions": [
     "1.7.*",
     "1.8.*",
     "1.12.*",
+    "1.16.*",
+    "1.17.*",
     "1.18.*",
     "1.19.*",
     "1.20.*",
-    "1.21.*"
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryRegion": "NA",
@@ -30,7 +35,7 @@
     "Survival"
   ],
   "socials": {
-    "discord": "https://discord.gg/HNB9XPzP4J"
+    "discord": "https://discord.gg/ysesuvervR"
   },
   "crossplay": true
 }
