@@ -1,0 +1,27 @@
+{
+    "id": "cyperia",
+    "name": "Cyperia",
+    "description": "Minigames network with Bingo, Manhunt, Challenges, Ragemode and more",
+    "addresses": ["cyperia.net"],
+    "primaryAddress": "cyperia.net",
+    "minecraftVersions": ["26.2"],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#2D7EF7",
+    "secondaryColor": "#5B3FE4",
+    "primaryLanguage": "de",
+    "languages": ["de", "en"],
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "gameTypes": ["Minigames", "PvP"],
+    "primaryGameType": "Minigames",
+    "website": "https://www.cyperia.net",
+    "store": "https://shop.cyperia.net",
+    "compliance": {
+        "privacyPolicy": "https://cyperia.net/en/privacy"
+    },
+    "socials": {
+        "twitter": "playcyperia",
+        "discord": "https://discord.gg/v6zzCk8"
+    },
+    "crossplay": false
+}
