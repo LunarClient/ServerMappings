@@ -7,6 +7,8 @@
         "oldestcraft.com"
     ],
     "primaryAddress": "mc.oldestcraft.com",
+    "primaryColor": "#f3c684",
+    "secondaryColor": "#192736",
     "minecraftVersions": [
         "1.8.9"
     ],
@@ -15,15 +17,12 @@
     "regions": [
         "NA"
     ],
-    "primaryLanguage": "es",
+    "primaryLanguage": "es-EN",
     "languages": [
-        "es"
+        "es-EN"
     ],
     "primaryGameType": "PvP",
     "gameTypes": [
         "PvP"
-    ],
-    "socials": {
-        "discord": "https://discord.oldestcraft.com"
-    }
+    ]
 }
