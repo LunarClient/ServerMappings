@@ -1,0 +1,29 @@
+{
+    "id": "oldestcommunity",
+    "name": "Oldest Community",
+    "website": "https://oldestcraft.com",
+    "description": "Servidor de Minecraft PvP de la comunidad Oldest",
+    "addresses": [
+        "oldestcraft.com"
+    ],
+    "primaryAddress": "mc.oldestcraft.com",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "primaryGameType": "PvP",
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.oldestcraft.com"
+    }
+}
