@@ -1,0 +1,28 @@
+{
+    "id": "BorealSMP",
+    "name": "BorealSMP",
+    "description": "Experience CartPvP gameplay on BorealSMP.",
+    "addresses": [
+        "borealsmp.eu"
+    ],
+    "primaryAddress": "borealsmp.eu",
+    "primaryColor": "#00B7FF",
+    "secondaryColor": "#4376FF",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Casual",
+        "PvP"
+    ]
+}
