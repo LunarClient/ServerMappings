@@ -1,10 +1,9 @@
 {
     "id": "tcsmp",
     "name": "TCSMP",
-    "description": "TCSMP is a Java and Bedrock crossplay server. Cracked Java players use passwords, while regular Java and Bedrock players do not.",
+    "description": "Java and Bedrock crossplay SMP with password-protected cracked Java access.",
     "addresses": [
-        "na.tcsmp.fun",
-        "eu.tcsmp.fun"
+        "tcsmp.fun"
     ],
     "primaryAddress": "na.tcsmp.fun",
     "minecraftVersions": [
@@ -21,5 +20,6 @@
     "gameTypes": [
         "Survival"
     ],
-    "crossplay": true
+    "crossplay": true,
+    "website": "https://tcsmp.fun"
 }
