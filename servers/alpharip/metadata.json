@@ -1,9 +1,41 @@
 {
     "id": "alpharip",
     "name": "Alpha Network",
+    "description": "Hardcore Factions with custom classes, masks and competitive PvP.",
     "addresses": [
         "alpha.rip"
     ],
-    "primaryColor": "#f2ef08",
-    "secondaryColor": "#babab6"
+    "primaryAddress": "alpha.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD740",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Factions",
+        "PvP",
+        "Practice"
+    ],
+    "primaryGameType": "HCF",
+    "website": "https://alpha.rip",
+    "store": "https://store.alpha.rip",
+    "socials": {
+        "discord": "https://discord.gg/alpharip"
+    },
+    "compliance": {
+        "privacyPolicy": "https://alpha.rip/policy",
+        "rules": "https://alpha.rip/rules"
+    },
+    "crossplay": false
 }
