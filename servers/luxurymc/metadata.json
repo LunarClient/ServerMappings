@@ -1,0 +1,11 @@
+{
+  "name": "LuxuryMC",
+  "addresses": [
+    "://luxurymc.com"
+  ],
+  "primaryAddress": "://luxurymc.com",
+  "minecraftVersions": [
+    "1.16",
+    "26.2"
+  ]
+}
