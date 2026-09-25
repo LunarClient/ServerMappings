@@ -1,0 +1,52 @@
+{
+  "id": "champicraft",
+  "name": "Champicraft Network",
+  "website": "https://tienda.champicraft.net/",
+  "store": "https://tienda.champicraft.net/",
+  "description": "The official network Of Champicraft!",
+  "addresses": [
+    "mc.champicraft.net"
+  ],
+  "primaryAddress": "mc.champicraft.net",
+  "minecraftVersions": [
+    "1.12.*",
+    "1.13.*",
+    "1.14.*",
+    "1.15.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "primaryColor": "#44a1e3",
+  "secondaryColor": "#a854de",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "SA"
+  ],
+  "gameTypes": [
+    "Anarchy",
+    "Survival",
+    "OneBlock"
+  ],
+  "primaryGameType": "Anarchy",
+  "compliance": {
+    "privacyPolicy": "https://www.champicraft.net/privacy-policy",
+    "termsOfService": "https://www.champicraft.net/terms    ",
+    "rules": "https://wiki.champicraft.net/servidor/reglas"
+  },
+  "socials": {
+    "discord": "https://discord.gg/hdW2dSNAmJ"
+  },
+  "crossplay": true
+}
