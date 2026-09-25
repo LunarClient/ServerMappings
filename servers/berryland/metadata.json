@@ -1,0 +1,43 @@
+{
+    "id": "berryland",
+    "name": "Berryland",
+    "description": "A high-quality minigames server for the newest versions.",
+    "addresses": [
+        "berrylandmc.de",
+        "brylnd.de"
+    ],
+    "primaryAddress": "berrylandmc.de",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FE3D3C",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames",
+        "SkyWars",
+        "Arcade",
+        "Hide & Seek",
+        "Survival"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://berrylandmc.de",
+    "wiki": "https://wiki.berrylandmc.de",
+    "socials": {
+        "discord": "https://discord.gg/4RvX72n2M5"
+    },
+    "crossplay": true
+}
