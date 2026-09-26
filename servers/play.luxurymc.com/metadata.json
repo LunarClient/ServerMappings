@@ -1,0 +1,16 @@
+{
+  "name": "LuxuryMC",
+  "addresses": [
+    "play.luxurymc.com",
+  ],
+  "primaryAddress": "play.luxurymc.com",
+  "minecraftVersions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ]
+}
+
