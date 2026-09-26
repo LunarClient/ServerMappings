@@ -1,12 +1,12 @@
 {
-    "id": "omniversemc",
-    "name": "OmniverseMC",
-    "store": "https://tienda.omniversemc.xyz/",
+    "id": "dynasty",
+    "name": "DynastyMC",
+    "store": "https://tienda.dynasty.xyz/",
     "description": "Play Survival and more on OmniverseMC.",
     "addresses": [
-        "omniversemc.xyz"
+        "dynastymc.xyz"
     ],
-    "primaryAddress": "play.omniversemc.xyz",
+    "primaryAddress": "play.dynastymc.xyz",
     "primaryColor": "#a855f7",
     "secondaryColor": "#c084fc",
     "minecraftVersions": [
@@ -24,6 +24,6 @@
     ],
     "crossplay": true,
     "socials": {
-        "discord": "https://discord.gg/jXkMsZvJFJ"
+        "discord": "https://discord.gg/pVfUvYMNUq"
     }
 }
