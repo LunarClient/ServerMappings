@@ -18,6 +18,10 @@
         "EU"
     ],
     "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
     "primaryGameType": "UHC",
     "gameTypes": [
         "PvP",
