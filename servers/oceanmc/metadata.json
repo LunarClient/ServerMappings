@@ -1,34 +1,62 @@
 {
     "id": "oceanmc",
-    "name": "OceanMC Network",
-    "website": "http://oceanmc.es/",
-    "store": "https://tienda.oceanmc.es/",
+    "name": "OceanMC",
+    "store": "https://store.oceanmc.net/",
     "addresses": [
-        "oceanmc.es"
+        "eu.oceanmc.net",
+        "west.oceanmc.net",
+        "east.oceanmc.net",
+        "oceanmc.net"
     ],
-    "primaryAddress": "oceanmc.es",
+    "primaryAddress": "oceanmc.net",
+    "primaryColor": "#1566E3",
+    "secondaryColor": "#27ACF8",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.21.*",
+        "26.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#00FFF7",
-    "secondaryColor": "#003A9E",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
-    "primaryRegion": "EU",
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU-West",
     "regions": [
-        "EU"
+        "EU-West",
+        "NA-West",
+        "NA-East"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "sv",
+        "ru",
+        "uk",
+        "tr",
+        "ar",
+        "hi",
+        "th",
+        "vi",
+        "id",
+        "zh",
+        "ja",
+        "ko"
     ],
     "gameTypes": [
-        "Survival",
-        "Skyblock",
-        "Prison"
-    ]
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/OceanMC",
+        "youtube": "https://www.youtube.com/@oceanmc_1",
+        "tiktok": "https://www.tiktok.com/@oceanmc.net"
+    }
 }
+
+
+
+
+
