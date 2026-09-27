@@ -18,11 +18,6 @@
         "EU"
     ],
     "primaryLanguage": "fr",
-    "gameTypes": [
-        "PvP",
-        "UHC",
-        "Minigames"
-    ]
     "primaryGameType": "UHC",
     "gameTypes": [
         "PvP",
