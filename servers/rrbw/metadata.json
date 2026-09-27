@@ -1,11 +1,11 @@
 {
     "id": "rrbw",
     "name": "RRBW",
-    "description": "Competitive BedWars, ClanWars, BuildFFA, Housing, SpeedBuilders and GunGame.",
+    "description": "Ranked BedWars, RBW Practice, ClanWars, BuildFFA, Housing and SpeedBuilders.",
     "addresses": [
         "rrbw.pro"
     ],
-    "primaryAddress": "rrbw.pro",
+    "primaryAddress": "mc.rrbw.pro",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -19,8 +19,8 @@
         "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#D35C9A",
-    "secondaryColor": "#F7D7EA",
+    "primaryColor": "#781E2B",
+    "secondaryColor": "#EBAEBB",
     "primaryRegion": "EU",
     "regions": [
         "EU"

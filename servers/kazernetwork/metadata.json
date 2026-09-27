@@ -1,0 +1,30 @@
+{
+    "id": "kazernetwork",
+    "name": "Kazer Network",
+    "store": "https://www.ifdian.net/a/kazer",
+    "description": "Home of Competitive Minecraft Games",
+    "addresses": [
+        "kazer.cn"
+    ],
+    "primaryAddress": "kazer.cn",
+    "primaryColor": "#00ffff",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "primaryLanguage": "zh-CN",
+    "languages": [
+        "zh-CN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ]
+}

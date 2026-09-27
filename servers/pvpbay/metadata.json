@@ -1,0 +1,43 @@
+{
+    "id": "pvpbay",
+    "name": "PvPBay",
+    "description": "Ranked duels, practice kits and Bunkers PvP",
+    "addresses": [
+        "pvpbay.com"
+    ],
+    "primaryAddress": "play.pvpbay.com",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://www.pvpbay.com",
+    "store": "https://store.pvpbay.com",
+    "compliance": {
+        "privacyPolicy": "https://www.pvpbay.com/privacy",
+        "termsOfService": "https://www.pvpbay.com/terms",
+        "rules": "https://www.pvpbay.com/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/pvpbay",
+        "twitter": "pvpbay_network"
+    },
+    "crossplay": false
+}
