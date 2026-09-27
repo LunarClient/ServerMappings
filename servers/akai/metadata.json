@@ -17,7 +17,13 @@
     "regions": [
         "EU"
     ],
-    "primaryGameType": "Anarchy",
+    "primaryLanguage": "fr",
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Minigames"
+    ]
+    "primaryGameType": "UHC",
     "gameTypes": [
         "PvP",
         "UHC",
