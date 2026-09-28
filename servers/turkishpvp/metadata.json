@@ -10,8 +10,8 @@
         "turkishpvp.community",
     ],
     "primaryAddress": "turkishpvp.club",
-    "primaryColor": "#e911e5",
-    "secondaryColor": "#fffeff",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
         "1.8.*",
     ],
