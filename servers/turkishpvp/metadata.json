@@ -1,10 +1,10 @@
 {
-    "id": "turkishpvpclub",
+    "id": "turkishpvp",
     "name": "Turkish PvP Club",
     "description": "Turkey's competitive Minecraft PvP network.",
     "addresses": [
-        "premium.turkishpvp.club",
-        "turkishpvp.club"
+        "turkishpvp.club",
+        "turkishpvp.community"
     ],
     "primaryAddress": "turkishpvp.club",
     "minecraftVersions": [
