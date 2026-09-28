@@ -1,0 +1,32 @@
+{
+    "id": "turkishpvpclub",
+    "name": "Turkish PvP Club",
+    "website": "https://turkishpvp.club/",
+    "store": "https://store.turkishpvp.club",
+    "description": "Türkiye'nin tek rekabetçi PvP ağı!",
+    "addresses": [
+        "premium.turkishpvp.club",
+        "turkishpvp.club",
+        "turkishpvp.community",
+    ],
+    "primaryAddress": "turkishpvp.club",
+    "primaryColor": "#e911e5",
+    "secondaryColor": "#fffeff",
+    "minecraftVersions": [
+        "1.8.*",
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive",
+        "Minigames"
+    ],
+    "socials": {
+        "youtube": "https://www.youtube.com/@turkishpvpclub",
+        "discord": "https://discord.com/turkishpvp",
+        "tiktok": "https://www.tiktok.com/@turkishpvpclub",
+        "instagram": "https://www.instagram.com/turkishpvpclub"
+    }
+}
