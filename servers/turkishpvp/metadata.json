@@ -1,32 +1,48 @@
 {
     "id": "turkishpvpclub",
     "name": "Turkish PvP Club",
-    "website": "https://turkishpvp.club/",
-    "store": "https://store.turkishpvp.club",
-    "description": "Türkiye'nin tek rekabetçi PvP ağı!",
+    "description": "Turkey's competitive Minecraft PvP network.",
     "addresses": [
         "premium.turkishpvp.club",
-        "turkishpvp.club",
-        "turkishpvp.community",
+        "turkishpvp.club"
     ],
     "primaryAddress": "turkishpvp.club",
-    "primaryColor": "#FF5555",
-    "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
-        "1.8.*",
+        "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryGameType": "Practice",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
     "gameTypes": [
         "Practice",
         "PvP",
         "Competitive",
         "Minigames"
     ],
+    "primaryGameType": "Practice",
+    "crossplay": false,
+    "offline": true,
+    "website": "https://turkishpvp.club/",
+    "store": "https://store.turkishpvp.club/",
+    "wiki": "https://support.turkishpvp.club/",
     "socials": {
-        "youtube": "https://www.youtube.com/@turkishpvpclub",
-        "discord": "https://discord.com/turkishpvp",
-        "tiktok": "https://www.tiktok.com/@turkishpvpclub",
-        "instagram": "https://www.instagram.com/turkishpvpclub"
+        "youtube": "@turkishpvpclub",
+        "discord": "https://discord.gg/turkishpvp",
+        "tiktok": "@turkishpvpclub",
+        "instagram": "turkishpvpclub"
+    },
+    "compliance": {
+        "privacyPolicy": "https://turkishpvp.club/yasal/gizlilik",
+        "termsOfService": "https://turkishpvp.club/yasal/kullanim-kosullari",
+        "rules": "https://turkishpvp.club/yasal/kurallar",
+        "support": "https://support.turkishpvp.club/"
     }
 }
