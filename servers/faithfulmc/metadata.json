@@ -1,47 +1,38 @@
 {
-  "id": "faithfulmc",
-  "name": "FaithfulMC",
-  "description": "Connect via faithfulmc.net",
-  "addresses": [
-    "faithfulmc.net"
-  ],
-  "primaryAddress": "faithfulmc.net",
-  "gameTypes": [
-    "PvP",
-    "HCF",
-    "Factions"
-  ],
-  "primaryColor": "#FFAA00",
-  "secondaryColor": "#FFFF55",
-  "minecraftVersions": [
-    "1.7.10",
-    "1.8.9"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "languages": [
-    "en"
-  ],
-  "regions": [
-    "AF",
-    "AS",
-    "EU",
-    "NA",
-    "OC",
-    "SA"
-  ],
-  "website": "https://faithfulmc.net",
-  "store": "https://store.faithfulmc.net/",
-  "socials": {
-    "discord": "https://discord.gg/Yr4qVzrv2e",
-    "twitter": "twitter.com/PlayFaithfulMC"
-  },
-  "votingLinks": [
-    "https://minecraftservers.org/server/678871"
-  ],
-  "compliance": {
-    "privacyPolicy": "https://discord.gg/Yr4qVzrv2e",
-    "termsOfService": "https://discord.gg/Yr4qVzrv2e",
-    "rules": "https://discord.gg/Yr4qVzrv2e",
-    "support": "https://discord.gg/Yr4qVzrv2e"
-  }
+    "id": "FaithfuLMC",
+    "name": "faithfulmc.net",
+    "website": "https://www.faithfulmc.net",
+    "store": "https://store.faithfulmc.net",
+    "description": "Innovative and professional Minecraft server experience",
+    "addresses": [
+        "faithfulmc.net"
+    ],
+    "primaryAddress": "faithfulmc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFFF55",
+    "primaryLanguage": "en",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "primaryRegion": "US",
+    "regions": [
+        "US"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Kitmap"
+    ],
+    "compliance": {
+        "rules": "https://www.faithfulmc.net/"
+    },
+    "socials": {
+        "discord": "https://discord.gg/faithfulmc"
+    },
+    "crossplay": true
 }
