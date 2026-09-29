@@ -1,0 +1,32 @@
+{
+  "id": "asterianetwork",
+  "name": "Asteria Network",
+  "description": "Asteria Network",
+  "addresses": [
+    "play.asterianw.com"
+  ],
+  "primaryAddress": "play.asterianw.com",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#6A00FF",
+  "secondaryColor": "#00D4FF",
+  "primaryLanguage": "tr",
+  "languages": [
+    "tr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryGameType": "PvP",
+  "website": "https://asterianw.com",
+  "socials": {
+    "discord": "https://discord.gg/asterianw"
+  },
+  "crossplay": false
+}
