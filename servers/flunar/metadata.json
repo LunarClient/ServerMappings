@@ -7,9 +7,11 @@
     ],
     "primaryAddress": "flunar.de",
     "minecraftVersions": [
-        "26.*"
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "26.3",
     "primaryColor": "#e8e8e6",
     "secondaryColor": "#111111",
     "primaryLanguage": "de",
