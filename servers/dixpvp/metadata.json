@@ -2,6 +2,7 @@
     "id": "dixpvp",
     "name": "DixPvP Network",
     "store": "https://store.dixpvp.xyz/",
+    "description": "Play PvP and UHC on DixPvP Network.",
     "addresses": [
         "dixpvp.xyz"
     ],

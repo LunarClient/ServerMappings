@@ -1,0 +1,32 @@
+{
+  "id": "frenzycraft",
+  "name": "FrenzyCraft",
+  "description": "A competitive Minecraft network featuring Prison and Skyblock.",
+  "addresses": [
+    "frenzycraft.net"
+  ],
+  "primaryAddress": "play.frenzycraft.net",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#EF3B32",
+  "secondaryColor": "#28C7D9",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "sv-SE"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Prison",
+    "Skyblock",
+    "PvP"
+  ],
+  "primaryGameType": "Prison",
+  "crossplay": false,
+  "offline": false
+}

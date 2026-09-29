@@ -1,0 +1,43 @@
+{
+    "id": "zamoramc",
+    "name": "ZamoraMC",
+    "description": "Spanish-speaking survival network with quests and community adventures",
+    "addresses": [
+        "zamoramc.net"
+    ],
+    "primaryAddress": "zamoramc.net",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.1.2"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#1F5A33",
+    "secondaryColor": "#C93A3F",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Adventure",
+        "Casual",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://web.zamoramc.net",
+    "wiki": "https://web.zamoramc.net/wiki",
+    "store": "https://web.zamoramc.net/shop",
+    "compliance": {
+        "privacyPolicy": "https://web.zamoramc.net/privacy-policy",
+        "termsOfService": "https://web.zamoramc.net/conditions",
+        "rules": "https://web.zamoramc.net/normas",
+        "support": "https://web.zamoramc.net/contacto"
+    },
+    "socials": {
+        "discord": "https://discord.gg/CRQakjaZBR"
+    }
+}

@@ -2,6 +2,7 @@
     "id": "cubiccraft",
     "name": "CubicCraft",
     "store": "https://store.cubiccraft.net/",
+    "description": "Play PvP, Survival, and more on CubicCraft.",
     "addresses": [
         "cubiccraft.net"
     ],

@@ -1,6 +1,7 @@
 {
     "id": "imineplex",
     "name": "iMinePlex",
+    "description": "Play Minigames and PvP on iMinePlex.",
     "addresses": [
         "imineplex.ir"
     ],

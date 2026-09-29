@@ -2,6 +2,7 @@
     "id": "elementalmc",
     "name": "ElementalMC",
     "store": "https://korraemc.tebex.io/",
+    "description": "Play Survival, Factions, and more on ElementalMC.",
     "addresses": [
         "elementalmc.live"
     ],

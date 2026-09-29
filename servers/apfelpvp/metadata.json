@@ -1,0 +1,26 @@
+{
+    "id": "apfelpvp",
+    "name": "ApfelPVP",
+    "description": "ApfelPvP is a new in Beta Server",
+    "addresses": [
+        "apfelpvp.de"
+    ],
+    "primaryAddress": "apfelpvp.de",
+    "primaryColor": "#64b864",
+    "secondaryColor": "#687268",
+    "minecraftVersions": [
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/QUkfMpgsfx"
+    }
+}

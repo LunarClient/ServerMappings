@@ -23,9 +23,12 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "KitPvP",
     "gameTypes": [
         "Survival",
+        "KitPvP",
         "Minigames",
+        "Creative",
         "PvP"
     ],
     "socials": {

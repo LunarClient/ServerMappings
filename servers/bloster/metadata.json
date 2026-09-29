@@ -2,6 +2,7 @@
     "id": "bloster",
     "name": "Bloster Network",
     "store": "https://bloster.tebex.io",
+    "description": "Play Survival, Parkour, and more on Bloster Network.",
     "addresses": [
         "bloster.net"
     ],

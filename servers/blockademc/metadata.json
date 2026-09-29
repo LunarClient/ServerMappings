@@ -1,0 +1,48 @@
+{
+    "id": "blockademc",
+    "name": "Blockade",
+    "description": "OP Factions and Survival built for 1.8 PvP. Raid, cannon, conquer.",
+    "addresses": [
+        "blockademc.org"
+    ],
+    "primaryAddress": "play.blockademc.org",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#003ffb",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Factions",
+        "PvP",
+        "Survival"
+    ],
+    "primaryGameType": "Factions",
+    "website": "https://blockademc.org",
+    "store": "https://blockademc.org/store",
+    "compliance": {
+        "rules": "https://blockademc.org/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/gZN8dfwTUz"
+    },
+    "crossplay": false,
+    "offline": true
+}

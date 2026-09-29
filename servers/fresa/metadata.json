@@ -1,0 +1,47 @@
+{
+  "id": "fresa",
+  "name": "Fresa Network",
+  "website": "https://www.fresa.top",
+  "store": "https://tienda.fresa.top",
+  "description": "Home of the BEST Hardcore experience in Minecraft...",
+  "addresses": [
+    "fresa.top"
+  ],
+  "primaryAddress": "fresa.top",
+  "primaryColor": "#FF3535",
+  "secondaryColor": "#FF6C6C",
+  "minecraftVersions": [
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "en",
+    "es-EN"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Hardcore"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/fresa",
+    "twitter": "FresaNetwork",
+    "youtube": "@fresatop",
+    "tiktok": "@fresa.network"
+  },
+  "compliance": {
+    "privacyPolicy": "https://tienda.fresa.top/terms/privacy",
+    "termsOfService": "https://tienda.fresa.top/terms/checkout",
+    "rules": "https://tienda.fresa.top/terms/impressum"
+  }
+}

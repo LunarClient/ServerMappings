@@ -1,0 +1,33 @@
+{
+  "id": "amethystmc",
+  "name": "AmethystMC",
+  "description": "A Turkish prison adventure with custom mines, pets and progression.",
+  "addresses": [
+    "amethystmc.com.tr"
+  ],
+  "primaryAddress": "play.amethystmc.com.tr",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#7C3AED",
+  "secondaryColor": "#C084FC",
+  "primaryLanguage": "tr",
+  "languages": [
+    "tr"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "primaryGameType": "Prison",
+  "website": "https://amethystmc.com.tr",
+  "socials": {
+    "discord": "https://discord.gg/sDRvsGdMnG"
+  },
+  "crossplay": false,
+  "offline": true
+}

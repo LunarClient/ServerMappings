@@ -2,6 +2,7 @@
     "id": "wetmc",
     "name": "WetMC.PL",
     "store": "https://wetmc.pl",
+    "description": "Play PvP and Survival on WetMC.PL.",
     "addresses": [
         "wetmc.pl"
     ],

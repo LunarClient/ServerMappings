@@ -2,6 +2,7 @@
     "id": "contentveen",
     "name": "Contentveen",
     "store": "https://store.contentveen.nl/",
+    "description": "Experience survival gameplay on Contentveen.",
     "addresses": [
         "contentveen.nl"
     ],

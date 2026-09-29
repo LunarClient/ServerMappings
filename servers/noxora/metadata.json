@@ -1,41 +1,41 @@
 {
     "id": "noxora",
     "name": "NoxoraNET",
+    "website": "https://www.noxora.net",
+    "store": "https://shop.noxora.net",
     "description": "Competitive Duels, Meetups, FFAs and Events",
     "addresses": [
         "noxora.de",
         "noxora.net"
     ],
     "primaryAddress": "noxora.net",
+    "primaryColor": "#9331ab",
+    "secondaryColor": "#250535",
     "minecraftVersions": [
         "1.21.*",
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#9331ab",
-    "secondaryColor": "#250535",
-    "primaryLanguage": "de",
-    "languages": [
-        "en",
-        "de"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "AF",
         "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "de"
     ],
     "gameTypes": [
         "PvP",
         "UHC",
         "Minigames"
     ],
-    "website": "https://www.noxora.net",
-    "store": "https://shop.noxora.net",
-    "presentationVideo": "gNdbw59esvw",
     "socials": {
         "twitter": "NoxoraNET",
         "youtube": "@NoxoraNET",
         "discord": "https://discord.gg/EjszGsFbfv"
     },
-    "crossplay": false
+    "presentationVideo": "gNdbw59esvw"
 }

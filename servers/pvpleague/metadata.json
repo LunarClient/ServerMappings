@@ -1,0 +1,49 @@
+{
+    "id": "pvpleague",
+    "name": "PvPLeague",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "pvpleague.club",
+        "duels.us",
+        "potpvp.com"
+    ],
+    "primaryAddress": "pvpleague.club",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#d031e1",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.pvpleague.club",
+    "store": "https://store.pvpleague.club",
+    "compliance": {
+        "privacyPolicy": "https://www.pvpleague.club/privacy",
+        "termsOfService": "https://www.pvpleague.club/terms",
+        "rules": "https://www.pvpleague.club/rules"
+    },
+    "socials": {
+        "instagram": "OfficialPvPLeague",
+        "tiktok": "@officialpvpleague",
+        "youtube": "@officialpvpleague",
+        "discord": "https://discord.gg/pvpleague"
+    },
+    "crossplay": true
+}

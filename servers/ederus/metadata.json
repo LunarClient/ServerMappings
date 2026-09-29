@@ -1,0 +1,31 @@
+{
+    "id": "ederus",
+    "name": "Ederus Network",
+    "description": "A Minecraft network featuring Survival OP and OneBlock.",
+    "addresses": [
+        "ederus.com"
+    ],
+    "primaryAddress": "mc.ederus.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#1565D8",
+    "secondaryColor": "#0A2B6E",
+    "gameTypes": [
+        "Survival",
+        "OneBlock"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": true,
+    "offline": true
+}

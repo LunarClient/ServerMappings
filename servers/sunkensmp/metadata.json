@@ -1,0 +1,40 @@
+{
+    "id": "sunkensmp",
+    "name": "SunkenSMP",
+    "website": "https://www.sunkensmp.net/",
+    "store": "https://www.sunkensmp.net/store",
+    "description": "An Economy based Minecraft Server and SMP that allows Bedrock",
+    "addresses": [
+        "sunkensmp.net"
+    ],
+    "primaryAddress": "sunkensmp.net",
+    "primaryColor": "#72DFA5",
+    "secondaryColor": "#cac5be",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.19.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Hardcore",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "daflixyy",
+        "discord": "https://discord.com/invite/bzedMxsrXJ",
+        "youtube": "daflixy",
+        "tiktok": "@sunkensmp"
+    }
+}

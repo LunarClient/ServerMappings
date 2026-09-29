@@ -2,6 +2,7 @@
     "id": "lifestealsmp",
     "name": "LifeStealSMP",
     "store": "https://store.lifestealsmp.com/",
+    "description": "Play Survival, PvP, and more on LifeStealSMP.",
     "addresses": [
         "lifestealsmp.com",
         "lifesteal.rip"
@@ -22,10 +23,13 @@
         "NA",
         "EU"
     ],
+    "primaryGameType": "Lifesteal",
     "gameTypes": [
         "Survival",
+        "Lifesteal",
         "PvP",
-        "PvE"
+        "PvE",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "https://discord.com/invite/lifestealsmp"

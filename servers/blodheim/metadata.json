@@ -1,0 +1,51 @@
+{
+    "id": "blodheim",
+    "name": "Blodheim",
+    "website": "https://blodheim.no/",
+    "store": "https://butikk.blodheim.no/",
+    "description": "A Norwegian Minecraft server that offers a unique survival experience.",
+    "addresses": [
+        "blodheim.no"
+    ],
+    "primaryAddress": "blodheim.no",
+    "primaryColor": "#c40007",
+    "secondaryColor": "#fa1920",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
+    ],
+    "primaryLanguage": "no",
+    "languages": [
+        "no"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Competitive",
+        "PvP",
+        "Casual"
+    ],
+    "socials": {
+        "twitter": "blodheim",
+        "discord": "https://discord.gg/2wpy3yUJwm",
+        "youtube": "@Blodheim",
+        "instagram": "blodheimmc",
+        "tiktok": "@blodheimmc"
+    }
+}

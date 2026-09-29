@@ -1,6 +1,7 @@
 {
     "id": "blazemc",
     "name": "BlazeMC",
+    "description": "Play PvP and Survival on BlazeMC.",
     "addresses": [
         "blazemc.eu"
     ],

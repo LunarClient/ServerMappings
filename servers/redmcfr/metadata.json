@@ -2,6 +2,7 @@
     "id": "redmcfr",
     "name": "REDMC",
     "store": "https://redmc.fr/shop",
+    "description": "Play Minigames and PvP on REDMC.",
     "addresses": [
         "redmc.fr"
     ],

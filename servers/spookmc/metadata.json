@@ -3,10 +3,12 @@
     "name": "SpookMC Network",
     "website": "https://www.spookmc.net/",
     "store": "https://tienda.spookmc.net/",
+    "description": "Play Prison, Skyblock, and more on SpookMC Network.",
     "addresses": [
         "spookmc.net"
     ],
     "primaryAddress": "spookmc.net",
+    "offline": true,
     "primaryColor": "#ffffff",
     "secondaryColor": "#8f8f93",
     "minecraftVersions": [
@@ -23,9 +25,15 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
+        "Minigames",
+        "BoxPvP",
+        "OneBlock",
+        "Survival",
         "Prison",
         "Skyblock",
+        "Factions",
         "PvP"
     ],
     "socials": {

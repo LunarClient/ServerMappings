@@ -2,6 +2,7 @@
     "id": "snowycraft",
     "name": "Snowycraft",
     "store": "https://tienda.snowycraft.net/",
+    "description": "Play PvP and Survival on Snowycraft.",
     "addresses": [
         "snowycraft.net"
     ],

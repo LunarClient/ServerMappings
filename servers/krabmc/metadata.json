@@ -1,0 +1,40 @@
+{
+    "id": "krabmc",
+    "name": "KrabMC",
+    "description": "Polish anarchy server with BoxPvP, KitPvP, SkyPvP and mace fights.",
+    "addresses": [
+        "krabmc.pl"
+    ],
+    "primaryAddress": "krabmc.pl",
+    "offline": true,
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#d13308",
+    "secondaryColor": "#ffd700",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Anarchy",
+        "BoxPvP",
+        "KitPvP",
+        "PvP"
+    ],
+    "primaryGameType": "Anarchy",
+    "website": "https://krabmc.pl",
+    "store": "https://krabmc.pl/sklep",
+    "socials": {
+        "discord": "https://discord.gg/krabmc",
+        "tiktok": "@krabmcpl"
+    },
+    "crossplay": false
+}

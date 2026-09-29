@@ -3,6 +3,7 @@
     "name": "PvPSurge",
     "website": "https://pvpsurge.net/",
     "store": "https://store.pvpsurge.net/",
+    "description": "Play Factions and PvP on PvPSurge.",
     "addresses": [
         "pvpsurge.net"
     ],

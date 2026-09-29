@@ -2,6 +2,7 @@
     "id": "rozor",
     "name": "rozor",
     "store": "https://rozor.tebex.io",
+    "description": "Test your combat skills on rozor.",
     "addresses": [
         "rozor.net"
     ],

@@ -1,0 +1,38 @@
+{
+    "id": "nyxsmp",
+    "name": "NyxSMP",
+    "website": "https://nyxsmp.net/",
+    "description": "Survive the Eternal Night - a dark fantasy MMORPG survival experience.",
+    "addresses": [
+        "nyxsmp.net"
+    ],
+    "primaryAddress": "nyxsmp.net",
+    "primaryColor": "#534AB7",
+    "secondaryColor": "#7F77DD",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "offline": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryGameType": "MMORPG",
+    "gameTypes": [
+        "MMORPG",
+        "PvE",
+        "PvP",
+        "Competitive",
+        "Adventure"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/p4DQJTHGBM"
+    }
+}

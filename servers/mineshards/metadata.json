@@ -2,6 +2,7 @@
     "id": "mineshards",
     "name": "MineShards",
     "store": "https://store.mineshards.com/",
+    "description": "Rise through the ranks on MineShards.",
     "addresses": [
         "mineshards.com"
     ],

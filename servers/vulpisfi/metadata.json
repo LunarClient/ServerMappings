@@ -1,0 +1,30 @@
+{
+  "id": "vulpisfi",
+  "name": "Vulpis",
+  "description": "Entertaining activities and fun for everyone.",
+  "addresses": [
+    "vulpis.fi"
+  ],
+  "primaryAddress": "vulpis.fi",
+  "minecraftVersions": [
+    "1.21",
+    "1.21.1",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "primaryColor": "#FB6900",
+  "secondaryColor": "#FFA800",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "crossplay": true,
+  "website": "https://vulpis.fi",
+  "socials": {
+    "discord": "https://discord.gg/gJDDqA95vY"
+  }
+}

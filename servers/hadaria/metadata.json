@@ -11,6 +11,7 @@
         "hadaria.com"
     ],
     "primaryAddress": "play.hadaria.fr",
+    "offline": true,
     "primaryColor": "#BA291E",
     "secondaryColor": "#F1CE4C",
     "minecraftVersions": [
@@ -30,6 +31,7 @@
     "languages": [
         "fr"
     ],
+    "primaryGameType": "Factions",
     "gameTypes": [
         "PvP",
         "Factions"

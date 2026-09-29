@@ -2,6 +2,7 @@
     "id": "impendmc",
     "name": "ImpendMC",
     "store": "https://store.impendmc.net/",
+    "description": "Play PvP and Minigames on ImpendMC.",
     "addresses": [
         "impendmc.net"
     ],

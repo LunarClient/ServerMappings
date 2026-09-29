@@ -1,0 +1,18 @@
+{
+  "id": "mysticpvp",
+  "name": "Mystic Network",
+  "description": "Spanish Prison & PvP network with custom content.",
+  "addresses": ["mysticpvp.net"],
+  "primaryAddress": "play.mysticpvp.net",
+  "gameTypes": ["Prison", "PvP", "Minigames"],
+  "primaryColor": "#5A2B7B",
+  "secondaryColor": "#F23840",
+  "minecraftVersions": ["1.8.*"],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryLanguage": "es-EN",
+  "languages": ["es-EN", "en"],
+  "primaryRegion": "NA",
+  "regions": ["NA", "SA"],
+  "store": "https://store.mysticpvp.net",
+  "crossplay": false
+}

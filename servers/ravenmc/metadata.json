@@ -2,6 +2,7 @@
     "id": "ravenmc",
     "name": "RavenMC Network",
     "store": "https://ravenmc.tebex.io",
+    "description": "Play Minigames, PvP, and more on RavenMC Network.",
     "addresses": [
         "ravenmc.net"
     ],

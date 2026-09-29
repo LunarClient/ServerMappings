@@ -2,10 +2,12 @@
     "id": "trexmine",
     "name": "TrexMine",
     "website": "https://trexmine.com/",
+    "description": "Play Minigames, Survival, and more on TrexMine.",
     "addresses": [
         "trexmine.com"
     ],
     "primaryAddress": "play.trexmine.com",
+    "offline": true,
     "primaryColor": "#98ff00",
     "secondaryColor": "#000000",
     "minecraftVersions": [
@@ -22,10 +24,15 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
+        "Practice",
+        "PvP",
+        "Prison",
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.com/invite/DRNEtE9t",

@@ -1,0 +1,34 @@
+{
+    "id": "rixsmp",
+    "name": "RixSMP",
+    "description": "Italian Minecraft survival server.",
+    "addresses": [
+        "rixsmp.it"
+    ],
+    "primaryAddress": "rixsmp.it",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#FFD700",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/m88DENVBVd",
+        "tiktok": "@robixx_scaglia",
+        "youtube": "@R7XTT"
+    }
+}

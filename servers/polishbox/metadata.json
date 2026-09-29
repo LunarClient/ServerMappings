@@ -2,6 +2,7 @@
     "id": "polishbox",
     "name": "PolishBox",
     "store": "https://polishbox.pl/",
+    "description": "Test your combat skills on PolishBox.",
     "addresses": [
         "polishbox.pl"
     ],

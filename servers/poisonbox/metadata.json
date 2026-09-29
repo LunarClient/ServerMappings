@@ -2,6 +2,7 @@
     "id": "poisonbox",
     "name": "PoisonBox",
     "store": "https://store.poisonbox.eu",
+    "description": "Test your combat skills on PoisonBox.",
     "addresses": [
         "poisonbox.eu",
         "bsbox.org"

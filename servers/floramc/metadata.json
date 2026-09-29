@@ -1,11 +1,15 @@
 {
     "id": "floramc",
     "name": "FloraMC",
+    "website": "https://floramc.club",
+    "store": "https://store.floramc.club",
     "description": "A fast-paced cracked server with fun PvP and custom modes",
     "addresses": [
         "floramc.club"
     ],
     "primaryAddress": "play.floramc.club",
+    "primaryColor": "#89E4D5",
+    "secondaryColor": "#1BB32D",
     "minecraftVersions": [
         "1.8.*",
         "1.16.*",
@@ -13,23 +17,19 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#89E4D5",
-    "secondaryColor": "#1BB32D",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "AS",
     "regions": [
         "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Minigames",
         "Adventure"
     ],
-    "website": "https://floramc.club",
-    "store": "https://store.floramc.club",
     "socials": {
         "instagram": "floramc.club",
         "youtube": "@FloraMC-club",

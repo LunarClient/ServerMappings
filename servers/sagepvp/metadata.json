@@ -3,6 +3,7 @@
     "name": "SagePvP",
     "website": "https://sagepvp.org/",
     "store": "https://store.sagepvp.org/",
+    "description": "Play HCF and PvP on SagePvP.",
     "addresses": [
         "sagepvp.org"
     ],

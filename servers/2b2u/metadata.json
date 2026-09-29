@@ -1,0 +1,37 @@
+{
+  "id": "2b2u",
+  "name": "2b2u",
+  "offline": true,
+  "crossplay": true,
+  "store": "https://2b2u.craftingstore.net/",
+  "wiki": "https://2b2u.net/wiki",
+  "description": "Play 2b2u for the real anarchy experience",
+  "addresses": [
+    "2b2u.net"
+  ],
+  "primaryAddress": "2b2u.net",
+  "primaryColor": "#4b4efb",
+  "secondaryColor": "#949392",
+  "minecraftVersions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryGameType": "Anarchy",
+  "gameTypes": [
+    "Survival",
+    "Anarchy",
+    "Hardcore",
+    "PvP"
+  ]
+}

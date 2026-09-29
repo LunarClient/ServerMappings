@@ -1,0 +1,58 @@
+{
+    "id": "nircraft",
+    "name": "Nircraft",
+    "description": "A leveling SMP where anything you do levels you up.",
+    "addresses": [
+        "nircraft.com",
+        "xhapy.org"
+    ],
+    "primaryAddress": "play.nircraft.com",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#A3FFF8",
+    "secondaryColor": "#FCC0FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Casual",
+        "MMORPG",
+        "PvP",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://nircraft.com",
+    "store": "https://store.nircraft.com",
+    "wiki": "https://wiki.nircraft.com",
+    "socials": {
+        "discord": "https://discord.gg/tXpwAuC3fP",
+        "tiktok": "@nircraftmc"
+    },
+    "votingLinks": [
+        "https://minecraft-server-list.com/server/518637/",
+        "https://topminecraftservers.org/server/43038"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://nircraft.com/privacy",
+        "termsOfService": "https://nircraft.com/terms",
+        "rules": "https://nircraft.com/rules",
+        "support": "https://nircraft.com/support"
+    },
+    "crossplay": true
+}

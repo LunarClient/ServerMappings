@@ -1,0 +1,43 @@
+{
+    "id": "noovlandia",
+    "name": "Noovlandia Network",
+    "description": "Explore our awesome worlds and get cool new adventures",
+    "addresses": [
+        "noovlandia.online"
+    ],
+    "primaryAddress": "mc.noovlandia.online",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#778dfd",
+    "secondaryColor": "#111424",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ],
+    "store": "https://noovlandia.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/8QujueGCa8"
+    },
+    "crossplay": true
+}

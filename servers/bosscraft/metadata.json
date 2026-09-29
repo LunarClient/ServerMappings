@@ -2,6 +2,7 @@
     "id": "bosscraft",
     "name": "BossCraft",
     "store": "https://www.bosscraft.net/",
+    "description": "Play Prison, Skyblock, and more on BossCraft.",
     "addresses": [
         "bosscraft.net"
     ],

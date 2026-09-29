@@ -1,0 +1,42 @@
+{
+  "id": "magicpixel",
+  "name": "MagicPixel",
+  "description": "Join thousands of players on MagicPixel — Survival, SkyMine, SMP & Roleplay!",
+  "website": "https://magicpixel.ir",
+  "store": "https://www.magicpixel.ir/dashboard/store",
+  "addresses": [
+    "magicpixel.ir"
+  ],
+  "primaryAddress": "play.magicpixel.ir",
+  "gameTypes": [
+    "Roleplay",
+    "Survival",
+    "Skyblock"
+  ],
+  "primaryGameType": "Roleplay",
+  "primaryColor": "#893bf6",
+  "secondaryColor": "#cd3bf6",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "AS"
+  ],
+  "primaryRegion": "AS",
+  "socials": {
+    "discord": "https://discord.gg/pzCmCKtv95",
+    "instagram": "magicpixel.ir"
+  }
+}

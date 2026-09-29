@@ -2,6 +2,7 @@
     "id": "zentralcraft",
     "name": "ZentralCraft Network",
     "store": "https://zentralcraft.tebex.io/",
+    "description": "Play Survival and PvP on ZentralCraft Network.",
     "addresses": [
         "zentralcraft.com"
     ],

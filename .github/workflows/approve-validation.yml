@@ -1,0 +1,70 @@
+name: Approve server validation
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  actions: write
+  pull-requests: read
+
+concurrency:
+  group: approve-validation-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  approve:
+    if: github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      # Only inspect GitHub metadata; never check out or execute fork contents.
+      - name: Approve validation for server-only changes
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            const params = { ...context.repo, pull_number: pr.number };
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              ...params,
+              per_page: 100,
+            });
+            const { data: current } = await github.rest.pulls.get(params);
+
+            // A newer commit or an incomplete file list must not authorize this run.
+            if (current.state !== 'open' || current.head.sha !== pr.head.sha ||
+                files.length === 0 || files.length !== current.changed_files) {
+              core.info('PR changed or the file list is incomplete; leaving approval to a maintainer.');
+              return;
+            }
+
+            if (files.some(file => !file.filename.startsWith('servers/') ||
+                (file.previous_filename && !file.previous_filename.startsWith('servers/')))) {
+              core.info('Changes extend outside servers/; leaving approval to a maintainer.');
+              return;
+            }
+
+            // The pull_request run can appear after this pull_request_target run.
+            for (let attempt = 0; attempt < 6; attempt++) {
+              await new Promise(resolve => setTimeout(resolve, 5000));
+              const { data } = await github.rest.actions.listWorkflowRuns({
+                ...context.repo,
+                workflow_id: 'validate-upload.yml',
+                event: 'pull_request',
+                head_sha: pr.head.sha,
+                status: 'action_required',
+                per_page: 100,
+              });
+              const run = data.workflow_runs.find(run =>
+                run.head_repository?.full_name === pr.head.repo.full_name);
+              if (!run) continue;
+
+              await github.rest.actions.approveWorkflowRun({
+                ...context.repo,
+                run_id: run.id,
+              });
+              core.info(`Approved validation run ${run.id} for PR #${pr.number}.`);
+              return;
+            }
+
+            core.info('No validation run awaiting approval was found.');

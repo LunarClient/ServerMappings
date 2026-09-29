@@ -1,12 +1,12 @@
 {
     "id": "nexuscraft",
     "name": "NexusCraft",
-    "store": "https://tienda.nexus-craft.lat",
+    "store": "https://nexus-craft.tebex.io",
     "description": "A really cool and interesting server that brings joy to players",
     "addresses": [
-        "nexus-craft.lat"
+        "nexus-craft.net"
     ],
-    "primaryAddress": "mc.nexus-craft.lat",
+    "primaryAddress": "mc.nexus-craft.net",
     "primaryColor": "#839bff",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [

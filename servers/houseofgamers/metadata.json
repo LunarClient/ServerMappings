@@ -1,45 +1,45 @@
 {
     "id": "houseofgamers",
     "name": "House Of Gamers",
+    "website": "https://houseofgamers.eu",
+    "store": "https://store.houseofgamers.eu",
     "description": "The biggest Minecraft Community in Greece, now available globally!",
     "addresses": [
         "houseofgamers.eu"
     ],
     "primaryAddress": "play.houseofgamers.eu",
+    "primaryColor": "#00D2F8",
+    "secondaryColor": "#78D7FE",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#00D2F8",
-    "secondaryColor": "#78D7FE",
-	"primaryLanguage": "el",
-    "languages": [
-        "el",
-		"en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryLanguage": "el",
+    "languages": [
+        "el",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
-		"PvE",
-		"Survival"
+        "PvE",
+        "Survival"
     ],
-    "website": "https://houseofgamers.eu",
-    "store": "https://store.houseofgamers.eu",
+    "socials": {
+        "discord": "https://discord.com/invite/house-of-gamers-mc-761961550474248212",
+        "tiktok": "@houseofgamers"
+    },
     "compliance": {
         "rules": "https://houseofgamers.eu/rules"
     },
-    "socials": {
-        "discord": "https://discord.com/invite/house-of-gamers-mc-761961550474248212",
-		"tiktok": "@houseofgamers"
-    },
-	"votingLinks": [
+    "votingLinks": [
         "https://minecraft-mp.com/server-s349191",
-		"https://minecraftservers.org/server/597133",
-		"https://minecraft.buzz/server/16724",
-		"https://top-mc-servers.net/server/16"
-    ],
-    "crossplay": true
+        "https://minecraftservers.org/server/597133",
+        "https://minecraft.buzz/server/16724",
+        "https://top-mc-servers.net/server/16"
+    ]
 }

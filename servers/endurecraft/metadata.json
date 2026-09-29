@@ -1,8 +1,8 @@
 {
     "id": "endurecraft",
     "name": "EndureCraft Network",
-    "description": "Server specialized in survival, with daily events and new game modes coming.",
     "website": "https://discord.endurecraft.lat",
+    "description": "Server specialized in survival, with daily events and new game modes coming.",
     "addresses": [
         "endurecraft.lat"
     ],
@@ -18,14 +18,15 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "languages": [
-        "es-EN"
-    ],
-    "primaryLanguage": "es-EN",
+    "crossplay": true,
+    "primaryRegion": "SA",
     "regions": [
         "SA"
     ],
-    "primaryRegion": "SA",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival"
     ],
@@ -42,6 +43,5 @@
         "https://topminecraftservers.org/server/41859",
         "https://topg.org/minecraft-servers/server-676435",
         "https://www.40servidoresmc.es/endurecraft-network"
-    ],
-    "crossplay": true
+    ]
 }

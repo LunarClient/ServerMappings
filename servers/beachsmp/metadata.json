@@ -1,0 +1,30 @@
+{
+  "id": "beachsmp",
+  "name": "BeachSMP",
+  "description": "Your favourite sunny Minecraft getaway",
+  "primaryAddress": "beachsmp.com",
+  "addresses": [
+    "beachsmp.com"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryColor": "#E8732A",
+  "secondaryColor": "#F5C518",
+  "minecraftVersions": [
+    "1.21",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "website": "https://beachsmp.com"
+}

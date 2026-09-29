@@ -1,0 +1,39 @@
+{
+    "id": "redstoneog",
+    "name": "RedStoneOG Network",
+    "store": "https://redstonenetwork.tebex.store/",
+    "description": "Play Practice, PvP, Survival, and more on RedStoneOG Network.",
+    "addresses": [
+        "redstoneog.com"
+    ],
+    "primaryAddress": "mc.redstoneog.com",
+    "primaryColor": "#E53935",
+    "secondaryColor": "#111827",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "offline": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "PvP",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Practice",
+        "Prison",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sm7vaQ7fst"
+    }
+}

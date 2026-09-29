@@ -2,6 +2,7 @@
     "id": "harlon",
     "name": "Harlon City Server",
     "website": "http://harlonserver.net/",
+    "description": "Explore the open world on Harlon City Server.",
     "addresses": [
         "harlonserver.net"
     ],

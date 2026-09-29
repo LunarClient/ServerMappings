@@ -2,6 +2,7 @@
     "id": "gameup",
     "name": "GameUP",
     "website": "https://mc.gameup.ir/",
+    "description": "Play PvP, Survival, and more on GameUP.",
     "addresses": [
         "gameup.ir",
         "voidpixel.ir"

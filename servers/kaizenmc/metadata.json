@@ -24,6 +24,7 @@
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
+    "offline": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -32,8 +33,11 @@
     "languages": [
         "pt-BR"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
+        "Practice",
+        "Competitive",
         "Minigames"
     ],
     "socials": {

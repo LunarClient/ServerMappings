@@ -1,33 +1,33 @@
 {
-  "id": "varyzonmc",
-  "name": "VaryzonMC",
-  "description": "Join VaryzonMC A fun and friendly SMP experience!",
-  "addresses": [
-    "varyzon.it"
-  ],
-  "primaryAddress": "play.varyzon.it",
-  "gameTypes": [
-    "Survival"
-  ],
-  "primaryColor": "#FF0000",
-  "secondaryColor": "#FFFFFF",
-  "minecraftVersions": [
-    "1.21.4"
-  ],
-  "primaryMinecraftVersion": "1.21.4",
-  "languages": [
-    "it"
-  ],
-  "primaryLanguage": "it",
-  "regions": [
-    "EU"
-  ],
-  "primaryRegion": "EU",
-  "website": "https://varyzon.it",
-  "socials": {
-    "discord": "https://discord.gg/bDjSK93xKC",
-    "youtube": "@VaryzonMC",
-    "instagram": "varyzonmc",
-    "tiktok": "@varyzonmc_network"
-  }
+    "id": "varyzonmc",
+    "name": "VaryzonMC",
+    "website": "https://varyzon.it",
+    "description": "Join VaryzonMC A fun and friendly SMP experience!",
+    "addresses": [
+        "varyzon.it"
+    ],
+    "primaryAddress": "play.varyzon.it",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bDjSK93xKC",
+        "youtube": "@VaryzonMC",
+        "instagram": "varyzonmc",
+        "tiktok": "@varyzonmc_network"
+    }
 }

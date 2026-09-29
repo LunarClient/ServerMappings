@@ -1,6 +1,7 @@
 {
     "id": "onicraft",
     "name": "Onicraft",
+    "description": "Play PvE, PvP, and more on Onicraft.",
     "addresses": [
         "onicraft.com"
     ],

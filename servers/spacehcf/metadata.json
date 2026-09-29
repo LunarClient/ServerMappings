@@ -2,6 +2,7 @@
     "id": "spacehcf",
     "name": "SpaceHCF",
     "store": "https://store.spacehcf.us/",
+    "description": "Play HCF and PvP on SpaceHCF.",
     "addresses": [
         "spacehcf.us"
     ],

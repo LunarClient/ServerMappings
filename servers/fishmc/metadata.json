@@ -6,28 +6,26 @@
         "fishmc.fr"
     ],
     "primaryAddress": "play.fishmc.fr",
-    "gameTypes": [
-        "PvE",
-        "Skyblock",
-        "Survival"
-    ],
     "primaryColor": "#FCB454",
     "secondaryColor": "#FCB454",
-    "primaryMinecraftVersion": "1.21.4",
     "minecraftVersions": [
         "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
     ],
     "primaryLanguage": "fr",
     "languages": [
         "fr"
     ],
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
+    "gameTypes": [
+        "PvE",
+        "Skyblock",
+        "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/fishmc"
     }
-
 }
-

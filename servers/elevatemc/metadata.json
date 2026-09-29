@@ -3,7 +3,7 @@
     "name": "ElevateMC",
     "website": "https://elevatemc.com/",
     "store": "https://store.elevatemc.com/",
-    "description": "PotPvP practice and teamfight server on legacy minecraft",
+    "description": "PotPvP, Practice and TeamFight server on legacy Minecraft",
     "addresses": [
         "elevatemc.com"
     ],
@@ -28,9 +28,12 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "PvP",
-        "HCF"
+        "HCF",
+        "Competitive",
+        "Practice"
     ],
     "socials": {
         "discord": "https://discord.com/invite/hctranked",

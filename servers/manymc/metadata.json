@@ -1,0 +1,34 @@
+{
+  "id": "manymc",
+  "name": "ManyMC",
+  "website": "https://manymc.pl",
+  "description": "Play Survival, EarthSMP, and more on ManyMC.",
+  "addresses": [
+    "manymc.pl"
+  ],
+  "primaryAddress": "manymc.pl",
+  "offline": true,
+  "primaryColor": "#ffd500",
+  "secondaryColor": "#FFFF55",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/CxJNgKJMRy",
+    "tiktok": "@manymc.pl"
+  }
+}

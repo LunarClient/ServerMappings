@@ -2,6 +2,7 @@
     "id": "rgmc",
     "name": "RGMC",
     "store": "https://sklep.rgmc.pl/",
+    "description": "Play Minigames, PvP, and more on RGMC.",
     "addresses": [
         "rgmc.pl"
     ],

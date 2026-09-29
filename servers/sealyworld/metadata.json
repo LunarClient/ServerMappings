@@ -1,0 +1,29 @@
+{
+    "id": "sealyworld",
+    "name": "SealyWorld",
+    "website": "https://sealyworld.com/",
+    "description": "A server for fun and survival",
+    "addresses": [
+        "sealyworld.com"
+    ],
+    "primaryAddress": "sealyworld.com",
+    "primaryColor": "#00FFFF",
+    "secondaryColor": "#ffe980",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dFUGwWjYmn"
+    }
+}

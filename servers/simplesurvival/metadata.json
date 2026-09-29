@@ -3,6 +3,7 @@
     "name": "Simple Survival",
     "website": "https://www.simplesurvival.gg/",
     "store": "https://store.simplesurvival.gg/",
+    "description": "Simple Survival - Multiplayer vanilla survival server with online map.",
     "addresses": [
         "simplesurvival.gg"
     ],

@@ -1,17 +1,18 @@
 {
     "id": "cookieattack",
     "name": "CookieAttack",
-    "description": "Server with the most cookies!",
+    "description": "German SMP Server with special Features!",
+    "website": "https://www.cookieattack.de",
     "addresses": [
-        "cookieattack.me"
+        "cookieattack.de"
     ],
-    "primaryAddress": "play.cookieattack.me",
-    "primaryColor": "#ffa500",
+    "primaryAddress": "cookieattack.de",
+    "primaryColor": "#fda929",
     "secondaryColor": "#000000",
     "minecraftVersions": [
-        "1.20.*"
+        "1.21.*"
     ],
-    "primaryMinecraftVersion": "1.20.5",
+    "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
@@ -22,9 +23,12 @@
         "de"
     ],
     "gameTypes": [
-        "Survival"
+        "Survival", "Open World", "Roleplay"
     ],
     "socials": {
-        "discord": "https://discord.gg/cbsPGsGbdN"
+        "twitter": "CookieTeamCA",
+        "discord": "https://discord.com/invite/NEJVfUG3Sy",
+        "youtube": "@cookieteamca",
+        "instagram": "cookie.teamca"
     }
 }

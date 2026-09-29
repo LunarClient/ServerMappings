@@ -1,6 +1,7 @@
 {
     "id": "forcide",
     "name": "Forcide",
+    "description": "Play HCF and PvP on Forcide.",
     "addresses": [
         "forcide.org"
     ],

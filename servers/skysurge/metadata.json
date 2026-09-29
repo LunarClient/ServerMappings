@@ -2,6 +2,7 @@
     "id": "skysurge",
     "name": "SkySurge",
     "store": "https://store.skysurge.us/",
+    "description": "Play Survival, Factions, and more on SkySurge.",
     "addresses": [
         "skysurge.us"
     ],

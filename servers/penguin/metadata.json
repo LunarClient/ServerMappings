@@ -2,6 +2,7 @@
     "id": "penguin",
     "name": "Penguin",
     "store": "https://store.penguin.gg/",
+    "description": "Play Survival and Skyblock on Penguin.",
     "addresses": [
         "penguin.gg"
     ],

@@ -2,6 +2,7 @@
     "id": "mazerclub",
     "name": "MazerClub",
     "store": "https://store.mazerclub.com/",
+    "description": "Play Survival, PvP, and more on MazerClub.",
     "addresses": [
         "mazerclub.com"
     ],

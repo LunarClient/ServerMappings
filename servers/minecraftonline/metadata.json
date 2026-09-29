@@ -3,6 +3,7 @@
     "name": "MinecraftOnline",
     "website": "https://minecraftonline.com",
     "store": "https://minecraftonline.com/donate.html",
+    "description": "MinecraftOnline is the oldest Minecraft server online, hosting Freedonia.",
     "addresses": [
         "minecraftonline.com"
     ],

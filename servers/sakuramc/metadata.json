@@ -2,6 +2,7 @@
     "id": "sakuramc",
     "name": "Sakura Network",
     "store": "https://tienda.sakuramc.co/",
+    "description": "Play PvP, PvE, and more on Sakura Network.",
     "addresses": [
         "sakuramc.co"
     ],

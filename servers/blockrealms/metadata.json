@@ -1,22 +1,21 @@
 {
     "id": "blockrealms",
     "name": "BlockRealms",
+    "website": "https://www.blockrealms.net",
+    "store": "https://store.blockrealms.net",
     "description": "Minecraft OneBlock and SMP Network",
     "addresses": [
         "blockrealms.net"
     ],
     "primaryAddress": "blockrealms.net",
+    "primaryColor": "#FFC727",
+    "secondaryColor": "#E040FB",
     "minecraftVersions": [
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "primaryColor": "#FFC727",
-    "secondaryColor": "#E040FB",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
@@ -25,20 +24,21 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "gameTypes": [
         "PvE",
         "Survival",
         "Skyblock"
     ],
-    "website": "https://www.blockrealms.net",
-    "store": "https://store.blockrealms.net",
+    "socials": {
+        "discord": "https://discord.gg/blockrealms"
+    },
     "compliance": {
         "privacyPolicy": "https://store.blockrealms.net/terms/privacy",
         "termsOfService": "https://store.blockrealms.net/terms/checkout",
         "rules": "https://store.blockrealms.net/rules"
-    },
-    "socials": {
-        "discord": "https://discord.gg/blockrealms"
-    },
-    "crossplay": true
+    }
 }

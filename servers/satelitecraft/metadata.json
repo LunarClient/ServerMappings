@@ -1,0 +1,54 @@
+{
+    "id": "satelitecraft",
+    "name": "SateliteCraft",
+    "description": "Spanish survival network with Skywars, CTW, BedWars and Creative.",
+    "addresses": [
+        "satelitecraft.com"
+    ],
+    "primaryAddress": "mc.satelitecraft.com",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#16A2A2",
+    "secondaryColor": "#FFAA00",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "Creative",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "store": "https://tienda.satelitecraft.com",
+    "socials": {
+        "discord": "https://discord.com/invite/qCRZ6JMUnq",
+        "twitter": "satelitecraft",
+        "youtube": "@satelitecraft",
+        "instagram": "satelitecraft",
+        "facebook": "satelitecraft",
+        "reddit": "satelitecraft",
+        "tiktok": "@satelitecraft"
+    },
+    "crossplay": true,
+    "offline": true
+}

@@ -3,6 +3,7 @@
     "name": "VirtualHit Network",
     "website": "https://virtualhit.es/",
     "store": "https://tienda.virtualhit.es/",
+    "description": "Minecraft server dedicated to providing the best user experience.",
     "addresses": [
         "virtualhit.es"
     ],

@@ -2,6 +2,7 @@
     "id": "redeforce",
     "name": "Force Network",
     "store": "http://loja.redeforce.net",
+    "description": "Rise through the ranks on Force Network.",
     "addresses": [
         "redeforce.net"
     ],

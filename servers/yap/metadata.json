@@ -1,6 +1,7 @@
 {
     "id": "yap",
     "name": "Yap",
+    "description": "Play Prison, Roleplay, and more on Yap.",
     "addresses": [
         "yap.best"
     ],

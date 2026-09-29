@@ -1,0 +1,27 @@
+{
+  "id": "leafsmp",
+  "name": "LeafSMP",
+  "description": "Enter the world of LeafSMP and play with your friends!",
+  "addresses": [
+    "leafsmp.us"
+  ],
+  "primaryAddress": "leafsmp.us",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "primaryColor": "#2ecc71",
+  "secondaryColor": "#27ae60",
+  "primaryLanguage": "it",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ]
+}

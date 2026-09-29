@@ -1,0 +1,26 @@
+{
+  "id": "ljkits",
+  "name": "LJKITS",
+  "description": "Competitive 1.8 Soup PvP with an Elo ranking and a monthly cash prize.",
+  "addresses": ["ljkits.eu"],
+  "primaryAddress": "mc.ljkits.eu",
+  "gameTypes": ["Soup PvP", "PvP", "Competitive"],
+  "primaryGameType": "Soup PvP",
+  "primaryColor": "#FDC003",
+  "secondaryColor": "#FE9301",
+  "minecraftVersions": ["1.8.9", "1.12.2", "1.16.5", "1.17.1", "1.18.2", "1.19.4", "1.20.1", "1.20.4", "1.20.6", "1.21.1"],
+  "primaryMinecraftVersion": "1.8.9",
+  "languages": ["fr"],
+  "primaryLanguage": "fr",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://ljkits.eu",
+  "store": "https://ljkits.eu/boutique",
+  "socials": {
+    "discord": "https://discord.gg/ljkits"
+  },
+  "compliance": {
+    "rules": "https://ljkits.eu/reglement"
+  },
+  "crossplay": false
+}

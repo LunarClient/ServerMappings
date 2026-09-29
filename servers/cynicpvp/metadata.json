@@ -2,6 +2,7 @@
     "id": "cynicpvp",
     "name": "CynicPvP",
     "store": "https://store.cynicpvp.org",
+    "description": "Play PvP and HCF on CynicPvP.",
     "addresses": [
         "cynicpvp.org"
     ],

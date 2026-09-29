@@ -11,15 +11,6 @@
     "primaryAddress": "mc.minebone.net",
     "primaryColor": "#555555",
     "secondaryColor": "#AAAAAA",
-    "primaryRegion": "EU",
-    "regions": [
-        "EU",
-        "SA"
-    ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN"
-    ],
     "minecraftVersions": [
         "1.12.*",
         "1.16.*",
@@ -30,6 +21,15 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.10",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "gameTypes": [
         "Survival"
     ],
@@ -42,5 +42,4 @@
         "rules": "https://wiki.minebone.net/reglas/",
         "support": "https://dc.minebone.net"
     }
-
 }

@@ -1,0 +1,30 @@
+{
+    "id": "eternalnetwork",
+    "name": "Eternal Network",
+    "description": "OP Prison with deep progression, custom enchants, and a unique feel.",
+    "website": "https://eternalnetwork.club/",
+    "store": "https://store.eternalnetwork.club/",
+    "addresses": [
+        "eternalnetwork.club"
+    ],
+    "primaryAddress": "play.eternalnetwork.club",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#55FF55",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": ["NA"],
+    "primaryLanguage": "en",
+    "languages": ["en"],
+    "gameTypes": [
+        "Prison"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/eternalnetwork"
+    }
+}

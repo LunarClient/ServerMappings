@@ -1,0 +1,34 @@
+{
+    "id": "aotsmp",
+    "name": "AotSMP",
+    "website": "https://store.aotsmp.net/",
+    "store": "https://store.aotsmp.net/",
+    "description": "Survival SMP on a custom Folia fork, with events, quests and crates.",
+    "addresses": [
+        "aotsmp.net"
+    ],
+    "primaryAddress": "aotsmp.net",
+    "primaryColor": "#F66C31",
+    "secondaryColor": "#2B1B12",
+    "minecraftVersions": [
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/aotsmp"
+    }
+}

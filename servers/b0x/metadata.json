@@ -1,33 +1,33 @@
 {
-  "id": "b0x",
-  "name": "B0X",
-  "description": "Minecraft network: Minigames, UHC, and Roleplay.",
-  "addresses": [
-    "b0x.us"
-  ],
-  "primaryAddress": "b0x.us",
-  "minecraftVersions": [
-    "1.7.10",
-    "1.8.9",
-    "1.12.2",
-    "1.16.5",
-    "1.17.1",
-    "1.18.2",
-    "1.19.4",
-    "1.20.2",
-    "1.21.11"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#FF4DA6",
-  "secondaryColor": "#0B1020",
-  "primaryRegion": "NA",
-  "regions": [
-    "NA"
-  ],
-  "gameTypes": [
-    "Minigames",
-    "UHC",
-    "Roleplay"
-  ],
-  "crossplay": false
+    "id": "b0x",
+    "name": "B0X",
+    "description": "Minecraft network: Minigames, UHC, and Roleplay.",
+    "addresses": [
+        "b0x.us"
+    ],
+    "primaryAddress": "b0x.us",
+    "primaryColor": "#FF4DA6",
+    "secondaryColor": "#0B1020",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.2",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "UHC",
+        "Roleplay"
+    ]
 }

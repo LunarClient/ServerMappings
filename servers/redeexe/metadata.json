@@ -2,6 +2,7 @@
     "id": "redeexe",
     "name": "EXE",
     "store": "https://loja.rede-exe.com",
+    "description": "Play PvP and Prison on EXE.",
     "addresses": [
         "rede-exe.com"
     ],

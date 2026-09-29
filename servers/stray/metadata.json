@@ -26,8 +26,12 @@
         "en",
         "es-EN"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
-        "PvP"
+        "Practice",
+        "PvP",
+        "Competitive",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/stray"

@@ -1,0 +1,33 @@
+{
+  "id": "skycube",
+  "name": "Skycube Network",
+  "description": "The Skycube Network",
+  "store": "https://store.skycube.gg",
+  "addresses": [
+    "skycube.gg",
+    "skycube.fun"
+  ],
+  "gameTypes": [
+    "Skyblock",
+    "Survival",
+    "Adventure"
+  ],
+  "primaryAddress": "skycube.gg",
+  "primaryColor": "#2FADFF",
+  "secondaryColor": "#FBFBFB",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.10",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "NA"
+  ],
+  "crossplay": true,
+  "socials": {
+    "discord": "https://discord.com/invite/skycube"
+  }
+}

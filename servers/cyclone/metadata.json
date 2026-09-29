@@ -2,6 +2,7 @@
     "id": "cyclone",
     "name": "Cyclone Network",
     "store": "https://store.cyclonee.cc/",
+    "description": "Play HCF and PvP on Cyclone Network.",
     "addresses": [
         "cyclonee.cc"
     ],

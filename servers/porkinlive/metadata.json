@@ -1,6 +1,7 @@
 {
     "id": "porkinlive",
     "name": "Porkin Live",
+    "description": "Play Minigames and Survival on Porkin Live.",
     "addresses": [
         "porkin.live"
     ],

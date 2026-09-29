@@ -1,6 +1,7 @@
 {
     "id": "kanao",
     "name": "Kanao",
+    "description": "Play UHC, Minigames, and more on Kanao.",
     "addresses": [
         "kanao.fr"
     ],

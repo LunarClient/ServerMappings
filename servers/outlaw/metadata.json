@@ -2,6 +2,7 @@
     "id": "outlaw",
     "name": "Outlaw Network",
     "store": "https://store.outlaw.land/",
+    "description": "Play Survival and PvP on Outlaw Network.",
     "addresses": [
         "outlaw.land"
     ],

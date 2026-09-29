@@ -2,6 +2,7 @@
     "id": "minefun",
     "name": "MineFun Network",
     "store": "https://tienda.minefun.net/",
+    "description": "Play Survival and PvP on MineFun Network.",
     "addresses": [
         "minefun.net"
     ],

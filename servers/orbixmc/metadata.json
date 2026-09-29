@@ -1,0 +1,46 @@
+{
+    "id": "orbixmc",
+    "name": "OrbixMC",
+    "description": "Minecraft Prisons Server",
+    "addresses": [
+        "orbixmc.com",
+        "orbixmc.net",
+        "orbixmc.org"
+    ],
+    "primaryAddress": "play.orbixmc.com",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.6",
+    "primaryColor": "#007cff",
+    "secondaryColor": "#00458f",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison"
+    ],
+    "website": "https://orbixmc.com",
+    "store": "https://store.orbixmc.com",
+    "compliance": {
+        "rules": "https://orbixmc.com/rules"
+    },
+    "socials": {
+        "twitter": "playorbix",
+        "instagram": "playorbix",
+        "discord": "https://discord.gg/orbixmc",
+        "tiktok": "@playorbix",
+        "youtube": "@playorbix"
+    },
+    "crossplay": true
+}

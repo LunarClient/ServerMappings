@@ -2,6 +2,7 @@
     "id": "spacefun",
     "name": "SpaceFun",
     "website": "https://spacefun.pl",
+    "description": "Explore the open world on SpaceFun.",
     "addresses": [
         "spacefun.pl"
     ],

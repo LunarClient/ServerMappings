@@ -2,6 +2,7 @@
     "id": "elixirmc",
     "name": "ElixirMC",
     "store": "https://tienda.elixirmc.org/",
+    "description": "Play PvP, PvE, and more on ElixirMC.",
     "addresses": [
         "elixirmc.org"
     ],

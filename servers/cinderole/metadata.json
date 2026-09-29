@@ -1,0 +1,36 @@
+{
+    "id": "cinderole",
+    "name": "Cinderole",
+    "description": "A roleplay server full of cool adventures",
+    "addresses": [
+        "cinderole.com"
+    ],
+    "primaryAddress": "cinderole.com",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#a04fd6",
+    "secondaryColor": "#d565f7",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Roleplay"
+    ],
+    "store": "https://cinderole.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/UUFenb557J"
+    }
+}

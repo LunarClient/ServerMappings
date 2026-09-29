@@ -1,0 +1,32 @@
+{
+    "id": "sensmp",
+    "name": "SenSMP",
+    "website": "https://sensmp.eu/",
+    "store": "https://store.sensmp.eu",
+    "description": "The Best CZ/SK SMP",
+    "addresses": [
+        "sensmp.eu"
+    ],
+    "primaryAddress": "mc.sensmp.eu",
+    "primaryColor": "#00c7ee",
+    "secondaryColor": "#4bcfe9",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jSvNTKgdM9"
+    }
+}

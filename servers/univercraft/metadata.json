@@ -1,0 +1,29 @@
+{
+  "id": "univercraft",
+  "name": "UniverCraft",
+  "description": "A custom survival and adventure network with immersive gameplay.",
+  "website": "https://univercraft.com",
+  "addresses": [
+    "univercraft.com"
+  ],
+  "primaryAddress": "play.univercraft.com",
+  "primaryColor": "#4cc9f0",
+  "secondaryColor": "#7c4dff",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Adventure",
+    "PvP"
+  ],
+  "crossplay": false,
+  "socials": {
+    "discord": "https://discord.gg/BubZmzne3Q"
+  }
+}

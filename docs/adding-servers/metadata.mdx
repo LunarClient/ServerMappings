@@ -39,9 +39,46 @@ The `primaryAddress` in each server object is for users to connect to your serve
 
 ### Game Types
 
-Game types help identify the style of games that your server will offer to player. The following are games you may include: `PvP`, `PvE`, `HCF`, `Factions`, `Minigames`, `Skyblock`, `Parkour`, `UHC`, `Hardcore`, `Survival`, `Open World`, `Prison`, `Creative`, `Roleplay`, `Adventure`, and `Pixelmon`.
+Game types help identify the style of games that your server will offer to player. You may include any of the following:
 
-You can select up to `3` game types, choose the game types that represent your server the best.
+-   `Adventure`: Curated maps with quests, puzzles, and bosses to play through, rather than an open sandbox.
+-   `Anarchy`: No rules and no land claims. Griefing, stealing, and PvP are all fair game.
+-   `BoxPvP`: Mine regenerating ores inside a closed arena to buy better gear and fight other players.
+-   `Casual`: Relaxed, low-stakes play for people who just want to hang out.
+-   `Cobblemon`: Catch, train, and battle Pokémon with the Cobblemon mod, a newer and lighter alternative to Pixelmon.
+-   `Competitive`: Skill-based play with rankings, ELO, and tournaments.
+-   `Creative`: Unlimited blocks and flight for building, usually on your own plot.
+-   `Crystal PvP`: PvP built around placing and instantly detonating End Crystals, countered with totems.
+-   `Earth`: Survival on a scaled map of the real world, usually paired with Towny.
+-   `Factions`: Form a faction, claim land, and raid rival factions for their loot.
+-   `FTB`: Modded servers running Feed The Beast's tech and magic modpacks.
+-   `Hardcore`: One life. Dying gets you banned, either for a set time or for good.
+-   `HCF`: Hardcore Factions, adding deathbans and the DTR (Deaths Till Raidable) system on top of regular Factions.
+-   `KitPvP`: Pick a kit and drop straight into the fight in shared arenas.
+-   `Lifesteal`: Take a heart from anyone you kill, lose one when you die, and get banned at zero.
+-   `Minigames`: A rotation of short games like BedWars, SkyWars, and Build Battle.
+-   `MMORPG`: Classes, levels, quests, and dungeons in a large persistent world.
+-   `Modded`: Anything running mods through Forge, Fabric, or NeoForge.
+-   `OneBlock`: Where you mine a single block that keeps regenerating through new phases.
+-   `Open World`: Large, free-roam worlds with no instanced rounds or arenas.
+-   `Parkour`: Jump courses that test your movement and timing, with checkpoints and times to beat.
+-   `Pixelmon`: The original Forge Pokémon mod, with gyms, breeding, and full 3D models.
+-   `Practice`: Ranked and unranked duels for sharpening your PvP across different kits.
+-   `Prison`: Mine, sell, and rank up from A to Z, often with prestiges beyond.
+-   `PvE`: Player versus environment. PvP is disabled, so it's you and others against the world.
+-   `PvP`: Player versus player, where combat between players is the focus.
+-   `Roleplay`: Players act out characters and stories together, backed by lore and custom plugins.
+-   `Skyblock`: Start on a small floating island and expand it without falling into the void.
+-   `Soup PvP`: PvP where you heal by right-clicking mushroom soup instead of using potions.
+-   `Survival`: The core Minecraft loop of gathering, crafting, and surviving from nothing.
+-   `Towny`: Build towns and nations with the Towny plugin, with claimed land and a shared economy.
+-   `Tycoon`: Buy generators and factories that passively earn money, then reinvest to scale up.
+-   `UHC`: Ultra Hardcore. Natural regeneration is off, so you only heal with golden apples and potions.
+-   `Vanilla`: Plain, unmodified Minecraft with no gameplay-changing mods or plugins.
+
+You can select as many game types as you'd like, choose the ones that best represent your server.
+
+The `primaryGameType` is the single game type that best represents your server, and must be one of the values in your `gameTypes` array. If you don't set it, the first entry in `gameTypes` is used.
 
 ### Colors
 
@@ -150,3 +187,7 @@ You can provide important legal and community links under the `compliance` key.
 ### Crossplay
 
 If your server supports crossplay _(allowing **Minecraft: Bedrock Edition** players to join)_, include the boolean `crossplay` set to `true`.
+
+### Offline
+
+If your server accepts offline connections, include the boolean `offline` set to `true`.

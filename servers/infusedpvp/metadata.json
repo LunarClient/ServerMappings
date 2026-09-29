@@ -1,12 +1,12 @@
 {
     "id": "infusedpvp",
     "name": "InfusedPvP",
-    "store": "https://store.infusedpvp.org/",
+    "store": "https://store.infusedpvp.xyz/",
     "description": "A casual faction server.",
     "addresses": [
-        "infusedpvp.org"
+        "infusedpvp.xyz"
     ],
-    "primaryAddress": "play.infusedpvp.org",
+    "primaryAddress": "play.infusedpvp.xyz",
     "primaryColor": "#B827ED",
     "secondaryColor": "#C17EDA",
     "minecraftVersions": [

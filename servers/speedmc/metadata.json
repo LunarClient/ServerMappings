@@ -2,6 +2,7 @@
     "id": "speedmc",
     "name": "SpeedMC Network",
     "store": "https://store.mc-speed.com/",
+    "description": "Play Survival and Prison on SpeedMC Network.",
     "addresses": [
         "mc-speed.com"
     ],

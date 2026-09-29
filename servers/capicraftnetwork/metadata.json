@@ -6,6 +6,8 @@
         "capicraft.us"
     ],
     "primaryAddress": "mc.capicraft.us",
+    "primaryColor": "#ff9b00",
+    "secondaryColor": "#ffe300",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -17,17 +19,16 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21",
-    "primaryColor": "#ff9b00",
-    "secondaryColor": "#ffe300",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA",
         "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
     ],
     "gameTypes": [
         "Skyblock",
@@ -44,6 +45,5 @@
         "https://minecraft.buzz/server/15500",
         "https://best-minecraft-servers.co/server-capicraft.29994",
         "https://minecraft-serverlist.com/server/2929"
-    ],
-    "crossplay": true
+    ]
 }

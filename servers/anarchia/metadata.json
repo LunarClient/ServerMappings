@@ -3,11 +3,13 @@
     "name": "Anarchia",
     "website": "https://anarchia.gg/",
     "store": "https://anarchia.gg/shop",
+    "description": "Experience survival gameplay on Anarchia.",
     "addresses": [
         "anarchia.gg",
         "anarhia.gg"
     ],
     "primaryAddress": "anarchia.gg",
+    "offline": true,
     "primaryColor": "#f2f2f3",
     "secondaryColor": "#fef334",
     "minecraftVersions": [
@@ -24,8 +26,12 @@
     "languages": [
         "pl"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "BoxPvP",
+        "PvP",
+        "OneBlock"
     ],
     "socials": {
         "discord": "https://discord.com/invite/epnvKD6gHs",

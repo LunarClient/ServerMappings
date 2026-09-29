@@ -1,12 +1,12 @@
 {
     "id": "survify",
     "name": "Survify SurvivalOP",
-    "store": "https://tienda.survify.lat/",
+    "store": "https://tienda.survify.cc/",
     "description": "An SurvivalOP competitive server.",
     "addresses": [
-        "survify.lat"
+        "survify.cc"
     ],
-    "primaryAddress": "survify.lat",
+    "primaryAddress": "survify.cc",
     "primaryColor": "#AA00AA",
     "secondaryColor": "#FF55FF",
     "minecraftVersions": [

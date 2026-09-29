@@ -2,6 +2,7 @@
     "id": "faypvp",
     "name": "FayPvP",
     "store": "https://store.faypvp.cc",
+    "description": "Test your combat skills on FayPvP.",
     "addresses": [
         "faypvp.cc"
     ],

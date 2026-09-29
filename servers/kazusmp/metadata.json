@@ -1,0 +1,37 @@
+{
+    "id": "kazusmp",
+    "name": "KazuSMP",
+    "description": "French anarchy SMP with pumpkin gardens, casino, crates and events.",
+    "addresses": [
+        "kazusmp.fr"
+    ],
+    "primaryAddress": "play.kazusmp.fr",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#E67E22",
+    "secondaryColor": "#131F3B",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Anarchy",
+        "PvP",
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://kazusmp.fr",
+    "store": "https://kazusmp.fr/#boutique",
+    "socials": {
+        "discord": "https://discord.gg/kazusmp"
+    },
+    "crossplay": false
+}

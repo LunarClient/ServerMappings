@@ -2,6 +2,7 @@
     "id": "carnagepvp",
     "name": "CarnagePvP",
     "store": "https://store.carnagepvp.me/",
+    "description": "Build your faction and conquer on CarnagePvP.",
     "addresses": [
         "carnagepvp.net",
         "carnagepvp.me"

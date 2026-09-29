@@ -2,6 +2,7 @@
     "id": "panic",
     "name": "PanicMC",
     "store": "https://store.panicmc.cc/",
+    "description": "Play HCF and PvP on PanicMC.",
     "addresses": [
         "panicmc.cc"
     ],

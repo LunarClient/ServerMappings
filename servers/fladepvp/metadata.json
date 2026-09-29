@@ -2,6 +2,7 @@
     "id": "fladepvp",
     "name": "Flade Network",
     "store": "https://store.fladepvp.cc",
+    "description": "Play PvP and UHC on Flade Network.",
     "addresses": [
         "fladepvp.cc"
     ],

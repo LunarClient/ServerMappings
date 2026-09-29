@@ -3,10 +3,12 @@
     "name": "BoxPvP Network",
     "website": "https://www.boxpvp.com/",
     "store": "http://store.boxpvp.net/",
+    "description": "Test your combat skills on BoxPvP Network.",
     "addresses": [
         "boxpvp.net"
     ],
     "primaryAddress": "play.boxpvp.net",
+    "offline": true,
     "primaryColor": "#f6ae12",
     "secondaryColor": "#0baedf",
     "minecraftVersions": [
@@ -20,8 +22,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "BoxPvP",
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "BoxPvP",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "http://discord.gg/boxpvp"

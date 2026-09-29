@@ -2,6 +2,7 @@
     "id": "floxinnet",
     "name": "FloxinNet",
     "store": "https://store.floxinnet.online",
+    "description": "Play Survival and PvP on FloxinNet.",
     "addresses": [
         "floxinnet.online"
     ],

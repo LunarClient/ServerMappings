@@ -1,6 +1,7 @@
 {
     "id": "terlogy",
     "name": "Terlogy Network",
+    "description": "Play exciting minigames on Terlogy Network.",
     "addresses": [
         "terlogy.net"
     ],
