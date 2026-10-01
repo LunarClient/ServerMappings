@@ -1,58 +1,59 @@
 {
     "id": "oceanmc",
     "name": "OceanMC",
+    "description": "Shop Survival minecraft server",
     "store": "https://store.oceanmc.net/",
     "addresses": [
-        "eu.oceanmc.net",
-        "west.oceanmc.net",
-        "east.oceanmc.net",
         "oceanmc.net"
+        
     ],
     "primaryAddress": "oceanmc.net",
     "primaryColor": "#1566E3",
     "secondaryColor": "#27ACF8",
     "minecraftVersions": [
         "1.21.*",
-        "26.*"
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
     ],
+
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
-    "primaryRegion": "EU-West",
+    "primaryRegion": "EU",
     "regions": [
-        "EU-West",
-        "NA-West",
-        "NA-East"
+        "EU",
+        "NA"
     ],
     "primaryLanguage": "en",
     "languages": [
         "en",
-        "es",
-        "fr",
-        "de",
-        "pt",
+        "es-EN",
         "it",
-        "nl",
-        "pl",
-        "sv",
-        "ru",
-        "uk",
         "tr",
         "ar",
-        "hi",
-        "th",
-        "vi",
-        "id",
-        "zh",
+        "zh-CN",
+        "nl",
+        "fr",
+        "de",
+        "el",
         "ja",
-        "ko"
+        "ko",
+        "lt",
+        "no",
+        "pl",
+        "pt-PT",
+        "pt-BR",
+        "sv-SE"
     ],
     "gameTypes": [
         "Survival"
     ],
     "socials": {
         "discord": "https://discord.com/invite/OceanMC",
-        "youtube": "https://www.youtube.com/@oceanmc_1",
-        "tiktok": "https://www.tiktok.com/@oceanmc.net"
+        "youtube": "@oceanmc_1",
+        "tiktok": "@oceanmc.net"
     }
 }
 
