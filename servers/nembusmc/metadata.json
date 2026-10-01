@@ -3,7 +3,7 @@
   "name": "NembusMC",
   "description": "Network Minecraft italiana Survival",
   "addresses": [
-    "play.nembusmc.it"
+    "nembusmc.it"
   ],
   "primaryAddress": "play.nembusmc.it",
   "minecraftVersions": [
@@ -21,9 +21,9 @@
     "EU"
   ],
   "gameTypes": [
-    "SMP"
+    "Survival"
   ],
-  "primaryGameType": "SMP",
+  "primaryGameType": "Survival",
   "website": "https://nembusmc.it",
   "crossplay": true
 }
