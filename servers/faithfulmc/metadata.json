@@ -1,9 +1,39 @@
 {
-    "id": "faithfulmc",
-    "name": "FaithfulMC",
-    "addresses": [
-        "faithfulmc.net"
+  "id": "faithfulmc",
+  "name": "faithfulmc",
+  "website": "https://faithfulmc.net",
+  "store": "https://store.faithfulmc.net/",
+  "description": "FaithfulMC Network.",
+  "addresses": [
+    "boompvp.com"
+  ],
+  "primaryAddress": "faithfulmc.net",
+  "primaryColor": "#FFAA00",
+  "secondaryColor": "#FFFF55",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "NA",
+    "regions": [
+        "AF",
+        "AS",
+        "EU",
+        "NA",
+        "OC",
+        "SA"
     ],
-    "primaryColor": "#d8ab7e",
-    "secondaryColor": "#38353a"
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryGameType": "HCF",
+  "gameTypes": [
+    "HCF",
+    "Kits"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/faithfulmc"
+  }
 }
