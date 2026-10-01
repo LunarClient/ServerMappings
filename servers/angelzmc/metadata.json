@@ -1,0 +1,19 @@
+{
+    "id": "angelzmc",
+    "name": "AngelzMC",
+    "description": "A pastel, angel-themed Minecraft survival multiplayer community.",
+    "addresses": [
+        "angelzmc.com"
+    ],
+    "primaryAddress": "hub.angelzmc.com",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "primaryColor": "#B784E3",
+    "secondaryColor": "#FFB3D4"
+}
