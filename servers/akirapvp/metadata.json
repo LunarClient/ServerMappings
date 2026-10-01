@@ -20,7 +20,7 @@
     ],
     "gameTypes": [
         "PvP",
-        "Kits",
+        "KitPvP",
         "HCF"
     ],
     "socials": {
