@@ -1,0 +1,27 @@
+{
+  "id": "runicmc",
+  "name": "RunicMC",
+  "description": "A modern Minecraft Generators server with progression, upgrades, custom content and competitive gameplay.",
+  "addresses": [
+    "runicmc.com"
+  ],
+  "primaryAddress": "runicmc.com",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Generators"
+  ],
+  "primaryGameType": "Generators",
+  "website": "https://runicmc.com",
+  "crossplay": false
+}
