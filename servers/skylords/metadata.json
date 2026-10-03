@@ -1,7 +1,7 @@
 {
   "id": "runicmc",
   "name": "RunicMC",
-  "description": "A modern Minecraft Generators server with progression, upgrades, custom content and competitive gameplay.",
+  "description": "A modern Minecraft generator server with progression and custom content.",
   "addresses": [
     "runicmc.com"
   ],
@@ -10,6 +10,12 @@
     "1.21.11"
   ],
   "primaryMinecraftVersion": "1.21.11",
+  "gameTypes": [
+    "Tycoon"
+  ],
+  "primaryGameType": "Tycoon",
+  "primaryColor": "#A63DFF",
+  "secondaryColor": "#E77BFF",
   "primaryLanguage": "en",
   "languages": [
     "en"
@@ -18,10 +24,6 @@
   "regions": [
     "NA"
   ],
-  "gameTypes": [
-    "Generators"
-  ],
-  "primaryGameType": "Generators",
   "website": "https://runicmc.com",
   "crossplay": false
 }
