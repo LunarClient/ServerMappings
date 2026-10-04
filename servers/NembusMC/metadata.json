@@ -1,7 +1,7 @@
 {
   "id": "nembusmc",
   "name": "NembusMC",
-  "description": "Italian Minecraft Network",
+  "description": "Network Minecraft Italian Server",
   "addresses": [
     "play.nembusmc.it"
   ],
@@ -9,9 +9,9 @@
   "minecraftVersions": [
     "1.21.*"
   ],
-  "primaryMinecraftVersion": "1.21",
-  "primaryColor": "#0066FF",
-  "secondaryColor": "#00BFFF",
+  "primaryMinecraftVersion": "1.21.10",
+  "primaryColor": "#5B8CFF",
+  "secondaryColor": "#8A5BFF",
   "primaryLanguage": "it",
   "languages": [
     "it"
@@ -21,12 +21,12 @@
     "EU"
   ],
   "gameTypes": [
-    "Survival",
-    "PvP"
+    "Survival"
   ],
+  "primaryGameType": "Survival",
   "website": "https://nembusmc.it",
   "socials": {
-    "discord": "https://discord.nembusmc.it/"
+    "discord": "https://discord.com/invite/Hs9ekR6bFv"
   },
   "crossplay": true
 }
