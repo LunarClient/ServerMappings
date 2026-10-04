@@ -1,11 +1,11 @@
 {
-  "id": "NembusMC",
+  "id": "nembusmc",
   "name": "NembusMC",
-  "description": "Network Minecraft Italian Server",
+  "description": "Network Minecraft italiana Survival",
   "addresses": [
-    "play.nembusmc.it"
+    "nembusmc.it"
   ],
-  "primaryAddress": "play.nembusmc.it",
+  "primaryAddress": "nembusmc.it",
   "minecraftVersions": [
     "1.21.*"
   ],
