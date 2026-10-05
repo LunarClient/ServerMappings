@@ -5,9 +5,7 @@
     "store": "https://ninario.fr/shop",
     "description": "Ninario is a Minecraft server offering mini-games, PvP (practice), and SMP!",
     "addresses": [
-        "ninar.io",
-        "pvp.ninar.io",
-        "mc.ninar.io"
+        "ninar.io"
     ],
     "primaryAddress": "ninar.io",
     "primaryColor": "#f73131",
