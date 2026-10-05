@@ -1,0 +1,31 @@
+{
+    "id": "dogeland",
+    "name": "Dogeland Network",
+    "description": "Vietnamese Survival SMP with lootboxes, daily quests, seasons and PvP events",
+    "addresses": [
+        "dogeland.vn"
+    ],
+    "primaryAddress": "play.dogeland.vn",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FFC107",
+    "secondaryColor": "#3B2A10",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://dogeland.vn",
+    "store": "https://dogeland.vn/store",
+    "socials": {
+        "discord": "https://discord.gg/fEkF3cSCBq"
+    },
+    "crossplay": false
+}

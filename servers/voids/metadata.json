@@ -1,0 +1,34 @@
+{
+    "id": "voids",
+    "name": "VoidSMP",
+    "description": "A arabic SMP lifesteal server.",
+    "addresses": [
+        "minetro.net"
+    ],
+    "primaryAddress": "voidsmp.minetro.net",
+    "primaryColor": "#9F2B68",
+    "secondaryColor": "#301934",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Lifesteal",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/KFYpc54qFv"
+    }
+}

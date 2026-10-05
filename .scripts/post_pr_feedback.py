@@ -20,7 +20,7 @@ import requests
 
 API_ROOT = "https://api.github.com"
 READY_LABEL = "Ready for review"
-RESULTS_FILE = "pr_results.json"
+RESULTS_FILE = os.environ["RESULTS_FILE"]
 
 
 def gh_request(method: str, path: str, token: str, **kwargs) -> requests.Response:
@@ -113,7 +113,7 @@ def build_review_body(errors: dict) -> str:
 
 
 def main() -> None:
-    token = os.environ["BOT_PAT"]
+    token = os.environ["GITHUB_TOKEN"]
     repo = os.environ["GITHUB_REPOSITORY"]
     head_sha = os.environ.get("WORKFLOW_RUN_HEAD_SHA", "")
     head_owner = os.environ.get("WORKFLOW_RUN_HEAD_OWNER", "")

@@ -1,7 +1,7 @@
 {
     "id": "coolcube",
     "name": "CoolCube",
-    "description": "Minecraft minigame server with French PvP",
+    "description": "French Minecraft minigame server with PvP-modes",
     "addresses": [
         "coolcube.fr"
     ],
