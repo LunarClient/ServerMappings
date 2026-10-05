@@ -1,11 +1,11 @@
 {
   "id": "nexornmc",
   "name": "NexornMC",
-  "description": "NEXORNMC - Únete a nuestra comunidad y disfruta de una experiencia única.",
+  "description": "NEXORNMC - Join our Minecraft community and enjoy a unique network experience",
   "addresses": [
-    "play.nexornmc.com"
+    "nexornmc.com"
   ],
-  "primaryAddress": "play.nexornmc.com",
+  "primaryAddress": "nexornmc.com",
   "offline": false,
   "primaryColor": "#EFD25B",
   "secondaryColor": "#FF9C1B",
@@ -21,7 +21,6 @@
   "regions": [
     "NA"
   ],
-  "primaryType": "Survival",
   "gameTypes": [
     "Survival"
   ],
