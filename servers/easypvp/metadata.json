@@ -1,0 +1,53 @@
+{
+    "id": "easypvp",
+    "name": "EasyPvP",
+    "description": "French UHC and PvP network: UHC, Werewolf, Practice and Skyblock",
+    "website": "https://easypvp.fr",
+    "store": "https://easypvp.tebex.store",
+    "addresses": [
+        "easypvp.fr"
+    ],
+    "primaryAddress": "play.easypvp.fr",
+    "primaryColor": "#00F0F0",
+    "secondaryColor": "#080789",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryGameType": "UHC",
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "Practice",
+        "Skyblock",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/8E5PF7N"
+    },
+    "votingLinks": [
+        "https://serveur-prive.net/minecraft/easypvp-4924"
+    ],
+    "compliance": {
+        "rules": "https://easypvp.fr/reglement.html"
+    }
+}
