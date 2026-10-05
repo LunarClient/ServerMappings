@@ -1,0 +1,41 @@
+{
+    "id": "pexal",
+    "name": "Pexal",
+    "description": "French minigames server with original PvP games.",
+    "addresses": [
+        "pexal.fun"
+    ],
+    "primaryAddress": "play.pexal.fun",
+    "minecraftVersions": [
+        "1.19.4",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#8B3FEF",
+    "secondaryColor": "#D185FC",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://pexal.fun",
+    "compliance": {
+        "rules": "https://pexal.fun/regles"
+    },
+    "socials": {
+        "discord": "https://discord.gg/NV2qSnqN32"
+    },
+    "crossplay": false
+}

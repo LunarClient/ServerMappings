@@ -1,0 +1,42 @@
+{
+    "id": "themodcraft",
+    "name": "TheModCraft Network",
+    "website": "https://themodcraft.net/",
+    "description": "A partially modded Minecraft network focused on building and MMO-style gameplay.",
+    "addresses": [
+        "themodcraft.net"
+    ],
+    "primaryAddress": "themodcraft.net",
+    "primaryColor": "#1f2937",
+    "secondaryColor": "#38bdf8",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.7.10",
+        "1.8.9",
+        "1.12.2",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Modded",
+        "Survival",
+        "MMORPG",
+        "Creative",
+        "Minigames"
+    ],
+    "primaryGameType": "MMORPG",
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.gg/zDEjckjqC6"
+    }
+}
