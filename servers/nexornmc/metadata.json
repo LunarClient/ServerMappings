@@ -1,13 +1,13 @@
 {
   "id": "nexornmc",
   "name": "NEXORNMC",
-  "description": "NEXORNMC - Servidor Survival de Minecraft. ¡Únete a nuestra comunidad y disfruta de una experiencia única!",
+  "description": "NEXORNMC - Únete a nuestra comunidad y disfruta de una experiencia única.",
   "addresses": [
     "nexornmc.com"
   ],
   "primaryAddress": "play.nexornmc.com",
   "offline": false,
-  "primaryColor": "#FFD25B",
+  "primaryColor": "#EFD25B",
   "secondaryColor": "#FF9C1B",
   "minecraftVersions": [
     "1.17.*",

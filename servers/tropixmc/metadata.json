@@ -1,0 +1,54 @@
+{
+    "id": "tropixmc",
+    "name": "TropixMC",
+    "description": "Tropical prison skyblock where fishing, mining and farming feed your gang",
+    "addresses": [
+        "tropixmc.net"
+    ],
+    "primaryAddress": "play.tropixmc.net",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#0DE2EC",
+    "secondaryColor": "#F0E33E",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "Skyblock"
+    ],
+    "primaryGameType": "Prison",
+    "website": "https://tropixmc.net",
+    "store": "https://store.tropixmc.net",
+    "wiki": "https://wiki.tropixmc.net",
+    "votingLinks": [
+        "https://minecraftservers.org/server/693114",
+        "https://minecraft-mp.com/server-s363898",
+        "https://minecraft-server-list.com/server/523316/",
+        "https://minecraft.buzz/server/tropixmc",
+        "https://minecraftbestservers.com/server-tropixmc.4566"
+    ],
+    "compliance": {
+        "rules": "https://rules.tropixmc.net"
+    },
+    "socials": {
+        "discord": "https://discord.gg/zRXKCD4DaX"
+    },
+    "crossplay": false
+}
