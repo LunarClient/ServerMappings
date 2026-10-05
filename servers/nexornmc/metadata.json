@@ -1,9 +1,9 @@
 {
   "id": "nexornmc",
-  "name": "NEXORNMC",
+  "name": "NexornMC",
   "description": "NEXORNMC - Únete a nuestra comunidad y disfruta de una experiencia única.",
   "addresses": [
-    "nexornmc.com"
+    "play.nexornmc.com"
   ],
   "primaryAddress": "play.nexornmc.com",
   "offline": false,
@@ -26,6 +26,6 @@
     "Survival"
   ],
   "socials": {
-    "discord": "https://discord.gg/xpeeNpZkcb"
+    "discord": "https://discord.gg/nexornmc"
   }
 }
