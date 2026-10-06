@@ -1,6 +1,5 @@
 {
     "id": "sypherox",
-<<<<<<< HEAD
     "name": "Sypherox.dev",
     "description": "SkyWars, Duels, SMP and more on Sypherox.dev",
     "addresses": ["sypherox.dev"],
@@ -9,19 +8,11 @@
         "1.21.11",
         "26.*"
     ],
-=======
-    "name": "Sypherox SMP",
-    "description": "A Survival Multiplayer experience on sypherox.dev",
-    "addresses": ["sypherox.dev"],
-    "primaryAddress": "sypherox.dev",
-    "minecraftVersions": ["1.21.1"],
->>>>>>> upstream/master
     "primaryMinecraftVersion": "1.21.1",
     "primaryColor": "#FF5555",
     "secondaryColor": "#AA0000",
     "primaryRegion": "EU",
     "regions": ["EU"],
-<<<<<<< HEAD
     "primaryLanguage": "en",
     "languages": [
         "en",
@@ -39,14 +30,6 @@
         "twitter": "Syphercx",
         "discord": "https://discord.com/invite/aG4QYP8u5p",
         "youtube": "Sypherox",
-        "twitch": "Sypherox",
-=======
-    "gameTypes": ["Survival"],
-    "crossplay": false,
-    "website": "https://sypherox.dev",
-    "socials": {
-        "discord": "https://discord.gg/aG4QYP8u5p",
         "twitch": "Sypherox"
->>>>>>> upstream/master
     }
 }
