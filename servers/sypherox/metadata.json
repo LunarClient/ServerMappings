@@ -6,9 +6,13 @@
     "primaryAddress": "sypherox.dev",
     "minecraftVersions": [
         "1.21.11",
-        "26.*"
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
     ],
-    "primaryMinecraftVersion": "1.21.1",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#FF5555",
     "secondaryColor": "#AA0000",
     "primaryRegion": "EU",
