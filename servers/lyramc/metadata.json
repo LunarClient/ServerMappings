@@ -1,0 +1,39 @@
+{
+    "id": "lyramc",
+    "name": "LyraMC",
+    "store": "https://store.lyramc.net",
+    "description": "Your new Home for Survival.",
+    "addresses": ["lyramc.net"],
+    "primaryAddress": "play.lyramc.net",
+    "primaryColor": "#F893CA",
+    "secondaryColor": "#F3D88F",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryLanguage": "en",
+    "languages": ["en"],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.com/invite/9dEpseEd5p",
+        "tiktok": "@lyramcnet"
+    },
+    "votingLinks": [
+        "https://topminecraftservers.org/server/42588",
+        "https://minecraft-server-list.com/server/517819/vote/",
+        "https://minecraftservers.org/server/682631",
+        "https://minecraftservers.co/server-lyramc.32159/vote",
+        "https://topg.org/minecraft-servers/server-678668",
+        "https://minecraft-mp.com/server/353198/vote/"
+    ]
+}

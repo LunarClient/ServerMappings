@@ -8,6 +8,7 @@
         "boxpvp.net"
     ],
     "primaryAddress": "play.boxpvp.net",
+    "offline": true,
     "primaryColor": "#f6ae12",
     "secondaryColor": "#0baedf",
     "minecraftVersions": [
@@ -21,8 +22,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "BoxPvP",
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "BoxPvP",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "http://discord.gg/boxpvp"

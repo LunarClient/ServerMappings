@@ -9,6 +9,7 @@
         "mineberry.net"
     ],
     "primaryAddress": "mc.mineberry.org",
+    "offline": true,
     "primaryColor": "#ecb94f",
     "secondaryColor": "#372826",
     "minecraftVersions": [
@@ -24,10 +25,12 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
         "Minigames",
-        "PvP"
+        "PvP",
+        "Anarchy"
     ],
     "socials": {
         "twitter": "mineberry_mc",

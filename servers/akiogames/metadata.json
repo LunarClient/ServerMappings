@@ -1,0 +1,35 @@
+{
+  "id": "akiogames",
+  "name": "AkioGames",
+  "description": "OP Survival and Gens featuring a unique economy, events, and ranks.",
+  "addresses": [
+    "akiogames.com"
+  ],
+  "primaryAddress": "mc.akiogames.com",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryColor": "#FC00F1",
+  "secondaryColor": "#8638FD",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA",
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Tycoon"
+  ],
+  "store": "https://tienda.akiogames.com",
+  "socials": {
+    "discord": "https://discord.com/invite/Yz4mbJprQf"
+  },
+  "crossplay": true,
+  "offline": true
+}

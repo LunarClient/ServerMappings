@@ -1,6 +1,7 @@
 {
     "id": "summoncraft",
     "name": "SummonCraft Network",
+    "description": "SummonCraft Network",
     "store": "https://store.summoncraft.xyz",
     "addresses": [
       "summoncraft.xyz",

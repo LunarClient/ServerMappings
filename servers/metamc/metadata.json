@@ -5,6 +5,7 @@
     "store": "https://store.metamc.it/",
     "description": "Italian Minecraft server: Vanilla War, Survival, Towny and Oasis.",
     "addresses": [
+        "metamc.net",
         "metamc.it",
         "flexdojo.it",
         "nexuscraft.it"
@@ -21,12 +22,13 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.19.3",
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Practice"
     ],
     "socials": {
         "discord": "https://discord.gg/metamc",

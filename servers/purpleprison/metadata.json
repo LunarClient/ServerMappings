@@ -11,7 +11,8 @@
         "purpleprison.org",
         "purpleore.net",
         "purpleprison.co",
-        "prisonfun.co"
+        "prisonfun.co",
+        "moxmc.net"
     ],
     "primaryAddress": "purpleprison.net",
     "primaryColor": "#d09bd9",
@@ -26,15 +27,18 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Prison",
     "gameTypes": [
-        "Prison"
+        "Prison",
+        "PvP"
     ],
     "socials": {
         "twitter": "PurplePrison",

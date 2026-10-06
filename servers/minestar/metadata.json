@@ -5,7 +5,8 @@
     "store": "https://minestar.pl/shop",
     "description": "Play Minigames, PvP, and more on MineStar.",
     "addresses": [
-        "minestar.pl"
+        "minestar.pl",
+        "minestar.gg"
     ],
     "primaryAddress": "minestar.pl",
     "primaryColor": "#ffc10c",
@@ -23,9 +24,14 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "PvP",
     "gameTypes": [
         "Minigames",
         "PvP",
+        "BoxPvP",
+        "Lifesteal",
+        "KitPvP",
+        "Practice",
         "Skyblock"
     ],
     "socials": {

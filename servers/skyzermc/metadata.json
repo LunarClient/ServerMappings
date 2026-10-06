@@ -1,0 +1,51 @@
+{
+    "id": "skyzermc",
+    "name": "SkyzerMC",
+    "website": "https://skyzermc.com.br",
+    "store": "https://skyzermc.com.br",
+    "description": "A server designed for you!",
+    "addresses": [
+        "skyzermc.com.br",
+        "skyzermc.com",
+        "skyzermc.net"
+    ],
+    "primaryAddress": "skyzermc.com.br",
+    "primaryColor": "#9916d8",
+    "secondaryColor": "#ed30ed",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "offline": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "PvP",
+        "Practice",
+        "Competitive",
+        "Minigames"
+    ],
+    "socials": {
+        "twitter": "SkyzerMC",
+        "discord": "https://discord.gg/RQWMeKCMtt",
+        "instagram": "skyzermc",
+        "tiktok": "@noleexy",
+        "youtube": "@Ebenezer_77"
+    },
+    "presentationVideo": "s68ObgOr25s"
+}

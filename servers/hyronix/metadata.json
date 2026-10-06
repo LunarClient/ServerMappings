@@ -1,0 +1,33 @@
+{
+    "id": "hyronix",
+    "name": "Hyronix",
+    "description": "Next-generation Minecraft survival experience",
+    "addresses": [
+        "hyronix.cz"
+    ],
+    "primaryAddress": "mc.hyronix.cz",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#A542FF",
+    "secondaryColor": "#c797ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "website": "https://www.hyronix.cz/",
+    "store": "https://www.hyronix.cz/obchod",
+    "socials": {
+        "discord": "https://discord.com/invite/z29FZajvEA"
+    },
+    "crossplay": false
+}

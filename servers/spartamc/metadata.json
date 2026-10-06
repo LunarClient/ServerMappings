@@ -1,7 +1,7 @@
 {
     "id": "spartamc",
     "name": "SpartaMC",
-    "store": "https://loja.spartamc.com.br",
+    "store": "https://spartamc.com.br",
     "description": "The best Bedwars gameplay: fast and flawless",
     "addresses": [
         "spartamc.com.br"
@@ -23,6 +23,6 @@
         "Minigames"
     ],
     "socials": {
-        "discord": "https://discord.gg/pujwNB66Nt"
+        "discord": "https://discord.gg/spartamc"
     }
 }

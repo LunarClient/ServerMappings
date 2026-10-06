@@ -1,0 +1,39 @@
+{
+    "id": "melvin501",
+    "name": "Melvin501",
+    "description": "Your Minigame Event Hosting Server",
+    "addresses": [
+        "melvin501.de"
+    ],
+    "primaryAddress": "melvin501.de",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#bc57c1",
+    "secondaryColor": "#c7c7c7",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "website": "https://melvin501.de",
+    "store": "https://shop.melvin501.de/",
+    "compliance": {
+        "privacyPolicy": "https://melvin501.de/other/datenschutz-erklaerung",
+        "rules": "http://melvin501.de/regelwerk"
+    },
+    "socials": {
+        "discord": "https://discord.gg/vwmMusV"
+    },
+    "crossplay": false
+}

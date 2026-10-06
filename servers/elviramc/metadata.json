@@ -1,0 +1,33 @@
+{
+    "id": "elviramc",
+    "name": "ElviraMC",
+    "description": "The ultimate PvP-Enchant resurrection.",
+    "website": "https://elviramc.tebex.io/",
+    "addresses": [
+        "elviramc.dev"
+    ],
+    "primaryAddress": "mc.elviramc.dev",
+    "primaryColor": "#FFA233",
+    "secondaryColor": "#FFB55A",
+    "gameTypes": [
+        "PvP"
+    ],
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "crossplay": false,
+    "socials": {
+        "discord": "https://discord.com/invite/U6dNMz3gXk"
+    }
+}

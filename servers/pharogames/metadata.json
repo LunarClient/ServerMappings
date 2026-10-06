@@ -1,0 +1,42 @@
+{
+    "id": "pharogames",
+    "name": "PharoGames",
+    "description": "Competitive Minecraft minigames: HungerGames, SkyWars, TurfWars and more",
+    "addresses": [
+        "pharogames.net"
+    ],
+    "primaryAddress": "play.pharogames.net",
+    "minecraftVersions": [
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#00E5FF",
+    "secondaryColor": "#A76BFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://pharogames.net",
+    "store": "https://pharogames.net/store",
+    "compliance": {
+        "privacyPolicy": "https://pharogames.net/privacy",
+        "termsOfService": "https://pharogames.net/terms",
+        "rules": "https://pharogames.net/rules",
+        "support": "https://pharogames.net/support"
+    },
+    "socials": {
+        "twitter": "pharogames",
+        "discord": "https://discord.gg/u3RwhRBwv3"
+    },
+    "crossplay": false
+}

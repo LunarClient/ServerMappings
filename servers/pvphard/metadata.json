@@ -1,0 +1,28 @@
+{
+    "id": "pvphard",
+    "name": "PvPHard",
+    "store": "https://loja.pvphard.live",
+    "description": "The best Practice server",
+    "addresses": [
+        "pvphard.live"
+    ],
+    "primaryAddress": "pvphard.live",
+    "primaryColor": "#421aff",
+    "secondaryColor": "#0210af",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/HwkH84s83d"
+    }
+}

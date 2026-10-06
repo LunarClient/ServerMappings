@@ -1,31 +1,48 @@
+ 
 {
     "id": "certix",
-    "name": "Certix Network",
-    "website": "https://www.certix.cc/index.php",
+    "name": "Certix",
+    "website": "https://certix.cc/",
     "store": "https://store.certix.cc/",
-    "description": "Play PvP and UHC on Certix Network.",
+    "description": "The supreme Minecraft network: Survival, Skyblock, Prisons",
     "addresses": [
         "certix.cc"
     ],
     "primaryAddress": "certix.cc",
-    "primaryColor": "#695bab",
-    "secondaryColor": "#020104",
+    "primaryColor": "#9B30FF",
+    "secondaryColor": "#FF55FF",
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
         "1.12.*",
-        "1.16.*"
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "PvP",
-        "UHC"
+        "Skyblock",
+        "Survival",
+        "Prison", 
+        "Cobblemon", 
+        "PvE", 
+        "Competitive", 
+        "Casual"
     ],
     "socials": {
-        "twitter": "certixcc",
-        "discord": "https://discord.com/invite/DFu6mey"
+        "twitter": "CertixCC",
+        "discord": "https://discord.gg/certix",
+        "youtube": "@CertixCC"
     }
 }

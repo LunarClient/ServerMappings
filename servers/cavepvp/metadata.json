@@ -24,10 +24,12 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "HCF",
     "gameTypes": [
         "HCF",
         "PvP",
-        "Skyblock"
+        "Skyblock",
+        "KitPvP"
     ],
     "socials": {
         "twitter": "CavePvPorg",

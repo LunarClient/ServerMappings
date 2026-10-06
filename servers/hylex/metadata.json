@@ -23,6 +23,7 @@
     ],
     "primaryMinecraftVersion": "1.21.5",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "SA",
     "regions": [
         "SA"
@@ -32,9 +33,11 @@
         "pt-BR",
         "pt-PT"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
         "PvP",
+        "Factions",
         "Roleplay"
     ],
     "socials": {

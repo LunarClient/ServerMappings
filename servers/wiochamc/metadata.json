@@ -1,0 +1,39 @@
+{
+  "id": "wiochamc",
+  "name": "WiochaMC",
+  "description": "A survival EarthSMP focused on nations and community.",
+  "addresses": [
+    "wiochamc.pl"
+  ],
+  "primaryAddress": "wiochamc.pl",
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "primaryColor": "#DBA253",
+  "secondaryColor": "#FFF787",
+  "minecraftVersions": [
+    "1.21.*",
+		"26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "pl"
+  ],
+  "primaryLanguage": "pl",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://wiochamc.pl",
+  "wiki": "https://wiki.wiochamc.pl",
+  "socials": {
+    "discord": "https://discord.com/invite/N3cRshhRu2",
+    "youtube": "@WiochaMCpl",
+    "tiktok": "@wiochamc"
+  },
+  "votingLinks": [
+    "https://www.mclist.pl/serwer/wiochamc.pl"
+  ]
+}

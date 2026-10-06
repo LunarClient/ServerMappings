@@ -1,0 +1,32 @@
+{
+    "id": "mexxworld",
+    "name": "MexxWorld",
+    "website": "https://mexxworld.org/",
+    "store": "https://mexxworld.org/#shop",
+    "description": "Play ClashQuest on MexxWorld.",
+    "addresses": [
+        "mexxworld.org"
+    ],
+    "primaryAddress": "mc.mexxworld.org",
+    "primaryColor": "#8b5cf6",
+    "secondaryColor": "#0f172a",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival",
+        "Adventure"
+    ],
+    "primaryGameType": "PvP",
+    "crossplay": false,
+    "socials": {
+        "telegram": "mexxworld",
+        "discord": "https://discord.gg/NsHGwzvJvT"
+    }
+}

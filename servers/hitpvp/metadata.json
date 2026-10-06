@@ -1,0 +1,63 @@
+{
+    "id": "hitpvp",
+    "name": "HitPvP Network",
+    "description": "HitPvP Network - A new way to play PvP! 1.8 & modern combat, online rankings.",
+    "addresses": [
+        "hitpvp.net"
+    ],
+    "primaryAddress": "hitpvp.net",
+    "primaryColor": "#ff1822",
+    "secondaryColor": "#ffe700",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "PvP",
+    "gameTypes": [
+        "PvP",
+        "KitPvP",
+        "Competitive",
+        "Crystal PvP"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "website": "https://www.hitpvp.net",
+    "store": "https://tienda.hitpvp.net",
+    "compliance": {
+        "termsOfService": "https://tienda.hitpvp.net/terminos/",
+        "support": "https://discord.gg/5vwjZ2K2A9"
+    },
+    "socials": {
+        "discord": "https://discord.gg/5vwjZ2K2A9",
+        "twitter": "HitpvpMC",
+        "youtube": "@Hitpvpmc",
+        "tiktok": "@hitpvpmc",
+        "instagram": "hitpvpmc"
+    },
+    "crossplay": false,
+    "offline": true,
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#150204",
+            "upperColor": "#3d080c"
+        }
+    }
+}

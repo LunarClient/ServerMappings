@@ -1,0 +1,33 @@
+{
+    "id": "sharksmp",
+    "name": "SharkSMP",
+    "description": "Play Survival on the SharkSMP",
+    "addresses": [
+        "sharksmp.net"
+    ],
+    "primaryAddress": "sharksmp.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#01AFFF",
+    "secondaryColor": "#80d7ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://store.sharksmp.net",
+    "socials": {
+        "discord": "https://discord.gg/sharksmp"
+    },
+    "crossplay": true
+}

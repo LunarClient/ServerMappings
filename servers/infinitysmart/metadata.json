@@ -1,16 +1,19 @@
 {
     "id": "infinitysmart",
     "name": "Infinity Smart",
-    "website": "https://infinitysmart.eu/",
-    "store": "https://store.infinitysmart.eu/",
-    "description": "Play Minigames and Survival on Infinity Smart.",
+    "description": "Crossplay network from 1.7 to latest, Java & Bedrock",
+    "website": "https://www.infinitysmart.eu",
+    "store": "https://www.infinitysmart.eu/store",
     "addresses": [
         "infinitysmart.eu"
     ],
     "primaryAddress": "play.infinitysmart.eu",
     "primaryColor": "#3a0c57",
     "secondaryColor": "#808589",
+    "primaryRegion": "EU",
+    "regions": ["EU"],
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
@@ -18,14 +21,22 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "offline": true,
     "gameTypes": [
         "Minigames",
-        "Survival"
+        "Survival",
+        "Adventure"
     ],
+    "primaryGameType": "Minigames",
     "socials": {
-        "discord": "https://discord.com/invite/thfPJ7QAPJ"
+        "discord": "https://discord.gg/pvKPgBHYVZ",
+        "instagram": "infinitysmart.mc",
+        "youtube": "UC2E0DyNbme4NBMcOoA8mBrQ"
     }
 }

@@ -1,0 +1,33 @@
+{
+    "id": "zasmp",
+    "name": "zaSMP",
+    "store": "https://store.zasmp.net/",
+    "description": "SMP with raiding, PvP & griefing",
+    "addresses": [
+        "zasmp.net"
+    ],
+    "primaryAddress": "zasmp.net",
+    "primaryColor": "#37C3F2",
+    "secondaryColor": "#F28BCF",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/zasmp"
+    }
+}

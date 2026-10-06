@@ -7,8 +7,8 @@
         "theolympusmc.net"
     ],
     "primaryAddress": "play.theolympusmc.net",
-    "primaryColor": "#ece0d3",
-    "secondaryColor": "#f9f0e6",
+    "primaryColor": "#7e766c",
+    "secondaryColor": "#514b44",
     "minecraftVersions": [
         "1.20.6",
         "1.21.*"

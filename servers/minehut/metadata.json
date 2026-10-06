@@ -20,7 +20,8 @@
         "1.19.*",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
@@ -32,10 +33,13 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "PvP",
         "Minigames",
-        "Roleplay"
+        "Roleplay",
+        "Survival",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "minehut",

@@ -1,0 +1,33 @@
+{
+  "id": "cherrymc",
+  "name": "CherryMC",
+  "description": "CherryMC is a server when you play lifesteal and other modality!",
+  "addresses": [
+    "cherrymc.eu"
+  ],
+  "primaryAddress": "play.cherrymc.eu",
+  "gameTypes": [
+    "PvP",
+    "Hardcore",
+    "Survival"
+  ],
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://www.cherrymc.eu/",
+  "store": "https://store.cherrymc.eu",
+  "socials": {
+    "discord": "https://discord.com/invite/VjchP6dNrn"
+  }
+}

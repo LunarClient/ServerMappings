@@ -1,0 +1,30 @@
+{
+    "id": "ghostsmp",
+    "name": "GhostSMP",
+    "description": "A Thai SMP with ARG puzzles! Boo~",
+    "addresses": [
+        "lynndev.in.th"
+    ],
+    "primaryAddress": "ghostsmp.lynndev.in.th",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#a80000",
+    "secondaryColor": "#ff3333",
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Open World",
+        "Casual"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "tiktok": "@pding144",
+        "discord": "https://discord.gg/53FztkcpqV"
+    },
+    "crossplay": true
+}
