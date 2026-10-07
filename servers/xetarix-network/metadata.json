@@ -9,9 +9,9 @@
   "primaryColor": "#35B4DC",
   "secondaryColor": "#35B4DC",
   "minecraftVersions": [
-    "1.20.6"
+    "1.21._"
   ],
-  "primaryMinecraftVersion": "26.3",
+  "primaryMinecraftVersion": "1.21",
   "gameTypes": [
     "Survival"
   ],
