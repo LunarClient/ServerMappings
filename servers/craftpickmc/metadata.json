@@ -1,0 +1,34 @@
+{
+  "id": "craftpickmc",
+  "name": "CraftpickMC",
+  "website": "https://minecraft.craftpick.fr/",
+  "description": "Craftpick is a PvP Minecraft server featuring BedWars, KitPvP and BlockSumo.",
+  "addresses": [
+    "craftpick.fr"
+  ],
+  "primaryAddress": "craftpick.fr",
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#D93E3E",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "crossplay": true,
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "KitPvP",
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/4zYdxzM286"
+  }
+}
