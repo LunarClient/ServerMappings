@@ -2,7 +2,7 @@
     "id": "craftpickmc",
     "name": "CraftpickMC",
     "website": "https://minecraft.craftpick.fr/",
-    "description": "Spawn as a baby to a random player!",
+    "description": "Craftpick is a pvp minecraft 1.8 server",
     "addresses": [
         "craftpick.fr",
         "play.craftpick.fr"
@@ -25,9 +25,9 @@
         "en"
     ],
     "gameTypes": [
-        "Roleplay",
-        "Survival",
-        "Open World"
+        "Block-Sumo",
+        "Kit-PvP",
+        "BedWars"
     ],
     "socials": {
         "discord": "https://discord.gg/4zYdxzM286"
