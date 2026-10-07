@@ -1,0 +1,35 @@
+{
+    "id": "craftpickmc",
+    "name": "CraftpickMC",
+    "website": "https://minecraft.craftpick.fr/",
+    "description": "Spawn as a baby to a random player!",
+    "addresses": [
+        "craftpick.fr",
+        "play.craftpick.fr"
+    ],
+    "primaryAddress": "play.craftpick.fr",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#D93E3E",
+    "minecraftVersions": [
+        "1.8"
+    ],
+    "primaryMinecraftVersion": "1.8",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Survival",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/4zYdxzM286"
+    }
+}
