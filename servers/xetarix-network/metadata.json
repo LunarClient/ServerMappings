@@ -1,0 +1,26 @@
+{
+  "id": "xetarix-network",
+  "name": "Xetarix.NET",
+  "description": "Offizielles Minecraft-Netzwerk von Jeremy Kronschnabl.",
+  "addresses": [
+    "xetarix.net"
+  ],
+  "primaryAddress": "xetarix.net",
+  "primaryColor": "#35B4DC",
+  "secondaryColor": "#35B4DC",
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "languages": [
+    "de"
+  ],
+  "primaryLanguage": "de",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.gg/PkPYm36qhg"
+  }
+}
