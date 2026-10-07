@@ -1,35 +1,34 @@
 {
-    "id": "CraftpickMC",
-    "name": "CraftpickMC",
-    "website": "https://minecraft.craftpick.fr/",
-    "description": "Craftpick is a pvp minecraft 1.8 server",
-    "addresses": [
-        "craftpick.fr",
-        "play.craftpick.fr"
-    ],
-    "primaryAddress": "play.craftpick.fr",
-    "primaryColor": "#FFFFFF",
-    "secondaryColor": "#D93E3E",
-    "minecraftVersions": [
-        "1.8"
-    ],
-    "primaryMinecraftVersion": "1.8",
-    "crossplay": true,
-    "primaryRegion": "EU",
-    "regions": [
-        "EU"
-    ],
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr",
-        "en"
-    ],
-    "gameTypes": [
-        "Block-Sumo",
-        "Kit-PvP",
-        "BedWars"
-    ],
-    "socials": {
-        "discord": "https://discord.gg/4zYdxzM286"
-    }
+  "id": "craftpickmc",
+  "name": "CraftpickMC",
+  "website": "https://minecraft.craftpick.fr/",
+  "description": "Craftpick is a PvP Minecraft server featuring BedWars, KitPvP and BlockSumo.",
+  "addresses": [
+    "craftpick.fr"
+  ],
+  "primaryAddress": "craftpick.fr",
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#D93E3E",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "crossplay": true,
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "KitPvP",
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/4zYdxzM286"
+  }
 }
