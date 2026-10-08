@@ -1,55 +1,48 @@
 
 {
-  "id": "vezoranetwork",
-  "name": "VezoraNetwork",
-  "description": "The new modern minecraft server",
+    "id": "vezoranetwork",
+    "name": "VezoraNetwork",
+    "description": "The new modern Minecraft server",
 
-  "addresses": [
-    "play.vezoranetwork.xyz"
-  ],
-  "primaryAddress": "vezoranetwork.xyz",
+    "addresses": [
+        "vezoranetwork.xyz"
+    ],
+    "primaryAddress": "play.vezoranetwork.xyz",
 
-  "minecraftVersions": [
-    "1.21.*",
-    "26.*"
-  ],
-  "primaryMinecraftVersion": "1.21.11",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
 
-  "primaryColor": "#7BDA51",
-  "secondaryColor": "#16411A",
+    "primaryColor": "#7BDA51",
+    "secondaryColor": "#16411A",
 
-  "primaryLanguage": "ID",
-  "languages": [
-    "id"
-  ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
 
-  "primaryRegion": "ID",
-  "regions": [
-    "ID"
-  ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
 
-  "gameTypes": [
-    "SMP",
-    "EcoPvP"
-  ],
-  "primaryGameType": "SMP",
+    "store": "https://store.vezoranetwork.xyz",
 
-  "website": "https://store.vezoranetwork.xyz",
-  "store": "https://store.vezoranetwork.xyz",
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s357614"
+    ],
 
-  "votingLinks": [
-    "https://minecraft-mp.com/server-s357614"
-  ],
+    "compliance": {
+        "support": "https://discord.vezoranetwork.xyz"
+    },
 
-  "compliance": {
-    "support": "https://discord.vezoranetwork.xyz"
-  },
+    "socials": {
+        "instagram": "vezoranetwork",
+        "tiktok": "@vezoranetwork"
+    },
 
-  "socials": {
-    "discord": "https://discord.gg/myserver",
-    "instagram": "vezoranetwork",
-    "tiktok": "@vezoranetwork",
-  },
-
-  "crossplay": true,
-  "offline": true,
+    "crossplay": true,
+    "offline": true
+}
