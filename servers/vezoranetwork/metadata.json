@@ -1,0 +1,55 @@
+
+{
+  "id": "vezoranetwork",
+  "name": "VezoraNetwork",
+  "description": "The new modern minecraft server",
+
+  "addresses": [
+    "play.vezoranetwork.xyz"
+  ],
+  "primaryAddress": "vezoranetwork.xyz",
+
+  "minecraftVersions": [
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+
+  "primaryColor": "#7BDA51",
+  "secondaryColor": "#16411A",
+
+  "primaryLanguage": "ID",
+  "languages": [
+    "id"
+  ],
+
+  "primaryRegion": "ID",
+  "regions": [
+    "ID"
+  ],
+
+  "gameTypes": [
+    "SMP",
+    "EcoPvP"
+  ],
+  "primaryGameType": "SMP",
+
+  "website": "https://store.vezoranetwork.xyz",
+  "store": "https://store.vezoranetwork.xyz",
+
+  "votingLinks": [
+    "https://minecraft-mp.com/server-s357614"
+  ],
+
+  "compliance": {
+    "support": "https://discord.vezoranetwork.xyz"
+  },
+
+  "socials": {
+    "discord": "https://discord.gg/myserver",
+    "instagram": "vezoranetwork",
+    "tiktok": "@vezoranetwork",
+  },
+
+  "crossplay": true,
+  "offline": true,
