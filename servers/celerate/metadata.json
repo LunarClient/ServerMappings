@@ -1,0 +1,45 @@
+{
+    "id": "celerate",
+    "name": "Celerate",
+    "description": "A French 1.8+ minigame server with PvP action.",
+    "addresses": [
+        "celerate.fr"
+    ],
+    "primaryAddress": "play.celerate.fr",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.2",
+        "1.14.4",
+        "1.16.4",
+        "1.17.1",
+        "1.18.2",
+        "1.20.6",
+        "1.21.11",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FFB600",
+    "secondaryColor": "#FF8A00",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://celerate.fr/",
+    "compliance": {
+        "rules": "https://celerate.fr/rules"
+    },
+    "socials": {
+        "discord": "https://celerate.fr/discord"
+    },
+    "crossplay": false
+}
