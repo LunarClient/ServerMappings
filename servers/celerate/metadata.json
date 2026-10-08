@@ -3,20 +3,20 @@
     "name": "Celerate",
     "description": "A French 1.8+ minigame server with PvP action.",
     "addresses": [
-        "celerate.fr"
+        "celerate.fr",
+        "sakuramc.us"
     ],
     "primaryAddress": "play.celerate.fr",
     "minecraftVersions": [
         "1.8.*",
         "1.12.2",
-        "1.14.4",
-        "1.16.4",
+        "1.16.*",
         "1.17.1",
         "1.18.2",
         "1.20.6",
         "1.21.11",
         "26.1.*",
-        "26.2.*"
+        "26.2"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#FFB600",
