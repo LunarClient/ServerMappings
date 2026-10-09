@@ -3,6 +3,7 @@
     "name": "Sanai Club",
     "description": "Minecraft PvP Network",
     "addresses": [
+        "sanai.club",
         "sanaimc.club"
     ],
     "primaryAddress": "sanai.club",
