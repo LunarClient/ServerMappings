@@ -1,0 +1,45 @@
+{
+    "id": "sanaiclub",
+    "name": "Sanai Club",
+    "description": "Minecraft PvP Netowork",
+    "addresses": [
+        "sanaimc.club"
+    ],
+    "primaryAddress": "sanai.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#991B1B",
+    "secondaryColor": "#171717",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://www.sanai.club",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/Sq84wajPpe"
+    },
+    "crossplay": false
+}
