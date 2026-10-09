@@ -1,0 +1,38 @@
+{
+    "id": "spearsmp",
+    "name": "SpearSMP",
+    "description": "An economy SMP server with survival gameplay.",
+    "addresses": [
+        "spearsmp.lol"
+    ],
+    "primaryAddress": "play.spearsmp.lol",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FFFF55",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.spearsmp.lol",
+    "socials": {
+        "discord": "https://discord.gg/spearsmp"
+    },
+    "crossplay": true,
+    "offline": true
+}
