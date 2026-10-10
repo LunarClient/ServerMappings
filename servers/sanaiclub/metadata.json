@@ -1,0 +1,41 @@
+{
+    "id": "sanaiclub",
+    "name": "Sanai Club",
+    "description": "Minecraft PvP Network",
+    "addresses": [
+        "sanai.club",
+        "sanaimc.club"
+    ],
+    "primaryAddress": "sanai.club",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#991B1B",
+    "secondaryColor": "#171717",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://www.sanai.club",
+    "socials": {
+        "discord": "https://discord.com/invite/Sq84wajPpe"
+    },
+    "crossplay": false
+}
