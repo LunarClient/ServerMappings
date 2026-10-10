@@ -1,15 +1,15 @@
 {
-  "id": "faithfulmc",
-  "name": "faithfulmc",
-  "website": "https://faithfulmc.net",
-  "store": "https://store.faithfulmc.net/",
-  "description": "FaithfulMC Network.",
+  "id": "boompvp",
+  "name": "BoomPvP",
+  "website": "https://boompvp.com/",
+  "store": "https://store.boompvp.com/",
+  "description": "Play HCF-style faction PvP and events on BoomPvP.",
   "addresses": [
-    "faithfulmc.net"
+    "boompvp.com"
   ],
-  "primaryAddress": "faithfulmc.net",
-  "primaryColor": "#FFAA00",
-  "secondaryColor": "#FFFF55",
+  "primaryAddress": "boompvp.com",
+  "primaryColor": "#d946ef",
+  "secondaryColor": "#ffffff",
   "minecraftVersions": [
     "1.7.*",
     "1.8.*"
@@ -31,9 +31,12 @@
   "primaryGameType": "HCF",
   "gameTypes": [
     "HCF",
+    "PvP",
+    "Factions",
+    "Hardcore",
     "KitPvP"
   ],
   "socials": {
-    "discord": "https://discord.gg/faithfulmc"
+    "discord": "https://discord.gg/boompvp"
   }
 }
