@@ -1,0 +1,38 @@
+
+{
+    "id": "kairosmc",
+    "name": "KΛIROS MC",
+    "description": "KAIROS MC - Survival Custom Minecraft Network",
+    "addresses": [
+        "kairosmc.net"
+    ],
+    "primaryAddress": "play.kairosmc.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#D4AF37",
+    "secondaryColor": "#151515",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": false
+}
