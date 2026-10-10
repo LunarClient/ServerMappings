@@ -3,9 +3,9 @@
     "name": "VoidSMP",
     "description": "A arabic SMP lifesteal server.",
     "addresses": [
-        "minetro.net"
+        "playsmp.lol"
     ],
-    "primaryAddress": "voidsmp.minetro.net",
+    "primaryAddress": "void.playsmp.lol",
     "primaryColor": "#9F2B68",
     "secondaryColor": "#301934",
     "minecraftVersions": [
@@ -29,6 +29,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/KFYpc54qFv"
+        "discord": "https://discord.gg/ADNpJazbxK"
     }
 }
