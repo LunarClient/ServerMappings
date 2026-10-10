@@ -1,0 +1,42 @@
+{
+    "id": "triallab",
+    "name": "Triallab",
+    "description": "Push your Minecraft skills to the limit in custom plugin challenges, no mods!",
+    "website": "https://triallab.net/",
+    "store": "https://triallab.net/shop",
+    "addresses": [
+        "triallab.net"
+    ],
+    "primaryAddress": "mc.triallab.net",
+    "primaryColor": "#8b5cf6",
+    "secondaryColor": "#09090b",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Minigames",
+        "Hardcore",
+        "Vanilla"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/jRXN4p4HUk",
+        "youtube": "@Triallabnet",
+        "tiktok": "@triallab.net"
+    },
+    "compliance": {
+        "privacyPolicy": "https://triallab.net/datenschutz",
+        "termsOfService": "https://triallab.net/agb",
+        "support": "https://triallab.net/kontakt"
+    }
+}
