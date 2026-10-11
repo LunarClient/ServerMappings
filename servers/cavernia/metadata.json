@@ -1,29 +1,54 @@
 {
-    "id": "cavernia",
-    "name": "Cavernia",
-    "store": "https://store.cavernia.org",
-    "description": "Minecraft HCF & Other",
-    "addresses": [
-        "cavernia.org"
-    ],
-    "primaryAddress": "cavernia.org",
-    "primaryColor": "#e137d7",
-    "secondaryColor": "#ffffff",
-    "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
-    ],
-    "primaryMinecraftVersion": "1.8.9",
-    "primaryRegion": "NA",
-    "regions": [
-        "NA"
-    ],
-    "gameTypes": [
-        "PvP",
-        "HCF"
-    ],
-    "socials": {
-        "telegram": "caverniagames",
-        "discord": "https://discord.gg/cdJJGnaHE3"
-    }
+  "id": "cavernia",
+  "name": "Cavernia",
+  "offline": true,
+  "description": "Play Cavernia for a next-generation gaming experience",
+  "website": "https://cavernia.net/",
+  "store": "https://store.cavernia.net/",
+  "compliance": {
+    "privacyPolicy": "https://cavernia.net/privacy",
+    "termsOfService": "https://cavernia.net/terms",
+    "rules": "https://cavernia.net/rules",
+    "support": "https://cavernia.net/support"
+  },
+  "addresses": [
+    "cavernia.net"
+  ],
+  "primaryAddress": "cavernia.net",
+  "primaryColor": "#ff9700",
+  "secondaryColor": "#ffffff",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.20.*",
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryGameType": "HCF",
+  "gameTypes": [
+    "HCF",
+    "Factions",
+    "Hardcore",
+    "Minigames",
+    "Practice",
+    "Prison",
+    "Skyblock",
+    "Survival",
+    "UHC",
+    "KitPvP",
+    "Competitive",
+    "PvP"
+  ],
+  "socials": {
+    "telegram": "caverniagames",
+    "discord": "https://discord.gg/cavernia",
+    "twitter": "cavernianetwork",
+    "tiktok": "@cavernia",
+    "instagram": "cavernianetwork"
+  }
 }
