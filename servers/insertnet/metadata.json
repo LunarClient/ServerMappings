@@ -1,12 +1,12 @@
 {
     "id": "insertnet",
-    "name": "Insert Network",
-    "store": "https://store.insertnet.eu",
-    "description": "Play PvP and Minigames on Insert Network.",
+    "name": "InsertHub",
+    "description": "Play Casually or Competitively on Insert.",
+    "store": "https://store.inserthub.xyz",
     "addresses": [
-        "insertnet.eu"
+        "inserthub.xyz"
     ],
-    "primaryAddress": "insertnet.eu",
+    "primaryAddress": "inserthub.xyz",
     "primaryColor": "#0069fb",
     "secondaryColor": "#0057b4",
     "minecraftVersions": [
@@ -25,10 +25,12 @@
         "EU"
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames"
+        "Practice",
+        "Casual",
+        "Competitive"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/kTJtKYjwDG"
+        "discord": "https://discord.com/invite/rKjYQGdABN"
     }
 }
+

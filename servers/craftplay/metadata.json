@@ -7,6 +7,7 @@
         "craftplay.pl"
     ],
     "primaryAddress": "craftplay.pl",
+    "offline": true,
     "primaryColor": "#fab850",
     "secondaryColor": "#141d34",
     "minecraftVersions": [
@@ -22,10 +23,15 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Minigames",
         "Survival",
-        "Skyblock"
+        "Skyblock",
+        "OneBlock",
+        "BoxPvP",
+        "Prison",
+        "Creative"
     ],
     "socials": {
         "discord": "https://discord.com/invite/RR3QJju",

@@ -1,0 +1,42 @@
+{
+  "id": "schokiefynet",
+  "name": "SchokiefyNET",
+  "description": "Minigames, Events and fun for everyone!",
+  "website": "https://www.schokiefy.net/",
+  "addresses": [
+    "schokiefy.net"
+  ],
+  "primaryAddress": "schokiefy.net",
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "primaryColor": "#D81900",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+  ],
+  "primaryMinecraftVersion": "1.19.2",
+  "crossplay": false,
+  "languages": [
+    "de"
+  ],
+  "primaryLanguage": "de",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.gg/J6eEYkth9M"
+  }
+}

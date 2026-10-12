@@ -18,6 +18,7 @@
     ],
     "primaryMinecraftVersion": "1.21",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -26,10 +27,13 @@
     "languages": [
         "es-EN"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "PvP",
         "Survival",
-        "PvE"
+        "PvE",
+        "Anarchy",
+        "OneBlock"
     ],
     "socials": {
         "discord": "https://discord.gg/infec",

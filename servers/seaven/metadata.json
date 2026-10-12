@@ -1,0 +1,55 @@
+{
+    "id": "seaven",
+    "name": "Seaven",
+    "description": "The competitive platform that players deserve",
+    "website": "https://seaven.games/",
+    "store": "https://store.seaven.games/",
+    "addresses": [
+        "seaven.games",
+        "seaven.net"
+    ],
+    "primaryAddress": "seaven.games",
+    "primaryColor": "#42F26B",
+    "secondaryColor": "#E18BFF",
+    "primaryGameType": "Competitive",
+    "gameTypes": [
+        "Competitive",
+        "Minigames",
+        "Casual",
+        "Practice",
+        "PvP"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "socials": {
+        "twitter": "seaven_games",
+        "discord": "https://discord.gg/seaven",
+        "youtube": "@seaven_games",
+        "instagram": "seaven.games",
+        "twitch": "seaven_games",
+        "tiktok": "@seaven.games"
+    },
+    "crossplay": false,
+    "presentationVideo": "Ub9ThCLM9NA"
+}

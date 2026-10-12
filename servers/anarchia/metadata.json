@@ -9,6 +9,7 @@
         "anarhia.gg"
     ],
     "primaryAddress": "anarchia.gg",
+    "offline": true,
     "primaryColor": "#f2f2f3",
     "secondaryColor": "#fef334",
     "minecraftVersions": [
@@ -25,8 +26,12 @@
     "languages": [
         "pl"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "BoxPvP",
+        "PvP",
+        "OneBlock"
     ],
     "socials": {
         "discord": "https://discord.com/invite/epnvKD6gHs",

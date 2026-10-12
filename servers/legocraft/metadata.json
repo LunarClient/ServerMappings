@@ -1,0 +1,56 @@
+{
+    "id": "legocraft",
+    "name": "Legocraft",
+    "description": "Pakistan's premier Minecraft network — Survival, Skyblock, Bedwars and PvP",
+    "addresses": [
+        "legocraft.net"
+    ],
+    "primaryAddress": "play.legocraft.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#42a5f5",
+    "secondaryColor": "#90caf9",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Minigames",
+        "Skyblock"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://legocraft.net",
+    "votingLinks": [
+        "https://topminecraftservers.org/server/13213",
+        "https://www.planetminecraft.com/server/legocraft-network/",
+        "https://www.minerank.com/legocraft",
+        "https://minecraft-mp.com/server-s342749"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/d5Yspfp"
+    },
+    "compliance": {
+        "privacyPolicy": "https://legocraft.net/privacy",
+        "termsOfService": "https://legocraft.net/terms"
+    },
+    "crossplay": true
+}

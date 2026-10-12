@@ -13,15 +13,20 @@
         "1.19.4",
         "1.20.*",
         "1.21.*",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
         "PvP",
+        "Practice",
+        "Crystal PvP",
+        "Competitive",
         "Minigames"
     ],
     "socials": {

@@ -1,0 +1,29 @@
+{
+  "id": "nembusmc",
+  "name": "NembusMC",
+  "description": "Network Minecraft italiana Survival",
+  "addresses": [
+    "nembusmc.it"
+  ],
+  "primaryAddress": "play.nembusmc.it",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.10",
+  "primaryColor": "#5B8CFF",
+  "secondaryColor": "#8A5BFF",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://nembusmc.it",
+  "crossplay": true
+}

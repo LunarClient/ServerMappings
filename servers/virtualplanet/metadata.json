@@ -6,6 +6,7 @@
         "virtualplanet.es"
     ],
     "primaryAddress": "mc.virtualplanet.es",
+    "offline": true,
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -27,8 +28,11 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "BoxPvP",
+        "PvP"
     ],
     "website": "https://virtualplanet.es",
     "store": "https://tienda.virtualplanet.es/",

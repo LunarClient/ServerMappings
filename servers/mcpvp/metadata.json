@@ -20,8 +20,12 @@
         "AS",
         "OC"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
-        "PvP"
+        "Practice",
+        "PvP",
+        "Competitive",
+        "Crystal PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/cWUgYP7fvE"

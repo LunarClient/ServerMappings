@@ -19,6 +19,7 @@
     ],
     "primaryMinecraftVersion": "1.20.4",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -32,10 +33,14 @@
         "es-EN",
         "en"
     ],
+    "primaryGameType": "BoxPvP",
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "PvE",
+        "BoxPvP",
+        "Casual"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/DpvgRzNYRF"
+        "discord": "https://discord.com/invite/tiltedlol"
     }
 }

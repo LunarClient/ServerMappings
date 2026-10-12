@@ -1,25 +1,30 @@
 {
     "id": "minecave",
     "name": "MineCave",
-    "store": "https://store.minecave.in",
+    "store": "https://store.minecave.org",
     "description": "Play Survival and PvP on MineCave.",
     "addresses": [
-        "minecave.in"
+        "minecave.in",
+        "minecave.org"
     ],
-    "primaryAddress": "play.minecave.in",
+    "primaryAddress": "play.minecave.org",
     "primaryColor": "#b87d00",
     "secondaryColor": "#0a0700",
     "minecraftVersions": [
         "1.8.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.20.1",
+    "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "AS",
     "regions": [
         "AS"
     ],
     "gameTypes": [
         "Survival",
-        "PvP"
+        "PvP",
+        "Lifesteal"
     ]
 }
