@@ -1,0 +1,48 @@
+{
+    "id": "mundomc",
+    "name": "MundoMC",
+    "description": "Earth map survival with cities, countries, elections and wars",
+    "addresses": [
+        "mundomc.com",
+        "mundomc.net",
+        "anchoe.net"
+    ],
+    "primaryAddress": "mundomc.com",
+    "primaryColor": "#22d3ee",
+    "secondaryColor": "#0a0b14",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "crossplay": true,
+    "offline": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryGameType": "Earth",
+    "gameTypes": [
+        "Earth",
+        "Towny",
+        "Survival"
+    ],
+    "website": "https://www.mundomc.com",
+    "store": "https://loja.mundomc.com",
+    "socials": {
+        "discord": "https://discord.gg/mundomc",
+        "youtube": "mundomc26",
+        "instagram": "mundomcserver",
+        "tiktok": "@mundomcserver"
+    },
+    "compliance": {
+        "rules": "https://www.mundomc.com/regras",
+        "termsOfService": "https://loja.mundomc.com/terms"
+    }
+}
