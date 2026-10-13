@@ -1,0 +1,33 @@
+{
+    "id": "asterianetwork",
+    "name": "Asteria Network",
+    "description": "A Minecraft network featuring competitive BoxPvP gameplay",
+    "addresses": [
+        "asterianw.com"
+    ],
+    "primaryAddress": "play.asterianw.com",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#6A00FF",
+    "secondaryColor": "#00D4FF",
+    "primaryLanguage": "tr",
+    "languages": [
+        "tr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "BoxPvP",
+        "PvP"
+    ],
+    "primaryGameType": "BoxPvP",
+    "website": "https://asterianw.com",
+    "socials": {
+        "discord": "https://discord.gg/asterianw"
+    },
+    "crossplay": false
+}

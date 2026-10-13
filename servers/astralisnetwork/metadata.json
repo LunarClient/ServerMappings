@@ -14,9 +14,16 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+		"26.1.*",
+		"26.2.*"
     ],
-    "primaryMinecraftVersion": "1.21.8",
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
@@ -26,18 +33,14 @@
         "AS",
         "SA"
     ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Factions"
     ],
+    "offline": true,
     "socials": {
         "discord": "https://discord.gg/thnqZ5VjgQ",
-        "youtube": "astralisnetwork"
+         "youtube": "astralisnetwork"
     }
 }

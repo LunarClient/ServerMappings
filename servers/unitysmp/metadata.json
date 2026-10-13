@@ -3,9 +3,9 @@
   "name": "Unity SMP",
   "description": "A friendly crossplay survival server with economy and teams.",
   "addresses": [
-    "brads-lab.com"
+    "unity-smp.com"
   ],
-  "primaryAddress": "play.brads-lab.com",
+  "primaryAddress": "unity-smp.com",
   "minecraftVersions": [
     "1.8.*",
     "1.12.*",

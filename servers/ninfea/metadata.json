@@ -17,7 +17,8 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
@@ -34,7 +35,7 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/SgJYRaaWcx",
+        "discord": "https://discord.gg/hx3nbvb4UC",
         "youtube": "@NinfeaNetwork",
         "telegram": "NinfeaNetwork"
     }

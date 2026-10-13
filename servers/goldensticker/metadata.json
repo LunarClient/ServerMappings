@@ -1,0 +1,49 @@
+{
+    "id": "goldensticker",
+    "name": "Golden Stickers",
+    "description": "Crossplay survival SMP and BoxPvP network for Java and Bedrock.",
+    "addresses": [
+        "goldensticker.xyz"
+    ],
+    "primaryAddress": "goldensticker.xyz",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FFA600",
+    "secondaryColor": "#1188FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "BoxPvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.goldensticker.xyz",
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s352859",
+        "https://xyrios.com/minecraft/servers/207"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/txJ7EwyJcz",
+        "youtube": "@GoldenStickersxyz"
+    },
+    "crossplay": true,
+    "offline": false
+}
