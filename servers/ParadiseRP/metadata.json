@@ -1,9 +1,9 @@
 {
-  "id": "paradiseroleplay",
+  "id": "paradiserp",
   "name": "Paradise Roleplay",
-  "description": "Prova l'esperienza di Paradise Roleplay! Entra nel nostro server con modalità Roleplay, PvP, Mini-Games e molto altro.",
+  "description": "An Italian Roleplay, PvP, and Minigames network server.",
   "addresses": [
-    "mc.paradiseroleplay.it"
+    "paradiseroleplay.it"
   ],
   "primaryAddress": "mc.paradiseroleplay.it",
   "primaryColor": "#FF8C00",
@@ -24,12 +24,12 @@
     "en"
   ],
   "gameTypes": [
-    "roleplay",
-    "pvp",
-    "minigames"
+    "Roleplay",
+    "PvP",
+    "Minigames"
   ],
-  "links": {
-    "website": "https://paradiseroleplay.it",
+  "website": "https://paradiseroleplay.it",
+  "socials": {
     "discord": "https://discord.gg/5UFM42cd9h"
   }
 }
