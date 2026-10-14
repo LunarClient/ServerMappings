@@ -1,8 +1,7 @@
-
 {
   "id": "valdorianetwork",
   "name": "ValdoriaNetwork",
-  "description": "Un network spaziale con la modalità spacebox",
+  "description": "Un network Minecraft a tema spaziale con modalità SpaceBox PvP",
   "addresses": [
     "play.valdorianetwork.com"
   ],
@@ -19,11 +18,7 @@
   ],
   "primaryRegion": "EU",
   "regions": [
-    "NA",
-    "EU",
-    "OC",
-    "AS",
-    "SA"
+    "EU"
   ],
   "gameTypes": [
     "PvP"
