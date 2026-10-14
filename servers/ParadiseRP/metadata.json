@@ -1,1 +1,35 @@
-
+{
+  "id": "paradiseroleplay",
+  "name": "Paradise Roleplay",
+  "description": "Prova l'esperienza di Paradise Roleplay! Entra nel nostro server con modalità Roleplay, PvP, Mini-Games e molto altro.",
+  "addresses": [
+    "mc.paradiseroleplay.it"
+  ],
+  "primaryAddress": "mc.paradiseroleplay.it",
+  "primaryColor": "#FF8C00",
+  "secondaryColor": "#FFA500",
+  "minecraftVersions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "roleplay",
+    "pvp",
+    "minigames"
+  ],
+  "links": {
+    "website": "https://paradiseroleplay.it",
+    "discord": "https://discord.gg/5UFM42cd9h"
+  }
+}
