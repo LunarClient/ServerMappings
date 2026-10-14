@@ -3,10 +3,9 @@
   "name": "ValdoriaNetwork",
   "description": "A space-themed Minecraft network featuring SpaceBox PvP",
   "addresses": [
-    "valdorianetwork.com",
-    "play.valdorianetwork.com"
+    "valdorianetwork.com"
   ],
-  "primaryAddress": "play.valdorianetwork.com",
+  "primaryAddress": "valdorianetwork.com",
   "minecraftVersions": [
     "1.21.*"
   ],
