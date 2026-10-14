@@ -12,7 +12,7 @@
     "secondaryColor": "#F4CB8E",
     "minecraftVersions": [
         "1.21.11",
-        "26.1.*",
+        "26.1.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
@@ -29,11 +29,11 @@
     "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
-        "Casual",
+        "Casual"
     ],
     "socials": {
         "discord": "https://discord.gg/dropmc",
         "youtube": "@dropmcgg",
-        "tiktok": "@dropmc.gg",
+        "tiktok": "@dropmc.gg"
     }
 }
