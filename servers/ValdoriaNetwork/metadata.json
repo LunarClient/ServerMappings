@@ -1,8 +1,9 @@
 {
   "id": "valdorianetwork",
   "name": "ValdoriaNetwork",
-  "description": "Un network Minecraft a tema spaziale con modalità SpaceBox PvP",
+  "description": "A space-themed Minecraft network featuring SpaceBox PvP",
   "addresses": [
+    "valdorianetwork.com",
     "play.valdorianetwork.com"
   ],
   "primaryAddress": "play.valdorianetwork.com",
@@ -31,10 +32,7 @@
     "termsOfService": "https://www.valdorianetwork.com/terms",
     "rules": "https://www.valdorianetwork.com/rules"
   },
-  "presentationVideo": "",
   "socials": {
-    "twitter": "",
-    "telegram": "",
     "discord": "https://discord.gg/valdorianetwork"
   },
   "crossplay": false
