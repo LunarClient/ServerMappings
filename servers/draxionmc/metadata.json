@@ -13,6 +13,9 @@
   "primaryColor": "#57238C",
   "secondaryColor": "#FF761A",
   "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
   "gameTypes": [
     "Prison"
   ],
