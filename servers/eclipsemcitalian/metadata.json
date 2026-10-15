@@ -28,9 +28,10 @@
     "gameTypes": [
         "Survival SMP"
     ],
+	"crossplay": true,
     "socials": {
-        "discord": "https://discord.eclipsemc.it/",
-		"instagram": "https://instagram.eclipsemc.it/",
-        "tiktok": "https://tiktok.eclipsemc.it/"
+        "discord": "https://discord.com/invite/GY8MsNhUAb",
+		"instagram": "eclipsemcofficials",
+        "tiktok": "@eclipsemcofficial"
     }
 }
