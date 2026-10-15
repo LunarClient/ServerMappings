@@ -1,20 +1,39 @@
 {
     "id": "sypherox",
-    "name": "Sypherox SMP",
-    "description": "A Survival Multiplayer experience on sypherox.dev",
+    "name": "Sypherox.dev",
+    "description": "SkyWars, Duels, SMP and more on Sypherox.dev",
     "addresses": ["sypherox.dev"],
     "primaryAddress": "sypherox.dev",
-    "minecraftVersions": ["1.21.1"],
-    "primaryMinecraftVersion": "1.21.1",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
     "primaryColor": "#FF5555",
     "secondaryColor": "#AA0000",
     "primaryRegion": "EU",
     "regions": ["EU"],
-    "gameTypes": ["Survival"],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
     "crossplay": false,
     "website": "https://sypherox.dev",
     "socials": {
-        "discord": "https://discord.gg/aG4QYP8u5p",
+        "twitter": "Syphercx",
+        "discord": "https://discord.com/invite/aG4QYP8u5p",
+        "youtube": "Sypherox",
         "twitch": "Sypherox"
     }
 }

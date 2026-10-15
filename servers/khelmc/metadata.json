@@ -1,0 +1,39 @@
+{
+    "id": "khelmc",
+    "name": "KhelMC",
+    "description": "Lifesteal SMP and FFA PvP on 1.21.11+. Team up, raid and steal hearts.",
+    "addresses": [
+        "khelmc.online"
+    ],
+    "primaryAddress": "play.khelmc.online",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#e5232f",
+    "secondaryColor": "#f4f1f3",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Lifesteal",
+        "PvP",
+        "Survival"
+    ],
+    "primaryGameType": "Lifesteal",
+    "website": "https://khelmc.online",
+    "socials": {
+        "discord": "https://discord.gg/3enkBQ5Y6P"
+    },
+    "crossplay": true,
+    "offline": true
+}
