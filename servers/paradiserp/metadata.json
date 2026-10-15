@@ -1,0 +1,35 @@
+{
+  "id": "paradiserp",
+  "name": "Paradise Roleplay",
+  "description": "An Italian Roleplay, PvP, and Minigames network server.",
+  "addresses": [
+    "paradiseroleplay.it"
+  ],
+  "primaryAddress": "mc.paradiseroleplay.it",
+  "primaryColor": "#FF8C00",
+  "secondaryColor": "#FFA500",
+  "minecraftVersions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "gameTypes": [
+    "Roleplay",
+    "PvP",
+    "Minigames"
+  ],
+  "website": "https://paradiseroleplay.it",
+  "socials": {
+    "discord": "https://discord.gg/5UFM42cd9h"
+  }
+}
