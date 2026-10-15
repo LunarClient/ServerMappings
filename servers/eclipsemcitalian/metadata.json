@@ -8,7 +8,6 @@
         "eclipsemc.it"
     ],
     "primaryAddress": "play.eclipsemc.it",
-	"offline": true,
     "primaryColor": "#8e2de2",
     "secondaryColor": "#4a00e0",
     "minecraftVersions": [
@@ -48,6 +47,7 @@
 		"26.3"
     ],
     "primaryMinecraftVersion": "1.21.11",
+	"crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -61,7 +61,6 @@
     "gameTypes": [
         "Survival"
     ],
-	"crossplay": true,
     "socials": {
         "discord": "https://discord.com/invite/GY8MsNhUAb",
 		"instagram": "eclipsemcofficials",
