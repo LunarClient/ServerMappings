@@ -1,5 +1,5 @@
 {
-    "id": "eclipsemc",
+    "id": "eclipsemcitalian",
     "name": "EclipseMC",
     "website": "https://www.eclipsemc.it/",
 	"store": "https://www.eclipsemc.it/store",
@@ -12,10 +12,10 @@
     "primaryColor": "#8e2de2",
     "secondaryColor": "#4a00e0",
     "minecraftVersions": [
-        "1.8.x",
+        "1.8.*",
         "26.3"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "1.21.*",
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -25,8 +25,9 @@
         "it",
         "en"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Survival SMP"
+        "Survival"
     ],
 	"crossplay": true,
     "socials": {
