@@ -1,29 +1,46 @@
 {
-  "id": "vayluxmc",
-  "name": "VayluxMC",
-  "description": "Servidor Survival con misiones, mazmorras, economía y PvP.",
-  "addresses": [
-    "minestrax.fun"
-  ],
-  "primaryAddress": "play.vayluxmc.met",
-  "minecraftVersions": [
-    "1.21.8"
-  ],
-  "primaryMinecraftVersion": "1.21.8",
-  "primaryColor": "#ff6a00",
-  "secondaryColor": "#0d0e15",
-  "primaryLanguage": "es",
-  "languages": [
-    "es"
-  ],
-  "primaryRegion": "SA",
-  "regions": [
-    "SA"
-  ],
-  "gameTypes": [
-    "Survival"
-  ],
-  "primaryGameType": "Survival",
-  "website": "https://web.vayluxmc.net",
-  "crossplay": true
+    "id": "vayluxmcnetwork",
+    "name": "VayluxMC Network",
+    "store": "https://tienda.vayluxmc.net",
+    "description": "Come and make friends!",
+    "addresses": [
+        "kuveru.com"
+    ],
+    "primaryAddress": "play.vayluxmc.net",
+    "primaryColor": "#0000FF",
+    "secondaryColor": "#0000FF",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Skyblock",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "vayluxmcnetwork",
+        "tiktok": "@vayluxmcnetwork",
+        "discord": "https://discord.vayluxmc.net"
+    }
 }
