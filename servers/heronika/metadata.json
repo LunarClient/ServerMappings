@@ -1,0 +1,46 @@
+{
+  "id": "heronika",
+  "name": "Heronika Network",
+  "description": "A fun Minecraft network featuring BedWars, SkyBlock, OneBlock, SMP, and Duels.",
+  "addresses": [
+    "heronika.com"
+  ],
+  "primaryAddress": "heronika.com",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#55FF55",
+  "secondaryColor": "#00AA00",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "ar"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Minigames",
+    "Skyblock",
+    "OneBlock",
+    "Survival",
+    "Practice"
+  ],
+  "primaryGameType": "Minigames",
+  "website": "https://heronika.com",
+  "socials": {
+    "discord": "https://discord.gg/your-invite-code"
+  },
+  "crossplay": false,
+  "offline": false
+}
