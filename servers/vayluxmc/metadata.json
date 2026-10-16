@@ -1,14 +1,15 @@
+
 {
-    "id": "vayluxmcnetwork",
+    "id": "vayluxmc",
     "name": "VayluxMC Network",
     "store": "https://tienda.vayluxmc.net",
     "description": "Come and make friends!",
     "addresses": [
-        "play.vayluxmc.net"
+        "vayluxmc.net"
     ],
     "primaryAddress": "play.vayluxmc.net",
-    "primaryColor": "#0000FF",
-    "secondaryColor": "#0000FF",
+    "primaryColor": "#ff6a00",
+    "secondaryColor": "#0d0e15",
     "minecraftVersions": [
         "1.8.*",
         "1.12.*",
@@ -20,7 +21,7 @@
     ],
     "primaryMinecraftVersion": "1.20.1",
     "crossplay": true,
-    "primaryRegion": "NA",
+    "primaryRegion": "SA",
     "regions": [
         "NA",
         "EU",
@@ -41,6 +42,6 @@
     "socials": {
         "twitter": "vayluxmcnetwork",
         "tiktok": "@vayluxmcnetwork",
-        "discord": "https://discord.vayluxmc.net"
+        "discord": "https://discord.gg/KbYwcaaCk"
     }
 }
