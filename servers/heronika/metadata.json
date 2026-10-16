@@ -19,7 +19,7 @@
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#55FF55",
-  "secondaryColor": "#00AA00",
+  "secondaryColor": "#A0AA00",
   "primaryLanguage": "en",
   "languages": [
     "en",
@@ -30,16 +30,16 @@
     "EU"
   ],
   "gameTypes": [
-    "Minigames",
-    "Skyblock",
+    "MiniGames",
+    "SkyBlock",
     "OneBlock",
     "Survival",
     "Practice"
   ],
-  "primaryGameType": "Minigames",
+  "primaryGameType": "MiniGames",
   "website": "https://heronika.com",
   "socials": {
-    "discord": "https://discord.gg/your-invite-code"
+    "discord": "https://discord.gg/heronika"
   },
   "crossplay": false,
   "offline": false
