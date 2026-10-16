@@ -14,8 +14,7 @@
     "1.18.*",
     "1.19.*",
     "1.20.*",
-    "1.21.*",
-    "26.*"
+    "1.21.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
   "primaryColor": "#55FF55",
@@ -30,13 +29,13 @@
     "EU"
   ],
   "gameTypes": [
-    "MiniGames",
+    "Minigames",
     "SkyBlock",
     "OneBlock",
     "Survival",
     "Practice"
   ],
-  "primaryGameType": "MiniGames",
+  "primaryGameType": "Minigames",
   "website": "https://heronika.com",
   "socials": {
     "discord": "https://discord.gg/heronika"
