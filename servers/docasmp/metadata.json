@@ -3,7 +3,7 @@
     "name": "DocaSMP",
     "description": "A Economy SMP",
     "addresses": [
-        "docasmp.net",
+        "docasmp.net"
     ],
     "primaryAddress": "docasmp.net",
     "minecraftVersions": [
@@ -25,7 +25,7 @@
     ],
     "primaryRegion": "EU",
     "regions": [
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "Hardcore",
