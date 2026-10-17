@@ -1,7 +1,7 @@
 {
     "id": "docasmp",
     "name": "DocaSMP",
-    "description": "A Economy SMP",
+    "description": "Economy Survival",
     "addresses": [
         "docasmp.net"
     ],
@@ -36,7 +36,7 @@
         "Casual"
     ],
     "socials": {
-        "discord": "https://dsc.gg/docasmp"
+        "discord": "https://discord.com/invite/uFuhyyrHma"
     },
     "crossplay": true
 }
