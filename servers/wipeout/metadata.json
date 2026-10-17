@@ -1,0 +1,53 @@
+{
+    "id": "wipeout",
+    "name": "Wipeout",
+    "description": "Competitive PvP: Practice, Kitmap, Teams (HCF) and Soup",
+    "addresses": [
+        "wipeout.gg"
+    ],
+    "primaryAddress": "play.wipeout.gg",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#22c55e",
+    "secondaryColor": "#00aa00",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "Practice",
+        "HCF",
+        "Soup PvP",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://wipeout.gg",
+    "store": "https://store.wipeout.gg",
+    "compliance": {
+        "privacyPolicy": "https://wipeout.gg/privacy",
+        "termsOfService": "https://wipeout.gg/terms",
+        "rules": "https://wipeout.gg/rules",
+        "support": "https://wipeout.gg/support"
+    },
+    "socials": {
+        "twitter": "Wipeout_GG",
+        "discord": "https://discord.gg/wipeout"
+    },
+    "crossplay": false
+}
