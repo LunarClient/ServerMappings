@@ -1,6 +1,6 @@
 {
-  "id": "zynoxcraft",
-  "name": "ZynoxCraft",
+  "id": "zynoxcraft_network",
+  "name": "ZynoxCraft Network",
   "description": "Servidor de Minecraft Survival, Java & Bedrock",
   "addresses": [
     "zynoxcraft.net"
@@ -25,6 +25,6 @@
   "website": "https://zynoxcraft.net",
   "store": "https://zynoxcraft.tebex.io",
   "socials": {
-    "discord": "https://discord.com/invite/3quCfTaFAV"
+    "discord": "https://discord.com/invite/W2AgCrUEkA"
   }
 }
