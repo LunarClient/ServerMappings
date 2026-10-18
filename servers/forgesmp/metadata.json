@@ -3,8 +3,7 @@
     "name": "ForgeSMP",
     "description": "Competitive Hardcore Survival & Crystal PvP Server",
     "addresses": [
-        "forgesmp.xyz",
-        "play.forgesmp.xyz"
+        "forgesmp.xyz"
     ],
     "primaryAddress": "play.forgesmp.xyz",
     "minecraftVersions": [
