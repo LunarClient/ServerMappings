@@ -32,7 +32,9 @@
     "website": "https://craftvalley.de",
     "store": "https://store.craftvalley.de",
     "compliance": {
-        "privacyPolicy": "https://craftvalley.de/datenschutz"
+        "privacyPolicy": "https://craftvalley.de/datenschutz",
+        "rules": "https://craftvalley.de/regelwerk",
+        "support": "https://craftvalley.de/faq"
     },
     "socials": {
         "discord": "https://discord.gg/craftvalley",
