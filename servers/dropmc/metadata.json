@@ -1,0 +1,39 @@
+{
+    "id": "dropmc",
+    "name": "DropMC",
+    "website": "https://dropmc.gg",
+    "store": "https://loja.dropmc.gg",
+    "description": "Have fun playing on DropMC with innovative and exclusive features!",
+    "addresses": [
+        "dropmc.gg"
+    ],
+    "primaryAddress": "dropmc.gg",
+    "primaryColor": "#FBE69D",
+    "secondaryColor": "#F4CB8E",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "EU"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Casual"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/dropmc",
+        "youtube": "@dropmcgg",
+        "tiktok": "@dropmc.gg"
+    }
+}
