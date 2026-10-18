@@ -1,0 +1,34 @@
+{
+  "id": "rushveil",
+  "name": "Rushveil",
+  "description": "Competitive 1.8.9 PvP with fast BedWars and Duels.",
+  "addresses": [
+    "rushveil.lol"
+  ],
+  "primaryAddress": "rushveil.lol",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FF6B00",
+  "secondaryColor": "#0A0A0A",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP",
+    "Competitive",
+    "Minigames",
+    "Practice"
+  ],
+  "primaryGameType": "PvP",
+  "website": "https://rushveil.lol",
+  "store": "https://rushveil.lol",
+  "crossplay": false,
+  "offline": true
+}

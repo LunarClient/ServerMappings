@@ -1,25 +1,47 @@
 {
     "id": "pvpland",
     "name": "PvP Land",
+    "website": "https://pvp.land/",
     "store": "https://store.pvp.land/",
     "description": "Test your combat skills on PvP Land.",
     "addresses": [
         "pvp.land"
     ],
     "primaryAddress": "pvp.land",
-    "primaryColor": "#64a6f7",
-    "secondaryColor": "#0275d8",
+    "primaryColor": "#aeefff",
+    "secondaryColor": "#ffb7d5",
     "minecraftVersions": [
         "1.7.*",
-        "1.8.*"
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "26.2",
     "primaryGameType": "Practice",
     "gameTypes": [
         "Practice",
         "Competitive",
-        "PvP"
+        "PvP",
+        "Casual"
     ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC"
+    ],
+    "votingLinks": [
+        "https://namemc.com/server/pvp.land"
+    ],
+    "compliance": {
+        "rules": "https://pvp.land/rules/"
+    },
     "socials": {
         "twitter": "pvp_land",
         "discord": "https://discord.com/invite/Q4CQjQs"

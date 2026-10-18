@@ -9,7 +9,7 @@
         "pvpingmc.net",
         "pvpingmc.org"
     ],
-    "primaryAddress": "play.pvpingmc.net",
+    "primaryAddress": "lunar.pvpingmc.net",
     "primaryColor": "#ffaa00",
     "secondaryColor": "#ffff55",
     "minecraftVersions": [
@@ -32,10 +32,13 @@
     ],
     "primaryGameType": "Skyblock",
     "gameTypes": [
-        "Factions",
         "Skyblock",
+        "Factions",
         "Prison",
-        "PvP"
+        "PvP",
+        "PvE",
+        "Casual",
+        "Competitive"
     ],
     "socials": {
         "discord": "https://discord.com/invite/uBfKAxYc5v",

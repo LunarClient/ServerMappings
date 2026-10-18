@@ -1,0 +1,39 @@
+{
+    "id": "luckyblockdev",
+    "name": "LuckyBlock.dev",
+    "description": "Lucky Block Bedwars, Battle, King and SMP for Java and Bedrock",
+    "addresses": [
+        "luckyblock.dev"
+    ],
+    "primaryAddress": "luckyblock.dev",
+    "primaryColor": "#EBAE01",
+    "secondaryColor": "#1A1A1A",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/eM4rV9hKUr",
+        "youtube": "@LuckyBlockDEV",
+        "tiktok": "@luckyblock.dev"
+    }
+}

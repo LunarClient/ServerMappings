@@ -3,13 +3,14 @@
     "name": "Yugto SMP",
     "description": "Unique survival experience!",
     "addresses": [
-        "kaeel.dev"
+        "yugtosmp.xyz"
     ],
-    "primaryAddress": "yugto.kaeel.dev",
+    "primaryAddress": "play.yugtosmp.xyz",
     "minecraftVersions": [
-        "1.21.*"
+        "1.21.*",
+        "26.2"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "26.2",
     "primaryColor": "#7CFFB2",
     "secondaryColor": "#C8FFD9",
     "primaryLanguage": "en",

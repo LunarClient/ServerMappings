@@ -1,0 +1,38 @@
+{
+  "id": "valdorianetwork",
+  "name": "ValdoriaNetwork",
+  "description": "A space-themed Minecraft network featuring SpaceBox PvP",
+  "addresses": [
+    "valdorianetwork.com"
+  ],
+  "primaryAddress": "valdorianetwork.com",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#800080",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryGameType": "PvP",
+  "website": "https://www.valdorianetwork.com",
+  "store": "https://store.valdorianetwork.com",
+  "compliance": {
+    "privacyPolicy": "https://www.valdorianetwork.com/privacy",
+    "termsOfService": "https://www.valdorianetwork.com/terms",
+    "rules": "https://www.valdorianetwork.com/rules"
+  },
+  "socials": {
+    "discord": "https://discord.gg/valdorianetwork"
+  },
+  "crossplay": false
+}

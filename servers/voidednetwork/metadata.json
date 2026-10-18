@@ -1,0 +1,34 @@
+{
+  "id": "voidednetwork",
+  "name": "VoidedNetwork",
+  "description": "A community-focused Minecraft network with SMP and competitive modes",
+  "addresses": [
+    "voidednetwork.uk"
+  ],
+  "primaryAddress": "play.voidednetwork.uk",
+  "minecraftVersions": [
+    "1.12.*",
+    "26.2"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "primaryColor": "#7C3AED",
+  "secondaryColor": "#C026D3",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://voidednetwork.uk",
+  "socials": {
+    "discord": "https://discord.gg/voidednet"
+  },
+  "crossplay": false
+}
