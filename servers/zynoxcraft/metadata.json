@@ -1,5 +1,5 @@
 {
-  "id": "zynoxcraft_network",
+  "id": "zynoxcraft",
   "name": "ZynoxCraft Network",
   "description": "Servidor de Minecraft Survival, Java & Bedrock",
   "addresses": [
@@ -7,9 +7,9 @@
   ],
   "primaryAddress": "mc.zynoxcraft.net",
   "minecraftVersions": [
-    "1.21.11"
+    "26.1.2"
   ],
-  "primaryMinecraftVersion": "1.21.11",
+  "primaryMinecraftVersion": "26.1.2",
   "primaryColor": "#00FFFF",
   "secondaryColor": "#FF0000",
   "primaryRegion": "NA",
