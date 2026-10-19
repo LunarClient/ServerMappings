@@ -28,5 +28,7 @@
     "Minigames"
   ],
   "primaryGameType": "Survival",
-  "discord": "https://discord.gg/VvAtDJvUbC"
+  "socials": {
+    "discord": "https://discord.gg/VvAtDJvUbC"
+  }
 }
