@@ -3,29 +3,22 @@
   "name": "Usva",
   "description": "A Finnish Minecraft server with Survival, Minigames and more!",
   "addresses": [
-    "mc.usva.pro",
     "usva.pro"
   ],
   "primaryAddress": "mc.usva.pro",
   "minecraftVersions": [
-    "1.13.*",
-    "1.14.*",
-    "1.15.*",
     "1.16.*",
     "1.17.*",
     "1.18.*",
     "1.19.*",
     "1.20.*",
     "1.21.*",
-    "26.2"
+    "26.2.*",
+    "26.3.*"
   ],
   "primaryMinecraftVersion": "26.2",
   "primaryColor": "#5B8CFF",
   "secondaryColor": "#283593",
-  "primaryLanguage": "fi",
-  "languages": [
-    "fi"
-  ],
   "primaryRegion": "EU",
   "regions": [
     "EU"
