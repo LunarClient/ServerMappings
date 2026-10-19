@@ -1,8 +1,7 @@
-
 {
   "id": "usva",
   "name": "Usva",
-  "description": "Suomalainen Minecraft-palvelin, Survival, Minigames ja muuta",
+  "description": "A Finnish Minecraft server with Survival, Minigames and more!",
   "addresses": [
     "mc.usva.pro",
     "usva.pro"
@@ -35,5 +34,8 @@
     "Survival",
     "Minigames"
   ],
-  "primaryGameType": "Survival"
+  "primaryGameType": "Survival",
+  "socials": {
+    "discord": "https://discord.gg/VvAtDJvUbC"
+  }
 }
