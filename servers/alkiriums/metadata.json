@@ -4,5 +4,6 @@
     "description": "An anarchy survival Minecraft server.",
     "addresses": [
         "alkirium.falix.dev"
-    ]
+    ],
+    "primaryAddress": "alkirium.falix.dev"
 }
