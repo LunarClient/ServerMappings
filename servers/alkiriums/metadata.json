@@ -1,8 +1,8 @@
 {
-  "id": "alkiriums",
-  "name": "Alkiriums",
-  "description": "Servidor de supervivencia anarquica.",
-  "addresses": [
-    "alkirium.falix.dev"
-  ]
+    "id": "alkiriums",
+    "name": "Alkiriums",
+    "description": "An anarchy survival Minecraft server.",
+    "addresses": [
+        "alkirium.falix.dev"
+    ]
 }
