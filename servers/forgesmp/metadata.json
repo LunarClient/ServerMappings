@@ -1,0 +1,38 @@
+{
+    "id": "forgesmp",
+    "name": "ForgeSMP",
+    "description": "Competitive Hardcore Survival & Crystal PvP Server",
+    "addresses": [
+        "forgesmp.xyz"
+    ],
+    "primaryAddress": "play.forgesmp.xyz",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryColor": "#FF8C00",
+    "secondaryColor": "#FFD700",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Hardcore",
+        "Crystal PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://forgesmp.xyz",
+    "store": "https://store.forgesmp.xyz",
+    "socials": {
+        "discord": "https://discord.gg/VfYEEnKzhE"
+    },
+    "crossplay": true
+}
