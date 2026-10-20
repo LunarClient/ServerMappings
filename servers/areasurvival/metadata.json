@@ -9,9 +9,6 @@
     "primaryColor": "#4CAF50",
     "secondaryColor": "#8B5A2B",
     "minecraftVersions": [
-        "1.13.*",
-        "1.14.*",
-        "1.15.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
@@ -19,7 +16,8 @@
         "1.20.*",
         "1.21.*",
         "26.1.*",
-        "26.2.*"
+        "26.2.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "26.2",
     "primaryLanguage": "en",
