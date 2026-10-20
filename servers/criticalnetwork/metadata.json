@@ -6,25 +6,39 @@
         "criticalnetwork.top"
     ],
     "primaryAddress": "criticalnetwork.top",
-    "website": "https://criticalnetwork.top",
     "minecraftVersions": [
-        "1.21",
-        "1.21.1"
+        "1.21.*",
+        "26.1.*",
+        "26.2"        
     ],
     "primaryMinecraftVersion": "1.21.1",
     "primaryColor": "#ff0000",
     "secondaryColor": "#570000",
+    "primaryLanguage": "en",    
+    "languages": [
+        "en"
+    ],        
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "Survival"
+        "Survival",
+        "Practice",
+        "MMORPG",
+        "Skyblock",
+        "Casual"
     ],
-    "crossplay": false,
+    "primaryGameType": "Survival",
+    "website": "https://criticalnetwork.top",
+    "store": "https://criticalnetwork.top/store",
     "socials": {
         "discord": "https://discord.com/invite/ugTuDYzfew",
         "twitch": "ilycryptic",
         "youtube": "@ilycryptic"
-    }
+    },
+    "votingLinks": [
+        "https://criticalnetwork.top/vote"
+    ],
+    "crossplay": true
 }

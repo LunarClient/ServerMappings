@@ -1,0 +1,47 @@
+{
+    "id": "happymc",
+    "name": "HappyMC",
+    "description": "The happiest Minecraft network for Lifesteal, BoxPvP, and events.",
+    "addresses": [
+        "happymc.fun"
+    ],
+    "primaryAddress": "play.happymc.fun",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#FFC928",
+    "secondaryColor": "#9B4A0A",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Lifesteal",
+        "BoxPvP",
+        "Minigames",
+        "Parkour",
+        "PvP",
+        "Survival"
+    ],
+    "primaryGameType": "Lifesteal",
+    "website": "https://www.happymc.fun",
+    "store": "https://store.happymc.fun",
+    "socials": {
+        "discord": "https://discord.gg/happymc"
+    },
+    "crossplay": true
+}

@@ -1,0 +1,29 @@
+{
+    "id": "cyrexhq",
+    "name": "CyrexHQ Network",
+    "store": "https://store.cyrexhq.lat",
+    "description": "Competitive based server",
+    "addresses": [
+        "cyrexhq.lat"
+    ],
+    "primaryAddress": "cyrexhq.lat",
+    "primaryColor": "#D4AF37",
+    "secondaryColor": "#FFD700",
+    "minecraftVersions": [
+        "1.20.4",
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "KitPvP",
+        "BoxPvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/D7GzNUD3FY"
+    }
+}

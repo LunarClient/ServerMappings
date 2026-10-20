@@ -1,0 +1,28 @@
+{
+    "id": "oldestcommunity",
+    "name": "Oldest Community",
+    "website": "https://oldestcraft.com",
+    "description": "Competitive PvP server for the Oldest Community",
+    "addresses": [
+        "oldestcraft.com"
+    ],
+    "primaryAddress": "mc.oldestcraft.com",
+    "primaryColor": "#f3c684",
+    "secondaryColor": "#192736",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryGameType": "PvP",
+    "gameTypes": [
+        "PvP"
+    ]
+}

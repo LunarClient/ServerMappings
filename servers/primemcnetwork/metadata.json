@@ -1,0 +1,19 @@
+{
+  "id": "primemcnetwork",
+  "name": "PrimeMC",
+  "description": "Defeat other players and climb the leaderboard.",
+  "store": "https://store.primemc.it",
+  "addresses": [
+    "primemc.it"
+  ],
+  "primaryAddress": "play.primemc.it",
+  "primaryColor": "#e8a13c",
+  "secondaryColor": "#3a2a1a",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "gameTypes": [
+    "KitPvP"
+  ]
+}

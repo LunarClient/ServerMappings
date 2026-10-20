@@ -1,0 +1,40 @@
+{
+    "id": "hwic",
+    "name": "hwic.dev",
+    "description": "Watch real movies with friends in a working in-game cinema",
+    "addresses": [
+        "hwic.dev"
+    ],
+    "primaryAddress": "hwic.dev",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#33cddf",
+    "secondaryColor": "#149cb2",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Casual",
+        "Adventure"
+    ],
+    "primaryGameType": "Casual",
+    "website": "https://hwic.dev/server",
+    "socials": {
+        "discord": "https://discord.gg/fkdr"
+    },
+    "crossplay": true
+}

@@ -1,0 +1,37 @@
+{
+    "id": "voidsmpxyz",
+    "name": "VoidSMP",
+    "description": "The best hardcore server you will ever join!",
+    "addresses": [
+        "void-smp.xyz"
+    ],
+    "primaryAddress": "void-smp.xyz",
+    "primaryColor": "#6A45BF",
+    "secondaryColor": "#A682FF",
+    "minecraftVersions": [
+        "1.21.*",
+        "1.20.*",
+        "1.19.*",
+        "1.18.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "gameTypes": [
+        "Hardcore",
+        "Survival"
+    ],
+    "primaryGameType": "Hardcore",
+    "socials": {
+        "discord": "https://discord.gg/pjzuPq7HNK",
+        "tiktok": "@voidsmp_mc"
+    },
+    "crossplay": true
+}

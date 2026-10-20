@@ -1,0 +1,38 @@
+{
+    "id": "nextcity",
+    "name": "NextCity RolePlay",
+    "description": "Italian Minecraft RolePlay server focused on city life.",
+    "addresses": [
+        "exomc.it"
+    ],
+    "primaryAddress": "play.exomc.it",
+    "minecraftVersions": [
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#0000FF",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "primaryGameType": "Roleplay",
+    "crossplay": false,
+    "languages": [
+        "it"
+    ],
+    "primaryLanguage": "it",
+    "socials": {
+        "discord": "https://discord.com/invite/SjVQnbuuVu"
+    }
+}

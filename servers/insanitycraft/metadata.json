@@ -3,11 +3,11 @@
     "name": "InsanityCraft",
     "website": "https://insanitycraft.net/",
     "store": "https://store.insanitycraft.net/",
-    "description": "Play Survival, Skyblock, and more on InsanityCraft.",
+    "description": "Play Survival SMP, Skyblock, Factions, Lifesteal, and more!",
     "addresses": [
         "insanitycraft.net"
     ],
-    "primaryAddress": "play.insanitycraft.net",
+    "primaryAddress": "lunar.insanitycraft.net",
     "primaryColor": "#f2c92d",
     "secondaryColor": "#a5de55",
     "minecraftVersions": [
@@ -16,9 +16,13 @@
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.17.1",
+    "primaryMinecraftVersion": "26.2",
     "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
@@ -27,7 +31,8 @@
     "gameTypes": [
         "Survival",
         "Skyblock",
-        "Factions"
+        "Factions",
+        "Lifesteal"
     ],
     "socials": {
         "twitter": "insanitycraftMC",
