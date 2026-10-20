@@ -1,0 +1,34 @@
+{
+    "id": "tot",
+    "name": "TOT",
+    "description": "Practice PvP with ranked duels and custom kits",
+    "addresses": [
+        "tot.rip"
+    ],
+    "primaryAddress": "tot.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#7EC8F2",
+    "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Practice",
+    "socials": {
+        "discord": "https://discord.gg/dUC3sktFA"
+    },
+    "crossplay": false
+}
