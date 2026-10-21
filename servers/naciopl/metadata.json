@@ -4,7 +4,7 @@
   "name": "Mc.Nacio.PL",
   "description": "A Polish social Minecraft server with apartments, jobs and minigames.",
   "addresses": [
-    "mc.nacio.pl"
+    "nacio.pl"
   ],
   "primaryAddress": "mc.nacio.pl",
   "minecraftVersions": [
@@ -33,7 +33,7 @@
   "website": "https://www.nacio.pl/",
   "socials": {
     "discord": "https://discord.gg/vPMxyTXb8C",
-    "tiktok": "https://www.tiktok.com/@mc.nacio.pl"
+    "tiktok": "@mc.nacio.pl"
   },
   "crossplay": false,
   "offline": true
