@@ -1,0 +1,28 @@
+{
+    "id": "foxempire",
+    "name": "FoxEmpire",
+    "description": "Ukrainian modded survival with AlexsMobs & IC2, JOIN WITH A VANILLA CLIENT!",
+    "addresses": [
+        "foxempire.fun"
+    ],
+    "primaryAddress": "foxempire.fun",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryColor": "#f57c1f",
+    "secondaryColor": "#2b1a0e",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Modded"
+    ],
+    "primaryGameType": "Survival"
+}
