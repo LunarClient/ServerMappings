@@ -1,0 +1,16 @@
+{
+  "id": "prostudios",
+  "name": "PRO STUDIOS",
+  "description": "Survival, Lifesteal & PvP Network",
+  "addresses": [
+    "play.prostudios.2bd.net"
+  ],
+  "primaryAddress": "play.prostudios.2bd.net",
+  "minecraftVersions": [
+    "1.21.11",
+    "26.1"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#FF0055",
+  "secondaryColor": "#00FBFF"
+}
