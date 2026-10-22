@@ -1,0 +1,44 @@
+{
+    "id": "everglow",
+    "name": "EverGlow Network",
+    "description": "Generator islands and a Survival SMP with clans - on Java and Bedrock",
+    "addresses": [
+        "everglow.network"
+    ],
+    "primaryAddress": "play.everglow.network",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#3cff6e",
+    "secondaryColor": "#00e5ff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Tycoon",
+        "Survival"
+    ],
+    "primaryGameType": "Tycoon",
+    "compliance": {
+        "privacyPolicy": "https://admin.everglow.network/legal#privacy"
+    },
+    "socials": {
+        "discord": "https://discord.gg/everglownetwork",
+        "tiktok": "@everglownetwork"
+    },
+    "crossplay": true
+}

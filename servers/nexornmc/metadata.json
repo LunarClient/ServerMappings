@@ -1,13 +1,13 @@
 {
   "id": "nexornmc",
-  "name": "NEXORNMC",
-  "description": "NEXORNMC - Join our Minecraft community and enjoy a unique network experience.",
+  "name": "NexornMC",
+  "description": "NEXORNMC - Join our Minecraft community and enjoy a unique network experience",
   "addresses": [
     "nexornmc.com"
   ],
-  "primaryAddress": "play.nexornmc.com",
+  "primaryAddress": "nexornmc.com",
   "offline": false,
-  "primaryColor": "#FFD25B",
+  "primaryColor": "#EFD25B",
   "secondaryColor": "#FF9C1B",
   "minecraftVersions": [
     "1.17.*",
@@ -21,11 +21,10 @@
   "regions": [
     "NA"
   ],
-  "primaryGameType": "Casual",
   "gameTypes": [
-    "Casual"
+    "Survival"
   ],
   "socials": {
-    "discord": "https://discord.gg/xpeeNpZkcb"
+    "discord": "https://discord.gg/nexornmc"
   }
 }
