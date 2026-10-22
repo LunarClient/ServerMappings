@@ -1,7 +1,7 @@
 {
     "id": "foxempire",
     "name": "[UA] FoxEmpire",
-    "description": "Ukraine modded survival with AlexsMobs & IC2, JOIN WITH A VANILLA CLIENT!",
+    "description": "Ukrainian survival with AlexsMobs and IC2 content - join with vanilla client",
     "addresses": [
         "foxempire.fun"
     ],
@@ -22,7 +22,16 @@
     ],
     "gameTypes": [
         "Survival",
-        "Modded"
+        "PvE",
+        "Roleplay"
     ],
-    "primaryGameType": "Survival"
+    "primaryGameType": "Survival",
+    "crossplay": false,
+    "offline": true,
+    "votingLinks": [
+        "https://allmc.in.ua/foxempire-fun"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/6nGeuSvrFa"
+    }
 }
