@@ -1,0 +1,45 @@
+{
+    "id": "nixxosmp",
+    "name": "NIXXOSMP",
+    "description": "Spanish Survival PvP: player economy, instant 1v1 duels and Practice",
+    "addresses": [
+        "nixxosmp.lat"
+    ],
+    "primaryAddress": "nixxosmp.lat",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "primaryColor": "#00b4f0",
+    "secondaryColor": "#002090",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "NA"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Practice"
+    ],
+    "website": "https://www.nixxosmp.lat/?s=cli-lunar",
+    "socials": {
+        "discord": "https://discord.gg/9hFnf5v4ME"
+    },
+    "crossplay": true,
+    "offline": true
+}

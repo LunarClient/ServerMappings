@@ -1,7 +1,7 @@
 {
     "id": "brbw",
     "name": "brbw",
-    "description": "ranked bedwars server with automation that works with discord bot",
+    "description": "Ranked Bed Wars server with automation powered by a Discord bot",
     "addresses": [
         "brbw.fun"
     ],

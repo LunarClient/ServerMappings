@@ -3,9 +3,9 @@
     "name": "MineShard",
     "description": "A competitive Minecraft PvP network featuring Bridge Training and Practice PvP.",
     "addresses": [
-        "snowmc.ir"
+        "mineshard.top"
     ],
-    "primaryAddress": "snowmc.ir",
+    "primaryAddress": "mc.mineshard.top",
     "minecraftVersions": [
         "1.8.9",
         "1.12.2",

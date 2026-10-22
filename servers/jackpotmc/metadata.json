@@ -7,7 +7,7 @@
   "addresses": [
     "jackpotmc.com"
   ],
-  "primaryAddress": "jackpotmc.com",
+  "primaryAddress": "play.jackpotmc.com",
   "primaryColor": "#ffd200",
   "secondaryColor": "#ff8000",
   "minecraftVersions": [

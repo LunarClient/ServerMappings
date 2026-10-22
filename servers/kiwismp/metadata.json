@@ -1,0 +1,40 @@
+{
+    "id": "kiwismp",
+    "name": "KiwiSMP",
+    "description": "Earth SMP with Survival, Creative, PvP, Parkour and fun events!",
+    "addresses": [
+        "kiwismp.fun"
+    ],
+    "primaryAddress": "play.kiwismp.fun",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#8db53c",
+    "secondaryColor": "#a0582d",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Earth",
+        "Survival",
+        "Creative",
+        "PvP",
+        "Parkour",
+        "Minigames"
+    ],
+    "primaryGameType": "Earth",
+    "website": "https://hub.kiwismp.fun",
+    "socials": {
+        "youtube": "@kiwismp",
+        "instagram": "kiwismp",
+        "tiktok": "@kiwismp"
+    },
+    "crossplay": true
+}
