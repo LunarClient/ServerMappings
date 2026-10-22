@@ -9,10 +9,11 @@
         "spearmc.net",
         "nightvanilla.net"
     ],
-    "primaryAddress": "siegelands.org",
+    "primaryAddress": "lc.siegelands.org",
     "primaryColor": "#6fa965",
     "secondaryColor": "#368625",
     "minecraftVersions": [
+        "26.3.*",
         "26.2.*",
         "26.1.*",
         "1.21.*",
