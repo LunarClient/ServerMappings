@@ -1,0 +1,37 @@
+{
+  "id": "zynoxcraftnetwork",
+  "name": "ZynoxCraft Network",
+  "description": "Servidor de Minecraft Survival, Java & Bedrock",
+  "addresses": [
+    "mc.zynoxcraft.net",
+    "zynoxcraft.net"
+  ],
+  "primaryAddress": "mc.zynoxcraft.net",
+  "minecraftVersions": [
+    "1.20*",
+    "1.20.*",
+    "1.21",
+    "1.21.*",
+    "26*",
+    "26.1*",
+    "26.x"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryColor": "#00FFFF",
+  "secondaryColor": "#FF0000",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "primaryGameType": "Survival",
+  "crossplay": true,
+  "website": "https://zynoxcraft.net",
+  "store": "https://zynoxcraft.tebex.io",
+  "socials": {
+    "discord": "https://discord.com/invite/W2AgCrUEkA"
+  }
+}
