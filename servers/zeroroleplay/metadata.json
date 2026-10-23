@@ -1,0 +1,44 @@
+{
+    "id": "zeroroleplay",
+    "name": "ZeroRoleplay",
+    "description": "Italian Roleplay server with a realistic economy, jobs and companies",
+    "addresses": [
+        "zeroroleplay.it"
+    ],
+    "primaryAddress": "mc.zeroroleplay.it",
+    "minecraftVersions": [
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#F38300",
+    "secondaryColor": "#209ACC",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Roleplay"
+    ],
+    "primaryGameType": "Roleplay",
+    "website": "https://zeroroleplay.it",
+    "store": "https://zeroroleplay.it/store/gradi",
+    "compliance": {
+        "privacyPolicy": "https://zeroroleplay.it/privacy-policy",
+        "termsOfService": "https://zeroroleplay.it/terms",
+        "rules": "https://zeroroleplay.it/regole"
+    },
+    "socials": {
+        "discord": "https://discord.gg/zeroroleplay",
+        "telegram": "ZeroRoleplayMC",
+        "youtube": "@ZeroStudiosMC"
+    },
+    "crossplay": false,
+    "offline": true
+}
