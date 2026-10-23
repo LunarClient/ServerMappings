@@ -8,13 +8,9 @@
   ],
   "primaryAddress": "mc.zynoxcraft.net",
   "minecraftVersions": [
-    "1.20",
     "1.20.x",
-    "1.21",
     "1.21.x",
-    "26.0",
     "26.0.x",
-    "26.1",
     "26.1.x",
     "26.x"
   ],
