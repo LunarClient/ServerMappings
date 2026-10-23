@@ -29,11 +29,15 @@
     "primaryGameType": "Roleplay",
     "website": "https://zeroroleplay.it",
     "store": "https://zeroroleplay.it/store/gradi",
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/zeroroleplay"
+    ],
     "compliance": {
         "privacyPolicy": "https://zeroroleplay.it/privacy-policy",
         "termsOfService": "https://zeroroleplay.it/terms",
         "rules": "https://zeroroleplay.it/regole"
     },
+    "presentationVideo": "IzrgBSfTk1M",
     "socials": {
         "discord": "https://discord.gg/zeroroleplay",
         "telegram": "ZeroRoleplayMC",
