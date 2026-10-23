@@ -1,0 +1,43 @@
+{
+    "id": "lostpiece",
+    "name": "LostPiece",
+    "description": "Lostpiece is An MMORPG minecraft server based on Onepiece",
+    "addresses": [
+        "lostpiece.net"
+    ],
+    "primaryAddress": "play.lostpiece.net",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#fb542b",
+    "secondaryColor": "#f9d0c6",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvE",
+        "Adventure",
+        "MMORPG",
+        "Open World",
+        "PvP"
+    ],
+    "website": "https://lostpiece.net",
+    "store": "https://store.lostpiece.net",
+    "compliance": {
+        "termsOfService": "https://lostpiece.net/terms",
+        "rules": "https://lostpiece.net/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/lostpiece",
+        "tiktok": "@lostpiecemc",
+        "youtube": "@LostPieceMC"
+    },
+    "crossplay": false
+}

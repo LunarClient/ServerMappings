@@ -1,0 +1,32 @@
+{
+    "id": "imperio",
+    "name": "ImperioHispano",
+    "description": "Play Survival, PvP, and much more on ImperioHispano",
+    "store": "https://tienda.imperiohispano.net/",
+    "addresses": [
+        "imperiohispano.net"
+    ],
+    "primaryAddress": "imperiohispano.net",
+    "primaryColor": "#ff9c00",
+    "secondaryColor": "#fff600",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE"
+    ],
+    "socials": {
+        "twitter": "ServerHispano",
+        "discord": "https://discord.gg/imperio",
+        "youtube": "SrBigos",
+        "twitch": "bigos"
+    }
+}

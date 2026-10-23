@@ -1,9 +1,9 @@
 {
     "id": "quickland",
     "name": "QuickLand Network",
-    "website": "https://quicklandx.tebex.io/",
-    "store": "https://quicklandx.tebex.io/",
-    "description": "A Minecraft Network with Survival, PvP and Creative",
+    "website": "https://quickland.net/",
+    "store": "https://tienda.quickland.net/",
+    "description": "A Spanish Survival server with economy, clans and slimefun",
     "addresses": [
         "quickland.net"
     ],
@@ -11,18 +11,20 @@
     "primaryColor": "#55ffff",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*",
         "1.12.*",
         "1.16.*",
         "1.17.*",
         "1.18.*",
-        "1.19.*"
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.7.10",
-    "primaryRegion": "NA",
+    "primaryMinecraftVersion": "1.12.2",
+    "primaryRegion": "SA",
     "regions": [
-        "NA"
+        "SA"
     ],
     "primaryLanguage": "es-EN",
     "languages": [
@@ -30,10 +32,16 @@
         "en"
     ],
     "gameTypes": [
-        "PvP"
+        "Survival",
+        "PvE",
+        "Open World"
     ],
     "socials": {
         "discord": "https://discord.gg/quickland-network-703838301886349312",
-        "youtube": "@quickland"
-    }
+        "youtube": "@QuickLand",
+        "tiktok": "@quicklandmc",
+        "twitter": "quicklandmc",
+        "instagram": "quicklandmc"
+    },
+    "crossplay": true
 }

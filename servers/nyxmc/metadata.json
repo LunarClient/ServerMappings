@@ -1,0 +1,40 @@
+{
+  "id": "nyxmc",
+  "name": "NyxMc",
+  "description": "Survival SMP with kits, economy, RTP, and a space vibe.",
+  "addresses": [
+    "nyx-mc.net"
+  ],
+  "primaryAddress": "play.nyx-mc.net",
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#00E6FF",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "crossplay": true,
+  "primaryRegion": "AS",
+  "regions": [
+    "AS",
+    "EU",
+    "NA"
+  ],
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryGameType": "Survival",
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "Open World",
+    "Modded"
+  ],
+  "website": "https://nyx-mc.net/",
+  "socials": {
+    "discord": "https://discord.gg/PSAP2u22ea"
+  }
+}

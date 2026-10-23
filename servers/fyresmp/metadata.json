@@ -1,0 +1,38 @@
+{
+    "id": "fyresmp",
+    "name": "FyreSMP",
+    "store": "https://store.fyresmp.net/",
+    "description": "Play with Farex on FyreSMP",
+    "addresses": [
+        "fyresmp.net"
+    ],
+    "primaryAddress": "fyresmp.net",
+    "primaryColor": "#ff8e00",
+    "secondaryColor": "#f56004",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Crystal PvP",
+        "Open World",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/fyresmp"
+    }
+}

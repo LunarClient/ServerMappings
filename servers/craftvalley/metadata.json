@@ -1,0 +1,46 @@
+{
+    "id": "craftvalley",
+    "name": "CraftValley",
+    "description": "Peaceful German survival server for Java & Bedrock",
+    "addresses": [
+        "craftvalley.de"
+    ],
+    "primaryAddress": "play.craftvalley.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#7CC924",
+    "secondaryColor": "#8B5A2B",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Casual",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://craftvalley.de",
+    "store": "https://store.craftvalley.de",
+    "compliance": {
+        "privacyPolicy": "https://craftvalley.de/datenschutz",
+        "rules": "https://craftvalley.de/regelwerk",
+        "support": "https://craftvalley.de/faq"
+    },
+    "socials": {
+        "discord": "https://discord.gg/craftvalley",
+        "youtube": "@play_CraftValley_de",
+        "instagram": "play.craftvalley.de",
+        "tiktok": "@play.craftvalley.de"
+    },
+    "crossplay": true
+}

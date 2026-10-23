@@ -1,0 +1,48 @@
+{
+  "id": "minesherry",
+  "name": "MineSherry",
+  "description": "Offline network with BoxPvP, Survival, BedWars and Arcade minigames!",
+  "store": "https://tienda.minesherry.fun",
+  "addresses": [
+    "minesherry.fun"
+  ],
+  "primaryAddress": "play.minesherry.fun",
+  "primaryColor": "#ff1e56",
+  "secondaryColor": "#ff7eb3",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "crossplay": true,
+  "offline": true,
+  "primaryRegion": "SA",
+  "regions": [
+    "SA",
+    "NA"
+  ],
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN",
+    "en"
+  ],
+  "primaryGameType": "BoxPvP",
+  "gameTypes": [
+    "BoxPvP",
+    "Survival",
+    "Minigames",
+    "PvP"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/PGYv88dujM",
+    "tiktok": "@minesherrynetwork"
+  }
+}

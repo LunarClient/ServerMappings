@@ -9,6 +9,7 @@ on:
       - "*"
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   changes:
@@ -91,22 +92,45 @@ jobs:
   upload-servers:
     name: Upload Servers
     needs: [validate-servers, changes]
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master' || github.event_name == 'schedule'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
 
     permissions:
-      id-token: write
       contents: read
+
+    env:
+      AWS_ENDPOINT_URL: ${{ secrets.CF_R2_ENDPOINT }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
 
     steps:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
-      - name: Configure Google Cloud credentials
-        uses: google-github-actions/auth@v3
-        with:
-          workload_identity_provider: 'projects/824216268633/locations/global/workloadIdentityPools/github-actions/providers/github-actions-oidc'
-          service_account: "github-actions@mw-lunarclient-cdn.iam.gserviceaccount.com"
+      - name: Refuse to publish an older index
+        run: |
+          SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
+
+          if ! LIVE_METADATA="$(aws s3api head-object --bucket servermappings-lunarclientcdn-com --key servers.json)"; then
+            echo "::error::Unable to read metadata of the published servers.json."
+            exit 1
+          fi
+
+          # S3 lowercases user metadata keys
+          LIVE_COMMITTED_AT="$(printf '%s' "$LIVE_METADATA" | python3 -c 'import json, sys; print(json.load(sys.stdin).get("Metadata", {}).get("sourcecommittedat", ""))')"
+
+          if [ -z "$LIVE_COMMITTED_AT" ]; then
+            echo "::warning::Published servers.json has no sourceCommittedAt; skipping freshness check."
+            exit 0
+          fi
+
+          if [ "$(date -u -d "$LIVE_COMMITTED_AT" +%s)" -gt "$(date -u -d "$SOURCE_COMMITTED_AT" +%s)" ]; then
+            echo "::error::Refusing to publish: this build is from ${SOURCE_COMMITTED_AT}, older than the published index (${LIVE_COMMITTED_AT}). This usually means an old workflow run was re-run; re-run the latest master run instead."
+            exit 1
+          fi
+
+          echo "Publishing ${SOURCE_COMMITTED_AT} over ${LIVE_COMMITTED_AT}."
 
       - name: Setup Python 3.x
         uses: actions/setup-python@v5
@@ -134,6 +158,14 @@ jobs:
 
       - name: Output Server Media
         run: |
+          # A dry run converts every server regardless, and its changed file
+          # list is too large to pass as a single argument.
+          if [ '${{ needs.changes.outputs.dry }}' = 'true' ]; then
+            set --
+          else
+            set -- --changed_files '${{ needs.changes.outputs.servers_files }}'
+          fi
+
           python .scripts/convert_media.py \
           --servers_dir servers \
           --inactive_file inactive.json \
@@ -144,8 +176,8 @@ jobs:
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
           --servers_assets_output .out/assets \
-          --changed_files '${{ needs.changes.outputs.servers_files }}' \
-          --dry_upload ${{ needs.changes.outputs.dry }}
+          --dry_upload '${{ needs.changes.outputs.dry }}' \
+          "$@"
         env:
           USE_ARGS: "true"
 
@@ -173,15 +205,19 @@ jobs:
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
 
-      - name: Upload to GCS
+      - name: Upload to R2
         run: |
+          SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
           cd .out/
-          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' backgrounds/ gs://servermappings-lunarclientcdn-com/ || true
-          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' banners/ gs://servermappings-lunarclientcdn-com/ || true
-          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' logos/ gs://servermappings-lunarclientcdn-com/ || true
-          gcloud storage cp --recursive --cache-control='public, max-age=3600, s-maxage=3600' wordmarks/ gs://servermappings-lunarclientcdn-com/ || true
-          gcloud storage cp --cache-control='public, max-age=300, s-maxage=300' servers.json gs://servermappings-lunarclientcdn-com/servers.json
-          gcloud storage cp --recursive --cache-control='public, max-age=31536000, s-maxage=31536000' assets/ gs://servermappings-lunarclientcdn-com/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' backgrounds/ s3://servermappings-lunarclientcdn-com/backgrounds/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' banners/ s3://servermappings-lunarclientcdn-com/banners/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' logos/ s3://servermappings-lunarclientcdn-com/logos/ || true
+          aws s3 cp --recursive --cache-control 'public, max-age=3600, s-maxage=3600' wordmarks/ s3://servermappings-lunarclientcdn-com/wordmarks/ || true
+          aws s3 cp \
+            --cache-control 'public, max-age=300, s-maxage=300' \
+            --metadata "sourceCommittedAt=${SOURCE_COMMITTED_AT}" \
+            servers.json s3://servermappings-lunarclientcdn-com/servers.json
+          aws s3 cp --recursive --cache-control 'public, max-age=31536000, s-maxage=31536000' assets/ s3://servermappings-lunarclientcdn-com/assets/ || true
 
       - name: Purge Cloudflare cache
         env:

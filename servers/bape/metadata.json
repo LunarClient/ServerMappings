@@ -1,0 +1,27 @@
+{
+    "id": "bape",
+    "name": "Bape Network",
+    "store": "https://store.bape.pro/",
+    "description": "A classic survival server.",
+    "addresses": [
+        "bape.pro"
+    ],
+    "primaryAddress": "play.bape.pro",
+    "primaryColor": "#F8B215",
+    "secondaryColor": "#DBFD79",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/bapemc"
+    }
+}

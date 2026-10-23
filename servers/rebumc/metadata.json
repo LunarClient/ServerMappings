@@ -1,0 +1,38 @@
+{
+    "id": "rebumc",
+    "name": "Rebu Mc",
+    "website": "https://rebumc.com/",
+    "store": "https://store.rebumc.com/",
+    "description": "A cross-platform network with Survival SMP, Pillars of fortune and Practice",
+    "addresses": [
+        "rebumc.com"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryAddress": "rebumc.com",
+    "primaryColor": "#ffef0f",
+    "secondaryColor": "#217ded",
+    "primaryLanguage": "ar",
+    "languages": [
+        "ar",
+        "en"
+    ],
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/HYrwCJfrpD"
+    },
+    "crossplay": true
+}

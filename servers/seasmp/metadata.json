@@ -1,0 +1,37 @@
+{
+    "id": "seasmp",
+    "name": "SeaSMP",
+    "description": "Competitive Crystal PvP survival server with an active economy.",
+    "addresses": [
+        "seasmp.de"
+    ],
+    "primaryAddress": "seasmp.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+    "gameTypes": [
+        "Crystal PvP",
+        "PvP",
+        "Survival",
+        "Open World"
+    ],
+    "primaryGameType": "Crystal PvP",
+    "primaryColor": "#00A9FE",
+    "secondaryColor": "#008CFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "website": "https://seasmp.de",
+    "socials": {
+        "discord": "https://discord.gg/PAtDsRpwNB"
+    },
+    "crossplay": false
+}

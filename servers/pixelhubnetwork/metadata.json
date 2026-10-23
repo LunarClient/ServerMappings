@@ -1,0 +1,37 @@
+{
+    "id": "pixelhubnetwork",
+    "name": "PixelHub Network",
+    "website": "https://www.pixelhubmc.fun",
+    "store": "https://tienda.pixelhubmc.fun",
+    "description": "Spanish network with Survival Custom and BoxPvP. Java & Bedrock crossplay.",
+    "addresses": [
+        "pixelhubmc.fun"
+    ],
+    "primaryAddress": "pixelhubmc.fun",
+    "primaryColor": "#63FF14",
+    "secondaryColor": "#E5FFD8",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/pixelhubmc"
+    }
+}

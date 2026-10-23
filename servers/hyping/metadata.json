@@ -22,10 +22,14 @@
     "languages": [
         "fr"
     ],
+    "primaryGameType": "Earth",
     "gameTypes": [
         "PvE",
         "Adventure",
-        "Survival"
+        "Survival",
+        "Skyblock",
+        "OneBlock",
+        "Towny"
     ],
     "socials": {
         "twitter": "playHyping",

@@ -1,0 +1,33 @@
+{
+    "id": "hugosmp",
+    "name": "HugoSMP",
+    "store": "https://shop.hugosmp.net/",
+    "description": "LetsHugo's SMP with PvP, raiding & a massive community",
+    "addresses": [
+        "hugosmp.net"
+    ],
+    "primaryAddress": "hugosmp.net",
+    "primaryColor": "#d10409",
+    "secondaryColor": "#5f2a86",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/hugosmp"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": "spellbrook",
+    "name": "Spellbrook",
+    "website": "https://spellbrook.gg/",
+    "wiki": "https://spellbrook.wiki/",
+    "store": "https://store.spellbrook.gg/",
+    "merch": "https://moonbeamandwisp.com/",
+    "description": "Learn spells, tame magical creatures and become a powerful caster!",
+    "addresses": [
+        "spellbrook.gg"
+    ],
+    "primaryAddress": "play.spellbrook.gg",
+    "primaryColor": "#833fff",
+    "secondaryColor": "#fbad58",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Casual"
+    ],
+    "socials": {
+        "twitter": "playspellbrook",
+        "discord": "https://discord.com/invite/spellbrook",
+        "youtube": "spellbrook",
+        "instagram": "playspellbrook",
+        "tiktok": "@playspellbrook"
+    }
+}

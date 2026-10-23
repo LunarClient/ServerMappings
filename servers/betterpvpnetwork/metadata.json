@@ -12,7 +12,8 @@
     "secondaryColor": "#156E08",
     "minecraftVersions": [
         "1.21.11",
-        "26.*"
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "primaryRegion": "NA",

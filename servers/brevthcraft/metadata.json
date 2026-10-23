@@ -1,0 +1,32 @@
+{
+  "id": "brevthcraft",
+  "name": "BrevthCraft",
+  "description": "Minecraft network with unique survival and competitive gamemodes.",
+  "primaryAddress": "mc.brevthcraft.net",
+  "addresses": [
+    "brevthcraft.net"
+  ],
+  "primaryColor": "#00AAFF",
+  "secondaryColor": "#0055FF",
+  "minecraftVersions": [
+    "1.20",
+    "1.21",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "en",
+    "it"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "gameTypes": [
+    "Survival",
+    "Minigames",
+    "PvP"
+  ],
+  "website": "https://brevthcraft.net"
+}
