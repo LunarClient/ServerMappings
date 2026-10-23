@@ -3,8 +3,7 @@
     "name": "EverForge Network",
     "description": "Survival, OneBlock and more. Forge your legend!",
     "addresses": [
-        "everforgenetwork.com",
-        "everforgenetwork.minecraft.best"
+        "everforgenetwork.com"
     ],
     "primaryAddress": "play.everforgenetwork.com",
     "minecraftVersions": [
@@ -32,7 +31,7 @@
         "discord": "https://discord.gg/EverForgeNetwork",
         "youtube": "EverforgeNetwork",
         "instagram": "everforgenetwork",
-        "tiktok": "everforgenetwork"
+        "tiktok": "@everforgenetwork"
     },
     "crossplay": true
 }
