@@ -1,0 +1,55 @@
+{
+    "id": "torchcraft",
+    "name": "TorchCraft",
+    "description": "The longest-running Dutch Minecraft server. Online since January 2012.",
+    "addresses": [
+        "torchcraft.nl"
+    ],
+    "primaryAddress": "server.torchcraft.nl",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#f9bd12",
+    "secondaryColor": "#f79021",
+    "primaryLanguage": "nl",
+    "languages": [
+        "nl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Creative",
+        "Hardcore"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.torchcraft.nl/",
+    "store": "https://winkel.torchcraft.nl/",
+    "wiki": "https://help.torchcraft.nl/",
+    "socials": {
+        "discord": "https://discord.com/invite/w3hxqT5",
+        "youtube": "@TorchCraftYT",
+        "instagram": "torchcraftnl",
+        "tiktok": "@torchcraftnl",
+        "facebook": "TorchCraftNL"
+    },
+    "compliance": {
+        "rules": "https://help.torchcraft.nl/algemene-informatie/regels",
+        "support": "https://www.torchcraft.nl/ticket"
+    }
+}
