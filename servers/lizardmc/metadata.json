@@ -6,29 +6,32 @@
   "addresses": [
     "play.lizardmc.net"
   ],
-  "primaryAddress": "play.lizardmc.net",
+  "primaryAddress": "lizardmc.net",
   "minecraftVersions": [
-    "26.*",
-    "1.21.*"
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
   ],
   "primaryMinecraftVersion": "1.21.10",
   "primaryColor": "#19FF4A",
   "secondaryColor": "#8CFF2A",
   "primaryLanguage": "en",
   "languages": [
-    "en",
-    "ro"
+    "en"
   ],
   "primaryRegion": "EU",
   "regions": [
     "EU"
   ],
   "gameTypes": [
-    "SMP",
-    "GensRaid",
+    "Survival",
+    "Tycoon",
     "PvP"
   ],
-  "primaryGameType": "SMP",
+  "primaryGameType": "Survival",
   "store": "https://store.lizardmc.net",
   "crossplay": false,
   "offline": true
