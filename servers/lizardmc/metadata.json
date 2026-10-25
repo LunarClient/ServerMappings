@@ -1,0 +1,35 @@
+
+{
+  "id": "lizardmc",
+  "name": "LizardMC Network",
+  "description": "Explore LizardSMP and GensRaid! Build bases, farm generators, fight and raid!",
+  "addresses": [
+    "play.lizardmc.net"
+  ],
+  "primaryAddress": "play.lizardmc.net",
+  "minecraftVersions": [
+    "26.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.10",
+  "primaryColor": "#19FF4A",
+  "secondaryColor": "#8CFF2A",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "ro"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "SMP",
+    "GensRaid",
+    "PvP"
+  ],
+  "primaryGameType": "SMP",
+  "store": "https://store.lizardmc.net",
+  "crossplay": false,
+  "offline": true
+}
