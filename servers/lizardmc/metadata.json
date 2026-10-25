@@ -4,7 +4,7 @@
   "name": "LizardMC Network",
   "description": "Explore LizardSMP and GensRaid! Build bases, farm generators, fight and raid!",
   "addresses": [
-    "play.lizardmc.net"
+    "lizardmc.net"
   ],
   "primaryAddress": "lizardmc.net",
   "minecraftVersions": [
