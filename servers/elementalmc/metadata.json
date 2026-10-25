@@ -10,7 +10,7 @@
     "primaryColor": "#5A08FB",
     "secondaryColor": "#FFFFFF",
     "minecraftVersions": [
-        "26.1.*"
+        "26.*"
     ],
     "primaryMinecraftVersion": "26.2",
     "primaryRegion": "EU",
@@ -20,7 +20,7 @@
     "gameTypes": [
         "Survival",
         "PvP",
-        "Kingdoms"
+        "MMORPG"
     ],
     "socials": {
         "tiktok": "@play.elementalmc.live",
