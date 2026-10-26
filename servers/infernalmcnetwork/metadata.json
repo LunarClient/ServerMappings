@@ -1,0 +1,35 @@
+{
+  "id": "infernalmcnetwork",
+  "name": "InfernalMC",
+  "description": "Spanish-language Minecraft server with custom game modes.",
+  "addresses": [
+    "infernalmc.us"
+  ],
+  "primaryAddress": "infernalmc.us",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#C81018",
+  "secondaryColor": "#E9AD57",
+  "primaryLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "SkyBlock",
+    "FullPvP",
+    "BoxPvP",
+    "FastFarm"
+  ],
+  "primaryGameType": "Survival",
+  "store": "https://tienda.infernalmc.us/",
+  "socials": {
+    "discord": "https://discord.infernalmc.us/"
+  }
+}
