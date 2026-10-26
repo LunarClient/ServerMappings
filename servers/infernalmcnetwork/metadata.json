@@ -12,9 +12,9 @@
   "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#C81018",
   "secondaryColor": "#E9AD57",
-  "primaryLanguage": "es",
+  "primaryLanguage": "es-EN",
   "languages": [
-    "es"
+    "es-EN"
   ],
   "primaryRegion": "SA",
   "regions": [
@@ -22,14 +22,13 @@
   ],
   "gameTypes": [
     "Survival",
-    "SkyBlock",
-    "FullPvP",
-    "BoxPvP",
-    "FastFarm"
+    "Skyblock",
+    "PvP",
+    "BoxPvP"
   ],
   "primaryGameType": "Survival",
   "store": "https://tienda.infernalmc.us/",
   "socials": {
-    "discord": "https://discord.infernalmc.us/"
+    "discord": "https://discord.gg/puhFcJWgvY"
   }
 }
