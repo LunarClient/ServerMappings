@@ -1,0 +1,35 @@
+{
+    "id": "clockmc",
+    "name": "ClockMC",
+    "description": "Cross-platform Survival with a chaotic crystal flair.",
+    "store": "https://store.clockmc.net/",
+    "addresses": [
+        "play.clockmc.net"
+    ],
+    "primaryAddress": "play.clockmc.net",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#4F81EC",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "Shop Survival",
+    "gameTypes": [
+        "Survival",
+        "Crystal PvP",
+        "PvP",
+        "KitPvP"
+    ],
+    "socials": {
+        "twitter": "ClockMC",
+        "discord": "https://discord.gg/YV4T2Hme6"
+    },
+    "crossplay": true
+}
