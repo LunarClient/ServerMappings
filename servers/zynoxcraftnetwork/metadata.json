@@ -3,18 +3,17 @@
   "name": "ZynoxCraft Network",
   "description": "Servidor de Minecraft Survival, Java & Bedrock",
   "addresses": [
-    "mc.zynoxcraft.net",
     "zynoxcraft.net"
   ],
   "primaryAddress": "mc.zynoxcraft.net",
   "minecraftVersions": [
-    "1.20*",
+    "1.20",
     "1.20.*",
     "1.21",
     "1.21.*",
     "26*",
     "26.1*",
-    "26.x"
+    "26.*"
   ],
   "primaryMinecraftVersion": "26.1.2",
   "primaryColor": "#00FFFF",
