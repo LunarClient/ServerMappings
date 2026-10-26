@@ -1,0 +1,38 @@
+{
+    "id": "dynastymcnetwork",
+    "name": "DynastyMC",
+    "store": "https://tienda.dynastymc.xyz/",
+    "description": "Play UHC, PvP, BoxPvP, Survival and Kits on DynastyMC.",
+    "addresses": [
+        "dynastymc.xyz"
+    ],
+    "primaryAddress": "play.dynastymc.xyz",
+    "primaryColor": "#7c3aed",
+    "secondaryColor": "#f59e0b",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "UHC",
+        "PvP",
+        "BoxPvP",
+        "Survival",
+        "KitPvP"
+    ],
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/x7hDSFXvXz"
+    }
+}
