@@ -1,0 +1,43 @@
+{
+    "id": "rainymc",
+    "name": "Rainy Network",
+    "description": "Clans with raids, HCF classes, KOTH, pets and weather events",
+    "addresses": [
+        "rainymc.net"
+    ],
+    "primaryAddress": "play.rainymc.net",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FF57A4",
+    "secondaryColor": "#B4A7FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Factions",
+        "HCF",
+        "PvP"
+    ],
+    "primaryGameType": "Factions",
+    "website": "https://rainymc.net",
+    "store": "https://store.rainymc.net",
+    "compliance": {
+        "privacyPolicy": "https://rainymc.net/privacy",
+        "termsOfService": "https://rainymc.net/terms",
+        "rules": "https://rainymc.net/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/rainymc"
+    },
+    "crossplay": false
+}
