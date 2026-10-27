@@ -1,33 +1,36 @@
 {
     "id": "sparkane",
     "name": "Sparkane",
-    "store": "https://store.sparkane.com",
-    "description": "Experience 1.8-Style Combat in 1.21 — Soup PvP & Challenges",
+    "store": "https://sparkane.com/shop",
+    "description": "Choose from 30+ challenges and play solo or with friends.",
     "addresses": [
         "sparkane.com"
     ],
-    "primaryAddress": "sparkane.com",
+    "primaryAddress": "play.sparkane.com",
     "primaryColor": "#FFA500",
     "secondaryColor": "#F0EDED",
     "minecraftVersions": [
-        "1.21.4",
-        "1.21.5"
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
     ],
-    "primaryMinecraftVersion": "1.21.4",
-    "crossplay": false,
+    "primaryMinecraftVersion": "26.3",
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "en",
+    "primaryLanguage": "de",
     "languages": [
-        "en",
-        "de"
+        "de",
+        "en"
     ],
     "gameTypes": [
-        "PvP",
-        "Minigames",
-        "Open World"
+        "Survival",
+        "Adventure"
     ],
     "socials": {
         "twitter": "SparkaneMC",
@@ -36,8 +39,16 @@
         "instagram": "sparkanemc",
         "tiktok": "@sparkane"
     },
-    "presentationVideo": "jFgb5OTBqGo",
     "votingLinks": [
         "https://namemc.com/server/sparkane.com"
-    ]
+    ],
+    "website": "https://sparkane.com",
+    "wiki": "https://sparkane.com/guides",
+    "primaryGameType": "Survival",
+    "compliance": {
+        "privacyPolicy": "https://sparkane.com/legal/privacy-policy",
+        "termsOfService": "https://sparkane.com/legal/terms",
+        "rules": "https://sparkane.com/rules",
+        "support": "https://sparkane.com/discord"
+    }
 }
