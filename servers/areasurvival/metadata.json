@@ -16,7 +16,8 @@
         "1.20.*",
         "1.21.*",
         "26.1.*",
-        "26.2.*"
+        "26.2.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "26.2",
     "primaryLanguage": "en",
@@ -31,7 +32,8 @@
         "Survival",
         "Vanilla",
         "Creative",
-        "PvP"
+        "PvP",
+        "Prison"
     ],
     "primaryGameType": "Survival",
     "socials": {

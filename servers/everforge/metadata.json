@@ -1,0 +1,37 @@
+{
+    "id": "everforge",
+    "name": "EverForge Network",
+    "description": "Survival, OneBlock and more. Forge your legend!",
+    "addresses": [
+        "everforgenetwork.com"
+    ],
+    "primaryAddress": "play.everforgenetwork.com",
+    "minecraftVersions": [
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FF7A1A",
+    "secondaryColor": "#2B1A12",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://everforgenetwork.com",
+    "store": "https://everforgenetwork.com/store",
+    "socials": {
+        "discord": "https://discord.gg/EverForgeNetwork",
+        "youtube": "EverforgeNetwork",
+        "instagram": "everforgenetwork",
+        "tiktok": "@everforgenetwork"
+    },
+    "crossplay": true
+}

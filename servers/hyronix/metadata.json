@@ -7,15 +7,11 @@
     ],
     "primaryAddress": "mc.hyronix.cz",
     "minecraftVersions": [
-        "1.21.11"
+        "26.2"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "26.2",
     "primaryColor": "#A542FF",
     "secondaryColor": "#c797ff",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -27,7 +23,12 @@
     "website": "https://www.hyronix.cz/",
     "store": "https://www.hyronix.cz/obchod",
     "socials": {
-        "discord": "https://discord.com/invite/z29FZajvEA"
+        "discord": "https://discord.gg/dypGupxbGx"
     },
-    "crossplay": false
+    "crossplay": false,
+    "compliance": {
+        "rules": "https://www.hyronix.cz/pravidla",
+        "termsOfService": "https://www.hyronix.cz/terms",
+        "privacyPolicy": "https://www.hyronix.cz/privacy"
+    }
 }

@@ -1,0 +1,39 @@
+{
+    "id": "mustpvp",
+    "name": "MustPvP",
+    "description": "Polish PvP network: Practice, Duels, FFA, SkyBlock and more",
+    "addresses": [
+        "mustpvp.pl"
+    ],
+    "primaryAddress": "mustpvp.pl",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#19C4DC",
+    "secondaryColor": "#0E2A4A",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "KitPvP",
+        "Skyblock"
+    ],
+    "primaryGameType": "Practice",
+    "website": "https://mustpvp.pl",
+    "store": "https://sklep.mustpvp.pl",
+    "socials": {
+        "discord": "https://discord.com/invite/mustpvp"
+    },
+    "crossplay": false
+}
