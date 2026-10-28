@@ -5,7 +5,7 @@
   "addresses": ["drillmc.com"],
   "primaryAddress": "play.drillmc.com",
   "minecraftVersions": ["1.21.*"],
-  "primaryMinecraftVersion": "1.21.4",
+  "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#4CE01B",
   "secondaryColor": "#FFFFFF",
   "languages": ["en"],
