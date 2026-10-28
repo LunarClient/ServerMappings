@@ -1,21 +1,34 @@
 {
-  "id": "drillmc",
-  "name": "DrillMC",
-  "description": "Gens, simulators, factory and farming all on one grinding network!",
-  "addresses": ["drillmc.com"],
-  "primaryAddress": "play.drillmc.com",
-  "minecraftVersions": ["1.21.*"],
-  "primaryMinecraftVersion": "1.21.11",
-  "primaryColor": "#4CE01B",
-  "secondaryColor": "#FFFFFF",
-  "languages": ["en"],
-  "primaryLanguage": "en",
-  "regions": ["NA", "EU"],
-  "primaryRegion": "NA",
-  "gameTypes": ["Tycoon", "PvE", "Casual"],
-  "primaryGameType": "Tycoon",
-  "crossplay": true,
-  "socials": {
-    "discord": "https://discord.gg/DrillNetwork"
-  }
+    "id": "drillmc",
+    "name": "DrillMC",
+    "description": "Gens, simulators, factory and farming all on one grinding network!",
+    "addresses": [
+        "drillmc.com"
+    ],
+    "primaryAddress": "play.drillmc.com",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#4CE01B",
+    "secondaryColor": "#FFFFFF",
+    "languages": [
+        "en"
+    ],
+    "primaryLanguage": "en",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "primaryRegion": "NA",
+    "gameTypes": [
+        "Tycoon",
+        "PvE",
+        "Casual"
+    ],
+    "primaryGameType": "Tycoon",
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/DrillNetwork"
+    }
 }
