@@ -1,0 +1,26 @@
+{
+  "id": "hondureans",
+  "name": "Hondureans Club",
+  "description": "Competitive Minecraft Practice and PvP network",
+  "addresses": [
+    "play.hondureans.dev"
+  ],
+  "primaryAddress": "play.hondureans.dev",
+  "minecraftVersions": [
+    "1.8.9"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#00184E",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Practice",
+    "PvP"
+  ],
+  "primaryGameType": "Practice",
+  "website": "https://hondureans.dev",
+  "crossplay": false
+}
