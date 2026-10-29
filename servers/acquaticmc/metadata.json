@@ -1,16 +1,13 @@
 {
     "id": "acquaticmc",
-    "name": "AcquaticMC",
-    "description": "Weapon PvP & Semiroleplay Minecraft server.",
+    "name": "Acquatic",
+    "description": "Italian Weapon Training and Semiroleplay Minecraft Server",
     "addresses": [
         "acquaticmc.it"
     ],
     "primaryAddress": "acquaticmc.it",
     "minecraftVersions": [
-        "1.21.8",
-        "1.21.9",
-        "1.21.10",
-        "1.21.11"
+        "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
     "primaryColor": "#36b7fb",

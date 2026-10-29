@@ -6,13 +6,12 @@
         "plunder.rip"
     ],
     "primaryAddress": "plunder.rip",
-    "primaryColor": "#b21b00",
-    "secondaryColor": "#f89c1c",
+    "primaryColor": "#f2b210",
+    "secondaryColor": "#bf7104",
     "minecraftVersions": [
-        "1.7.*",
-        "1.8.*"
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryMinecraftVersion": "26.2",
     "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
@@ -30,7 +29,6 @@
         "PvP"
     ],
     "socials": {
-        "twitter": "PlunderRIP",
-        "discord": "https://discord.gg/plunder"
+        "discord": "https://discord.gg/plundergames"
     }
 }
