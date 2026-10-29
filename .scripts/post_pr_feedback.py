@@ -102,6 +102,16 @@ def request_changes(repo: str, pr_number: int, body: str, token: str) -> None:
     res.raise_for_status()
 
 
+def post_comment(repo: str, pr_number: int, body: str, token: str) -> None:
+    res = gh_request(
+        "POST",
+        f"/repos/{repo}/issues/{pr_number}/comments",
+        token,
+        json={"body": body},
+    )
+    res.raise_for_status()
+
+
 def build_review_body(errors: dict) -> str:
     body = ""
     for server_id, msgs in (errors or {}).items():
@@ -110,6 +120,26 @@ def build_review_body(errors: dict) -> str:
         joined = "\n- ".join(msgs)
         body += f"\n\nErrors found for **{server_id}**:\n- {joined}"
     return body
+
+
+def build_warning_body(warnings: dict) -> str:
+    """
+    Non-blocking warnings (e.g. a description that looks like it might not be
+    English) are posted as a plain comment rather than a review, so they never
+    affect the "Ready for review" label or block merging on their own.
+    """
+    body = ""
+    for server_id, msgs in (warnings or {}).items():
+        if not msgs:
+            continue
+        joined = "\n- ".join(msgs)
+        body += f"\n\nFor **{server_id}**:\n- {joined}"
+    if not body:
+        return ""
+    return (
+        "⚠️ A few things worth double-checking (these don't block this PR):"
+        + body
+    )
 
 
 def main() -> None:
@@ -153,15 +183,16 @@ def main() -> None:
 
     if data.get("status") == "ready":
         add_ready_label(repo, pr_id, token)
-        return
+    else:
+        remove_ready_label(repo, pr_id, token)
 
-    remove_ready_label(repo, pr_id, token)
+        body = build_review_body(data.get("errors") or {})
+        if body:
+            request_changes(repo, pr_id, body, token)
 
-    body = build_review_body(data.get("errors") or {})
-    if not body:
-        return
-
-    request_changes(repo, pr_id, body, token)
+    warning_body = build_warning_body(data.get("warnings") or {})
+    if warning_body:
+        post_comment(repo, pr_id, warning_body, token)
 
 
 if __name__ == "__main__":

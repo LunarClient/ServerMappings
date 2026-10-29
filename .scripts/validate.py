@@ -11,11 +11,23 @@ import os
 import sys
 
 import jsonschema
+from langdetect import DetectorFactory, LangDetectException, detect_langs
 from tld.utils import get_tld
 from collections import defaultdict
 from utils import get_all_servers, get_edited_servers, validate_background, validate_banner, validate_logo, validate_wordmark, get_all_versions
 
+# Make language detection deterministic across runs.
+DetectorFactory.seed = 0
+
 RESULTS_FILE = "pr_results.json"
+
+# langdetect is unreliable on short strings - it regularly misreads plain English
+# sentences under ~40 characters as Danish, German, etc. at >99% confidence. Below
+# this length it's noise more often than not, so skip detection entirely. This is
+# always a warning, never a blocking error, since even above this length it still
+# occasionally misreads English text.
+DESCRIPTION_LANGUAGE_MIN_LENGTH = 40
+DESCRIPTION_LANGUAGE_CONFIDENCE_THRESHOLD = 0.85
 
 FILE_WHITELIST = [
     ".DS_Store",
@@ -78,26 +90,36 @@ def main():
     else:
         validate_root()
 
-    metadata_errors = check_metadata(arguments)
+    metadata_errors, all_warnings = check_metadata(arguments)
     all_errors = check_media(arguments, metadata_errors)
 
     pull_id = os.getenv("PR_ID")
     if all(len(section) == 0 for section in all_errors.values()):
-        write_results(pull_id, "ready", {})
+        write_results(pull_id, "ready", {}, all_warnings)
         print("No errors occurred. PR is ready for manual review.")
+        if any(len(section) > 0 for section in all_warnings.values()):
+            print(all_warnings)
         sys.exit(0)
     else:
-        write_results(pull_id, "failed", all_errors)
+        write_results(pull_id, "failed", all_errors, all_warnings)
         print(all_errors)
         sys.exit(1)
 
 
-def write_results(pull_id, status: str, messages: dict[str, list[str]]):
+def write_results(
+    pull_id,
+    status: str,
+    messages: dict[str, list[str]],
+    warnings: dict[str, list[str]] | None = None,
+):
     """
     Persist validation results to a JSON artifact for the post-validation feedback
     workflow to consume. The validation job runs untrusted PR code without secrets,
     so it cannot post to the GitHub API directly — a separate workflow_run-triggered
     job in the trusted base repo context reads this file and posts the comment/label.
+
+    `warnings` are non-blocking: they never affect `status` and never prevent the
+    "Ready for review" label, but are still surfaced to the submitter as a comment.
     """
     if not pull_id:
         return
@@ -111,6 +133,7 @@ def write_results(pull_id, status: str, messages: dict[str, list[str]]):
         "pr_id": pr_id,
         "status": status,
         "errors": messages,
+        "warnings": warnings or {},
     }
     with open(RESULTS_FILE, "w", encoding="UTF-8") as results_file:
         json.dump(payload, results_file)
@@ -131,7 +154,7 @@ def post_comment(messages: dict[str, list[str]]):
     write_results(pull_id, "failed", messages)
 
 
-def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
+def check_metadata(args: argparse.Namespace) -> tuple[defaultdict[str, list[str]], defaultdict[str, list[str]]]:
     """
     This function checks all of the json files and validates them with their appropriate schemas.
 
@@ -139,9 +162,12 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
         args (argparse.Namespace): The command-line arguments passed to the script.
 
     Returns:
-        dict[str, list[str]]: A dictionary mapping server IDs to lists of validation error messages.
+        tuple[dict[str, list[str]], dict[str, list[str]]]: A dictionary mapping server IDs to lists
+        of blocking validation error messages, and a dictionary mapping server IDs to lists of
+        non-blocking warning messages.
     """
     messages = defaultdict(list)
+    warnings = defaultdict(list)
 
     # Validate Inactive File
     inactive_schema = {}
@@ -265,7 +291,21 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                     if primary_lang := server.get("primaryLanguage"):
                         if not (languages := server.get("languages")) or primary_lang not in languages:
                             messages[server_id].append(f"The primary language ({primary_lang}) does not exist in the languages key (or the languages key does not exist).")
-                    
+
+                    if (description := server.get("description")) and len(description) >= DESCRIPTION_LANGUAGE_MIN_LENGTH:
+                        try:
+                            top_language = detect_langs(description)[0]
+                            if top_language.lang != "en" and top_language.prob >= DESCRIPTION_LANGUAGE_CONFIDENCE_THRESHOLD:
+                                warnings[server_id].append(
+                                    f'The `description` ("{description}") looks like it might not be English '
+                                    f"(detected: `{top_language.lang}`, {top_language.prob:.0%} confidence). "
+                                    "Descriptions must be written in English — the Lunar Client translation team handles "
+                                    "translating it to other languages separately. Please double check and update it if needed, "
+                                    "or ignore this if it's a false positive (e.g. a brand name confusing the detector)."
+                                )
+                        except LangDetectException:
+                            pass  # Too ambiguous to confidently detect a language; not worth surfacing.
+
                 except json.decoder.JSONDecodeError:
                     messages[server_id] = [
                         "metadata.json is malformed, please ensure it is valid json."
@@ -340,7 +380,7 @@ def check_metadata(args: argparse.Namespace) -> defaultdict[str, list[str]]:
                     f'{", ".join([f"`{s}`" for s in incorrect])} is not an acceptable input for `{key}`:\n{enum}'
                 )
 
-    return messages
+    return messages, warnings
 
 
 def check_media(
