@@ -1,0 +1,35 @@
+{
+  "id": "nullsector",
+  "name": "NullSector",
+  "description": "Survival OP 1.8 en español con PvP, KOTHs, clanes y bosses.",
+  "addresses": [
+    "nullsectormc.com"
+  ],
+  "primaryAddress": "nullsectormc.com",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#9b30ff",
+  "secondaryColor": "#ff4fd8",
+  "primaryLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA",
+    "SA",
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "website": "https://nullsector.tebex.store",
+  "store": "https://nullsector.tebex.store",
+  "socials": {
+    "discord": "https://discord.gg/RzRY8T2kBr"
+  },
+  "crossplay": false
+}
