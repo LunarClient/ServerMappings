@@ -7,7 +7,6 @@
     ],
     "primaryAddress": "mc.mineclub.dk",
     "minecraftVersions": [
-        "1.7.*",
         "1.8.*",
         "1.12.*",
         "1.16.*",
@@ -17,11 +16,12 @@
         "1.20.*",
         "1.21.*",
         "26.1.*",
-        "26.2.*"
+        "26.2.*",
+        "26.3.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
-    "primaryColor": "#ff9d05",
-    "secondaryColor": "#ffe25c",
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#15B6DC",
+    "secondaryColor": "#FFE604",
     "primaryRegion": "EU",
     "regions": [
         "EU"
