@@ -2,6 +2,7 @@
     "id": "tabmc",
     "name": "TabMC",
     "store": "https://tabmc.pl/shop",
+    "description": "Play Minigames, PvP, and more on TabMC.",
     "addresses": [
         "tabmc.pl"
     ],

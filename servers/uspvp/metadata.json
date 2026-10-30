@@ -1,6 +1,7 @@
 {
     "id": "uspvp",
     "name": "USPvP",
+    "description": "Test your combat skills on USPvP.",
     "addresses": [
         "uspvp.org"
     ],

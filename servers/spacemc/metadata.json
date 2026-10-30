@@ -2,6 +2,7 @@
     "id": "spacemc",
     "name": "SpaceMC Network",
     "store": "https://store.spacemc.club",
+    "description": "Play Minigames, PvP, and more on SpaceMC Network.",
     "addresses": [
         "spacemc.club"
     ],

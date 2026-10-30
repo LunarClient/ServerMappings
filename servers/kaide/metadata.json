@@ -1,0 +1,38 @@
+{
+    "id": "kaide",
+    "name": "Kaide Network",
+    "description": "A modern Minecraft network for casual and competitive players.",
+    "addresses": [
+        "kaide.gg"
+    ],
+    "primaryAddress": "kaide.gg",
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#AAAAAA",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Casual",
+        "Competitive",
+        "Survival",
+        "PvP",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://kaide.gg",
+    "store": "https://kaide.gg/store",
+    "socials": {
+        "discord": "https://discord.gg/kaide"
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "aquaticmcita",
+  "name": "AquaticMC",
+  "website": "https://aquaticmc.it",
+  "description": "Italian Minecraft server with Survival, events and an active community.",
+  "addresses": [
+    "aquaticmc.it"
+  ],
+  "primaryAddress": "aquaticmc.it",
+
+  "minecraftVersions": [
+    "1.21.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+
+  "primaryColor": "#7EE3F7",
+  "secondaryColor": "#4D5AB5",
+
+  "crossplay": true,
+
+  "socials": {
+    "discord": "https://discord.gg/aquaticmc"
+  },
+
+  "compliance": {
+    "privacyPolicy": "https://www.aquaticmc.it/privacy.html",
+    "termsOfService": "https://www.aquaticmc.it/terms.html",
+    "rules": "https://www.aquaticmc.it/regolamento.html"
+  },
+
+  "store": "https://store.aquaticmc.it"
+}

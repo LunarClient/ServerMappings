@@ -2,6 +2,7 @@
     "id": "minespark",
     "name": "MineSpark",
     "store": "https://tienda.minespark.es/",
+    "description": "Play PvP and Minigames on MineSpark.",
     "addresses": [
         "minespark.es"
     ],

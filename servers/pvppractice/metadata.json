@@ -6,25 +6,25 @@
         "pvppractice.xyz"
     ],
     "primaryAddress": "pvppractice.xyz",
+    "primaryColor": "#F5C16C",
+    "secondaryColor": "#2B2B2B",
     "minecraftVersions": [
         "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.11",
-    "primaryColor": "#F5C16C",
-    "secondaryColor": "#2B2B2B",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/NJeKhtkts8"
-    },
-    "crossplay": false
+    }
 }

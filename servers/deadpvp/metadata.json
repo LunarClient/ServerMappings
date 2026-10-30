@@ -3,6 +3,7 @@
     "name": "DeadPvP Network",
     "website": "https://www.deadpvp.eu",
     "store": "https://store.deadpvp.eu",
+    "description": "Test your combat skills on DeadPvP Network.",
     "addresses": [
         "deadpvp.eu",
         "deadpvp.network",

@@ -1,0 +1,36 @@
+{
+    "id": "mysticnetwork",
+    "name": "Mystic Network",
+    "website": "https://mystic-mc.net/",
+    "store": "https://store.mystic-mc.net/",
+    "description": "A cross-platform network with Survival SMP,BOXPVP and Practice",
+    "addresses": [
+        "mystic-mc.net"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryAddress": "mystic-mc.net",
+    "primaryColor": "#e8810c",
+    "secondaryColor": "#f5f51b",
+    "primaryLanguage": "ar",
+    "languages": [
+        "ar",
+        "en"
+    ],
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/XfgQrNYuKp"
+    },
+    "crossplay": true
+}

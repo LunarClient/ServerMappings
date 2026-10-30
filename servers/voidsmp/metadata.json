@@ -1,0 +1,38 @@
+{
+    "id": "voidsmp",
+    "name": "VoidSMP",
+    "store": "https://store.voidsurvival.fun",
+    "description": "Come join us today at VoidSMP!",
+    "addresses": [
+        "voidsurvival.fun"
+    ],
+    "primaryAddress": "play.voidsurvival.fun",
+    "primaryColor": "#b5102c",
+    "secondaryColor": "#6b0a42",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/wnkcNjEB5h"
+    },
+    "compliance": {
+        "privacyPolicy": "https://store.voidsurvival.fun/Policy",
+        "termsOfService": "https://store.voidsurvival.fun/Policy",
+        "rules": "https://store.voidsurvival.fun/rules"
+    }
+}

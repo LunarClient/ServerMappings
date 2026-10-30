@@ -3,6 +3,7 @@
     "name": "DonutSMP",
     "website": "https://store.donutsmp.net/home",
     "store": "https://store.donutsmp.net/",
+    "wiki": "https://donutsmp.fandom.com/",
     "description": "A Hardcore Minecraft Server and SMP that allows Bedrock",
     "addresses": [
         "donutsmp.net"
@@ -11,12 +12,14 @@
     "primaryColor": "#1d8ff7",
     "secondaryColor": "#cac5be",
     "minecraftVersions": [
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*"
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
     ],
-    "primaryMinecraftVersion": "1.19.4",
+    "primaryMinecraftVersion": "26.3",
+    "crossplay": true,
     "primaryRegion": "NA",
     "regions": [
         "NA"
@@ -25,15 +28,24 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
-        "Hardcore",
         "Survival",
-        "PvP"
+        "Crystal PvP",
+        "Open World",
+        "PvP",
+        "Hardcore"
     ],
     "socials": {
         "twitter": "DrDonut099",
         "discord": "https://discord.com/invite/donutsmp",
         "youtube": "DrDonutt",
         "tiktok": "@drdonutt"
+    },
+    "compliance": {
+        "privacyPolicy": "https://store.donutsmp.net/store#donutprivacy",
+        "termsOfService": "https://store.donutsmp.net/store#terms",
+        "rules": "https://donutsmp.fandom.com/wiki/Rules",
+        "support": "https://store.donutsmp.net/store#support"
     }
 }

@@ -1,6 +1,7 @@
 {
     "id": "dora",
     "name": "Dora",
+    "description": "Experience survival gameplay on Dora.",
     "addresses": [
         "dorasmp.vip"
     ],

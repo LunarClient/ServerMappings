@@ -2,6 +2,7 @@
     "id": "tekocraft",
     "name": "TekoCraft",
     "store": "https://tienda.tekocraft.com/",
+    "description": "Test your combat skills on TekoCraft.",
     "addresses": [
         "tekocraft.com"
     ],

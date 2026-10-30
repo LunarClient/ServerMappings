@@ -22,8 +22,12 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Practice",
     "gameTypes": [
+        "Practice",
         "PvP",
+        "Crystal PvP",
+        "Competitive",
         "Minigames"
     ],
     "socials": {

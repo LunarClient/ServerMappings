@@ -2,6 +2,7 @@
     "id": "bosshub",
     "name": "BossHub",
     "store": "https://store.bosshub.net/",
+    "description": "Play Skyblock and Survival on BossHub.",
     "addresses": [
         "bosshub.net"
     ],

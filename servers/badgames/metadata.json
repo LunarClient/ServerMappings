@@ -1,6 +1,8 @@
 {
     "id": "badgames",
     "name": "BadGames",
+    "website": "https://badgames.de/",
+    "store": "https://shop.badgames.de/",
     "description": "Fun-filled Minecraft server packed with a healthy dose of silliness.",
     "addresses": [
         "badgames.de",
@@ -9,11 +11,6 @@
         "onlywiff.com"
     ],
     "primaryAddress": "badgames.de",
-    "gameTypes": [
-        "Minigames",
-        "PvP",
-        "Survival"
-    ],
     "primaryColor": "#FF55FF",
     "secondaryColor": "#AA00AA",
     "minecraftVersions": [
@@ -24,28 +21,31 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.4",
-    "languages": [
-        "en"
-    ],
-    "primaryLanguage": "en",
+    "crossplay": false,
+    "primaryRegion": "EU",
     "regions": [
         "EU",
         "NA"
     ],
-    "primaryRegion": "EU",
-    "website": "https://badgames.de/",
-    "store": "https://shop.badgames.de/",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Survival"
+    ],
     "socials": {
         "discord": "https://discord.gg/DrmAWdeQyY"
     },
-    "votingLinks": [
-        "https://findmcserver.com/server/l45Vhg8mNE"
-    ],
     "compliance": {
         "privacyPolicy": "https://badgames.de/privacy/",
         "termsOfService": "https://badgames.de/terms/",
         "rules": "https://badgames.de/rules/",
         "support": "https://support.badgames.de"
     },
-    "crossplay": false
+    "votingLinks": [
+        "https://findmcserver.com/server/l45Vhg8mNE"
+    ]
 }

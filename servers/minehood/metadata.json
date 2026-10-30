@@ -1,0 +1,36 @@
+{
+    "id": "minehood",
+    "name": "MineHood Network",
+    "description": "Competitive network and friendly no toxic",
+    "addresses": [
+        "minehood.net"
+    ],
+    "primaryAddress": "play.minehood.net",
+    "minecraftVersions": [
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#ff5d0c",
+    "secondaryColor": "#ecdd0b",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Adventure",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/PncGMvMEQa"
+    },
+    "crossplay": false
+}

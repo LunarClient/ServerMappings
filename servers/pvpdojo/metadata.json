@@ -3,6 +3,7 @@
     "name": "PvP Dojo",
     "website": "https://.net/",
     "store": "https://store..net/",
+    "description": "Test your combat skills on PvP Dojo.",
     "addresses": [
         "pvpdojo.com"
     ],

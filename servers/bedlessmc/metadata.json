@@ -2,6 +2,7 @@
     "id": "bedlessmc",
     "name": "BedlessMC Network",
     "store": "https://bedlessmc.com/store",
+    "description": "Play PvP, Skyblock, and more on BedlessMC Network.",
     "addresses": [
         "bedlessmc.com"
     ],

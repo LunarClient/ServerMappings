@@ -4,3 +4,4 @@ jsonschema
 mcstatus
 requests
 tld
+langdetect

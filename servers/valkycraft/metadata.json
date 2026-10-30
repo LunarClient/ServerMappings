@@ -1,22 +1,19 @@
 {
     "id": "valkycraft",
     "name": "Valkycraft",
+    "store": "https://valkycraft.tebex.io",
     "description": "A new era full of adventures in different dimensions",
     "addresses": [
         "valkycraft.live"
     ],
     "primaryAddress": "valkycraft.live",
+    "primaryColor": "#ffb7c5",
+    "secondaryColor": "#fff5f7",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryColor": "#ffb7c5",
-    "secondaryColor": "#fff5f7",
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "SA",
     "regions": [
         "NA",
@@ -25,14 +22,17 @@
         "AS",
         "SA"
     ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "gameTypes": [
         "PvP",
         "PvE",
         "Survival"
     ],
-    "store": "https://valkycraft.tebex.io",
     "socials": {
         "discord": "https://discord.gg/qcnSdFP5Jz"
-    },
-    "crossplay": true
+    }
 }

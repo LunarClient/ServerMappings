@@ -1,0 +1,34 @@
+{
+    "id": "zenithmcit",
+    "name": "ZenithMC",
+    "description": "Mafia Faction Server",
+    "addresses": [
+        "zenithmc.it"
+    ],
+    "primaryAddress": "play.zenithmc.it",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryColor": "#8943DD",
+    "secondaryColor": "#6A98FF",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "website": "https://www.zenithmc.it",
+    "store": "https://store.zenithmc.it",
+    "socials": {
+        "tiktok": "@zenithmcit",
+        "youtube": "ZenithMCit",
+        "discord": "https://discord.gg/HsrDAWemjz"
+    }
+}

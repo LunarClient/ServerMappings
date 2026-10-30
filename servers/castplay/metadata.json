@@ -3,6 +3,7 @@
     "name": "Castplay",
     "website": "https://castplay.pl/",
     "store": "https://castplay.pl/sklep/SURVIVAL",
+    "description": "Play Survival and Skyblock on Castplay.",
     "addresses": [
         "castplay.pl"
     ],

@@ -2,6 +2,7 @@
     "id": "greenmc",
     "name": "GreenMC",
     "store": "https://greenmc.eu/",
+    "description": "Play PvP, Survival, and more on GreenMC.",
     "addresses": [
         "greenmc.eu"
     ],

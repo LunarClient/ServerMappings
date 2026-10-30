@@ -1,0 +1,62 @@
+{
+    "id": "sovereignmc",
+    "name": "Sovereign MC",
+    "description": "Geopol Minecraft server with nations, wars, cannons and a player-run economy.",
+    "addresses": [
+        "sovereignmc.net"
+    ],
+    "primaryAddress": "play.sovereignmc.net",
+    "minecraftVersions": [
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#e5c483",
+    "secondaryColor": "#08090c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Towny",
+        "Survival",
+        "PvP",
+        "Open World"
+    ],
+    "primaryGameType": "Towny",
+    "website": "https://sovereignmc.net",
+    "wiki": "https://sovereignmc.net/wiki",
+    "store": "https://sovereignmc.net/store",
+    "votingLinks": [
+        "https://minecraftbestservers.com/server-sovereign-mc.6929",
+        "https://minecraft-mp.com/server-s358010",
+        "https://minecraft-serverlist.com/server/5169",
+        "https://craftlist.org/sovereignmc",
+        "https://topg.org/minecraft-servers/server-682271",
+        "https://minecraft.buzz/server/20963",
+        "https://minecraftservers.org/server/687485",
+        "https://minecraft-server-list.com/server/519783/"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://sovereignmc.net/privacy",
+        "termsOfService": "https://sovereignmc.net/terms",
+        "rules": "https://sovereignmc.net/rules",
+        "support": "https://sovereignmc.net/contact"
+    },
+    "socials": {
+        "discord": "https://discord.gg/RQshFrAaAV"
+    },
+    "crossplay": false,
+    "offline": true
+}

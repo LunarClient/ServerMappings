@@ -2,6 +2,7 @@
     "id": "battlehaven",
     "name": "BattleHaven Network",
     "store": "https://store.battlehaven.es",
+    "description": "Play HCF and PvP on BattleHaven Network.",
     "addresses": [
         "battlehaven.es"
     ],

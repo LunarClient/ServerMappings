@@ -3,6 +3,7 @@
     "name": "NordicHub",
     "website": "https://portal.nordichub/",
     "store": "https://nordichubdk.tebex.io/",
+    "description": "Play PvP and Prison on NordicHub.",
     "addresses": [
         "nordichub.dk"
     ],

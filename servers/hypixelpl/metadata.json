@@ -1,6 +1,7 @@
 {
     "id": "hypixelpl",
     "name": "Hypixel.pl",
+    "description": "Play Minigames, PvP, and more on Hypixel.pl.",
     "addresses": [
         "hypixel.pl"
     ],

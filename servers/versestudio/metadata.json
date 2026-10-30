@@ -1,0 +1,25 @@
+{
+    "id": "versestudio",
+    "name": "Verse Studio",
+    "store": "https://versestudio.tebex.io/",
+    "description": "MiniGame and UHC Server",
+    "addresses": [
+        "verse-studio.fr"
+    ],
+    "primaryAddress": "play.verse-studio.fr",
+    "primaryColor": "#2ba1f0",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "UHC",
+        "PvP"
+    ]
+}

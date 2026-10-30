@@ -2,6 +2,7 @@
     "id": "astery",
     "name": "Astery",
     "store": "https://store.astery.us",
+    "description": "Play HCF, PvP, and more on Astery.",
     "addresses": [
         "astery.us"
     ],

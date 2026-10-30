@@ -1,9 +1,9 @@
 {
     "id": "pvpcookie",
     "name": "PVPCookie",
-    "description": "Competitive Minecraft PvP server with a unique cookie theme.",
     "website": "https://pvpcookie.pl/",
     "store": "https://pvpcookie.pl/sklep",
+    "description": "Competitive Minecraft PvP server with a unique cookie theme.",
     "addresses": [
         "pvpcookie.pl"
     ],

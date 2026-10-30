@@ -1,40 +1,40 @@
 {
-  "id": "collisionmc",
-  "name": "CollisionMC",
-  "description": "Italian Minecraft survival server with custom features.",
-  "addresses": [
-    "collisionmc.it"
-  ],
-  "primaryAddress": "play.collisionmc.it",
-  "minecraftVersions": [
-    "1.8.*",
-    "1.12.*",
-    "1.16.*",
-    "1.17.*",
-    "1.18.*",
-    "1.19.*",
-    "1.20.*",
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21",
-  "primaryColor": "#1E90FF",
-  "secondaryColor": "#FFD700",
-  "primaryLanguage": "it",
-  "languages": [
-    "it",
-    "en"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Survival"
-  ],
-  "website": "https://collisionmc.free.nf/",
-  "socials": {
-    "discord": "https://discord.gg/5CnPxwEX2K",
-    "tiktok": "@collisionmc.social"
-  },
-  "crossplay": true
+    "id": "collisionmc",
+    "name": "CollisionMC",
+    "website": "https://collisionmc.free.nf/",
+    "description": "Italian Minecraft survival server with custom features.",
+    "addresses": [
+        "collisionmc.it"
+    ],
+    "primaryAddress": "play.collisionmc.it",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#FFD700",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/5CnPxwEX2K",
+        "tiktok": "@collisionmc.social"
+    }
 }

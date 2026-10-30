@@ -3,10 +3,12 @@
     "name": "CraftCube",
     "website": "https://craftcube.pl/",
     "store": "https://craftcube.pl/#shop",
+    "description": "Play Survival, Minigames, and more on CraftCube.",
     "addresses": [
         "craftcube.pl"
     ],
     "primaryAddress": "craftcube.pl",
+    "offline": true,
     "primaryColor": "#ffd503",
     "secondaryColor": "#652002",
     "minecraftVersions": [
@@ -26,8 +28,12 @@
     "languages": [
         "pl"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
+        "OneBlock",
+        "KitPvP",
+        "Practice",
         "Minigames",
         "PvP"
     ],

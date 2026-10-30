@@ -2,6 +2,7 @@
     "id": "korapvp",
     "name": "KoraPvP",
     "store": "https://store.korapvp.org/",
+    "description": "Play PvP and HCF on KoraPvP.",
     "addresses": [
         "korapvp.org"
     ],

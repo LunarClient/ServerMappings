@@ -3,6 +3,7 @@
     "name": "slowex Network",
     "website": "https://www.slowex.live",
     "store": "https://tienda.slowex.live/",
+    "description": "Play HCF and Survival on slowex Network.",
     "addresses": [
         "slowex.live"
     ],

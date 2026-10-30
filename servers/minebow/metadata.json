@@ -3,6 +3,7 @@
     "name": "MineBow Network",
     "website": "https://minebow.net/",
     "store": "https://tienda.minebow.net/",
+    "description": "MineBow Network server page.",
     "addresses": [
         "minebow.net"
     ],

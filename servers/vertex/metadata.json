@@ -2,6 +2,7 @@
     "id": "vertex",
     "name": "Vertex",
     "store": "https://vertexgaming.tebex.io",
+    "description": "Play Factions, HCF, and more on Vertex.",
     "addresses": [
         "vertex-pvp.com"
     ],

@@ -4,6 +4,7 @@ backgrounds, and banners with different sizes for different placements across Lu
 """
 
 import argparse
+import hashlib
 import json
 import os
 import shutil
@@ -46,6 +47,9 @@ def main():
     # Banner args
     parser.add_argument("--servers_banners_output", required=use_args, type=str)
 
+    # Assets args
+    parser.add_argument("--servers_assets_output", required=use_args, type=str)
+
     args = parser.parse_args()
     args.dry_upload = args.dry_upload.lower() in ["true", "1", "t", "y", "yes"]
 
@@ -62,6 +66,7 @@ def main():
         args.servers_backgrounds_output = local + "/.out/backgrounds"
         args.servers_wordmarks_output = local + "/.out/wordmarks"
         args.servers_banners_output = local + "/.out/banners"
+        args.servers_assets_output = local + "/.out/assets"
         args.lossless = False
 
     # Load server mappings JSON
@@ -94,6 +99,7 @@ def main():
     os.makedirs(args.servers_backgrounds_output, exist_ok=True)
     os.makedirs(args.servers_wordmarks_output, exist_ok=True)
     os.makedirs(args.servers_banners_output, exist_ok=True)
+    os.makedirs(args.servers_assets_output, exist_ok=True)
 
     for server in servers:
         server_id = server["id"]
@@ -145,6 +151,13 @@ def main():
             ):
                 banner_amount += 1
                 break
+
+        copy_assets(
+            f"{args.servers_dir}/{server_id}",
+            args.servers_assets_output,
+            server_id,
+            server_name,
+        )
 
     print(f"Sucessfully converted {len(servers)} server logos.")
     print(
@@ -412,6 +425,33 @@ def convert_logo(
         )
 
     print(f"Successfully converted {server_name}'s logo.")
+
+
+def copy_assets(
+    server_dir: str,
+    output: str,
+    server_id: str,
+    server_name: str,
+):
+    """
+    Copy all raw asset files for a server into the assets output directory,
+    using the SHA1 hash of the file content as the filename.
+    """
+    server_output = f"{output}/{server_id}"
+    os.makedirs(server_output, exist_ok=True)
+
+    asset_files = ["logo.png", "background.png", "wordmark.png", "banner.png", "banner.gif"]
+    copied = 0
+
+    for asset_file in asset_files:
+        source_path = f"{server_dir}/{asset_file}"
+        if os.path.isfile(source_path):
+            file_hash = hashlib.sha1(open(source_path, "rb").read()).hexdigest()
+            ext = os.path.splitext(asset_file)[1]
+            shutil.copyfile(source_path, f"{server_output}/{file_hash}{ext}")
+            copied += 1
+
+    print(f"Copied {copied} raw asset(s) for {server_name}.")
 
 
 def convert_and_resize(

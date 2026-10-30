@@ -3,10 +3,12 @@
     "name": "Survival-Games.cz",
     "website": "https://survival-games.cz/",
     "store": "https://store.survival-games.cz/",
+    "description": "Largest Czech/Slovak Minecraft server specializing in survival minigames.",
     "addresses": [
         "survival-games.cz"
     ],
     "primaryAddress": "play.survival-games.cz",
+    "offline": true,
     "primaryColor": "#38a05c",
     "secondaryColor": "#c4c6c6",
     "minecraftVersions": [
@@ -23,8 +25,11 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
-        "Minigames"
+        "Minigames",
+        "Practice",
+        "Creative"
     ],
     "socials": {
         "instagram": "survival.games.cz",

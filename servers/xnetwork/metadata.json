@@ -3,6 +3,7 @@
     "name": "X-Network",
     "website": "https://x-network.org/",
     "store": "https://store.x-network.org/",
+    "description": "Play PvP and Survival on X-Network.",
     "addresses": [
         "x-network.org",
         "visualpvp.com"

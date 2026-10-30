@@ -1,6 +1,7 @@
 {
     "id": "beartown",
     "name": "Beartown",
+    "description": "Experience survival gameplay on Beartown.",
     "addresses": [
         "beartown.kr"
     ],

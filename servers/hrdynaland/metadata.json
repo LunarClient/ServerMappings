@@ -1,17 +1,21 @@
 {
     "id": "hrdynaland",
     "name": "HrdynaLand",
+    "website": "https://hrdynaland.cz",
+    "store": "https://store.hrdynaland.cz",
+    "wiki": "https://napoveda.hrdynaland.cz",
     "description": "New and modern Czech server",
     "addresses": [
         "hrdynaland.cz"
     ],
     "primaryAddress": "play.hrdynaland.cz",
+    "primaryColor": "#38DB0B",
+    "secondaryColor": "#1CBF7D",
     "minecraftVersions": [
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.5",
-    "primaryColor": "#38DB0B",
-    "secondaryColor": "#1CBF7D",
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -19,19 +23,14 @@
     "gameTypes": [
         "Survival"
     ],
-    "website": "https://hrdynaland.cz",
-    "store": "https://store.hrdynaland.cz",
-    "wiki": "https://napoveda.hrdynaland.cz",
-    "compliance": {
-        "privacyPolicy": "https://hrdynaland.cz/pravidla",
-        "rules": "https://hrdynaland.cz/pravidla"
-    },
-
     "socials": {
         "discord": "https://discord.com/invite/sgqyyjUZzd",
         "youtube": "@HrdynaLand",
         "instagram": "HrdynaLand",
         "tiktok": "@HrdynaLand"
     },
-    "crossplay": false
+    "compliance": {
+        "privacyPolicy": "https://hrdynaland.cz/pravidla",
+        "rules": "https://hrdynaland.cz/pravidla"
+    }
 }

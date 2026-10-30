@@ -2,6 +2,7 @@
     "id": "furiamc",
     "name": "FuriaMC Network",
     "store": "https://furiamc.tip4serv.com/",
+    "description": "Play Survival, PvP, and more on FuriaMC Network.",
     "addresses": [
         "furiamc.net"
     ],

@@ -1,0 +1,32 @@
+{
+    "id": "havenmc",
+    "name": "HavenMC",
+    "description": "A hardcore factions experience built for the true PvP grinder.",
+    "store": "https://store.havenmc.cc",
+    "addresses": [
+        "havenmc.cc"
+    ],
+    "primaryAddress": "play.havenmc.cc",
+    "primaryColor": "#2f00c5",
+    "secondaryColor": "#3d85c6",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "HCF"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/havenmc"
+    }
+}

@@ -2,6 +2,7 @@
     "id": "bluecraft",
     "name": "Bluecraft",
     "store": "https://boutique.bleucraft.fr/",
+    "description": "Play Skyblock and PvP on Bluecraft.",
     "addresses": [
         "bleucraft.fr"
     ],

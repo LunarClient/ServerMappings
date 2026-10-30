@@ -2,6 +2,7 @@
     "id": "ornate",
     "name": "Ornate",
     "store": "https://store.ornate.fr/",
+    "description": "Play Minigames and PvP on Ornate.",
     "addresses": [
         "ornate.fr"
     ],

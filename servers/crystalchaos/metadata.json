@@ -1,0 +1,35 @@
+{
+    "id": "crystalchaos",
+    "name": "CrystalChaos",
+    "description": "Cross-platform Survival with a chaotic crystal flair.",
+    "store": "https://store.crystalchaos.net/",
+    "addresses": [
+        "crystalchaos.net"
+    ],
+    "primaryAddress": "crystalchaos.net",
+    "primaryColor": "#ecb94f",
+    "secondaryColor": "#4F81EC",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryGameType": "Crystal PvP",
+    "gameTypes": [
+        "Survival",
+        "Crystal PvP",
+        "PvP",
+        "KitPvP"
+    ],
+    "socials": {
+        "twitter": "CrystalChaosMC",
+        "discord": "https://discord.gg/HwrMhdYZNf"
+    },
+    "crossplay": true
+}

@@ -2,6 +2,7 @@
     "id": "minerux",
     "name": "Minerux Network",
     "store": "https://mineruxnw.tebex.io",
+    "description": "Play Minigames, PvP, and more on Minerux Network.",
     "addresses": [
         "minerux.net"
     ],

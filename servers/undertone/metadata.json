@@ -1,0 +1,40 @@
+{
+    "id": "undertone",
+    "name": "Undertone",
+    "description": "Keep the lighthouse burning. Island survival and night defense.",
+    "addresses": [
+        "undertonemc.it"
+    ],
+    "primaryAddress": "play.undertonemc.it",
+    "minecraftVersions": [
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#f2c46d",
+    "secondaryColor": "#0f1d2b",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Adventure"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://undertonemc.it",
+    "store": "https://store.undertonemc.it",
+    "compliance": {
+        "privacyPolicy": "https://store.undertonemc.it/privacy",
+        "termsOfService": "https://store.undertonemc.it/termini"
+    },
+    "socials": {
+        "discord": "https://discord.gg/6gX62b6ESG"
+    },
+    "crossplay": false,
+    "offline": true
+}

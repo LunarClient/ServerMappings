@@ -3,6 +3,7 @@
     "name": "HCGames",
     "website": "http://hcgames.org/",
     "store": "https://store.hcgames.org/",
+    "description": "Play HCF and PvP on HCGames.",
     "addresses": [
         "hcgames.org"
     ],

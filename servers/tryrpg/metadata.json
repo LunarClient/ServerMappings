@@ -1,8 +1,8 @@
 {
     "id": "tryrpg",
     "name": "TryRPG",
-    "description": "Polish MMORPG Server with open world",
     "store": "https://tryrpg.pl/",
+    "description": "Polish MMORPG Server with open world",
     "addresses": [
         "tryrpg.pl"
     ],
@@ -28,5 +28,4 @@
     "socials": {
         "discord": "https://discord.gg/yWrmxkAf5Z"
     }
-
 }

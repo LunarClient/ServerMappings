@@ -1,6 +1,8 @@
 {
     "id": "ave",
     "name": "AVE Network",
+    "website": "https://ave.rip/",
+    "store": "https://store.ave.rip",
     "description": "Home of competitive pvp and practice",
     "addresses": [
         "ave.rip"
@@ -20,22 +22,20 @@
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,    
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "de",  
+    "primaryLanguage": "de",
     "languages": [
         "de",
         "en"
-    ],      
+    ],
     "gameTypes": [
         "PvP",
         "Minigames"
     ],
-    "website": "https://ave.rip/",
-    "store": "https://store.ave.rip",
     "socials": {
         "twitter": "ave_rip",
         "discord": "https://discord.gg/HXSgxcVYtB",

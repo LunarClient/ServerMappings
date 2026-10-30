@@ -1,0 +1,49 @@
+{
+    "id": "huntmc",
+    "name": "HuntMC",
+    "description": "Brazilian Hardcore, UHC and Practice PvP server",
+    "addresses": [
+        "hunt-mc.com"
+    ],
+    "primaryAddress": "hunt-mc.com",
+    "primaryColor": "#0040F0",
+    "secondaryColor": "#0066FF",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "crossplay": true,
+    "offline": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT",
+        "en"
+    ],
+    "primaryGameType": "Hardcore",
+    "gameTypes": [
+        "Hardcore",
+        "UHC",
+        "Practice",
+        "Competitive",
+        "PvP",
+        "Crystal PvP",
+        "KitPvP",
+        "BoxPvP",
+        "Soup PvP",
+        "Survival",
+        "Minigames"
+    ],
+    "website": "https://hunt-mc.com",
+    "store": "https://loja.hunt-mc.com",
+    "socials": {
+        "discord": "https://discord.com/invite/6fkuKZMtKf",
+        "youtube": "@Hunt-mc-com",
+        "instagram": "huntmcnetwork",
+        "tiktok": "@huntmc.com"
+    }
+}

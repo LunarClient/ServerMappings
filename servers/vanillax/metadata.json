@@ -1,0 +1,42 @@
+{
+    "id": "vanillax",
+    "name": "Vanilla X",
+    "website": "https://vanillax.net/",
+    "store": "https://vanillax.net/",
+    "wiki": "https://docs.vanillax.net/",
+    "description": "A semi-vanilla 1.21 SMP for Java and Bedrock.",
+    "addresses": [
+        "vanillax.net"
+    ],
+    "primaryAddress": "play.vanillax.net",
+    "primaryColor": "#00E5FF",
+    "secondaryColor": "#000000",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Crystal PvP",
+        "Open World",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/vanillax"
+    },
+    "compliance": {
+        "rules": "https://rules.vanillax.net"
+    }
+}

@@ -1,42 +1,42 @@
 {
     "id": "blazedland",
     "name": "BlazedLand",
+    "website": "https://www.blazedland.ro",
+    "store": "https://store.blazedland.ro",
     "description": "A unique Survival and Skyblock server based in Romania.",
     "addresses": [
         "blazedland.ro"
     ],
     "primaryAddress": "play.blazedland.ro",
+    "primaryColor": "#FFB512",
+    "secondaryColor": "#FFD270",
     "minecraftVersions": [
         "1.19.*",
         "1.20.*",
         "1.21.*"
     ],
     "primaryMinecraftVersion": "1.21.8",
-    "primaryColor": "#FFB512",
-    "secondaryColor": "#FFD270",
-    "primaryLanguage": "en",
-    "languages": [
-        "en"
-    ],
+    "crossplay": true,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
     "gameTypes": [
         "PvP",
         "Survival",
         "Skyblock"
     ],
-    "website": "https://www.blazedland.ro",
-    "store": "https://store.blazedland.ro",
-    "votingLinks": [
-        "https://minecraft-serverlist.com/server/999/vote",
-        "https://minecraft-mp.com/server-s350831",
-        "https://topminecraftservers.org/server/42157"
-    ],
     "socials": {
         "tiktok": "@blazedland",
         "discord": "https://discord.gg/blazedland"
     },
-    "crossplay": true
+    "votingLinks": [
+        "https://minecraft-serverlist.com/server/999/vote",
+        "https://minecraft-mp.com/server-s350831",
+        "https://topminecraftservers.org/server/42157"
+    ]
 }

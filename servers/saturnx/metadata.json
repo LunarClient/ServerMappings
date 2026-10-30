@@ -2,6 +2,7 @@
     "id": "saturnx",
     "name": "Saturn-X - Space Server",
     "website": "https://saturn-x.space/",
+    "description": "Test your combat skills on Saturn-X - Space Server.",
     "addresses": [
         "saturn-x.space"
     ],

@@ -1,11 +1,15 @@
 {
     "id": "vortexsmp",
     "name": "Vortex SMP",
+    "website": "https://vortex-smp.fr",
+    "store": "https://vortex-smp.fr/shop",
     "description": "Competitive Minecraft server with PvP, economy and Lifesteal. Join now!",
     "addresses": [
         "vortex-smp.fr"
     ],
     "primaryAddress": "play.vortex-smp.fr",
+    "primaryColor": "#b624db",
+    "secondaryColor": "#71368a",
     "minecraftVersions": [
         "1.21.4",
         "1.21.5",
@@ -17,32 +21,28 @@
         "1.21.11"
     ],
     "primaryMinecraftVersion": "1.21.6",
-    "primaryColor": "#b624db",
-    "secondaryColor": "#71368a",
-    "primaryLanguage": "fr",
-    "languages": [
-        "fr"
-    ],
+    "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
     ],
     "gameTypes": [
         "Survival",
         "PvP",
         "Open World"
     ],
-    "website": "https://vortex-smp.fr",
-    "store": "https://vortex-smp.fr/shop",
-    "votingLinks": [
-        "https://vortex-smp.fr/vote"
-    ],
+    "socials": {
+        "discord": "https://discord.gg/xrn2HxRx27"
+    },
     "compliance": {
         "termsOfService": "https://vortex-smp.fr/cgu-cgv",
         "rules": "https://vortex-smp.fr/rules"
     },
-    "socials": {
-        "discord": "https://discord.gg/xrn2HxRx27"
-    },
-    "crossplay": false
+    "votingLinks": [
+        "https://vortex-smp.fr/vote"
+    ]
 }

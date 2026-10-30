@@ -1,40 +1,44 @@
 {
-  "id": "holapixel",
-  "name": "HolaPixel",
-  "website": "https://www.holapixel.ir",
-  "store": "https://store.holapixel.ir",
-  "wiki": "https://wiki.holapixel.ir/",
-  "description": "Play Minecraft minigames for free and have fun!",
-  "addresses": ["holapixel.ir"],
-  "primaryAddress": "mc.holapixel.ir",
-  "primaryColor": "#1E90FF",
-  "secondaryColor": "#9378ff",
-  "minecraftVersions": [
-      "1.8.*",
-      "1.12.*",
-      "1.16.*",
-      "1.17.*",
-      "1.18.*",
-      "1.19.*",
-      "1.20.*",
-      "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "crossplay": false,
+    "id": "holapixel",
+    "name": "HolaPixel",
+    "website": "https://www.holapixel.ir",
+    "store": "https://store.holapixel.ir",
+    "wiki": "https://wiki.holapixel.ir/",
+    "description": "Play Minecraft minigames for free and have fun!",
+    "addresses": [
+        "holapixel.ir"
+    ],
+    "primaryAddress": "mc.holapixel.ir",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#9378ff",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
     "primaryRegion": "NA",
     "regions": [
         "NA"
-  ],
-  "languages": ["en"],
-  "primaryLanguage": "en",
-  "gameTypes": [
-      "Minigames",
-      "PvP",
-      "Skyblock"
-  ],
-  "socials": {
-      "discord": "https://discord.gg/r9ucPHyv4P",
-      "youtube": "HolaPixel-IR",
-      "instagram": "HolaPixelOfficial"
-  }
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Skyblock"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/r9ucPHyv4P",
+        "youtube": "HolaPixel-IR",
+        "instagram": "HolaPixelOfficial"
+    }
 }

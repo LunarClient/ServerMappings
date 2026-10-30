@@ -3,6 +3,7 @@
     "name": "RiotPvP",
     "website": "https://riotpvp.xyz/",
     "store": "https://store.riotpvp.xyz/",
+    "description": "Test your combat skills on RiotPvP.",
     "addresses": [
         "riotpvp.xyz"
     ],

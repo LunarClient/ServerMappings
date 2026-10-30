@@ -1,0 +1,20 @@
+{
+  "id": "qfiesmp",
+  "name": "QfieSMP",
+  "description": "A fun Minecraft survival server with PvP, teamwork, and adventure.",
+  "addresses": [
+    "qfiesmp.in"
+  ],
+  "primaryAddress": "qfiesmp.in",
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "minecraftVersions": ["1.21.*"],
+  "primaryMinecraftVersion": "1.21",
+  "primaryColor": "#3498DB",
+  "secondaryColor": "#000000",
+  "gameTypes": ["Survival"],
+  "website": "https://qfiesmp.in",
+  "socials": {
+    "discord": "https://discord.gg/t83ETgWzFc"
+  }
+}

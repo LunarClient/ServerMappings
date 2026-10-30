@@ -4,7 +4,7 @@
     "website": "https://hypixel.net/",
     "store": "https://store.hypixel.net/",
     "wiki": "https://wiki.hypixel.net/",
-    "description": "Play the best Minecraft minigames for free!",
+    "description": "Jouez gratuitement aux meilleurs mini-jeux Minecraft !",
     "addresses": [
         "hypixel.net",
         "hypixel.io"
@@ -14,13 +14,10 @@
     "secondaryColor": "#372826",
     "minecraftVersions": [
         "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "crossplay": false,
@@ -32,10 +29,15 @@
     "languages": [
         "en"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
+        "Skyblock",
         "PvP",
-        "Skyblock"
+        "PvE",
+        "Creative",
+        "Practice",
+        "Casual"
     ],
     "socials": {
         "twitter": "HypixelNetwork",

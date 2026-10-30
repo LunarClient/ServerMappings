@@ -1,0 +1,44 @@
+{
+    "id": "voltsmp",
+    "name": "VoltSMP",
+    "store": "https://store.voltsmp.net/",
+    "description": "A Hardcore Minecraft SMP",
+    "addresses": [
+        "voltsmp.net"
+    ],
+    "primaryAddress": "voltsmp.net",
+    "primaryColor": "#E7CE8E",
+    "secondaryColor": "#E7C66F",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Hardcore",
+    "gameTypes": [
+        "Hardcore",
+        "Survival",
+        "PvP",
+        "Casual"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/D74NzpSaSp",
+        "youtube": "playvoltsmp",
+        "tiktok": "@playvoltsmp"
+    }
+}

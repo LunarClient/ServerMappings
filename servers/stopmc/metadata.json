@@ -5,9 +5,10 @@
     "description": "The best Bed Wars experience with fast-paced gameplay and competitive matches",
     "addresses": [
         "stopmc.com.br",
-        "stopmc.com"
+        "stopmc.com",
+        "dustmc.com.br"
     ],
-    "primaryAddress": "stopmc.com",
+    "primaryAddress": "stopmc.com.br",
     "primaryColor": "#ff8400",
     "secondaryColor": "#fffc56",
     "minecraftVersions": [

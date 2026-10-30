@@ -2,6 +2,7 @@
     "id": "northmc",
     "name": "NorthMC Network",
     "store": "https://northmc-store.tebex.io/",
+    "description": "Play PvP and Prison on NorthMC Network.",
     "addresses": [
         "northmc.fun"
     ],

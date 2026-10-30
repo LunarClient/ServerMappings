@@ -1,0 +1,37 @@
+{
+    "id": "enginemc",
+    "name": "EngineMC",
+    "description": "Italian network with Cobblemon, Survival and Minigames",
+    "addresses": [
+        "enginemc.net"
+    ],
+    "primaryAddress": "enginemc.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryColor": "#7ac70c",
+    "secondaryColor": "#1e6fd9",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Cobblemon",
+        "Survival",
+        "Minigames"
+    ],
+    "primaryGameType": "Cobblemon",
+    "website": "https://www.enginemc.net",
+    "store": "https://store.enginemc.net",
+    "socials": {
+        "discord": "https://discord.gg/ZRuDMs6HKR"
+    },
+    "crossplay": true
+}

@@ -2,6 +2,7 @@
     "id": "thechunk",
     "name": "The Chunk",
     "store": "https://store.chunkmc.com/",
+    "description": "Experience survival gameplay on The Chunk.",
     "addresses": [
         "chunkmc.com"
     ],

@@ -2,6 +2,7 @@
     "id": "mediacraft",
     "name": "MediaCraft Network",
     "store": "https://store.mediacraft.es",
+    "description": "Play PvP and Survival on MediaCraft Network.",
     "addresses": [
         "mediacraft.es",
         "mediacraft.live"

@@ -2,6 +2,7 @@
     "id": "eclipsenetwork",
     "name": "EclipseNetwork",
     "store": "https://tienda.eclipsenetwork.es",
+    "description": "Experience survival gameplay on EclipseNetwork.",
     "addresses": [
         "eclipsenetwork.es"
     ],

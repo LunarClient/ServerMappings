@@ -1,0 +1,48 @@
+{
+  "id": "vixnet",
+  "name": "Vix Network",
+  "description": "Minigames and more in Vix Network!",
+  "addresses": [
+    "vixnet.lat"
+  ],
+  "primaryAddress": "vixnet.lat",
+  "gameTypes": [
+    "Minigames",
+    "UHC",
+    "Survival"
+  ],
+  "primaryGameType": "Minigames",
+  "primaryColor": "#FFCC38",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "SA",
+  "regions": [
+    "SA"
+  ],
+  "store": "https://tienda.vixnet.lat",
+  "socials": {
+    "twitter": "TheVixNetwork",
+    "discord": "https://discord.gg/XTvwQrQkFP",
+    "youtube": "@TheVixNetwork",
+    "tiktok": "@thevixnetwork"
+  },
+  "offline": true,
+  "crossplay": false
+}

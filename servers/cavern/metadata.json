@@ -2,6 +2,7 @@
     "id": "cavern",
     "name": "Cavern",
     "store": "https://store.cavern.gg",
+    "description": "Play PvP, Survival, and more on Cavern.",
     "addresses": [
         "cavern.gg"
     ],

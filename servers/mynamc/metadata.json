@@ -2,6 +2,7 @@
     "id": "mynamc",
     "name": "MynaMC",
     "store": "https://mynamc.tk/",
+    "description": "Play exciting minigames on MynaMC.",
     "addresses": [
         "mynamc.tk"
     ],

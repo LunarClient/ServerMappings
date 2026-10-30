@@ -1,0 +1,24 @@
+{
+  "id": "exylia",
+  "name": "Exylia Network",
+  "description": "Competitive and custom Minecraft experiences.",
+  "addresses": ["exylia.net"],
+  "primaryAddress": "exylia.net",
+  "gameTypes": ["PvP", "Survival", "Minigames"],
+  "primaryColor": "#8A51C4",
+  "secondaryColor": "#AA76DE",
+  "minecraftVersions": ["1.20.4", "1.21", "1.21.1", "1.21.4", "1.21.11"],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": ["es-EN"],
+  "primaryLanguage": "es-EN",
+  "regions": ["SA"],
+  "primaryRegion": "SA",
+  "store": "https://tienda.exylia.net",
+  "socials": {
+    "discord": "https://discord.com/invite/Na3WnhrsJZ",
+    "instagram": "exylianetwork",
+    "twitch": "digroound",
+    "tiktok": "@exylianetwork"
+  },
+  "crossplay": true
+}
