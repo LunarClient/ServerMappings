@@ -1,0 +1,25 @@
+{
+  "id": "blockhype",
+  "name": "BlockHype",
+  "description": "SkyBlock RPG and MiniGames: BattleFFA, KnockFFA and MLGRush",
+  "addresses": ["blockhype.net"],
+  "primaryAddress": "blockhype.net",
+  "minecraftVersions": ["26.2.*"],
+  "primaryMinecraftVersion": "26.2",
+  "gameTypes": ["Skyblock", "Minigames", "PvP"],
+  "primaryGameType": "Skyblock",
+  "primaryColor": "#54F472",
+  "secondaryColor": "#549EB6",
+  "languages": ["de", "en"],
+  "primaryLanguage": "de",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://www.blockhype.net",
+  "wiki": "https://www.blockhype.net/wiki",
+  "compliance": {
+    "privacyPolicy": "https://www.blockhype.net/privacy",
+    "rules": "https://www.blockhype.net/rules",
+    "support": "https://www.blockhype.net/contact"
+  },
+  "crossplay": false
+}
