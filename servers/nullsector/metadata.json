@@ -1,0 +1,37 @@
+{
+    "id": "nullsector",
+    "name": "NullSector",
+    "description": "Spanish Survival OP 1.8 with PvP, KOTHs, clans and bosses",
+    "addresses": [
+        "nullsectormc.com"
+    ],
+    "primaryAddress": "nullsectormc.com",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9B30FF",
+    "secondaryColor": "#FF4FD8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": false,
+    "offline": true,
+    "votingLinks": [
+        "https://minecraft-mp.com/server-s366097",
+        "https://topg.org/minecraft-servers/server-687727"
+    ],
+    "website": "https://nullsector.tebex.store",
+    "store": "https://nullsector.tebex.store",
+    "socials": {
+        "discord": "https://discord.gg/RzRY8T2kBr"
+    }
+}
