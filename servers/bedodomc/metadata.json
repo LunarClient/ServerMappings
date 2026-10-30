@@ -1,0 +1,29 @@
+{
+    "id": "bedodomc",
+    "name": "BedodoMC",
+    "description": "French Weed-themed PvP Faction Minecraft server",
+    "addresses": [
+        "bedodo.fr"
+    ],
+    "primaryAddress": "play.bedodo.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2e7d32",
+    "secondaryColor": "#81c784",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Factions"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://bedodo.fr/"
+}
