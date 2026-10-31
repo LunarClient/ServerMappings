@@ -1,0 +1,43 @@
+{
+  "id": "choruxnetwork",
+  "name": "Chorux Network",
+  "website": "https://chorux.net",
+  "store": "https://chorux.net",
+  "description": "BoxPVP & Prison Minecraft server",
+  "addresses": [
+    "chorux.net",
+    "lunar.chorux.net"
+  ],
+  "primaryAddress": "chorux.net",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryColor": "#aa66ff",
+  "secondaryColor": "#ffffff",
+  "primaryLanguage": "ru",
+  "languages": [
+    "ru",
+    "uk"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU",
+    "CIS"
+  ],
+  "gameTypes": [
+    "BoxPVP",
+    "Prison"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://chorux.net/document/privacy_policy.pdf",
+    "termsOfService": "https://chorux.net/document/user_agree.pdf",
+    "rules": "https://chorux.net/rules"
+  },
+  "socials": {
+    "telegram": "https://t.me/chorux_mc",
+    "discord": "https://discord.gg/chorux"
+  },
+  "crossplay": false
+}
