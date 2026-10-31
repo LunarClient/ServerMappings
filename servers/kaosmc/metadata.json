@@ -24,6 +24,11 @@
     ],
     "primaryMinecraftVersion": "26.1.2",
 
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+
     "primaryRegion": "EU",
     "regions": [
         "EU"
@@ -33,8 +38,16 @@
         "Survival",
         "Practice"
     ],
+    "primaryGameType": "Survival",
+    "crossplay": true,
+
+    "website": "https://web.kaosmc.com/",
+    "store": "https://tienda.kaosmc.com/",
 
     "socials": {
-        "discord": "https://discord.gg/kaosmc"
+        "twitter": "KaosMC_Oficial",
+        "discord": "https://discord.gg/kaosmc",
+        "youtube": "@KaosMC_Network",
+        "tiktok": "@kaosmcnetwork"
     }
 }
