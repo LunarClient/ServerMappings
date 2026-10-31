@@ -1,7 +1,7 @@
 {
     "id": "kaosmc",
     "name": "KaosMC",
-    "description": "KaosMC - Competitive PvP and Survival Minecraft server with KaosPvP.",
+    "description": "KaosMC - Survival and Practice PvP Minecraft server.",
 
     "addresses": [
         "kaosmc.com"
@@ -30,8 +30,8 @@
     ],
 
     "gameTypes": [
-        "PvP",
-        "Survival"
+        "Survival",
+        "Practice"
     ],
 
     "socials": {
