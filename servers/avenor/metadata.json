@@ -11,6 +11,8 @@
   "primaryColor": "#D4AF37",
   "secondaryColor": "#1A1A1A",
   "minecraftVersions": [
+    "1.19.4",
+    "1.20",
     "1.21",
     "26.2"
   ],
@@ -31,5 +33,7 @@
   ],
   "socials": {
     "discord": "https://discord.com/invite/5qfAGN5ubb"
-  }
+  },
+  "privacyPolicy": "https://avenormc.com/pages/privacy",
+  "termsOfService": "https://avenormc.com/pages/terms"
 }
