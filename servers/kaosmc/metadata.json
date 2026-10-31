@@ -1,7 +1,7 @@
 {
     "id": "kaosmc",
     "name": "KaosMC",
-    "description": "KaosMC - PvP competitive Minecraft server with KaosPvP.",
+    "description": "KaosMC - Competitive PvP and Survival Minecraft server with KaosPvP.",
 
     "addresses": [
         "kaosmc.com"
@@ -17,9 +17,12 @@
         "1.18.*",
         "1.19.*",
         "1.20.*",
-        "1.21.*"
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
     ],
-    "primaryMinecraftVersion": "1.21.8",
+    "primaryMinecraftVersion": "26.1.2",
 
     "primaryRegion": "EU",
     "regions": [
@@ -27,7 +30,8 @@
     ],
 
     "gameTypes": [
-        "PvP"
+        "PvP",
+        "Survival"
     ],
 
     "socials": {
