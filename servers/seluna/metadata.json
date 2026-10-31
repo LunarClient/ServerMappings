@@ -1,0 +1,22 @@
+{
+    "id": "seluna",
+    "name": "Seluna",
+    "description": "Nostalgic SoupPvP, unique kits, competitive duels and community events.",
+    "addresses": ["seluna.gg"],
+    "primaryAddress": "seluna.gg",
+    "minecraftVersions": ["1.7.*", "1.8.*"],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#55FFFF",
+    "secondaryColor": "#AAAAAA",
+    "gameTypes": ["Soup PvP", "Practice", "KitPvP"],
+    "primaryGameType": "Soup PvP",
+    "primaryLanguage": "en",
+    "languages": ["en"],
+    "primaryRegion": "NA",
+    "regions": ["NA"],
+    "store": "https://store.seluna.gg",
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.gg/seluna"
+    }
+}
