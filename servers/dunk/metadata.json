@@ -1,0 +1,37 @@
+{
+    "id": "dunk",
+    "name": "DunkMC",
+    "description": "Brazilian network with BedWars, Duels, Practice and custom PvP modes",
+    "addresses": [
+        "dunkmc.com"
+    ],
+    "primaryAddress": "play.dunkmc.com",
+    "primaryColor": "#F0C000",
+    "secondaryColor": "#8B0000",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "offline": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR"
+    ],
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Practice"
+    ],
+    "website": "https://dunkmc.com/",
+    "socials": {
+        "youtube": "@dunkmc-fun",
+        "tiktok": "@dunkmcnetwork",
+        "discord": "https://discord.gg/dunkmc"
+    }
+}
