@@ -6,6 +6,11 @@ on:
     types:
       - completed
 
+# Serialize comment lookup/update to prevent duplicate creation by overlapping runs.
+concurrency:
+  group: servermappings-pr-feedback-${{ github.event.workflow_run.head_repository.full_name }}-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: false
+
 jobs:
   feedback:
     name: Post validation feedback
