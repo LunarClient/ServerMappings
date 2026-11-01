@@ -1,0 +1,69 @@
+{
+    "id": "vexsmp",
+    "name": "Vex-SMP ChunkBox Server",
+    "description": "Innovative Biome ChunkBox gamemode with a balanced economy and progression",
+    "addresses": [
+        "vex-smp.com"
+    ],
+    "primaryAddress": "play.vex-smp.com",
+    "minecraftVersions": [
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#a151e8",
+    "secondaryColor": "#51c5e8",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de",
+        "pl",
+        "it",
+        "ar",
+        "es-EN",
+        "tr",
+        "zh-CN",
+        "fr",
+        "nl",
+        "el",
+        "ko",
+        "ja",
+        "lt",
+        "no",
+        "pt-PT",
+        "pt-BR",
+        "sv-SE"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "OC",
+        "AS",
+        "AF",
+        "SA",
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Casual",
+        "Survival",
+        "Vanilla",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "store": "https://store.vex-smp.com",
+    "votingLinks": [
+        "https://minecraftservers.org/vote/694321",
+        "https://minecraft.buzz/vote/vexsmp",
+        "https://minecraft-mp.com/server/366176/vote"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/qfggjV2qM",
+        "youtube": "@playvexsmp",
+        "instagram": "play.vexsmp"
+    },
+    "crossplay": true
+}

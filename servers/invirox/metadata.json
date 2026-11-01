@@ -1,0 +1,33 @@
+{
+    "id": "invirox",
+    "name": "InviRox",
+    "description": "French Minecraft server featuring Survival and community events",
+    "addresses": [
+        "invirox.fr"
+    ],
+    "primaryAddress": "play.invirox.fr",
+    "minecraftVersions": [
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#FF8C00",
+    "secondaryColor": "#808080",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://invirox.strator.gg/",
+    "store": "https://invirox.strator.gg/shop",
+    "socials": {
+        "discord": "https://discord.gg/7mh8FsRPU8"
+    },
+    "crossplay": false
+}
