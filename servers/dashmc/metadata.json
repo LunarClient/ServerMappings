@@ -5,11 +5,8 @@
     "store": "https://store.dashmc.it",
     "description": "Italian Minecraft network with competitive PvP, minigames and adventures.",
     "addresses": [
-        "play.decamc.net",
-        "play.dashmc.it",
         "decamc.net",
         "dashmc.it",
-        "play.enderverse.it",
         "enderverse.it"
     ],
     "primaryAddress": "play.dashmc.it",
