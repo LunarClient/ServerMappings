@@ -1,0 +1,36 @@
+
+{
+  "id": "vexpvpnetwork",
+  "name": "VexPvP",
+  "description": "Minecraft PvP Network",
+  "addresses": [
+    "vexpvp.net",
+    "play.vexpvp.net"
+  ],
+  "primaryAddress": "play.vexpvp.net",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#248BEB",
+  "secondaryColor": "#C0C0C0",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "website": "https://vexpvp.net",
+  "store": "https://store.vexpvp.net",
+  "socials": {
+    "twitter": "vexpvpnet",
+    "discord": "https://discord.gg/vexpvp"
+  },
+  "crossplay": false
+}
