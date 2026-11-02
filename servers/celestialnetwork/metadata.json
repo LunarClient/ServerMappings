@@ -3,7 +3,8 @@
     "name": "Celestial Network",
     "description": "A truly community-lead network for Skyblock and Prison",
     "addresses": [
-        "celestial-network.net"
+        "celestial-network.net",
+        "celestial-network.com"
     ],
     "primaryAddress": "celestial-network.net",
     "minecraftVersions": [
@@ -26,8 +27,7 @@
     ],
     "gameTypes": [
         "Skyblock",
-        "Prison",
-        "MMORPG"
+        "Prison"
     ],
     "primaryGameType": "Skyblock",
     "website": "https://celestial-network.com",
