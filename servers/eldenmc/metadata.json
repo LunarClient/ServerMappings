@@ -1,0 +1,48 @@
+{
+    "id": "eldenmc",
+    "name": "EldenMC",
+    "description": "Italian network with SkyBlock, a PvP arena and parkour. Java and Bedrock.",
+    "addresses": [
+        "eldenmc.net"
+    ],
+    "primaryAddress": "play.eldenmc.net",
+    "gameTypes": [
+        "Skyblock",
+        "PvP",
+        "Parkour"
+    ],
+    "primaryGameType": "Skyblock",
+    "primaryColor": "#F7A332",
+    "secondaryColor": "#0F1626",
+    "minecraftVersions": [
+        "1.21.4",
+        "1.21.5",
+        "1.21.8",
+        "1.21.10",
+        "1.21.11",
+        "26.1.2",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "primaryLanguage": "it",
+    "regions": [
+        "EU"
+    ],
+    "primaryRegion": "EU",
+    "website": "https://eldenmc.net",
+    "store": "https://eldenmc.net/store",
+    "socials": {
+        "telegram": "eldenmc_official"
+    },
+    "compliance": {
+        "rules": "https://eldenmc.net/regolamento",
+        "support": "https://eldenmc.net/supporto"
+    },
+    "crossplay": true,
+    "offline": true
+}
