@@ -5,7 +5,7 @@
     "store": "https://store.opitzrbw.com/",
     "description": "A competitive Ranked Bedwars server",
     "addresses": [
-        "play.opitzrbw.com"
+        "opitzrbw.com"
     ],
     "primaryAddress": "play.opitzrbw.com",
     "primaryColor": "#424242",
@@ -24,6 +24,7 @@
         "PvP",
         "Minigames"
     ],
+    "primaryGameType": "PvP",
     "socials": {
         "youtube": "opitzrbw",
         "discord": "https://discord.gg/b3SUZjzbkX"
