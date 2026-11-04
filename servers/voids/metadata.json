@@ -3,9 +3,9 @@
     "name": "VoidSMP",
     "description": "A arabic SMP lifesteal server.",
     "addresses": [
-        "minetro.net"
+        "ddns.net"
     ],
-    "primaryAddress": "voidsmp.minetro.net",
+    "primaryAddress": "voidmc.ddns.net",
     "primaryColor": "#9F2B68",
     "secondaryColor": "#301934",
     "minecraftVersions": [
