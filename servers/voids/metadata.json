@@ -3,7 +3,7 @@
     "name": "VoidSMP",
     "description": "A arabic SMP lifesteal server.",
     "addresses": [
-        "ddns.net"
+        "voidmc.ddns.net"
     ],
     "primaryAddress": "voidmc.ddns.net",
     "primaryColor": "#9F2B68",
