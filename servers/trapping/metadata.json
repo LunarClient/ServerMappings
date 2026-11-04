@@ -1,0 +1,38 @@
+{
+    "id": "trapping",
+    "name": "Trapping",
+    "description": "Trap your rivals in Sim, Mole Fight and Walls. Fast PvP minigames.",
+    "addresses": [
+        "trapping.xyz"
+    ],
+    "primaryAddress": "trapping.xyz",
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Practice"
+    ],
+    "primaryGameType": "Minigames",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#1A1206",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "languages": [
+        "en"
+    ],
+    "primaryLanguage": "en",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryRegion": "EU",
+    "website": "https://trapping.xyz",
+    "socials": {
+        "discord": "https://discord.gg/jccy5vSxP8"
+    },
+    "crossplay": false,
+    "offline": false
+}
