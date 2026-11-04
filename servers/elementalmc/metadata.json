@@ -9,6 +9,10 @@
     "primaryAddress": "play.elementalmc.live",
     "primaryColor": "#5A08FB",
     "secondaryColor": "#FFFFFF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
     "minecraftVersions": [
         "26.1",
         "26.1.2",
@@ -21,10 +25,12 @@
         "EU"
     ],
     "gameTypes": [
-        "Survival",
+        "MMORPG",
+        "Factions",
         "PvP",
-        "MMORPG"
+        "Survival"
     ],
+    "primaryGameType": "MMORPG",
     "socials": {
         "tiktok": "@play.elementalmc.live",
         "discord": "https://discord.gg/JkCNDyRyMT",

@@ -1,0 +1,45 @@
+{
+    "id": "shattermc",
+    "name": "ShatterMC",
+    "website": "https://shattermc.org",
+    "store": "https://store.shattermc.org/",
+    "description": "Prison, Survival and Skyblock on one Minecraft network.",
+    "addresses": [
+        "shattermc.org"
+    ],
+    "primaryAddress": "play.shattermc.org",
+    "primaryColor": "#9a5cf0",
+    "secondaryColor": "#140a28",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.6",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryGameType": "Prison",
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "Skyblock",
+        "PvP",
+        "PvE",
+        "Casual"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/shattermc"
+    }
+}
