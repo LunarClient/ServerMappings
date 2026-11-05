@@ -42,5 +42,8 @@
         "discord": "https://discord.com/invite/ZvK9g2WaVs",
         "youtube": "@SurvivalGamesCZE",
         "tiktok": "@survivalgamescz"
-    }
+    },
+    "votingLinks": [
+        "https://survival-games.cz/vote"
+    ]
 }
