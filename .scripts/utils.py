@@ -55,8 +55,8 @@ def get_all_servers(
 
     # Looping over each server folder
     for root, _, _ in os.walk(servers_dir):
-        server_id = root.split(os.path.sep)[-1]
-        if not server_id or server_id == servers_dir:
+        server_id = os.path.basename(root)
+        if not server_id or os.path.abspath(root) == os.path.abspath(servers_dir):
             continue
 
         # Open metadata.json
@@ -191,13 +191,16 @@ def is_enriched(server: dict, server_id: str, servers_dir: str) -> bool:
     return True
 
 
-def get_edited_servers():
+def get_edited_servers(*, dry_run=False, edited_servers=()):
     """
     This gets all the edited servers in this pull request
 
     Returns:
         set[str]: A set of server IDs that have been edited in this pull request.
     """
+    if dry_run:
+        return set(edited_servers)
+
     pull_id = os.getenv("PR_ID")
     edited_server_ids = set() # 4 files in a server can be edited
 
@@ -242,6 +245,7 @@ def gif_to_sprite_sheet(path):
     for idx in range(0, img.n_frames):
         img.seek(idx)
         sprite_img.paste(img, (0, img.height * idx))
+    img.close()
     return sprite_img
 
 
@@ -289,6 +293,7 @@ def validate_logo(path, server_name) -> list[str]:
             f"{server_name}'s server logo width/height is less than 512px..."
         )
 
+    logo_image.close()
     return errors
 
 
@@ -335,6 +340,7 @@ def validate_background(path, server_name) -> list[str]:
             f"{server_name}'s server background resolution is less than 1920x1080..."
         )
 
+    background_image.close()
     return errors
 
 
@@ -401,6 +407,7 @@ def validate_banner(path: str, server_name: str) -> list[str]:
         )
 
 
+    banner_image.close()
     return errors
 
 def validate_wordmark(path: str, server_name: str) -> list[str]:
@@ -448,6 +455,7 @@ def validate_wordmark(path: str, server_name: str) -> list[str]:
         )
 
     
+    wordmark_image.close()
     return errors
 
 

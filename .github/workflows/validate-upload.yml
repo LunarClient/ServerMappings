@@ -77,6 +77,7 @@ jobs:
           --inactive_schema "${GITHUB_WORKSPACE}/inactive.schema.json" \
           --no-validate_inactive
         env:
+          BASE_SERVERS_DIR: ${{ github.event_name == 'pull_request' && format('{0}/servers', github.workspace) || '' }}
           PR_ID: ${{ github.event.pull_request.number }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USE_ARGS: "true"

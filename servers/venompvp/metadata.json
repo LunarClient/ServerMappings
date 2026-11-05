@@ -1,0 +1,45 @@
+{
+    "id": "venompvp",
+    "name": "VenomPvP",
+    "description": "Non P2W Modern & Old-school 1.7-1.8.9 HCF Server with Squads, HCTeams, and Kits",
+    "addresses": [
+        "venompvp.rip"
+    ],
+    "primaryAddress": "play.venompvp.rip",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff2600",
+    "secondaryColor": "#feffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Hardcore",
+        "PvP",
+        "Practice",
+        "Competitive"
+    ],
+    "primaryGameType": "HCF",
+    "website": "https://venompvp.rip",
+    "store": "https://store.venompvp.rip",
+    "socials": {
+        "discord": "https://discord.gg/aRVUW8xK2t"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#ff2600",
+            "upperColor": "#feffff"
+        }
+    }
+}
