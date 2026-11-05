@@ -1,0 +1,47 @@
+{
+    "id": "balkanmc",
+    "name": "BalkanMC",
+    "description": "Come to explore the Balkan Minecraft scene!",
+    "addresses": [
+        "balkanmc.net",
+        "playbalkan.net",
+        "minecraft.hr"
+    ],
+    "primaryAddress": "balkanmc.net",
+    "primaryColor": "#F2B24E",
+    "secondaryColor": "#F7E0B5",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "offline": true,
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Casual",
+        "Skyblock",
+        "Prison",
+        "Minigames"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://balkanmc.net",
+    "store": "https://balkanmc.net/store",
+    "compliance": {
+        "privacyPolicy": "https://balkanmc.net/legal/privacy",
+        "termsOfService": "https://balkanmc.net/legal/terms"
+    },
+    "socials": {
+        "discord": "https://discord.gg/balkanmc"
+    }
+}
