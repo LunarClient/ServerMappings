@@ -1,0 +1,38 @@
+{
+    "id": "mcpvpcom",
+    "name": "MCPVP",
+    "website": "https://mcpvp.com/",
+    "description": "Competitive kit-based PvP with ranked tiers and tournaments.",
+    "addresses": [
+        "mcpvp.com"
+    ],
+    "primaryAddress": "play.mcpvp.com",
+    "primaryColor": "#FF5555",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "SA",
+        "AS",
+        "OC",
+        "AF"
+    ],
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://mcpvp.com/privacy",
+        "termsOfService": "https://mcpvp.com/terms"
+    }
+}

@@ -6,7 +6,7 @@
     "addresses": [
         "elementalmc.live"
     ],
-    "primaryAddress": "play.elementalmc.live",
+    "primaryAddress": "lunar.elementalmc.live",
     "primaryColor": "#5A08FB",
     "secondaryColor": "#FFFFFF",
     "primaryLanguage": "en",
@@ -30,6 +30,7 @@
         "PvP",
         "Survival"
     ],
+    "website": "https://elementalmc.live",
     "primaryGameType": "MMORPG",
     "socials": {
         "tiktok": "@play.elementalmc.live",
