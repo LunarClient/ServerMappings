@@ -1,0 +1,37 @@
+{
+    "id": "mintsmp",
+    "name": "MintSMP",
+    "description": "Crystal PvP Shop Survival SMP",
+    "addresses": [
+        "mintsmp.net"
+    ],
+    "primaryAddress": "mintsmp.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#c3f8c9",
+    "secondaryColor": "#90e27d",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Crystal PvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://www.mintsmp.net",
+    "store": "https://store.mintsmp.net",
+    "socials": {
+        "discord": "https://discord.gg/mintsmp"
+    },
+    "crossplay": true
+}
