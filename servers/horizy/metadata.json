@@ -1,0 +1,46 @@
+{
+    "id": "horizy",
+    "name": "Horizy",
+    "description": "Spanish survival with a custom-generated world, 1400+ quests and cosmetics",
+    "addresses": [
+        "horizy.net"
+    ],
+    "primaryAddress": "mc.horizy.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#8a00e6",
+    "secondaryColor": "#d000f8",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://horizy.net",
+    "store": "https://tienda.horizy.net",
+    "wiki": "https://wiki.horizy.net",
+    "socials": {
+        "discord": "https://discord.com/invite/xbEJqmgBdH",
+        "youtube": "@HorizyNetwork",
+        "instagram": "horizy_network",
+        "tiktok": "@horizynetwork"
+    },
+    "votingLinks": [
+        "https://mcservidores.com/servidor/1379",
+        "https://topg.org/minecraft-servers/server-688054",
+        "https://topminecraftservers.org/server/44955"
+    ],
+    "crossplay": false,
+    "offline": true
+}
