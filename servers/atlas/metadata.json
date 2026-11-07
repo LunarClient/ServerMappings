@@ -7,7 +7,11 @@
     ],
     "primaryAddress": "mcatlas.cz",
     "minecraftVersions": [
-        "1.21.*"
+        "1.21.10",
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "1.21.10",
     "primaryColor": "#f0b428",
@@ -34,7 +38,7 @@
         "termsOfService": "https://mcatlas.cz/obchodni-podminky"
     },
     "socials": {
-        "discord": "https://discord.gg/JfZTXdyRgR",
+        "discord": "https://discord.gg/5fCD4JxJe6",
         "tiktok": "@mcatlas0",
         "instagram": "mcatlas.cz"
     },
