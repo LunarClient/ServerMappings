@@ -1,18 +1,19 @@
 {
-  "id": "minebed",
-  "name": "MineBed",
-  "addresses": ["minebed.fr"],
-  "primaryAddress": "play.minebed.fr",
-  "minecraftVersions": ["1.8.9"],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#1E90FF",
-  "secondaryColor": "#FDC104",
-  "primaryRegion": "EU",
-  "regions": ["EU"],
-  "gameTypes": ["PvP"],
-  "crossplay": false,
-  "website": "https://minebed.fr",
-  "socials": {
-    "discord": "https://discord.minebed.fr"
-  }
+    "id": "minebed",
+    "name": "MineBed",
+    "description": "French Minecraft PvP network",
+    "addresses": ["minebed.fr"],
+    "primaryAddress": "play.minebed.fr",
+    "minecraftVersions": ["1.8.9"],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#1E90FF",
+    "secondaryColor": "#FDC104",
+    "primaryRegion": "EU",
+    "regions": ["EU"],
+    "gameTypes": ["PvP"],
+    "crossplay": false,
+    "website": "https://minebed.fr",
+    "socials": {
+        "discord": "https://discord.minebed.fr"
+    }
 }
