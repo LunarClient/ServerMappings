@@ -1,0 +1,37 @@
+{
+    "id": "inkwell",
+    "name": "Inkwell Network",
+    "website": "https://www.inkwell.net.au",
+    "store": "https://store.inkwell.net.au",
+    "description": "Australian Lifesteal SMP for Java and Bedrock players",
+    "addresses": [
+        "inkwell.net.au"
+    ],
+    "primaryAddress": "play.inkwell.net.au",
+    "primaryColor": "#8a3ffc",
+    "secondaryColor": "#3ed8f0",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryRegion": "OC",
+    "regions": [
+        "OC"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Lifesteal",
+    "gameTypes": [
+        "Lifesteal",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/inkwellsmp"
+    }
+}

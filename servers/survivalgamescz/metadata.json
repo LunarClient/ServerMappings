@@ -3,7 +3,7 @@
     "name": "Survival-Games.cz",
     "website": "https://survival-games.cz/",
     "store": "https://store.survival-games.cz/",
-    "description": "Largest Czech/Slovak Minecraft server specializing in survival minigames.",
+    "description": "Largest Czech/Slovak Minecraft server specializing in minigames, PvP since 2013!",
     "addresses": [
         "survival-games.cz"
     ],
@@ -18,7 +18,10 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20"
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "EU",
@@ -29,12 +32,18 @@
     "gameTypes": [
         "Minigames",
         "Practice",
-        "Creative"
+        "Creative",
+        "PvP",
+        "Parkour"
     ],
     "socials": {
         "instagram": "survival.games.cz",
         "facebook": "CZSurvivalGames",
         "discord": "https://discord.com/invite/ZvK9g2WaVs",
-        "youtube": "@SurvivalGamesCZE"
-    }
+        "youtube": "@SurvivalGamesCZE",
+        "tiktok": "@survivalgamescz"
+    },
+    "votingLinks": [
+        "https://survival-games.cz/vote"
+    ]
 }
