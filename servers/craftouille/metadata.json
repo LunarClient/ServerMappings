@@ -1,15 +1,16 @@
 {
     "id": "craftouille",
     "name": "Craftouille",
-    "description": "Craftouille.fr is a fun French Minecraft server with unique adventures! to play!",
+    "description": "Unique French minigames: Bingo, LavaRise, Hide and Seek & more!",
     "addresses": [
         "craftouille.fr"
     ],
-    "primaryAddress": "craftouille.fr",
+    "primaryAddress": "play.craftouille.fr",
     "minecraftVersions": [
-        "1.21.*"
+        "26.1.*",
+        "26.2.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "26.2",
     "primaryColor": "#F66809",
     "secondaryColor": "#BF4545",
     "primaryLanguage": "fr",
@@ -22,11 +23,16 @@
     ],
     "gameTypes": [
         "Minigames",
-        "Survival"
+        "Casual"
     ],
+    "primaryGameType": "Minigames",
     "website": "https://craftouille.fr",
+    "wiki": "https://craftouille.fr/wiki",
     "socials": {
         "discord": "https://discord.gg/WpmvCnK2P9"
+    },
+    "compliance": {
+        "rules": "https://craftouille.fr/wiki/general/reglement"
     },
     "crossplay": false
 }
