@@ -1,0 +1,59 @@
+{
+    "id": "schoolrp",
+    "name": "SchoolRP",
+    "description": "Roleplay a job, become a teacher, join classes, and much more.",
+    "addresses": [
+        "schoolrp.net",
+        "roleplayhub.net",
+        "roleplayhub.com"
+    ],
+    "primaryAddress": "play.schoolrp.net",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "26.3.*",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#682825",
+    "secondaryColor": "#231d1c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Roleplay",
+        "Open World",
+        "Casual"
+    ],
+    "primaryGameType": "Roleplay",
+    "website": "https://schoolrp.net",
+    "wiki": "https://faq.schoolrp.net",
+    "store": "https://buy.roleplayhub.net",
+    "votingLinks": [
+        "https://best-minecraft-servers.co/server-roleplay-hub.103/",
+        "https://minecraftservers.org/server/563118",
+        "https://topminecraftservers.org/server/30963"
+    ],
+    "compliance": {
+        "rules": "https://schoolrp.net/rules"
+    },
+    "presentationVideo": "P0HxtZ34TJ0",
+    "socials": {
+        "discord": "https://discord.gg/Ww3sa4GPwb",
+        "youtube": "@roleplayhub",
+        "tiktok": "@schoolroleplaymc"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#ffffff",
+            "upperColor": "#8d4ffd"
+        }
+    }
+}
