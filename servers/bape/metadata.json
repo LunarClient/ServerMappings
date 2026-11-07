@@ -1,12 +1,12 @@
 {
     "id": "bape",
-    "name": "Bape Network",
-    "store": "https://store.bape.pro/",
+    "name": "Bapey Network",
+    "store": "https://bapey.net/#/magazin",
     "description": "A classic survival server.",
     "addresses": [
-        "bape.pro"
+        "bapey.net"
     ],
-    "primaryAddress": "play.bape.pro",
+    "primaryAddress": "mc.bapey.net",
     "primaryColor": "#F8B215",
     "secondaryColor": "#DBFD79",
     "minecraftVersions": [
@@ -22,6 +22,6 @@
         "Survival"
     ],
     "socials": {
-        "discord": "https://discord.gg/bapemc"
+        "discord": "https://discord.gg/bapey"
     }
 }
