@@ -1,0 +1,18 @@
+{
+  "name": "StarVanilla",
+  "addresses": [
+    "starvanilla.net"
+  ],
+  "primaryColor": "#0b0e14",
+  "secondaryColor": "#ffffff",
+  "description": "#1 CrystalPVP Server.",
+  "genres": [
+    "crystalpvp",
+    "pvp",
+    "survival"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/Fk7SxDpEq9",
+    "website": "https://starvanilla.net"
+  }
+}
