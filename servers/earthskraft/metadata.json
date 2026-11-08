@@ -1,0 +1,35 @@
+{
+    "id": "earthskraft",
+    "name": "EarthsKraft",
+    "description": "Custom Prison with gangs, contraband, progression tools and minigames.",
+    "addresses": [
+        "earthskraft.net"
+    ],
+    "primaryAddress": "play.earthskraft.net",
+    "minecraftVersions": [
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#88DD22",
+    "secondaryColor": "#A52DE0",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP",
+        "Minigames"
+    ],
+    "primaryGameType": "Prison",
+    "website": "https://www.earthskraft.net",
+    "store": "https://store.earthskraft.net",
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.com/invite/zGH4PDrvJF"
+    }
+}
