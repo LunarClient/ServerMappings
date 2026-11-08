@@ -6,14 +6,15 @@
     "wiki": "https://wiki.dropmc.gg/",
     "description": "Have fun playing on DropMC with innovative and exclusive features!",
     "addresses": [
-        "dropmc.gg"
+        "dropmc.gg",
+        "dropmc.com.br"
     ],
     "primaryAddress": "dropmc.gg",
     "primaryColor": "#FBE69D",
     "secondaryColor": "#F4CB8E",
     "minecraftVersions": [
         "1.21.11",
-        "26.1.*"
+        "26.*"
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
@@ -37,8 +38,8 @@
         "discord": "https://discord.gg/dropmc",
         "youtube": "@dropmcgg",
         "tiktok": "@dropmc.gg"
-    }
+    },
     "compliance": {
         "rules": "https://dropmc.gg/regras"
-    },
+    }
 }
