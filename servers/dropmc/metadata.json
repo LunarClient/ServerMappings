@@ -17,6 +17,7 @@
     ],
     "primaryMinecraftVersion": "1.21.11",
     "crossplay": true,
+    "offline": true,
     "primaryRegion": "SA",
     "regions": [
         "SA",
