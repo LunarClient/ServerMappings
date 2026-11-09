@@ -1,0 +1,47 @@
+{
+    "id": "revivalnetwork",
+    "name": "Revival Network",
+    "description": "Modern Version - Legacy Combat",
+    "addresses": [
+        "hcfr.gg"
+    ],
+    "primaryAddress": "hcfr.gg",
+    "minecraftVersions": [
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#c50516",
+    "secondaryColor": "#020203",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "HCF",
+        "Competitive",
+        "Factions",
+        "Minigames",
+        "Practice",
+        "PvP",
+        "Survival"
+    ],
+    "primaryGameType": "HCF",
+    "website": "https://hcfr.gg",
+    "store": "https://hcfr.gg/store",
+    "wiki": "https://hcfr.gg/wiki",
+    "compliance": {
+        "privacyPolicy": "https://hcfr.gg/legal#privacy",
+        "termsOfService": "https://hcfr.gg/legal#terms",
+        "rules": "https://hcfr.gg/rules",
+        "support": "https://hcfr.gg/tickets"
+    },
+    "socials": {
+        "discord": "https://discord.gg/hcfr"
+    },
+    "crossplay": false
+}
