@@ -1,0 +1,41 @@
+{
+  "id": "articsmp",
+  "name": "ArticSMP",
+  "description": "Competitive mace and sword PvP survival with a player economy.",
+  "addresses": [
+    "articsmp.de"
+  ],
+  "primaryAddress": "articsmp.de",
+  "minecraftVersions": [
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryMinecraftVersion": "26.3",
+  "gameTypes": [
+    "PvP",
+    "Survival",
+    "Open World",
+    "Competitive"
+  ],
+  "primaryGameType": "PvP",
+  "primaryColor": "#00B7FE",
+  "secondaryColor": "#F4F7FF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en",
+    "de"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "crossplay": false
+}
