@@ -10,13 +10,11 @@
   "primaryAddress": "minesplash.us",
 
   "gameTypes": [
-    "BoxPvP",
-    "Survival",
-    "KitPvP",
-    "FullPvP",
-    "Minigames",
-    "PvP"
-  ],
+  "BoxPvP",
+  "Survival",
+  "KitPvP",
+  "PvP"
+],
 
   "primaryGameType": "BoxPvP",
 
