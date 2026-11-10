@@ -1,0 +1,34 @@
+{
+    "id": "cyanixnetwork",
+    "name": "Cyanix Network",
+    "description": "A Spanish-speaking Minecraft network with survival adventures and more.",
+    "addresses": [
+        "cyanix.net"
+    ],
+    "primaryAddress": "cyanix.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#38bdf8",
+    "secondaryColor": "#0c4a6e",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "discord": "https://discord.gg/5vdQJdevcg"
+    }
+}
