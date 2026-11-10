@@ -1,32 +1,32 @@
 {
-  "id": "survivalis",
-  "name": "Survivalis",
-  "description": "French survival server with towns, jobs, custom items and events",
-  "addresses": [
-    "survivalis.fr"
-  ],
-  "primaryAddress": "play.survivalis.fr",
-  "minecraftVersions": [
-    "1.21.*"
-  ],
-  "primaryMinecraftVersion": "1.21.11",
-  "primaryColor": "#fad8a7",
-  "secondaryColor": "#512a18",
-  "primaryLanguage": "fr",
-  "languages": [
-    "fr"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Survival",
-    "Towny"
-  ],
-  "primaryGameType": "Survival",
-  "socials": {
-    "discord": "https://discord.gg/survivalis"
-  },
-  "crossplay": false
+    "id": "survivalis",
+    "name": "Survivalis",
+    "description": "French survival server with towns, jobs, custom items and events",
+    "addresses": [
+        "survivalis.fr"
+    ],
+    "primaryAddress": "play.survivalis.fr",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#fad8a7",
+    "secondaryColor": "#512a18",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Towny"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "discord": "https://discord.gg/survivalis"
+    },
+    "crossplay": false
 }
