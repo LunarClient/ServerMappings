@@ -1,0 +1,21 @@
+{
+  "id": "aetherix",
+  "name": "Aetherix.eu",
+  "description": "Czech Minecraft network with Survival, Skyblock, OneBlock and minigames.",
+  "addresses": ["aetherix.eu"],
+  "primaryAddress": "mc.aetherix.eu",
+  "minecraftVersions": ["1.21.*"],
+  "primaryMinecraftVersion": "1.21.11",
+  "gameTypes": [
+    "Survival",
+    "Skyblock",
+    "OneBlock",
+    "Minigames"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#2196F3",
+  "secondaryColor": "#7C4DFF",
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "website": "https://www.aetherix.eu"
+}
