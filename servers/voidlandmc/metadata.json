@@ -1,0 +1,41 @@
+{
+    "id": "voidlandmc",
+    "name": "Voidland Network",
+    "description": "Greek Heartcore SMP",
+    "addresses": [
+        "voidlandmc.com",
+    ],
+    "primaryAddress": "voidlandmc.com",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#941ec7",
+    "secondaryColor": "#d2cfd4",
+    "primaryLanguage": "gr",
+    "languages": [
+        "en",
+        "gr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "store": "https://voidlandsmp.craftingstore.net/category/562115",
+    "compliance": {
+        "privacyPolicy": "https://voidlandsmp.craftingstore.net/legal/privacy",
+        "termsOfService": "https://voidlandsmp.craftingstore.net/legal/terms",
+    },
+    "socials": {
+        "discord": "https:discord.gg/X29J2JyXfz"
+    },
+    "crossplay": false
+}
