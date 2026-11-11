@@ -1,21 +1,28 @@
 {
   "id": "vnordix",
   "name": "Vnordix",
-  "description": "The best Prison server. Mine, sell and rank up!",
+  "description": "Enter the PvP Furor in VoxifyMC.",
   "addresses": [
-    "vnordix.club"
+    "vnordix.net"
   ],
-  "primaryAddress": "vnordix.club",
-  "gameTypes": [
-    "Prison"
-  ],
-  "primaryGameType": "Prison",
+  "primaryAddress": "play.vnordix.net",
   "primaryColor": "#00AAFF",
   "secondaryColor": "#005588",
+  "primaryRegion": "NA",
+  "regions": [
+      "NA"
+  ],
   "minecraftVersions": [
-    "1.8.*"
+      "1.8.*",
+      "1.21.*"
   ],
   "primaryMinecraftVersion": "1.8.9",
+  "crossplay": false,
+  "gameTypes": [
+      "Prison",
+      "Survival",
+      "PvP"
+  ],
   "primaryLanguage": "es-EN",
   "languages": [
     "es-EN"
@@ -24,5 +31,5 @@
   "regions": [
     "SA"
   ],
-  "store": "https://tienda.vnordix.club"
+  "store": "https://tienda.vnordix.net"
 }
