@@ -12,7 +12,8 @@
     "minecraftVersions": [
         "1.21.*",
         "26.1.*",
-        "26.*"
+        "26.2.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "26.1.2",
     "crossplay": true,
@@ -20,10 +21,9 @@
     "regions": [
         "AS"
     ],
-    "primaryLanguage": "th",
+    "primaryLanguage": "en",
     "languages": [
-        "en",
-        "th"
+        "en"
     ],
     "gameTypes": [
         "Survival"
