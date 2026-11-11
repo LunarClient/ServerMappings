@@ -1,18 +1,13 @@
 {
     "id": "cytooxien",
     "name": "Cytooxien",
-    "website": "https://www.cytooxien.de/",
-    "store": "https://cytooxien.shop/",
-    "wiki": "https://wiki.cytooxien.de/",
     "description": "Quality Minecraft gamemodes since 2011!",
     "addresses": [
-        "cytooxien.de",
         "cytooxien.net",
+        "cytooxien.de",
         "realms.direct"
     ],
-    "primaryAddress": "cytooxien.de",
-    "primaryColor": "#ffdd16",
-    "secondaryColor": "#d21d2a",
+    "primaryAddress": "cytooxien.net",
     "minecraftVersions": [
         "1.21.5",
         "1.21.6",
@@ -22,31 +17,49 @@
         "1.21.10",
         "1.21.11",
         "26.1.*",
-        "26.2.*"
+        "26.2.*",
+        "26.3.*"
     ],
-    "primaryMinecraftVersion": "1.21.11",
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#ffdd16",
+    "secondaryColor": "#d21d2a",
+    "primaryLanguage": "de",
+    "languages": [
+        "en",
+        "es-EN",
+        "fr",
+        "nl",
+        "de"
+    ],
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
-    "primaryLanguage": "de",
-    "languages": [
-        "en",
-        "it",
-        "fr",
-        "de"
-    ],
-    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
-        "PvP",
+        "Tycoon",
         "Skyblock",
+        "PvP",
+        "PvE",
+        "KitPvP",
+        "Parkour",
+        "Practice",
         "Creative",
-        "Tycoon"
+        "Survival"
     ],
+    "primaryGameType": "Minigames",
+    "website": "https://www.cytooxien.net/",
+    "store": "https://cytooxien.shop/",
+    "wiki": "https://cytooxien.net/wiki",
     "socials": {
         "twitter": "Cytooxien",
         "discord": "https://discord.gg/cytooxien",
-        "youtube": "Cytooxien"
+        "youtube": "@Cytooxien",
+        "tiktok": "@cytooxien_de"
+    },
+    "compliance": {
+        "privacyPolicy": "https://www.cytooxien.net/help/privacy",
+        "termsOfService": "https://www.cytooxien.net/help/terms-of-service",
+        "rules": "https://www.cytooxien.net/help/server-rules"
     }
 }
