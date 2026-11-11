@@ -4,7 +4,10 @@
     "description": "Turkey's competitive Minecraft PvP network.",
     "addresses": [
         "turkishpvp.club",
-        "turkishpvp.community"
+        "turkishpvp.community",
+        "turkishpvp.net",
+        "turkishpvp.com",
+        "trpvp.net"
     ],
     "primaryAddress": "turkishpvp.club",
     "minecraftVersions": [
