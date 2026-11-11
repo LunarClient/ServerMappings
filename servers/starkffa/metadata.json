@@ -1,0 +1,45 @@
+{
+    "id": "starkffa",
+    "name": "STARK FFA",
+    "description": "Fast FFA PvP with custom weapons. Pure skill, no grinding.",
+    "addresses": [
+        "starkffa.xyz",
+        "starkffa.net"
+    ],
+    "primaryAddress": "starkffa.xyz",
+    "minecraftVersions": [
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#3FE0FF",
+    "secondaryColor": "#FFB547",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "KitPvP",
+        "Competitive"
+    ],
+    "primaryGameType": "PvP",
+    "store": "https://starkffa.mysellauth.com",
+    "socials": {
+        "discord": "https://discord.gg/4Tmwggbq3h",
+        "tiktok": "@starkffa.xyz"
+    },
+    "crossplay": false
+}

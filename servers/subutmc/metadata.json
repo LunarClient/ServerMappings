@@ -1,0 +1,33 @@
+{
+  "id": "subutmc",
+  "name": "SubutMC",
+  "description": "Arabic Minecraft network with PvP and Survival modes",
+  "addresses": [
+    "subutmc.net"
+  ],
+  "primaryAddress": "subutmc.net",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#ADD8E6",
+  "secondaryColor": "#8000FF",
+  "primaryLanguage": "ar",
+  "languages": [
+    "ar"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP",
+    "Minigames"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/subut",
+    "tiktok": "@subutnetwork"
+  },
+  "crossplay": true
+}

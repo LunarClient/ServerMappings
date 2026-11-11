@@ -2,6 +2,7 @@
     "id": "deluxezone",
     "name": "Deluxe Network",
     "store": "https://tienda.deluxezone.net/",
+    "description": "Play Survival, Skyblock, and more on Deluxe Network.",
     "addresses": [
         "deluxezone.net"
     ],

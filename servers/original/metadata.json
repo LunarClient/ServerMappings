@@ -2,6 +2,7 @@
     "id": "original",
     "name": "Original Network",
     "store": "https://store.original.gg/",
+    "description": "Play Survival and PvP on Original Network.",
     "addresses": [
         "original.gg"
     ],

@@ -2,6 +2,7 @@
     "id": "uhcworld",
     "name": "UHC World",
     "website": "https://uhcworld.fr/",
+    "description": "Compete in Ultra Hardcore on UHC World.",
     "addresses": [
         "uhcworld.fr"
     ],
@@ -15,11 +16,18 @@
         "1.17.*",
         "1.18.*",
         "1.19.*",
-        "1.20.*"
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "UHC",
     "gameTypes": [
-        "UHC"
+        "UHC",
+        "PvP",
+        "PvE",
+        "Hardcore"
     ],
     "socials": {
         "twitter": "UHCWorld",

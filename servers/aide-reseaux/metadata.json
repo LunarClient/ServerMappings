@@ -1,6 +1,7 @@
 {
     "id": "aide-reseaux",
-    "name": "Aide Réseaux",
+    "name": "Aide Reseaux",
+    "description": "Experience survival gameplay on Aide Reseaux.",
     "addresses": [
         "aidereseaux.fr"
     ],

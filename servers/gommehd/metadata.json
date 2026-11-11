@@ -3,6 +3,7 @@
     "name": "GommeHD",
     "website": "https://www.gommehd.net/",
     "store": "https://shop.gommehd.net/",
+    "description": "Play Minigames and PvP on GommeHD.",
     "addresses": [
         "gommehd.net"
     ],
@@ -23,9 +24,14 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Creative",
     "gameTypes": [
+        "Creative",
         "Minigames",
-        "PvP"
+        "PvP",
+        "Practice",
+        "KitPvP",
+        "Casual"
     ],
     "socials": {
         "twitter": "GommeHDnet",

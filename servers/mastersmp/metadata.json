@@ -1,0 +1,40 @@
+{
+    "id": "mastersmp",
+    "name": "MasterSMP",
+    "store": "https://store.mastersmp.net/",
+    "description": "Grind for loot, build your power, and fight to become the best player.",
+    "addresses": [
+        "mastersmp.net"
+    ],
+    "primaryAddress": "mastersmp.net",
+    "primaryColor": "#1d8ff7",
+    "secondaryColor": "#cac5be",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "Crystal PvP",
+        "Anarchy",
+        "PvP"
+    ],
+    "crossplay": true,
+    "offline": true
+}

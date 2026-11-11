@@ -1,0 +1,41 @@
+{
+    "id": "arcanestudios",
+    "name": "Arcane Studios",
+    "description": "Enter the Arcane. Master every challenge.",
+    "addresses": [
+        "arcanemc.eu"
+    ],
+    "primaryAddress": "arcanemc.eu",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#000000",
+    "secondaryColor": "#C0C0C0",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Creative",
+        "Prison"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://arcanemc.eu",
+    "store": "https://boutique.arcanemc.eu",
+    "compliance": {
+        "support": "https://discord.gg/arcn"
+    },
+    "socials": {
+        "discord": "https://discord.gg/arcn"
+    },
+    "crossplay": false,
+    "offline": false
+}

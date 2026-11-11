@@ -1,0 +1,48 @@
+{
+    "id": "redismc",
+    "name": "RedisMC",
+    "description": "Box-based survival SMP with mines, prestige, wars and duels",
+    "addresses": [
+        "redismc.net",
+        "redismc.it"
+    ],
+    "primaryAddress": "play.redismc.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#D98A8A",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Skyblock",
+        "Prison",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "http://redismc.it",
+    "store": "https://store.redismc.it",
+    "socials": {
+        "discord": "https://discord.gg/redismc",
+        "youtube": "@redismc2",
+        "tiktok": "@redismc.network"
+    },
+    "crossplay": true
+}

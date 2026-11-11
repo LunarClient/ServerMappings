@@ -1,0 +1,35 @@
+{
+    "id": "roselia",
+    "name": "Roselia",
+    "website": "https://www.roselia.lol/",
+    "store": "https://store.roselia.lol/",
+    "description": "Competitive Minecraft PvP",
+    "addresses": [
+        "roselia.lol",
+        "roselia.gg"
+    ],
+    "primaryAddress": "roselia.lol",
+    "primaryColor": "#a10000",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/QJzTFjqYRX"
+    }
+}

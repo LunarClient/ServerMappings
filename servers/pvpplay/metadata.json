@@ -3,6 +3,7 @@
     "name": "PvPPlay",
     "website": "https://www.pvpplay.pl",
     "store": "https://www.pvpplay.pl",
+    "description": "Play PvP and Survival on PvPPlay.",
     "addresses": [
         "pvpplay.pl"
     ],

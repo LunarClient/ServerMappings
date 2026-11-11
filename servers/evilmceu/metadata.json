@@ -1,0 +1,37 @@
+{
+  "id": "evilmceu",
+  "name": "EvilMC",
+  "website": "https://evilmc.eu",
+  "store": "https://sklep.evilmc.eu",
+  "description": "Advanced server network",
+  "addresses": [
+    "evilmc.eu"
+  ],
+  "primaryAddress": "evilmc.eu",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#9F27F5",
+  "secondaryColor": "#9F27F5",
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "PvP"
+  ],
+  "compliance": {
+    "privacyPolicy": "https://evilmc.eu/polityka-prywatnosci",
+    "termsOfService": "https://evilmc.eu/regulamin",
+    "rules": "https://evilmc.eu/polityka-regulamin"
+  },
+  "socials": {
+    "discord": "https://discord.com/invite/PMccjB8AdJ"
+  },
+  "crossplay": false
+}

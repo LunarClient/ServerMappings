@@ -1,0 +1,39 @@
+{
+    "id": "klepa",
+    "name": "Klepa.GG",
+    "website": "https://klepa.gg/",
+    "store": "https://klepa.gg/sklep/",
+    "description": "Play Minigames, PvP, and more on Klepa.GG",
+    "addresses": [
+        "klepa.gg",
+        "klepa.pl"
+    ],
+    "primaryAddress": "klepa.gg",
+    "offline": true,
+    "primaryColor": "#fc3629",
+    "secondaryColor": "#2b2b2b",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "crossplay": false,
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/vTFgNz5Hez",
+        "tiktok": "@klepa.gg"
+    }
+}

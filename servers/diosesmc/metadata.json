@@ -3,11 +3,13 @@
     "name": "DiosesMC",
     "website": "https://diosesmc.net/",
     "store": "https://tienda.diosesmc.net/",
+    "description": "DiosesMC - Official Minecraft server of Willyrex and Vegetta.",
     "addresses": [
         "diosesmc.net",
         "diosesmc.com"
     ],
     "primaryAddress": "diosesmc.net",
+    "offline": true,
     "primaryColor": "#fcd600",
     "secondaryColor": "#fcc267",
     "minecraftVersions": [
@@ -23,9 +25,11 @@
     "regions": [
         "NA"
     ],
+    "primaryGameType": "Survival",
     "gameTypes": [
         "Survival",
-        "PvP"
+        "PvP",
+        "Minigames"
     ],
     "socials": {
         "twitter": "DiosesMcOficial",

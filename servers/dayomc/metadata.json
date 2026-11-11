@@ -2,6 +2,7 @@
     "id": "dayomc",
     "name": "DayoMC",
     "store": "https://tienda.dayomc.es/",
+    "description": "Play PvP and Minigames on DayoMC.",
     "addresses": [
         "dayomc.es"
     ],

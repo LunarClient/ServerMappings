@@ -3,6 +3,7 @@
     "name": "McPlayHD Network",
     "website": "https://mcplayhd.net/",
     "store": "https://store.mcplayhd.net/",
+    "description": "Play Minigames and PvP on McPlayHD Network.",
     "addresses": [
         "mcplayhd.net"
     ],
@@ -18,9 +19,11 @@
         "1.19.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "PvE"
     ],
     "socials": {
         "twitter": "mcplayhdnet",

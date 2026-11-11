@@ -1,0 +1,56 @@
+{
+    "id": "pinkprison",
+    "name": "Pink Prison",
+    "description": "A competitive OP Prison server with custom PvP and events.",
+    "website": "https://pinkprison.com",
+    "store": "https://buy.pinkprison.com",
+    "addresses": [
+        "pinkprison.net",
+        "pinkprison.com"
+    ],
+    "primaryAddress": "pinkprison.net",
+    "minecraftVersions": [
+      "1.7.*",
+      "1.8.*",
+      "1.12.*",
+      "1.16.*",
+      "1.17.*",
+      "1.18.*",
+      "1.19.*",
+      "1.20.*",
+      "1.21.*",
+      "26.1.*",
+      "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff69b4",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN",
+        "de",
+        "it"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "Prison",
+        "PvP",
+        "Minigames"
+    ],
+    "primaryGameType": "Prison",
+    "presentationVideo": "G7Ly22zEXyI",
+    "socials": {
+        "tiktok": "@pinkprison.net",
+        "youtube": "Pink-Prison",
+        "discord": "https://discord.gg/pinkprison"
+    },
+    "crossplay": false
+}

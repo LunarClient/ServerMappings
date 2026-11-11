@@ -1,14 +1,14 @@
 {
     "id": "shinymc",
     "name": "Shiny MC",
-    "website": "https://www.shiny-mc.org",
-    "store": "https://shiny-mc.org/store",
-    "description": "By and for Europeans",
+    "website": "https://www.shiny-mc.com",
+    "store": "https://www.shiny-mc.com/store",
+    "description": "By and for Europeans (& Frenchs)",
     "addresses": [
-        "shiny-mc.eu",
-        "shiny-mc.org"
+        "shiny-mc.fr",
+        "shiny-mc.com"
     ],
-    "primaryAddress": "shiny-mc.eu",
+    "primaryAddress": "shiny-mc.fr",
     "primaryColor": "#ffca66",
     "secondaryColor": "#ffba37",
     "minecraftVersions": [
@@ -36,7 +36,7 @@
     "socials": {
         "instagram": "shiny.mc",
         "youtube": "@shinymc-eu",
-        "discord": "https://discord.gg/EMDz7ykBtC"
+        "discord": "https://discord.gg/5a6KD3NXEe"
     },
     "compliance": {
         "privacyPolicy": "https://shiny-mc.org/privacy/",

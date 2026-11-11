@@ -1,0 +1,31 @@
+{
+    "id": "akai",
+    "name": "Akai UHC",
+    "store": "https://shop.akai-uhc.fr/",
+    "description": "AkaiUHC is a UHC and Minigames french server.",
+    "addresses": [
+        "akai-uhc.fr"
+    ],
+    "primaryAddress": "play.akai-uhc.fr",
+    "primaryColor": "#d44c0d",
+    "secondaryColor": "#f57e1d",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryGameType": "UHC",
+    "gameTypes": [
+        "PvP",
+        "UHC",
+        "Minigames"
+    ]
+}

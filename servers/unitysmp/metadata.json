@@ -1,0 +1,42 @@
+{
+  "id": "unitysmp",
+  "name": "Unity SMP",
+  "description": "A friendly crossplay survival server with economy and teams.",
+  "addresses": [
+    "unity-smp.com"
+  ],
+  "primaryAddress": "unity-smp.com",
+  "minecraftVersions": [
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*",
+    "26.2.*"
+  ],
+  "primaryMinecraftVersion": "26.2",
+  "primaryColor": "#B72AFF",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "Open World"
+  ],
+  "primaryGameType": "Survival",
+  "socials": {
+    "discord": "https://discord.gg/scpynJpByU"
+  },
+  "crossplay": true
+}

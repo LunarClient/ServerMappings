@@ -1,0 +1,38 @@
+{
+    "id": "timanttimiekka",
+    "name": "Timanttimiekka",
+    "website": "https://timanttimiekka.fi/",
+    "description": "Finland's most shiny server",
+    "addresses": [
+        "timanttimiekka.fi"
+    ],
+    "primaryAddress": "mc.timanttimiekka.fi",
+    "primaryColor": "#0081e9",
+    "secondaryColor": "#00a8c8",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.1",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mKrZAyANJ2",
+        "youtube": "timanttimiekkamc",
+        "tiktok": "@timanttimiekkamc"
+    },
+    "votingLinks": [
+        "https://minecraft-mp.com/server/339234/",
+        "https://gamemonitoring.net/minecraft/servers/10866432/",
+        "https://topminecraftservers.org/server/40806"
+    ]
+}

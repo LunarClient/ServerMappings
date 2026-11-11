@@ -1,0 +1,40 @@
+{
+    "id": "mcgry",
+    "name": "MCGRY.PL",
+    "description": "Polish anarchy network with BoxPvP, KitPvP, SkyPvP and mace fights.",
+    "addresses": [
+        "mcgry.pl"
+    ],
+    "primaryAddress": "mcgry.pl",
+    "offline": true,
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#ffb000",
+    "secondaryColor": "#fbcb08",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Anarchy",
+        "BoxPvP",
+        "KitPvP",
+        "PvP"
+    ],
+    "primaryGameType": "Anarchy",
+    "website": "https://mcgry.pl",
+    "store": "https://mcgry.pl/sklep",
+    "socials": {
+        "discord": "https://discord.gg/mcgry",
+        "tiktok": "@mcgrypl"
+    },
+    "crossplay": false
+}

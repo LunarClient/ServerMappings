@@ -1,6 +1,7 @@
 {
     "id": "technoob",
     "name": "tech-noob",
+    "description": "Test your combat skills on tech-noob.",
     "addresses": [
         "tech-noob.com"
     ],

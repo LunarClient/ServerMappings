@@ -1,0 +1,39 @@
+{
+  "id": "redgully",
+  "name": "Redgully",
+  "description": "Australian Vanilla+ survival with claims, player markets and rank progression.",
+  "addresses": [
+    "redgully.com"
+  ],
+  "primaryAddress": "redgully.com",
+  "minecraftVersions": [
+    "1.21.9",
+    "1.21.10",
+    "26.3.*"
+  ],
+  "primaryMinecraftVersion": "26.3",
+  "primaryColor": "#FF3B30",
+  "secondaryColor": "#B60900",
+  "gameTypes": [
+    "Survival",
+    "Casual",
+    "Open World"
+  ],
+  "primaryGameType": "Survival",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "primaryRegion": "OC",
+  "regions": [
+    "OC"
+  ],
+  "website": "https://redgully.com",
+  "compliance": {
+    "privacyPolicy": "https://redgully.com/privacy"
+  },
+  "socials": {
+    "discord": "https://discord.gg/UWajhmgY9r"
+  },
+  "crossplay": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "lastmc",
+  "name": "LastMC Network",
+  "description": "The best Italian Armoline Minecraft PvP experience.",
+  "addresses": [
+    "lastmc.top"
+  ],
+  "primaryAddress": "play.lastmc.top",
+  "gameTypes": [
+    "PvP",
+    "Minigames"
+  ],
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#FFFFFF",
+  "minecraftVersions": [
+    "1.8.9"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryLanguage": "it",
+  "languages": [
+    "it"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/mZHJY2UXSg"
+  },
+  "crossplay": false
+}

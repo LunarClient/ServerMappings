@@ -1,0 +1,29 @@
+{
+    "id": "toxiss",
+    "name": "Toxiss Survival",
+    "description": "A competitive survival experience like no other.",
+    "addresses": [
+        "toxiss.net"
+    ],
+    "primaryAddress": "lunar.toxiss.net",
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "primaryColor": "#0f96ff",
+    "secondaryColor": "#87caff",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "socials": {
+        "discord": "https://discord.gg/toxiss"
+    },
+    "crossplay": true
+}

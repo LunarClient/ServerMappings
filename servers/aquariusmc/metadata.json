@@ -2,6 +2,7 @@
     "id": "aquariusmc",
     "name": "AquariusMC",
     "store": "https://store.aquariusmc.it/",
+    "description": "Play PvP and Factions on AquariusMC.",
     "addresses": [
         "aquariusmc.it"
     ],

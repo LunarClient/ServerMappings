@@ -1,0 +1,19 @@
+{
+  "id": "staticnet",
+  "name": "StaticNet",
+  "description": "Lifesteal SMP with economy, PvP, and low ping for Indian & SEA players.",
+  "addresses": ["staticnet.in"],
+  "primaryAddress": "staticnet.in",
+  "minecraftVersions": ["1.8.*", "1.21.*"],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#CA5310",
+  "secondaryColor": "#FFFFFF",
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "gameTypes": ["Survival", "Lifesteal", "PvP"],
+  "primaryGameType": "Lifesteal",
+  "crossplay": true,
+  "offline": true,
+  "website": "https://staticnet.in",
+  "store": "https://store.staticnet.in"
+}

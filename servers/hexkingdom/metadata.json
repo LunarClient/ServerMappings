@@ -1,0 +1,38 @@
+{
+    "id": "hexkingdom",
+    "name": "HexKingdom",
+    "description": "Italian Minecraft network with Survival, SMP and Minigames",
+    "addresses": [
+        "hexkingdommc.it"
+    ],
+    "primaryAddress": "mc.hexkingdommc.it",
+    "minecraftVersions": [
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#7B16D9",
+    "secondaryColor": "#15111F",
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Vanilla",
+        "Minigames"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://hexkingdommc.it",
+    "store": "https://storehexkingdommc.it",
+    "socials": {
+        "discord": "https://discord.gg/MTt9jUAF67"
+    },
+    "crossplay": true,
+    "offline": true
+}

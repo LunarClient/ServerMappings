@@ -1,0 +1,33 @@
+{
+   "id":"vintagehcf",
+   "name":"VintageHCF Network",
+   "website":"https://vintagehcf.net/",
+   "store":"https://store.vintagehcf.net/",
+   "description":"We are a community seeking to renew the vision of the HCF.",
+   "addresses":[
+      "vintagehcf.net"
+   ],
+   "primaryAddress":"vintagehcf.net",
+   "primaryColor":"#BF33F7",
+   "secondaryColor":"#331531",
+   "minecraftVersions": [
+     "1.7.*",
+     "1.8.*"
+   ],
+   "primaryMinecraftVersion": "1.8.9",
+   "primaryRegion":"NA",
+   "regions":[
+      "NA"
+   ],
+   "gameTypes":[
+      "HCF",
+      "Competitive"
+   ],
+   "socials":{
+      "twitter":"vintagehcf",
+      "discord":"https://discord.gg/hbDWKUMtKk"
+   },
+   "compliance":{
+      "rules":"https://vintagehcf.net/rules"
+   }
+}

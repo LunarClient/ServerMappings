@@ -1,40 +1,40 @@
 {
-  "id": "starwynxnetwork",
-  "name": "Starwynx Network",
-  "description": "play the best survival and competitive gamemodes!",
-  "addresses": [
-    "starwynx.com"
-  ],
-  "primaryAddress": "mc.starwynx.com",
-  "gameTypes": [
-    "PvP",
-    "PvE",
-    "Survival"
-  ],
-  "primaryColor": "#B000EF",
-  "secondaryColor": "#B000EF",
-  "minecraftVersions": [
-    "1.21.8"
-  ],
-  "primaryMinecraftVersion": "1.21.8",
-  "languages": [
-    "en",
-    "es-EN"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "EU",
-    "NA"
-  ],
-  "primaryRegion": "NA",
-  "store": "https://store.starwynx.com",
-  "socials": {
-    "discord": "https://discord.gg/gPR8P56N4J",
-    "twitter": "StarwynxNetwork",
-    "youtube": "@starwynxnetwork",
-    "instagram": "starwynxnetwork",
-    "twitch": "starwynxnetwork",
-    "tiktok": "@starwynxnetwork"
-  },
-  "crossplay": true
+    "id": "starwynxnetwork",
+    "name": "Starwynx Network",
+    "store": "https://store.starwynx.com",
+    "description": "play the best survival and competitive gamemodes!",
+    "addresses": [
+        "starwynx.com"
+    ],
+    "primaryAddress": "mc.starwynx.com",
+    "primaryColor": "#B000EF",
+    "secondaryColor": "#B000EF",
+    "minecraftVersions": [
+        "1.21.8"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN"
+    ],
+    "gameTypes": [
+        "PvP",
+        "PvE",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gPR8P56N4J",
+        "twitter": "StarwynxNetwork",
+        "youtube": "@starwynxnetwork",
+        "instagram": "starwynxnetwork",
+        "twitch": "starwynxnetwork",
+        "tiktok": "@starwynxnetwork"
+    }
 }

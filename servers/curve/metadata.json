@@ -3,6 +3,7 @@
     "name": "Curve Network",
     "website": "https://curve.rip/",
     "store": "https://curve.rip/store",
+    "description": "Play UHC and PvP on Curve Network.",
     "addresses": [
         "curve.rip"
     ],

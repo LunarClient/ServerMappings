@@ -2,6 +2,7 @@
     "id": "acepvp",
     "name": "AcePVP",
     "store": "https://store.acepvp.fun/",
+    "description": "Test your combat skills on AcePVP.",
     "addresses": [
         "acepvp.fun"
     ],

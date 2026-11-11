@@ -1,0 +1,30 @@
+{
+    "id": "voxifymc",
+    "name": "VoxifyMC",
+    "store": "https://tienda.voxify.live",
+    "description": "Enter the PvP Furor in VoxifyMC.",
+    "addresses": [
+        "voxify.live"
+    ],
+    "primaryAddress": "play.voxify.live",
+    "primaryColor": "#4A127C",
+    "secondaryColor": "#BD8CE8",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "gameTypes": [
+        "Prison",
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/iceclub"
+    }
+}

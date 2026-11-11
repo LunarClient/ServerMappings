@@ -1,29 +1,29 @@
 {
-  "id": "vertixnetwork",
-  "name": "Vertix Network",
-  "website": "https://vertix.fun",
-  "store": "https://tienda.vertix.fun",
-  "description": "Spanish network with Survival OP, Full PVP and Gens. Java & Bedrock crossplay.",
-  "addresses": [
-    "vertix.fun"
-  ],
-  "primaryAddress": "vertix.fun",
-  "primaryColor": "#FFD700",
-  "secondaryColor": "#FFFACD",
-  "minecraftVersions": [
-    "1.20.*"
-  ],
-  "primaryMinecraftVersion": "1.20.1",
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "gameTypes": [
-    "Survival",
-    "PvP"
-  ],
-  "crossplay": false,
-  "socials": {
-    "discord": "https://discord.gg/vertix"
-  }
+    "id": "vertixnetwork",
+    "name": "Vertix Network",
+    "website": "https://vertix.fun",
+    "store": "https://tienda.vertix.fun",
+    "description": "Spanish network with Survival OP, Full PVP and Gens. Java & Bedrock crossplay.",
+    "addresses": [
+        "vertix.fun"
+    ],
+    "primaryAddress": "vertix.fun",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#FFFACD",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/vertix"
+    }
 }

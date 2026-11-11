@@ -1,0 +1,32 @@
+{
+    "id": "starsmp",
+    "name": "StarSMP",
+    "store": "https://store.starsmp.lol",
+    "description": "StarSMP is competitive minecraft server made for the best fighters.",
+    "addresses": [
+        "starsmp.lol"
+    ],
+    "primaryAddress": "starsmp.lol",
+    "primaryColor": "#00FB21",
+    "secondaryColor": "#2DFB48",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+        
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/starsmpmc"
+    }
+}

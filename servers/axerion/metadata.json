@@ -1,0 +1,46 @@
+{
+    "id": "axerion",
+    "name": "Axerion",
+    "description": "German survival SMP with clans, bounties, quests and proximity voice chat",
+    "addresses": [
+        "axerion.de"
+    ],
+    "primaryAddress": "axerion.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#ffd24a",
+    "secondaryColor": "#c29bff",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://axerion.de",
+    "store": "https://axerion.de/store",
+    "votingLinks": [
+        "https://minecraft-server.eu/server/index/23618/axerion"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://axerion.de/privacy",
+        "termsOfService": "https://axerion.de/terms",
+        "rules": "https://axerion.de/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/axerion",
+        "tiktok": "@axerionmc"
+    },
+    "crossplay": true
+}

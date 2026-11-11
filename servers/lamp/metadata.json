@@ -1,0 +1,28 @@
+{
+    "id": "lamp",
+    "name": "Lamp",
+    "description": "A competitive network featuring Lifesteal, KitPvP, Duels, and 1.21 Survival.",
+    "addresses": [
+        "lampnetwork.xyz"
+    ],
+    "primaryAddress": "mc.lampnetwork.xyz",
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "primaryColor": "#0055FF",
+    "secondaryColor": "#FFFFFF",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.21"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "regions": [
+        "NA"
+    ],
+    "primaryRegion": "NA",
+    "store": "https://store.lampnetwork.xyz",
+    "socials": {
+        "discord": "https://discord.com/invite/nUAtpDK9p9"
+    }
+}

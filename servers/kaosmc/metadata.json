@@ -1,0 +1,53 @@
+{
+    "id": "kaosmc",
+    "name": "KaosMC",
+    "description": "KaosMC - Survival and Practice PvP Minecraft server.",
+
+    "addresses": [
+        "kaosmc.com"
+    ],
+    "primaryAddress": "play.kaosmc.com",
+
+    "primaryColor": "#B151FB",
+    "secondaryColor": "#CE8CFB",
+
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.1.2",
+
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+
+    "gameTypes": [
+        "Survival",
+        "Practice"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": true,
+
+    "website": "https://web.kaosmc.com/",
+    "store": "https://tienda.kaosmc.com/",
+
+    "socials": {
+        "twitter": "KaosMC_Oficial",
+        "discord": "https://discord.gg/kaosmc",
+        "youtube": "@KaosMC_Network",
+        "tiktok": "@kaosmcnetwork"
+    }
+}

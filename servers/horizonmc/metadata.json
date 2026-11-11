@@ -1,0 +1,25 @@
+{
+    "id": "horizonmc",
+    "name": "HorizonMC",
+    "description": "Hungary's best minecraft server!",
+    "addresses": [
+        "horizonmc.hu"
+    ],
+    "primaryAddress": "play.horizonmc.hu",
+    "primaryColor": "#B148FA",
+    "secondaryColor": "#8639FF",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ]
+}

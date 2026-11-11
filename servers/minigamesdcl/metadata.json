@@ -1,12 +1,12 @@
 {
     "id": "minigamesdcl",
     "name": "MINIGAMESDCl NETWORK",
-    "website": "https://minigamesdcl.com",
+    "website": "https://minigamesdcl.lat",
     "description": "You can play Capture the wool with your friends!",
     "addresses": [
-        "minigamesdcl.com"
+        "minigamesdcl.lat"
     ],
-    "primaryAddress": "mc.minigamesdcl.com",
+    "primaryAddress": "minigamesdcl.lat",
     "primaryColor": "#f0ec00",
     "secondaryColor": "#f00000",
     "minecraftVersions": [
@@ -33,6 +33,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/cHNEaAFqJE"
+        "discord": "https://discord.gg/3EEsmua79C"
     }
 }

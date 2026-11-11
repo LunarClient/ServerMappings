@@ -1,0 +1,29 @@
+{
+    "id": "omniversemc",
+    "name": "OmniverseMC",
+    "store": "https://tienda.omniversemc.xyz/",
+    "description": "Play Survival and more on OmniverseMC.",
+    "addresses": [
+        "omniversemc.xyz"
+    ],
+    "primaryAddress": "play.omniversemc.xyz",
+    "primaryColor": "#a855f7",
+    "secondaryColor": "#c084fc",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "crossplay": true,
+    "socials": {
+        "discord": "https://discord.gg/jXkMsZvJFJ"
+    }
+}

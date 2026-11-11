@@ -1,0 +1,25 @@
+{
+  "id": "lataberna",
+  "name": "La Taberna",
+  "description": "Classic Soup PvP with unique kits, clans and soup practice.",
+  "addresses": [
+    "lataberna.club"
+  ],
+  "primaryAddress": "play.lataberna.club",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#FFD700",
+  "secondaryColor": "#B8860B",
+  "gameTypes": [
+    "Soup PvP",
+    "KitPvP"
+  ],
+  "primaryGameType": "Soup PvP",
+  "socials": {
+    "discord": "https://discord.gg/lataberna"
+  },
+  "crossplay": false,
+  "offline": true
+}

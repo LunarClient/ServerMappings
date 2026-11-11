@@ -1,0 +1,19 @@
+  {
+      "id": "pvpprac",
+      "name": "PvPPrac",
+      "description": "A competitive Minecraft PvP practice server",
+      "addresses": ["pvpprac.net"],
+      "primaryAddress": "pvpprac.net",
+      "minecraftVersions": ["1.21.*", "26.1.*", "26.2.*"],
+      "primaryMinecraftVersion": "1.21.4",
+      "gameTypes": ["PvP", "Practice", "Competitive"],
+      "primaryGameType": "Practice",
+      "primaryColor": "#00FFFF",
+      "secondaryColor": "#FFFF00",
+      "primaryLanguage": "en",
+      "languages": ["en"],
+      "primaryRegion": "NA",
+      "regions": ["NA"],
+      "crossplay": false,
+      "offline": false
+  }

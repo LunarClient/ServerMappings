@@ -5,8 +5,6 @@
     "store": "https://store.gapplemc.net",
     "description": "GappleMC is THE Hispanic server you're looking for.",
     "addresses": [
-        "gegmc.net",
-        "gegcraft.org",
         "gapplemc.com"
     ],
     "primaryAddress": "gapplemc.com",

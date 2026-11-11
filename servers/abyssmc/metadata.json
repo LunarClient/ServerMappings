@@ -1,0 +1,31 @@
+{
+    "id": "abyssmc",
+    "name": "AbyssMC",
+    "website": "https://www.abyssmc.cc/",
+    "description": "Italian SMP Minecraft Server",
+    "addresses": [
+        "abyssmc.cc"
+    ],
+    "primaryAddress": "play.abyssmc.cc",
+    "primaryColor": "#00BFFF",
+    "secondaryColor": "#1a3a5c",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "crossplay": false,
+    "socials": {
+        "discord": "https://discord.com/invite/B59SkXZwGD"
+    }
+}

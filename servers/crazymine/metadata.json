@@ -1,0 +1,39 @@
+{
+    "id": "crazymine",
+    "name": "CrazyMine",
+    "description": "German network with Survival, CityBuild, PvP and a community island",
+    "addresses": [
+        "crazymine.de"
+    ],
+    "primaryAddress": "crazymine.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FF7A18",
+    "secondaryColor": "#FFD166",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "PvP",
+        "KitPvP",
+        "Casual"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "discord": "https://discord.gg/Pe546se3FF",
+        "youtube": "@CrazyMineMC",
+        "tiktok": "@crazyminede"
+    },
+    "crossplay": true
+}

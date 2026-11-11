@@ -2,6 +2,7 @@
     "id": "felescraft",
     "name": "FelesCraft Network",
     "store": "https://tienda.felescraft.com/",
+    "description": "Experience survival gameplay on FelesCraft Network.",
     "addresses": [
         "felescraft.com"
     ],

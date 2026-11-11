@@ -3,11 +3,13 @@
     "name": "AgeraPvP Club",
     "website": "https://agerapvp.club/",
     "store": "https://agerapvp.club/",
+    "description": "Play Minigames and PvP on AgeraPvP Club.",
     "addresses": [
         "agerapvp.club",
         "agerapvp.net"
     ],
     "primaryAddress": "mc.agerapvp.club",
+    "offline": true,
     "primaryColor": "#00c5ff",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
@@ -25,9 +27,11 @@
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Minigames",
-        "PvP"
+        "PvP",
+        "Anarchy"
     ],
     "socials": {
         "discord": "https://discord.gg/qeV59SXJfU",

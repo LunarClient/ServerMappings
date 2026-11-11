@@ -1,0 +1,30 @@
+{
+    "id": "armorstand",
+    "name": "armorstand.net",
+    "description": "A server to sharpen your PvP skills.",
+    "addresses": [
+        "armorstand.net"
+    ],
+    "primaryAddress": "armorstand.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#fcad6d",
+    "secondaryColor": "#f0f0f0",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/XxkwHTr7NB"
+    }
+}

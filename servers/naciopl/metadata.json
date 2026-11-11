@@ -1,0 +1,40 @@
+
+{
+  "id": "naciopl",
+  "name": "Mc.Nacio.PL",
+  "description": "A Polish social Minecraft server with apartments, jobs and minigames.",
+  "addresses": [
+    "nacio.pl"
+  ],
+  "primaryAddress": "mc.nacio.pl",
+  "minecraftVersions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.8",
+  "primaryColor": "#2b8df0",
+  "secondaryColor": "#14569B",
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Casual",
+    "Roleplay",
+    "Minigames"
+  ],
+  "primaryGameType": "Casual",
+  "website": "https://www.nacio.pl/",
+  "socials": {
+    "discord": "https://discord.gg/vPMxyTXb8C",
+    "tiktok": "@mc.nacio.pl"
+  },
+  "crossplay": false,
+  "offline": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dentrypvp",
+  "name": "DentryPvP",
+  "offline": true,
+  "description": "Play DentryPvP for the real old factions experience",
+  "website": "https://dentrypvp.com/",
+  "store": "https://dentrypvp.com/store",
+  "compliance": {
+    "privacyPolicy": "https://dentrypvp.com/privacy",
+    "termsOfService": "https://dentrypvp.com/terms",
+    "rules": "https://dentrypvp.com/rules",
+    "support": "https://dentrypvp.com/support"
+  },
+  "addresses": [
+    "dentrypvp.com"
+  ],
+  "primaryAddress": "dentrypvp.com",
+  "primaryColor": "#AB8102",
+  "secondaryColor": "#FAC864",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+  "primaryGameType": "HCF",
+  "gameTypes": [
+    "HCF",
+    "Factions",
+    "Hardcore",
+    "PvP"
+  ]
+}

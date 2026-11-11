@@ -1,0 +1,29 @@
+{
+  "id": "overplay",
+  "name": "OverPlay",
+  "description": "A Polish Minecraft server with Lifesteal, BoxPvP and SkyPvP.",
+  "addresses": [
+    "overplay.pl"
+  ],
+  "primaryAddress": "overplay.pl",
+  "primaryColor": "#E21A16",
+  "secondaryColor": "#5ACB16",
+  "minecraftVersions": [
+    "1.21.5"
+  ],
+  "primaryMinecraftVersion": "1.21.5",
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Lifesteal",
+    "BoxPvP"
+  ],
+  "primaryGameType": "Lifesteal",
+  "website": "https://overplay.pl"
+}

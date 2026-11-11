@@ -2,6 +2,7 @@
     "id": "poglords",
     "name": "PogLords Network",
     "store": "https://store.poglords.net/",
+    "description": "Experience survival gameplay on PogLords Network.",
     "addresses": [
         "poglords.net"
     ],

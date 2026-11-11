@@ -1,0 +1,41 @@
+{
+    "id": "mysticmc",
+    "name": "MysticMC",
+    "website": "https://www.mysticmc.it/",
+    "store": "https://store.mysticmc.it/",
+    "description": "MysticMC is the best Italian network for those who love adventure and community.",
+    "addresses": [
+        "mysticmc.it"
+    ],
+    "primaryAddress": "play.mysticmc.it",
+    "offline": false,
+    "primaryColor": "#C77D3E",
+    "secondaryColor": "#D4A574",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/RfqM9mXHzJ",
+        "tiktok": "@mysticmcofficial_",
+        "youtube": "@MysticMCOfficialServer"
+    }
+}

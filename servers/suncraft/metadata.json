@@ -2,6 +2,7 @@
     "id": "suncraft",
     "name": "SunCraft Network",
     "store": "https://tienda.suncraft.lol/",
+    "description": "Play Survival, PvP, and more on SunCraft Network.",
     "addresses": [
         "suncraft.lol"
     ],

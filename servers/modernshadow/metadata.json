@@ -1,0 +1,40 @@
+{
+    "id": "modernshadow",
+    "name": "ModernShadow",
+    "description": "A Survival with Slimefun",
+    "addresses": [
+        "modernshadow.ir"
+    ],
+    "primaryAddress": "modernshadow.ir",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.21.8",
+    "primaryColor": "#00AA00",
+    "secondaryColor": "#AAAAAA",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://modernshadow.ir",
+    "socials": {
+        "discord": "https://discord.gg/XQjNyvAyfG"
+    },
+    "offline": true,
+    "crossplay": false
+}

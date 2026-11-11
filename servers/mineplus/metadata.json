@@ -1,0 +1,35 @@
+{
+  "id": "mineplus",
+  "name": "MinePlus",
+  "description": "Modern Turkish Minecraft network for Survival, Practice and Parkour.",
+  "addresses": [
+    "mineplus.network"
+  ],
+  "primaryAddress": "mc.mineplus.network",
+  "minecraftVersions": [
+    "1.7.*",
+    "1.8.*",
+    "1.12.*",
+    "1.16.*",
+    "1.20.*",
+    "1.21.*",
+    "26.1.*"
+  ],
+  "primaryMinecraftVersion": "26.1.2",
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#000000",
+  "primaryLanguage": "tr",
+  "languages": ["tr"],
+  "primaryRegion": "EU",
+  "regions": ["EU"],
+  "primaryGameType": "Survival",
+  "gameTypes": ["Survival", "Practice", "Parkour", "PvP", "Minigames"],
+  "website": "https://mineplus.network/",
+  "store": "https://mineplus.network/store",
+  "compliance": {
+    "privacyPolicy": "https://mineplus.network/privacy",
+    "termsOfService": "https://mineplus.network/terms",
+    "rules": "https://mineplus.network/rules"
+  },
+  "crossplay": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": "slixemc",
+  "name": "SlixeMC",
+  "description": "SlixeMc Network - BoxPvP and competitive Minecraft server.",
+
+  "addresses": [
+    "slixemc.xyz"
+  ],
+  "primaryAddress": "slixemc.xyz",
+
+  "primaryColor": "#3BD2FF",
+  "secondaryColor": "#BAEFFF",
+
+  "minecraftVersions": [
+    "1.16.*",
+    "1.17.*",
+    "1.18.*",
+    "1.19.*",
+    "1.20.*",
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21",
+
+  "primaryRegion": "NA",
+  "regions": [
+    "NA"
+  ],
+
+  "gameTypes": [
+    "BoxPvP",
+    "PvP"
+  ],
+
+  "socials": {
+    "discord": "https://discord.gg/a5SYqaCwnG"
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "id": "olimpmc",
+    "name": "OLIMPMC.PL",
+    "description": "Polish Minecraft network with Survival and seven minigames",
+    "addresses": [
+        "olimpmc.pl"
+    ],
+    "primaryAddress": "olimpmc.pl",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#F5B82E",
+    "secondaryColor": "#12306E",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": false,
+    "offline": true,
+    "socials": {
+        "discord": "https://discord.gg/HkJTJUbyHG"
+    }
+}

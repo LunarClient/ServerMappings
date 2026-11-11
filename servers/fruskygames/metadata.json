@@ -2,6 +2,7 @@
     "id": "fruskygames",
     "name": "FruskyGames",
     "store": "https://store.fruskygames.net/",
+    "description": "Play Factions and PvP on FruskyGames.",
     "addresses": [
         "fruskygames.net",
         "fruskygames.nl"

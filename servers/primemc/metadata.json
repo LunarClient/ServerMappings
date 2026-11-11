@@ -39,14 +39,14 @@
     "socials": {
         "discord": "https://discord.gg/primemc"
     },
+    "compliance": {
+        "rules": "https://primemc.eu/rules"
+    },
     "votingLinks": [
         "https://de.namemc.com/server/primemc.eu?q=primemc.eu",
         "https://minecraftservers.org/server/677147",
         "https://minecraft-server-list.com/server/513779/",
         "https://minecraft-mp.com/server-s347010",
         "https://topminecraftservers.org/server/41329"
-    ],
-    "compliance": {
-        "rules": "https://primemc.eu/rules"
-    }
+    ]
 }

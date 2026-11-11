@@ -1,0 +1,51 @@
+{
+    "id": "eldium",
+    "name": "ELDIUM",
+    "description": "Innovative French UHC/minigames server !",
+    "website": "https://eldium.fr/",
+    "store": "https://eldium.fr/shop",
+    "wiki": "https://eldium.fr/docs",
+    "addresses": [
+        "eldium.fr"
+    ],
+    "primaryAddress": "eldium.fr",
+    "primaryColor": "#fece00",
+    "secondaryColor": "#2197d7",
+    "primaryMinecraftVersion": "1.8.9",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+
+    "gameTypes": [
+        "UHC",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "EldiumUHC",
+        "discord": "https://discord.com/invite/ZFczFUbxhS",
+        "youtube": "@EldiumUHC",
+        "instagram": "EldiumUHC"
+    },
+    "compliance": {
+        "termsOfService": "https://eldium.fr/cgu",
+        "rules": "https://eldium.fr/reglement",
+        "support": "https://eldium.fr/support"
+    }
+}

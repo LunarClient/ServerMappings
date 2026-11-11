@@ -1,0 +1,44 @@
+{
+    "id": "slycenetwork",
+    "name": "SlyceNetwork",
+    "website": "https://www.slyce.network/",
+    "store": "https://www.slyce.network/loja",
+    "description": "Formed by passionate players who venture into Minigames! With NesquikDeveloper",
+    "addresses": [
+        "slyce.network"
+    ],
+    "primaryAddress": "slyce.network",
+    "primaryColor": "#2b9bfb",
+    "secondaryColor": "#fb692b",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.5",
+    "crossplay": true,
+    "primaryRegion": "SA",
+    "regions": [
+        "SA"
+    ],
+    "primaryLanguage": "pt-BR",
+    "languages": [
+        "pt-BR",
+        "pt-PT"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Roleplay"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/aWCMtDwW68",
+        "youtube": "@SlyceNetwork",
+        "instagram": "slycenetworkbr"
+    }
+}

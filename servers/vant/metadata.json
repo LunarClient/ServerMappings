@@ -2,6 +2,7 @@
     "id": "vant",
     "name": "Vant Network",
     "store": "https://store.vant.rip/",
+    "description": "Play PvP, Factions, and more on Vant Network.",
     "addresses": [
         "vant.rip"
     ],

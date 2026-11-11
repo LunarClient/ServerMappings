@@ -2,6 +2,7 @@
     "id": "centranet",
     "name": "Centra Network",
     "store": "https://store.centranet.work",
+    "description": "Play Survival and PvP on Centra Network.",
     "addresses": [
         "centranet.work"
     ],

@@ -3,6 +3,7 @@
     "name": "TwistMC",
     "website": "https://twistmc.net/",
     "store": "https://store.twistmc.net/",
+    "description": "Play Minigames and PvP on TwistMC.",
     "addresses": [
         "twistmc.net"
     ],

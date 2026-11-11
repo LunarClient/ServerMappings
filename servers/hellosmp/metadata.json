@@ -1,0 +1,38 @@
+{
+    "id": "hellosmp",
+    "name": "HelloSMP",
+    "description": "Vanilla and Economy SMP for Java and Bedrock. Crates, PvP and events.",
+    "addresses": [
+        "hellosmp.net"
+    ],
+    "primaryAddress": "hellosmp.net",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#FFD54A",
+    "secondaryColor": "#FFA41B",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Open World"
+    ],
+    "primaryGameType": "Survival",
+    "store": "https://store.hellosmp.net",
+    "socials": {
+        "discord": "https://discord.gg/HelloSMPnet"
+    },
+    "crossplay": true
+}

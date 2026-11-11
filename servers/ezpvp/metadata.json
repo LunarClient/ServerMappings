@@ -1,6 +1,7 @@
 {
     "id": "ezpvp",
     "name": "EzPvP Network",
+    "description": "Play PvP and Parkour on EzPvP Network.",
     "addresses": [
         "ezpvp.lol",
         "jamals.lol",

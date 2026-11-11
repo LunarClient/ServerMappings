@@ -1,0 +1,31 @@
+{
+  "id": "beeland",
+  "name": "BeeLand",
+  "description": "High-performance Minecraft server based on Economy & RPG. Join us today!",
+  "addresses": [
+    "beeland.cz"
+  ],
+  "primaryAddress": "mc.beeland.cz",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#FFB300",
+  "secondaryColor": "#000000",
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "primaryGameType": "Survival",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.com/invite/Bq4qqx7SAd"
+  }
+}

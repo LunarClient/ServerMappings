@@ -2,6 +2,7 @@
     "id": "vexmi",
     "name": "Vexmi Network",
     "store": "https://tienda.vexmi.net/",
+    "description": "Play Survival, PvP, and more on Vexmi Network.",
     "addresses": [
         "vexmi.net"
     ],

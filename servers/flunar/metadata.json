@@ -1,0 +1,32 @@
+{
+    "id": "flunar",
+    "name": "Flunar",
+    "description": "German Minecraft network with SMP, Citybuild, Skyblock and casual modes.",
+    "addresses": [
+        "flunar.de"
+    ],
+    "primaryAddress": "flunar.de",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#e8e8e6",
+    "secondaryColor": "#111111",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Casual"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://flunar.de",
+    "crossplay": true
+}

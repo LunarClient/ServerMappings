@@ -1,39 +1,38 @@
 {
-  "id": "swland",
-  "name": "SWLand",
-  "website": "https://www.swland.de",
-  "store": "https://store.swland.de",
-  "description": "Best SkyWars Practice Server!",
-  "primaryAddress": "swland.de",
-  "addresses": [
-    "swland.de"
-  ],
-  "minecraftVersions": [
-    "1.7.*",
-    "1.8.*"
-  ],
-  "primaryMinecraftVersion": "1.8.9",
-  "primaryColor": "#ff7b00",
-  "secondaryColor": "#00ff00",
-  "languages": [
-    "en"
-  ],
-  "primaryLanguage": "en",
-  "regions": [
-    "NA",
-    "EU",
-    "OC",
-    "AS",
-    "SA"
-  ],
-  "primaryRegion": "EU",
-  "gameTypes": [
-    "PvP"
-  ],
-  "crossplay": false,
-  "socials": {
-    "twitter": "SWLandDE",
-    "discord": "https://discord.gg/QxkpRb4f8v"
-  }
+    "id": "swland",
+    "name": "SWLand",
+    "website": "https://www.swland.de",
+    "store": "https://store.swland.de",
+    "description": "Best SkyWars Practice Server!",
+    "addresses": [
+        "swland.de"
+    ],
+    "primaryAddress": "swland.de",
+    "primaryColor": "#ff7b00",
+    "secondaryColor": "#00ff00",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "socials": {
+        "twitter": "SWLandDE",
+        "discord": "https://discord.gg/QxkpRb4f8v"
+    }
 }
-

@@ -2,6 +2,7 @@
     "id": "xenon",
     "name": "Xenon Server",
     "website": "https://www.xenon.club",
+    "description": "Play PvP, Survival, and more on Xenon Server.",
     "addresses": [
         "xenon.club"
     ],

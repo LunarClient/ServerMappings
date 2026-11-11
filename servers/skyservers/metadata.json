@@ -3,6 +3,7 @@
     "name": "SkyServers",
     "website": "https://www.skyservers.net/",
     "store": "https://www.skyservers.net/survivalshop",
+    "description": "Experience survival gameplay on SkyServers.",
     "addresses": [
         "sky-mc.net"
     ],

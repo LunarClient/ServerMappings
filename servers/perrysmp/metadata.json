@@ -1,0 +1,33 @@
+{
+    "id": "perrysmp",
+    "name": "PerrySMP",
+    "description": "Survival SMP with a player-run economy, auction house, PvP and events",
+    "addresses": [
+        "perrysmp.net"
+    ],
+    "primaryAddress": "perrysmp.net",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#74C2FF",
+    "secondaryColor": "#1E3A5F",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "discord": "https://discord.gg/perrysmp"
+    },
+    "crossplay": true
+}

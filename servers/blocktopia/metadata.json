@@ -1,6 +1,7 @@
 {
     "id": "blocktopia",
     "name": "BlockTopia",
+    "description": "Test your combat skills on BlockTopia.",
     "addresses": [
         "blocktopia.es"
     ],

@@ -2,6 +2,7 @@
     "id": "scapemc",
     "name": "ScapeMC",
     "store": "https://scapemcnet.tebex.io/",
+    "description": "Play Survival and PvP on ScapeMC.",
     "addresses": [
         "scapemc.net"
     ],

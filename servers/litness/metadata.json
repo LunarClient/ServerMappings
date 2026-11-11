@@ -1,0 +1,47 @@
+{
+    "id": "litness",
+    "name": "Litness",
+    "description": "Survival network with quests, farming, economy, custom bosses and events.",
+    "addresses": [
+        "litness.gg"
+    ],
+    "primaryAddress": "play.litness.gg",
+    "minecraftVersions": [
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#A83E00",
+    "secondaryColor": "#F3E3CC",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "it",
+        "de",
+        "fr",
+        "es-EN"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Adventure"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://litness.gg",
+    "store": "https://litness.gg/store",
+    "compliance": {
+        "privacyPolicy": "https://litness.gg/privacy",
+        "termsOfService": "https://litness.gg/tos",
+        "rules": "https://litness.gg/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/RBcqkxgZyD",
+        "instagram": "playlitness",
+        "tiktok": "@playlitness",
+        "telegram": "playlitness"
+    },
+    "crossplay": true
+}

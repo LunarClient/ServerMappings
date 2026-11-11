@@ -1,0 +1,30 @@
+{
+  "id": "himassmp",
+  "name": "HimasSMP",
+  "description": "Anarchy Survival",
+  "addresses": [
+    "himassmp.xyz"
+  ],
+  "primaryAddress": "himassmp.xyz",
+  "gameTypes": [
+    "PvP",
+    "Survival"
+  ],
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#FF0000",
+  "minecraftVersions": [
+    "1.21.11"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "languages": [
+    "en"
+  ],
+  "primaryLanguage": "en",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://discord.gg/dxJVHCkmHF"
+  }
+}

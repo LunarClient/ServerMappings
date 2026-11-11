@@ -1,0 +1,33 @@
+{
+    "id": "playcub",
+    "name": "PlayCub",
+    "website": "https://playcub.net",
+    "store": "https://tienda.playcub.net",
+    "description": "Join PlayCub on Lunar Client! Compete in PvP, Survival & more!",
+    "addresses": ["playcub.net"],
+    "primaryAddress": "mc.playcub.net",
+    "primaryColor": "#65e0dd",
+    "secondaryColor": "#319401",
+    "minecraftVersions": ["1.8.*", "1.12.*", "1.16.*", "1.21.*"],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": true,
+    "primaryRegion": "NA",
+    "regions": ["NA", "SA"],
+    "primaryLanguage": "es-EN",
+    "languages": ["en", "es-EN"],
+    "gameTypes": ["PvP", "Factions", "Survival"],
+    "socials": {
+        "discord": "https://discord.gg/XSJ32wfsc5",
+        "twitter": "PlayCubNetwork",
+        "youtube": "@PlayCubNetwork",
+        "instagram": "playcubnetwork",
+        "twitch": "playcubnetwork",
+        "tiktok": "@playcubnetwork"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#222c36",
+            "upperColor": "#319401"
+        }
+    }
+}

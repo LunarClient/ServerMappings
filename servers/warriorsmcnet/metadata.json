@@ -1,6 +1,7 @@
 {
     "id": "warriorsmcnet",
     "name": "WarriorsMC Network",
+    "description": "Play Minigames and Survival on WarriorsMC Network.",
     "addresses": [
         "warriorsmc.club"
     ],

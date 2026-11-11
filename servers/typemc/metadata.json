@@ -1,0 +1,40 @@
+{
+    "id": "typemc",
+    "name": "TypeMC",
+    "website": "https://www.typemc.com",
+    "store": "https://www.typemc.com/store",
+    "description": "Join our server to play our Gens",
+    "addresses": [
+        "typemc.com"
+    ],
+    "primaryAddress": "play.typemc.com",
+    "primaryColor": "#3480eb",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Tycoon",
+        "Minigames"
+    ],
+    "compliance": {
+        "rules": "https://typemc.com/rules"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/typemc",
+        "youtube": "@typemc-official",
+        "tiktok": "@typemc.com"
+    },
+    "crossplay": true
+}

@@ -2,6 +2,7 @@
     "id": "volatik",
     "name": "Volatik Network",
     "store": "https://tienda.volatik.net/",
+    "description": "Play Survival and PvP on Volatik Network.",
     "addresses": [
         "volatik.net"
     ],

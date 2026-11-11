@@ -1,0 +1,36 @@
+{
+    "id": "vincattack",
+    "name": "VincAttack",
+    "description": "German survival SMP with teams, claims, crates, events and a battle pass.",
+    "addresses": [
+        "vincattack.de"
+    ],
+    "primaryAddress": "vincattack.de",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#4BC1F7",
+    "secondaryColor": "#011128",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Minigames"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://vincattack.de",
+    "socials": {
+        "discord": "https://discord.gg/vincattack"
+    },
+    "crossplay": true
+}

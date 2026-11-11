@@ -2,6 +2,7 @@
     "id": "nzcraft",
     "name": "NZCraft Network",
     "store": "https://tienda.nzcraft.net/",
+    "description": "Play Minigames, Survival, and more on NZCraft Network.",
     "addresses": [
         "nzcraft.net"
     ],

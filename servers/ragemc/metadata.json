@@ -1,0 +1,28 @@
+{
+    "id": "ragemc",
+    "name": "RageMC",
+    "description": "Competitive HCF PvP server with events and active gameplay.",
+    "addresses": [
+        "ragemc.rip"
+    ],
+    "primaryAddress": "ragemc.rip",
+    "minecraftVersions": [
+        "1.7.10",
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#D10000",
+    "secondaryColor": "#1A1A1A",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "HCF",
+        "PvP"
+    ],
+    "primaryGameType": "HCF",
+    "crossplay": false,
+    "offline": false,
+    "website": "https://ragemc.rip"
+}

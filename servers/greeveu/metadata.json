@@ -2,6 +2,7 @@
     "id": "greeveu",
     "name": "Greev.eu",
     "website": "https://greev.eu/",
+    "description": "Greev.eu - Minecraft and Teamspeak network with various games.",
     "addresses": [
         "greev.eu"
     ],

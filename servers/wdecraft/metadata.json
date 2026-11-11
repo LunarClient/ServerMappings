@@ -2,6 +2,7 @@
     "id": "wdecraft",
     "name": "wdecraft",
     "store": "https://shop.wdecraft.nl/",
+    "description": "Play exciting minigames on wdecraft.",
     "addresses": [
         "wdecraft.nl"
     ],

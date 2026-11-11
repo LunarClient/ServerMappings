@@ -1,0 +1,32 @@
+{
+    "id": "sghq",
+    "name": "SurvivalGam.es",
+    "website": "https://survivalgam.es",
+    "store": "https://survivalgam.es/store",
+    "description": "Classic Survival Games, UHC, and competitive PvP.",
+    "addresses": [
+        "sghq.eu",
+        "survivalgam.es"
+    ],
+    "primaryAddress": "eu.survivalgam.es",
+    "primaryColor": "#8B3DFF",
+    "secondaryColor": "#C4C4D0",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "UHC"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/sghq"
+    }
+}

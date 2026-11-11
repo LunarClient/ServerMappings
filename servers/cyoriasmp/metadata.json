@@ -1,0 +1,28 @@
+{
+  "id": "cyoriasmp",
+  "name": "Cyoria SMP",
+  "website": "https://www.cyoriasmp.com/",
+  "store": "https://www.cyoriasmp.com/store",
+  "description": "Cyoria SMP: Start from zero and become an emperor in this survival.",
+  "addresses": ["cyoriasmp.com"],
+  "primaryAddress": "play.cyoriasmp.com",
+  "primaryColor": "#00AAFF", 
+  "secondaryColor": "#000000",
+  "minecraftVersions": ["1.21.*", "26.1.*", "26.2.*"],
+  "primaryMinecraftVersion": "1.21.11",
+  "crossplay": true,
+  "primaryRegion": "AS",
+  "regions": ["AS"],
+  "primaryLanguage": "en",
+  "languages": ["en"],
+  "gameTypes": ["Survival"],
+  "socials": {
+    "discord": "https://discord.gg/zJvqw9B3r3"
+  },
+  "compliance": {
+    "rules": "https://www.cyoriasmp.com/terms"
+  },
+  "votingLinks": [
+    "https://playserver.in.th/index.php/Server/Cyoria-SMP-108472"    
+  ]
+}

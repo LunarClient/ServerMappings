@@ -1,0 +1,46 @@
+{
+    "id": "chilismp",
+    "name": "ChiliSMP",
+    "description": "Crystal PvP and Survival SMP with ranks, crates and a player economy",
+    "addresses": [
+        "chilismp.net",
+        "chillismp.net"
+    ],
+    "primaryAddress": "chilismp.net",
+    "minecraftVersions": [
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1.*",
+        "26.2"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#FFD23F",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Crystal PvP",
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Crystal PvP",
+    "store": "https://store.chilismp.net",
+    "socials": {
+        "discord": "https://discord.gg/chilismp"
+    },
+    "crossplay": true
+}

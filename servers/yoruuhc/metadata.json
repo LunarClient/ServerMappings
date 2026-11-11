@@ -1,0 +1,33 @@
+{
+    "id": "yoruuhc",
+    "name": "Yoru UHC",
+    "description": "Minecraft server UHC 1.8.8 for custom gameplay and mini-games.",
+    "addresses": [
+        "yoru-uhc.fr"
+    ],
+    "primaryAddress": "play.yoru-uhc.fr",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#a47cee",
+    "secondaryColor": "#c78800",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "BoxPvP",
+        "UHC",
+        "PvE",
+        "Roleplay"
+    ],
+    "primaryGameType": "UHC",
+    "socials": {
+        "discord": "https://discord.gg/yoruuhc"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": "elarismc",
+    "name": "ElarisMC",
+    "website": "https://blockpvp.fr",
+    "description": "A French Minigames & FFA server: BrainFFA, BedWars, ArenaFight",
+    "addresses": [
+        "blockpvp.fr"
+    ],
+    "primaryAddress": "blockpvp.fr",
+    "primaryColor": "#EFABD0",
+    "secondaryColor": "#FF52AF",
+    "minecraftVersions": [
+        "1.8.9",
+        "1.12.2",
+        "1.16.5",
+        "1.17.1",
+        "1.18.2",
+        "1.19.4",
+        "1.20.4",
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "KitPvP",
+        "PvP"
+    ],
+    "primaryGameType": "Minigames",
+    "socials": {
+        "discord": "https://discord.gg/elarismc"
+    }
+}

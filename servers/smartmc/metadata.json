@@ -1,0 +1,32 @@
+{
+    "id": "smartmc",
+    "name": "SmartMC",
+    "website": "https://www.smartmc.it",
+    "store": "https://store.smartmc.it",
+    "description": "Dominate our SMP or become the champion in our Bedwars.",
+    "addresses": [
+        "smartmc.it"
+    ],
+    "primaryAddress": "play.smartmc.it",
+    "primaryColor": "#2b9bfb",
+    "secondaryColor": "#fb692b",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "it",
+    "languages": [
+        "it"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/smartmc"
+    }
+}

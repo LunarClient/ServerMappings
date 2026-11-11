@@ -2,6 +2,7 @@
     "id": "chorus",
     "name": "Chorus",
     "website": "https://chorus.hu/",
+    "description": "Play Skyblock and Survival on Chorus.",
     "addresses": [
         "chorus.hu",
         "chorus.wtf"

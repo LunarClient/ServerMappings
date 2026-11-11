@@ -1,0 +1,45 @@
+{
+    "id": "mineclubdk",
+    "name": "MineClub",
+    "description": "Danish network where players create and host their own servers",
+    "addresses": [
+        "mineclub.dk"
+    ],
+    "primaryAddress": "mc.mineclub.dk",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#15B6DC",
+    "secondaryColor": "#FFE604",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Casual",
+        "Open World"
+    ],
+    "primaryGameType": "Casual",
+    "website": "https://mineclub.dk",
+    "store": "https://mineclub.dk/butik",
+    "compliance": {
+        "termsOfService": "https://mineclub.dk/handelsbetingelser"
+    },
+    "socials": {
+        "discord": "https://discord.gg/ePxVMN5ACh",
+        "youtube": "@MineClubDK",
+        "tiktok": "@mineclubdk"
+    },
+    "crossplay": false
+}

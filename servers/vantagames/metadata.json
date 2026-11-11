@@ -2,6 +2,7 @@
     "id": "vantagames",
     "name": "Vanta Games",
     "store": "https://store.vantagames.com/",
+    "description": "Play PvP and UHC on Vanta Games.",
     "addresses": [
         "vantagames.com"
     ],

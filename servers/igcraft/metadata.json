@@ -1,0 +1,41 @@
+{
+    "id": "igcraft",
+    "name": "IGCraft",
+    "description": "SMP server focused on creativity, exploration, and immersive storytelling",
+    "addresses": [
+        "igcraft.net"
+    ],
+    "primaryAddress": "play.igcraft.net",
+    "primaryColor": "#8bdbf8",
+    "secondaryColor": "#74d935",
+    "minecraftVersions": [
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU"
+    ],
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "PvE",
+        "Factions"
+    ],
+    "socials": {
+        "twitter": "play_igcraft",
+        "discord": "https://discord.com/invite/e5GZ4e8th5",
+        "youtube": "@play.igcraft",
+        "tiktok": "@play.igcraft"
+    },
+    "offline": true
+}

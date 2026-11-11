@@ -3,6 +3,7 @@
     "name": "MushMC",
     "website": "https://mush.com.br/",
     "store": "https://mush.com.br/loja/ranks",
+    "description": "Play Minigames and PvP on MushMC.",
     "addresses": [
         "mushmc.com",
         "mush.com.br",
@@ -10,6 +11,7 @@
         "mush.gay"
     ],
     "primaryAddress": "jogar.mush.com.br",
+    "offline": true,
     "primaryColor": "#ecb845",
     "secondaryColor": "#522e23",
     "minecraftVersions": [
@@ -23,7 +25,9 @@
         "1.20.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryGameType": "Soup PvP",
     "gameTypes": [
+        "Soup PvP",
         "Minigames",
         "PvP"
     ],

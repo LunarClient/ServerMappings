@@ -2,6 +2,7 @@
     "id": "etercube",
     "name": "Etercube",
     "website": "https://etercube.fr",
+    "description": "Play PvP and Factions on Etercube.",
     "addresses": [
         "etercube.fr",
         "etercrash.fr"

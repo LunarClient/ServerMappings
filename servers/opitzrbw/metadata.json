@@ -1,0 +1,32 @@
+{
+    "id": "opitzrbw",
+    "name": "Opitz Ranked Bedwars",
+    "website": "https://web.opitzrbw.com/",
+    "store": "https://store.opitzrbw.com/",
+    "description": "A competitive Ranked Bedwars server",
+    "addresses": [
+        "opitzrbw.com"
+    ],
+    "primaryAddress": "play.opitzrbw.com",
+    "primaryColor": "#424242",
+    "secondaryColor": "#8a8a8a",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU",
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Minigames"
+    ],
+    "primaryGameType": "PvP",
+    "socials": {
+        "youtube": "opitzrbw",
+        "discord": "https://discord.gg/b3SUZjzbkX"
+    }
+}

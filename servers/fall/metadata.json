@@ -2,6 +2,7 @@
     "id": "fall",
     "name": "Fall Network",
     "store": "https://tienda.fall.cat",
+    "description": "Play Survival, PvP, and more on Fall Network.",
     "addresses": [
         "fall.cat"
     ],

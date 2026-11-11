@@ -1,0 +1,46 @@
+{
+    "id": "atlas",
+    "name": "Atlas",
+    "description": "Czech survival SMP with dungeons, quests, pets and custom items",
+    "addresses": [
+        "mcatlas.cz"
+    ],
+    "primaryAddress": "mcatlas.cz",
+    "minecraftVersions": [
+        "1.21.10",
+        "1.21.11",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryColor": "#f0b428",
+    "secondaryColor": "#2eaaf0",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Parkour"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://mcatlas.cz",
+    "wiki": "https://mcatlas.cz/wiki",
+    "store": "https://store.mcatlas.cz",
+    "votingLinks": [
+        "https://minecraft-list.cz/server/atlasyOz2",
+        "https://craftlist.org/atlas"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://mcatlas.cz/gdpr",
+        "termsOfService": "https://mcatlas.cz/obchodni-podminky"
+    },
+    "socials": {
+        "discord": "https://discord.gg/5fCD4JxJe6",
+        "tiktok": "@mcatlas0",
+        "instagram": "mcatlas.cz"
+    },
+    "crossplay": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zetsy",
+  "name": "ZetsyNetwork",
+  "description": "Zetsy is a new server with a zombiesmp innovative!",
+  "addresses": [
+    "zetsy.eu"
+  ],
+  "primaryAddress": "play.zetsy.eu",
+  "gameTypes": [
+    "PvP"
+  ],
+  "primaryColor": "#FFC800",
+  "secondaryColor": "#008BFF",
+  "minecraftVersions": [
+    "1.21"
+  ],
+  "primaryMinecraftVersion": "1.21",
+  "languages": [
+    "it"
+  ],
+  "primaryLanguage": "it",
+  "regions": [
+    "EU"
+  ],
+  "primaryRegion": "EU",
+  "website": "https://zetsy.eu",
+  "store": "https://zetsy.tebex.io",
+  "socials": {
+    "discord": "https://discord.gg/ecQXTp8VGa",
+    "youtube": "@ZetsyNetwork",
+    "tiktok": "@zetsynetwork"
+  }
+}

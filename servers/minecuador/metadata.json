@@ -2,6 +2,7 @@
     "id": "minecuador",
     "name": "MinEcuador NetWork",
     "store": "https://store.minecuador.lat/",
+    "description": "Play Minigames, PvP, and more on MinEcuador NetWork.",
     "addresses": [
         "minecuador.lat"
     ],

@@ -1,0 +1,27 @@
+{
+  "id": "honeymcnetwork",
+  "name": "HoneyMC Network",
+  "description": "Spanish-speaking Survival server with a sweet honey theme",
+  "addresses": [
+    "honeymc.es"
+  ],
+  "primaryAddress": "play.honeymc.es",
+  "minecraftVersions": [
+    "1.21.1"
+  ],
+  "primaryMinecraftVersion": "1.21.1",
+  "primaryColor": "#F5A800",
+  "secondaryColor": "#7A3E00",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival"
+}

@@ -1,0 +1,30 @@
+{
+    "id": "evadecraft",
+    "name": "EvadeCraft",
+    "description": "Play Factions, Skyblock and Farm King with a growing community.",
+    "addresses": [
+        "evadecraft.com"
+    ],
+    "primaryAddress": "join.evadecraft.com",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryColor": "#ef5a60",
+    "secondaryColor": "#0b101b",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Factions",
+        "Skyblock",
+        "Survival"
+    ],
+    "website": "https://evadecraft.com",
+    "store": "https://evadecraft.com/store",
+    "socials": {
+        "discord": "https://discord.gg/WCyRMAnKSe"
+    },
+    "crossplay": true
+}

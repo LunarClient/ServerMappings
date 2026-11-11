@@ -1,0 +1,35 @@
+{
+    "id": "astreosnetwork",
+    "name": "Astreos Network",
+    "description": "Spanish Minecraft server featuring diverse gamemodes and competitive events",
+    "addresses": [
+        "astreosmc.net"
+    ],
+    "primaryAddress": "astreosmc.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "26.1.2"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "store": "https://tienda.astreosmc.net",
+    "presentationVideo": "jxKG6d7LqqQ",
+    "socials": {
+        "discord": "https://www.discord.gg/astreos"
+    },
+    "crossplay": false
+}
