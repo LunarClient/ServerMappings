@@ -5,7 +5,7 @@
     "addresses": [
         "docasmp.net"
     ],
-    "primaryAddress": "docasmp.net",
+    "primaryAddress": "play.docasmp.net",
     "minecraftVersions": [
         "1.16.*",
         "1.17.*",
