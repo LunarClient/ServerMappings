@@ -1,7 +1,7 @@
 {
     "id": "docasmp",
     "name": "DocaSMP",
-    "description": "Economy Survival SMP",
+    "description": "An SMP with economy and duels.",
     "addresses": [
         "docasmp.net"
     ],
@@ -32,7 +32,8 @@
         "PvP",
         "Open World",
         "Crystal PvP",
-        "Casual"
+        "Casual",
+        "Practice"
     ],
     "socials": {
         "discord": "https://discord.com/invite/uFuhyyrHma"
