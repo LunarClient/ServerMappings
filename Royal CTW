@@ -1,0 +1,38 @@
+{
+
+ㅤㅤ"id": "Royal Network",
+ㅤㅤ"name": "RoyalCTW",
+ㅤㅤ"store": "https://royal-ctw.tebex.store/",
+ㅤㅤ"description": "Servidor enfocada en la modalidad de captura la lana",
+ㅤㅤ"addresses": [
+ㅤㅤㅤㅤ"play.royalcyw.club",
+ㅤㅤ],
+ㅤㅤ"primaryAddress": "play.royalcyw.club",
+ㅤㅤ"minecraftVersions": [
+ㅤㅤㅤㅤ"1.8.*",
+ㅤㅤㅤㅤ"26.x*"
+ㅤㅤ],
+ㅤㅤ"primaryMinecraftVersion": "1.8.9",
+ㅤㅤ"primaryColor": "#44a1e3",
+ㅤㅤ"secondaryColor": "#a854de",
+ㅤㅤ"primaryLanguage": "es",
+ㅤㅤ"languages": [
+ㅤㅤㅤㅤes"
+ㅤㅤ],
+ㅤㅤ"primaryRegion": "NA",
+ㅤㅤ"regions": [
+ㅤㅤㅤㅤ"NA",
+ㅤㅤ],
+ㅤㅤ"gameTypes": [
+ㅤㅤㅤㅤ"PvP"
+ㅤㅤ],
+ㅤㅤ"compliance": {
+ㅤㅤㅤㅤ"privacyPolicy": "https://www.lunar.gg/privacy",
+ㅤㅤㅤㅤ"termsOfService": "https://www.lunar.gg/terms",
+ㅤㅤㅤㅤ"rules": "https://www.lunar.gg/rules"
+ㅤㅤ},
+ㅤㅤ"socials": {
+ㅤㅤㅤㅤ"discord': 'https://discord.gg/yGZzzVSyZ3"
+ㅤㅤ},
+ㅤㅤ"crossplay": false
+}
