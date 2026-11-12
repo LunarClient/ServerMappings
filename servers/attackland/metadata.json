@@ -1,0 +1,37 @@
+{
+    "id": "attackland",
+    "name": "Attackland",
+    "description": "German Minecraft server with a focus on Survival and Pvp with aditional vanilla+ features.",
+    "addresses": [
+        "attackland.de"
+    ],
+    "primaryAddress": "attackland.de",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#b419e7",
+    "secondaryColor": "#000000",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.attackland.de",
+    "store": "https://attackland.tebex.store/",
+    "socials": {
+        "twitch": "attacklandtv",
+        "youtube": "attackland",
+        "discord": "https://discord.gg/jpBpxUrqtX"
+    },
+    "crossplay": true
+}
