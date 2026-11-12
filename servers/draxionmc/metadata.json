@@ -1,0 +1,30 @@
+{
+  "id": "draxionmc",
+  "name": "DraxionMC",
+  "description": "Halloween-themed Minecraft Prisons with private mines and custom progression.",
+  "addresses": [
+    "draxionmc.com"
+  ],
+  "primaryAddress": "play.draxionmc.com",
+  "minecraftVersions": [
+    "1.21.*"
+  ],
+  "primaryMinecraftVersion": "1.21.4",
+  "primaryColor": "#57238C",
+  "secondaryColor": "#FF761A",
+  "primaryLanguage": "en",
+  "languages": [
+    "en"
+  ],
+  "gameTypes": [
+    "Prison"
+  ],
+  "primaryGameType": "Prison",
+  "website": "https://draxionmc.com",
+  "store": "https://store.draxionmc.com",
+  "socials": {
+    "discord": "https://discord.gg/draxionmc"
+  },
+  "crossplay": false,
+  "offline": false
+}

@@ -1,0 +1,59 @@
+{
+    "id": "creekmc",
+    "name": "CreekMC",
+    "description": "Creek MC | Anarchy , Pets , Crystal PVP , Economy",
+    "addresses": [
+        "creekmc.top"
+    ],
+    "primaryAddress": "play.creekmc.top",
+    "minecraftVersions": [
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#eebd3b",
+    "secondaryColor": "#893500",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU",
+        "AF",
+        "AS",
+        "OC"
+    ],
+    "gameTypes": [
+        "Anarchy",
+        "PvP",
+        "Crystal PvP",
+        "KitPvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Anarchy",
+    "website": "https://creekmc.top",
+    "store": "https://store.creekmc.top",
+    "socials": {
+        "discord": "https://discord.gg/GczMGM5Qrh",
+        "youtube": "@CreekMC30",
+        "instagram": "creekmcsmp"
+    },
+    "crossplay": true,
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#fff700",
+            "upperColor": "#ffae00"
+        }
+    }
+}

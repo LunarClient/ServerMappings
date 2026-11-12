@@ -1,9 +1,8 @@
 
 {
     "id": "acquaticmc",
-    "name": "AcquaticMC",
-    "website": "https://acquaticmc.it",
-    "description": "Weapon PvP & Semiroleplay Minecraft server.",
+    "name": "Acquatic",
+    "description": "Italian Weapon Training and Semiroleplay Minecraft Server",
     "addresses": [
         "acquaticmc.it"
     ],
@@ -35,6 +34,16 @@
         "Roleplay"
     ],
     "primaryGameType": "PvP",
+    "website": "https://acquaticmc.it",
+    "store": "https://acquaticmc.it/modalita/allenamenti",
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/acquaticmc"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://acquaticmc.it/privacy",
+        "termsOfService": "https://acquaticmc.it/termini",
+        "rules": "https://acquaticmc.it/regolamento"
+    },
     "socials": {
         "telegram": "AcquaticMC",
         "discord": "https://discord.com/invite/VcRjkjZkbS"

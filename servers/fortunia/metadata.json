@@ -1,0 +1,33 @@
+{
+    "primaryColor": "#fcd167",
+    "name": "Fortunia",
+    "id": "fortunia",
+    "addresses": [
+        "fortunia.fr"
+    ],
+    "primaryAddress": "aube.fortunia.fr",
+    "description": "Custom-built adventure server: parkour, puzzles, mazes, droppers & more!",
+    "gameTypes": [
+        "Adventure",
+        "Parkour",
+        "Minigames",
+        "Casual"
+    ],
+    "primaryGameType": "Adventure",
+    "minecraftVersions": [
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "secondaryColor": "#ff944b",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "website": "https://fortunia.fr",
+    "crossplay": false,
+    "offline": false
+}

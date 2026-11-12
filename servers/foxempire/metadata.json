@@ -1,0 +1,37 @@
+{
+    "id": "foxempire",
+    "name": "[UA] FoxEmpire",
+    "description": "Ukrainian survival with AlexsMobs and IC2 content - JOIN WITH VANILLA CLIENT!",
+    "addresses": [
+        "foxempire.fun"
+    ],
+    "primaryAddress": "foxempire.fun",
+    "minecraftVersions": [
+        "1.21.10"
+    ],
+    "primaryMinecraftVersion": "1.21.10",
+    "primaryColor": "#f57c1f",
+    "secondaryColor": "#2b1a0e",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvE",
+        "Roleplay"
+    ],
+    "primaryGameType": "Survival",
+    "crossplay": false,
+    "offline": true,
+    "votingLinks": [
+        "https://allmc.in.ua/foxempire-fun"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/6nGeuSvrFa"
+    }
+}

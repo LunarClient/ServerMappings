@@ -1,32 +1,40 @@
 {
     "id": "elementalmc",
     "name": "ElementalMC",
-    "store": "https://korraemc.tebex.io/",
-    "description": "Play Survival, Factions, and more on ElementalMC.",
+    "store": "https://elementalmc.live/store",
+    "description": "Play Survival, ElementalSMP, and more on ElementalMC.",
     "addresses": [
         "elementalmc.live"
     ],
-    "primaryAddress": "play.elementalmc.live",
+    "primaryAddress": "lunar.elementalmc.live",
     "primaryColor": "#5A08FB",
     "secondaryColor": "#FFFFFF",
-    "minecraftVersions": [
-        "1.21.*"
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
     ],
-    "primaryMinecraftVersion": "1.21",
+    "minecraftVersions": [
+        "26.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.2",
     "primaryRegion": "EU",
     "regions": [
-        "NA",
         "EU"
     ],
     "gameTypes": [
-        "Survival",
+        "MMORPG",
         "Factions",
-        "PvP"
+        "PvP",
+        "Survival"
     ],
+    "website": "https://elementalmc.live",
+    "primaryGameType": "MMORPG",
     "socials": {
         "tiktok": "@play.elementalmc.live",
         "discord": "https://discord.gg/JkCNDyRyMT",
-        "youtube": "KorraElementalMC",
-        "reddit": "ElementalMC"
+        "youtube": "KorraElementalMC"
     }
 }

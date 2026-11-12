@@ -1,0 +1,17 @@
+{
+    "id": "souphavoc",
+    "name": "SoupHavoc",
+    "description": "Nostalgic hardcore survival Soup PvP with teams, tracking and custom events.",
+    "addresses": ["souphavoc.com"],
+    "primaryAddress": "souphavoc.com",
+    "minecraftVersions": ["1.8.*", "1.12.*", "1.16.*", "1.17.*", "1.18.*", "1.19.*", "1.20.*", "1.21.*", "26.1.*", "26.2.*", "26.3.*"],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#9D22F2",
+    "secondaryColor": "#171020",
+    "primaryLanguage": "en",
+    "languages": ["en"],
+    "gameTypes": ["Soup PvP", "Survival", "PvP"],
+    "primaryGameType": "Soup PvP",
+    "website": "https://souphavoc.com",
+    "socials": {"discord": "https://discord.com/invite/qh7vWSCHRN"}
+}

@@ -1,0 +1,34 @@
+{
+    "id": "primetag",
+    "name": "Prime Tag",
+    "description": "Competitive TNT Tag with ranked seasons, tournaments and prize events",
+    "addresses": [
+        "primetag.vip"
+    ],
+    "primaryAddress": "primetag.vip",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#583498",
+    "secondaryColor": "#FF55FF",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Competitive"
+    ],
+    "primaryGameType": "Minigames",
+    "store": "https://primetag.tebex.io",
+    "socials": {
+        "discord": "https://discord.gg/primetag"
+    },
+    "crossplay": false
+}
