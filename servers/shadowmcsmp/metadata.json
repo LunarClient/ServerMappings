@@ -1,23 +1,26 @@
 {
-  "id": "shadowmcsmp",
-  "name": "ShadowMC SMP",
-  "description": "A Danish Minecraft survival SMP",
-  "addresses": [
-    "shadowmcsmp.sodkat.dk"
-  ],
-  "primaryAddress": "shadowmcsmp.sodkat.dk",
-  "minecraftVersions": [
-    "1.21.*",
-    "26.*"
-  ],
-  "primaryMinecraftVersion": "1.21.11",
-  "primaryLanguage": "da",
-  "languages": [
-    "da"
-  ],
-  "primaryRegion": "EU",
-  "regions": [
-    "EU"
-  ],
-  "crossplay": false
+    "id": "shadowmcsmp",
+    "name": "ShadowMC SMP",
+    "description": "A Danish Minecraft survival SMP",
+    "addresses": [
+        "sodkat.dk"
+    ],
+    "primaryAddress": "shadowmcsmp.sodkat.dk",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#D62828",
+    "secondaryColor": "#2A9D4A",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "crossplay": false
 }
