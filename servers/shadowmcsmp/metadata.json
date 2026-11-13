@@ -1,0 +1,23 @@
+{
+  "id": "shadowmcsmp",
+  "name": "ShadowMC SMP",
+  "description": "A Danish Minecraft survival SMP",
+  "addresses": [
+    "shadowmcsmp.sodkat.dk"
+  ],
+  "primaryAddress": "shadowmcsmp.sodkat.dk",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryLanguage": "da",
+  "languages": [
+    "da"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "crossplay": false
+}
