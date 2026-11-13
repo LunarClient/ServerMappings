@@ -1,0 +1,26 @@
+{
+    "id": "shadowmcsmp",
+    "name": "ShadowMC SMP",
+    "description": "A Danish Minecraft survival SMP",
+    "addresses": [
+        "sodkat.dk"
+    ],
+    "primaryAddress": "shadowmcsmp.sodkat.dk",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#D62828",
+    "secondaryColor": "#2A9D4A",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "crossplay": false
+}
