@@ -1,0 +1,20 @@
+{
+  "server-address": [
+    "glitzoriumx.de",
+    "craftattack.construkter.dev"
+  ],
+  "pretty-name": "GlitzoriumX",
+  "categorys": [
+    "SURVIVAL",
+    "BUILD",
+    "VANILLA"
+  ],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  },
+  "socials": {
+    "website": "https://glitzoriumx.de",
+    "discord": "https://discord.gg/QZ5fQX8HkA"
+  }
+}
