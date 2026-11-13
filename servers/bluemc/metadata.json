@@ -1,0 +1,39 @@
+{
+    "id": "bluemc",
+    "name": "BlueMC",
+    "description": "Build farms, fight players, get rich.",
+    "addresses": [
+        "bluemc.org"
+    ],
+    "primaryAddress": "bluemc.org",
+    "minecraftVersions": [
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#00C7FF",
+    "secondaryColor": "#103C57",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "socials": {
+        "discord": "https://discord.gg/bluemc"
+    },
+    "crossplay": true,
+    "offline": true
+}
