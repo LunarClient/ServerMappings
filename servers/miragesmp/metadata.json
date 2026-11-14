@@ -1,0 +1,40 @@
+{
+    "id": "miragesmp",
+    "name": "MirageSMP",
+    "description": "A French survival SMP with crews, PvP, an auction house and Practice",
+    "addresses": [
+        "miragesmp.me"
+    ],
+    "primaryAddress": "play.miragesmp.me",
+    "website": "https://store.miragesmp.store",
+    "store": "https://store.miragesmp.store",
+    "primaryColor": "#38BDEB",
+    "secondaryColor": "#1D52A3",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryGameType": "Survival",
+    "gameTypes": [
+        "Survival",
+        "PvP",
+        "Practice",
+        "Open World"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/miragesmp"
+    }
+}
