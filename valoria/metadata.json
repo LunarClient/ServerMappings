@@ -1,0 +1,42 @@
+{
+    "id": "valoria",
+    "name": "Valoria",
+    "description": "Valoria Skyblock 1.26.2",
+    "addresses": [
+        "mcvaloria.fr"
+    ],
+    "primaryAddress": "play.mcvaloria.fr",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#fff700",
+    "secondaryColor": "#00ff1e",
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Skyblock"
+    ],
+    "primaryGameType": "Skyblock",
+    "website": "https://mcvaloria.fr",
+    "store": "https://mcvaloria.fr/shop",
+    "votingLinks": [
+        "https://serveur-prive.net/minecraft/valoriamc/vote"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://mcvaloria.fr/mentions-legales",
+        "termsOfService": "https://mcvaloria.fr/cgu"
+    },
+    "socials": {
+        "discord": "https://discord.gg/mcvaloria"
+    }
+}
