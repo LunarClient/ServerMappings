@@ -1,7 +1,7 @@
 {
   "id": "narmc",
   "name": "NarMc",
-  "description": "Arabic network with Crystal PvP, BoxPvP, Duels and Survival",
+  "description": "Crystal PvP, BoxPvP, Duels and Survival network",
   "addresses": [
     "narmc.xyz"
   ],
@@ -19,8 +19,9 @@
   "primaryMinecraftVersion": "1.21.11",
   "primaryColor": "#ff7a18",
   "secondaryColor": "#e0301c",
-  "primaryLanguage": "ar",
+  "primaryLanguage": "en",
   "languages": [
+    "en",
     "ar"
   ],
   "primaryRegion": "AS",
