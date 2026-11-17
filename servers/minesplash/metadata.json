@@ -1,0 +1,60 @@
+{
+  "id": "minesplash",
+  "name": "MineSplash Network",
+  "description": "A Spanish Minecraft network with BoxPvP, Survival and competitive PvP modes.",
+
+  "addresses": [
+    "minesplash.us"
+  ],
+
+  "primaryAddress": "minesplash.us",
+
+  "gameTypes": [
+  "BoxPvP",
+  "Survival",
+  "KitPvP",
+  "PvP"
+],
+
+  "primaryGameType": "BoxPvP",
+
+  "primaryColor": "#25EAFF",
+  "secondaryColor": "#409BFD",
+
+  "minecraftVersions": [
+    "1.17.1",
+    "1.18.2",
+    "1.19.4",
+    "1.20.6",
+    "1.21.4",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.10",
+    "1.21.11",
+    "26.1.2",
+    "26.2"
+  ],
+
+  "primaryMinecraftVersion": "26.2",
+
+  "languages": [
+    "es-EN"
+  ],
+
+  "primaryLanguage": "es-EN",
+
+  "regions": [
+    "NA"
+  ],
+
+  "primaryRegion": "NA",
+
+  "store": "https://tienda.minesplash.us/",
+
+  "socials": {
+    "discord": "https://discord.gg/8mBCcSN83b"
+  },
+
+  "crossplay": true
+}
