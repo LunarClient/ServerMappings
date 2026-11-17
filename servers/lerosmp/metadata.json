@@ -1,0 +1,46 @@
+{
+    "id": "lerosmp",
+    "name": "LeroSMP",
+    "description": "German survival server with clans, events, economy and voice chat",
+    "addresses": [
+        "lerosmp.net"
+    ],
+    "primaryAddress": "lerosmp.net",
+    "minecraftVersions": [
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#B48CFF",
+    "secondaryColor": "#0A090D",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.lerosmp.net",
+    "votingLinks": [
+        "https://minecraftservers.org/server/695250",
+        "https://minecraft-mp.com/server-s365958"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://www.lerosmp.net/datenschutz",
+        "termsOfService": "https://www.lerosmp.net/agb"
+    },
+    "socials": {
+        "discord": "https://discord.gg/xaBvAuePXj"
+    },
+    "crossplay": false
+}
