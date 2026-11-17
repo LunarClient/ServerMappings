@@ -1,0 +1,51 @@
+{
+    "id": "shiftpvp",
+    "name": "ShiftPvP",
+    "description": "Competitive PvP, Survival & Events!",
+    "addresses": [
+        "shiftpvp.gg",
+        "flamesmp.gg",
+        "flamesmp.org",
+        "flamefrags.com",
+        "flamefrags.net"
+    ],
+    "primaryAddress": "play.shiftpvp.gg",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "1.21.11",
+        "1.21.10",
+        "1.21.9",
+        "1.21.8",
+        "1.21.7",
+        "1.21.6",
+        "1.21.5",
+        "1.21.4"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#54daf4",
+    "secondaryColor": "#1d1d7c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryGameType": "Practice",
+    "gameTypes": [
+        "Survival",
+        "Practice",
+        "PvP"
+    ],
+    "website": "https://shiftpvp.gg",
+    "store": "https://store.shiftpvp.gg",
+    "compliance": {
+        "rules": "https://shiftpvp.gg/rules"
+    },
+    "socials": {
+        "discord": "https://discord.com/invite/shiftpvp"
+    },
+    "crossplay": true
+}
