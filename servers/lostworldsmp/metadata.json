@@ -1,0 +1,25 @@
+{
+  "id": "lostworldsmp",
+  "name": "Lost World SMP",
+  "description": "User centric political and economy roleplay SMP.",
+  "addresses": [
+    "lostworld.dev"
+  ],
+  "primaryAddress": "lostworld.dev",
+  "minecraftVersions": [
+  "1.21.*",
+  "26.3"
+],
+  "primaryMinecraftVersion": "26.3",
+  "website": "https://lostworld.dev",
+  "primaryRegion": "OC",
+  "primaryLanguage": "en",
+  "languages": ["en"],
+  "gameTypes": [
+    "Survival",
+    "Roleplay"
+  ],
+  "primaryGameType": "Survival",
+  "primaryColor": "#CBA6F7",
+  "secondaryColor": "#89B4FA"
+}
