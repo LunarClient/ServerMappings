@@ -1,0 +1,60 @@
+{
+    "id": "hallowprison",
+    "name": "HallowPrison",
+    "description": "Classic prison progression blended with RPG systems and custom content",
+    "addresses": [
+        "hallowprison.com",
+        "hallowprison.pl"
+    ],
+    "primaryAddress": "play.hallowprison.com",
+    "minecraftVersions": [
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#b489ff",
+    "secondaryColor": "#ffc354",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "es-EN",
+        "nl",
+        "fr",
+        "de",
+        "pl",
+        "pt-BR"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Adventure",
+        "MMORPG",
+        "Prison",
+        "PvE"
+    ],
+    "primaryGameType": "Prison",
+    "website": "https://hallowprison.com",
+    "store": "https://store.hallowprison.com",
+    "votingLinks": [
+        "https://minecraft-server-list.com/server/521498/",
+        "https://minecraftservers.org/server/687431",
+        "https://www.minerank.com/hallowprison",
+        "https://minecraft.buzz/server/hallowprison",
+        "https://best-minecraft-servers.co/server-hallowprison.33057",
+        "https://minecraftservers.me/server/hallowprison.26699"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://hallowprison.com/privacy",
+        "termsOfService": "https://hallowprison.com/terms",
+        "rules": "https://hallowprison.com/rules"
+    },
+    "socials": {
+        "twitter": "HallowPrison",
+        "discord": "https://discord.gg/hallowprison",
+        "youtube": "@HallowPrison",
+        "instagram": "HallowPrison",
+        "tiktok": "@HallowPrison"
+    },
+    "crossplay": false
+}
