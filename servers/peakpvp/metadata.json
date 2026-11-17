@@ -1,0 +1,56 @@
+{
+    "id": "peakpvp",
+    "name": "PeakPvP",
+    "description": "Practice PvP for 1.8.9 and modern versions: Ranked, Tier Tests, Bed Wars",
+    "addresses": [
+        "peakpvp.net"
+    ],
+    "primaryAddress": "peakpvp.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#3B9BDF",
+    "secondaryColor": "#F8DC0B",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "AS"
+    ],
+    "gameTypes": [
+        "Practice",
+        "PvP",
+        "Competitive",
+        "UHC",
+        "Crystal PvP",
+        "Minigames"
+    ],
+    "primaryGameType": "Practice",
+    "store": "https://store.peakpvp.net",
+    "compliance": {
+        "privacyPolicy": "https://store.peakpvp.net/privacy",
+        "termsOfService": "https://store.peakpvp.net/terms"
+    },
+    "socials": {
+        "discord": "https://discord.gg/peakpvp"
+    },
+    "crossplay": false
+}
