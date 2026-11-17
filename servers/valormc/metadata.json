@@ -1,0 +1,37 @@
+{
+    "id": "valormc",
+    "name": "ValorMC",
+    "description": "Survival SMP with land claims, jobs, an economy, crates and custom tools",
+    "addresses": [
+        "valormc.net"
+    ],
+    "primaryAddress": "play.valormc.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#9B73FF",
+    "secondaryColor": "#74EA31",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://valormc.net",
+    "store": "https://store.valormc.net",
+    "socials": {
+        "discord": "https://discord.gg/valorsmp"
+    },
+    "crossplay": true
+}
