@@ -1,0 +1,46 @@
+{
+    "id": "narmc",
+    "name": "NarMc",
+    "description": "Crystal PvP, BoxPvP, Duels and Survival network",
+    "addresses": [
+        "narmc.xyz"
+    ],
+    "primaryAddress": "narmc.xyz",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ff7a18",
+    "secondaryColor": "#e0301c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "ar"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS",
+        "EU"
+    ],
+    "gameTypes": [
+        "Crystal PvP",
+        "BoxPvP",
+        "Practice",
+        "Survival",
+        "PvP"
+    ],
+    "primaryGameType": "Crystal PvP",
+    "website": "https://narmc.xyz",
+    "socials": {
+        "discord": "https://discord.gg/narmc"
+    },
+    "crossplay": true,
+    "offline": true
+}
