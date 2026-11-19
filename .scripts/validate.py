@@ -8,6 +8,7 @@ they can be fixed before merging.
 import argparse
 import json
 import os
+import re
 import sys
 
 import jsonschema
@@ -48,6 +49,77 @@ FILE_WHITELIST = [
     "servers",
     "docs",
 ]
+
+# Server folders are named after the server ID (same characters as `id` in
+# metadata.schema.json). Always use fullmatch() with this.
+SERVER_ID_PATTERN = re.compile(r"[a-z0-9_.-]+")
+
+# The only files the index and media scripts read from a server folder.
+SERVER_FILE_ALLOWLIST = frozenset({
+    "metadata.json",
+    "logo.png",
+    "background.png",
+    "banner.png",
+    "banner.gif",
+    "wordmark.png",
+})
+
+# Files that were already in the repository when SERVER_FILE_ALLOWLIST was
+# introduced. Nothing reads them; they are tolerated so the rule applies to
+# every new file. Do not add entries - remove them as the files are cleaned up.
+LEGACY_SERVER_FILES = frozenset({
+    "ankkamaa/backround.png",
+    "astralnetwork/background.jpeg",
+    "axolotlsmp/backround.png",
+    "blodheim/background.jpg",
+    "boatosta/banner.jpg",
+    "bte/logo.gif",
+    "coliseumuhc/background.jpg",
+    "devilmc/backround.png",
+    "earthsteal/background.PNG",
+    "echomc/background.jpg",
+    "flare/backround.png",
+    "fruitmc/backgrownd.png",
+    "fusionmc/banner.jpg",
+    "homesteadsmp/backround.png",
+    "houseofgamers/backround.png",
+    "imanitynetwork/background.jpg",
+    "irismc/background.jpg",
+    "koromc/backgound.png",
+    "lifenetwork/backround.png",
+    "lioneskingdom/backgound.png",
+    "minecrush/backround.png",
+    "minecuador/background.jpg",
+    "minesea/background.jpg",
+    "minesurvive/background.jpg",
+    "mysticnetwork/background .png",
+    "nacworld/backround.png",
+    "newhouserp/brackground.png",
+    "nexorieeu/backround.png",
+    "nexornmc/blackground.png",
+    "pavilion-smp/backround.png",
+    "plovermc/backround.png",
+    "polarismc/background.jpg",
+    "potionmc/backgroud.png",
+    "primemc/background.jpg",
+    "quttornetwork/backround.png",
+    "ragemc/backgrounds.png",
+    "realslat/backround.png",
+    "redefantasy/background.png.png",
+    "saifedpvp/backround.png",
+    "staingames/backround.png",
+    "straypvp/backround.png",
+    "supersmp/background.jpg",
+    "trytochill/backround.png",
+    "unitmc/backround.png",
+    "univercraft/backround.png",
+    "vampnetwork/backgroung.png",
+    "wavepvp/banner.jpg",
+    "westpvp/backgruond.png",
+})
+
+# Keeps the feedback posted on a pull request readable.
+MAX_FOLDER_ERRORS = 10
 
 HOSTING_DOMAIN_BLACKLIST = [
     # https://apexminecrafthosting.com/
@@ -121,7 +193,7 @@ def main(argv=None):
     if arguments.dry_run:
         print("[dry-run] No network calls or artifact writes. Feedback PR association is simulated.")
         print("[dry-run] Edited servers supplied locally: " + (", ".join(arguments.edited_server) or "none"))
-    all_errors = validate_root(root)
+    all_errors = validate_root(root) or validate_server_folders(arguments.servers_dir)
     all_warnings = {}
     if not all_errors:
         metadata_errors, all_warnings = check_metadata(arguments)
@@ -256,12 +328,12 @@ def check_metadata(args: argparse.Namespace) -> tuple[defaultdict[str, list[str]
     seen_domains = defaultdict(set)
     for root, _, _ in os.walk(args.servers_dir):
         server_id = os.path.basename(root)
-        if (
-            not server_id
-            or os.path.abspath(root) == os.path.abspath(args.servers_dir)
-            or not args.validate_inactive
-            and server_id in inactive_file
-        ):
+        if not server_id or os.path.abspath(root) == os.path.abspath(args.servers_dir):
+            continue
+
+        if not args.validate_inactive and server_id in inactive_file:
+            if id_errors := check_inactive_id(args.servers_dir, server_id):
+                messages[server_id] += id_errors
             continue
 
         # Open metadata.json
@@ -507,6 +579,86 @@ def validate_root(directory: str = "."):
                                 "Please make sure you're following the "
                                 "[relevant documentation](https://lunarclient.dev/server-mappings/adding-servers/overview)."]}
     return {}
+
+
+def display_name(name: str) -> str:
+    """Quote an arbitrary file name for PR feedback, keeping only plain characters."""
+    plain = "".join(
+        char if char.isascii() and (char.isalnum() or char in "._- ") else "?" for char in name
+    )
+    return f"`{plain[:60]}{'...' if len(plain) > 60 else ''}`"
+
+
+def validate_server_folders(servers_dir: str) -> dict[str, list[str]]:
+    """
+    This function validates the layout of the servers directory itself. It applies
+    to every folder, including inactive servers: each entry must be a real folder
+    named like a server ID, holding only the regular files listed in
+    SERVER_FILE_ALLOWLIST (no subfolders, links or other files).
+
+    Args:
+        servers_dir (str): The directory where the servers are located.
+
+    Returns:
+        dict[str, list[str]]: A dictionary mapping server IDs to lists of validation error messages.
+    """
+    errors = defaultdict(list)
+    allowed = ", ".join(f"`{name}`" for name in sorted(SERVER_FILE_ALLOWLIST))
+
+    with os.scandir(servers_dir) as folders:
+        for folder in sorted(folders, key=lambda entry: entry.name):
+            if not folder.is_dir(follow_symlinks=False) or not SERVER_ID_PATTERN.fullmatch(folder.name):
+                errors["Overall"].append(
+                    f"{display_name(folder.name)} in the /servers/ folder must be a folder named after a server ID "
+                    "(lowercase letters, numbers, `.`, `_` and `-` only). Please review the "
+                    "[relevant documentation](https://lunarclient.dev/server-mappings/adding-servers/overview)."
+                )
+                continue
+
+            with os.scandir(folder.path) as files:
+                for file in sorted(files, key=lambda entry: entry.name):
+                    if not file.is_file(follow_symlinks=False):
+                        errors[folder.name].append(
+                            f"{display_name(file.name)} is not a regular file. Server folders cannot contain "
+                            "subfolders or links."
+                        )
+                    elif (
+                        file.name not in SERVER_FILE_ALLOWLIST
+                        and f"{folder.name}/{file.name}" not in LEGACY_SERVER_FILES
+                    ):
+                        errors[folder.name].append(
+                            f"{display_name(file.name)} is not a file used by ServerMappings. A server folder can "
+                            f"only contain files with these exact names: {allowed}."
+                        )
+
+    for key, messages in errors.items():
+        if len(messages) > MAX_FOLDER_ERRORS:
+            hidden = len(messages) - MAX_FOLDER_ERRORS
+            errors[key] = messages[:MAX_FOLDER_ERRORS] + [f"...and {hidden} more problem(s) like the above."]
+    return dict(errors)
+
+
+def check_inactive_id(servers_dir: str, server_id: str) -> list[str]:
+    """
+    Inactive servers skip the full metadata validation, but the ID in their metadata
+    must still be the folder name: the index and media scripts work from the metadata
+    ID. Metadata that cannot be read at all is skipped by those scripts too.
+
+    Args:
+        servers_dir (str): The directory where the servers are located.
+        server_id (str): The folder name of the inactive server.
+
+    Returns:
+        list[str]: A list with one error message if the ID does not match, otherwise an empty list.
+    """
+    try:
+        with open(os.path.join(servers_dir, server_id, "metadata.json"), encoding="UTF-8") as server_file:
+            server = json.load(server_file)
+    except (OSError, ValueError, RecursionError):
+        return []
+    if isinstance(server, dict) and server.get("id") == server_id:
+        return []
+    return [f"The ID field in the metadata.json does not match the folder name of {server_id}."]
 
 
 if __name__ == "__main__":

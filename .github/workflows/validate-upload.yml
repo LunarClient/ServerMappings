@@ -99,17 +99,18 @@ jobs:
     permissions:
       contents: read
 
-    env:
-      AWS_ENDPOINT_URL: ${{ secrets.CF_R2_ENDPOINT }}
-      AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
-      AWS_DEFAULT_REGION: auto
-
     steps:
       - name: Checkout from GitHub
         uses: actions/checkout@v4
 
+      # Storage credentials are scoped to the steps that talk to the bucket
+      # (this one and "Upload to R2") rather than to the whole job.
       - name: Refuse to publish an older index
+        env:
+          AWS_ENDPOINT_URL: ${{ secrets.CF_R2_ENDPOINT }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
         run: |
           SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
 
@@ -157,14 +158,16 @@ jobs:
           CROWDIN_PROJECT_ID: "424304"
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
 
+      # Step outputs reach the script through the environment, never by being
+      # expanded into the script text, so their contents are always data.
       - name: Output Server Media
         run: |
           # A dry run converts every server regardless, and its changed file
           # list is too large to pass as a single argument.
-          if [ '${{ needs.changes.outputs.dry }}' = 'true' ]; then
+          if [ "$DRY" = 'true' ]; then
             set --
           else
-            set -- --changed_files '${{ needs.changes.outputs.servers_files }}'
+            set -- --changed_files "$SERVERS_FILES"
           fi
 
           python .scripts/convert_media.py \
@@ -177,10 +180,14 @@ jobs:
           --servers_banners_output .out/banners \
           --servers_wordmarks_output .out/wordmarks \
           --servers_assets_output .out/assets \
-          --dry_upload '${{ needs.changes.outputs.dry }}' \
+          --dry_upload "$DRY" \
           "$@"
         env:
           USE_ARGS: "true"
+          DRY: ${{ needs.changes.outputs.dry }}
+          # Left empty on a dry run: the list is unused there and can exceed
+          # the size limit of a single environment variable.
+          SERVERS_FILES: ${{ needs.changes.outputs.dry != 'true' && needs.changes.outputs.servers_files || '' }}
 
       - name: Create Index File
         run: |
@@ -207,6 +214,11 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
 
       - name: Upload to R2
+        env:
+          AWS_ENDPOINT_URL: ${{ secrets.CF_R2_ENDPOINT }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
         run: |
           SOURCE_COMMITTED_AT="$(date -u -d "$(git show -s --format=%cI HEAD)" +%Y-%m-%dT%H:%M:%SZ)"
           cd .out/
