@@ -1,0 +1,30 @@
+{
+    "id": "royalctw",
+    "name": "Royal CTW",
+    "description": "Servidor de enfocado en captura la lana",
+    "website": "https://royal-network.tebex.store",
+    "store": "https://royal-network.tebex.store",
+    "addresses": [
+        "royalctw.club"
+    ],
+    "primaryAddress": "royalctw.club",
+    "minecraftVersions": [
+        "1.8.9"
+		"26.x"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#8B0000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "MINIGAMES"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/gmNd63xrcd"
+    },
+    "offline": true,
+    "crossplay": false
+}
