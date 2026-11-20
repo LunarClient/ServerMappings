@@ -1,0 +1,39 @@
+{
+    "id": "glitzoriumx",
+    "name": "GlitzoriumX",
+    "description": "Vanilla SMP at it's best",
+    "addresses": [
+        "glitzoriumx.de"
+    ],
+    "primaryAddress": "glitzoriumx.de",
+    "minecraftVersions": [
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#00AAAA",
+    "secondaryColor": "#FFAA00",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://glitzoriumx.de",
+    "store": "https://glitzoriumx.de/rotyexpress",
+    "compliance": {
+        "privacyPolicy": "https://glitzoriumx.de/privacy",
+        "termsOfService": "https://glitzoriumx.de/terms",
+        "rules": "https://glitzoriumx.de/rules"
+    },
+    "socials": {
+        "discord": "https://discord.gg/QZ5fQX8HkA"
+    },
+    "crossplay": true
+}
