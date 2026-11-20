@@ -1,0 +1,29 @@
+{
+    "id": "royalctw",
+    "name": "Royal CTW",
+    "description": "Servidor de Capture the Wool en español",
+    "website": "https://TU-WEB.com",
+    "store": "https://TU-TIENDA.com",
+    "addresses": [
+        "TU-IP.com"
+    ],
+    "primaryAddress": "TU-IP.com",
+    "minecraftVersions": [
+        "1.8.9"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#FFD700",
+    "secondaryColor": "#8B0000",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "MINIGAMES"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/TU-INVITE"
+    },
+    "offline": true,
+    "crossplay": false
+}
