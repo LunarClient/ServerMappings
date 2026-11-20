@@ -1,0 +1,41 @@
+{
+    "id": "joinmc",
+    "name": "JoinMC",
+    "description": "Polish non-premium Minecraft server with Anarchy FFA",
+    "addresses": [
+        "joinmc.pl"
+    ],
+    "primaryAddress": "joinmc.pl",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#1ac3fb",
+    "secondaryColor": "#002bb0",
+    "primaryLanguage": "pl",
+    "languages": [
+        "pl"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Anarchy",
+        "PvP"
+    ],
+    "primaryGameType": "Anarchy",
+    "website": "https://joinmc.pl",
+    "compliance": {
+        "privacyPolicy": "https://joinmc.pl/pl/documents",
+        "termsOfService": "https://joinmc.pl/pl/documents"
+    },
+    "socials": {
+        "discord": "https://discord.gg/joinmc",
+        "tiktok": "@joinmcpl"
+    },
+    "crossplay": false,
+    "offline": true
+}

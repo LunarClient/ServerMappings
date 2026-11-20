@@ -1,0 +1,47 @@
+{
+    "id": "loraplex",
+    "name": "Loraplex",
+    "description": "BedWars, SkyWars, Duels and more minigames, rounds start in seconds",
+    "addresses": [
+        "loraplex.net"
+    ],
+    "primaryAddress": "play.loraplex.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#38bdf8",
+    "secondaryColor": "#7c3aed",
+    "primaryLanguage": "en",
+    "languages": [
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "PvP",
+        "Practice",
+        "Skyblock",
+        "Survival"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://loraplex.net",
+    "socials": {
+        "discord": "https://discord.gg/xtgCtmagSw"
+    },
+    "crossplay": true,
+    "offline": true
+}

@@ -1,0 +1,47 @@
+{
+    "id": "helgamc",
+    "name": "HelgaMC",
+    "description": "the best minecraft towny in italy! create your own city and nation!",
+    "addresses": [
+        "helgamc.top"
+    ],
+    "primaryAddress": "play.helgamc.top",
+    "minecraftVersions": [
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ffa200",
+    "secondaryColor": "#fbff00",
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Towny",
+        "Survival",
+        "Factions",
+        "Vanilla",
+        "PvP"
+    ],
+    "primaryGameType": "Towny",
+    "website": "https://helgamc.top",
+    "store": "https://store.helgamc.top",
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/helga/"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/helga",
+        "youtube": "@HelgaMc.server",
+        "instagram": "helgamc_",
+        "tiktok": "@helgamc_"
+    }
+}

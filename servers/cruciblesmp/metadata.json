@@ -1,17 +1,25 @@
 {
     "id": "cruciblesmp",
     "name": "CrucibleSMP",
-    "description": "Competitive Economy Survival SMP with PvP, raiding and Java + Bedrock crossplay",
+    "description": "Economy survival SMP with raiding and PvP. Java, Bedrock and cracked welcome",
     "addresses": [
+        "cruciblesmp.net",
         "getcrucible.dev"
     ],
-    "primaryAddress": "play.getcrucible.dev",
+    "primaryAddress": "play.cruciblesmp.net",
     "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
         "1.20.*",
         "1.21.*",
         "26.1.*",
-        "26.2",
-        "26.3"
+        "26.2.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "26.2",
     "primaryColor": "#3F83F2",
@@ -31,13 +39,13 @@
         "Anarchy"
     ],
     "primaryGameType": "Survival",
-    "website": "https://getcrucible.dev",
-    "store": "https://store.getcrucible.dev",
+    "website": "https://cruciblesmp.net",
+    "store": "https://store.cruciblesmp.net",
     "socials": {
-        "discord": "https://discord.gg/GyRWDCYJEK"
+        "discord": "https://discord.gg/cruciblesmp"
     },
     "compliance": {
-        "support": "https://tickets.getcrucible.dev"
+        "support": "https://support.cruciblesmp.net"
     },
     "crossplay": true,
     "offline": true
