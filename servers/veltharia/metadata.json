@@ -1,0 +1,37 @@
+{
+    "id": "veltharia",
+    "name": "Veltharia",
+    "description": "Spanish custom survival: blood moons, bosses, lands and ranks.",
+    "addresses": [
+        "veltharia.net"
+    ],
+    "primaryAddress": "play.veltharia.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "gameTypes": [
+        "Survival",
+        "PvE"
+    ],
+    "primaryGameType": "Survival",
+    "primaryColor": "#B736EF",
+    "secondaryColor": "#250B3D",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/veltharia"
+    },
+    "crossplay": true,
+    "offline": true
+}
