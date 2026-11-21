@@ -1,0 +1,33 @@
+{
+    "id": "vnrbw",
+    "name": "VNRBW",
+    "description": "Server Ranked Bedwars in Vietnam",
+    "addresses": [
+        "vnrbw.online"
+    ],
+    "primaryAddress": "play.vnrbw.online",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#fff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "AS",
+    "regions": [
+        "AS"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://vnrbw.online",
+    "store": "https://shop.vnrbw.online",
+    "socials": {
+        "discord": "https://discord.gg/MHabk9sZ7S",
+        "youtube": "@vnrbwofficial"
+    }
+}

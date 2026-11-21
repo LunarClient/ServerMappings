@@ -1,0 +1,45 @@
+{
+    "id": "tokiomc",
+    "name": "TokioMC",
+    "description": "Community survival with jobs, auctions, crates, teams and land claims.",
+    "addresses": [
+        "tokiomc.com"
+    ],
+    "primaryAddress": "play.tokiomc.com",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#f7f7f7",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "SA",
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Vanilla",
+        "Survival",
+        "Lifesteal",
+        "Crystal PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://tokiomc.com",
+    "store": "https://store.tokiomc.com",
+    "compliance": {
+        "rules": "https://tokiomc.com/#rules",
+        "support": "https://discord.gg/TokioMC"
+    },
+    "socials": {
+        "discord": "https://discord.gg/TokioMC"
+    }
+}

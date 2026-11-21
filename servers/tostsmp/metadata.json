@@ -1,0 +1,32 @@
+{
+  "id": "tostsmp",
+  "name": "TostSMP",
+  "description": "Polish survival server with custom gameplay features.",
+  "addresses": [
+    "tostsmp.pl"
+  ],
+  "primaryAddress": "tostsmp.pl",
+  "minecraftVersions": [
+    "26.3"
+  ],
+  "primaryMinecraftVersion": "26.3",
+  "primaryColor": "#FFB43C",
+  "secondaryColor": "#FFEA42",
+  "primaryLanguage": "pl",
+  "languages": [
+    "pl"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival"
+  ],
+  "primaryGameType": "Survival",
+  "website": "https://tostsmp.pl",
+  "socials": {
+    "discord": "https://discord.com/invite/WGPb64wJC5"
+  },
+  "crossplay": false
+}
