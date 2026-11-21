@@ -1,0 +1,52 @@
+{
+    "id": "block2blockfr",
+    "name": "✦ Block2BlockFr ✦",
+    "description": "French semi-RP survival: ranks, towns, events & cosmetics. Join us!",
+    "addresses": [
+        "block2blockfr.fun"
+    ],
+    "primaryAddress": "play.block2blockfr.fun",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#3b96be",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "fr",
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Roleplay"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://block2blockfr.fun/",
+    "wiki": "https://block2blockfr.fun/wiki.html",
+    "votingLinks": [
+        "https://top-serveurs.net/minecraft/vote/block2blockfr",
+        "https://serveur-minecraft-vote.fr/serveur/2832/voter"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/w5G6cjGmWn",
+        "youtube": "@Block2BlockFr_Official"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#3b96be",
+            "upperColor": "#1e4a5e"
+        }
+    }
+}
