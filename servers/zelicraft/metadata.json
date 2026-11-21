@@ -14,7 +14,6 @@
         "26.1.*",
         "26.2.*",
         "26.3.*"
-        
     ],
     "primaryMinecraftVersion": "26.3",
     "primaryColor": "#6408FB",
@@ -27,7 +26,7 @@
     "primaryRegion": "EU",
     "regions": [
         "NA",
-        "EU",
+        "EU"
     ],
     "gameTypes": [
         "PvP",
