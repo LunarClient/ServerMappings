@@ -1,0 +1,38 @@
+{
+    "id": "nightvanilla",
+    "name": "NightVanilla",
+    "website": "https://www.nightvanilla.net",
+    "store": "https://store.nightvanilla.net",
+    "description": "Crystal PvP Shop Survival Server",
+    "addresses": [
+        "nightvanilla.net"
+    ],
+    "primaryAddress": "nightvanilla.net",
+    "primaryColor": "#b91afd",
+    "secondaryColor": "#db6cfd",
+    "minecraftVersions": [
+        "26.3.*",
+        "26.2.*",
+        "26.1.*",
+        "1.21.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "crossplay": true,
+    "primaryGameType": "PvP",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/nightvanilla"
+    }
+}
