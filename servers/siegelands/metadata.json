@@ -6,8 +6,7 @@
     "description": "Minecraft Network with various PvP focused gamemodes",
     "addresses": [
         "siegelands.org",
-        "spearmc.net",
-        "nightvanilla.net"
+        "spearmc.net"
     ],
     "primaryAddress": "siegelands.org",
     "primaryColor": "#6fa965",
