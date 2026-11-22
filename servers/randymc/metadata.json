@@ -1,36 +1,46 @@
 {
     "id": "randymc",
     "name": "RandyMC",
-    "website": "https://www.randymc.de/",
-    "store": "https://randymc.de/shop/",
-    "description": "RandyMC.de is a german LuckyBlock Network",
+    "description": "German network with the School RPG and Lucky Block minigames like LuckyRace",
+    "website": "https://randymc.de",
+    "wiki": "https://randymc.de/en/wiki",
+    "store": "https://randymc.de/shop",
     "addresses": [
         "randymc.de"
     ],
     "primaryAddress": "randymc.de",
-    "primaryColor": "#e39b17",
-    "secondaryColor": "#ad9b31",
+    "primaryColor": "#5ED6CF",
+    "secondaryColor": "#38BDF8",
     "minecraftVersions": [
-        "1.21.*"
+        "26.3"
     ],
-    "primaryMinecraftVersion": "1.21.4",
+    "primaryMinecraftVersion": "26.3",
+    "primaryLanguage": "de",
+    "languages": [
+        "de",
+        "en"
+    ],
     "crossplay": false,
     "primaryRegion": "EU",
     "regions": [
         "EU"
     ],
+    "primaryGameType": "Roleplay",
     "gameTypes": [
-        "PvP",
+        "Roleplay",
+        "Minigames",
         "PvE",
-        "Minigames"
+        "PvP"
     ],
+    "presentationVideo": "Q8PpApu5O08",
     "socials": {
-        "discord": "https://discord.com/invite/ztPyTVWVKX"
+        "discord": "https://discord.gg/RandyMC",
+        "youtube": "@RandyMC-Network"
     },
     "compliance": {
-        "support": "https://support.randymc.de/",
-        "privacyPolicy": "https://www.randymc.de/help/privacy-policy",
-        "termsOfService": "https://www.randymc.de/help/terms/minecraft",
-        "rules": "https://randymc.de/rules/minecraft"
+        "support": "https://randymc.de/en/dashboard/tickets/new",
+        "privacyPolicy": "https://randymc.de/en/privacy",
+        "termsOfService": "https://randymc.de/en/terms",
+        "rules": "https://randymc.de/en/rules"
     }
 }
