@@ -1,0 +1,56 @@
+{
+    "id": "playbex",
+    "name": "Playbex",
+    "description": "You can't imagine what's coming next!",
+    "addresses": [
+        "playbex.net"
+    ],
+    "primaryAddress": "playbex.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#E8294C",
+    "secondaryColor": "#F5A623",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
+    "primaryRegion": "SA",
+    "regions": [
+        "SA",
+        "NA"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "HCF",
+        "Factions",
+        "Practice",
+        "PvP",
+        "PvE",
+        "MMORPG",
+        "Adventure",
+        "Survival"
+    ],
+    "primaryGameType": "Minigames",
+    "website": "https://playbex.net",
+    "store": "https://store.playbex.net",
+    "socials": {
+        "discord": "https://discord.gg/cBx5ejwzxG",
+        "instagram": "playbexnetwork",
+        "tiktok": "@playbexnetwork"
+    },
+    "crossplay": true
+}
