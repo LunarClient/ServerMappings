@@ -1,0 +1,38 @@
+{
+    "id": "freepvp",
+    "name": "FreePvP",
+    "description": "PvP & PvE Practice Server in 1.21.11+",
+    "addresses": [
+        "freepvp.eu"
+    ],
+    "primaryAddress": "freepvp.eu",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "26.3.*",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#ffffff",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvE",
+        "PvP",
+        "KitPvP",
+        "Practice"
+    ],
+    "primaryGameType": "PvE",
+    "store": "https://freepvp.craftingstore.net/",
+    "socials": {
+        "discord": "https://discord.gg/Q7xYyRnMQX",
+        "tiktok": "@freepvpeu"
+    }
+}
