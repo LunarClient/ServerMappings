@@ -52,5 +52,6 @@
         "instagram": "playbexnetwork",
         "tiktok": "@playbexnetwork"
     },
-    "crossplay": true
+    "crossplay": true,
+    "offline": true
 }
