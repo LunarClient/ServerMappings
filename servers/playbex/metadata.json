@@ -53,5 +53,8 @@
         "tiktok": "@playbexnetwork"
     },
     "crossplay": true,
-    "offline": true
+    "offline": true,
+    "compliance": {
+        "support": "https://playbex.net/soporte"
+    }
 }
