@@ -1,0 +1,70 @@
+{
+  "id": "3ullcraft",
+  "name": "3ullCraft Network",
+  "description": "Spanish-language SurvivalOP Minecraft network for players worldwide.",
+  "addresses": [
+    "3ullcraft.com"
+  ],
+  "primaryAddress": "mc.3ullcraft.com",
+  "minecraftVersions": [
+    "1.16.5",
+    "1.17.1",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#77FF19",
+  "secondaryColor": "#FFFFFF",
+  "primaryLanguage": "es-EN",
+  "languages": [
+    "es-EN"
+  ],
+  "regions": [
+    "AF",
+    "AS",
+    "EU",
+    "NA",
+    "OC",
+    "SA"
+  ],
+  "gameTypes": [
+    "Survival",
+    "PvP"
+  ],
+  "primaryGameType": "Survival",
+  "store": "https://3ullcraft.tebex.io/",
+  "socials": {
+    "youtube": "@3ullcraft",
+    "tiktok": "@3ullcraft",
+    "discord": "https://discord.com/invite/VbumAfcDSc"
+  },
+  "crossplay": true
+}
