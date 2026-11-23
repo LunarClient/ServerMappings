@@ -1,8 +1,7 @@
 {
     "id": "giraw",
     "name": "Giraw",
-    "store": "https://shop.giraw.de/",
-    "description": "Wir veranstalten aktiv Minecraft Events Turniere, Civilisation und vieles mehr.",
+    "description": "Active Minecraft events, tournaments, civilization and much more",
     "addresses": [
         "giraw.de"
     ],
@@ -13,14 +12,16 @@
         "26.3"
     ],
     "primaryMinecraftVersion": "26.3",
-    "primaryRegion": "NA",
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
+        "EU"
     ],
     "primaryGameType": "Minigames",
     "gameTypes": [
         "Survival",
         "Minigames",
         "PvP"
-    ]
+    ],
+    "crossplay": false,
+    "store": "https://shop.giraw.de/"
 }
