@@ -1,0 +1,26 @@
+{
+    "id": "giraw",
+    "name": "Giraw",
+    "store": "https://shop.giraw.de/",
+    "description": "Wir veranstalten aktiv Minecraft Events Turniere, Civilisation und vieles mehr.",
+    "addresses": [
+        "giraw.de"
+    ],
+    "primaryAddress": "giraw.de",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFE066",
+    "minecraftVersions": [
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryGameType": "Mini Games",
+    "gameTypes": [
+        "Survival",
+        "Mini Games",
+        "PvP"
+    ]
+}
