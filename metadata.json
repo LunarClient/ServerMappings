@@ -1,30 +1,35 @@
 {
-    "id": "royalnetwork",
-    "name": "Royal network",
-    "description": "Servidor de enfocado en captura la lana",
-    "website": "https://royal-network.tebex.store",
-    "store": "https://royal-network.tebex.store",
+    "id": "royalctw.club",
+    "name": "Royal Network",
+    "description": "Servidor enfocado en captura la lana",
     "addresses": [
         "royalctw.club"
     ],
-    "primaryAddress": "royalctw.club",
+    "primaryAddress": "play.royalctw.club",
     "minecraftVersions": [
-        "1.8.9"
-		"26.x"
+        "1.8.*",
+        "26.3.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#FFD700",
-    "secondaryColor": "#8B0000",
+    "primaryColor": "#ff0a0a",
+    "secondaryColor": "#00059e",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN"
+    ],
     "primaryRegion": "NA",
     "regions": [
         "NA"
     ],
     "gameTypes": [
-        "MINIGAMES"
+        "PvP",
+        "Survival",
+        "Minigames"
     ],
+    "primaryGameType": "PvP",
+    "store": "https://royal-network.tebex.store/",
     "socials": {
-        "discord": "https://discord.gg/gmNd63xrcd"
-    },
-    "offline": true,
-    "crossplay": false
+        "discord": "https://discord.gg/VFJvWNmdqx",
+        "tiktok": "@royalctw"
+    }
 }
