@@ -17,10 +17,10 @@
     "regions": [
         "NA"
     ],
-    "primaryGameType": "Mini Games",
+    "primaryGameType": "Minigames",
     "gameTypes": [
         "Survival",
-        "Mini Games",
+        "Minigames",
         "PvP"
     ]
 }
