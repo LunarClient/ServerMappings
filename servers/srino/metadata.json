@@ -1,0 +1,39 @@
+{
+    "id": "srino",
+    "name": "Srino",
+    "description": "German network with Citybuild, SMP, Box and Kits",
+    "addresses": [
+        "srino.net"
+    ],
+    "primaryAddress": "srino.net",
+    "minecraftVersions": [
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#29C3FF",
+    "secondaryColor": "#0A1228",
+    "primaryLanguage": "de",
+    "languages": [
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "BoxPvP",
+        "KitPvP",
+        "PvP"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://www.srino.net",
+    "socials": {
+        "discord": "https://discord.gg/srino",
+        "youtube": "@Srino",
+        "tiktok": "@srin0o0"
+    }
+}
