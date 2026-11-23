@@ -36,5 +36,10 @@
         "youtube": "@Srino",
         "tiktok": "@srin0o0"
     },
-    "crossplay": false
+    "crossplay": true,
+    "compliance": {
+        "privacyPolicy": "https://www.srino.net/datenschutz",
+        "termsOfService": "https://www.srino.net/nutzungsbedingungen",
+        "support": "https://www.srino.net/support"
+    }
 }
