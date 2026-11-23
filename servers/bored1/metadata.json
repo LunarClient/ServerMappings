@@ -1,0 +1,60 @@
+{
+    "id": "bored1",
+    "name": "bored1",
+    "description": "A Minecraft network featuring Survival and Money Events!",
+    "addresses": [
+        "bored1.net"
+    ],
+    "primaryAddress": "bored1.net",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*"
+    ],
+    "primaryMinecraftVersion": "26.2",
+    "primaryColor": "#00bfea",
+    "secondaryColor": "#172333",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS"
+    ],
+    "gameTypes": [
+        "Survival"
+    ],
+    "primaryGameType": "Survival",
+    "website": "https://bored1.net",
+    "store": "https://store.bored1.net",
+    "votingLinks": [
+        "https://minecraftservers.org/vote/689596"
+    ],
+    "compliance": {
+        "rules": "https://bored1.net/forum/topic/9-network-rules/"
+    },
+    "socials": {
+        "discord": "https://discord.gg/uvVCzX2hEM",
+        "youtube": "@Parisae",
+        "instagram": "parisaeig",
+        "tiktok": "@parisaeee"
+    },
+    "tebexStore": {
+        "background": {
+            "lowerColor": "#000000",
+            "upperColor": "#172333"
+        }
+    }
+}
