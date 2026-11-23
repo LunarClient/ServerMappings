@@ -41,5 +41,8 @@
         "privacyPolicy": "https://www.srino.net/datenschutz",
         "termsOfService": "https://www.srino.net/nutzungsbedingungen",
         "support": "https://www.srino.net/support"
-    }
+    },
+    "votingLinks": [
+        "https://minecraft-serverlist.net/server/57627"
+    ]
 }
