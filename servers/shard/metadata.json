@@ -1,0 +1,55 @@
+{
+    "id": "shard",
+    "name": "Shard",
+    "description": "Italian network with Lifesteal, Gangs and Sky-Prison. Java 1.8+ and Bedrock.",
+    "addresses": [
+        "shard.rip"
+    ],
+    "primaryAddress": "shard.rip",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.12.*",
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*",
+        "1.21.*",
+        "26.1.*",
+        "26.2.*",
+        "26.3.*"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#8117d4",
+    "secondaryColor": "#ce7df2",
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Lifesteal",
+        "Prison",
+        "KitPvP",
+        "PvP",
+        "Survival"
+    ],
+    "primaryGameType": "Lifesteal",
+    "website": "https://shard.rip",
+    "store": "https://shard.rip/store",
+    "compliance": {
+        "privacyPolicy": "https://shard.rip/privacy",
+        "termsOfService": "https://shard.rip/terms",
+        "rules": "https://shard.rip/regole",
+        "support": "https://shard.rip/account/ticket"
+    },
+    "socials": {
+        "discord": "https://discord.gg/shardrip"
+    },
+    "crossplay": true,
+    "offline": true
+}
