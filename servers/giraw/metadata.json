@@ -1,0 +1,27 @@
+{
+    "id": "giraw",
+    "name": "Giraw",
+    "description": "Active Minecraft events, tournaments, civilization and much more",
+    "addresses": [
+        "giraw.de"
+    ],
+    "primaryAddress": "giraw.de",
+    "primaryColor": "#FFAA00",
+    "secondaryColor": "#FFE066",
+    "minecraftVersions": [
+        "26.3"
+    ],
+    "primaryMinecraftVersion": "26.3",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryGameType": "Minigames",
+    "gameTypes": [
+        "Survival",
+        "Minigames",
+        "PvP"
+    ],
+    "crossplay": false,
+    "store": "https://giraw.tebex.store/"
+}
