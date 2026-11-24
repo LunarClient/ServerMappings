@@ -7,9 +7,9 @@
     ],
     "primaryAddress": "play.litness.gg",
     "minecraftVersions": [
-        "26.2.*"
+        "26.3.*"
     ],
-    "primaryMinecraftVersion": "26.2",
+    "primaryMinecraftVersion": "26.3",
     "primaryColor": "#A83E00",
     "secondaryColor": "#F3E3CC",
     "primaryLanguage": "en",
