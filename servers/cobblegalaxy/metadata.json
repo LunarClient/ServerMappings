@@ -1,0 +1,42 @@
+{
+    "id": "cobblegalaxy",
+    "name": "CobbleGalaxy",
+    "description": "Catch, battle, and trade Pokemon in Cobblemon on CobbleGalaxy.",
+    "addresses": [
+        "cobblegalaxy.com"
+    ],
+    "primaryAddress": "play.cobblegalaxy.com",
+    "minecraftVersions": [
+        "1.21.1"
+    ],
+    "primaryMinecraftVersion": "1.21.1",
+    "primaryColor": "#b01afd",
+    "secondaryColor": "#00ff1c",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Cobblemon",
+        "Modded"
+    ],
+    "primaryGameType": "Cobblemon",
+    "wiki": "https://cobblegalaxy-wiki.gitbook.io",
+    "store": "https://store.cobblegalaxy.com",
+    "compliance": {
+        "rules": "https://cobblegalaxy-wiki.gitbook.io/cobblegalaxy-wiki/starting-off/rules"
+    },
+    "modpack": {
+        "provider": "modrinth",
+        "id": "fUaleaXe",
+        "required": true
+    },
+    "socials": {
+        "discord": "https://discord.gg/CobbleGalaxy"
+    },
+    "crossplay": false
+}
