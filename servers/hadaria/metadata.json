@@ -11,7 +11,7 @@
         "hadaria.com"
     ],
     "primaryAddress": "play.hadaria.fr",
-    "offline": true,
+    "offline": false,
     "primaryColor": "#BA291E",
     "secondaryColor": "#F1CE4C",
     "minecraftVersions": [
