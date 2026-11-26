@@ -7,7 +7,8 @@
     ],
     "primaryAddress": "acquaticmc.it",
     "minecraftVersions": [
-        "26.3"
+        "1.21.11",
+        "26.3+"
     ],
     "primaryMinecraftVersion": "26.3",
     "primaryColor": "#36b7fb",
