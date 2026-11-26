@@ -1,0 +1,19 @@
+{
+  "id": "prisme",
+  "name": "Prisme",
+  "description": "Competitive 1.8 Practice and PvP Server",
+  "addresses": [
+    "prisme.club"
+  ],
+  "primaryAddress": "prisme.club",
+  "minecraftVersions": [
+    "1.8.*"
+  ],
+  "primaryMinecraftVersion": "1.8.9",
+  "primaryColor": "#55ffff",
+  "secondaryColor": "#ffffff",
+  "primaryLanguage": "fr",
+  "languages": [
+    "fr"
+  ]
+}
