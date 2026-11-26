@@ -2,7 +2,7 @@
     "id": "skallcraft",
     "name": "SkallCraft",
     "website": "https://www.skallcraft.com/",
-    "store": "https://store.skallcraft.com/",
+    "store": "https://tienda.skallcraft.com/",
     "description": "Competitive and friendly server.",
     "addresses": [
         "skallcraft.com"
@@ -37,6 +37,6 @@
     ],
     "socials": {
         "twitter": "SkallCraftNW",
-        "discord": "https://discord.gg/8wB7jHDJZs"
+        "discord": "https://discord.gg/a5jgVCdf9G"
     }
 }
