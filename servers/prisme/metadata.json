@@ -22,5 +22,7 @@
     "primaryGameType": "PvP",
     "crossplay": false,
     "store": "https://store.prisme.club",
-    "discord": "https://discord.gg/whF4SffDDw"
+    "socials": {
+        "discord": "https://discord.gg/prisme"
+    }
 }
