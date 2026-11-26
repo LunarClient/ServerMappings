@@ -1,0 +1,26 @@
+{
+  "id": "hokai",
+  "name": "Hokai.net",
+  "description": "Party games network with a rotation of fun minigames",
+  "addresses": ["hokai.net"],
+  "primaryAddress": "play.hokai.net",
+  "gameTypes": ["Minigames", "Casual"],
+  "primaryGameType": "Minigames",
+  "primaryColor": "#efbf04",
+  "secondaryColor": "#000000",
+  "minecraftVersions": ["1.21.4"],
+  "primaryMinecraftVersion": "1.21.4",
+  "languages": ["en", "de"],
+  "primaryLanguage": "en",
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+  "website": "https://www.hokai.net",
+  "store": "https://store.hokai.net",
+  "socials": {
+    "discord": "https://discord.gg/k4tzbqqcAT",
+    "youtube": "@hokainetwork",
+    "instagram": "hokainetwork",
+    "tiktok": "@hokai.net"
+  },
+  "crossplay": true
+}
