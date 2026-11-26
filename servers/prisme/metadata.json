@@ -1,0 +1,28 @@
+{
+    "id": "prisme",
+    "name": "Prisme",
+    "description": "Competitive 1.8 Practice and PvP Server",
+    "addresses": [
+        "prisme.club"
+    ],
+    "primaryAddress": "prisme.club",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#ff1c90",
+    "secondaryColor": "#ffffff",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "crossplay": false,
+    "store": "https://store.prisme.club",
+    "socials": {
+        "discord": "https://discord.gg/prisme"
+    }
+}
