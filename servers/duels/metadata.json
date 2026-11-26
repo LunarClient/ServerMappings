@@ -3,7 +3,7 @@
     "name": "Duels Network",
     "website": "https://www.duels.rip",
     "store": "https://store.duels.rip",
-    "description": "Home to Duels Custom Teams, a server focused on game modes ranging from 1.8.9 up to 23.x",
+    "description": "Home to Duels, a server focused on game modes ranging from 1.8.9 up to 23.x",
     "addresses": [
         "duels.rip"
     ],
@@ -13,7 +13,7 @@
     "minecraftVersions": [
         "1.7.*",
         "1.8.*",
-        "23.3"
+        "26.3"
     ],
     "primaryMinecraftVersion": "1.8.9",
     "primaryRegion": "SA",
