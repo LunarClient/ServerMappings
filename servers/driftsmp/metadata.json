@@ -3,7 +3,7 @@
     "name": "DriftSMP",
     "description": "Survival and LifeSteal network with a shared hub.",
     "addresses": [
-        "play.driftsmp.net"
+        "driftsmp.net"
     ],
     "primaryAddress": "play.driftsmp.net",
     "minecraftVersions": [
