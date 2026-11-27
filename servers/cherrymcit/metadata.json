@@ -1,0 +1,33 @@
+{
+  "id": "cherrymcit",
+  "name": "CherryMC",
+  "description": "Server minecraft italiano con molte modalità innovative",
+  "addresses": [
+    "play.cherrymc.it"
+  ],
+  "primaryAddress": "play.cherrymc.it",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#E455D6",
+  "secondaryColor": "#E73DD6",
+  "primaryLanguage": "it",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "SMP",
+    "Minigames"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/WGkZ84NeSq",
+    "website": "https://cherrymc.it"
+  }
+}
