@@ -1,9 +1,9 @@
 {
   "id": "cherrymcit",
   "name": "CherryMC",
-  "description": "Server minecraft italiano con molte modalità innovative",
+  "description": "Italian Minecraft server featuring SMP and innovative minigames.",
   "addresses": [
-    "play.cherrymc.it"
+    "cherrymc.it"
   ],
   "primaryAddress": "play.cherrymc.it",
   "minecraftVersions": [
