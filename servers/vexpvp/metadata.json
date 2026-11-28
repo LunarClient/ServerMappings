@@ -1,30 +1,32 @@
 {
     "id": "vexpvp",
     "name": "VexPvP",
-    "store": "https://store.vexpvp.club",
-    "description": "Minecraft HCF & Practice",
+    "description": "Competitive Minecraft PvP with KitMap and Legacy Hardcore Factions.",
     "addresses": [
-        "vexpvp.club",
-        "vexpvp.lol"
+        "vexpvp.net"
     ],
-    "primaryAddress": "vexpvp.club",
-    "primaryColor": "#800080",
-    "secondaryColor": "#FFC0CB",
+    "primaryAddress": "vexpvp.net",
     "minecraftVersions": [
         "1.7.*",
         "1.8.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
+    "primaryColor": "#2564C6",
+    "secondaryColor": "#BFD3E8",
+    "gameTypes": [
+        "PvP",
+        "KitPvP",
+        "HCF"
+    ],
+    "primaryGameType": "PvP",
+    "store": "https://store.vexpvp.net",
+    "socials": {
+        "discord": "https://discord.gg/vexpvp",
+        "twitter": "vexpvpnet",
+        "telegram": "vexpvp"
+    },
     "primaryRegion": "NA",
     "regions": [
         "NA"
-    ],
-    "gameTypes": [
-        "PvP",
-        "HCF"
-    ],
-    "socials": {
-        "telegram": "vexpvp",
-        "discord": "https://discord.gg/vexpvp"
-    }
+    ]
 }
