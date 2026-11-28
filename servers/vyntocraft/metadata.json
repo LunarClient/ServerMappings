@@ -1,0 +1,21 @@
+{
+    "id": "vyntocraft",
+    "name": "VyntoCraft",
+    "description": "Survival OP with jobs, skills, crates and protections",
+    "primaryAddress": "vyntocraft.net",
+    "addresses": ["vyntocraft.net"],
+    "minecraftVersions": ["1.16.5", "1.17.*", "1.18.*", "1.19.*", "1.20.*", "1.21.*", "26.3"],
+    "primaryMinecraftVersion": "26.3",
+    "primaryColor": "#9B5DE5",
+    "secondaryColor": "#00BBF9",
+    "primaryRegion": "SA",
+    "regions": ["SA"],
+    "gameTypes": ["Survival"],
+    "primaryGameType": "Survival",
+    "crossplay": true,
+    "offline": true,
+    "website": "https://web.vyntocraft.net",
+    "socials": {
+        "discord": "https://discord.com/invite/JeFvyUQzYu"
+    }
+}
