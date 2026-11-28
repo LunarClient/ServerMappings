@@ -1,0 +1,35 @@
+{
+    "id": "styx",
+    "name": "Styx",
+    "description": "French Skyblock server with custom menus, mines and machines",
+    "addresses": [
+        "styxmc.be"
+    ],
+    "primaryAddress": "play.styxmc.be",
+    "primaryColor": "#3FE0E6",
+    "secondaryColor": "#1A1C2B",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "primaryLanguage": "fr",
+    "languages": [
+        "fr"
+    ],
+    "primaryGameType": "Skyblock",
+    "gameTypes": [
+        "Skyblock",
+        "Survival",
+        "PvE"
+    ],
+    "website": "https://styxmc.be/",
+    "store": "https://styxmc.be/boutique",
+    "socials": {
+        "discord": "https://discord.gg/styxmc"
+    },
+    "crossplay": false
+}
