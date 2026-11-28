@@ -1,0 +1,35 @@
+{
+  "id": "cherrymcit",
+  "name": "CherryMC",
+  "description": "Italian Minecraft server featuring Survival and innovative minigames.",
+  "addresses": [
+    "cherrymc.it"
+  ],
+  "primaryAddress": "play.cherrymc.it",
+  "minecraftVersions": [
+    "1.21.*",
+    "26.1.*",
+    "26.2.*",
+    "26.3.*"
+  ],
+  "primaryMinecraftVersion": "1.21.11",
+  "primaryColor": "#E455D6",
+  "secondaryColor": "#E73DD6",
+  "primaryLanguage": "it",
+  "languages": [
+    "it",
+    "en"
+  ],
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "gameTypes": [
+    "Survival",
+    "Minigames"
+  ],
+  "website": "https://cherrymc.it",
+  "socials": {
+    "discord": "https://discord.gg/WGkZ84NeSq"
+  }
+}
