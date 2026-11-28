@@ -1,0 +1,48 @@
+{
+    "id": "play.orbsmp.it",
+    "name": "Orbsmp",
+    "description": "The best smp on all italy PVP, Mace, Crystal pvp and more",
+    "addresses": [
+        "orbsmp.it"
+    ],
+    "primaryAddress": "play.orbsmp.it",
+    "minecraftVersions": [
+        "26.1.*",
+        "26.2.*",
+        "26.3.*",
+        "1.21.11"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#ffea00",
+    "secondaryColor": "#ad6500",
+    "primaryLanguage": "it",
+    "languages": [
+        "it",
+        "en",
+        "de"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://orbsmp.it",
+    "wiki": "https://orbsmp.it/wiki",
+    "store": "https://orbsmp.it/shop",
+    "votingLinks": [
+        "https://minecraft-italia.net/lista/server/orbsmp1795033810543/"
+    ],
+    "compliance": {
+        "privacyPolicy": "https://orbsmp.it/privacy",
+        "termsOfService": "https://orbsmp.it/termini",
+        "rules": "https://orbsmp.it/regole",
+        "support": "https://orbsmp.it/supporto"
+    },
+    "socials": {
+        "discord": "https://discord.gg/NyRvCyxSFY",
+        "instagram": "orb_smp"
+    }
+}
